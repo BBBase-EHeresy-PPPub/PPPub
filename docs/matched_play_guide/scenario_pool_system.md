@@ -67,10 +67,9 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 TO THE DEATH!
 
-
 ### POOL 5 
 
-**MANOEUVRING SCENARIOS **
+**MANOEUVRING SCENARIOS**
 
 1-2 STORM THE CAMP
 

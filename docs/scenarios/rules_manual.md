@@ -35,7 +35,7 @@ Victory Points are scored for the following:
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count) or if you kill the enemy leader.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
 
-![](../media/scenarios/scenario_domination.jpg)
+![](../media/scenarios/rules_manual/scenario_domination.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Victory Points are scored for the following:
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
-![](../media/scenarios/scenario_to_the_death!.jpg)
+![](../media/scenarios/rules_manual/scenario_to_the_death!.jpg)
 
 ---
 
@@ -132,7 +132,7 @@ Maelstrom of Battle: At the end of your Move phase, roll a D6 for each of your w
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/scenario_hold_ground.jpg)
+![](../media/scenarios/rules_manual/scenario_hold_ground.jpg)
 
 ---
 
@@ -178,7 +178,7 @@ Victory Points are scored for the following:
 
 **A Time of Heroes**: Each time your force kills an enemy **Hero** in a Fight, one of your **Hero** models in the same Fight (your choice) regains a point of Might lost earlier in the battle.
 
-![](../media/scenarios/scenario_lords_of_battle.jpg)
+![](../media/scenarios/rules_manual/scenario_lords_of_battle.jpg)
 
 ---
 
@@ -232,7 +232,7 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 
 ***Designer's Note:*** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.
 
-![](../media/scenarios/scenario_reconnoitre.jpg)
+![](../media/scenarios/rules_manual/scenario_reconnoitre.jpg)
 
 ---
 
@@ -277,7 +277,7 @@ Victory Points are scored for the following:
 
 **The Dark of Night:** Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. **Siege Engine** models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.
 
-![](../media/scenarios/scenario_a_clash_by_moonlight.jpg)
+![](../media/scenarios/rules_manual/scenario_a_clash_by_moonlight.jpg)
 
 ---
 
@@ -323,7 +323,7 @@ Victory Points are scored for the following:
 
 Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object ([see page 109]). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
 
-![](../media/scenarios/scenario_seize_the_prize.jpg)
+![](../media/scenarios/rules_manual/scenario_seize_the_prize.jpg)
 
 ---
 
@@ -367,7 +367,7 @@ Victory Points are scored for the following:
 
 The Last Stand: Each time either leader kills a Hero or a multi-Wound model, they immediately regain a point of Might spent earlier in the battle.
 
-![](../media/scenarios/scenario_contest_of_champions.jpg)
+![](../media/scenarios/rules_manual/scenario_contest_of_champions.jpg)
 
 ---
 
@@ -417,7 +417,7 @@ Victory Points are scored for the following:
 
 **Controlling Objectives:** At the start of the game, all of the objectives are considered to be neutral and do not belong to either side. If, during the End phase of any turn, one or more of your models are in base contact with an objective, then that objective comes under your control. If, during the End phase both sides have models in base contact with an objective, then that objective returns to being a neutral objective.
 
-![](../media/scenarios/scenario_capture_and_control.jpg)
+![](../media/scenarios/rules_manual/scenario_capture_and_control.jpg)
 
 ---
 
@@ -473,7 +473,7 @@ Victory Points are scored for the following:
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/scenario_heirloom_of_ages_past.jpg)
+![](../media/scenarios/rules_manual/scenario_heirloom_of_ages_past.jpg)
 
 ---
 
@@ -518,7 +518,7 @@ Victory Points are scored for the following:
 
 ***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
-![](../media/scenarios/scenario_fog_of_war.jpg)
+![](../media/scenarios/rules_manual/scenario_fog_of_war.jpg)
 
 ---
 
@@ -564,4 +564,4 @@ Victory Points are scored for the following:
 
 Models that are within their own campsite will defend it at all costs. Any model that is within its own campsite at the start of a turn will automatically pass any Courage tests it is required to make for the remainder of that turn.
 
-![](../media/scenarios/scenario_storm_the_camp.jpg)
+![](../media/scenarios/rules_manual/scenario_storm_the_camp.jpg)

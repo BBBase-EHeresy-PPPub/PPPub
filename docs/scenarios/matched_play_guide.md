@@ -35,7 +35,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count) or if you kill the enemy leader.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
 
-![](../media/scenarios/scenario_domination_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_domination_matched.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
-![](../media/scenarios/scenario_to_the_death!_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_to_the_death!_matched.jpg)
 
 ---
 
@@ -137,7 +137,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/scenario_hold_ground_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_hold_ground_matched.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 **A Time of Heroes:** Each time your force kills an enemy Hero in a Fight, one of your Hero models in the same Fight (your choice) regains a point of Might lost earlier in the battle.
 
-![](../media/scenarios/scenario_lords_of_battle_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_lords_of_battle_matched.jpg)
 
 ---
 
@@ -243,7 +243,7 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
  
 ***Designer's Note:** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
-![](../media/scenarios/scenario_reconnoitre_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_reconnoitre_matched.jpg)
 
 ---
 
@@ -290,7 +290,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 The Dark of Night: Due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engine models may still target enemy models more than 12" away — however in this situation they will only ever hit on the roll of a 6.
 
-![](../media/scenarios/scenario_a_clash_by_moonlight_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_a_clash_by_moonlight_matched.jpg)
 
 ---
 
@@ -339,7 +339,7 @@ The game lasts until either a model carrying the artefact carries it off the boa
 
 Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
 
-![](../media/scenarios/scenario_seize_the_prize_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_seize_the_prize_matched.jpg)
 
 ---
 
@@ -396,7 +396,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **The Last Stand:** Each time either leader kills a **Hero** or a multi-Wound model, they immediately regain a point of Might spent earlier in the battle.
 
-![](../media/scenarios/scenario_contest_of_champions_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_contest_of_champions_matched.jpg)
 
 ---
 
@@ -451,7 +451,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 When this has been done, the opposing player chooses one of their warbands and rolls to place it as described above. Players alternate until all warbands have been placed.
 
-![](../media/scenarios/scenario_capture_and_control_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_capture_and_control_matched.jpg)
 
 ---
 
@@ -511,7 +511,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/scenario_heirloom_of_ages_past_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_heirloom_of_ages_past_matched.jpg)
 
 ---
 
@@ -559,7 +559,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 ***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
-![](../media/scenarios/scenario_fog_of_war_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_fog_of_war_matched.jpg)
 
 ---
 
@@ -608,7 +608,7 @@ campsite.
 
 Models that are within their own campsite will defend it at all costs. Any model that is within its own campsite at the start of a turn will automatically pass any Courage tests it is required to make for the remainder of that turn.
 
-![](../media/scenarios/scenario_storm_the_camp_matched.jpg)
+![](../media/scenarios/matched_play_guide/scenario_storm_the_camp_matched.jpg)
 
 ---
 
@@ -665,7 +665,7 @@ Models wholly within 12" of the centre of the battlefield do not count as being 
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/scenario_command_the_battlefield.jpg)
+![](../media/scenarios/matched_play_guide/scenario_command_the_battlefield.jpg)
 
 ---
 
@@ -718,7 +718,7 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 **The Relic:** Each relic is a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). A relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If a relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then a player must try to return it to its original position as quickly as possible. Until it has been picked up by an enemy model, friendly models may not pick up their own relic.
 
-![](../media/scenarios/scenario_retrieval.jpg)
+![](../media/scenarios/matched_play_guide/scenario_retrieval.jpg)
 
 ---
 
@@ -765,7 +765,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
 
-![](../media/scenarios/scenario_breakthrough.jpg)
+![](../media/scenarios/matched_play_guide/scenario_breakthrough.jpg)
 
 ---
 
@@ -816,7 +816,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the Paralyse, Immobilise or Transfix Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
 
-![](../media/scenarios/scenario_destroy_the_supplies.jpg)
+![](../media/scenarios/matched_play_guide/scenario_destroy_the_supplies.jpg)
 
 ---
 
@@ -865,7 +865,7 @@ Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not co
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game.
 
-![](../media/scenarios/scenario_divide_and_conquer.jpg)
+![](../media/scenarios/matched_play_guide/scenario_divide_and_conquer.jpg)
 
 ---
 
@@ -917,7 +917,7 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 **The Assassin:** At the start of the game, secretly note down one of your Hero models; this is your assassin. This may not be your leader unless you only have one Hero.
 
-![](../media/scenarios/scenario_assassination.jpg)
+![](../media/scenarios/matched_play_guide/scenario_assassination.jpg)
 
 ---
 
@@ -959,7 +959,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **2 Victory Points** if you kill the leader of the Secondary Force.
 
-![](../media/scenarios/double_event_scenario_no_escape.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_no_escape.jpg)
 
 ---
 
@@ -1015,7 +1015,7 @@ Broken.
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 | 6 | You choose a point on any board edge at least 6" from a corner — all models in the warband move onto the battlefield from this point. |
 
-![](../media/scenarios/double_event_scenario_total_conquest.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_total_conquest.jpg)
 
 ---
 
@@ -1065,7 +1065,7 @@ magic.
 
 Models within 6" of the Objective marker gain the Resistant to Magic special rule, and may re-roll failed Fate rolls.
 
-![](../media/scenarios/double_event_scenario_take_and_hold.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_take_and_hold.jpg)
 
 ---
 
@@ -1115,7 +1115,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 Keep a record of how many kills the leaders of both forces have killed in combat individually. For each army, whichever of the two leaders has the least kills out of the two in combat gains a bonus of +1 To Wound during a Fight. This bonus ends immediately as soon as they have drawn equal to or overtaken their
 ally.
 
-![](../media/scenarios/double_event_scenario_clash_of_champions.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_clash_of_champions.jpg)
 
 ---
 
@@ -1161,7 +1161,7 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
-![](../media/scenarios/double_event_scenario_cornered.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_cornered.jpg)
 
 ---
 
@@ -1207,4 +1207,4 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 
 * You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
-![](../media/scenarios/double_event_scenario_duel_of_wits.jpg)
+![](../media/scenarios/matched_play_guide/double_event_scenario_duel_of_wits.jpg)

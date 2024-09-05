@@ -50,7 +50,7 @@ If both factions control the same number of regions then the campaign is a draw.
 
 Each of the Regions that can be fought over has its own special rules that apply whilst fighting in that Region, and its own Campaign Bonus that whoever controls that Region will benefit from for the remainder of the campaign.
 
-#### ERIADOR
+### ERIADOR
 
 *The Elvish name for the lands in between the Misty Mountains to the west and the Blue Mountains to the east, also known as the Lone-lands. It is here that the likes of Rivendell, Arnor and the Shire can be found.*
 
@@ -60,7 +60,9 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Campaign Bonus:** If your faction controls Eriador, then **Hero** models in your army may re-roll results of a 1 when making Fate rolls.
 
-#### ROHAN
+---
+
+### ROHAN
 
 *Originally the Gondorian province of Calenardhon, Rohan was gifted to the Horse-lords by the steward Cirion in the year 2510 of the Third Age. Ever since then, the Rohirrim have ever been the allies of Gondor.*
 
@@ -70,7 +72,9 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Campaign Bonus:** If your faction controls Rohan, then whenever a mount in your army suffers a Wound, roll a D6. On a 5+ that wound is ignored exactly as if a point of Fate had been spent.
 
-#### RHOVANION
+---
+
+### RHOVANION
 
 *The wide lands between the Misty Mountains in the west, and the River Celduin in the east. They contain many great kingdoms and settlements such as Mirkwood, Lothlórien, Erebor, and Dale.*
 
@@ -80,7 +84,9 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Campaign Bonus:** If your faction controls Rhovanion, your leader gains the Fearless special rule.
 
-#### MORDOR
+---
+
+### MORDOR
 
 *The black lands of Sauron; Mordor is a region of evil and darkness. Surrounded by the Ash Mountains to the north and the Mountains of Shadow to the west and south, Mordor has been the dwelling place of Sauron since the Second Age.*
 
@@ -90,7 +96,9 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Campaign Bonus:** If your faction controls Mordor, then Hero models in your army gain the Terror special rule.
 
-#### HARADWAITH
+---
+
+### HARADWAITH
 
 *To the south of Gondor and Mordor lies the vast desert region of Haradwaith. These arid and desolate lands play home to the hardy and ruthless 'south-folk' who have ever sought to wage war on the lands of Gondor to their north.*
 
@@ -100,12 +108,14 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Campaign Bonus:** If your faction controls Haradwaith then Hero models in your army gain the Poisoned Weapons special rule for all of their weapons.
 
-#### GONDOR
+---
+
+### GONDOR
 
 *The southern kingdom of Men formed by the high king Elendil upon his arrival in Middle-earth, Gondor is a great realm that has ever been a bastion against the Evil of Mordor to the east; protecting the free lands against Sauron's forces.*
 
 **SPECIAL RULE**
 
-**City of NÃºmenor:** Whilst fighting a battle in Gondor, all models add 1 to their Courage value.
+**City of Númenor:** Whilst fighting a battle in Gondor, all models add 1 to their Courage value.
 
 **Campaign Bonus:** If your faction controls Gondor then the range of banners in your army is increased to 6".

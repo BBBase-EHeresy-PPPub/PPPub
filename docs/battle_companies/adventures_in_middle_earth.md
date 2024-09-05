@@ -1,6 +1,6 @@
 ﻿Middle-earth is packed full of exciting and varied terrain that battles are fought across. From lush and vibrant forests to the ruined Dwarven kingdoms of old to humble fishing settlements, a Battle Company can be forced to engage in a skirmish in almost any place — and must be ready to take up their weapons at a moment's notice.
 
-Over the next few pages we will present a series of rules for fighting your battles in a variety of different locations in Middle- earth. Some of these represent specific places, such as Lake-town or Goblin-town, whilst many could represent a multitude of places across Middle-earth. For example, forests could be used to represent Mirkwood, Fangorn and many more.
+Over the next few pages we will present a series of rules for fighting your battles in a variety of different locations in Middle-earth. Some of these represent specific places, such as Lake-town or Goblin-town, whilst many could represent a multitude of places across Middle-earth. For example, forests could be used to represent Mirkwood, Fangorn and many more.
 
 The rules provided here are by no means exhaustive, but some of them can be applied to various Scenarios during the Narrative Campaign found on **page 92**. If you want to create your own rules for fighting battles in other locations, feel free to try your hand at it. Creating your own rules for other locations can provide a very personal feel to your games of Battle Companies, and can make every game feel unique.
 

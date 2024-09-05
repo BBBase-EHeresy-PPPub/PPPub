@@ -46,7 +46,7 @@ Girion, Lord of Dale; 2 Captains of Dale;
 
 Smaug.
 
-![](../media/scenarios/destruction_of_dale.jpg)
+![](../media/scenarios/armies_of_the_hobbit/destruction_of_dale.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin t
 
 Azog; The Keeper of the Dungeons; 3 Gundabad Orc Captains; 48 Gundabad Orcs.
 
-![](../media/scenarios/battle_of_azanulbizar.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_of_azanulbizar.jpg)
 
 ---
 
@@ -146,7 +146,7 @@ Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin th
 
 Bill the Troll; Bert the Troll; Tom the Troll.
 
-![](../media/scenarios/roast_mutton.jpg)
+![](../media/scenarios/armies_of_the_hobbit/roast_mutton.jpg)
 
 ---
 
@@ -190,7 +190,7 @@ Elrond with heavy armour and horse; 12 Rivendell Knights with shield.
 
 Yazneg on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
 
-![](../media/scenarios/hunting_party.jpg)
+![](../media/scenarios/armies_of_the_hobbit/hunting_party.jpg)
 
 ---
 
@@ -246,7 +246,7 @@ Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwar
 
 The Goblin King; Grinnah; The Goblin Scribe; Goblin Captain; 36 Goblin Warriors.
 
-![](../media/scenarios/escape_from_goblin-town.jpg)
+![](../media/scenarios/armies_of_the_hobbit/escape_from_goblin-town.jpg)
 
 ---
 
@@ -300,7 +300,7 @@ Thorin Oakenshield with Orcrist and Oakenshield; Bilbo Baggins with Sting; Gwaih
 
 Azog on White Warg; Fimbul the Hunter on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
 
-![](../media/scenarios/out_of_the_frying_pan_and_into_the_fire.jpg)
+![](../media/scenarios/armies_of_the_hobbit/out_of_the_frying_pan_and_into_the_fire.jpg)
 
 ---
 
@@ -350,7 +350,7 @@ Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwar
 
 10 Mirkwood Spiders.
 
-![](../media/scenarios/flies_and_spiders.jpg)
+![](../media/scenarios/armies_of_the_hobbit/flies_and_spiders.jpg)
 
 ---
 
@@ -408,7 +408,7 @@ Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; F�
 
 Smaug.
 
-![](../media/scenarios/fire_and_water.jpg)
+![](../media/scenarios/armies_of_the_hobbit/fire_and_water.jpg)
 
 ---
 
@@ -472,7 +472,7 @@ Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, La
 
 The Necromancer; All 9 Nazgûl of Dol Guldur and the Keeper of the Dungeons.
 
-![](../media/scenarios/the_fall_of_the_necromancer.jpg)
+![](../media/scenarios/armies_of_the_hobbit/the_fall_of_the_necromancer.jpg)
 
 ---
 
@@ -546,7 +546,7 @@ Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
 
 Azog with heavy armour, stone flail and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
-![](../media/scenarios/battle_of_the_five_armies.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_of_the_five_armies.jpg)
 
 ---
 
@@ -597,4 +597,4 @@ Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militi
 
 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
 
-![](../media/scenarios/battle_for_dale.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_for_dale.jpg)

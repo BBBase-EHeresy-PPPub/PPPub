@@ -48,7 +48,7 @@ Elendil, High King of Gondor and Amor; Isildur; Gil-galad, High King of the Elve
 
 The Dark Lord Sauron; 4 Orc Captains with shield; 2 Mordor Trolls; 72 Mordor Orcs: 24 with shield, 24 with spear, 12 with two-handed weapon, 12 with Orc bow.
 
-![](../media/scenarios/the_last_alliance.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_last_alliance.jpg)
 
 ---
 
@@ -97,7 +97,7 @@ All Dwarf Hero models may re-roll any failed To Wound rolls.
 
 The Balrog; Moria Goblin Captain with shield; Moria Goblin Shaman; Moria Blackshield Captain; 12 Moria Blackshields; 12 Moria Goblin Prowlers; 36 Moria Goblins: 12 with shield, 12 with spear, 12 with Orc bow; Moria Goblin Drum; 3 Cave Trolls.
 
-![](../media/scenarios/the_fall_of_khazad-dum.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_khazad-dum.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Arvedui, Last King of Arnor; Malbeth the Seer; Captain of Arnor; 24 Warriors of 
 
 Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 2 Cave Trolls.
 
-![](../media/scenarios/the_fall_of_arnor.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_arnor.jpg)
 
 ---
 
@@ -201,7 +201,7 @@ Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; 
 
 Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with shield, 8 with Uruk-hai bow.
 
-![](../media/scenarios/ambush_at_amon_hen.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_amon_hen.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger
 
 2 War Mumakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
 
-![](../media/scenarios/ambush_at_ithilien.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_ithilien.jpg)
 
 ---
 
@@ -305,7 +305,7 @@ Aragorn - Strider with armour; Legolas Greenleaf with armour; Gimli, son of Gloi
 
 3 Uruk-hai Captains with heavy armour & shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
-![](../media/scenarios/the_deeping_wall_is_breached.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_deeping_wall_is_breached.jpg)
 
 ---
 
@@ -355,7 +355,7 @@ Treebeard with Merry & Pippin; 5 Ents.
 
 4 Orc Captains with shield; 48 Orcs Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
 
-![](../media/scenarios/last_march_of_the_ents.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/last_march_of_the_ents.jpg)
 
 ---
 
@@ -403,7 +403,7 @@ All Rohan models must be mounted and may have armour and shields if they are abl
 
 3 Morannon Orc Captains with shield, 36 Morannon Orcs: 8 with shield, 8 with spear & shield.
 
-![](../media/scenarios/paths_of_the_druadan.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/paths_of_the_druadan.jpg)
 
 ---
 
@@ -451,7 +451,7 @@ The King of the Dead; 10 Warriors of the Dead; 6 Riders of the Dead.
 
 3 Corsair Captains; 3 Corsair Bo'suns; 24 Corsairs of Umbar: 8 with shield, 8 with spear, 8 with bow.
 
-![](../media/scenarios/the_black_ships.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_black_ships.jpg)
 
 ---
 
@@ -537,7 +537,7 @@ Amdur, Lord of Blades on horse; Easterling Captain with shield; Khandish King wi
 
 Suladan the Serpent Lord on Horse; The Golden King of Abrakhan; 2 War Mumakil of Harad with 12 Harad Warrior crew; War Mumak of Far Harad with 12 Mahud Warrior crew; 6 Serpent Riders; 12 Harad Raiders; 12 Abrakhan Merchant Guard.
 
-![](../media/scenarios/battle_of_pelennor_fields.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/battle_of_pelennor_fields.jpg)
 
 ---
 
@@ -589,4 +589,4 @@ Frodo of the Nine Fingers on pony; Samwise the Brave on pony; Meriadoc, Captain 
 
 Sharkey & Worm; 24 Ruffians.
 
-![](../media/scenarios/the_battle_of_bywater.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_battle_of_bywater.jpg)

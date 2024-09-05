@@ -168,6 +168,14 @@ nav:
       - Uglúk's Scouts: 'legendary_legions/ugluks_scouts.md'
       - The Vanquishers of the Necromancer: 'legendary_legions/the_vanquishers_of_the_necromancer.md'
       - Wolves of Isengard: 'legendary_legions/wolves_of_isengard.md'
+  - Campaigns: 
+      - Campaigns: 'campaigns/index.md'
+      - Gondor at War: 'campaigns/gondor_at_war.md'
+      - Scouring of the Shire: 'campaigns/scouring_of_the_shire.md'
+      - War in Rohan: 'campaigns/war_in_rohan.md'
+      - Quest of the Ringbearer: 'campaigns/quest_of_the_ringbearer.md'
+      - Fall of the Necromancer: 'campaigns/fall_of_the_necromancer.md'
+      - Defence of the North: 'campaigns/defence_of_the_north.md'
   - Scenarios: 
       - Rules Manual: 'scenarios/rules_manual.md'
       - Matched Play Guide: 'scenarios/matched_play_guide.md'
