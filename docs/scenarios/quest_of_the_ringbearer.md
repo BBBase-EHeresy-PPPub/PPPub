@@ -2,16 +2,12 @@
 [[]{#bookmark9
 .anchor}**Scenarios**
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image9.jpeg){width="5.888888888888889in"
-height="8.130555555555556in"}
 
-[]{#bookmark11 .anchor}FARMER MAGGOT'S
+## FARMER MAGGOT'S
 CROP
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image10.jpeg){width="5.166666666666667in"
-height="3.3965277777777776in"}
 
-F] [armer Maggot is a
+Farmer Maggot is a
 well-respected member of the Shire community; a stubborn and practical fellow who devotes his time to the crops that he grows rather than to the other goings-on in the Shire. It is said that Maggot's crops are the best in all the four Farthings. His carrots are without peer, his cabbages tastier than any others, but it is his mushrooms that are the pride of Maggot's crop; envied across the Shire, especially as all Hobbits are rather fond of mushrooms.
 
 As a direct result of having the best crops, Maggot's farm is often
@@ -31,8 +27,6 @@ decide to try to gather some extra provisions for themselves, however, should Ma
 will no doubt race out to protect his
 crop.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image11.jpeg){width="2.5069444444444446in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -105,10 +99,10 @@ to. The first Hobbit to get three Plunder Tokens to their Stash Marker
 wins. If all the Hobbits flee before this can happen then Farmer Maggot
 wins.
 
-[]{#bookmark15 .anchor}SHORT CUTS MAKE LONG
+## SHORT CUTS MAKE LONG
 DELAYS
 
-F] [rodo and his
+Frodo and his
 companions have departed the
 Shire;
 
@@ -128,16 +122,6 @@ Yet even as night begins to fall, the Hobbits begin to feel fear once
 more seeping in. They cannot shake the feeling of dread that the mysterious riders in black are not far away and constantly a threat to
 them.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image12.jpeg){width="5.179861111111111in"
-height="3.4in"}In truth, the riders in black are far closer than Frodo
-and his companions realise, constantly stalking the paths of the forest in their search for
-the one who carries the Ring. Should the Nazgûls' search prove fruitful and
-they find the Baggins that carries their master's prize, they will not
-hesitate to kill him and take the Ring for
-Sauron.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image13.jpeg){width="2.4034722222222222in"
-height="2.4034722222222222in"}
 
 ***4'***
 
@@ -193,13 +177,11 @@ Fate.
 The Good player wins if Frodo escapes the board via the eastern board edge, or if all the Ringwraiths are slain. The Evil player wins if Frodo is
 slain.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image14.jpeg){width="5.709722222222222in"
-height="2.576388888888889in"}
 
-[]{#bookmark17 .anchor}BUCKLEBERRY
+## BUCKLEBERRY
 FERRY
 
-H] [aving once evaded
+Having once evaded
 the Black Riders, and spent some time resting with Gildor and his Elves, the Hobbits find themselves back on their journey towards Crickhollow. Once more heeding Gandalf's words to stay off the road, the Hobbits are travelling through the densely wooded areas of Buckland just in case any more of these mysterious riders in black may yet be tracking
 them.
 
@@ -217,11 +199,7 @@ reach it the Hobbits will have to use every ounce of stealth, and no small
 amount of luck, to make it to the ferry
 undetected.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image15.jpeg){width="5.179861111111111in"
-height="3.5236111111111112in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image16.jpeg){width="2.5131944444444443in"
-height="2.5097222222222224in"}
 
 SPECIAL RULES
 
@@ -277,13 +255,11 @@ Took.
 Evil: 3 Ringwraiths with no additional Might, Will or
 Fate.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image17.jpeg){width="5.886805555555555in"
-height="2.2930555555555556in"}
 
-[]{#bookmark20 .anchor}THE OLD
+## THE OLD
 FOREST
 
-H] [aving evaded the
+Having evaded the
 Black Riders for the time being, the Hobbits have reached Frodo's new home
 of
 
@@ -299,14 +275,6 @@ alive. Regardless of what actually may be true, the Old Forest is a scary place
 to walk, and no Hobbit would go there if they did not have
 to.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image18.jpeg){width="5.5368055555555555in"
-height="3.879861111111111in"}Yet the Hobbits push on anyway, for surely
-whatever terrors the forest may hold cannot be worse than another encounter with the Black Riders. As they go deeper into the forest, the Hobbits get an uneasy feeling about
-their surroundings, and soon have become lost in the shrouded gloom. Unsure of the way to go, the Hobbits can hear the sounds of snapping twigs and creaking boughs, and begin to realise that some of the old stories may
-have more truth than they ever imagined... 
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image19.jpeg){width="2.5034722222222223in"
-height="2.5069444444444446in"}
 
 LAYOUT
 
@@ -359,13 +327,11 @@ trees.
 The Good player wins if all four Hobbits can escape the board via the eastern board edge in the same turn. The Evil player wins if at the end of any turn all four of the Hobbits are
 unconscious.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image20.jpeg){width="5.279861111111111in"
-height="3.046527777777778in"}
 
-[]{#bookmark23 .anchor}FOG ON THE
+## FOG ON THE
 BARROW-DOWNS
 
-F] [ollowing their
+Following their
 ordeal within the Old Forest, the Hobbits have been rescued by the jolly Tom
 Bombadil.
 
@@ -383,17 +349,6 @@ Barrow-wights have come forth from their barrows to claim a sacrifice in order t
 perform an ancient ritual, and the Hobbits who are completely unaware of their spectral presence are seemingly easy
 targets.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image21.jpeg){width="5.176388888888889in"
-height="3.4in"}Lost within the fog that has descended upon the
-Barrow-downs, the Hobbits must try to find their way through the fog for safety. If Frodo
-and his companions quickly realise the danger they are in, they will need to
-call to Tom Bombadil and Goldberry for help once more, yet should they
-realise too late the severity of the peril they are in, they may well soon rest
-with the spirits of the dead within the
-barrows.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image22.jpeg){width="2.5034722222222223in"
-height="2.4034722222222222in"}
 
 LAYOUT
 
@@ -453,10 +408,10 @@ Goldberry.
 Evil: 4
 Barrow-wights.
 
-[]{#bookmark26 .anchor}NAZGÛL IN
+## NAZGÛL IN
 BREE
 
-H] [aving made their
+Having made their
 way out of the Old Forest, the Hobbits find themselves at the gates to the village of Bree where they are questioned by the aging gatekeeper, Harry Goatleaf. Convincing Harry to let them pass, Frodo and his companions make straight for the inn at the Prancing Pony where Gandalf has said he will be waiting for them.
 
 However, upon entering the inn and talking to the kindly landlord, Barliman Butterbur, the Hobbits discover that Gandalf is not there and they have no idea what to do next. Deciding to rest, eat and sample
@@ -468,12 +423,6 @@ eyes of the other guests.
 Such an act caused much discussion among the residents of Bree, but none was more drawn to Frodo's accident than the strange hooded figure that had been sitting in the corner of the inn watching the Hobbits. Fortunately, the Ranger revealed himself to be a friend of Gandalf, something backed up by a letter left at the Prancing Pony for
 Frodo.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image23.jpeg){width="5.166666666666667in"
-height="3.5236111111111112in"}However, this mysterious Ranger, going by
-the name of Strider, is more than he seems at first. Strider is aware of the dread truth of what now stalks Frodo and his companions, and that the Hobbits are not nearly as frightened as perhaps they should be. If Frodo is to avoid the clutches of the Ringwraiths, he must trust in Strider who himself must get the Hobbits out of Bree before the Nazgûl can find them. 
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image24.jpeg){width="2.5in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -540,7 +489,7 @@ Fate.
 []{#bookmark29
 .anchor}WEATHERTOP
 
-A] [fter fleeing the
+After fleeing the
 Black Riders in Bree, the Hobbits have had to put their faith in the mysterious traveller known as Strider who aided their escape. With Gandalf not having been at the Prancing Pony, the Hobbits must now follow Strider to Rivendell in order to keep the Ring safe and prevent the Black Riders from finding them and reclaiming the Ring for the Dark
 Lord.
 
@@ -555,14 +504,6 @@ tomatoes, sausages and some nice crispy bacon as a means to fill them up and
 prevent their stomachs from constantly
 rumbling.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image25.jpeg){width="5.5368055555555555in"
-height="3.7569444444444446in"}However, their innocent endeavour has had
-some dire consequences and has given away their location to the pursuing Ringwraiths, who now head straight towards the ruins of the watchtower of Amon Sûl. Huddled together within the centre of Weathertop, the terrified Hobbits are
-faced with the shrouded figures of the Nazgûl, and the terrible fate that
-awaits them if Strider cannot reach them in time... 
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image26.jpeg){width="2.5034722222222223in"
-height="2.5069444444444446in"}
 
 LAYOUT
 
@@ -622,25 +563,17 @@ Fate.
 The Evil side wins if Frodo is slain; the Good side wins if all of the Ringwraiths are slain before this can
 happen.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image27.jpeg){width="5.886805555555555in"
-height="2.4402777777777778in"}
 
-[]{#bookmark32 .anchor}FLIGHT TO THE
+## FLIGHT TO THE
 FORD
 
-H] [aving suffered a
+Having suffered a
 wound from a Morgul Blade at the hands of the Witch-king atop Amon Sûl, Frodo is slowly passing into the shadow world and turning into a wraith himself. In an attempt to save Frodo, Aragorn and the Hobbits search for the Athelas plant, a weed that could help slow the poison enough to get Frodo to Rivendell and the aid he needs.
 
 It is as he searches for the Athelas that Aragorn encounters Arwen,
 the daughter of Elrond of Rivendell who had been sent to search for the Hobbits. Seeing the danger that Frodo is in, and needing to get him quickly to her father, Arwen loads Frodo onto the back of her steed, Asfaloth, and makes haste for Rivendell. However, the Black Riders are still out in the wilderness and will hunt down the Ringbearer at all
 costs.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image28.jpeg){width="5.166666666666667in"
-height="3.3965277777777776in"}As she makes for Rivendell, Arwen becomes
-aware of the Nazgûl closing in upon her in their attempt to claim the Ring. Arwen must ride swiftly to evade the Ringwraiths and reach the River Bruinen; for once there the powers of her father can unleash the force of the river upon their pursuers, and allow Frodo to reach Rivendell and the Elvish medicine he desperately needs.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image29.jpeg){width="2.5034722222222223in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -700,10 +633,10 @@ Fate.
 Designer's Notes: If you wish you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the
 Hobbits.
 
-[]{#bookmark35 .anchor}THE PASS OF
+## THE PASS OF
 CARADHRAS
 
-H] [aving delivered
+Having delivered
 the Ring to Rivendell, and had time to rest and recover from the wound he suffered
 at
 
@@ -719,11 +652,7 @@ by members of all the free peoples, who have formed the Fellowship of the Ring a
 go with Frodo, though they know not the dangers that lie before
 them.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image30.jpeg){width="5.176388888888889in"
-height="3.1465277777777776in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image31.jpeg){width="2.540277777777778in"
-height="2.5069444444444446in"}
 
 SET-UP
 
@@ -745,8 +674,6 @@ EXTRA RULES
 At the end of each turn, the Evil player can play a card from their hand to bring down more of the mountain. The Evil player may choose a card in the playing area that matches the number they played, including picture cards, that has no models currently on it. That card is then buried and models cannot move over it. Cards in the eastern-most column cannot be chosen. Only one card per column may be buried in this
 manner.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image32.jpeg){width="5.7in"
-height="3.3833333333333333in"}
 
 Evil: None!
 
@@ -779,10 +706,10 @@ Glóin;
 Boromir of Gondor with
 shield.
 
-[]{#bookmark38 .anchor}WARGS IN THE
+## WARGS IN THE
 NIGHT
 
-T] [he pass of
+The pass of
 Caradhras has defeated the
 Fellowship;
 
@@ -800,11 +727,7 @@ will go through the Mines of Moria, and Gandalf begins to lead the
 Fellowship south towards the Dwarven
 gates.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image33.jpeg){width="5.176388888888889in"
-height="3.4in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image34.jpeg){width="2.5in"
-height="2.5034722222222223in"}
 
 SPECIAL RULES
 
@@ -861,13 +784,11 @@ Pony.
 Evil: Wild Warg Chieftain; 18 Wild
 Wargs.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image35.jpeg){width="3.0868055555555554in"
-height="1.6131944444444444in"}
 
-[]{#bookmark41 .anchor}THE GATES OF
+## THE GATES OF
 MORIA
 
-A] [fter surviving
+After surviving
 the attack from the Wargs, the Fellowship finally makes it to the walls of
 Moria.
 
@@ -882,12 +803,7 @@ As Gandalf speaks the Elvish word for friend, the doors creak open revealing the
 a long, slimy tentacle as the Watcher in the Water reveals
 itself.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image36.jpeg){width="3.7465277777777777in"
-height="0.5in"}(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image37.jpeg){width="5.166666666666667in"
-height="3.6465277777777776in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image38.jpeg){width="2.5097222222222224in"
-height="2.5131944444444443in"}
 
 LAYOUT
 
@@ -934,8 +850,6 @@ the
 Depths special
 rule.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image39.jpeg){width="5.886805555555555in"
-height="2.5236111111111112in"}
 
 The game lasts until one force achieves their objective. The Good player wins if at least five members of the Fellowship escape the board via the gates to Moria, including Frodo. The Evil player wins if five or more Good models are slain. Additionally, if Frodo is slain, the Evil player automatically
 wins.
@@ -965,10 +879,10 @@ Glóin;
 Boromir of Gondor with
 shield.
 
-[]{#bookmark44 .anchor}BALIN'S
+## BALIN'S
 TOMB
 
-D] [riven into the
+Driven into the
 mines by their close encounter with the Watcher in the Water, the Fellowship now only
 have
 
@@ -994,11 +908,7 @@ hope of finding his kin. However, all that is discovered is the tomb of Balin
 and the remains of a battle held within the tomb long
 ago.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image40.jpeg){width="5.190277777777778in"
-height="3.520138888888889in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image41.jpeg){width="2.5131944444444443in"
-height="2.5069444444444446in"}
 
 LAYOUT
 
@@ -1049,13 +959,11 @@ chain.
 
 The game lasts for 10 turns. The Good player wins if at least five members of the Fellowship, including Frodo, are still alive when the game ends. The Evil player wins if five or more Good models are slain. Additionally, if Frodo is slain, the Evil player automatically wins.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image42.jpeg){width="5.886805555555555in"
-height="2.7666666666666666in"}
 
-[]{#bookmark47 .anchor}ESCAPE FROM
+## ESCAPE FROM
 DWARROWDELF
 
-A] [fter a desperate
+After a desperate
 battle in the Chamber of Mazarbul, the Fellowship have managed to escape somehow unscathed and made their way back into the city of Dwarrowdelf. It is here, within the ruined halls of this once great Dwarven city, that the Moria Goblins and Cave Trolls have pursued them until the Fellowship are completely surrounded and seemingly
 trapped.
 
@@ -1067,11 +975,7 @@ safety.
 With no way to escape, the Fellowship prepares themselves for their
 final stand, however, from deep inside the mountain comes a terrifying sound; one that has not been heard by any of the free-folk of Middle-earth for thousands of years. From within the bowels of Moria comes a Balrog of Morgoth, a demon of the ancient world, and with its arrival the Goblins temporarily scatter. Knowing that such a foe is beyond any of them, Gandalf instructs the Fellowship to flee and make for the Bridge of Khazad-dûm.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image43.jpeg){width="5.179861111111111in"
-height="3.65in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image44.jpeg){width="2.5034722222222223in"
-height="1.6236111111111111in"}
 
 LAYOUT
 
@@ -1130,13 +1034,11 @@ shield.
 Evil: 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two- handed hammer and Troll
 chain.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image45.jpeg){width="5.886805555555555in"
-height="2.8069444444444445in"}
 
-[]{#bookmark51 .anchor}THE BRIDGE OF
+## THE BRIDGE OF
 KHAZAD-DÛM
 
-H] [aving crossed the
+Having crossed the
 walkways of Dwarrowdelf, the Bridge of Khazad-dûm is now in sight. This
 slender
 
@@ -1162,11 +1064,7 @@ the scuttling of the Moria Goblins from either side. As they near the
 bridge, the Fellowship can see the Goblins closing in, which may slow them down just enough to be at the mercy of the
 Balrog.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image46.jpeg){width="5.166666666666667in"
-height="3.6465277777777776in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image47.jpeg){width="2.5034722222222223in"
-height="2.4930555555555554in"}
 
 LAYOUT
 
@@ -1233,7 +1131,7 @@ bow.
 []{#bookmark53
 .anchor}LOTHLÓRIEN
 
-T] [hough he has
+Though he has
 fallen into the black pit of Moria, Gandalf the Grey has felled the Balrog and bought his com panions enough time to escape the fallen Dwarven kingdom. However, though they have managed to exit the Misty Mountains, the Fellowship have no time to grieve for their fallen friend for the Goblins of Moria still pursue them with relentless
 ferocity.
 
@@ -1254,11 +1152,7 @@ muster the strength to continue onwards, they may still require some unseen aid
 to fend off their pursuers, who are closing in around
 them.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image48.jpeg){width="5.179861111111111in"
-height="3.4in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image49.jpeg){width="2.3930555555555557in"
-height="2.4034722222222222in"}
 
 SPECIAL RULES
 
@@ -1277,8 +1171,6 @@ Scenario.
 The Wargs -- The Goblins have long had an alliance of sorts with the Wargs of the Misty Mountains who have joined them in their
 hunt.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image50.jpeg){width="5.879861111111111in"
-height="3.2263888888888888in"}
 
 Evil: 2 Moria Goblin Captains; Wild Warg
 Chieftain;
@@ -1309,10 +1201,10 @@ PARTICIPANTS
 Good: Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn -- Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Haldir with Elf bow; 6 Wood Elf Warriors with Elf
 bow.
 
-[]{#bookmark56 .anchor}ARAGORN'S
+## ARAGORN'S
 STAND
 
-H] [aving left the
+Having left the
 safety of the forest of Lothlórien behind, and with it the protection of the Galadhrim, the Fellowship have set off down the River Anduin to continue their long and arduous quest to Mordor. It is at Amon Hen, near the falls of Rauros, that the Fellowship must come once more to shore and continue their journey on foot, and so they make camp upon the banks of the Anduin to rest and re-gather their
 strength.
 
@@ -1325,80 +1217,8 @@ As Frodo wanders the woodland path, he is approached by Boromir who suggests tha
 himself, Frodo declines which sends Boromir into a fit of rage -- signs that the Fellowship is indeed breaking. Using the Ring to escape, Frodo makes
 his way to the Seeing Seat of Amon Hen, and out of Boromir's reach, before taking off the Ring.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image51.jpeg){width="5.176388888888889in"
-height="3.5034722222222223in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image52.jpeg){width="2.926388888888889in"
-height="3.0569444444444445in"}SPECIAL
-RULES
 
-LAYOUT
-
-The board represents Amon Hen and the Seeing Seat. The Seeing Seat should be placed on a hill 6" from the centre of the northern board edge (see map). The rest of the board should be densely packed with trees, bushes and other
-undergrowth.
-
-To the Rescue! -- Having heard the commotion from afar, Legolas and Gimli now race to rescue Aragorn and
-Frodo.
-
-At the end of each Good Move phase, the Good player rolls a D6 and adds the turn number. If the total is 10 or more then Legolas and Gimli have arrived and may move onto the board from any board edge via the rules for
-Reinforcements.
-
-Scouting Uruk-hai -- The hills are crawling with Uruk-hai who are searching for the Halflings to take them back to
-Isengard.
-
-At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai model not currently on the board. On a 4+, that model may move onto the board from a board edge chosen by the player with Priority via the rules for Reinforcements. Previously slain Warrior models may also return to the board in this manner.
-
-PARTICIPANTS
-
-Good: Frodo Baggins with Sting and Mithril Coat; Aragorn -- Strider with bow; Legolas Greenleaf; Gimli, son of
-Glóin.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image53.jpeg){width="5.886805555555555in"
-height="4.329861111111111in"}All Good models have an Elven
-Cloak.
-
-STARTING POSITIONS
-
-The Good player deploys Aragorn and Frodo in base contact with the Seeing Seat. The Evil player then deploys Lurtz and half of the Uruk-hai Scouts within 3" of the northern board
-edge.
-
-The other models will be available as the game goes
-on.
-
-OBJECTIVES
-
-The Uruk-hai have come to claim the Ring for Saruman and to kill all who stand in their path. Should either Frodo or Aragorn fall, all shall be
-lost.
-
-The Good player wins if Frodo can escape the board via the southern board edge whilst Aragorn is still alive. If either Frodo or Aragorn is slain, the Evil player
-wins.
-
-Evil: Lurtz; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional
-wargear.
-
-[]{#bookmark59 .anchor}BOROMIR'S
-REDEMPTION
-
-W] [ith Aragorn
-fighting off dozens of Uruk-hai up by the Seeing Seat, the rest of Saruman's forces are scouring the woodland in search of the Halflings they have been sent to retrieve for their master. With the hills now crawling with Uruk-hai Scouts, the Hobbits decide to hide in the thick undergrowth so as not to be
-discovered.
-
-From within their hiding place, Merry and Pippin can see Frodo pressed against a tree, yet as they try to signal him they realise that Frodo
-intends to leave and travel to Mordor alone. With an act of great bravery, or perhaps foolishness, Merry and Pippin reveal themselves to the Uruk-hai
-to draw them away from Frodo and towards
-themselves.
-
-With the Uruk-hai now making a beeline straight for them, Merry and Pippin try to evade their pursuers. However, the Uruk-hai are strong
-and fast and soon catch up to their quarry. With the Hobbits all but
-cornered, Boromir arrives to attempt to prevent them from being carried away to Isengard, and to make amends for the way he treated
-Frodo.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image54.jpeg){width="5.179861111111111in"
-height="3.2736111111111112in"}
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image55.jpeg){width="2.4069444444444446in"
-height="2.4034722222222222in"}(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image56.jpeg){width="2.4930555555555554in"
-height="1.2333333333333334in"}
 
 SPECIAL RULES
 
@@ -1437,8 +1257,6 @@ Cloak.
 Evil: Uruk-hai Scout Captain with two-handed weapon; 18 Uruk-hai Scouts: 6 with shield, 6 with Uruk-hai bow, 6 with no additional
 wargear.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image57.png){width="5.259722222222222in"
-height="2.933333333333333in"}
 
 OBJECTIVES
 
@@ -1450,10 +1268,10 @@ Pippin
 off the board via any table edge when the game ends. If when the game ends only one Hobbit has been carried off the board, the game is a draw. In any other result, the Good player
 wins.
 
-[]{#bookmark63 .anchor}BREAKING OF THE
+## BREAKING OF THE
 FELLOWSHIP
 
-T] [he Fellowship is
+The Fellowship is
 now all but broken; Frodo and Sam have crossed the Anduin and are making for Mordor alone, and Merry and Pippin have been captured by Uruk- hai Scouts who are now returning to Isengard with
 their
 
@@ -1471,11 +1289,7 @@ is badly wounded, having fought off dozens of Uruk-hai as he tried in vain
 to protect Merry and Pippin. Even as he is surrounded by those he has
 slain, more Uruk-hai keep coming to claim the life of this mighty warrior and help seems far away.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image58.jpeg){width="5.179861111111111in"
-height="3.15in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image59.jpeg){width="2.5034722222222223in"
-height="2.5034722222222223in"}
 
 OBJECTIVES
 
@@ -1524,13 +1338,11 @@ Cloak.
 Evil: Lurtz with shield; Uruk-hai Scout Captain with two- handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional
 wargear.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image60.jpeg){width="5.706944444444445in"
-height="3.0166666666666666in"}
 
-[]{#bookmark65 .anchor}AMBUSH AT AMON
+## AMBUSH AT AMON
 HEN
 
-F] [ollowing their
+Following their
 departure from the safety of the forest of Lórien, the remaining members of the Fellowship have made their way down the waters of the Anduin before mooring their boats upon the shores of Amon Hen to rest. It is here that the Ring finally latches onto Boromir's desire to possess it and bring it to Minas Tirith, driving the Man of Gondor mad as he attempts to take the Ring from
 Frodo.
 
@@ -1547,11 +1359,7 @@ With death and loss surrounding him, Frodo has made the decision to go to Mordor
 friends. Can Frodo escape in time, or will he fall foul of the scouts of
 Isengard?
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image61.jpeg){width="5.183333333333334in"
-height="4.663194444444445in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image62.jpeg){width="2.5097222222222224in"
-height="2.5097222222222224in"}
 
 LAYOUT
 
@@ -1614,10 +1422,10 @@ winner.
 The Evil player can claim a draw even if Frodo escapes the board, so long as they have captured any two of the remaining
 Hobbits.
 
-[]{#bookmark68 .anchor}THE TAMING OF
+## THE TAMING OF
 SMÉAGOL
 
-W] [hen he left the
+When he left the
 Fellowship on the banks of Amon Hen, it was Frodo's intent to travel to Mordor alone so as not to watch as his companions fall victim to the power of the Ring as he had seen Boromir start to do. However, seeing his friend crossing the Anduin and guessing his intent, Sam has decided to wade out and go with Frodo to Mordor, and nothing Frodo can say will deter Sam from breaking the promise he made to Gandalf back in the Shire to accompany Frodo to the very
 end.
 
@@ -1631,11 +1439,7 @@ razor- sharp rocks known as Eymn Muil. The hills of Emyn Muil are covered in fog
 Yet, although they seem lost within Emyn Muil, the Hobbits are aware that they are not alone within the hills. The creature Gollum has been following the Ringbearer since at least the Mines of Moria, if not
 longer, and now nears his quarry. The lure of the Ring is too much for Gollum to resist and, under the cover of darkness, he attempts to sneak up on the sleeping Hobbits and take the Ring for himself. Should Gollum kill the Hobbits and claim the Ring then all may well be lost. However, if the Hobbits can subdue Gollum, they may find themselves with an unlikely ally.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image63.jpeg){width="5.176388888888889in"
-height="3.3965277777777776in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image64.jpeg){width="2.4034722222222222in"
-height="2.4034722222222222in"}
 
 LAYOUT
 
@@ -1683,13 +1487,11 @@ Evil: Sméagol.
 The Good player wins if Gollum is subdued. The Evil player wins if Gollum kills Frodo and reclaims the Ring. If Gollum is subdued but Sam has been slain, the game is a
 draw.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image65.jpeg){width="5.3597222222222225in"
-height="2.6930555555555555in"}
 
-[]{#bookmark71 .anchor}THE DEAD
+## THE DEAD
 MARSHES
 
-T] [heir encounter in
+Their encounter in
 Emyn Muil with the
 creature
 
@@ -1712,11 +1514,7 @@ nine Ringwraiths has tracked the Hobbits to the marshes and now circles
 above to try to find its quarry below and retrieve the One
 Ring.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image66.jpeg){width="5.179861111111111in"
-height="4.163194444444445in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image67.jpeg){width="2.5034722222222223in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -1761,13 +1559,11 @@ Spectres.
 The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if Frodo is
 slain.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image68.jpeg){width="5.886805555555555in"
-height="2.6569444444444446in"}
 
-[]{#bookmark74 .anchor}AMBUSH AT
+## AMBUSH AT
 ITHILIEN
 
-A] [s the strength of
+As the strength of
 the Dark Lord continues to rise, all manner of Evil is drawn to Mordor, pledging themselves to the service of Sauron and to fight his war. It is for just this reason that the Haradrim march north from their homes in the far south of Middle-earth, bringing with them the lumbering Mûmakil that roam their lands to destroy the free peoples of the
 West.
 
@@ -1783,11 +1579,7 @@ that the Haradrim are the victims of a sudden ambush at the hands of Faramir and
 the Haradrim, and in turn those of the Dark
 Lord.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image69.jpeg){width="5.5368055555555555in"
-height="5.0in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image70.jpeg){width="2.4965277777777777in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -1827,13 +1619,11 @@ spear.
 Evil: 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with
 spear.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image71.jpeg){width="5.886805555555555in"
-height="2.9430555555555555in"}
 
 []{#bookmark77
 .anchor}OSGILIATH
 
-A] [fter their
+After their
 encounter with the Haradrim in Ithilien, Frodo and Sam are captured by the Rangers of Gondor who had been lurking in the undergrowth and had defeated the Haradrim. Their leader, Faramir
 of
 
@@ -1851,11 +1641,7 @@ Gondor, and so the Rangers begin to take the Hobbits to Minas Tirith. However, t
 of the Anduin and aid their beleaguered allies
 there.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image72.jpeg){width="5.166666666666667in"
-height="3.520138888888889in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image73.jpeg){width="2.5166666666666666in"
-height="1.3402777777777777in"}
 
 LAYOUT
 
@@ -1906,10 +1692,10 @@ bow.
 Evil: 3 Orc Captains with shield; 1 Ringwraith on Fell Beast with 2 Might, 10 Will and 2 Fate; 37 Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon, 1 with
 banner.
 
-[]{#bookmark80 .anchor}SMÉAGOL'S
+## SMÉAGOL'S
 TREACHERY
 
-B] [elieving it was
+Believing it was
 the Hobbits' fault he was beaten and mistreated by Faramir's Rangers in Ithilien, Sméagol is now fully intent on betraying Frodo and Sam and taking back the Precious; though he cannot hope to do it by himself. Instead, Sméagol plots to lure the Hobbits into the tunnels of Cirith Ungol where the terror that lurks within can finish them off and allow Sméagol to take the Ring once the Hobbits are
 dead.
 
@@ -1927,11 +1713,7 @@ he is questioning his loyal friend. Sam now needs to convince Frodo that
 it is Sméagol who is treacherous, otherwise Sméagol's and Gollum's plan to separate them will have
 succeeded.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image74.jpeg){width="5.886805555555555in"
-height="4.433333333333334in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image75.jpeg){width="5.163194444444445in"
-height="1.0034722222222223in"}
 
 SET-UP
 
@@ -1969,8 +1751,6 @@ Gamgee.
 
 Evil: Gollum.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image76.jpeg){width="1.6430555555555555in"
-height="1.5666666666666667in"}
 
 On a player's turn they may do one of three
 things:] 
@@ -1994,10 +1774,10 @@ players.]
 has no cards in their hand, they may then draw a new hand of five cards. Their turn then
 ends.
 
-[]{#bookmark83 .anchor}SHELOB'S
+## SHELOB'S
 LAIR
 
-G] [ollum's plan to
+Gollum's plan to
 remove Sam from Frodo's side has succeeded; Frodo has believed Gollum's whispers in his ears that Sam wants the Ring for himself and has sent his friend home. With Sam gone, Frodo continues to climb the Winding Stair above Minas Morgul towards the pass of Cirith Ungol and the unknown danger that lies within its dark and cobwebbed
 tunnels.
 
@@ -2011,11 +1791,7 @@ Cirith Ungol is home to Shelob, the spawn of Ungoliant. This huge, spider-like c
 crept into her lair; and few that ever enter her domain ever
 leave...
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image77.jpeg){width="5.179861111111111in"
-height="3.520138888888889in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image78.jpeg){width="2.5in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -2068,14 +1844,11 @@ objective.
 The Good player wins if Shelob is slain or, more likely, flees
 the
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image79.jpeg){width="0.4597222222222222in"
-height="0.28680555555555554in"}(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image80.jpeg){width="5.870138888888889in"
-height="2.8131944444444446in"}
 
-[]{#bookmark86 .anchor}CIRITH
+## CIRITH
 UNGOL
 
-T] [he encounter with
+The encounter with
 Shelob has left Frodo limp and lifeless, and Sam believes his friend to have fallen victim to the vile creature. As Sam mourns the loss of Frodo, Sting begins to glow near him signaling the imminent arrival of a band of Orcs and Uruk-hai from the nearby Tower of Cirith Ungol. From a hiding place within the rocks, Sam overhears one Orc say that Frodo is not dead but just paralysed, and will be taken to the tower to be tortured.
 
 Distraught that he didn't realise his friend was still alive and that
@@ -2096,11 +1869,7 @@ paying little attention to him and more on killing each other. This is Sam's
 chance to sneak through Cirith Ungol relatively unnoticed and rescue his
 friend.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image81.jpeg){width="5.176388888888889in"
-height="3.2736111111111112in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image82.jpeg){width="2.5in"
-height="2.5034722222222223in"}
 
 LAYOUT
 
@@ -2179,10 +1948,10 @@ Elven
 
 Cloak and Sting.
 
-[]{#bookmark89 .anchor}PLATEAU OF
+## PLATEAU OF
 GORGOROTH
 
-H] [aving managed to
+Having managed to
 escape the Tower of Cirith Ungol, Frodo and Sam have finally made it into Mordor, and now Mount Doom is in sight. Yet, between them and the mountain of fire are the plains of Gorgoroth that stretch out for miles before them, and the Hobbits must
 now
 
@@ -2202,11 +1971,7 @@ unfriendly eyes, and to help them blend in to their surroundings, Frodo and Sam
 have donned some pieces of Orcish armour allowing them to cross through the plains without drawing attention to
 themselves.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image83.jpeg){width="5.5368055555555555in"
-height="3.7569444444444446in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image84.jpeg){width="2.5131944444444443in"
-height="2.5069444444444446in"}
 
 LAYOUT
 
@@ -2268,13 +2033,11 @@ Taskmaster;
 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow and 4 with two-handed
 weapon.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image85.jpeg){width="5.886805555555555in"
-height="2.4930555555555554in"}
 
-[]{#bookmark92 .anchor}THE END OF ALL
+## THE END OF ALL
 THINGS
 
-A] [fter setting out
+After setting out
 from the Shire many months
 ago,
 
@@ -2302,12 +2065,7 @@ chance, Frodo must conjure up the strength to destroy the Ring for good, or
 Middle- earth will be plunged into
 darkness...
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image86.jpeg){width="5.166666666666667in"
-height="3.776388888888889in"}
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image87.jpeg){width="2.4034722222222222in"
-height="2.4034722222222222in"}(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image88.jpeg){width="1.2965277777777777in"
-height="1.1534722222222222in"}
 
 LAYOUT
 
@@ -2328,8 +2086,6 @@ perish.
 
 The game lasts until either Frodo has destroyed the Ring, is taken over by the Ring, or is slain. The Good player wins if the Ring is destroyed. The Evil player wins if Frodo is either slain or taken over by the Ring. Additionally, if all the Good Heroes at the Black Gate are slain, the best result the Good player can achieve is a draw.
 
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image89.jpeg){width="5.7in"
-height="3.9569444444444444in"}
 
 SPECIAL RULES
 
@@ -2361,8 +2117,7 @@ turn.]
 
 [Exhaustion (3+) -- During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests then he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.Corruption (4+)
 -- The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game
-ends.(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image90.jpeg){width="5.886805555555555in"
-height="4.070138888888889in"}Lure of the Ring (5+) -- The Ring provokes
+ends.Lure of the Ring (5+) -- The Ring provokes
 Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.Teeming Hordes -- A seemingly endless tide of Orcs
 is spewed forth from the Black Gate, with more constantly joining the
 battle.
@@ -2386,6 +2141,3 @@ Good: Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf t
 banner.
 
 Evil: Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear and shield, 12 with no additional wargear and 2 with banner.
-
-(7_pdfcoffee.com_quest-of-the-ringbearerpdf-pdf-free_media/media/image91.jpeg){width="5.886805555555555in"
-height="4.120138888888889in"}] 

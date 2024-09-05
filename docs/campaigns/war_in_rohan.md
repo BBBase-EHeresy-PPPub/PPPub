@@ -1,7 +1,7 @@
 ﻿
 [WAR IN ROHAN CAMPAIGN 
 
-H][ere we present you with the War in
+Here we present you with the War in
 Rohan campaign, a system of linking your games together in such a way that the results of one game can impact your next game or even one much later on! This will join together the already dynamic Narrative Play Scenarios in such a way that it will feel as if you are playing through the scenes directly from the books and the movies. 
 
 As you may have already guessed, this supplement focuses on the battles and events that happened within the kingdom of Rohan, from the treachery of Saruman and the burning of the Westfold, all the way to the Siege of Helm's Deep. The Scenarios start with Saruman siding with the Dark Lord and forging an army of Orcs, Uruk-hai and Wild Men; the Dunlending's attack on Rohan's villages and the burning of the Westfold, through the battles at the Fords of Isen and the troubles that surround Rohan, before reaching the epic battle at the fortress of Helm's Deep - one of the most iconic battles to take place during the War of The Ring. 
@@ -16,11 +16,7 @@ SCENARIO BONUSES
 After each Scenario has been completed, it is important to note down which side won that Scenario, either Good or Evil. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in a future Scenario. For example, if the Good side is victorious in the Grishnákh's End Scenario then the Good side will receive a bonus in the Last March of the Ents Scenario - a much later Scenario in the campaign. These bonuses reflect the advantages of success and the edge it will give either side in the
 future. 
 
-![](6_Middle-earth_-_War_in_Rohan_media/media/image70.jpeg){width="6.8902777777777775in"
-height="4.170138888888889in"} 
 
-![](6_Middle-earth_-_War_in_Rohan_media/media/image71.png){width="5.759722222222222in"
-height="10.833333333333334in"} 
 
 BURNING OF THE WESTFOLD Good: In the First Battle of the Fords of Isen Scenario, the Good player may add an additional +1 when rolling for when Elfhelm arrives. 
 
@@ -50,12 +46,6 @@ edge.
 Evil: In the Last March of the Ents Scenario, Treebeard starts the game with only a single point of
 Might. 
 
-![](6_Middle-earth_-_War_in_Rohan_media/media/image72.jpeg){width="0.5569444444444445in"
-height="2.459722222222222in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image73.png){width="5.166666666666667in"
-height="10.82986111111111in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image74.jpeg){width="0.5430555555555555in"
-height="1.9868055555555555in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image75.jpeg){width="0.5263888888888889in"
-height="1.6430555555555555in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image76.jpeg){width="0.5201388888888889in"
-height="2.3201388888888888in"} 
 
 THE WHITE WIZARD 
 
@@ -95,11 +85,6 @@ THE DEEPING WALL IS BREACHED Good: In the Retreat to the Hornburg Scenario, the 
 
 Evil: In the Retreat to the Hornburg Scenario, the Good side instead needs to have 12 models escape the board in order to win. 
 
-![](6_Middle-earth_-_War_in_Rohan_media/media/image77.png){width="4.993055555555555in"
-height="10.82986111111111in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image78.jpeg){width="0.34652777777777777in"
-height="0.24027777777777778in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image79.jpeg){width="0.5201388888888889in"
-height="0.24305555555555555in"}![](6_Middle-earth_-_War_in_Rohan_media/media/image80.jpeg){width="0.5736111111111111in"
-height="0.5868055555555556in"} 
 
 12 
 

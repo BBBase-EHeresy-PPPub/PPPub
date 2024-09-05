@@ -1,13 +1,11 @@
 ﻿
 [**Scenarios** 
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image10.jpeg){width="7.873611111111111in"
-height="10.833333333333334in"}
 
-[]{#bookmark9 .anchor}BURNING OF THE
+## BURNING OF THE
 WESTFOLD
 
-*S*][*aruman's allegiance to Sauron has
+*Saruman's allegiance to Sauron has
 seen his armies swell in size, the union of the towers of Orthanc
 and*
 
@@ -19,11 +17,7 @@ way.*
 *The Dunlendings believe that the lands are theirs by right and so
 they seek to take them back from the hated Forgoil by force, condemning the Rohirrim to the same fate they suffered years before. As the Dunlendings attack the villages of Rohan, they are met with resistance from the warriors of the Westfold who are intent on protecting their lands and people from the torches and blades of their foes. Though even as the Dunlendings burn their villages and hope seems lost, the leaders of the Rohirrim attempt to ride to Edoras to warn the king of Saruman's treachery.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image11.jpeg){width="6.8902777777777775in"
-height="5.020138888888889in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image12.jpeg){width="3.1930555555555555in"
-height="3.1930555555555555in"}
 
 *SPECIAL RULES*
 
@@ -76,10 +70,10 @@ bow;
 
 6 Dunlending Huscarls.
 
-[]{#bookmark11 .anchor}FIRST BATTLEOF THE FORDS OF
+## FIRST BATTLEOF THE FORDS OF
 ISEN
 
-*T*][*he Dunlendings' attacks upon the
+*The Dunlendings' attacks upon the
 villages of the Westfold and the mustering of Saruman's armies in Isengard have not gone completely unnoticed by those within Rohan. News of the White Wizard's armies reached the ears of the prince of Rohan via his trusted scouts, and Théodred began to gather to him a force to take Saruman's armies by surprise at the Fords of
 Isen.*
 
@@ -95,11 +89,7 @@ Uruk-hai from crossing the Fords of Isen, then Saruman will control the path
 into Rohan and Théodred shall surely be
 slain.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image13.jpeg){width="7.383333333333334in"
-height="5.003472222222222in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image14.jpeg){width="3.1902777777777778in"
-height="3.1930555555555555in"}
 
 *OBJECTIVES*
 
@@ -139,12 +129,10 @@ Good: Théodred, Heir of Rohan with horse and shield; Elfhelm, Captain of Rohan 
 Evil: Vraskû; Thrydan Wolfsbane; 24 Uruk-hai Scouts: 8 with Uruk-hai bow, 8 with shield, 8 with no additional equipment; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing
 spears.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image15.jpeg){width="7.873611111111111in"
-height="3.609722222222222in"}
 
 SECOND BATTLEOF THE FORDS OF ISEN
 
-*F*][*ollowing the first battle over the
+*Following the first battle over the
 Fords of Isen and the subsequent death of Théodred, command over the fords was given to Erkenbrand. However, it was Grimbold who was tasked with holding the fords against the forces of Isengard. Expecting the attack to come from the eastern side, Grimbold commanded Elfhelm and his riders to protect the river from the east whilst he would hold the ford itself.*
 
 *However, the White Wizard is cunning and instead sent two smaller forces to divide the Rohirrim and surround those on the ford. A pack of Warg riders and Dunlending horsemen attacked the eastern side of the river, cutting off Elfhelm from those who defended the ford. With
@@ -158,11 +146,7 @@ can reach the fords in time, he may just be able to help Grimbold defend
 the fords and prevent them from being
 overrun.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image16.jpeg){width="7.383333333333334in"
-height="5.329861111111111in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image17.jpeg){width="3.326388888888889in"
-height="3.2in"}
 
 *OBJECTIVES*
 
@@ -207,12 +191,10 @@ crossbow;
 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears; 6 Dunlending
 Horsemen.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image18.jpeg){width="7.873611111111111in"
-height="3.9368055555555554in"}
 
 AMBUSH AT NIGHT
 
-*H*][*aving caught the scent of the
+*Having caught the scent of the
 Three Hunters tracking them, the Uruk-hai that have captured Merry
 and*
 
@@ -232,11 +214,7 @@ Orcs and Uruk-hai is otherwise occupied, Grishnákh is more concerned with
 the taste of Hobbit, and is edging his way ever closer to his
 prey.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image19.jpeg){width="6.873611111111111in"
-height="4.683333333333334in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image20.jpeg){width="3.329861111111111in"
-height="3.1902777777777778in"}
 
 *LAYOUT*
 
@@ -302,7 +280,7 @@ bow,]
 [with shield, 4 with no additional wargear; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow,with two-handed
 weapon.GRISHNÁKH'S END
 
-*H*][*aving escaped the clutches of
+*Having escaped the clutches of
 their Uruk-hai captors thanks to the timely assault by Éomer's
 riders,*
 
@@ -320,12 +298,7 @@ safe place, Grishnákh begins to close in upon them. Should he catch them
 then the Hobbits will surely perish; unless the forest should provide them
 with an unlikely ally, that is...*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image21.jpeg){width="6.873611111111111in"
-height="6.186805555555556in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image22.jpeg){width="3.1930555555555555in"
-height="3.1902777777777778in"}(6_Middle-earth_-_War_in_Rohan_media/media/image23.jpeg){width="1.7534722222222223in"
-height="1.6298611111111112in"}
 
 *SET-UP*
 
@@ -378,7 +351,7 @@ rules.*GRISHNÁKH'S SPECIAL ACTIONS*]
 [Sprint: Grishnákh may move 6" this turn.Grab Hobbit: If Grishnákh is
 in base contact with Treebeard, and a Hobbit has climbed the Ent, Grishnákh may pull them to the floor. Grishnákh may then fight the Hobbit in the following Fight phase.THE WHITE WIZARD
 
-*R*][*ohan is weak and ready to fall;
+*Rohan is weak and ready to fall;
 Théoden's mind has been enslaved by Saruman, turning the king into but a puppet in his quest to conquer Rohan. Under the influence of Saruman, and his lackey Gríma Wormtongue, Théoden has banished Éomer and many of those loyal to him as he is driven further into madness and falls deeper under the control of Isengard.*
 
 *Yet Théoden is not lost, and there are still some that seek to
@@ -392,8 +365,6 @@ two Istari are locked in a duel of wits and magics over the mind of the king
 of Rohan. Should Gandalf emerge victorious then Théoden shall be set free and Rohan restored. However, if Saruman retains power over the king then Rohan will surely fall to the might of
 Isengard.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image24.jpeg){width="7.876388888888889in"
-height="5.540277777777778in"}
 
 w w w w w w w w w
 
@@ -459,7 +430,7 @@ you will need to use all of your cunning and wits in order to stay one step ahea
 
 WARG ATTACK
 
-*G*][*andalf's revelation that Saruman
+*Gandalf's revelation that Saruman
 is raising an army to destroy Rohan and its people forces Théoden to take drastic action. Though instead of facing the armies of Isengard head-on, as urged to by Aragorn, the king opts to leave Edoras and make for the sanctuary of Helm's Deep. Sending out orders for the city to be emptied, Théoden leads his people across Rohan and towards the mountain fortress.*
 
 *Yet Saruman has anticipated the king's plans and, sensing that the Rohirrim will be more vulnerable on the road, has sent out his Warg Riders to intercept them. As the wolves of Isengard track their prey,
@@ -472,11 +443,7 @@ them off before they can reach his people. However, should the Wargs bring
 down Rohan's leaders, then its people will be all the easier to pick off
 later.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image25.jpeg){width="7.383333333333334in"
-height="4.55in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image26.jpeg){width="3.1902777777777778in"
-height="3.1902777777777778in"}
 
 *LAYOUT*
 
@@ -525,12 +492,10 @@ Warg;
 
 18 Warg Riders: 6 with shield, 6 with Orc bow, 6 with throwing spear.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image27.jpeg){width="7.876388888888889in"
-height="3.173611111111111in"}
 
 RAISE THE LADDERS
 
-*W*][*ithin the walls of Helm's Deep,
+*Within the walls of Helm's Deep,
 the people of Rohan prepare for the impending battle that is bearing down upon them. All manner of Rohirrim are being called to fight, many of whom are not natural fighters and some who have seen too many winters, or too few. Even as hope seems to be just out of reach, and victory seems impossible, a blast of an Elvish horn signals the arrival of an unlikely
 ally.*
 
@@ -543,11 +508,7 @@ open, drenching those below and turning the ground beneath their feet into a thi
 Deeping Wall. Those atop the battlements must attempt to stop the Uruk-hai from planting their ladders against Helm's Deep if they are to prevent their
 foes from claiming the walls.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image28.jpeg){width="6.8902777777777775in"
-height="5.020138888888889in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image29.jpeg){width="3.3368055555555554in"
-height="3.323611111111111in"}
 
 *LAYOUT*
 
@@ -613,7 +574,7 @@ Warriors: 10 with shield, 10 with pike, 12 with crossbow; 16 Uruk-hai Berserkers
 
 THE WALLS OF HELM'S DEEP
 
-*S*][*aruman's armies have stormed the
+*Saruman's armies have stormed the
 Deeping Wall, pouring over the battlements and onto the walls themselves. The Men and Elves that stand atop the walls have been thrust into a desperate melee against the Uruk- hai forces. Together they are fighting to drive their foe backwards and against the battlements they have so easily passed, all whilst more Uruk-hai climb the great siege ladders and into battle.*
 
 *Atop the walls, Aragorn leads the forces of Rohan against the foe,
@@ -629,12 +590,7 @@ place without hesitation. Only by killing enough of Saruman's fighting
 Uruk-hai can the defenders of Helm's Deep hope to make a dent in the forces of Isengard, and earn themselves a brief respite where they can regroup
 and continue their defence of Helm's Deep.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image30.jpeg){width="7.383333333333334in"
-height="5.333333333333333in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image31.jpeg){width="7.873611111111111in"
-height="3.9569444444444444in"}(6_Middle-earth_-_War_in_Rohan_media/media/image32.jpeg){width="1.6in"
-height="3.183333333333333in"}
 
 *LAYOUT*
 
@@ -682,7 +638,7 @@ pike;
 
 PLANT THE CHARGES
 
-*T*][*he siege of Helm's Deep is well
+*The siege of Helm's Deep is well
 underway; Uruk- hai warriors have swarmed the battlements of
 the*
 
@@ -699,12 +655,7 @@ these frenzied killers makes them adept at shrugging off all but fatal blows.
 If Legolas and his allies cannot put the Berserkers down then the Deeping Wall may yet be breached and the floodgates opened for the rest of the Uruk-hai forces to pour into the
 fortress.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image33.jpeg){width="7.383333333333334in"
-height="5.836805555555555in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image34.jpeg){width="7.873611111111111in"
-height="4.0368055555555555in"}(6_Middle-earth_-_War_in_Rohan_media/media/image35.jpeg){width="3.1902777777777778in"
-height="3.1930555555555555in"}
 
 ***\< 4' ►***
 
@@ -742,7 +693,7 @@ Evil: 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 
 
 THE DEEPING WALL IS BREACHED
 
-*I*][*sengard has attacked the land of
+*Isengard has attacked the land of
 Rohan, burning the Westfold and forcing the Rohirrim to flee to the safety of Helm's Deep. With the people of Théoden taking refuge within the fortress, Saruman sends his army of fighting Uruk-hai to breach its walls and slaughter the people inside. All of Isengard is emptied and an army over ten thousand strong marches to destroy the world of
 Men.*
 
@@ -765,100 +716,12 @@ lead the alliance of Men and Elves against the onslaught of Isengard, or
 will Helm's Deep fall for the first time in its
 history?*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image36.jpeg){width="6.873611111111111in"
-height="5.679861111111111in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image37.jpeg){width="2.6666666666666665in"
-height="2.65in"}*LAYOUT*
 
-This Scenario is played on a 2'x2' board. Along the eastern board
-edge should be the Deeping Wall extending out 3" from the edge. This should have
-some stairways coming down from it, and should also have a 4" section
-missing from the centre (where the bomb went off). The area within 6" of the centre
-of the eastern board edge is shallow water.
-
-*STARTING POSITIONS*
-
-The Good player deploys the Galadhrim Warriors within 2" of the
-western board edge and then deploys Haldir, Legolas and the Warriors of Rohan anywhere on the walls in the Prone position. Aragorn is deployed in the
-centre of the board, also in the Prone position. Gimli is then deployed
-anywhere within the shallow water.
-
-The Evil player may then deploy up to 10 Uruk-hai Warriors, 2
-Berserkers and a single Uruk-hai Captain within the shallow water, at least 1" from
-Gimli. The rest of the Evil models will be available as the game goes
-on.
-
-The Prince of Mirkwood *-- It is at Helm's Deep that Legolas comes into his own, showcasing agility and skill that far surpasses that of most Elves.*
-
-Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
-
-*OBJECTIVES*
-
-The legions of Isengard are streaming into Helm's Deep, intent on
-butchering all in their path. It is their sole purpose to cause as much death and
-destruction as possible. Aragorn must lead the defenders of Helm's Deep in defence
-of the fortress and fight off Saruman's armies.
-
-The Scenario lasts for 10 turns, after which the side with the most
-Victory Points is declared the winner.
-
-There are three ways to score Victory Points in this
-Scenario:]
-
-1.  
-2.  
-3.  
-
-[The Good player scores 1 Victory Point for each of their named Heroes still alive at the end of the game. The Evil player scores 1 Victory
-Point for each of their named Heroes that have been slain.The Good player
-scores 1 Victory Point if at the end of the game more than 14 Good models are left alive. The Evil player scores 1 Victory Point if at the end of the game fewer than 14 Good models are alive.Evil
-models that are not within the shallow water are considered to be within the walls of Helm's Deep. The Evil player scores 2 Victory Points if at the end of the game there are more Evil models within the walls than Good models. The Good player scores 2 Victory Points if they can prevent this. Models that are on top of the walls do not count towards this total.*PARTICIPANTS*
-
-Good: Aragorn -- Strider with armour; Legolas Greenleaf with armour; Gimli, son of
-Glóin;
-
-Haldir with heavy armour and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear,
-
-4 with Elf bow; 12 Warriors of Rohan:
-
-4 with shield, 4 with throwing spear & shield, 4 with bow.
-
-Evil: 3 Uruk-hai Captains with
-
-heavy armour and shield; 8 Uruk-hai
-
-Berserkers; 20 Uruk-hai Warriors:
-
-10 with shield, 10 with pike.
-
-*SPECIAL RULES*
-
-Legion of the White Hand *-- Huge numbers of Uruk-hai are streaming
-through the hole in the Deeping Wall, and more are constantly joining the
-fight.*
-
-At the end of each Evil Move phase, the Evil player rolls a D6 and adds
-2. This is the number of models that the Evil player may move onto the board
-from the hole in the Deeping Wall. These can be any models that haven't yet
-entered the board, even models that have previously been slain earlier in the
-battle. The Uruk-hai Captains may only enter the battlefield
-once.
-
-Explosion Aftermath *--The tremendous detonation that blew apart the
-Deeping Wall has left those in command of the defence of Helm's Deep shaken and
-injured.*
-
-All Good Hero models start the game with 0
-Fate.
-
-(6_Middle-earth_-_War_in_Rohan_media/media/image38.jpeg){width="0.3333333333333333in"
-height="0.3298611111111111in"}
-
-[]{#bookmark35 .anchor}RETREAT TO THE
+## RETREAT TO THE
 HORNBURG
 
-*T*][*he destruction of the Deeping Wall
+*The destruction of the Deeping Wall
 has led to a surge of Uruk-hai flooding forth through the gaping wound in the fortress, and now their sheer numbers are beginning to overwhelm the combined forces of Men and Elves. Seeing that the Deeping Wall is lost, Théoden orders those that still fight to retreat to the Hornburg so that they may concentrate on the defence of the keep and those left alive inside.*
 
 *Hearing the king's orders, Aragorn relays Théoden's commands to those around him to fall back with as much haste as they can muster. However, there are now numerous fighting Uruk-hai that have spread across the fortress walls and stand between those upon the Deeping Wall and those fighting to defend the Hornburg.*
@@ -867,11 +730,7 @@ has led to a surge of Uruk-hai flooding forth through the gaping wound in the fo
 for the Uruk-hai fight with a renewed vigour in an effort to put an end to
 the Kingdom of Rohan.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image39.jpeg){width="7.383333333333334in"
-height="5.333333333333333in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image40.jpeg){width="1.8in"
-height="3.329861111111111in"}
 
 *LAYOUT*
 
@@ -911,7 +770,7 @@ pike;
 
 THE CAUSEWAY
 
-*A*][*ragorn and his companions have
+*Aragorn and his companions have
 fought their way to the Hornburg and to the side of Théoden; however, they are not yet safe from the forces of Isengard. The Uruk- hai have reached the gates of Helm's Deep and are using a great battering ram to try to break through the gates and storm the fortress. Whilst Théoden and the Rohirrim attempt to barricade the remains of the gates, Aragorn and Gimli try to buy Théoden as much time as they
 can.*
 
@@ -923,11 +782,7 @@ himself to join the fight.*
 and cut down. They only need to hold out until Théoden has barricaded the gates before making their escape, but it will take every ounce of skill
 and determination to last that long.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image41.jpeg){width="7.383333333333334in"
-height="5.333333333333333in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image42.jpeg){width="3.1902777777777778in"
-height="3.1902777777777778in"}
 
 *OBJECTIVES*
 
@@ -965,13 +820,11 @@ Glóin.
 Evil: 20 Uruk-hai Warriors: 10 with shield, 10 with
 pike.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image43.jpeg){width="7.876388888888889in"
-height="4.513194444444444in"}
 
-[]{#bookmark41 .anchor}FALL BACK TO THE
+## FALL BACK TO THE
 KEEP
 
-*T*][*he hordes of Isengard have blown
+*The hordes of Isengard have blown
 apart the Deeping Wall, revealing a gaping wound in the side of the fortress which the Uruk-hai forces use to flood through and onto the walls of Helm's Deep. Those that defended the walls have been forced to fall back to the Hornburg, though the overwhelming numbers of the Isengard forces have felled many Elves and Men as they fought to hold them
 back.*
 
@@ -986,11 +839,7 @@ Deep.*
 not hold back the tide of Uruk-hai for long, and soon they flood through
 the gates and into the fortress. Saruman's plan to end the kingdom of Rohan seems to be working...*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image44.jpeg){width="7.386805555555555in"
-height="6.363194444444445in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image45.jpeg){width="3.3368055555555554in"
-height="3.323611111111111in"}
 
 *LAYOUT*
 
@@ -1028,12 +877,10 @@ Rohan;
 
 Evil: 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image46.jpeg){width="7.873611111111111in"
-height="3.6368055555555556in"}
 
 RIDE OUT
 
-*T*][*he forces of Isengard have swarmed
+*The forces of Isengard have swarmed
 through Helm's Deep; their path of devastation has left naught but destruction and death in their wake, and those that still stand against them have been forced back into the keep. Within the walls of the throne room, Théoden begins to realise that the battle is almost lost. How can those that remain hope to fend off such reckless hate in order to
 survive?*
 
@@ -1051,11 +898,7 @@ all the way through the fortress, and onto the causeway. Though they are
 few, if they can slay enough of the Uruk-hai then they may be able to rout
 them and win the day.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image47.jpeg){width="7.386805555555555in"
-height="6.503472222222222in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image48.jpeg){width="3.3368055555555554in"
-height="3.323611111111111in"}
 
 *LAYOUT*
 
@@ -1094,12 +937,10 @@ causeway.
 
 The Evil player then deploys all of their models within 6" of the centre of the board.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image49.jpeg){width="7.876388888888889in"
-height="4.276388888888889in"}
 
-[]{#bookmark45 .anchor}ÉOMER'S RETURN
+## ÉOMER'S RETURN
 
-*H*][*aving remembered Gandalf's final
+*Having remembered Gandalf's final
 words before departing Edoras, Aragorn and Théoden have rallied their allies and charged forth from the gates of Helm's Deep. As they continue to fight through ranks of Uruk-hai, dawn begins to break over the valley, and Aragorn and Théoden look to the east where their eyes are met by a welcome sight.*
 
 *Atop the hills that lead down into the valley, Gandalf can be seen
@@ -1112,11 +953,7 @@ into the valley below and blinding the Uruk-hai who now stand between Éomer and
 the last surviving defenders of Helm's Deep from being
 slain.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image50.jpeg){width="6.8902777777777775in"
-height="5.353472222222222in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image51.jpeg){width="3.3402777777777777in"
-height="6.493055555555555in"}
 
 *OBJECTIVES*
 
@@ -1156,7 +993,7 @@ edge.
 
 THE BATTLEOF HELM'S DEEP
 
-*S*][*aruman's invasion of the Kingdom
+*Saruman's invasion of the Kingdom
 of Rohan has been ruthless and his forces have brought death and ruin to its people. Many of Rohan's villages have been torched and their people slain, and bands of Dunlendings and Uruk-hai scour the Westfold intent on bringing yet more of Rohan to its knees. With the constant war that has engulfed his realm, Théoden has made the decision to make for the refuge of Helm's Deep in an attempt to protect his
 people.*
 
@@ -1174,8 +1011,6 @@ stood many years ago between Men and Elves.*
 
 *A host of Galadhrim Elves, led by Haldir of Lórien, has journeyed to Helm's Deep to aid the Rohirrim against the approaching mass of Saruman's armies. Together, Men and Elves stand side-by- side once more, this time upon the Deeping Wall of Helm's Deep, as ten thousand Uruk-hai bear down upon them. The Battle of Helm's Deep will prove to be the greatest battle in the history of the Kingdom of Rohan.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image52.jpeg){width="6.873611111111111in"
-height="5.853472222222222in"}
 
 *LAYOUT*
 
@@ -1199,8 +1034,6 @@ The Battle of Helm's Deep is a huge battle fought across the entire fortress; as
 at the end of the game the Deeping Wall has been destroyed, the Evil player claims this objective. If the Deeping Wall remains intact then the Good player claims this objective.The Hornburg -- Whichever player has the
 most models within the Hornburg at the end of the game claims this objective.The Heroes of Helm's Deep -- There are eight Good Hero models within the fortress of Helm's Deep: Aragorn, Legolas, Gimli, Théoden, Gamling, Aldor, Haleth and Haldir. If at the end of the game there are more of these Hero models alive than dead, the Good player claims this objective. If more of these Hero models have been slain, the Evil player claims this objective.The Causeway -- Whichever player has the most models upon the causeway at the end of the game claims this objective.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image53.jpeg){width="4.843055555555556in"
-height="5.259722222222222in"}
 
 *SPECIAL RULES*
 
@@ -1233,8 +1066,6 @@ flooding the battlements.*
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as
 normal.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image54.jpeg){width="7.876388888888889in"
-height="4.8in"}
 
 *PARTICIPANTS*
 
@@ -1268,13 +1099,11 @@ Berserkers;]
 Ladders.(6_Middle-earth_-_War_in_Rohan_media/media/image55.jpeg){width="1.7798611111111111in"
 height="1.3597222222222223in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image56.jpeg){width="7.876388888888889in"
-height="5.663194444444445in"}
 
-[]{#bookmark49 .anchor}THE DEFENCE OF
+## THE DEFENCE OF
 EDORAS
 
-*A*][*s Théoden and his allies journeyed
+*As Théoden and his allies journeyed
 to the fortress*
 
 *of Helm's Deep, Gandalf rode out from Edoras in search of those still loyal to their king. In his search across the Riddermark, Gandalf manages to track down Éomer and his men and brings them news of the danger Théoden and his people now face as an army from Isengard marches upon them.*
@@ -1286,12 +1115,7 @@ capital from this potential threat, Gandalf sends Elfhelm and his Éored to the 
 distance, a rabble of Wild Men and Warg Riders can be seen racing towards the city. It falls to Elfhelm and his men to fight to ensure that Edoras
 does not fall, and that those who would see it burn are fought back and the city is made safe.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image57.jpeg){width="7.386805555555555in"
-height="5.336805555555555in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image58.jpeg){width="3.3368055555555554in"
-height="3.326388888888889in"}(6_Middle-earth_-_War_in_Rohan_media/media/image59.jpeg){width="7.873611111111111in"
-height="4.173611111111111in"}
 
 *OBJECTIVES*
 
@@ -1332,7 +1156,7 @@ Evil: Gorûlf Ironskin; Frída Tallspear; The Wild Man Oathmaker; 12 Dunlending 
 
 LAST MARCH OF THE ENTS
 
-*F*][*rom within the depths of Fangorn
+*From within the depths of Fangorn
 Forest, the Ents have begun the slow march to war with Isengard, the treason of Saruman finally brought to their attention by the arrival of Merry and Pippin. Much of the forest has been destroyed, ripped up and used to fuel the furnaces of Isengard as it strained to produce the vast numbers of weapons required by Saruman's army. Gone are the times when the White Wizard would wander the paths of the forest, for now his mind is only focused on darkness and metal.*
 
 *Upon the discovery that many of his friends have been cut down,
@@ -1343,11 +1167,7 @@ flaming arrows and ropes which they use to try to bring down the shepherds of th
 are they marching to their doom and the extinction of their
 race?*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image60.jpeg){width="7.383333333333334in"
-height="7.503472222222222in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image61.jpeg){width="3.209722222222222in"
-height="3.1902777777777778in"}
 
 *LAYOUT*
 
@@ -1391,12 +1211,10 @@ Evil: 4 Orc Captains with shield; 48 Orcs Warriors: 16 with shield, 16 with spea
 
 The Good player is the winner if they can destroy the dam. The Evil player wins if they can slay all of the Good models before this is accomplished.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image62.jpeg){width="7.876388888888889in"
-height="3.126388888888889in"}
 
 THE URUK-HAI" RETREAT
 
-*T*][*he arrival of Gandalf and the
+*The arrival of Gandalf and the
 Riders of Rohan that he brought with him has given victory to Rohan, routing the Isengard forces in the process. Knowing that the battle is now lost, the Uruk-hai have the choice to turn and flee or to be cut down where they stand. Whilst some fight to the last, many are forced to turn tail and flee towards
 Isengard.*
 
@@ -1409,11 +1227,7 @@ remembered by the Ents that remain within the forest. As the Uruk-hai race betwe
 alerts them to the danger they are really in. Fangorn has sought vengeance
 upon Isengard, and it will deal it swiftly to those Uruk-hai who have fled into their lands.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image63.jpeg){width="7.386805555555555in"
-height="5.836805555555555in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image64.jpeg){width="3.326388888888889in"
-height="3.323611111111111in"}
 
 *LAYOUT*
 
@@ -1441,12 +1255,10 @@ Evil: 2 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 
 
 The Good player deploys their models within 6" of the western board edge. The Evil player does not deploy any models; instead they will automatically enter the board from the western board edge at the end of the Evil player's first Move phase via the rules for Reinforcements.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image65.jpeg){width="7.876388888888889in"
-height="4.496527777777778in"}
 
 PATHS OF THE DRÚADAN
 
-*A*][*s Théoden leads the Rohirrim to
+*As Théoden leads the Rohirrim to
 war, his scouts bring news that the path to Minas Tirith has been blocked by an army of Orcs, preventing them from reaching the Pelennor unscathed. Théoden is faced with a choice; either to face this threat head-on yet risk arriving at the battle too late, or to venture into the depths of the Drúadan Forest and hope to pass by unseen.*
 
 *Fortune, however, smiles upon Théoden as he is approached by
@@ -1462,12 +1274,7 @@ block their path to war -- for the Woses harbour a deep and burning hatred
 for Orcs and all their kind, and so the opportunity to slay more of these
 foul creatures greatly excites them.*
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image66.jpeg){width="6.896527777777778in"
-height="6.006944444444445in"}
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image67.jpeg){width="3.209722222222222in"
-height="3.1902777777777778in"}(6_Middle-earth_-_War_in_Rohan_media/media/image68.jpeg){width="3.3368055555555554in"
-height="3.329861111111111in"}
 
 *LAYOUT*
 
@@ -1512,7 +1319,5 @@ wargear.
 The Rohirrim must reach the Pelennor before the battle is lost, time is of the essence and they cannot risk being delayed in the
 forest.
 
-(6_Middle-earth_-_War_in_Rohan_media/media/image69.jpeg){width="7.876388888888889in"
-height="4.683333333333334in"}
 
 The Good player wins if half (or more) of the Rohan models exit the board via the southern board edge. The Evil player wins if they can prevent this from happening. If half (or more) Rohan models exit the board, but Théoden has been slain, the game is a draw.]

@@ -1,7 +1,7 @@
-﻿[[]{#bookmark42 .anchor}**SCOURING OF THE SHIRE
+﻿## SCOURING OF THE SHIRE
 CAMPAIGN** 
 
-H][ere we present you with the Scouring
+Here we present you with the Scouring
 of the Shire campaign, a system that links the Narrative Play Scenarios in this volume together in such a way that the results of one game can impact your next game or even one much later on! This will make the already dynamic Narrative Play Scenarios feel as if you are playing through the scenes directly from the books and the movies. 
 
 As you may have already guessed, this supplement focuses on the skirmishes and events that happened within the Shire from when Sharkey began to take over to the return of the Travellers. The Scenarios start with the amassing of the Ruffians in Bree, and the very beginning of Sharkey's regime under the influence of his puppet, Lotho Sackville-Baggins, through to the various arrests of well-meaning Hobbits and the birth of a small rebellion, to the final Battle of Bywater - the most famous battle in the history of the Shire. 
@@ -23,11 +23,6 @@ Scenario.
 In The Lockholes Scenario, replace the Hobbit Militia that have been arrested with any Hobbit Hero models that have been captured - this is your one chance to rescue any Hobbits that have been taken prisoner! Any Hobbit Hero models rescued in this way may then join in the Battle of Bywater Scenario. For each additional Hobbit Hero the Good player receives, the Evil player may add three additional Ruffians to their
 force. 
 
-![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image61.jpeg){width="6.8902777777777775in"
-height="2.5166666666666666in"} 
-
-![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image62.png){width="4.326388888888889in"
-height="10.82986111111111in"} 
 
 **1** 
 
@@ -105,15 +100,12 @@ Scenario.
 
 Evil: Baldo Tulpenny may not deploy Trap markers in the Attack on Tuckborough Scenario. 
 
-![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image63.jpeg){width="0.7569444444444444in"
-height="0.55in"}![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image64.jpeg){width="0.5597222222222222in"
-height="0.5868055555555556in"}![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image65.jpeg){width="0.5034722222222222in"
-height="0.5569444444444445in"}![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image66.jpeg){width="0.5402777777777777in"
-height="0.5701388888888889in"}![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image67.jpeg){width="0.9798611111111111in"
-height="0.9263888888888889in"} 
 
-![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image68.jpeg){width="3.9868055555555557in"
-height="10.040277777777778in"} 
+
+
+
+
+
 
 **11** 
 
@@ -153,5 +145,3 @@ Scenario.
 
 Evil: In the Battle of Bywater Scenario, Merry begins the game with no Fate points. 
 
-![](5_Middle-earth_-_Scouring_of_the_Shire_media/media/image69.jpeg){width="4.186805555555556in"
-height="0.7631944444444444in"}]

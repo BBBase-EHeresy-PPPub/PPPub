@@ -1,8 +1,6 @@
 ﻿
 [**CAMPAIGN** 
 
-![](9_Defence_of_the_North_media/media/image60.jpeg){width="5.759722222222222in"
-height="5.6402777777777775in"} 
 
 *"In time, all foul things come
 forth'"* 
@@ -12,7 +10,7 @@ ofSmaug*
 
 DEFENCE OF THE NORTH CAMPAIGN 
 
-H][ere we present you with the Defence
+Here we present you with the Defence
 of the North campaign, a system for linking your games together in such a way that the results of one game can impact your next game or even one much later on! This will join together the already dynamic Narrative Play Scenarios in such a way that it will feel as if you are playing through the scenes directly from the books and the movies. 
 
 As you may have already read, this supplement focuses on the battles and events that happened in the northern region of Rhovanion at the time of the War of the Ring. The Easterlings have marched upon the kingdoms of Erebor and Dale, and Sauron has sent hordes of Orcs to assault the Elven realms within Mirkwood and Lothlórien. This campaign is slightly unusual in that it is essentially three shorter campaigns in one. Sauron's plan was to have the Easterlings defeat the forces of Dáin and Brand whilst a host of Orcs conquered Mirkwood. Then the two armies would converge on Lothlórien, joining the army already there, to combine forces and defeat the Galadhrim. 
@@ -31,19 +29,15 @@ SCENARIO BONUSES
 
 After each Scenario has been completed, it is important to note down which side won that Scenario, either Good or Evil. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in a future Scenario. For example, if the Good side is victorious in The Hosts Clash Scenario, then the Good side will receive a bonus in the Plains of Erebor Scenario - the next Scenario in the campaign. These bonuses reflect the advantages of success and the edge it will give either side in the future. 
 
-![](9_Defence_of_the_North_media/media/image61.jpeg){width="6.8902777777777775in"
-height="3.770138888888889in"} 
 
-![](9_Defence_of_the_North_media/media/image62.jpeg){width="0.3236111111111111in"
-height="0.5in"}![](9_Defence_of_the_North_media/media/image63.jpeg){width="0.5236111111111111in"
-height="0.5in"} 
+
 
 CAMPAIGN 1 
 
 THE BATTLE OF DALE 
 
-![](9_Defence_of_the_North_media/media/image64.png){width="4.153472222222222in"
-height="10.833333333333334in"}CROSSING
+
+CROSSING
 OF 
 
 THE RIVER CARNEN 
@@ -71,8 +65,6 @@ Good: In the Dáin's Last Stand Scenario, whenever Dáin spends a point of Might
 
 Evil: In the Dáin's Last Stand Scenario, the Good player only starts the game with nine Iron Hills Dwarves with spear rather than 12. 
 
-![](9_Defence_of_the_North_media/media/image65.jpeg){width="0.5569444444444445in"
-height="0.5430555555555555in"} 
 
 5 
 
@@ -80,8 +72,8 @@ height="0.5430555555555555in"}
 
 8 
 
-![](9_Defence_of_the_North_media/media/image66.png){width="4.906944444444444in"
-height="10.82638888888889in"}DÁIN'S LAST
+
+DÁIN'S LAST
 STAND 
 
 Good: In the Retreat to Erebor Scenario, the Good player may deploy their models within 15" of the centre of the southern board edge rather than 12". 
@@ -120,8 +112,8 @@ strikes.
 Evil: In the Burning of Mirkwood Scenario, whenever a tree is destroyed, the Evil player may choose to have the D6 re-rolled to determine which direction it
 falls. 
 
-![](9_Defence_of_the_North_media/media/image67.jpeg){width="0.32013888888888886in"
-height="0.5034722222222222in"}AN UNEASY
+
+AN UNEASY
 ALLIANCE 
 
 Good: In the Burning of Mirkwood Scenario, Razgûsh starts the game with only a single point of
@@ -129,14 +121,12 @@ Might.
 
 Evil: In the Burning of Mirkwood Scenario, Orc models gain the Poisoned Weapons special rule for all of their weapons. 
 
-![](9_Defence_of_the_North_media/media/image68.jpeg){width="0.5236111111111111in"
-height="0.5069444444444444in"}ATTACK ON THE BEORNINGS Good: In the Battle under the Trees Scenario, Grimbeorn is added to the Good side. Grimbeorn will enter the board at the start of the Good player's fourth Move phase using the rules for reinforcements. Grimbeorn is automatically in bear form; there is no need to roll for
+ATTACK ON THE BEORNINGS Good: In the Battle under the Trees Scenario, Grimbeorn is added to the Good side. Grimbeorn will enter the board at the start of the Good player's fourth Move phase using the rules for reinforcements. Grimbeorn is automatically in bear form; there is no need to roll for
 it. 
 
 Evil: In the Battle under the Trees Scenario, the Evil player can, once per game, choose to have Priority instead of having to roll for it. 
 
-![](9_Defence_of_the_North_media/media/image69.jpeg){width="0.5236111111111111in"
-height="0.2965277777777778in"}BURNING OF
+BURNING OF
 MIRKWOOD 
 
 Good: In the Battle under the Trees Scenario, Tauriel re- rolls all failed To Wound rolls when making
@@ -150,8 +140,7 @@ winning.
 
 5 
 
-![](9_Defence_of_the_North_media/media/image70.jpeg){width="4.353472222222222in"
-height="10.82638888888889in"}Evil: In the Assault on Lothlórien
+Evil: In the Assault on Lothlórien
 campaign, if a Scenario is drawn then the Evil player counts as
 winning. 
 
@@ -183,7 +172,3 @@ store.
 
 4 
 
-![](9_Defence_of_the_North_media/media/image71.jpeg){width="0.5631944444444444in"
-height="0.5430555555555555in"}![](9_Defence_of_the_North_media/media/image72.jpeg){width="0.5902777777777778in"
-height="0.5430555555555555in"}![](9_Defence_of_the_North_media/media/image73.jpeg){width="4.366666666666666in"
-height="10.82638888888889in"}]

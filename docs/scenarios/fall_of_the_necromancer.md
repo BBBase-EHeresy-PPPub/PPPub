@@ -1,13 +1,11 @@
 ﻿
-[[]{#bookmark7 .anchor}**Scenarios** 
+## Scenarios** 
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image6.jpeg){width="11.247916666666667in"
-height="15.466666666666667in"}
 
-[]{#bookmark9 .anchor}THE FOUNDING OF DOL
+## THE FOUNDING OF DOL
 GULDUR
 
-***A***] [***lthough
+***A******lthough
 Sauron had been defeated by the Last Alliance of Men and Elves at the end of the Second Age, Isildur's refusal to destroy the Ring of Power allowed the Dark Lord's spirit to endure. For hundreds of years, Sauron waited within the darkness, slowly gathering his strength until he could return to Middle-earth.***
 
 *Over a thousand years passed before Sauron returned, and he did so in secret to the southern region of the Greenwood, home to both Human woodsmen and the Silvan Elves. Unbeknownst to the Free Peoples of Middle-earth, Sauron's return shrouded the southern reaches of the forest and evil began to fester within the shadows; and at its heart, upon the hill of Amon Lanc, the servants of the Dark Lord built a fortress for their master to reside
@@ -18,11 +16,7 @@ undiscovered.*
 
 *Gathering to his side a band of Orcs and other foul creatures, the Dark Lord Sauron himself ventured out into the Greenwood to rid it of the woodsmen. However, Sauron is still centuries away from reaching his former strength, and if the woodsmen can defeat the Dark Lord, he might never be able to regain a foothold in Middle-earth.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image7.jpeg){width="10.543055555555556in"
-height="7.143055555555556in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image8.jpeg){width="4.5368055555555555in"
-height="4.5465277777777775in"}
 
 OBJECTIVES
 
@@ -68,15 +62,13 @@ bow.
 
 ***Note:** The Woodsmen Chieftain uses the same profile as a Captain of Rohan, the Woodsmen use the same profile as a Warrior of Rohan.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image9.jpeg){width="9.479861111111111in"
-height="6.336805555555555in"}
 
 **Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
-[]{#bookmark12 .anchor}THE GATHERING
+## THE GATHERING
 EVIL
 
-***Y***] [***ears
+***Y******ears
 after the foundation of Dol Guldur, darkness spreads out across the Greenwood drawing more evil to the forest. The creatures that live within the trees are becoming bolder, attacking those that wander the Elven paths. Orcs are taking up residence within the southern fortress and have been sighted cutting down trees and raiding villages on the edges of the Greenwood.***
 
 *Although brought to the attention of the Elvenking of the Woodland Realm, he seems unconcerned with the goings-on outside of his own borders. However, he knows that the Orcs will not ignore his lands for long, and so in a bid to discover what could be drawing these creatures to the southern reaches of the forest, the Elvenking sends a band of Rangers to scout out those regions and report
@@ -91,12 +83,7 @@ Realm.*
 *Soon the Elves find themselves surrounded by darkness and hear the howls of Orcs coming from deep within the gloom. They must now escape northwards or find themselves at the mercy of the evil that now hunts
 them.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image10.jpeg){width="9.840277777777779in"
-height="7.636805555555555in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image11.jpeg){width="4.553472222222222in"
-height="4.5569444444444445in"}(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image12.jpeg){width="4.740277777777778in"
-height="2.326388888888889in"}
 
 OBJECTIVES
 
@@ -136,13 +123,11 @@ Rangers.
 
 **Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image13.jpeg){width="11.25in"
-height="6.820138888888889in"}
 
-[]{#bookmark15 .anchor}CORRUPTION OF THE
+## CORRUPTION OF THE
 GREENWOOD
 
-***A***] [***s the
+***A******s the
 Dark Lord's power grows within Dol Guldur, increasing numbers of Orcs and other foul creatures are drawn to his evil. Spiders now lurk within the boughs, ever in search of prey that may have strayed too far from the Elven paths. Packs of Wargs hunt the forest looking for their next meal, and colonies of bats swarm overhead, blotting out the sunlight that would usually filter down to the forest
 floor.***
 
@@ -156,11 +141,7 @@ reason.*
 *Soon the Elves become aware that they are not alone. From the shadows of the forest, those drawn by Sauron's power sense that fresh meat has wandered into their lair. As they ready to fight for their lives, the Elves now know for certain that whatever is sickening the forest lies to the south of their once verdant realm. No longer is this Greenwood the Great, instead it will become known by a new
 name...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image14.jpeg){width="10.543055555555556in"
-height="7.620138888888889in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image15.jpeg){width="4.753472222222222in"
-height="4.746527777777778in"}
 
 OBJECTIVES
 
@@ -206,13 +187,11 @@ Rangers.
 **Evil:** 4 Castellans of Dol Guldur; 6 Giant Spiders; 6 Mirkwood Spiders; 6 Fell Wargs; 2 Bat
 Swarms.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image16.jpeg){width="8.020138888888889in"
-height="5.823611111111111in"}
 
-[]{#bookmark18 .anchor}LURKING IN THE
+## LURKING IN THE
 SHADOWS
 
-***A***] [***s the
+***A******s the
 years have passed, Mirkwood has increasingly become a place of fear and evil. The forest has grown into a dark and twisted version of the grandeur it once possessed, becoming a home for evil to dwell in undisturbed. Huge webs have become a common sight in the southern reaches of Mirkwood, and the Elves have learned to stay away from them if they value their
 lives.***
 
@@ -224,11 +203,7 @@ Sauron.*
 *The exact location of the lair of the Spider Queen remains unknown, but it is thought to lie within the south-eastern region of Mirkwood. Though many bands of Rangers have been sent out to find this lair and rid it of the creature that supposedly dwells within, they either return having been unable to find any sign of the Spider Queen, or simply do not return at
 all...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image17.jpeg){width="10.543055555555556in"
-height="7.379861111111111in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image18.jpeg){width="4.553472222222222in"
-height="4.553472222222222in"}
 
 *4'*
 
@@ -289,13 +264,11 @@ Rangers.
 **Evil:** The Spider Queen; 6 Giant Spiders; 6 Mirkwood Spiders; 2 Bat
 Swarms.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image19.jpeg){width="11.25in"
-height="5.276388888888889in"}
 
-[]{#bookmark21 .anchor}FLIGHT TO THE
+## FLIGHT TO THE
 EAST
 
-***S***] [***ince the
+***S******ince the
 coming of Sauron to Dol Guldur, the Greenwood has become a place of fear and darkness; corrupted by the influence of the Necromancer and known by the new name of Mirkwood. Yet the shadow that has grown over this once verdant forest has not gone unnoticed by the wise in Middle-earth, and they begin to fear that an ancient evil may have
 returned.***
 
@@ -308,11 +281,7 @@ more.*
 *As Gandalf travels south, Sauron's spies have informed the Dark Lord of the Grey Wizard's approach. However, Sauron is not yet ready to reveal himself, knowing that he is not powerful enough to face the Elves should they make an assault upon Dol Guldur. To keep his return to Middle-earth secret, Sauron decides to flee into the east so that Gandalf does not discover the truth; though if the Wizard learns of the Necromancer's true identity, then Sauron's plans to dominate Middle-earth may well be
 undone.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image20.jpeg){width="9.836805555555555in"
-height="6.683333333333334in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image21.jpeg){width="4.553472222222222in"
-height="4.553472222222222in"}
 
 LAYOUT
 
@@ -369,14 +338,11 @@ Guldur;
 4 Castellans of Dol
 Guldur.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image22.jpeg){width="6.006944444444445in"
-height="2.229861111111111in"}(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image23.jpeg){width="0.46319444444444446in"
-height="0.4597222222222222in"}
 
-[]{#bookmark24 .anchor}THE WATCHFUL
+## THE WATCHFUL
 PEACE
 
-***W***] [***ith
+***W******ith
 Sauron having fled into the east, his influence over the forest of Mirkwood faded in the years following his absence. Dol Guldur fell into ruin and the Orcs and creatures that had become commonplace within the forest slunk back into the shadows, enabling those who sought to traverse the paths of Mirkwood to do so once again. This time became known as the Watchful Peace.***
 
 *Towards the latter decades of the Third Age, these patrols were often led by Legolas Greenleaf, the son of Thranduil, and it was during this time that Legolas would develop exceptional skills with both blade and bow. Yet even during the Watchful Peace, occasionally a mob of Orcs would grow confident and daring and would come forth from whatever lair they had been hiding in to attack the Mirkwood patrols.*
@@ -384,11 +350,7 @@ Sauron having fled into the east, his influence over the forest of Mirkwood fade
 *Even in this time of relative calm, Thranduil was wary of the threat of the beasts that still dwelt within the shadowed reaches of the forest. The Elvenking commanded that bands of his Rangers would patrol the paths of Mirkwood to help ensure that the forest was cleared of any Orcs or foul creatures that remained, and to bring word of anything that might suggest the return of whatever had resided in Dol
 Guldur.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image24.jpeg){width="10.543055555555556in"
-height="8.333333333333334in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image25.jpeg){width="4.753472222222222in"
-height="4.743055555555555in"}
 
 LAYOUT
 
@@ -434,13 +396,11 @@ Warriors:
 
 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image26.jpeg){width="11.25in"
-height="6.2034722222222225in"}
 
-[]{#bookmark27 .anchor}CLEARING THE
+## CLEARING THE
 NESTS
 
-***U***] [***nknown
+***U******nknown
 to the Elves of Mirkwood, the Necromancer has returned to his domain of Dol Guldur in southern Mirkwood, and with the Dark Lord's coming the fell creatures of the forest have once more begun to creep further from the shadows. Giant cobwebs have become a much more common sight, and with each passing year the spiders that spun them venture further northwards, towards the Woodland
 Realm.***
 
@@ -453,12 +413,7 @@ task.*
 *The creatures will attack with bestial ferocity in order to protect their homes, causing the Rangers of Mirkwood to fight their way through in order to destroy the nests that threaten the Woodland Realm. Doing so is dangerous and, should the Rangers fail in their task, many Elves will likely become a meal for the malevolent spiders of
 Mirkwood.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image27.jpeg){width="10.543055555555556in"
-height="6.903472222222222in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image28.jpeg){width="4.553472222222222in"
-height="4.553472222222222in"}(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image29.jpeg){width="11.25in"
-height="5.533333333333333in"}
 
 *4'*
 
@@ -512,10 +467,10 @@ Rangers.
 **Evil:** 6 Mirkwood Spiders; 6 Giant
 Spiders.
 
-[]{#bookmark30 .anchor}ATTACK ON
+## ATTACK ON
 RHOSGOBEL
 
-*T*] [*o the west of
+*T**o the west of
 the forest of Mirkwood lies the dwelling of Rhosgobel, the home of Radagast the Brown, one of the wandering Istari. Unlike the other Wizards in Middle- earth, Radagast does not concern himself with the goings- on of the wider world; instead, he generally minds his own business and tends to the creatures and plants of the
 forest.*
 
@@ -537,11 +492,7 @@ looking to prey upon the unwary Wizard. It will take every ounce of Radagast's p
 the dark magics that are infecting
 it.*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image30.jpeg){width="10.543055555555556in"
-height="9.286805555555556in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image31.jpeg){width="4.740277777777778in"
-height="4.743055555555555in"}
 
 *2'*
 
@@ -586,13 +537,11 @@ Brown.
 Evil: 4 Mirkwood
 Spiders.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image32.jpeg){width="11.243055555555555in"
-height="6.506944444444445in"}
 
-[]{#bookmark33 .anchor}EXPLORATION OF DOL
+## EXPLORATION OF DOL
 GULDUR
 
-*H*] [*aving repelled
+*H**aving repelled
 the spiders that had invaded his homestead, Radagast begins to wonder where such foul creatures have come from. Learning that they have been spawning in the areas around the old fortress of Dol Guldur, he sets out to investigate its ruins for the source of the dark magic that has set the creatures
 loose.*
 
@@ -607,11 +556,7 @@ White Council to act and drive the evil away. But even as Radagast searches the 
 and preparing to
 strike...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image33.jpeg){width="9.836805555555555in"
-height="6.440277777777778in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image34.jpeg){width="4.770138888888889in"
-height="4.743055555555555in"}
 
 LAYOUT
 
@@ -665,10 +610,10 @@ Sebastian.
 Evil: The Witch-king of Angmar, Nazgûl of Dol
 Guldur.
 
-[]{#bookmark36 .anchor}THRÁIN THE
+## THRÁIN THE
 BROKEN
 
-*H*] [*aving found
+*H**aving found
 evidence in the High Fells that Sauron may indeed have returned to Middle-earth, Gandalf and Radagast have come to the outskirts of Dol Guldur in an attempt to discover the truth about the evil that lies within. Radagast fears that the Istari might be about to walk into a trap; something that Gandalf agrees is likely to be the case.*
 
 *Sending Radagast to take word to Saruman and the rest of the White Council, Gandalf pushes on into the gloom of the desolate
@@ -683,11 +628,7 @@ again.*
 *Gandalf must navigate the twisted labyrinth of the dungeons of Dol Guldur in order to break the enchantments of concealment. However, as he moves through passageways and corridors, the wandering Istari must also avoid a small number of Orc sentries so he can remain undetected; meanwhile, lurking somewhere in the dark is the ragged creature who may be more important than Gandalf
 realises...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image35.jpeg){width="9.833333333333334in"
-height="8.82986111111111in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image36.jpeg){width="4.553472222222222in"
-height="4.553472222222222in"}
 
 *2'*
 
@@ -759,10 +700,10 @@ Orcs.
 Designer's Note: *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this
 supplement.*
 
-[]{#bookmark39 .anchor}CAPTURE OF THE GREY
+## CAPTURE OF THE GREY
 WIZARD
 
-*H*] [*aving freed
+*H**aving freed
 Thráin's mind and restored his wits to him, Gandalf continues his search for the evil that lurks within the depths of Dol Guldur. As Gandalf and Thráin venture further into the seemingly-deserted fortress, they begin to sense they are not alone within its crumbling walls, and that the evil within is far greater than Gandalf had ever
 anticipated.*
 
@@ -777,11 +718,7 @@ battle.*
 
 *With a flash of blinding light, Gandalf manages to temporarily escape from the clutches of Azog. However, the Pale Orc and his minions give chase to the Wizard and Dwarf. Gandalf knows that he must escape Dol Guldur in order to warn Thorin of the danger he and his companions are in, though doing so will be easier said than done as the real evil of Dol Guldur is beginning to manifest and plans to capture the Grey Wizard...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image37.jpeg){width="9.836805555555555in"
-height="6.446527777777778in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image38.jpeg){width="4.759722222222222in"
-height="3.0868055555555554in"}
 
 LAYOUT
 
@@ -851,8 +788,6 @@ Designer's Notes: *Winning this Scenario is very hard for the Good side -- but n
 Thráin, but that would be quite uncharacteristic of the Grey
 Wizard!*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image39.jpeg){width="2.8097222222222222in"
-height="2.7263888888888888in"}
 
 During the first turn of the game, all Evil models are treated as being under the effect of the Immobilise Magical
 Power.
@@ -866,13 +801,11 @@ base.
 Models wishing to pass the chasm will need to pass a Jump
 test.
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image40.jpeg){width="0.46319444444444446in"
-height="0.4597222222222222in"}
 
-[]{#bookmark42 .anchor}MAKE HASTE TO DOL
+## MAKE HASTE TO DOL
 GULDUR
 
-*W*] [*ith Gandalf
+*W**ith Gandalf
 having gone into Dol Guldur alone, Radagast has raced to seek assistance from Galadriel and the rest of the White Council in order
 to*
 
@@ -886,11 +819,7 @@ reach his friend before he perishes. The giant spiders, drawn to the evil of
 the Necromancer, have spied the Brown Wizard and seek to feast upon him. If Radagast is slowed down too much, then it may be too late to save Gandalf from a terrible
 fate...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image41.jpeg){width="10.543055555555556in"
-height="8.573611111111111in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image42.jpeg){width="11.25in"
-height="14.753472222222221in"}
 
 *Radagast*
 
@@ -949,10 +878,10 @@ These are Rhosgobel Rabbits -- *In his bid to reach Gandalf in time, Radagast is
 in the way may well be run
 over.*
 
-[]{#bookmark45 .anchor}THE FALL OF THE
+## THE FALL OF THE
 NECROMANCER
 
-*H*] [*aving ventured
+*H**aving ventured
 into the dark, ruined walls of Dol Guldur, Gandalf has uncovered the truth as to what dwells within. Lurking deep inside the seemingly abandoned fortress is none other than Sauron, the enemy of the Free Peoples of Middle-earth. Upon confronting this terrifying foe, Gandalf has been captured and is now at the mercy of the monstrous Keeper of the Dungeons, who relishes the opportunity to torture and maim his
 captive.*
 
@@ -975,11 +904,7 @@ every ounce of power and skill this collection of mighty beings possesses to
 defeat the darkness and stop Sauron from returning to
 Middle-earth...*
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image43.jpeg){width="9.846527777777778in"
-height="8.840277777777779in"}
 
-(8_Middle_Earth_-_Fall_of_the_Necromancer_media/media/image44.jpeg){width="4.763194444444444in"
-height="4.756944444444445in"}
 
 LAYOUT
 
