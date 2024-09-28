@@ -14,19 +14,19 @@ future.
 
 **Good Victory:** In the Retaking of Osgiliath Scenario, the range of the For Gondor! Special rule is increased to 6". 
 
-**Good Victory:** In the Retaking of Osgiliath Scenario, Evil models gain a bonus of +1 To Wound when making Strikes against either Boromir or Faramir. 
+**Evil Victory:** In the Retaking of Osgiliath Scenario, Evil models gain a bonus of +1 To Wound when making Strikes against either Boromir or Faramir. 
 
 ### (2) [RETAKING OF OSGILIATH](../scenarios/gondor_at_war.md#retaking-of-osgiliath)
 
 **Good Victory:** In the Fall of Osgiliath Scenario, Faramir may declare a single Heroic Action each turn without expending a point of Might. 
 
-**Good Victory:** In the Fall of Osgiliath Scenario, Faramir starts the game with only a single point of Might. 
+**Evil Victory:** In the Fall of Osgiliath Scenario, Faramir starts the game with only a single point of Might. 
 
 ### (3) [THE RANGERS OF ITHILIEN](../scenarios/gondor_at_war.md#ambush-in-ithilien)
 
 **Good Victory:** In the War Beasts from the South Scenario, both War Mûmaks of Harad start the game with 8 Wounds rather than 10 Wounds. 
 
-**Good Victory:** In the War Beasts from the South Scenario, each time a Mûmak model suffers a Wound, roll a D6. On a 6, the Wound is ignored. 
+**Evil Victory:** In the War Beasts from the South Scenario, each time a Mûmak model suffers a Wound, roll a D6. On a 6, the Wound is ignored. 
 
 ### (4) [RAIDING OF PELARGIR](../scenarios/gondor_at_war.md#raiding-of-pelargir)
 
