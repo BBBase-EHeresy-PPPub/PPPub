@@ -133,3 +133,4 @@ After each Scenario has been completed, it is necessary to note down which side 
 **Good Victory:** In The Terror of Arnor Scenario, Good models may re-roll failed Courage tests.
 
 **Evil Victory:** In The Terror of Arnor Scenario, Gulavhar may re-roll 1s when rolling To Wound.
+

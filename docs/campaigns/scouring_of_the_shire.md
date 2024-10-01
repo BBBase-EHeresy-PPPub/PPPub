@@ -52,7 +52,7 @@ In The Lockholes Scenario, replace the Hobbit Militia that have been arrested wi
 
 **Evil Victory:** Lobelia Sackville-Baggins may not use any Will or Fate points for the remainder of the campaign.
 
-### (7) [BURNING OF WOODY END](../scenarios/scouring_of_the_shire.md#burning-of-woody-end)
+### (7) [THE BURNING OF WOODY END](../scenarios/scouring_of_the_shire.md#the-burning-of-woody-end)
 
 **Good Victory:** Baldo Tulpenny may deploy three additional Trap markers of the Good player's choice in The Old Storehouse Scenario.
 

@@ -34,7 +34,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the Grishnákh's End Scenario, Grishnákh can, once per game, choose to discard any card he draws and draw another card.
 
-### (5) [GRISHNÁKH'S END](../scenarios/war_in_rohan.md#grishnahks-end)
+### (5) [GRISHNÁKH'S END](../scenarios/war_in_rohan.md#grishnakhs-end)
 
 **Good Victory:** In the Last March of the Ents Scenario, the Ents may deploy within 9" of the eastern board edge.
 

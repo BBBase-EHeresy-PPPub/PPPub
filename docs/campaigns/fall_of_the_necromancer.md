@@ -10,7 +10,7 @@ You can play this campaign with as few as two people, though if you wish differe
 
 After each Scenario has been completed, note down which side won that Scenario, either Good or Evil. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in a future Scenario. For example, if the Evil side is victorious in the Flight to the East Scenario, then the Evil side will receive a bonus in the Capture of the Grey Wizard Scenario - a much later Scenario in the campaign. These bonuses reflect the advantages of success and the edge it will give either side in the future.
 
-### (1) [FOUNDING OF DOL GULDUR](../scenarios/fall_of_the_necromancer.md#founding-of-dol-guldur)
+### (1) [THE FOUNDING OF DOL GULDUR](../scenarios/fall_of_the_necromancer.md#the-founding-of-dol-guldur)
 
 **Good Victory:** In The Gathering Evil Scenario, only three Elves need to escape the board for the Good player to win.
 

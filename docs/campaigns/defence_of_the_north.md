@@ -30,7 +30,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the Plains of Erebor Scenario, if both sides have the same number of models within 3" of the objective, and at least one model each, then the Evil player counts as controlling that objective.
 
-#### (3) [THE PLAINS OF EREBOR](../scenarios/defence_of_the_north.md#the-plains-of-erebor)
+#### (3) [PLAINS OF EREBOR](../scenarios/defence_of_the_north.md#plains-of-erebor)
 
 **Good Victory:** In the Death of Brand Scenario, Brand may re-roll failed Fate rolls.
 
