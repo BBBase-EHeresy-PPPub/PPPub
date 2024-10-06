@@ -114,21 +114,21 @@ After each Scenario has been completed, it is necessary to note down which side 
 
 ---
 
-### APPENDIX
+**APPENDIX**
 
-### (1) [AMBUSH IN RHUDAUR](../scenarios/rise_of_angmar.md#ambush-in-rhudaur)
+### (1) [AMBUSH IN RHUDAUR](../scenarios/rise_of_angmar.md#appendix-1-ambush-in-rhudaur)
 
 **Good Victory:** In The Trap is Sprung Scenario, Good models may re-roll failed Courage tests.
 
 **Evil Victory:** In The Trap is Sprung Scenario, whenever Buhrdur spends a Might point, roll a D6. On the roll of a natural 6, the Might point is free and is not spent.
 
-### (2) [THE TRAP IS SPRUNG](../scenarios/rise_of_angmar.md#the-trap-is-sprung)
+### (2) [THE TRAP IS SPRUNG](../scenarios/rise_of_angmar.md#appendix-2-the-trap-is-sprung)
 
 **Good Victory:** In the Aragorn's Revenge Scenario, if the roll for Priority is ever tied, the Good player may select which piece of terrain is revealed rather than it being randomly determined.
 
 **Evil Victory:** In the Aragorn's Revenge Scenario, whenever Buhrdur spends a Might point, roll a D6. On the roll of a natural 6, the Might point is free and is not spent.
 
-### (3) [ARAGORN'S REVENGE](../scenarios/rise_of_angmar.md#aragorns-revenge)
+### (3) [ARAGORN'S REVENGE](../scenarios/rise_of_angmar.md#appendix-3-aragorns-revenge)
 
 **Good Victory:** In The Terror of Arnor Scenario, Good models may re-roll failed Courage tests.
 

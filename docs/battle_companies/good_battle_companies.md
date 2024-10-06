@@ -1,6 +1,6 @@
 ﻿### MINAS TIRITH
 
-Known as the Tower of the Guard, the mighty walled city of Minas Tirith is the bulwark that has kept the endless legions of the Red Eye at bay through the long and gruelling centuries. Mighty though her ramparts are, the defenders of the White City cannot stand idle behind their fortifications and hope for victory. Instead, at the Steward’s orders, warbands and patrols must constantly venture forth, hunting down the spies of Mordor and guarding key locations such as river-crossings and vantage points. 
+Known as the Tower of the Guard, the mighty walled city of Minas Tirith is the bulwark that has kept the endless legions of the Red Eye at bay through the long and gruelling centuries. Mighty though her ramparts are, the defenders of the White City cannot stand idle behind their fortifications and hope for victory. Instead, at the Steward's orders, warbands and patrols must constantly venture forth, hunting down the spies of Mordor and guarding key locations such as river-crossings and vantage points. 
 
 For the warriors of Minas Tirith selected for such duties, great risk and thrilling adventure beckon – success will see promotion, glory and riches, for nothing in the land of Gondor is valued more than the courage and strength required to keep its lands safe.
 
@@ -101,9 +101,9 @@ This model is never slowed by difficult terrain.
 
 ### FIEFDOMS
 
-Since the days of old, the Fiefdoms of Gondor have stood ready to defend their realm in times of need. Despite the skilled standing armies hosted by the cities under Gondor’s protection, peace is an elusive goal. Orc packs frequently assault cities and outposts, spreading death and devastation, while Corsair slave raids are a constant threat along the southern coastlines.
+Since the days of old, the Fiefdoms of Gondor have stood ready to defend their realm in times of need. Despite the skilled standing armies hosted by the cities under Gondor's protection, peace is an elusive goal. Orc packs frequently assault cities and outposts, spreading death and devastation, while Corsair slave raids are a constant threat along the southern coastlines.
 
-In response, bands of warriors from Gondor’s major cities patrol the lands to protect the race of Men from the threats of Mordor. Notably, aspiring Swan Knights from Dol Amroth often gather forces from Lossarnach, Lamedon, and Morthond to confront and quell these dangers.
+In response, bands of warriors from Gondor's major cities patrol the lands to protect the race of Men from the threats of Mordor. Notably, aspiring Swan Knights from Dol Amroth often gather forces from Lossarnach, Lamedon, and Morthond to confront and quell these dangers.
 
 **STARTING BATTLECOMPANY**
 
@@ -142,7 +142,7 @@ This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
 Though Rohan is a lush and fertile land of rolling plains and gentle hills, it is a kingdom much used to the cruelty of war. Constant raids from the neighbouring Dunlendings, and a history of battle against foes as varied as Orcs and even the Variags of Khand, have forced the men of the Mark to keep a watchful eye over their domain. Across Rohan, her people gather within the palisades of fortified towns and villages, never straying far from safety.
 
-To ensure that the lands between these settlements are free of invaders, constant patrols march along Rohan’s borders and guard her roadways, well-armed and ready to drive back evildoers. Such a duty might seem ignominious to some, but for those who wish to demonstrate their worth to the Marshals of the Mark, there is no better proving ground. Thus can Rohan’s captains find a ready supply of young fighters, full of bravado and the confidence of youth, eager to prove themselves. Those who take up these duties either return as settled, experienced warriors… or they do not return at all.
+To ensure that the lands between these settlements are free of invaders, constant patrols march along Rohan's borders and guard her roadways, well-armed and ready to drive back evildoers. Such a duty might seem ignominious to some, but for those who wish to demonstrate their worth to the Marshals of the Mark, there is no better proving ground. Thus can Rohan's captains find a ready supply of young fighters, full of bravado and the confidence of youth, eager to prove themselves. Those who take up these duties either return as settled, experienced warriors… or they do not return at all.
 
 **STARTING BATTLECOMPANY**
 
@@ -196,7 +196,7 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 ### MEN OF THE WEST
 
-Following the Battle of Pelennor Fields, the Free Peoples of Middle-earth hatched one final plan to draw Sauron’s gaze away from Mordor and onto themselves. Yet, even as they rode to the Black Gate, Aragorn, Éomer, and Imrahil sent groups of trusted warriors to scour the lands outside Mordor for any enemy patrolling warbands or small outposts. 
+Following the Battle of Pelennor Fields, the Free Peoples of Middle-earth hatched one final plan to draw Sauron's gaze away from Mordor and onto themselves. Yet, even as they rode to the Black Gate, Aragorn, Éomer, and Imrahil sent groups of trusted warriors to scour the lands outside Mordor for any enemy patrolling warbands or small outposts. 
 
 With the combined forces of Minas Tirith, Rohan, and Dol Amroth, these valiant companies of allies would assault the defences of the Dark Lord, weakening his armies and preventing them from marching to war against the Free Peoples at the Black Gate. Fighting side-by-side, the warriors of these three great realms of Men fight with a renewed vigour whilst they remain together.
 
@@ -245,7 +245,7 @@ Warrior of Minas Tirith – Knight of Minas Tirith with shield
 
 ### DEAD OF DUNHARROW
 
-Having dwelt within the confines of the White Mountains for thousands of years, the Dead of Dunharrow have finally been called upon to fulfil their oath to the king of Gondor. Whilst most of these Warriors of the Dead went with Aragorn and their undead liege to the fields of Pelennor, some small contingents of undead warriors were sent to fend off Gondor’s enemies elsewhere in Middle-earth. Sent forth by the heir of Isildur, these Warriors of the Dead aimed to seek out the enemies of Gondor across Middle-earth, traveling far and wide to fulfill their duty. It is not until they had accomplished the task they had been set that they could finally be at peace.
+Having dwelt within the confines of the White Mountains for thousands of years, the Dead of Dunharrow have finally been called upon to fulfil their oath to the king of Gondor. Whilst most of these Warriors of the Dead went with Aragorn and their undead liege to the fields of Pelennor, some small contingents of undead warriors were sent to fend off Gondor's enemies elsewhere in Middle-earth. Sent forth by the heir of Isildur, these Warriors of the Dead aimed to seek out the enemies of Gondor across Middle-earth, traveling far and wide to fulfill their duty. It is not until they had accomplished the task they had been set that they could finally be at peace.
 
 **STARTING BATTLECOMPANY**
 
@@ -278,9 +278,9 @@ If the Hero makes one or more Strikes against an enemy model, and that model is 
 
 ### ARNOR
 
-Arnor was once a great realm, formed by Elendil in the Second Age, however, by the dwindling years of the Third Age, Arnor had fallen into ruin; a shadow of its former glory. Yet in days gone by, even as it fell into despair, the Kings of Arnor would send out patrols of their warriors to protect the realm against the swarms of fell creatures under the Witch-king’s command.
+Arnor was once a great realm, formed by Elendil in the Second Age, however, by the dwindling years of the Third Age, Arnor had fallen into ruin; a shadow of its former glory. Yet in days gone by, even as it fell into despair, the Kings of Arnor would send out patrols of their warriors to protect the realm against the swarms of fell creatures under the Witch-king's command.
 
-Those who led these small patrols were warriors who were destined to command Arnor’s armies, but did not yet possess the experience required to lead. They would set out from Fornost with their loyal companions to fend off the Orc raiding parties that threatened their home. These warbands were also used by the kings of old to explore the crumbling ruins that were once Arnor’s cities, abandoned long ago, in search of heirlooms of their forebears.
+Those who led these small patrols were warriors who were destined to command Arnor's armies, but did not yet possess the experience required to lead. They would set out from Fornost with their loyal companions to fend off the Orc raiding parties that threatened their home. These warbands were also used by the kings of old to explore the crumbling ruins that were once Arnor's cities, abandoned long ago, in search of heirlooms of their forebears.
 
 **STARTING BATTLECOMPANY**
 
@@ -305,7 +305,7 @@ Hobbit Archers in this Battle Company do not count towards the total number of b
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Defend the North!'** – It is the hero’s sworn duty to protect the realm of Arnor, no matter the cost. The Hero will automatically pass the first Courage test it must take for their force being Broken.
+**'Defend the North!'** – It is the hero's sworn duty to protect the realm of Arnor, no matter the cost. The Hero will automatically pass the first Courage test it must take for their force being Broken.
 
 ---
 
@@ -381,7 +381,7 @@ Lake-town Militia with bow – Lake-town Guard with bow
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"The Master’s Purse Strings"** – The Hero is under the employment of the Master of Lake-town and can use their employer’s influence to rouse their followers into action. At the start of the Fight phase, before any Heroic Actions are declared, the Hero can spend 1 point of Might. If they do so, the Fight value of all friendly models within 6" is increased by 1 until the End phase of the turn.
+**"The Master's Purse Strings"** – The Hero is under the employment of the Master of Lake-town and can use their employer's influence to rouse their followers into action. At the start of the Fight phase, before any Heroic Actions are declared, the Hero can spend 1 point of Might. If they do so, the Fight value of all friendly models within 6" is increased by 1 until the End phase of the turn.
 
 ---
 
@@ -389,7 +389,7 @@ Lake-town Militia with bow – Lake-town Guard with bow
 
 In the closing years of the Second Age, the armies of Gil-galad and Elendil formed a compact that would become known as the Last Alliance of Men and Elves, to combat the ever-growing threat of Sauron. Marching to war upon the black lands of Mordor, they fought for many years against the hordes of Orcs that Sauron sent to oppose them. During these blighted years, it was not unusual for Gil-galad and Elendil to send small bands of their warriors to venture into Mordor to undermine the armies of the Dark Lord.
 
-These companies would be tasked with dealing with enemy scouts before they could give away their army’s position, capturing small Orc outposts, or even assassinating leaders of the Orcish armies. As these companies of Men and Elves fought together, the bonds between them grew to a point where they would fight better when alongside their allies than even when alongside those of their own race.
+These companies would be tasked with dealing with enemy scouts before they could give away their army's position, capturing small Orc outposts, or even assassinating leaders of the Orcish armies. As these companies of Men and Elves fought together, the bonds between them grew to a point where they would fight better when alongside their allies than even when alongside those of their own race.
 
 **STARTING BATTLECOMPANY**
 
@@ -422,7 +422,7 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 ### EREBOR AND DALE
 
-To the east of Mirkwood lies the great Dwarven realm of Erebor, once ruled over by Thrór, The Last King Under the Mountain. Erebor forged a strong alliance with Dale, the City of Men, and its lord, Girion. This relationship was based on prevalent trade; the Dwarves used Dale’s grand markets to distribute their wares across Middle-earth, and in return, they provided the armouries of Dale with finely-wrought weapons. The greatest asset these allies provided each other was combined strength-in-arms.
+To the east of Mirkwood lies the great Dwarven realm of Erebor, once ruled over by Thrór, The Last King Under the Mountain. Erebor forged a strong alliance with Dale, the City of Men, and its lord, Girion. This relationship was based on prevalent trade; the Dwarves used Dale's grand markets to distribute their wares across Middle-earth, and in return, they provided the armouries of Dale with finely-wrought weapons. The greatest asset these allies provided each other was combined strength-in-arms.
 
 It was common for a small band of Dwarves from Erebor and Men from Dale to be tasked with the defence of an outpost, benefiting both realms. Groups like these often formed close bonds, honing their skills side-by-side in the wild lands of Middle-earth and sharing both talents and experiences with each other.
 
@@ -467,7 +467,7 @@ Pick Hammer (1/5) – 1 Influence Point
 
 Home to Galadriel, the Lady of Light, and the Elven ring of Nenya, Lothlórien is well guarded by the Elves who live there. Few are ever permitted to pass through the Golden Wood, but those who are granted this honour are met by the Lord and Lady of Lórien in good spirits. Yet the woodland realm of Lórien has come under threat from Evil in the past, as packs of Orcs, Goblins, and other Evil creatures constantly seek to infiltrate its boughs. 
 
-It is because of this that the Galadhrim wander the well-trodden paths of Lothlórien, ensuring that they are free of Evil and that peace remains. The Elves who lead these patrols are veterans of Ages past, experienced in the ways of combat from the many wars they have fought. It is not unheard of for these Elves to range out into Middle-earth in search of Sauron’s forces, intent on seeing the Dark Lord finally vanquished.
+It is because of this that the Galadhrim wander the well-trodden paths of Lothlórien, ensuring that they are free of Evil and that peace remains. The Elves who lead these patrols are veterans of Ages past, experienced in the ways of combat from the many wars they have fought. It is not unheard of for these Elves to range out into Middle-earth in search of Sauron's forces, intent on seeing the Dark Lord finally vanquished.
 
 **STARTING BATTLECOMPANY**
 
@@ -524,9 +524,9 @@ Galadhrim Warrior with spear & shield – Guard of the Galadhrim Court
 
 ### RIVENDELL
 
-Located in the hidden valley in the western foothills of The Misty Mountains, Rivendell endures under the protection of Elrond and the Elven ring that he possesses. The power of Vilya has kept Rivendell safe, and made it a place of peace and refuge to all of the Free Peoples of Middle-earth, earning it the name ‘The Last Homely House’.
+Located in the hidden valley in the western foothills of The Misty Mountains, Rivendell endures under the protection of Elrond and the Elven ring that he possesses. The power of Vilya has kept Rivendell safe, and made it a place of peace and refuge to all of the Free Peoples of Middle-earth, earning it the name ‘The Last Homely House'.
 
-However, even places such as Rivendell need protection from the ever-growing Evil in the Third Age. Under Lord Elrond’s orders, Elven captains patrol Rivendell’s borders, making sure that they are kept free from foul creatures that would bring destruction upon them. Although rare, it has been known for the Elven patrols from Rivendell to venture further beyond their borders, offering aid to those in need against the forces of Sauron.  
+However, even places such as Rivendell need protection from the ever-growing Evil in the Third Age. Under Lord Elrond's orders, Elven captains patrol Rivendell's borders, making sure that they are kept free from foul creatures that would bring destruction upon them. Although rare, it has been known for the Elven patrols from Rivendell to venture further beyond their borders, offering aid to those in need against the forces of Sauron.  
 
 **STARTING BATTLECOMPANY**
 
@@ -560,7 +560,7 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 Deep within Mirkwood can be found the halls of the Elvenking, Thranduil. This woodland realm is kept hidden within the forest, away from prying eyes and Evil thoughts. Thranduil cares little for the world beyond his realm and will not waste precious lives in keeping it safe. Yet as the years have gone by, even the Elvenking has come to
 acknowledge the growing threat that is beginning to rise in the old fortress of Dol Guldur.
 
-More and more frequently, the Elvenking has commanded patrols to go out into Mirkwood and clear out the Evil creatures that lurk in the gloom. For the spiders that once resided solely in Dol Guldur have become more brazen and vicious, creeping further and further north, towards the halls of Thranduil. Those in charge of the Elvenking’s patrols are tasked with clearing out these spider nests and protecting Mirkwood from all manner of unwelcome ‘guests’.
+More and more frequently, the Elvenking has commanded patrols to go out into Mirkwood and clear out the Evil creatures that lurk in the gloom. For the spiders that once resided solely in Dol Guldur have become more brazen and vicious, creeping further and further north, towards the halls of Thranduil. Those in charge of the Elvenking's patrols are tasked with clearing out these spider nests and protecting Mirkwood from all manner of unwelcome ‘guests'.
 
 **STARTING BATTLECOMPANY**
 
@@ -700,9 +700,9 @@ This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 ### MORIA EXPEDITION
 
-Once, the Kingdom of Khazad-dûm was the pride of the Dwarven race, famed for its wealth and the mighty Dwarven lords that resided within its impressive stone halls. However, the coming of Durin’s Bane saw the fall of this great kingdom, which hence became known as Moria. Many centuries later, following the reclamation of Erebor, Balin led an expedition to take back Moria from the clutches of the Goblins that defiled its halls.
+Once, the Kingdom of Khazad-dûm was the pride of the Dwarven race, famed for its wealth and the mighty Dwarven lords that resided within its impressive stone halls. However, the coming of Durin's Bane saw the fall of this great kingdom, which hence became known as Moria. Many centuries later, following the reclamation of Erebor, Balin led an expedition to take back Moria from the clutches of the Goblins that defiled its halls.
 
-During the early years of his expedition, the lord Balin would send bands of Dwarven warriors into Moria’s tunnels to clear them of Goblins and other creatures and retake them for the Dwarves. It was not unheard of for particularly successful companies to ask permission of their lord to head out, temporarily, into Middle-earth, to hone their skills and seek supplies and reinforcements to bring back to Moria.
+During the early years of his expedition, the lord Balin would send bands of Dwarven warriors into Moria's tunnels to clear them of Goblins and other creatures and retake them for the Dwarves. It was not unheard of for particularly successful companies to ask permission of their lord to head out, temporarily, into Middle-earth, to hone their skills and seek supplies and reinforcements to bring back to Moria.
 
 **STARTING BATTLECOMPANY**
 
@@ -813,7 +813,7 @@ A Wanderers in the Wild Battle Company may have up to 50% of their models armed 
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Away from prying eyes'** – The Hero’s time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *Stalk Unseen* special rule.
+**'Away from prying eyes'** – The Hero's time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *Stalk Unseen* special rule.
 
 **REINFORCEMENTS**
 
@@ -826,5 +826,5 @@ A Wanderers in the Wild Battle Company may have up to 50% of their models armed 
 | 5  | Choose one of the above                        |
 | 6  | Wood Elf Sentinel (Rare 1)                     |
 
-If the company’s Hobbit Militia has been slain, you may swap any result on the Reinforcements chart for a Hobbit Militia. The company may only ever have one Hobbit Militia at a time.
+If the company's Hobbit Militia has been slain, you may swap any result on the Reinforcements chart for a Hobbit Militia. The company may only ever have one Hobbit Militia at a time.
 

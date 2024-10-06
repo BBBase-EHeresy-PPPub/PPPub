@@ -142,11 +142,11 @@ After each Scenario has been completed, it is important to note down which side 
 
 ### (21) [THE DEAD MARSHES](../scenarios/quest_of_the_ringbearer.md#the-dead-marshes)
 
-**Good Victory:** In the 'Ambush in Ithilien' Scenario, Good Hero models may re-roll failed To Wound rolls when making shooting attacks.
+**Good Victory:** In the 'Ambush at Ithilien' Scenario, Good Hero models may re-roll failed To Wound rolls when making shooting attacks.
 
-**Evil Victory:** In the 'Ambush in Ithilien' Scenario, one Mûmak may make a 'free' move before the first turn begins.
+**Evil Victory:** In the 'Ambush at Ithilien' Scenario, one Mûmak may make a 'free' move before the first turn begins.
 
-### (22) [AMBUSH IN ITHILIEN](../scenarios/quest_of_the_ringbearer.md#ambush-in-ithilien)
+### (22) [AMBUSH AT ITHILIEN](../scenarios/quest_of_the_ringbearer.md#ambush-at-ithilien)
 
 **Good Victory:** In the 'Osgiliath' Scenario, Good reinforcements return to the board on a 3+ rather than a 4+.
 

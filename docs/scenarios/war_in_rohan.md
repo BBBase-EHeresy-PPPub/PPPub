@@ -16,19 +16,19 @@ Any Good model that ends its move in base contact with a Rohan house that is on 
 
 **SPECIAL RULES**
 
-*Warn the King* — *Should hope seem lost, and the village look as though it will be overrun, it is the duty of those in charge to ride to Edoras and warn Théoden of the attack.*
+* **Warn the King**
 
 Once the Good side has been reduced to 50% or fewer of its starting models, any Captain of Rohan may try to escape the board to deliver news to Théoden. Should a Captain of Rohan escape the board via any table edge, the best result the Evil side can achieve is a draw.
 
-*Torching Buildings* — *The Dunlendings plan on setting as much of the village alight to drive the Forgoil from their lands.*
+* **Torching Buildings**
 
 Any Dunlending model that ends its move in base contact with a Rohan house during the Move phase can attempt to set it alight. Roll a D6, on a 5+ the building has been set alight.
 
-*Put the Fires Out!* — *As the buildings become engulfed in flame, the Rohirrim attempt to subdue the fires and protect the village.*
+* **Put the Fires Out!**
 
 Any Good model that ends its move in base contact with a Rohan house that is on fire may attempt to put it out. Roll a D6, on a 6 the fire has been put out. However, if a 1 is rolled, the house will be consumed by flames and cannot be put out for the remainder of the game.
 
-*Dunlending Reinforcements* — *The Wildmen are just the first of the Dunlendings to attack the village, more soon swarm the battlefield.*
+* **Dunlending Reinforcements**
 
 At the end of the Evil player's first Move phase, they may roll a D6 for each Dunlending model not yet in play. On a 3+, that model may enter play from any point on any board edge via the rules for Reinforcements. On a 1-2, that model may roll again on the following turn, adding 1 to the result.
 
@@ -37,6 +37,10 @@ At the end of the Evil player's first Move phase, they may roll a D6 for each Du
 **Good:** 2 Captains of Rohan with shield; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
 
 **Evil:** Gorûlf Ironskin; Frida Tallspear; The Wild Man Oathmaker; 12 Wild Men of Dunland; 6 Dunlending Warriors with shield; 6 Dunlending Warriors with bow; 6 Dunlending Huscarls.
+
+![](../media/scenarios/war_in_rohan/burning_of_the_westfold.jpg)
+
+---
 
 ## FIRST BATTLE OF THE FORDS OF ISEN
 
@@ -54,15 +58,15 @@ The forces of Saruman have been tasked with slaying the young prince and securin
 
 **SPECIAL RULES**
 
-*The River Isen* — *The river is deep and fast-flowing, crossing it at any other point than the ford could prove to be difficult.*
+* **The River Isen**
 
 The river is counted as deep water for all purposes.
 
-*Théodred's Doom* — *Saruman has commanded that Théodred must be slain. His death will see the king fall into despair.*
+* **Théodred's Doom**
 
 Evil models must re-roll failed To Wound rolls against Théodred in the Fight phase.
 
-*Elfhelm* — *Upon receiving word of Théodred's predicament, Elfhelm leads his followers to his prince's aid.*
+* **Elfhelm**
 
 During the End phase of each turn, the Good player must roll a D6 and add the turn number to the result. If the result is 8 or more, Elfhelm and the remaining Good models will arrive at the end of the Good player's next Move phase from the eastern board edge via the rules for Reinforcements.
 
@@ -71,6 +75,10 @@ During the End phase of each turn, the Good player must roll a D6 and add the tu
 **Good:** Théodred, Heir of Rohan with horse and shield; Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
 
 **Evil:** Vraskû; Thrydan Wolfsbane; 24 Uruk-hai Scouts: 8 with Uruk-hai bow, 8 with shield, 8 with no additional equipment; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears.
+
+![](../media/scenarios/war_in_rohan/first_battle_of_the_fords_of_isen.jpg)
+
+---
 
 ## SECOND BATTLE OF THE FORDS OF ISEN
 
@@ -90,11 +98,11 @@ The game lasts for 10 turns. Whichever side has more models on the ford at the e
 
 **SPECIAL RULES**
 
-*The River Isen* — *The river is deep and fast-flowing, crossing it at any other point than the ford could prove to be difficult.*
+* **The River Isen**
 
 The river is counted as deep water for all purposes.
 
-*Defend the Ford!* — *Grimbold and his men have been tasked with holding the ford and will fight hard to ensure it is defended.*
+* **Defend the Ford!**
 
 Rohan models re-roll 1s To Wound in the Fight phase whilst they are on the ford.
 
@@ -103,6 +111,10 @@ Rohan models re-roll 1s To Wound in the Fight phase whilst they are on the ford.
 **Good:** Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
 
 **Evil:** Uruk-hai Captain with shield; Thrydan Wolfsbane with horse; Gorûlf Ironskin; 24 Uruk-hai Warriors: 10 with pike, 10 with shield, 4 with crossbow; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears; 6 Dunlending Horsemen.
+
+![](../media/scenarios/war_in_rohan/second_battle_of_the_fords_of_isen.jpg)
+
+---
 
 ## AMBUSH AT NIGHT
 
@@ -122,19 +134,19 @@ The game lasts until one force has been reduced to 25% of its starting numbers a
 
 **SPECIAL RULES**
 
-*Surprise Attack* — *The Uruk-hai are caught unaware by the Rohirrim, who have ambushed them under the cover of darkness.*
+* **Surprise Attack**
 
 Evil models may not move during the first turn of the game.
 
-*Merry and Pippin* — *The attack of the Rohirrim has provided the Hobbits with a chance to escape; the Uruk-hai are not paying attention to two small Hobbits as they fight for their lives.*
+* **Merry and Pippin**
 
 Merry and Pippin begin the game Prone and bound. They may only move by crawling, however, they may crawl 2" per turn rather than 1". They may not Charge enemy models and may not be charged by enemy models (the Uruk-hai have other things to worry about after all!). The Hobbits do not have a Control Zone in this game and may move through an enemy model's Control Zones without penalty. The Hobbits may also move through other models as if they were not there so long as they end their move with no part of their base overlapping another model. Other models may move through the Hobbits in the same way — we assume they either walk over them or push them out of the way.
 
-*Their Bonds were Cut* — *The Hobbits are bound by rope, but should they cut their bonds, they will be able to move more freely.*
+* **Their Bonds were Cut**
 
 At the end of each of Merry's and Pippin's move, they roll a D6 for each Hobbit. On a 6, they cut their bonds and are no longer Prone. They may move their full Move allowance from this point onwards.
 
-*Grishnákh* — *Unlike the other Orcs and Uruk-hai, Grishnákh is more focused on the Hobbits than the Rohirrim; something that earns him a spear in the back.*
+* **Grishnákh**
 
 Grishnákh follows the same rules for movement as the Hobbits, except that he moves 3" when crawling and cannot cut his bonds, as he is not bound. Grishnákh is the only model that may charge the Hobbits, and will Fight them in the Fight phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are Prone, ignoring any rules for fighting whilst Prone. Additionally, as he is wounded, Grishnákh starts the game with only a single point of Might and only has 1 Attack.
 
@@ -144,6 +156,10 @@ Grishnákh follows the same rules for movement as the Hobbits, except that he mo
 
 **Evil:** Uglúk; Mauhúr; Grishnákh, Orc Captain; Snaga, Orc Captain; 12 Uruk-hai Scouts: 4 with Uruk-hai bow, 4 with shield, 4 with no additional wargear; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon.
 
+![](../media/scenarios/war_in_rohan/ambush_at_night.jpg)
+
+---
+
 ## GRISHNÁKH'S END
 
 **SET-UP**
@@ -151,6 +167,10 @@ Grishnákh follows the same rules for movement as the Hobbits, except that he mo
 For this mini-game, you will require a deck of ordinary playing cards, Merry and Pippin, Grishnákh, Treebeard, and a 2'x2' playing space. The board represents the forest of Fangorn and should have plenty of trees on it. Shuffle the cards and place them in a pile face-down next to the board.
 
 The Good player deploys Merry and Pippin in the center of the board and then deploys Treebeard touching the center of the eastern board edge. The Evil player then deploys Grishnákh touching the center of the western board edge.
+
+**OBJECTIVE**
+
+The game lasts until either Grishnákh has been slain, or both Hobbits have been slain. If, at the end of the game, Grishnákh has managed to kill both Hobbits, the Evil player wins. If none of the Hobbits have been slain, the Good player is the winner. Any other result is a draw.
 
 **GAME TURN**
 
@@ -166,13 +186,9 @@ If at any point there are no cards left in the deck, shuffle the cards and start
 
 **EXTRA RULES**
 
-*Picture Cards* — When a picture card (King, Queen, or Jack) is flipped over, the model that flipped it may perform a special action instead of moving. There is one set of special actions for the Hobbits and one for Grishnákh. If they decide not to use a special action, shuffle the card back into the deck and draw again.
+**Picture Cards** — When a picture card (King, Queen, or Jack) is flipped over, the model that flipped it may perform a special action instead of moving. There is one set of special actions for the Hobbits and one for Grishnákh. If they decide not to use a special action, shuffle the card back into the deck and draw again.
 
-*Injured* — As Grishnákh was wounded in the encounter with the Rohirrim, he starts the game with only a single Might point.
-
-**OBJECTIVE**
-
-The game lasts until either Grishnákh has been slain, or both Hobbits have been slain. If, at the end of the game, Grishnákh has managed to kill both Hobbits, the Evil player wins. If none of the Hobbits have been slain, the Good player is the winner. Any other result is a draw.
+**Injured** — As Grishnákh was wounded in the encounter with the Rohirrim, he starts the game with only a single Might point.
 
 **HOBBIT SPECIAL ACTIONS**
 
@@ -184,6 +200,10 @@ The game lasts until either Grishnákh has been slain, or both Hobbits have been
 
 - **Sprint:** Grishnákh may move 6" this turn.
 - **Grab Hobbit:** If Grishnákh is in base contact with Treebeard, and a Hobbit has climbed the Ent, Grishnákh may pull them to the floor. Grishnákh may then fight the Hobbit in the following Fight phase.
+
+![](../media/scenarios/war_in_rohan/grishnakh's_end.jpg)
+
+---
 
 ## THE WHITE WIZARD
 
@@ -227,6 +247,10 @@ Here are the effects and power type of each card:
 
 The contents of the discard pile are common knowledge; you will need to use all of your cunning and wits in order to stay one step ahead of your opponent!
 
+![](../media/scenarios/war_in_rohan/the_white_wizard.jpg)
+
+---
+
 ## WARG ATTACK
 
 **LAYOUT**
@@ -243,19 +267,19 @@ Théoden commands his men to protect his people from the attack of the Warg Ride
 
 **SPECIAL RULES**
 
-*Surprise Attack* — *The Wargs have caught the Rohirrim unawares, pouncing upon them without warning.*
+* **Surprise Attack**
 
 The Evil player automatically has Priority on the first turn of the game, and the Good player may not declare any Heroic Actions in the first turn of the game. Additionally, Evil Cavalry models gain a bonus of +1 to their Fight value in a turn in which they Charge.
 
-*Háma* — *Having been knocked from his horse by the Warg Riders, Háma is floored and at the mercy of the beasts.*
+* **Háma**
 
 Háma starts the game Prone and with only a single point of Might.
 
-*To Battle!* — *Both sides are riding to battle with each other, making haste to the aid of their scouts and to engage the enemy.*
+* **To Battle!**
 
 At the end of each player's Move phase, they roll a D6 for each model not currently on the board. On a 3+ that model may enter the board. Good models enter from any point on the eastern board edge; Evil models enter from any point on the western board edge.
 
-*Gimli* — *Unable to ride into battle on his own, Gimli joins Legolas on his steed as they head into the fray.*
+* **Gimli**
 
 Gimli starts the game as a passenger on Legolas' horse.
 
@@ -264,6 +288,10 @@ Gimli starts the game as a passenger on Legolas' horse.
 **Good:** Théoden, King of Rohan with horse; Aragorn — Strider with horse; Legolas Greenleaf with horse; Gimli, son of Glóin; Gamling, Captain of Rohan with horse; Háma, Captain of Rohan; 6 Riders of Rohan: 2 with shield, 2 with throwing spear, 2 with no additional equipment.
 
 **Evil:** Sharku with Warg; Orc Captain on Warg; 18 Warg Riders: 6 with shield, 6 with Orc bow, 6 with throwing spear.
+
+![](../media/scenarios/war_in_rohan/warg_attack.jpg)
+
+---
 
 ## RAISE THE LADDERS
 
@@ -275,20 +303,6 @@ The board represents the Deeping Wall and the lands in front of it. The area wit
 
 The Good player deploys their force on top of the Deeping Wall. The Evil player then deploys their force anywhere within the eastern half of the board.
 
-**SPECIAL RULES**
-
-*Ladders* — *Carried into battle by the Uruk-hai, these siege ladders are used to get the forces of Isengard onto walls and into battle.*
-
-Siege Ladders are Heavy Objects that require four or more models to move them at full speed rather than two. They have no Defence characteristic and so cannot be targeted or damaged by shooting or in combat. If a Siege Ladder is moved within 3" of the Deeping Wall, it can be raised up against the walls. An Uruk-hai at the base of an upright ladder may move up it at full speed, and may even charge after climbing the ladder if able to do so.
-
-*Berserkers* — *The Uruk-hai Berserkers are the toughest fighters in the Uruk-hai army and will often be raised up atop the ladders to get them directly into the fight.*
-
-When a Siege Ladder is raised, a single Uruk-hai Berserker within 1" of the ladder may be raised with it. Place the Berserker in base contact with the walls next to the point where the ladder was raised; it may then act as normal. If the Berserker cannot be placed on the walls, then it is placed at the top of the ladder in combat with any models preventing it from being placed on the walls. The Berserker will count as defending an elevated position in this case.
-
-*Knocking Down Ladders* — *Those atop the Deeping Wall must try to knock down the ladders in order to prevent the Uruk-hai from flooding the battlements.*
-
-Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
-
 **OBJECTIVES**
 
 The Uruk-hai must raise the ladders in order to get atop the walls and begin the assault on Helm's Deep, while those atop the walls must try to prevent the Uruk-hai from raising the ladders and knock down the ones that are placed up.
@@ -297,11 +311,29 @@ The game lasts for 12 turns. The Good player wins if at the end of the 12th turn
 
 The Evil player wins if at the end of the 12th turn there are four or more ladders up against the walls. Any other result is a draw.
 
+**SPECIAL RULES**
+
+* **Ladders**
+
+Siege Ladders are Heavy Objects that require four or more models to move them at full speed rather than two. They have no Defence characteristic and so cannot be targeted or damaged by shooting or in combat. If a Siege Ladder is moved within 3" of the Deeping Wall, it can be raised up against the walls. An Uruk-hai at the base of an upright ladder may move up it at full speed, and may even charge after climbing the ladder if able to do so.
+
+* **Berserkers**
+
+When a Siege Ladder is raised, a single Uruk-hai Berserker within 1" of the ladder may be raised with it. Place the Berserker in base contact with the walls next to the point where the ladder was raised; it may then act as normal. If the Berserker cannot be placed on the walls, then it is placed at the top of the ladder in combat with any models preventing it from being placed on the walls. The Berserker will count as defending an elevated position in this case.
+
+* **Knocking Down Ladders**
+
+Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
+
 **PARTICIPANTS**
 
 **Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor and Elf bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 32 Uruk-hai Warriors: 10 with shield, 10 with pike, 12 with crossbow; 16 Uruk-hai Berserkers; 5 siege ladders.
+
+![](../media/scenarios/war_in_rohan/raise_the_ladders.jpg)
+
+---
 
 ## THE WALLS OF HELM'S DEEP
 
@@ -321,11 +353,11 @@ The game lasts for 12 turns. The Good side wins if at the end of 12 turns they h
 
 **SPECIAL RULES**
 
-*Numbers Beyond Count* — *Countless Uruk-hai have scaled the Deeping Wall, and more constantly climb the siege ladders to join the battle.*
+* **Numbers Beyond Count**
 
 Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the siege ladders. Models that arrive in this way may Charge in the turn in which they arrive. Any models that cannot move onto the board in this way are kept aside for the next turn.
 
-*Battlements of Helm's Deep* — *The height of the walls of Helm's Deep means that any warrior unfortunate enough to fall from them will meet an untimely death.*
+* **Battlements of Helm's Deep**
 
 The eastern edge of the Deeping Wall is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain — it's a rather steep fall!
 
@@ -334,6 +366,10 @@ The eastern edge of the Deeping Wall is lined with battlements that can trap a m
 **Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor & Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 16 Uruk-hai Berserkers.
+
+![](../media/scenarios/war_in_rohan/the_walls_of_helm's_deep.jpg)
+
+---
 
 ## PLANT THE CHARGES
 
@@ -353,11 +389,11 @@ The game lasts until one side has completed their objective. The Good side wins 
 
 **SPECIAL RULES**
 
-*Numbers Beyond Count* — *Countless Uruk-hai have scaled the Deeping Wall, and more constantly climb the siege ladders to join the battle.*
+* **Numbers Beyond Count**
 
 Each time an Uruk-hai Warrior is slain (with the exception of the Uruk-hai Berserkers carrying torches), keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the Deeping Wall from the siege ladders. Models that arrive in this way may Charge in the turn in which they arrive. Any models that cannot move onto the board in this way are kept aside for the next turn.
 
-*Detonating the Charges* — *The Uruk-hai Berserkers will go to any lengths to set off the charges, even killing themselves to ensure it will be done.*
+* **Detonating the Charges**
 
 Evil models add 1 to the result when rolling on the Detonation table.
 
@@ -366,6 +402,10 @@ Evil models add 1 to the result when rolling on the Detonation table.
 **Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers; 3 Uruk-hai Demolition Teams.
+
+![](../media/scenarios/war_in_rohan/plant_the_charges.jpg)
+
+---
 
 ## THE DEEPING WALL IS BREACHED
 
@@ -381,7 +421,7 @@ The Evil player may then deploy up to 10 Uruk-hai Warriors, 2 Berserkers, and a 
 
 **OBJECTIVES**
 
-The legions of Isengard are streaming into Helm’s Deep, intent on butchering all in their path. It is their sole purpose to cause as much death and destruction as possible. Aragorn must lead the defenders of Helm’s Deep in defense of the fortress and fight off Saruman’s armies.
+The legions of Isengard are streaming into Helm's Deep, intent on butchering all in their path. It is their sole purpose to cause as much death and destruction as possible. Aragorn must lead the defenders of Helm's Deep in defense of the fortress and fight off Saruman's armies.
 
 The scenario lasts for 10 turns, after which the side with the most Victory Points is declared the winner.
 
@@ -391,19 +431,19 @@ There are three ways to score Victory Points in this scenario:
 
 1. The Good player scores 1 Victory Point for each of their named Heroes still alive at the end of the game. The Evil player scores 1 Victory Point for each of their named Heroes that have been slain.
 2. The Good player scores 1 Victory Point if, at the end of the game, more than 14 Good models are left alive. The Evil player scores 1 Victory Point if, at the end of the game, fewer than 14 Good models are alive.
-3. Evil models that are not within the shallow water are considered to be within the walls of Helm’s Deep. The Evil player scores 2 Victory Points if, at the end of the game, there are more Evil models within the walls than Good models. The Good player scores 2 Victory Points if they can prevent this. Models that are on top of the walls do not count towards this total.
+3. Evil models that are not within the shallow water are considered to be within the walls of Helm's Deep. The Evil player scores 2 Victory Points if, at the end of the game, there are more Evil models within the walls than Good models. The Good player scores 2 Victory Points if they can prevent this. Models that are on top of the walls do not count towards this total.
 
 **SPECIAL RULES**
 
-*Legion of the White Hand* — *Huge numbers of Uruk-hai are streaming through the hole in the Deeping Wall, and more are constantly joining the fight.*
+* **Legion of the White Hand**
 
-At the end of each Evil Move phase, the Evil player rolls a D6 and adds 2. This is the number of models that the Evil player may move onto the board from the hole in the Deeping Wall. These can be any models that haven’t yet entered the board, even models that have previously been slain earlier in the battle. The Uruk-hai Captains may only enter the battlefield once.
+At the end of each Evil Move phase, the Evil player rolls a D6 and adds 2. This is the number of models that the Evil player may move onto the board from the hole in the Deeping Wall. These can be any models that haven't yet entered the board, even models that have previously been slain earlier in the battle. The Uruk-hai Captains may only enter the battlefield once.
 
-*Explosion Aftermath* — *The tremendous detonation that blew apart the Deeping Wall has left those in command of the defense of Helm’s Deep shaken and injured.*
+* **Explosion Aftermath**
 
 All Good Hero models start the game with 0 Fate.
 
-*The Prince of Mirkwood* — *It is at Helm’s Deep that Legolas comes into his own, showcasing agility and skill that far surpasses that of most Elves.*
+* **The Prince of Mirkwood**
 
 Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
 
@@ -412,6 +452,10 @@ Once per game, if Legolas starts his Move phase in base contact with the top of 
 **Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
 
 **Evil:** 3 Uruk-hai Captains with heavy armor and shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
+
+![](../media/scenarios/war_in_rohan/the_deeping_wall_is_breached.jpg)
+
+---
 
 ## RETREAT TO THE HORNBURG
 
@@ -431,11 +475,11 @@ The game lasts until one side has completed their objective. The Good side wins 
 
 **SPECIAL RULES**
 
-*Numbers Beyond Count* — *Countless Uruk-hai have scaled the Deeping Wall, and more constantly climb the siege ladders to join the battle.*
+* **Numbers Beyond Count**
 
 Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the Deeping Wall from the siege ladders. Models that arrive in this way may Charge in the turn in which they arrive. Any models that cannot move onto the board in this way are kept aside for the next turn.
 
-*Leave None Alive* — *The Uruk-hai assault is in full flow, and the success of breaching the Deeping Wall spurs them on to slay all in their path.*
+* **Leave None Alive**
 
 Evil models may re-roll failed To Wound rolls in the Fight phase.
 
@@ -444,6 +488,10 @@ Evil models may re-roll failed To Wound rolls in the Fight phase.
 **Good:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers.
+
+![](../media/scenarios/war_in_rohan/retreat_to_the_hornburg.jpg)
+
+---
 
 ## THE CAUSEWAY
 
@@ -455,25 +503,29 @@ The board represents the causeway of Helm's Deep. The causeway is 6" wide and ru
 
 The Good player deploys Aragorn and Gimli within 2" of the gates. The Evil player then deploys their force anywhere on the causeway at least 3" away from any Good model.
 
-The Gate has a Defence of 8 and only a single Wound remaining.
-
 **OBJECTIVES**
 
 Aragorn and Gimli must keep the Uruk-hai distracted long enough for Théoden and the Rohirrim to barricade the gates. The game lasts for 12 turns. The Evil player wins if they can slay both Aragorn and Gimli, or if they can move 10 models off the board through the gates. The Good player wins if they can prevent this. If either Aragorn or Gimli is slain, the best result the Good player can achieve is a draw.
 
 **SPECIAL RULES**
 
-*Numbers Beyond Count* — *Countless Uruk-hai race up the causeway towards the gates of Helm's Deep, joining the fight.*
+* **Numbers Beyond Count**
 
 Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the eastern board edge.
 
-*The Gate* — *Helm's Deep has been battered and assaulted by the Uruk-hai, and the gates cannot withstand much more before being splintered.*
+* **The Gate**
+
+The Gate has a Defence of 8 and only a single Wound remaining.
 
 **PARTICIPANTS**
 
 **Good:** Aragorn (Strider) with armor; Gimli, son of Glóin.
 
 **Evil:** 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
+
+![](../media/scenarios/war_in_rohan/the_causeway.jpg)
+
+---
 
 ## FALL BACK TO THE KEEP
 
@@ -493,11 +545,11 @@ The game lasts until either the Good player achieves their objective or the Evil
 
 **SPECIAL RULES**
 
-*Numbers Beyond Count* — *Countless Uruk-hai have invaded Helm's Deep, and more continuously join the fray.*
+* **Numbers Beyond Count**
 
 Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the center of the southern board edge.
 
-*We Stand Together* — *Théoden is trying to buy his allies as much time as he can to reach the safety of the keep and will not abandon them to die.*
+* **We Stand Together**
 
 Théoden and Gamling may not escape the board until any one of Aragorn, Legolas, or Gimli has escaped the board first.
 
@@ -506,6 +558,10 @@ Théoden and Gamling may not escape the board until any one of Aragorn, Legolas,
 **Good:** Aragorn (Strider) with armor; Gimli, son of Glóin; Legolas Greenleaf; Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow.
 
 **Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
+
+![](../media/scenarios/war_in_rohan/fall_back_to_the_keep.jpg)
+
+---
 
 ## RIDE OUT
 
@@ -525,7 +581,7 @@ The game lasts until one player's force is wiped out, at which point the other p
 
 **SPECIAL RULES**
 
-*For Death or Glory* — *Knowing that this may be their final stand, the defenders of Helm's Deep fight with renewed strength in order to try to claim victory.*
+* **For Death or Glory**
 
 Friendly Cavalry models gain a bonus of +1 Strength on a turn in which they charged.
 
@@ -534,6 +590,10 @@ Friendly Cavalry models gain a bonus of +1 Strength on a turn in which they char
 **Good:** Aragorn (Strider) with armor and horse; Legolas Greenleaf with armor and horse; Théoden, King of Rohan with armored horse, heavy armor, and shield; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; 4 Rohan Royal Guard with horse and throwing spears.
 
 **Evil:** 3 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
+
+![](../media/scenarios/war_in_rohan/ride_out.jpg)
+
+---
 
 ## ÉOMER'S RETURN
 
@@ -553,11 +613,11 @@ The game lasts until one side has completed their objective. The Good player win
 
 **SPECIAL RULES**
 
-*To The King!* — *With a rousing cry, Éomer leads the charge of the Rohirrim as they hurtle towards their foes in defense of their king.*
+* **To The King!**
 
 Friendly Rohan Cavalry models within 12" of Éomer gain +1 Strength on a turn in which they Charge.
 
-*Look to the Sun* — *The arrival of the White Wizard and the Rohirrim brings with it the morning sun, blinding their foes as they charge towards them.*
+* **Look to the Sun**
 
 Once per battle, so long as Gandalf is alive and in your force, you can declare you are using this ability at the start of any friendly Move phase. Until the end of the turn, enemy models that are Engaged with, or supporting a model Engaged with, any friendly Cavalry models that made a Charge that turn, suffer a penalty of -1 to their Duel rolls.
 
@@ -566,6 +626,10 @@ Once per battle, so long as Gandalf is alive and in your force, you can declare 
 **Good:** Éomer, Marshall of the Riddermark on horse; Erkenbrand, Captain of Rohan on horse; Gandalf the White on Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
 
 **Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
+
+![](../media/scenarios/war_in_rohan/eomer's_return.jpg)
+
+---
 
 ## THE BATTLE OF HELM'S DEEP
 
@@ -593,39 +657,43 @@ The Battle of Helm's Deep is a huge battle fought across the entire fortress; as
 
 **SPECIAL RULES**
 
-*Ride Out* — *With hope fading fast, Théoden decides that the only way to achieve victory is to ride out from the fortress and take the fight to the Uruk-hai.*
+* **Ride Out**
 
 At the start of the 8th turn, and any turn that follows, any Good Hero model within 6" of the gates of the Hornburg that could be mounted on a horse may immediately gain a mount.
 
-*The Deeping Wall* — *Unbeknownst to Théoden, Helm's Deep has a weakness which Saruman intends to exploit with the use of siege bombs.*
+* **The Deeping Wall**
 
 If a siege bomb is successfully detonated within 3" of the culvert of Helm's Deep, the removable section of the Deeping Wall is removed from play. Any model on that part of the wall immediately suffers a Strength 9 hit and will then suffer falling damage as described in the main rules manual.
 
-*Look to my Coming* — *Gandalf's words have echoed in Aragorn's mind, and now he leads a band of Rohirrim to aid those fighting at Helm's Deep.*
+* **Look to my Coming**
 
 At the end of the Good player's 10th Move phase, they may move the Relief Force onto the board from the southern board edge on the eastern half of the board, via the rules for Reinforcements. However, models may Charge on the turn they arrive.
 
-*Ladders* — *Carried into battle by the Uruk-hai, these siege ladders are used to get the forces of Isengard onto the walls and into battle.*
+* **Ladders**
 
 Siege Ladders are Heavy Objects that require four or more models to move them at full speed rather than two. They have no Defence characteristic and so cannot be targeted or damaged by shooting or in combat. If a Siege Ladder is moved within 3" of the Deeping Wall, it can be raised up against the walls. An Uruk-hai at the base of an upright ladder may move up it at full speed and may even charge after climbing the ladder if able.
 
-*Knocking Down Ladders* — *Those atop the Deeping Wall must try to knock down the ladders in order to prevent the Uruk-hai from flooding the battlements.*
+* **Knocking Down Ladders**
 
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
 
 **PARTICIPANTS**
 
-**GOOD**
+**GOOD** 
 
-- **Defenders of the Hornburg:** Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears and shield, 8 with bow, 1 with banner.
+**Defenders of the Hornburg:** Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears and shield, 8 with bow, 1 with banner.
   
-- **Defenders of the Deeping Wall:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; Haleth, son of Háma; Aldor; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears & shield, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+**Defenders of the Deeping Wall:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; Haleth, son of Háma; Aldor; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears & shield, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
   
-- **Relief Force:** Éomer, Marshall of the Riddermark with horse; Erkenbrand, Captain of Rohan with horse; Gandalf the White with Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
+**Relief Force:** Éomer, Marshall of the Riddermark with horse; Erkenbrand, Captain of Rohan with horse; Gandalf the White with Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
 
 **EVIL**
 
-- **Legions of Isengard:** 5 Uruk-hai Captains with shield; Uruk-hai Siege Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers.
+**Legions of Isengard:** 5 Uruk-hai Captains with shield; Uruk-hai Siege Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers.
+
+![](../media/scenarios/war_in_rohan/the_battle_of_helm's_deep.jpg)
+
+---
 
 ## THE DEFENCE OF EDORAS
 
@@ -643,11 +711,11 @@ Elfhelm has been sent to Edoras by Gandalf to protect it from any who may seek t
 
 **SPECIAL RULES**
 
-*Defend Edoras* — *The Rohirrim have been tasked with protecting Edoras and will fight to rid their home of any invaders that make it into the city.*
+* **Defend Edoras**
 
 Good models may re-roll To Wound rolls of a 1 against any Evil models that are fully within the walls of Edoras.
 
-*Assail the City* — *The Dunlendings have brought a selection of ladders in order to climb the walls of Edoras should they need to.*
+* **Assail the City**
 
 The Evil player may have up to four ladders in their army, which they can use to climb the walls of Edoras.
 
@@ -656,6 +724,10 @@ The Evil player may have up to four ladders in their army, which they can use to
 **Good:** Elfhelm, Captain of Rohan; 2 Captains of Rohan with shield; 37 Warriors of Rohan: 12 with shield, 12 with throwing spear & shield, 12 with bow, 1 with banner.
 
 **Evil:** Gorûlf Ironskin; Frída Tallspear; The Wild Man Oathmaker; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 12 Warg Riders: 4 with shield, 4 with throwing spear, 4 with bow.
+
+![](../media/scenarios/war_in_rohan/the_defence_of_edoras.jpg)
+
+---
 
 ## LAST MARCH OF THE ENTS
 
@@ -675,15 +747,15 @@ The Good player is the winner if they can destroy the dam. The Evil player wins 
 
 **SPECIAL RULES**
 
-*Flaming Arrows* — *The Ents of Fangorn are highly susceptible to fire, a fact that the Orcs of Isengard will use to their advantage by setting their arrows alight before unleashing them upon their foe.*
+* **Flaming Arrows**
 
 Any Orc that hits an Ent with a shooting attack on the roll of a 6, and then subsequently wounds their target, will cause 2 Wounds rather than 1. These Wounds are multiplied before Fate rolls are taken.
 
-*Bring them down!* — *By utilizing ropes and their weight of numbers, the Orcs can topple the Ents, allowing for their comrades to set upon them from ground level.*
+* **Bring them down!**
 
 If an Ent loses a Fight, all Orc models involved in the Fight may choose to try to fell the Ent rather than Strike it as normal. Instead of making Strikes, each Orc in base contact with the Ent rolls a D6. If any 6s are scored, then the Ent has been successfully brought down and is knocked Prone.
 
-*Release the River* — *Only by breaking the dam can the Ents flood the factories of Isengard, inflicting defeat upon the White Wizard.*
+* **Release the River**
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 
@@ -692,6 +764,10 @@ The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 **Good:** Treebeard with Merry & Pippin; Quickbeam; Beechbone; 3 Ents.
 
 **Evil:** 4 Orc Captains with shield; 48 Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
+
+![](../media/scenarios/war_in_rohan/last_march_of_the_ents.jpg)
+
+---
 
 ## THE URUK-HAI RETREAT
 
@@ -709,7 +785,7 @@ With the Battle of Helm's Deep lost, the Uruk-hai are trying to flee back to Ise
 
 **SPECIAL RULES**
 
-*Restless Trees* — *Fangorn Forest has gone to war with Isengard, and the trees will lash out at the Uruk-hai as they attempt to flee.*
+* **Restless Trees**
 
 During the End phase of each turn, each Uruk-hai model within 2" of a tree suffers a Strength 4 hit. As there are a lot of trees in this scenario, this will be happening quite a lot!
 
@@ -718,6 +794,10 @@ During the End phase of each turn, each Uruk-hai model within 2" of a tree suffe
 **Good:** 3 Ents.
 
 **Evil:** 2 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
+
+![](../media/scenarios/war_in_rohan/the_uruk-hai_retreat.jpg)
+
+---
 
 ## PATHS OF THE DRÚADAN
 
@@ -737,11 +817,11 @@ The Good player wins if half (or more) of the Rohan models exit the board via th
 
 **SPECIAL RULES**
 
-*Wild Men Know all Paths* — *The Woses know all of the secrets of the forest and often use hidden pathways to journey through the trees—pathways that they shared with the riders of Théoden.*
+* **Wild Men Know all Paths**
 
 All Good models gain the Fleetfoot and Woodland Creature special rules whilst they remain mounted.
 
-*Ambush!* — *The Orcs are completely unaware of the Rohirrim in the woods until they are already on top of them.*
+* **Ambush!**
 
 Evil models may not move at all on the first turn of the game.
 
@@ -752,3 +832,5 @@ Evil models may not move at all on the first turn of the game.
 All Rohan models must be mounted and may have armor and shields if they are able to.
 
 **Evil:** 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+
+![](../media/scenarios/war_in_rohan/paths_of_the_druadan.jpg)

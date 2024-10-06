@@ -16,7 +16,7 @@ If both players complete their objective in the same turn, the game is a draw.
 
 **SPECIAL RULES**
 
-*Bree Villagers* — *The villagers of Bree are not warriors and are not used to warfare; though if the need arises, they will fight.*
+* **Bree Villagers**
 
 The Bree Villagers use the following profile:
 
@@ -26,7 +26,7 @@ The Bree Villagers use the following profile:
 
 Bree Villagers count as being armed with a dagger; however, they may not use Special Strikes.
 
-*Bill Ferny's Revenge* — *Bill was embarrassed by the Travellers last time he was in Bree and is intent upon taking his frustrations out upon those that live in the village.*
+* **Bill Ferny's Revenge**
 
 Bill Ferny must cause at least two casualties before the Evil player can win. If the Good player is reduced to 25%, and Bill Ferny has not caused at least two casualties, then the game is a draw.
 
@@ -56,11 +56,11 @@ The game lasts for 12 turns. The Evil player wins if they can capture both Holfo
 
 **SPECIAL RULES**
 
-*Shirriff Leaders* — *The Ruffians know that in order to make the Hobbits fall in line, they must capture the head Shirriffs and make them obey Sharkey's rule.*
+* **Shirriff Leaders**
 
 The Ruffians must capture Holfoot and Robin to win the game. To do this, they will need to bind them in chains using their At 'em Lads special rule. Whilst bound, a Hobbit is treated as a Heavy Object. If either Holfoot or Robin are slain, then the game is a draw.
 
-*The Brandywine* — *Hobbits are naturally distrustful of large bodies of water, and the swift currents of the Brandywine are no different.*
+* **The Brandywine**
 
 Hobbit models cannot attempt to swim across the Brandywine River.
 
@@ -90,15 +90,15 @@ The game lasts until one side has completed their objective. The Evil player win
 
 **SPECIAL RULES**
 
-*On the Prowl* — *Maggot's dogs are in the fields to scare off any intruders, but as of yet are unaware of the presence of the Ruffians.*
+* **On the Prowl**
 
 At the start of the game, the dogs follow the rules for Sentries as described in the main rules manual. However, as dogs have a much greater sense of smell, the alarm will be raised if during the End phase of any turn there is a Ruffian within Line of Sight and 6" rather than just 3".
 
-*Farmer Maggot* — *It is night time, and Maggot is currently in the warmth of his own home. However, should he hear his dogs barking, he will quickly make his way to his fields.*
+* **Farmer Maggot**
 
 Once the alarm has been raised, the Good player may roll a D6 at the start of each of their Move phases. On a 5+, Farmer Maggot has heard his dogs barking; he may move onto the board from any point on the western board edge via the rules for Reinforcements.
 
-*A Stormy Night* — *It is an unpleasant night, rain is lashing down and thunder can be heard overhead. In such dismal conditions, and with their courage already eroding, the sight of a snarling dog will strike fear into the Ruffians.*
+* **A Stormy Night**
 
 Shooting attacks will only ever hit on the roll of a 6 in this Scenario. Additionally, Grip, Fang, and Wolf gain the Terror special rule.
 
@@ -128,11 +128,11 @@ The game lasts until one side has completed their objective. The Evil player win
 
 **SPECIAL RULES**
 
-*The Doors* — *The doors of the Old Mill are old yet sturdy; they will take some force to break down.*
+* **The Doors**
 
 The doors to the Old Mill can be attacked in the Fight phase by a model in base contact that is not already involved in a fight. The doors have a Defence of 7 and 2 Wounds, and always count as trapped.
 
-*Ted Sandyman* — *Ted Sandyman has another set of keys for the Mill. However, the Hobbits that stand before him have all taken umbrage with the Miller's son and are waiting to give him a piece of their mind!*
+* **Ted Sandyman**
 
 If, during the End phase of any turn, Ted Sandyman is in base contact with the doors to the Mill, and hasn't been involved in a fight that turn, he may unlock and open the doors to the Mill. Additionally, Hobbit Militia may add 1 when rolling To Wound Ted Sandyman in the Fight phase.
 
@@ -164,13 +164,13 @@ The Good player wins if Will Whitfoot can escape the board via the southern boar
 
 **SPECIAL RULES**
 
-*Old Flourdumpling* — *The Ruffians have been instructed to capture Will Whitfoot publicly so as to make the other Hobbits fall in line.*
+* **Old Flourdumpling**
 
 The Ruffians must capture Will Whitfoot to win the game.
 
 To do this, they will need to bind him in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Will Whitfoot is treated as a Heavy Object. If Will Whitfoot is slain, then the game is a draw.
 
-*Ambush!* — *Will Whitfoot has been taken completely by surprise by the sudden appearance of the Ruffians, and it takes him a moment to compose himself.*
+* **Ambush!**
 
 Will Whitfoot may not move during the first turn of the game.
 
@@ -202,15 +202,15 @@ Any other result is a draw.
 
 **SPECIAL RULES**
 
-*Worm* — *Lotho has no idea where Worm is coming from — Sharkey's pet could grab him at any moment.*
+* **Worm**
 
 Worm doesn't deploy as normal in this Scenario. Instead, the Evil player deploys four 25mm markers on the board at the start of the game, one in the center of each board edge. These markers cannot be Charged, targeted by shooting, and do not block movement or Line of Sight. They move 6", do not have a Control Zone, and can move through other models and their Control Zones, and other models may move through them. These markers may only Charge Lotho Sackville-Baggins, and when a marker Charges Lotho, roll a D6. On a 1-4, it was not Worm — remove the marker from play. On a 5+, it is Worm — replace the marker with Worm and remove the others from play. If the first three markers turn out not to be Worm, replace the final marker with Worm — Lotho has spotted him! Lotho may not use his Considerable Wealth special rule to prevent Worm or a marker from Charging him.
 
-*Shadowed Figure* — *It is dark and Worm is wearing black clothes, making him very hard to see to the untrained eye.*
+* **Shadowed Figure**
 
 Worm gains the Stalk Unseen special rule and always counts as being concealed by a piece of terrain — even when he is in open ground.
 
-*Protect the Boss!* — *The Hobbits are trying to protect Lotho from the Ruffians, and have not noticed Worm skulking towards him.*
+* **Protect the Boss!**
 
 Hobbit Militia must always Charge a Ruffian if able to do so.
 
@@ -240,15 +240,15 @@ The game lasts for 10 turns. If, at the end of 10 turns, all of the Hobbit-holes
 
 **SPECIAL RULES**
 
-*Torching Hobbit-holes* — *The Ruffians are intent on teaching Baldo a lesson in respect by burning down his home!*
+* **Torching Hobbit-holes**
 
 During the End phase, any Ruffian model that is in base contact with a Hobbit-hole that did not shoot or participate in a Fight this turn can attempt to set it alight. Roll a D6. On a 5+, the Hobbit-hole has been set alight.
 
-*Flaming Arrows* — *Some of the Ruffians have set their arrows alight, allowing fire to be swiftly spread.*
+* **Flaming Arrows**
 
 Ruffian models may shoot at any Hobbit-hole as if they were enemy models, without taking In The Way tests for intervening models. Any Hobbit-hole that is wounded by an arrow will immediately be set alight. Hobbit-holes count as having a Defence of 6.
 
-*Put the Fires Out!* — *As Woody End becomes engulfed in flame, the Hobbits attempt to subdue the fires and protect their home.*
+* **Put the Fires Out!**
 
 Any Good model that ends its move in base contact with a Hobbit-hole that is on fire, and is not Engaged in a Fight, may attempt to put it out. Roll a D6. On a 6, the fire has been put out. Models that attempt to put out a fire may not shoot in the following Shoot phase. However, should the Good player roll a 1, then the Hobbit-hole will be consumed by flame and cannot be put out for the remainder of the game. At the end of each Move phase, any model that is on a Hobbit-hole that has been consumed by flames immediately takes a Strength 3 hit.
 
@@ -278,15 +278,15 @@ The game lasts until the end of the turn in which one side has completed their o
 
 **SPECIAL RULES**
 
-*The Gaffer* — *Hamfast is incensed by the blatant disrespect shown by Bill Ferny to the plants he has tended to with great care.*
+* **The Gaffer**
 
 Hamfast 'Gaffer' Gamgee adds +1 to his Fight value when Engaged in a Fight with Bill Ferny. Additionally, Hamfast may re-roll failed To Wound rolls against Bill Ferny during the Fight phase.
 
-*Bill Ferny* — *Bill Ferny's considerable arrogance may well be his downfall.*
+* **Bill Ferny**
 
 Bill Ferny must always Charge if able to do so.
 
-*For the Shire!* — *The Hobbits rallied by Gaffer have had enough of the Ruffians, and are here to put an end to their bullying.*
+* **For the Shire!**
 
 Hobbit models must Charge if able to do so.
 
@@ -316,11 +316,11 @@ The game lasts until Folco Boffin leaves the board. The Good side wins if Folco 
 
 **SPECIAL RULES**
 
-*The Shirriffs* — *Though they are under Sharkey's command, the Shirriffs wish no harm upon the other Hobbits.*
+* **The Shirriffs**
 
 Whenever an 'Evil' model wins a Fight against a Good model, they will not make Strikes against them. Instead, when an 'Evil' model wins a fight, they will roll a single D6. On a 4+, they arrest the model they fought. Arrested models count as being affected by the Paralyse Magical Power and count as Heavy Objects if carried. If Folco is arrested, he may spend his Fate point to attempt to resist the effects of being Paralysed. Roll a D6. On a 4+, Folco is not arrested — this time...
 
-*Friends at Heart* — *Neither the Shirriffs nor the other Hobbits want to cause any lasting harm to each other.*
+* **Friends at Heart**
 
 Neither side may Throw Stones at each other in this Scenario. Additionally, if a Shirriff is removed as a casualty in the Scenario, it is probably better to assume they were sent packing by the other Hobbits rather than being slain.
 
@@ -352,19 +352,19 @@ The game lasts until the end of a turn where one force achieves their objective.
 
 **SPECIAL RULES**
 
-*On Guard* — *The Ruffians are not expecting the Hobbits' attempt to steal from them, and are simply patrolling the area.*
+* **On Guard**
 
 All Ruffian models start the game as Sentries. Additionally, Rowan Thistlewood may not use his Burn it Down! special rule on the storehouse in this Scenario.
 
-*Baldo's Traps* — *Under the cover of darkness, Baldo Tulpenny has managed to set up a series of traps around the storehouse — though he couldn't get too close to it without being spotted.*
+* **Baldo's Traps**
 
 When setting up Baldo Tulpenny's Traps, no Trap marker may be placed within 6" of the storehouse in addition to any other rules for deploying Trap markers.
 
-*Thieves in the Night* — *The Hobbits are trying to infiltrate the storehouse and steal back what is theirs, not to cause any harm.*
+* **Thieves in the Night**
 
 Any Hobbit that is in base contact with the storehouse during the End phase of any turn automatically gains a Supply counter — this is a Light Object. Additionally, any Ruffian model that suffers its final Wound in combat with a Hobbit will not be slain but is instead knocked unconscious; they count as being under the effect of the Paralyse Magical Power.
 
-*Ill Met by Moonlight* — *It is dark, and visibility is greatly reduced. However, the cover of night makes missile weapons all the more deadly.*
+* **Ill Met by Moonlight**
 
 Models cannot be seen or targeted by shooting attacks at distances over 12" away. However, as it is harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound.
 
@@ -394,7 +394,7 @@ The Ruffians are trying to make their way to Tuckborough in order to arrest Pala
 
 **SPECIAL RULES**
 
-*Traps* — *The Bounders have been awaiting the arrival of the Ruffians, and have prepared a few 'surprises' for them amongst the dense undergrowth.*
+* **Traps**
 
 After both players have deployed their models, the Good player may deploy 20 Trap markers on the board (five Tripwire, five Snare, five Pitfall, five Dummy), following the rules detailed on page 64.
 
@@ -424,7 +424,7 @@ Having been discovered, the Hobbits must escape the Ruffians. Sharkey has ordere
 
 **SPECIAL RULES**
 
-*Rebellion Leaders* — *The Ruffians have been instructed to capture those attempting to start the rebellion.*
+* **Rebellion Leaders**
 
 The Ruffians must capture Lobelia and Fatty to win the game. To do this, they will need to bind them in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Lobelia and Fatty are treated as Heavy Objects. If either Lobelia or Fatty is slain, then the game is a draw.
 
@@ -454,19 +454,19 @@ Paladin's mission is to free as many Hobbits from the Lockhole as he can, saving
 
 **SPECIAL RULES**
 
-*Reinforcements* — *The Ruffians have seen the Hobbits coming and called for their allies to help protect the Lockhole.*
+* **Reinforcements**
 
 At the end of each Evil move phase, roll a D6 for each Ruffian that has not yet entered play. On a 4+, that model arrives; roll a further D6 to see where it will arrive. On a 1-2, the model arrives from the western board edge. On a 3-4, the model arrives from the southern board edge. On a 5-6, the model arrives from the eastern board edge. Models arrive via the rules for Reinforcements.
 
-*Baldo's Traps* — *The Hobbits have arrived quickly and have not had time to scout out the area.*
+* **Baldo's Traps**
 
 Baldo may not place any Trap markers in this Scenario.
 
-*Freeing Prisoners* — *The Hobbits must reach the Lockhole in order to free those within.*
+* **Freeing Prisoners**
 
 To free an imprisoned Hobbit, a Good model must be in base contact with the Lockhole's door and have not shot or fought that turn. During the End phase of a turn where these conditions have been met, a single Hobbit may exit the Lockhole. To determine which Hobbit has been freed, the Good player should simply line up the captured Hobbit models and roll a D6 to determine which has been set free. If the Good player rolls higher than the number of remaining Hobbit models, they may choose which has been freed. A rescued Hobbit may act as normal from the start of the following turn. Additionally, Rowan Thistlewood may not use his Burn it Down! special rule on the Lockhole in this Scenario.
 
-*Weary and Half-starved* — *Those imprisoned in the Lockholes are malnourished and sickly from their capture.*
+* **Weary and Half-starved**
 
 Escaping prisoners may not Charge or Throw Stones but will fight as normal if Charged. Before moving an escaping prisoner, the Good player rolls a D6. On a 1, the Hobbit is overcome with exhaustion and collapses. The Hobbit becomes Prone and may not move any further that turn.
 
@@ -496,7 +496,7 @@ Both sides are battling over control of Tuckborough; the Hobbits must defend the
 
 **SPECIAL RULES**
 
-*Reinforcements* — *Both sides have more fighters waiting to strike, and when the two sides clash, those held in reserve race to the battle.*
+* **Reinforcements**
 
 At the start of each player's Move phase, roll a D6 for each Warrior model removed as a casualty. On a 5+, that model may re-enter the board from the center of the eastern or western board edge, or any point on their controlling player's board edge via the rules for Reinforcements.
 
@@ -526,11 +526,11 @@ The Ruffians have walked into the Hobbits' trap and have decided to fight their 
 
 **SPECIAL RULES**
 
-*Defend the Shire!* — *The Hobbits have had enough of being bullied and are ready to take the fight to the Ruffians.*
+* **Defend the Shire!**
 
 Hobbit models must Charge if able to do so.
 
-*Let 'em have it!* — *The Ruffians have been waiting for the chance to fight some Hobbits, and now Farmer Cotton has given them the excuse they need to do just that.*
+* **Let 'em have it!**
 
 Ruffian models must re-roll To Wound rolls of 1 during the Fight phase. Additionally, if Rowan Thistlewood is Engaged in combat or has been involved in a Fight this turn, and has not been removed as a casualty, Ruffian models treat him as a banner.
 
@@ -562,15 +562,15 @@ The Good player wins if, at the end of any turn, Sharkey has been slain. The Evi
 
 **SPECIAL RULES**
 
-*Sharkey* — *Sharkey resides in Bag End and, at the battle's start, is unaware of its goings-on. The noise from Bywater is enough to draw Sharkey to the battle in an attempt to silence these Hobbits that are causing him so much grievance.*
+* **Sharkey**
 
 From the fourth turn onwards, roll a D6 at the end of each Evil Move phase. On a 5+, Sharkey and Worm enter the board from the western board edge via the rules for Reinforcements.
 
-*The Ruffian Mob* — *As the battle rages on, more Ruffians join the fight in an attempt to quell the Hobbit uprising.*
+* **The Ruffian Mob**
 
 At the end of each Evil Move phase, roll a D6 for each Ruffian Warrior model that has been previously slain. On a 6, that model may move on from the western board edge via the rules for Reinforcements.
 
-*Merry & Pippin* — *It is here, at the Battle of Bywater, where Merry and Pippin truly show how much they have changed since they left the Shire. No longer are they young and foolish, but are now brave and sturdy fighters ready to fend off Sharkey's Rogues.*
+* **Merry & Pippin**
 
 Once per game, both Merry and Pippin can each declare a Heroic Combat without spending Might.
 

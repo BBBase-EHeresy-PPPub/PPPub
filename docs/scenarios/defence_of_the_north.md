@@ -16,11 +16,11 @@ The game lasts for 10 turns. The Evil player wins if at least 33% of their model
 
 **SPECIAL RULES**
 
-*The River* — *The Carnen is fast flowing and dangerous to cross.*
+* **The River**
 
 The River counts as Deep Water.
 
-*Onwards to Erebor!* — *The Easterlings are relentlessly marching to the Lonely Mountain and will cut down any who stand in their path.*
+* **Onwards to Erebor!**
 
 Easterling models may re-roll failed To Wound rolls in the Fight phase.
 
@@ -31,6 +31,8 @@ Easterling models may re-roll failed To Wound rolls in the Fight phase.
 **Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; 20 Easterling Warriors: 8 with shield, 4 with pike and shield, 8 with bow; 5 Easterling Kataphrakts.
 
 ![](../media/scenarios/defence_of_the_north/crossing_of_the_river_carnen.jpg)
+
+---
 
 ## THE HOSTS CLASH
 
@@ -48,15 +50,15 @@ The Battle of Dale has begun, embroiling both sides in a desperate war. The game
 
 **SPECIAL RULES**
 
-*To War!* — *With the Battle of Dale having begun, both sides will fight until the bitter end to achieve victory.*
+* **To War!**
 
 Models from both sides, apart from those armed with a bow, Esgaroth bow, or crossbow, must Charge if able to do so.
 
-*A Bond Forged in War* — *The friendship forged between the two kings, Dáin and Brand, is one that has stood for many years. Should either be in danger, the other will risk all to save them.*
+* **A Bond Forged in War**
 
 If either Dáin or Brand would be Trapped in the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
-*Heroes of the Easterlings* — *The Easterlings are a proud warrior culture whose leaders relish the chance to fight; and the assault on Erebor provides them with a platform to claim the glory they seek.*
+* **Heroes of the Easterlings**
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
@@ -67,6 +69,8 @@ Easterling Hero models may re-roll a D6 in a Duel roll.
 **Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; Easterling Dragon Knight; 31 Easterling Warriors: 12 with shield, 6 with shield and pike, 12 with bow, 1 with banner; 5 Easterling Kataphrakts; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 4 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/the_hosts_clash.jpg)
+
+---
 
 ## PLAINS OF EREBOR
 
@@ -84,15 +88,15 @@ The Easterlings have begun to force the alliance of Men and Dwarves back and now
 
 **SPECIAL RULES**
 
-*Controlling Objectives* — *To control one of the key positions of the battlefield, one force must dominate that area.*
+* **Controlling Objectives**
 
 An army is considered to be controlling an Objective Marker if there are more friendly models within 3" of the marker than enemy models. If both sides have the same number of models within 3", then neither side controls that Objective Marker.
 
-*A Bond Forged in War* — *The friendship forged between the two kings, Dáin and Brand, is one that has stood for many years. Should either be in danger, the other will risk all to save them.*
+* **A Bond Forged in War**
 
 If either Dáin or Brand would be Trapped at the start of the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
-*Heroes of the Easterlings* — *The Easterlings are a proud warrior culture whose leaders relish the chance to fight; and the assault on Erebor provides them with a platform to claim the glory they seek.*
+* **Heroes of the Easterlings**
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
@@ -103,6 +107,8 @@ Easterling Hero models may re-roll a D6 in a Duel roll.
 **Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/plains_of_erebor.jpg)
+
+---
 
 ## DEATH OF BRAND
 
@@ -122,11 +128,11 @@ Brand has been separated from his allies, and Dáin must now fight his way to Br
 
 **SPECIAL RULES**
 
-*Brand's Last Stand* — *Surrounded and outnumbered, Brand knows that this could well be his end — though he will not go down without a fight.*
+* **Brand's Last Stand**
 
 In this Scenario, Brand increases his Fight value to 6.
 
-*Allies in War* — *Brand and Dáin have been firm allies for many years, and Dáin will stop at nothing to defend his friend on the battlefield.*
+* **Allies in War**
 
 Dáin may declare a Heroic Combat each turn without spending Might.
 
@@ -137,6 +143,8 @@ Dáin may declare a Heroic Combat each turn without spending Might.
 **Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/death_of_brand.jpg)
+
+---
 
 ## DÁIN'S LAST STAND
 
@@ -154,11 +162,11 @@ Incensed by the death of his friend, Dáin will defend Brand's body until either
 
 **SPECIAL RULES**
 
-*The Wrath of Ironfoot* — *Dáin is beside himself with grief at the loss of his ally and will unleash his fury upon those that slew him.*
+* **The Wrath of Ironfoot**
 
 Dáin Ironfoot must re-roll all failed To Wound rolls.
 
-*Victory within Reach* — *The death of King Brand signals that victory is close at hand for the Easterlings, a fact that encourages them to keep piling the pressure onto those who remain.*
+* **Victory within Reach**
 
 Easterling models within 3" of the center of the board count as being in range of a banner.
 
@@ -169,6 +177,8 @@ Easterling models within 3" of the center of the board count as being in range o
 **Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/dains_last_stand.jpg)
+
+---
 
 ## RETREAT TO EREBOR
 
@@ -188,13 +198,13 @@ The game lasts until either the Good player completes their objective, or the Ev
 
 **SPECIAL RULES**
 
-*Fall Back!* — *Bard and Thorin are aware that the battle has gone ill and have ordered a hasty retreat.*
+* **Fall Back!**
 
 Bard and Thorin may declare Heroic March in this Scenario, even though they would not normally be able to do so.
 
 Additionally, whenever Bard or Thorin declare a Heroic March, they do not need to spend Might points to do so — it is free.
 
-*The Heirs to the Kingdoms* — *When their fathers perished upon the field of battle, the new heirs to Dale and Erebor continued to honor the alliance that had stood between their people, protecting their allies as their fathers had done.*
+* **The Heirs to the Kingdoms**
 
 If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
@@ -205,6 +215,8 @@ If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then 
 **Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/retreat_to_erebor.jpg)
+
+---
 
 ## SIEGE OF EREBOR
 
@@ -224,11 +236,11 @@ The game lasts for 12 turns. The Good side wins if at the end of 12 turns they h
 
 **SPECIAL RULES**
 
-*Numbers beyond Count* — *The Easterlings constantly scale the walls, with more climbing the siege ladders to join the battle.*
+* **Numbers beyond Count**
 
 Each time an Easterling Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the siege ladders. Models that arrive in this way may Charge in the turn in which they arrive. Any models that cannot move onto the board in this way are kept aside for the next turn.
 
-*Battlements of Erebor* — *The height of the walls of Erebor means that any warrior unfortunate enough to fall from them will meet an untimely death.*
+* **Battlements of Erebor**
 
 The southern edge of the walls of Erebor is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain — it's a rather steep fall!
 
@@ -239,6 +251,8 @@ The southern edge of the walls of Erebor is lined with battlements that can trap
 **Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes.
 
 ![](../media/scenarios/defence_of_the_north/siege_of_erebor.jpg)
+
+---
 
 ## THE TIDE TURNS
 
@@ -258,11 +272,11 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 **SPECIAL RULES**
 
-*The Heirs to the Kingdoms* — *When their fathers perished upon the field of battle, the new kings of Dale and Erebor continued to honor the alliance that had stood between their people, protecting their allies as their fathers had done.*
+* **The Heirs to the Kingdoms**
 
 If either Thorin III Stonehelm or Bard II would be Trapped in the Fight phase, the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
-*Broken Morale* — *News of the Dark Lord's defeat and the destruction of the black tower of Barad-dûr has sapped the resolve of the Easterlings and turned the tide of battle.*
+* **Broken Morale**
 
 The Evil force counts as Broken for this Scenario, and must test to see if they flee, even though forces do not normally break in Narrative Play games.
 
@@ -273,6 +287,8 @@ The Evil force counts as Broken for this Scenario, and must test to see if they 
 **Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 ![](../media/scenarios/defence_of_the_north/the_tide_turns.jpg)
+
+---
 
 ## GOLLUM'S ESCAPE
 
@@ -288,15 +304,17 @@ The Evil player places Gollum in the center of the board. The Good player then d
 
 With the attack of the Orcs and Wargs, Gollum sees a chance to escape his Elven captors. The Elves must fend off the assault and ensure that they do not let Gollum slip through their fingers.
 
-The game lasts until one force has completed their objective. The Good player wins if at the end of any turn all the Orcs and Wargs have been slain. The Evil player wins immediately if Gollum escapes the board via the southern board edge. If Gollum is slain, the best result the Good player can achieve is a draw.
+The game lasts until one force has completed their objective. The Good player wins if at the end of any turn all the Orcs and Wargs have been slain. The Evil player wins immediately if Gollum escapes the board via the southern board edge. 
 
 **SPECIAL RULES**
 
-*Gollum* — *The attack on the Elves has given Gollum an opportunity to sneak away unseen, and he will not risk being recaptured if he can help it.*
+* **Gollum**
 
 Gollum does not have the Ring in this Scenario. Additionally, Gollum may not charge enemy models, though he will fight as normal if he is charged.
 
-*Elven Prisoner* — *Aragorn has entrusted Gollum to the Elves, and they will not bring harm upon the creature unless they have no other option.*
+* **Elven Prisoner**
+
+If Gollum is slain, the best result the Good player can achieve is a draw.
 
 **PARTICIPANTS**
 
@@ -305,6 +323,8 @@ Gollum does not have the Ring in this Scenario. Additionally, Gollum may not cha
 **Evil:** Gollum; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Fell Wargs.
 
 ![](../media/scenarios/defence_of_the_north/gollums_escape.jpg)
+
+---
 
 ## AN UNEASY ALLIANCE
 
@@ -324,15 +344,15 @@ The game lasts until one force has completed their objective. The 'Good' player 
 
 **SPECIAL RULES**
 
-*The Spider Queen* — *It is Razgûsh's plan to control the Spider Queen in order to get her to fight alongside them; yet to achieve this, the Orcs must cause her enough pain to force her to submit.*
+* **The Spider Queen**
 
 Once the Spider Queen has been wounded, there is a chance she will submit in order to survive. If during the End phase of any turn the Spider Queen has 2 or fewer Wounds remaining, she must take a Courage test, which cannot be modified by Might or Will points. The third time this test is failed, the Spider Queen will submit to the Orcs and the game will end.
 
-*We Need Her Alive* — *The Orcs are under strict instructions not to kill the Spider Queen, as she is needed for the war with the Elves.*
+* **We Need Her Alive**
 
 If the Spider Queen is slain, the game immediately ends and is a draw.
 
-*Spider Nests* — *The nests in the forest are home to the Spider Queen's offspring, and more will constantly come to her aid.*
+* **Spider Nests**
 
 Evil models treat Spider Nests as difficult terrain. Additionally, whenever a Spider model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each Spider model kept aside in this manner. On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter, roll a further D6. On a 1-3, the Evil player chooses which Spider Nest the model enters from; on a 4+, the 'Good' player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
@@ -343,6 +363,8 @@ Evil models treat Spider Nests as difficult terrain. Additionally, whenever a Sp
 **Evil:** Razgûsh, War Leader of the North; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 3 Orc Trackers.
 
 ![](../media/scenarios/defence_of_the_north/an_uneasy_alliance.jpg)
+
+---
 
 ## ATTACK ON THE BEORNINGS
 
@@ -362,11 +384,11 @@ The game lasts for 10 turns. The Good side wins if, at the end of the 10th turn,
 
 **SPECIAL RULES**
 
-*Grimbeorn* — *Grimbeorn has been out hunting the Orcs that are making their way through Mirkwood, but the sound of his people in trouble has forced him back towards his homestead.*
+* **Grimbeorn**
 
 From turn 2 onwards, roll a D6 at the start of each turn before Priority is determined and add the current turn number. On a score of 8 or more, Grimbeorn has arrived. Grimbeorn will enter the board from the center of any board edge via the rules for reinforcements. Additionally, Grimbeorn will already be in bear form, so there is no need to roll.
 
-*Unbridled Rage* — *Incensed that his people have been attacked in their homes, Grimbeorn is prepared to unleash his full fury upon the invaders.*
+* **Unbridled Rage**
 
 Grimbeorn must re-roll all failed To Wound rolls.
 
@@ -377,6 +399,8 @@ Grimbeorn must re-roll all failed To Wound rolls.
 **Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 ![](../media/scenarios/defence_of_the_north/attack_on_the_beornings.jpg)
+
+---
 
 ## BURNING OF MIRKWOOD
 
@@ -396,15 +420,15 @@ The game lasts for 10 turns. The Good player wins if at least three of the large
 
 **SPECIAL RULES**
 
-*Destroying Trees* — *With axes and torches in hand, the Orcs have come to destroy the forest.*
+* **Destroying Trees**
 
 During the End phase of each turn, any Orc model in base contact with one of the larger trees may attempt to destroy it, provided they have not fought in a combat, supported a combat, fired a missile weapon this turn, or are Prone. When an Orc attempts to destroy a tree, their controlling player rolls a D6. On a 5+, that tree has been destroyed.
 
-*Timber!* — *When cut down, there is a chance that a falling tree will land on the combatants below.*
+* **Timber!**
 
 Whenever a tree is destroyed, it will fall to the ground; roll a D6 to determine which way it falls and consult the chart below:
 
-| D6 Result | Direction |
+| D6  | Result |
 |-----------|------------|
 | 1         | The Evil player chooses the direction it falls. |
 | 2         | The tree falls towards the southern board edge. |
@@ -422,6 +446,8 @@ When a tree falls, draw a 1mm wide line from the center of the tree that extends
 **Evil:** Razgûsh, War Leader of the North; The Spider Queen; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 2 Mirkwood Spiders; 2 Giant Spiders; 1 Bat Swarm.
 
 ![](../media/scenarios/defence_of_the_north/burning_of_mirkwood.jpg)
+
+---
 
 ## BATTLE UNDER THE TREES
 
@@ -443,19 +469,19 @@ The Good player wins if the Evil force has been reduced to 25%. The Evil player 
 
 **SPECIAL RULES**
 
-*Through the Forest* — *Having marched through the forest of Mirkwood, the forces of Mordor have learned how to traverse the thick-wooded terrain.*
+* **Through the Forest**
 
 Evil models gain the Woodland Creature special rule.
 
-*Death to the Elves* — *The Orcs and beasts of Mirkwood have long hated the Elves of the Woodland Realm, and now they get their chance to bring death upon them.*
+* **Death to the Elves**
 
 Evil models gain the Hatred (Elf) special rule.
 
-*The War Leader* — *Razgûsh is a mighty Orc, and one who has been tasked with putting an end to the Elves who reside in Mirkwood by any means necessary.*
+* **The War Leader**
 
 Razgûsh gains a bonus of +1 to his Fight value when engaged with an enemy Elf model.
 
-*Defend the Forest* — *The Elves know that this could be their end, and they will fight as hard as they are capable to survive.*
+* **Defend the Forest**
 
 Elf models must re-roll 1s To Wound during the Fight phase.
 
@@ -467,6 +493,8 @@ Elf models must re-roll 1s To Wound during the Fight phase.
 
 ![](../media/scenarios/defence_of_the_north/battle_under_the_trees.jpg)
 
+---
+
 ## CROSSING OF THE ANDUIN
 
 **LAYOUT**
@@ -477,8 +505,6 @@ The board represents part of the River Anduin and the edges of Lothlórien. Ther
 
 The Good player deploys their models within 12" of the western board edge. The Evil player then deploys their models within 12" of the eastern board edge.
 
-The river is Deep Water, with the exception of the ford, which is treated as open ground. Additionally, any model that makes a Swim test for trying to cross the Anduin suffers an additional -1 penalty to their roll.
-
 **OBJECTIVES**
 
 The Elves have seen the advancing Orcs and aim to prevent them from entering the Golden Wood.
@@ -487,11 +513,13 @@ The game lasts until one force has completed their objective. The Evil player wi
 
 **SPECIAL RULES**
 
-*Defend our Borders* — *The Elves have come to the edge of the forest in order to defend it, but they will not go further unless they have to.*
+* **Defend our Borders**
 
 Good models may not willingly move further than 12" away from the western board edge. If a Good model finds itself further than 12" from the western board edge at the start of its Move phase, it must try to move back within 12" if possible.
 
-*The Anduin* — *The river is flowing fast, making it treacherous to try to cross it anywhere except the ford.*
+* **The Anduin**
+
+The river is Deep Water, with the exception of the ford, which is treated as open ground. Additionally, any model that makes a Swim test for trying to cross the Anduin suffers an additional -1 penalty to their roll.
 
 **PARTICIPANTS**
 
@@ -500,6 +528,8 @@ Good models may not willingly move further than 12" away from the western board 
 **Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 ![](../media/scenarios/defence_of_the_north/crossing_of_the_anduin.jpg)
+
+---
 
 ## ATTACK ON LÓRIEN
 
@@ -519,16 +549,16 @@ The game lasts for 10 turns. The Good player wins if the Mallorn tree is still a
 
 **SPECIAL RULES**
 
-*The Mallorn Tree* — *This magnificent tree stands tall and proud within the forest and will not be easy to simply cut down.*
+* **The Mallorn Tree**
 
 The Mallorn tree has a Defence of 10 and 10 Wounds. Evil models may fight the Mallorn tree in the Fight phase, providing they have not already been or are in a Fight that turn, and have not made a shooting attack that turn. Models may use Special Strikes against the Mallorn tree, and may support models fighting the Mallorn tree. The Mallorn tree will always lose the fight and always counts as Trapped.
 
-*Decay* — *The Orcs plan on using their crude magics to wither and decay the Mallorn trees, causing them to become much weaker.*
+* **Decay**
 
 Muzgúr and the Orc Shaman gain the following additional Magical Power:
 
-**DECAY**  
-Range: 6"  
+*DECAY*
+Range: 6"
 Casting Value: 4+
 
 This Magical Power may only target the Mallorn tree. The Mallorn tree suffers a Wound. Additionally, its Defence characteristic is reduced by 1 for the remainder of the game.
@@ -542,6 +572,8 @@ Additionally, both Muzgúr and the Orc Shaman gain a free Will point per turn, w
 **Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 ![](../media/scenarios/defence_of_the_north/attack_on_lorien.jpg)
+
+---
 
 ## TRAPPED ON BOTH SIDES
 
@@ -561,15 +593,15 @@ The game lasts for 12 turns. At the end of the 12th turn, whichever side has the
 
 **SPECIAL RULES**
 
-*Cover of Darkness* — *As the Goblins of the Misty Mountains cannot move by sunlight, the assault on Lothlórien comes during the dead of night.*
+* **Cover of Darkness**
 
 The battle takes place at night. As such, due to the reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Models with the Cave Dweller special rule can see as normal.
 
-*Dark Magics* — *Those that lead the Orcs and Goblins are well-versed in the crude sorceries they have been taught, and have shared their knowledge with their allies.*
+* **Dark Magics**
 
 Evil models may re-roll any number of D6s when making a Casting roll.
 
-*Defend the Golden Wood* — *The Elves will hold their own against whatever comes out of the darkness.*
+* **Defend the Golden Wood**
 
 All Good models automatically pass any Courage tests they are required to make.
 
@@ -580,6 +612,8 @@ All Good models automatically pass any Courage tests they are required to make.
 **Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 2 Warg Marauders.
 
 ![](../media/scenarios/defence_of_the_north/trapped_on_both_sides.jpg)
+
+---
 
 ## FINAL ASSAULT ON LOTHLÓRIEN
 
@@ -599,31 +633,31 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 **SPECIAL RULES**
 
-*Galadriel* — *The Dark Lord fears the power of Galadriel more than any other; should she fall then all hope will be lost.*
+* **Galadriel**
 
 If Galadriel is slain, the game immediately ends and the Evil side is victorious, regardless of any other factors.
 
-*Cover of Darkness* — *As the Goblins of the Misty Mountains cannot move by sunlight, the assault on Lothlórien comes during the dead of night.*
+* **Cover of Darkness**
 
 The battle takes place at night. Due to reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, all shooting attacks gain a bonus of +1 when rolling To Wound, as it is harder to avoid a shot in the dark. Models with the Cave Dweller special rule can see as normal.
 
-*Dark Magics* — *Those that lead the Orcs and Goblins are well-versed in the crude sorceries they have been taught, and have shared their knowledge with their allies.*
+* **Dark Magics**
 
 Evil models may re-roll any number of D6s when making a Casting roll.
 
-*Defend the Golden Wood* — *The Elves will hold their own against whatever comes out of the darkness.*
+* **Defend the Golden Wood**
 
 All Good models automatically pass any Courage tests they are required to make.
 
 **PARTICIPANTS**
 
-**Good:**  
-Galadriel with mirror of Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 3 Wood Elf Sentinels.
+**Good:** Galadriel with mirror of Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 3 Wood Elf Sentinels.
 
-**Evil:**  
-Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 3 Warg Marauders.
+**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 3 Warg Marauders.
 
 ![](../media/scenarios/defence_of_the_north/final_assault_on_lothlorien.jpg)
+
+---
 
 ## FALL OF DOL GULDUR
 
@@ -639,31 +673,29 @@ The Evil player deploys one Castellan of Dol Guldur within each ruin. The rest o
 
 The Galadhrim have come to protect Galadriel, who intends to tear down the walls of Dol Guldur for good.
 
-The game lasts until one player completes their objective.  
+The game lasts until one player completes their objective.
 The Good player wins immediately if they can destroy all seven of the ruins of Dol Guldur. The Evil player wins immediately if Galadriel is slain.
 
 **SPECIAL RULES**
 
-*The Lady of Light* — *Galadriel is solely focused on the destruction of Dol Guldur and bringing down its walls upon the servants of the Dark Lord.*
+* **The Lady of Light**
 
 Galadriel may only attempt to cast the following Magical Power during the game:
 
-**BREAK STONE**  
-Range: 3"  
+*BREAK STONE*
+Range: 3"
 Casting Value: 4+
 
 This Magical Power may only target the ruins of Dol Guldur. The targeted ruins are immediately destroyed. Any models within the ruins, or within 1" of the ruins when they are destroyed, suffer a Strength 8 hit.
 
-*Weary from War* — *The Galadhrim have been at war with Orcs and Goblins, and many are still weary from the conflict.*
+* **Weary from War**
 
 Each Good Hero model starts the game with one fewer Might point than usual.
 
 **PARTICIPANTS**
 
-**Good:**  
-Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 4 Guard of the Galadhrim Court.
+**Good:** Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 4 Guard of the Galadhrim Court.
 
-**Evil:**  
-6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
+**Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
 
 ![](../media/scenarios/defence_of_the_north/fall_of_dol_guldur.jpg)

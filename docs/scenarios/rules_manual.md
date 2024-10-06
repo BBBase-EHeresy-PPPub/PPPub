@@ -1,7 +1,5 @@
 ﻿## SCENARIO 1 — DOMINATION
 
-*This battlefield will provide a distinct tactical advantage for whoever holds it for many years to come. Victory can be achieved by forcing the enemy back and securing the key points on the battlefield. Failure will not be permitted!*
-
 **SCENARIO OUTLINE**
 
 Players fight to control five objectives scattered across the battlefield.
@@ -40,8 +38,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 2 — TO THE DEATH!
-
-*Once again, fate has pitted the forces of Good and Evil against each other, and no matter the cost, the enemy must be slain. No quarter shall be asked and none shall be given. Only the Valar know who will win the day!*
 
 **SCENARIO OUTLINE**
 
@@ -84,8 +80,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 3 — HOLD GROUND
-
-*In the swirl of battle it becomes apparent that a certain, usually insignificant, area of the battlefield has become vital to the victory of both sides. Both forces surge towards this new tactical advantage, desperate to control it.*
 
 **SCENARIO OUTLINE**
 
@@ -138,8 +132,6 @@ Maelstrom of Battle: At the end of your Move phase, roll a D6 for each of your w
 
 ## SCENARIO 4 — LORDS OF BATTLE
 
-*After weeks of skirmishes and close encounters with the opposing side, it comes down to one final battle to determine which faction will emerge victorious. The more enemies a side can kill, the more it will spur them on to victory.*
-
 **SCENARIO OUTLINE**
 
 A pitched battle where victory goes to the player who causes the most carnage.
@@ -183,8 +175,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 5 — RECONNOITRE
-
-*Scouts have been sent out by both forces in order to gather vital information from behind enemy lines. Each force is attempting to sneak past the enemy whilst simultaneously preventing the enemy from doing the same.*
 
 **SCENARIO OUTLINE**
 
@@ -238,8 +228,6 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 
 ## SCENARIO 6 — A CLASH BY MOONLIGHT
 
-*Two opposing forces have happened upon each other in the dead of night, thrusting them into an impromptu battle. The darkness makes for an unusual fight, providing both forces with protection from arrows and greater options for stealth.*
-
 **SCENARIO OUTLINE**
 
 A battle to the death in the dark of night!
@@ -282,8 +270,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 7 — SEIZE THE PRIZE
-
-*Within Middle-earth, an ancient and mysterious artefact has awoken. Its power has drawn two opposing armies to claim it, hoping to use its secrets for their own ends. Both forces will stop at nothing to possess it.*
 
 **SCENARIO OUTLINE**
 
@@ -329,8 +315,6 @@ Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Li
 
 ## SCENARIO 8 — CONTEST OF CHAMPIONS
 
-*Following a rousing speech for the ages, the leaders of both forces head into battle to inspire their followers to great deeds. It is upon the field of battle that the two armies' generals must fight to outshine each other, in an attempt to spur on their troops, break the spirit of their enemies and ultimately win the day.*
-
 **SCENARIO OUTLINE**
 
 A trial of heroes, the leader who causes the most carnage will rise triumphant.
@@ -372,8 +356,6 @@ The Last Stand: Each time either leader kills a Hero or a multi-Wound model, the
 ---
 
 ## SCENARIO 9 — CAPTURE AND CONTROL
-
-*By holding key strategic points, both armies believe they can control the field of battle and use these tactically important locations to force their enemy into defeat. Whoever controls the battlefield will have gained an important foothold for the many battles yet to come.*
 
 **SCENARIO OUTLINE**
 
@@ -422,8 +404,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 10 — HEIRLOOM OF AGES PAST
-
-*Buried somewhere upon the field of battle is a long-forgotten heirloom of ages past. Having narrowed down its location, the two armies now fight for possession of this relic. However, the powers that linger upon this mysterious object are easily capable of corrupting those who hold it for too long.*
 
 **SCENARIO OUTLINE**
 
@@ -479,8 +459,6 @@ Victory Points are scored for the following:
 
 ## SCENARIO 11 — FOG OF WAR
 
-*Amidst the maelstrom of the battle that rages, the two forces clash in an endless swirl of shields and swords. Battle plans constantly change and the two generals become locked in a battle of wits, both trying to work out their adversary's aims.*
-
 **SCENARIO OUTLINE**
 
 Outwit your opponent by concealing your true objective.
@@ -523,8 +501,6 @@ Victory Points are scored for the following:
 ---
 
 ## SCENARIO 12 — STORM THE CAMP
-
-*Both armies desire the land before them for its strategic position within* Middle-earth. *Setting up encampments, both forces seek to outlast their opponents and claim the land for their own. However, with neither side willing to yield its stake, war befalls these two opposing sides. It is now time to decide the dominant force by seizing the other's camp and scattering its defenders.*
 
 **SCENARIO OUTLINE**
 

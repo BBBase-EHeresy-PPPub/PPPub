@@ -1,7 +1,5 @@
 ﻿## SCENARIO 1 — DOMINATION
 
-*This battlefield will provide a distinct tactical advantage for whoever holds it for many years to come. Victory can be achieved by forcing the enemy back and securing the key points on the battlefield. Failure will not be permitted!*
-
 **SCENARIO OUTLINE**
 
 Players fight to control five Objectives scattered across the battlefield.
@@ -40,10 +38,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 ---
 
 ## SCENARIO 2 — TO THE DEATH!
-
-*Once again, fate has pitted the forces of Good and Evil against each other, and no matter the cost, the enemy must be slain.*
-
-*No quarter shall be asked and none shall be given. Only the Valar know who will win the day!*
 
 **SCENARIO OUTLINE**
 
@@ -87,8 +81,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 ---
 
 ## SCENARIO 3 – HOLD GROUND
-
-*In the swirl of battle it becomes apparent that a certain, usually insignificant, area of the battlefield has become vital to the victory of both sides. Both forces surge towards this new tactical advantage, desperate to control it.*
 
 **SCENARIO OUTLINE**
 
@@ -143,8 +135,6 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 ## SCENARIO 4 – LORDS OF BATTLE
 
-*After weeks of skirmishes and close encounters with the opposing side, it comes down to one final battle to determine which faction will emerge victorious. The more enemies a side can kill, the more it will spur them on to victory.*
-
 **SCENARIO OUTLINE**
 
 A pitched battle where victory goes to the player who causes the most carnage.
@@ -190,8 +180,6 @@ At the end of the game, the force that has scored the most Victory Points wins t
 ---
 
 ## SCENARIO 5 – RECONNOITRE
-
-*Scouts have been sent out by both forces in order to gather vital information from behind enemy lines. Each force is attempting to sneak past the enemy whilst simultaneously preventing the enemy from doing the same.*
 
 **SCENARIO OUTLINE**
 
@@ -249,8 +237,6 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 
 ## SCENARIO 6 – A CLASH BY MOONLIGHT
 
-*Two opposing forces have happened upon each other in the dead of night, thrusting them into an impromptu battle. The darkness makes for an unusual fight, providing both forces with protection from arrows and greater options for stealth.*
-
 **SCENARIO OUTLINE**
 
 A battle to the death in the dark of night!
@@ -295,8 +281,6 @@ The Dark of Night: Due to the reduced visibility, models cannot be targeted by s
 ---
 
 ## SCENARIO 7 — SEIZE THE PRIZE
-
-*Within Middle-earth, an ancient and mysterious artefact has awoken. Its power has drawn two opposing armies to claim it, hoping to use its secrets for their own ends. Both forces will stop at nothing to possess it.*
 
 **SCENARIO OUTLINE**
 
@@ -344,8 +328,6 @@ Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Li
 ---
 
 ## SCENARIO 8 – CONTEST OF CHAMPIONS
-
-*Following a rousing speech for the ages, the leaders of both forces head into battle to inspire their followers to great deeds. It is upon the field of battle that the two armies' generals must fight to outshine each other, in an attempt to spur on their troops, break the spirit of their enemies and ultimately win the day.*
 
 **SCENARIO OUTLINE**
 
@@ -402,8 +384,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 ## SCENARIO 9 — CAPTURE AND CONTROL
 
-*By holding key strategic points, both armies believe they can control the field of battle and use these tactically important locations to force their enemy into defeat. Whoever controls the battlefield will have gained an important foothold for the many battles yet to come.*
-
 **SCENARIO OUTLINE**
 
 Control areas of the battlefield and deny them to your
@@ -456,8 +436,6 @@ When this has been done, the opposing player chooses one of their warbands and r
 ---
 
 ## SCENARIO 10 — HEIRLOOM OF AGES PAST
-
-*Buried somewhere upon the field of battle is a long-forgotten heirloom of ages past. Having narrowed down its location, the two armies now fight for possession of this relic. However, the powers that linger upon this mysterious object are easily capable of corrupting those who hold it for too long.*
 
 **SCENARIO OUTLINE**
 
@@ -517,8 +495,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 ## SCENARIO 11 – FOG OF WAR
 
-*Amidst the maelstrom of the battle that rages, the two forces clash in an endless swirl of shields and swords. Battle plans constantly change and the two generals become locked in a battle of wits, both trying to work out their adversary's aims.*
-
 **SCENARIO OUTLINE**
 
 Outwit your opponent by concealing your true objective.
@@ -564,8 +540,6 @@ At the end of the game, the force that has scored the most Victory Points wins t
 ---
 
 ## SCENARIO 12 — STORM THE CAMP
-
-*Both armies desire the land before them for its strategic position within Middle-earth. Setting up encampments, both forces seek to outlast their opponents and claim the land for their own. However, with neither side willing to yield its stake, war befalls these two opposing sides. It is now time to decide the dominant force by seizing the other's camp and scattering its defenders.*
 
 **SCENARIO OUTLINE**
 
@@ -613,8 +587,6 @@ Models that are within their own campsite will defend it at all costs. Any model
 ---
 
 ## SCENARIO 13 — COMMAND THE BATTLEFIELD
-
-*Two enemy forces are embroiled in a deadlock on the battlefield. Only by gaining control of the grounds they are fighting upon can either side hope to claim victory.*
 
 **SCENARIO OUTLINE**
 
@@ -671,8 +643,6 @@ Models wholly within 12" of the centre of the battlefield do not count as being 
 
 ## SCENARIO 14 — RETRIEVAL
 
-*Both forces have claimed something of value from their enemy, and both will fight to reclaim what is rightfully theirs.*
-
 **SCENARIO OUTLINE**
 
 Reclaim what was stolen by the enemy and escape the battlefield with it.
@@ -724,8 +694,6 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 ## SCENARIO 15 — BREAKTHROUGH
 
-*With both forces locked in a battle for supremacy, both sides know that if they can break through their enemy's lines they can seize a valuable strategic point from their foe.*
-
 **SCENARIO OUTLINE**
 
 Capture the areas of the battlefield that are worth the most to your opponent.
@@ -770,8 +738,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 ---
 
 ## SCENARIO 16 — DESTROY THE SUPPLIES
-
-*By destroying the supplies and rations of their enemy, one force can gain an immediate upper hand in the battles between the two armies.*
 
 **SCENARIO OUTLINE**
 
@@ -822,8 +788,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 ## SCENARIO 17 — DIVIDE & CONQUER
 
-*With battle having divided two opposing forces, each army must now fight to rejoin their allies, all whilst trying to claim key areas of the battlefield to ensure they will win the day.*
-
 **SCENARIO OUTLINE**
 
 With your army split in two, claim the key areas of the battlefield.
@@ -870,8 +834,6 @@ Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not co
 ---
 
 ## SCENARIO 18 — ASSASSINATION
-
-*For each side, there are certain enemies that pose a thorn in their side. Their swift removal from the equation is crucial to one side achieving victory on the battlefield.*
 
 **SCENARIO OUTLINE**
 
@@ -923,8 +885,6 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 ## DOUBLE EVENT SCENARIO 1 — NO ESCAPE
 
-*Half of each army is fighting at the centre of the battlefield, with the rest of their enemies bearing down upon them.*
-
 **SCENARIO OUTLINE**
 
 Kill as much of the enemy force as possible whilst protecting your own in the centre of the battlefield.
@@ -964,8 +924,6 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 ---
 
 ## DOUBLE EVENT SCENARIO 2 — TOTAL CONQUEST
-
-*Two enemy forces are embroiled in a deadlock on the battlefield. Only by their allies joining the fight and taking control of key areas can they achieve victory.*
 
 **SCENARIO OUTLINE**
 
@@ -1021,8 +979,6 @@ Broken.
 
 ## DOUBLE EVENT SCENARIO 3 — TAKE AND HOLD
 
-*The two rival forces are converging upon a site of great power; whomever controls it will secure victory.*
-
 **SCENARIO OUTLINE**
 
 Control the central objective to claim victory.
@@ -1071,8 +1027,6 @@ Models within 6" of the Objective marker gain the Resistant to Magic special rul
 
 ## DOUBLE EVENT SCENARIO 4 — CLASH OF CHAMPIONS
 
-*The two allied leaders must show their combined might against that of their enemies; whoever slays the most shall earn a great victory.*
-
 **SCENARIO OUTLINE**
 
 Have both forces' leaders kill more than the two enemy
@@ -1120,8 +1074,6 @@ ally.
 ---
 
 ## DOUBLE EVENT SCENARIO 5 — CORNERED
- 
-*With one force surrounded, their allies must fight to save them from the combined might of their enemies.*
 
 **SCENARIO OUTLINE**
 
@@ -1166,8 +1118,6 @@ At the end of the game, the team that has scored the most Victory Points wins th
 ---
 
 ## DOUBLE EVENT SCENARIO 6 — DUEL OF WITS
-
-*Each force has been tasked with eliminating key enemy targets, though in the heat of battle they have been unable to relay this information to their allies.*
 
 **SCENARIO OUTLINE**
 

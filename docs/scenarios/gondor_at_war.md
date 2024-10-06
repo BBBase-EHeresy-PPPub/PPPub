@@ -15,11 +15,17 @@ The game lasts for ten turns. The Evil player wins if they can destroy all three
 
 **SPECIAL RULES**
 
-**Hordes of Mordor** - Each time a Mordor Warrior model is slain, place it to one side. At the end of each Evil Move phase, roll a D6 for each Mordor Warrior model kept aside in this manner. On a 4+, place the model anywhere within the Evil player's deployment zone.
+* **Hordes of Mordor**
 
-**Faramir** - Faramir must always Charge if able to do so, however, he may spend a Will point not to Charge. Should Faramir be slain, then the best result the Good player can achieve is a draw.
+Each time a Mordor Warrior model is slain, place it to one side. At the end of each Evil Move phase, roll a D6 for each Mordor Warrior model kept aside in this manner. On a 4+, place the model anywhere within the Evil player's deployment zone.
 
-**Objectives** - Any Evil model can destroy an objective by being in base contact with it during the End phase of any turn, so long as they did not take part in a Fight (including supporting) in the preceding Fight phase.
+* **Faramir**
+
+Faramir must always Charge if able to do so, however, he may spend a Will point not to Charge. Should Faramir be slain, then the best result the Good player can achieve is a draw.
+
+* **Objectives**
+
+Any Evil model can destroy an objective by being in base contact with it during the End phase of any turn, so long as they did not take part in a Fight (including supporting) in the preceding Fight phase.
 
 **PARTICIPANTS**
 
@@ -49,15 +55,19 @@ draw.
 
 **SPECIAL RULES**
 
-**The Sons of the Steward** - Evil models may re-roll failed To Wound rolls against Boromir and Faramir.
+* **The Sons of the Steward**
 
-**For Gondor!** - In a turn in which Boromir or Faramir Charges into combat, all Gondor Warrior models that also Charged within 3" of either of them gain a bonus of +1 To Wound during the Fight phase.
+Evil models may re-roll failed To Wound rolls against Boromir and Faramir.
+
+* **For Gondor!**
+
+In a turn in which Boromir or Faramir Charges into combat, all Gondor Warrior models that also Charged within 3" of either of them gain a bonus of +1 To Wound during the Fight phase.
 
 **PARTICIPANTS**
 
-Good: Boromir, Captain of the White Tower, with the Banner of Minas Tirith; Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+**Good:** Boromir, Captain of the White Tower, with the Banner of Minas Tirith; Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
 
-Evil: 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 1 Mordor Troll.
+**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 1 Mordor Troll.
 
 ![](../media/scenarios/gondor_at_war/retaking_of_osgiliath.jpg)
 
@@ -81,7 +91,7 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 **SPECIAL RULES**
 
-**Unseen Hunters** - *The Haradrim have no idea that they are being watched by the Rangers of Gondor, let alone that they are walking into an ambush.*
+* **Unseen Hunters**
 
 At the start of the game, before the first Priority is rolled for, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special rule and may re-roll any 1s To Wound when making a shooting attack.
 
@@ -113,11 +123,17 @@ The game lasts for ten turns. At the start of the game, starting with the Evil p
 
 **SPECIAL RULES**
 
-**Torching Buildings** - The five selected buildings are the targets that the Corsairs intend to set ablaze as they plunder the city. Any Corsair model that ends its move in base contact with one of the selected buildings during the Move phase can attempt to set it alight. Roll a D6. On a 6+, the building has been set alight.
+* **Torching Buildings**
 
-**Flaming Arrows** - Corsair models may shoot at any of the selected buildings as if they were enemy models, without taking In The Way tests for intervening models. Any building that is wounded by an arrow or crossbow bolt will immediately be set alight. Buildings count as having Defence 8.
+The five selected buildings are the targets that the Corsairs intend to set ablaze as they plunder the city. Any Corsair model that ends its move in base contact with one of the selected buildings during the Move phase can attempt to set it alight. Roll a D6. On a 6+, the building has been set alight.
 
-**Put the Fires Out!** - Any Good model that ends its move in base contact with a building that is on fire may attempt to put it out. Roll a D6. On a 6, the fire has been put out. However, should the Good player roll a 1, then the building will be consumed by the flames and cannot be put out for the remainder of the game.
+* **Flaming Arrows**
+
+Corsair models may shoot at any of the selected buildings as if they were enemy models, without taking In The Way tests for intervening models. Any building that is wounded by an arrow or crossbow bolt will immediately be set alight. Buildings count as having Defence 8.
+
+* **Put the Fires Out!**
+
+Any Good model that ends its move in base contact with a building that is on fire may attempt to put it out. Roll a D6. On a 6, the fire has been put out. However, should the Good player roll a 1, then the building will be consumed by the flames and cannot be put out for the remainder of the game.
 
 **PARTICIPANTS**
 
@@ -146,11 +162,11 @@ The forces of Gondor must escape Osgiliath in order to remain alive, whilst the 
 
 **SPECIAL RULES**
 
-**Hordes Without End** - *There are countless Orcs assaulting Osgiliath, and more are constantly joining the battle from across the Anduin.*
+* **Hordes Without End**
 
 Each time an Evil Warrior model is slain, place it to one side. At the end of each Evil Move phase, roll a D6 for any models placed aside in this manner. On a 4+, they may re-enter the board from either of the points marked on the map.
 
-**Nazgûl!** - *Overhead, the Nazgûl ride their dread Fell Beasts, causing terror in the hearts of those below.*
+* **Nazgûl!**
 
 At the start of each turn, the Evil player may select a single Good Warrior and roll a D6. On a 3+, this Warrior becomes paralyzed by fear and may not Move or Shoot that turn. They may fight if they are subsequently Engaged in combat, although their Fight value will be reduced to 1.
 
@@ -183,11 +199,11 @@ Any Good models can move off the board through the gates of Minas Tirith. The Go
 
 **SPECIAL RULES**
 
-**Ride to Minas Tirith** - *The riders from Osgiliath left the city as quickly as they could, and are ahead of their pursuers - at least for now.*
+* **Ride to Minas Tirith**
 
 The Good player automatically has Priority on the first turn.
 
-**Flight of the Nazgûl** - *Upon their winged steeds, the Nazgûl give chase to the riders from Osgiliath.*
+* **Flight of the Nazgûl**
 
 At the end of the first Evil Move phase, the Evil player may move all of their models onto the board from any point on the eastern board edge via the rules for Reinforcements.
 
@@ -219,11 +235,11 @@ This battle continues until one force is wiped out, at which point their opponen
 
 **SPECIAL RULES**
 
-**Volley Fire** - *By firing their arrows high into the air, the Orcs can hit targets that would usually be out of range of their bowfire.*
+* **Volley Fire**
 
 Any Orc Tracker can choose to shoot their Orc bow at a target up to 36" away, rather than the usual 18". However, any Orc Tracker that targets an enemy model over 18" away will only hit on the roll of a 6.
 
-**Lethal Shot** - *As the Knights of Minas Tirith charge towards the ruins of Osgiliath, the Orcs within ready their bows for the kill.*
+* **Lethal Shot**
 
 Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an enemy model within 12".
 
@@ -259,7 +275,7 @@ The game lasts until there are no Corsair Hero models left on the board. The Evi
 
 **SPECIAL RULES**
 
-**The King of the Dead has come!** - *The sight of the long-dead king strikes untold fear into the hearts of the Corsairs.*
+* **The King of the Dead has come!**
 
 Corsair models within 6" of the King of the Dead suffer a -1 penalty to all Courage tests.
 
@@ -291,15 +307,15 @@ The Good player wins if, at the end of any turn, they have slain a total of 30 O
 
 **SPECIAL RULES**
 
-**The White Wizard** - *The hope of the men of Minas Tirith is fading. Only by joining the fight for the city can Gandalf restore their courage and urge them to continue to fight.*
+* **The White Wizard**
 
 Gandalf must always Charge if he is able to do so. Additionally, on a turn in which Gandalf Charges, friendly Gondor Warrior models within 12" of him will count as being in range of a banner until the end of the turn.
 
-**The Hordes of Mordor** - *Countless Orcs have swarmed the walls, and more constantly climb the siege towers to join the battle.*
+* **The Hordes of Mordor**
 
 Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the eastern board edge.
 
-**Battlements of Minas Tirith** - *The height of Minas Tirith's walls means that any warrior unfortunate enough to fall from them will meet an untimely death.*
+* **Battlements of Minas Tirith**
 
 The eastern edge of the walls of Minas Tirith are lined with battlements that can trap a model against them. Additionally, any model that is pushed from the edge of a siege tower and onto the Pelennor is automatically slain - it's a rather long fall!
 
@@ -315,6 +331,14 @@ The eastern edge of the walls of Minas Tirith are lined with battlements that ca
 
 ## THE GATE IS BREACHED
 
+**LAYOUT**
+
+The board represents the courtyard of Minas Tirith. In the center of the eastern board edge are the remains of the city's gates. The board should be relatively bare around the center, perhaps with a few small piles of rubble and debris, whilst around the edges of the board there should be a few buildings. In the center of the board is a fountain with a diameter of 3". The fountain is shallow water.
+
+**STARTING POSITIONS**
+
+The Good player deploys all their models within 12" of the western board edge. The Evil player then deploys all of their models within 12" of the center of the eastern board edge.
+
 **OBJECTIVES**
 
 The forces of Mordor must capture the courtyard, securing a foothold before the rest of the city can fall; if they can overwhelm the lower levels they can make their way into the rest of the city.
@@ -323,21 +347,13 @@ The game lasts for eight turns, after which whoever has the most models within 6
 
 **SPECIAL RULES**
 
-**The Hordes of Mordor** - *Countless Orcs have swarmed the gates of Minas Tirith, and more constantly flood through to join the battle.*
+* **The Hordes of Mordor**
 
 Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the board from the center of the eastern board edge.
 
-**You will Stand your Ground!** - *Under the command of the White Wizard, the men of Gondor will fight to the last to protect their city.*
+* **You will Stand your Ground!**
 
 Good models do not have to take Courage tests to Charge a Mordor Troll.
-
-**LAYOUT**
-
-The board represents the courtyard of Minas Tirith. In the center of the eastern board edge are the remains of the city's gates. The board should be relatively bare around the center, perhaps with a few small piles of rubble and debris, whilst around the edges of the board there should be a few buildings. In the center of the board is a fountain with a diameter of 3". The fountain is shallow water.
-
-**STARTING POSITIONS**
-
-The Good player deploys all their models within 12" of the western board edge. The Evil player then deploys all of their models within 12" of the center of the eastern board edge.
 
 **PARTICIPANTS**
 
@@ -368,11 +384,11 @@ The game lasts until the end of a turn when either Pippin or Gandalf are removed
 
 **SPECIAL RULES**
 
-**Pippin** - *Pippin is racing through the city in search of Gandalf, ducking and weaving between the Men and Orcs that fight on all sides. Mercifully, the Orcs have not yet noticed his small stature in the chaotic melee.*
+* **Pippin**
 
 Pippin counts as wearing an Elven cloak. Additionally, any Evil model that wishes to Charge Pippin must first roll a D6. On a roll of a natural 6, they may Charge as normal. On a 1-5, the model may not Charge Pippin, but may Move as normal, even charging another enemy, if they wish.
 
-**Gandalf** - *The White Wizard is busy defending the city from the Orcs that now surge through it; he will only leave the battle after hearing Pippin's pleas.*
+* **Gandalf**
 
 If, during the End phase of any turn, Pippin and Gandalf are in base contact and Gandalf is mounted, Pippin may mount Shadowfax and be treated as a passenger. Gandalf may not enter the western half of the board until Pippin has reached him.
 
@@ -387,8 +403,6 @@ If, during the End phase of any turn, Pippin and Gandalf are in base contact and
 ---
 
 ## THE WITCH-KING'S ARRIVAL
-
-*This Scenario is represented by a mini-game, and as such does not follow the usual rules for the Strategy Battle Game. Instead, it uses the series of unique rules provided here to help capture the feel of the scene in question.*
 
 **SET-UP**
 
@@ -450,13 +464,19 @@ The board represents the fields of Pelennor, the barren ground upon which the ba
 
 The Evil player deploys their force within 12" of the southern board edge. The Good player then deploys their force within 12" of the northern board edge.
 
+**OBJECTIVES**
+
+The Rohirrim have arrived to deliver Minas Tirith from the grip of Mordor; only by routing the Orc hordes can they hope to accomplish this. Gothmog is wise to the plans of Théoden, and knows that without their leaders at the head of their charge, the Rohirrim will surely break.
+
+The Good side wins if they can reduce the Evil force to less than 25% of its starting numbers. The Evil side wins if they can slay both Théoden and Éomer before this can happen. If both sides achieve their objective in the same turn, the game is a draw.
+
 **SPECIAL RULES**
 
-**Charge of the Rohirrim** - *Such is the force with which they strike, the Riders of Rohan are capable of sending their foes sprawling to the ground while maintaining the momentum of their charge.*
+* **Charge of the Rohirrim**
 
 The Good player always counts as having Priority. Additionally, Good models must always Charge if able to do so.
 
-**Gothmog** - *Though Gothmog fully expects his ranks to outlast and defeat the Rohirrim's charge; the wily Orc is not above falling back to safety if things look precarious.*
+* **Gothmog**
 
 After the Evil force has been reduced to less than 50% of their starting models, Gothmog may attempt to escape the battle by exiting the board via the southern board edge. If Gothmog manages to escape in this way, the best result the Good player can achieve is a draw.
 
@@ -465,12 +485,6 @@ After the Evil force has been reduced to less than 50% of their starting models,
 **Good:** Théoden, King of Rohan, with heavy armour, shield, and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield, and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; Déorwine, Chief of the King's Knights; Elfhelm, Captain of Rohan, with horse; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
 
 **Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
-**OBJECTIVES**
-
-The Rohirrim have arrived to deliver Minas Tirith from the grip of Mordor; only by routing the Orc hordes can they hope to accomplish this. Gothmog is wise to the plans of Théoden, and knows that without their leaders at the head of their charge, the Rohirrim will surely break.
-
-The Good side wins if they can reduce the Evil force to less than 25% of its starting numbers. The Evil side wins if they can slay both Théoden and Éomer before this can happen. If both sides achieve their objective in the same turn, the game is a draw.
 
 ![](../media/scenarios/gondor_at_war/charge_of_the_rohirrim.jpg)
 
@@ -494,15 +508,15 @@ The game lasts for eight turns. If, at the end of eight turns, Faramir is either
 
 **SPECIAL RULES**
 
-**Faramir** - *The young captain of Gondor has been rendered unconscious by the wounds he suffered in battle, and is unaware of the peril that he is in.*
+* **Faramir**
 
 Faramir is unconscious and therefore does not act as a normal model. Instead, he is treated as a Heavy Object that can be moved by another model. Any Good model that is in base contact with the pyre can remove Faramir from its smoldering kindling. However, they cannot move any further that turn. Any Evil model that is carrying Faramir and is in base contact with the pyre may place him Prone atop the pyre - however, they cannot move any further that turn.
 
-**The White Wizard** - *Following his encounter with the Witch-king, Gandalf has not only been temporarily drained of his strength, but has also had his Staff of Power destroyed.*
+* **The White Wizard**
 
 Gandalf does not have his Staff of Power in this Scenario, and begins the game with only a single point of Might, Will, and Fate.
 
-**Sacred Ground** - *The Houses of the Dead are an important place to the people of Minas Tirith, and spilling blood within their walls is forbidden.*
+* **Sacred Ground**
 
 Good models may not make shooting attacks and may not make Strikes if they win a Duel roll. However, in his madness, Denethor and his guard have ignored the city's ruling - they may act as normal.
 
@@ -534,11 +548,11 @@ The game lasts until the Good force has been reduced to 25% of its starting numb
 
 **SPECIAL RULES**
 
-**Death!** - *Such is the bravery that Théoden has inspired in his followers, they will charge into battle without hesitation.*
+* **Death!**
 
 Good models automatically pass Courage tests to Charge any Mûmak models.
 
-**The Mûmak War Leader** - *At the head of the Haradrim forces, the Mûmak War Leader sits atop his Royal War Mûmak. Should he fall, the rest of the army will begin to falter.*
+* **The Mûmak War Leader**
 
 If the Mûmak War Leader is slain, the best result the Evil player can achieve is a draw.
 
@@ -568,11 +582,11 @@ The aim for both armies is simple; slay the leader of the opposing forces. Shoul
 
 **SPECIAL RULES**
 
-**A Duel of Kings** - *The entire battle hinges upon the confrontation between Théoden and Suladân; a fight neither will back down from.*
+* **A Duel of Kings**
 
 Both Théoden and Suladân must Charge each other if they are able to do so.
 
-**Protect the Serpent Lord** - *Râza is Suladân's personal bodyguard and has been entrusted with fighting off all of those that would bring harm to his liege.*
+* **Protect the Serpent Lord**
 
 Râza may select two targets for his The Serpent's Weapon special rule, rather than one.
 
@@ -604,11 +618,11 @@ The game lasts until the end of a turn in which either Théoden or the Witch-kin
 
 **SPECIAL RULES**
 
-**The Witch-king's Arrival** - *The Witch-king has spent much of the battle circling over Minas Tirith and combating Gandalf upon the ramparts; only the sound of the horns of Rohan has alerted the Witch-king to the Rohirrim's arrival.*
+* **The Witch-king's Arrival**
 
 At the end of each game turn, roll a D6 and add the number of the turn you are on. If the total is 7 or more, then the Witch-king will arrive next turn. When the Witch-king arrives, he will move onto the board at the end of the Evil player's Move phase from a table edge of the Evil player's choice. The Witch-king may Charge on the turn in which he arrives.
 
-**The King of Rohan** - *This is Théoden's defining moment, one where he must use every ounce of skill he has to emerge victorious.*
+* **The King of Rohan**
 
 Each time Théoden slays an enemy model, he may immediately regain a single point of either Might, Will, or Fate that was spent earlier in the battle.
 
@@ -623,8 +637,6 @@ Each time Théoden slays an enemy model, he may immediately regain a single poin
 ---
 
 ## FINAL FATE OF THE WITCH-KING
-
-*This Scenario is represented by a mini-game, and as such does not follow the usual rules for the Strategy Battle Game. Instead, it uses the series of unique rules provided here to help capture the feel of the scene in question.*
 
 **SET-UP**
 
@@ -676,11 +688,11 @@ The Good player wins if, at the end of any turn, they have slain a total of 30 o
 
 **SPECIAL RULES**
 
-**The Hordes of Mordor** - *There are countless Orcs upon the Pelennor, and more will join the fray as the battle rages on.*
+* **The Hordes of Mordor**
 
 Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil Move phase, any models kept aside in this manner may move onto the battlefield from any board edge in the Evil player's board half.
 
-**The Prince's Duty** - *Imrahil knows that his duty to Minas Tirith is to drive back the forces of Mordor, and will stop at nothing to ensure the safety of the city.*
+* **The Prince's Duty**
 
 Prince Imrahil may call a Heroic Move at the start of each Move phase without spending Might; however, Imrahil must always Charge if able to do so.
 
@@ -704,8 +716,6 @@ The board represents the fields of Pelennor, the barren ground upon which the ba
 
 The Good player deploys Éomer in the center of the board and the Warriors of Rohan within 3" of Éomer. The Evil player then deploys their models anywhere on the board at least 6" from Éomer and more than 6" from any table edge. The rest of the Good models are kept aside for later in the game.
 
-At the end of the Good player's first Move phase, the rest of the Good models move onto the board from the center of the western board edge.
-
 **OBJECTIVES**
 
 Prince Imrahil leads his followers in an effort to rescue Éomer. If he cannot reach him in time, the new king of Rohan will suffer the same fate as Théoden.
@@ -714,11 +724,13 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 **SPECIAL RULES**
 
-**Éomer's Fury** - *Overcome with rage at the apparent loss of his sister, Éomer will stop at nothing to slay those he holds responsible.*
+* **Éomer's Fury**
 
 Éomer must Charge if able to do so. Additionally, Éomer may re-roll failed To Wound rolls during the Fight phase.
 
-**Ride of Dol Amroth** - *Leading a contingent of Swan Knights, Imrahil rides to Éomer's aid.*
+* **Ride of Dol Amroth**
+
+At the end of the Good player's first Move phase, the rest of the Good models move onto the board from the center of the western board edge.
 
 **PARTICIPANTS**
 
@@ -748,11 +760,11 @@ The game lasts for 12 turns. The Good player wins if, at the end of 12 turns, le
 
 **SPECIAL RULES**
 
-**The Last Defence** - *Those defending Minas Tirith know that they are the final line of defence against the forces of Mordor, and will fight to the death to ensure the city's safety.*
+* **The Last Defence**
 
 Good models may re-roll failed To Wound rolls in the Fight phase whilst they are within 12" of the gates of Minas Tirith.
 
-**Death to the Captains!** - *Goroth has made it his mission to destroy those in command of the defence of Minas Tirith; something the hulking Orc is more than capable of achieving.*
+* **Death to the Captains!**
 
 Each time Goroth slays a Good Hero, his Might is restored to its starting value.
 
@@ -786,7 +798,7 @@ The Good player wins if Aragorn and either Legolas or Gimli can move off of the 
 
 **SPECIAL RULES**
 
-**The Heir of Isildur** - *Such is the relentless determination with which Aragorn fights that those around him are inspired to battle to the last.*
+* **The Heir of Isildur**
 
 Good models within 6" of Aragorn count as being in range of a banner.
 
@@ -820,11 +832,11 @@ The Good player wins immediately if Gothmog is slain. The Evil player wins immed
 
 **SPECIAL RULES**
 
-**The Walking Wounded** - *Both Gothmog and Éowyn have suffered injuries during the course of the battle, and the effects are taking their toll on them.*
+* **The Walking Wounded**
 
 Éowyn starts the game in the Prone position. She may not stand up for any reason, even if she wins a Duel roll. Gothmog begins the game with only a single point of Might, Will, and Fate. Additionally, Gothmog's Move value is reduced to 3" for the duration of this Scenario.
 
-**Leave Her to Me!** - *Gothmog has instructed the Orcs under his command to leave Éowyn to him, so that he may have his vengeance upon her.*
+* **Leave Her to Me!**
 
 Gothmog is the only Evil model that may Charge Éowyn.
 
@@ -986,7 +998,7 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 **SPECIAL RULES**
 
-**March of the Dead** - *The relentless fury of the King of the Dead will not be slowed by the Orcs in his path.*
+* **March of the Dead**
 
 The King of the Dead may call a Heroic Combat each turn without expending Might to do so.
 
@@ -1016,25 +1028,33 @@ The Evil player deploys the Mordor force (except the Witch-king of Angmar) anywh
 
 The Battle of Pelennor Fields is the greatest battle of the Third Age and has many objectives. This Scenario has five objectives for both sides to fight over. As this Scenario will take a long time, we suggest that you gather your friends and decide amongst you how long to play for (we recommend at least five hours - possibly a whole weekend!) and whichever team has achieved the most objectives by the time the game ends is declared the winner.
 
-- **Heroes of the West** - The Men of the West that fight upon the Pelennor are spurred on by those that have led them into battle. Should their leaders fall, they shall follow suit. There are seven key Heroes of the West upon this battlefield: Aragorn, Legolas, Gimli, Théoden, Éomer, Imrahil, and Húrin. If, at the end of the game, there are more of these Heroes left alive than dead, the Good player claims this objective. If there are more of these Heroes dead than alive, the Evil player claims this objective.
+**Heroes of the West** - The Men of the West that fight upon the Pelennor are spurred on by those that have led them into battle. Should their leaders fall, they shall follow suit. There are seven key Heroes of the West upon this battlefield: Aragorn, Legolas, Gimli, Théoden, Éomer, Imrahil, and Húrin. If, at the end of the game, there are more of these Heroes left alive than dead, the Good player claims this objective. If there are more of these Heroes dead than alive, the Evil player claims this objective.
 
-- **Servants of the Dark Lord** - The forces of Sauron are commanded by a collection of ruthless individuals who rule through fear and brute force rather than skill. Without these leaders to keep them in line, the forces of darkness will rout if the battle goes ill. There are seven key servants of the Dark Lord upon this battlefield: The Witch-king, Gothmog, the Mûmak War Leader, Suladân, The Golden King, Amdûr, and the Khandish King. If, at the end of the game, there are more of these Heroes left alive than dead, the Evil player claims this objective. If there are more of these Heroes dead than alive, the Good player claims this objective.
+**Servants of the Dark Lord** - The forces of Sauron are commanded by a collection of ruthless individuals who rule through fear and brute force rather than skill. Without these leaders to keep them in line, the forces of darkness will rout if the battle goes ill. There are seven key servants of the Dark Lord upon this battlefield: The Witch-king, Gothmog, the Mûmak War Leader, Suladân, The Golden King, Amdûr, and the Khandish King. If, at the end of the game, there are more of these Heroes left alive than dead, the Evil player claims this objective. If there are more of these Heroes dead than alive, the Good player claims this objective.
 
-- **The Mûmakil** - These massive war beasts thunder across the Pelennor. If they cannot be brought down, they will spell doom for the forces of Good. If, at the end of the game, there is one or more Mûmakil left alive, the Evil player claims this objective. If there are no Mûmakil left alive, the Good player claims this objective.
+**The Mûmakil** - These massive war beasts thunder across the Pelennor. If they cannot be brought down, they will spell doom for the forces of Good. If, at the end of the game, there is one or more Mûmakil left alive, the Evil player claims this objective. If there are no Mûmakil left alive, the Good player claims this objective.
 
-- **Gates of Minas Tirith** - The gates of the White City must not fall. Should Sauron's forces capture them, the city will be overrun. At the end of the game, count the number of each side's models that are within 12" of the gates of Minas Tirith. Whichever side has more models within 12" claims this objective. If the score is the same, the result is a draw.
+**Gates of Minas Tirith** - The gates of the White City must not fall. Should Sauron's forces capture them, the city will be overrun. At the end of the game, count the number of each side's models that are within 12" of the gates of Minas Tirith. Whichever side has more models within 12" claims this objective. If the score is the same, the result is a draw.
 
-- **The Pelennor** - Upon the fields of Pelennor, there are various points of strategic interest. Holding these will give a significant tactical advantage. There are four Objective markers on the battlefield (see map). Whichever side controls the most of these will claim this objective. A marker is considered to be controlled by whichever side has the most models within 3" of it.
+**The Pelennor** - Upon the fields of Pelennor, there are various points of strategic interest. Holding these will give a significant tactical advantage. There are four Objective markers on the battlefield (see map). Whichever side controls the most of these will claim this objective. A marker is considered to be controlled by whichever side has the most models within 3" of it.
 
 **SPECIAL RULES**
 
-- **Charge of the Rohirrim** - *The Pelennor is where Théoden, King of Rohan, will forge his legacy, inspiring his men ahead of the most devastating cavalry charge of the Third Age.* Any Rohan model that charged in the Move phase may declare a Heroic Combat in the ensuing Fight phase without spending Might. This may be done by both Warrior models and Hero models.
+* **Charge of the Rohirrim**
 
-- **Dol Amroth for Gondor!** - *As the battle begins, Prince Imrahil leads the warriors of the Fiefdoms out of the gates and into battle.* At the end of the first Good Move phase, the Good player moves the Gondor force onto the board, via the Gates of Minas Tirith.
+Any Rohan model that charged in the Move phase may declare a Heroic Combat in the ensuing Fight phase without spending Might. This may be done by both Warrior models and Hero models.
 
-- **Men from the South** - *As the battle rages on, the Dark Lord unleashes his followers from the far south, their war beasts brought to lay siege to the White City.* At the end of the Evil player's fifth Move phase, the Evil player moves the Harad force onto the board, via the southern board edge.
+* **Dol Amroth for Gondor!** 
 
-- **The Witch-king** - *Upon hearing the horns of the Rohirrim, the Witch-king of Angmar flies off from the walls of Minas Tirith to combat this new threat.* At the end of the Evil player's seventh Move phase, the Evil player moves the Witch-king of Angmar onto the board, via the northern board edge.
+At the end of the first Good Move phase, the Good player moves the Gondor force onto the board, via the Gates of Minas Tirith.
+
+* **Men from the South** 
+
+At the end of the Evil player's fifth Move phase, the Evil player moves the Harad force onto the board, via the southern board edge.
+
+* **The Witch-king**
+
+At the end of the Evil player's seventh Move phase, the Evil player moves the Witch-king of Angmar onto the board, via the northern board edge.
 
 *Designer's Notes: This Scenario represents the entire Battle of Pelennor Fields and so will take a long time and a lot of models. We suggest gathering a number of players for this Scenario; six is ideal as then a different player can take control of each force. As this Scenario essentially combines several of the other narrative Scenarios listed previously, it is not considered part of the campaign listed on pages 68-73.*
 
@@ -1074,23 +1094,23 @@ The game lasts for 15 turns. If, at the end of the fifteenth turn, there are 10 
 
 **SPECIAL RULES**
 
-**Gandalf's Staff** - *Following his encounter with the Witch-king, Gandalf no longer possesses his Wizard's Staff.*
+* **Gandalf's Staff**
 
 Gandalf does not have his Staff of Power, and therefore does not gain a free point of Will each turn.
 
-**Teeming Hordes** - *A seemingly endless tide of Orcs is spewed forth from the Black Gate, with more constantly joining the battle.*
+* **Teeming Hordes**
 
 Each time a Mordor Orc model is slain, keep it to one side. At the end of each Evil move phase, the Evil player may move any models kept aside in this manner onto the board from the Black Gate.
 
-**Greatest of the Trolls** - *The Troll Chieftain that duels with Aragorn is unlike the others of its race - tougher, more powerful and far more deadly.*
+* **Greatest of the Trolls**
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will, and Fate.
 
-**The Hordes of Mordor** - *Countless Orcs streamed out of the Black Gate, and when they fight in numbers, they become even more deadly.*
+* **The Hordes of Mordor**
 
 Mordor Orc models gain a bonus of +1 To Wound in a Duel in which they outnumber their opponent in the Fight. Note that supporting models do not count for either side for the purpose of this rule.
 
-**Stand Your Ground** - *The Free Peoples must stand as one upon the hill if they are to have any chance of survival.*
+* **Stand Your Ground**
 
 Good models may not willingly move more than 12" away from the center of the board.
 
@@ -1124,11 +1144,11 @@ The game lasts until the end of a turn where the Good force has been reduced to 
 
 **SPECIAL RULES**
 
-**Gandalf's Staff** - *Following his encounter with the Witch-king, Gandalf no longer possesses his Wizard's Staff.*
+* **Gandalf's Staff**
 
 Gandalf does not have his Staff of Power, and therefore does not gain a free point of Will each turn.
 
-**Inspiring Heraldry** - *The sight of the banners of Minas Tirith held aloft in the face of such an enemy is enough to steel the hearts of those around them.*
+* **Inspiring Heraldry**
 
 The range of all Good banners is increased by 3".
 
@@ -1156,13 +1176,11 @@ The Good player deploys all of their models on the hill. The Evil player then de
 
 The Captains of the West are well aware that there is little hope for themselves, yet if they can fight hard enough to draw Sauron's gaze away from the plains of Mordor, they can provide Frodo with the opportunity he needs.
 
-*Designer's Notes: To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
-
 The game lasts until the end of a turn where the Good force has been reduced to less than 25% of its starting numbers. If when this happens the Evil player has less than 50% of their models remaining, then the Good player wins. If the Evil player has more than 50% of their models remaining, the Evil player wins.
 
 **SPECIAL RULES**
 
-**Inspiring Heraldry** - *The sight of the banners of Rohan and Dol Amroth held aloft together in the face of such an enemy is enough to steel the hearts of those around them.*
+* **Inspiring Heraldry**
 
 The range of all Good banners is increased by 3".
 
@@ -1171,5 +1189,7 @@ The range of all Good banners is increased by 3".
 **Good:** Prince Imrahil of Dol Amroth; Éomer, Marshal of the Riddermark; Captain of Dol Amroth; Captain of Rohan with shield; 12 Knights of Dol Amroth: 1 with banner; 13 Warriors of Rohan: 4 with shield, 4 with throwing spears, 4 with bow, 1 with banner.
 
 **Evil:** 2 Morannon Orc Captains with shield; 2 Easterling Captains with shield; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield.
+
+*Designer's Notes: To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
 
 ![](../media/scenarios/gondor_at_war/the_black_gate_the_right_hill.jpg)

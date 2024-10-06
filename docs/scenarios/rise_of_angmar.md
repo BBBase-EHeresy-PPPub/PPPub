@@ -14,19 +14,19 @@ The Witch-king has commanded his Orcs to drive the Arnor forces from the strongh
 
 **SPECIAL RULES**
 
-*Legions of the Witch-king* — *The Lord of the Nazgûl has gathered to him hordes of Orcs, which continuously assail the Arnor stronghold.*
+* **Legions of the Witch-king**
 
 Whenever an Evil Warrior model is slain, keep them to one side. At the end of each Evil Move phase, roll a D6 for each model kept aside in this manner. On a 4+, that model may enter the board from the eastern board edge or the center of either the northern or southern board edges.
 
-*Rising Power* — *The Witch-king's influence in the north is growing and, as it does, so too does his strength.*
+* **Rising Power**
 
 The Witch-king increases his Attacks to 2 for this Scenario.
 
-*Hold the Line* — *With the armies of Angmar all around, the small garrison of Arnor warriors knows that their best chance of survival is to try to hold what they have.*
+* **Hold the Line**
 
 Good models may not willingly move further than 12" away from the center of the board. If a Good model finds itself further than 12" from the center of the board at the start of its Move phase, it must try to move back within 12" if possible.
 
-*Unknown Attackers* — *The forces of Arnor have been assailed by an unknown force, one that they have little to no knowledge of.*
+* **Unknown Attackers**
 
 Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
@@ -36,7 +36,9 @@ Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
 **Evil:** The Witch-king on horse with Morgul Blade, 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
 
-![](../media/scenarios/angmar/the_founding_of_angmar.jpg)
+![](../media/scenarios/rise_of_angmar/the_founding_of_angmar.jpg)
+
+---
 
 ## ASSAULT ON RIVENDELL
 
@@ -54,15 +56,15 @@ The Elves must weather the onslaught of the Angmar forces if they are to prevent
 
 **SPECIAL RULES**
 
-*The Master of Rivendell* — *Elrond himself has led the defense of Rivendell, and should he fall, then the Elves' morale will be shattered.*
+* **The Master of Rivendell**
 
 If Elrond is slain, the Evil player immediately wins.
 
-*To War!* — *The armies of Angmar are bearing down upon their foe with relentless speed, charging headlong towards the fight.*
+* **To War!**
 
 Evil Hero models may declare 1 Heroic March each turn without reducing their own store of Might.
 
-*Protection of Imladris* — *Rivendell is usually protected from unfriendly beings by the power of Lord Elrond, yet as the forces of Angmar have breached the boundaries, Rivendell is now vulnerable.*
+* **Protection of Imladris**
 
 Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
 
@@ -71,6 +73,10 @@ Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
 **Good:** Elrond, Master of Rivendell with heavy armour; Erestor; 25 High Elf Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
 
 **Evil:** 2 Angmar Orc Captains with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 6 Angmar Warg Riders: 2 with shield, 2 with throwing spears, 2 with Orc bow.
+
+![](../media/scenarios/rise_of_angmar/assault_on_rivendell.jpg)
+
+---
 
 ## WAR BEGINS
 
@@ -88,17 +94,17 @@ With Arnor now at open war, King Argeleb has come to lead his people against the
 
 **SPECIAL RULES**
 
-*The King of Arnor* — *Argeleb has come to defend his people and his lands from the threat of Angmar, and will fight hard to ensure he is victorious.*
+* **The King of Arnor**
 
-- Argeleb must re-roll failed To Wound rolls when making Strikes. Additionally, Argeleb gains the Arnor keyword.
+Argeleb must re-roll failed To Wound rolls when making Strikes. Additionally, Argeleb gains the Arnor keyword.
 
-*The Hill-men* — *For many years, the Hill-men have been subjected to the rulings of Arnor, and their betrayal has been fueled by hatred.*
+* **The Hill-men**
 
-- Carn Dum models gain the Hatred (Arnor) special rule.
+Carn Dum models gain the Hatred (Arnor) special rule.
 
-*Unknown Attackers* — *The forces of Arnor have been assailed by an unknown force, one that they have little to no knowledge of.*
+* **Unknown Attackers**
 
-- Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
+Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
 **PARTICIPANTS**
 
@@ -106,7 +112,9 @@ With Arnor now at open war, King Argeleb has come to lead his people against the
 
 **Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
-![](../media/scenarios/war_begins.jpg)
+![](../media/scenarios/rise_of_angmar/war_begins.jpg)
+
+---
 
 ## FALL OF RHUDAUR
 
@@ -124,13 +132,13 @@ Those that refused to bow to the Witch-king must flee the lands of Rhudaur if th
 
 **SPECIAL RULES**
 
-*Hope is Lost* — *The surviving Men of Rhudaur have witnessed their kin butchered at the hands of the warriors of Carn Dum, and do not want to suffer the same fate.*
+* **Hope is Lost**
 
-- Evil models cause Terror in this Scenario.
+Evil models cause Terror in this Scenario.
 
-*Escape Through the Trees* — *The Men of Rhudaur know their lands intimately and can hope to lose their pursuers in the dense wooded paths that they know well.*
+* **Escape Through the Trees**
 
-- Good models gain the Woodland Creature special rule.
+Good models gain the Woodland Creature special rule.
 
 **PARTICIPANTS**
 
@@ -138,7 +146,9 @@ Those that refused to bow to the Witch-king must flee the lands of Rhudaur if th
 
 **Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
-![](../media/scenarios/fall_of_rhudaur.jpg)
+![](../media/scenarios/rise_of_angmar/fall_of_rhudaur.jpg)
+
+---
 
 ## DEFENCE OF TYRN GORTHAD
 
@@ -156,17 +166,17 @@ The Rangers are making a desperate stand within Tyrn Gorthad and must drive the 
 
 **SPECIAL RULES**
 
-*Stand your Ground!* — *The Rangers know that their best chance of survival is to stay within the confines of the burial ground, rather than face the Orcs on their terms.*
+* **Stand your Ground!**
 
-- Good models may not voluntarily move more than 6" away from the center of the board. If a Good model finds itself outside of 6", then it must move back within range as quickly as possible.
+Good models may not voluntarily move more than 6" away from the center of the board. If a Good model finds itself outside of 6", then it must move back within range as quickly as possible.
 
-*Twilight* — *The Orcs have attacked just as the sun is setting, and visibility is beginning to become more difficult.*
+* **Twilight**
 
-- Models that target an enemy model with a shooting attack that is more than 12" away suffer a -1 penalty to their Shoot value.
+Models that target an enemy model with a shooting attack that is more than 12" away suffer a -1 penalty to their Shoot value.
 
-*A Desperate Fight* — *Surrounded on all sides, the Rangers of the North must give their all if they are to survive.*
+* **A Desperate Fight**
 
-- Rangers of the North have 2 Attacks in this Scenario.
+Rangers of the North have 2 Attacks in this Scenario.
 
 **PARTICIPANTS**
 
@@ -174,7 +184,9 @@ The Rangers are making a desperate stand within Tyrn Gorthad and must drive the 
 
 **Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Wild Wargs.
 
-![](../media/scenarios/defence_of_tyrn_gorthad.jpg)
+![](../media/scenarios/rise_of_angmar/defence_of_tyrn_gorthad.jpg)
+
+---
 
 ## FALL OF AMON SUL
 
@@ -194,31 +206,31 @@ The game lasts for 12 turns. The Good player wins if the Palantir leaves the boa
 
 **SPECIAL RULES**
 
-*The Tower of Amon Sul* — *After retrieving the Palantir, the tower has been locked to prevent the forces of Angmar from getting inside.*
+* **The Tower of Amon Sul**
 
 Models cannot enter, or be deployed within, the tower of Amon Sul.
 
-*The Palantir* — *Arveleg knows that the Witch-king seeks the Palantir of Amon Sul, and so he has entrusted one of his followers to escape with the stone to Fornost.*
+* **The Palantir**
 
 At the start of the game, the Good player secretly notes down one of their models (with the exception of Arveleg); this is the model that is carrying the Palantir. The Palantir is a Light Object that can never be passed. If the model carrying the Palantir is slain, then the Palantir is dropped rather than being immediately claimed. At this point the location of the Palantir becomes known to the Evil player. If the model carrying the Palantir escapes the board, then the game immediately ends.
 
-*Defiance of the King* — *Arveleg knows that there is little hope for himself, yet he will face the Witch-king and his dark sorceries head on nonetheless.*
+* **Defiance of the King**
 
 Arveleg has the *Resistant to Magic* special rule, and may re-roll failed Fate rolls. Additionally, Arveleg gains the *Arnor* keyword.
 
-*Rising Power* — *The Witch-king's influence in the north is growing and, as it does, so too does his strength.*
+* **Rising Power**
 
 The Witch-king increases his Attacks to 2 for this Scenario.
 
 **PARTICIPANTS**
 
-**Good:**  
-Arveleg (King of Men with heavy armour and shield); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** Arveleg (King of Men with heavy armour and shield); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
 
-**Evil:**  
-The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
 
-![](../media/scenarios/scouring_of_the_shire/fall_of_amon_sul.jpg)
+![](../media/scenarios/rise_of_angmar/fall_of_amon_sul.jpg)
+
+---
 
 ## DEFENCE OF FORNOST
 
@@ -238,24 +250,23 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 **SPECIAL RULES**
 
-*Ruthless Attackers* — *Having already destroyed Amon Sul, the Angmar forces are brimming with confidence to assail Fornost and throw themselves at the battlements with an unbridled fury.*
+* **Ruthless Attackers**
 
 Evil models that are fighting from a ladder do not treat the battlements as a barrier if they win the fight; they will Strike as normal.
 
-*The King is Dead* — *With Arveleg lost at Amon Sul, hope is fading and the Men of Arnor fear that the city may fall.*
+* **The King is Dead**
 
 Evil models that are on the walls cause *Terror*.
 
 **PARTICIPANTS**
 
-**Good:**  
-2 Captains of Arnor; 16 Warriors of Arnor; 8 Rangers of Arnor.
+**Good:** 2 Captains of Arnor; 16 Warriors of Arnor; 8 Rangers of Arnor.
 
-**Evil:**  
-Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear; 6 siege ladders.
+**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear; 6 siege ladders.
 
-![](../media/scenarios/defence_of_fornost/image35.jpg)
-![](../media/scenarios/defence_of_fornost/image36.jpg)
+![](../media/scenarios/rise_of_angmar/defence_of_fornost.jpg)
+
+---
 
 ## MARAUDING OF CARDOLAN
 
@@ -275,11 +286,11 @@ The game lasts until one side completes their objective. The Good player wins if
 
 **SPECIAL RULES**
 
-*A Skilled Fighter* — *The Prince of Cardolan has fought in many wars and proved his proficiency with a blade over and over again.*
+* **A Skilled Fighter**
 
 The Prince of Cardolan has 3 Attacks rather than 2 and has the Hatred (Angmar) special rule.
 
-*Defend the Prince* — *The Men of Cardolan will fight with all they can give in order to protect their liege. Should the Prince be in trouble, their efforts will be redoubled.*
+* **Defend the Prince**
 
 Other Good models within 3" of the Prince of Cardolan count as being in range of a banner. If the Prince of Cardolan suffers a Wound, then the range of this special rule is increased to 6".
 
@@ -289,7 +300,9 @@ Other Good models within 3" of the Prince of Cardolan count as being in range of
 
 **Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
-![](media/scenarios/defence_of_the_north/marauding_of_cardolan.jpg)
+![](../media/scenarios/rise_of_angmar/marauding_of_cardolan.jpg)
+
+---
 
 ## AN UNLIKELY ALLY
 
@@ -309,11 +322,11 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 **SPECIAL RULES**
 
-*Seething Hatred* — *The Witch-king has cultivated a deep hatred for the Elves within his Orcs and the Men of Carn Dum, and they will stop at nothing to slay them.*
+* **Seething Hatred**
 
 Evil models gain the Hatred (Elf) special rule.
 
-*Test Their Resolve* — *The forces of Angmar are led by their captains; if they should fall at the hands of the Elves then the resolve of those nearby will be tested.*
+* **Test Their Resolve**
 
 Whenever an Evil Hero model is slain in combat, place a 25mm marker where they were slain. During the End phase, each Evil model within 3" of a marker must take a Courage test. If they fail, they flee the board and are removed as a casualty; Hero models that pass this Courage test may use Stand Fast!. Remove the marker at the end of the End phase.
 
@@ -322,6 +335,10 @@ Whenever an Evil Hero model is slain in combat, place a 25mm marker where they w
 **Good:** Glorfindel, Lord of the West, with Armour of Gondolin; Círdan; High Elf Captain with shield; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
 
 **Evil:** 2 Angmar Orc Captains with shield; 2 Captains of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
+
+![](../media/scenarios/rise_of_angmar/an_unlikely_ally.jpg)
+
+---
 
 ## THE GREAT PLAGUE
 
@@ -341,11 +358,11 @@ The game lasts until one side has completed their objective. The Good player win
 
 **SPECIAL RULES**
 
-*The Great Plague* — *Sickness is rife within Cardolan, afflicting Men and Orcs with debilitating symptoms and causing many to succumb to the illness.*
+* **The Great Plague**
 
 From turn 2 onwards, at the start of the Move phase, roll a D6 for each model left on the board. On the roll of a 1, the Great Plague has taken hold and the model suffers a Wound. Might may not be used to influence this roll, however, Fate points may be spent as normal. Spirit models are not affected by this special rule; do not roll for them.
 
-*Make Haste!* — *The survivors of Cardolan know the paths of their lands well and must traverse them swiftly if they are to survive.*
+* **Make Haste!**
 
 Good models gain the Woodland Creature and Mountain Dweller special rules.
 
@@ -355,10 +372,9 @@ Good models gain the Woodland Creature and Mountain Dweller special rules.
 
 **Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 3 Dead Marsh Spectres.
 
-![](media/scenarios/defence_of_the_north/the_great_plague_1.jpg)
-![](media/scenarios/defence_of_the_north/the_great_plague_2.jpg)
-![](media/scenarios/defence_of_the_north/the_great_plague_3.jpg)
-![](media/scenarios/defence_of_the_north/the_great_plague_4.jpg)
+![](../media/scenarios/rise_of_angmar/the_great_plague.jpg)
+
+---
 
 ## RAISING OF THE BARROW-DOWNS
 
@@ -374,30 +390,31 @@ The Good player deploys the Dúnedain and Rangers of the North within 3" of the 
 
 The Men of Cardolan know that if they are to survive, they must endure the spectral onslaught set upon them by the Witch-king.
 
-The game lasts until one side has achieved their objective.
-
-- The Good player wins if all Evil models are slain.
-- The Evil player wins if they can slay all of the Dúnedain and Rangers of the North.
+The game lasts until one side has achieved their objective. The Good player wins if all Evil models are slain. The Evil player wins if they can slay all of the Dúnedain and Rangers of the North.
 
 **SPECIAL RULES**
 
-*Fog on the Barrow-downs* — *The mists that have descended on the Barrow-downs make it hard for the Men of Cardolan to see.*
+* **Fog on the Barrow-downs**
 
-- Man models can only see up to 6".
+Man models can only see up to 6".
 
-*The Barrow* — *These ancient burial sites are the key to the strange powers the Barrow-wights still hold.*
+* **The Barrow**
 
-- While within 3" of a Barrow, a Barrow-wight may spend a single point of Will each turn without reducing their store of Will.
+While within 3" of a Barrow, a Barrow-wight may spend a single point of Will each turn without reducing their store of Will.
 
-*Ho! Tom Bombadil!* — *The calls of help from the Men of Cardolan may be enough to alert Tom Bombadil to the peril they are in.*
+* **Ho! Tom Bombadil!**
 
-- From turn 3 onwards, at the end of each Good move phase, the Good player rolls a D6. On a 5+, Tom Bombadil has heard the plight of the Men of Cardolan and arrives to aid them. Tom may enter the board from any board edge via the rules for Reinforcements.
+From turn 3 onwards, at the end of each Good move phase, the Good player rolls a D6. On a 5+, Tom Bombadil has heard the plight of the Men of Cardolan and arrives to aid them. Tom may enter the board from any board edge via the rules for Reinforcements.
 
 **PARTICIPANTS**
 
 **Good:** Tom Bombadil; 6 Rangers of the North; 6 Dúnedain.
 
 **Evil:** 4 Barrow-wights; 12 Dead Marsh Spectres.
+
+![](../media/scenarios/rise_of_angmar/raising_of_the_barrow-downs.jpg)
+
+---
 
 ## ASSAULT ON FORNOST
 
@@ -419,23 +436,27 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 **SPECIAL RULES**
 
-*The King of Arnor* — *Arvedui will fight with all he can muster and is the key to ensuring his people fight on; without him, hope will rapidly fade.*
+* **The King of Arnor**
 
-- Arvedui may declare a Heroic Combat each turn without spending Might. However, if Arvedui is slain, the best result the Good player can achieve is a draw.
+Arvedui may declare a Heroic Combat each turn without spending Might. However, if Arvedui is slain, the best result the Good player can achieve is a draw.
 
-*Carn Dum War Chant* — *The forces of Carn Dum have waged war upon Arthedain for many years, and their war chants strike fear into the hearts of the people of Arnor.*
+* **Carn Dum War Chant**
 
-- Once per game, after Priority has been determined, the Evil player can use this ability so long as Aldrac is still alive. Until the end of the turn, all Carn Dum models have the Terror special rule.
+Once per game, after Priority has been determined, the Evil player can use this ability so long as Aldrac is still alive. Until the end of the turn, all Carn Dum models have the Terror special rule.
 
-*Fateful Visions* — *Malbeth has seen fragments of the future, and knows that his liege's time has not yet come.*
+* **Fateful Visions**
 
-- Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 3+ rather than a 5+.
+Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 3+ rather than a 5+.
 
 **PARTICIPANTS**
 
 **Good:** Arvedui, Last King of Arnor; Argadir, Captain of Arnor; Malbeth the Seer; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional wargear; 6 Knights of Arnor.
 
 **Evil:** Aldrac, Warlord of Carn Dum; Fraecht, Vassal of the Witch-king; Nazthak, Orc Captain; Captain of Carn Dum; 36 Warriors of Carn Dum: 18 with no additional equipment, 18 with spear; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner.
+
+![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
+
+---
 
 ## THE FALL OF ARNOR
 
@@ -451,19 +472,17 @@ The Good player deploys all of their models anywhere within 6" of the center of 
 
 The forces of Angmar have been given a single task: to wipe out the royal lineage of Arnor and claim Fornost for the Witch-king. Arvedui must survive this onslaught if his line is to endure, for a much larger army of fouler creatures draws ever nearer.
 
-- The Evil player wins immediately if all of Arvedui, Aranarth, and Malbeth are slain.
-- The Good player wins if the Evil force is wiped out before this can happen.
-- Alternatively, the game is a draw if Arvedui abandons Fornost and manages to escape the board via any board edge — and if the battle is going ill, this may be a good idea!
+The Evil player wins immediately if all of Arvedui, Aranarth, and Malbeth are slain. The Good player wins if the Evil force is wiped out before this can happen. Alternatively, the game is a draw if Arvedui abandons Fornost and manages to escape the board via any board edge — and if the battle is going ill, this may be a good idea!
 
 **SPECIAL RULES**
 
-*Malbeth the Seer* — *Malbeth knows that the doom of Arnor is upon his king and so puts all of his visions to use in protecting his liege.*
+* **Malbeth the Seer**
 
-- Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 4+ rather than a 5+.
+Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 4+ rather than a 5+.
 
-*Arvedui's Last Stand* — *Arvedui knows that if he does not stand and fight this threat from the north then his kingdom shall be thrust into destruction and ruin.*
+* **Arvedui's Last Stand**
 
-- Arvedui has the Fearless special rule.
+Arvedui has the Fearless special rule.
 
 **PARTICIPANTS**
 
@@ -471,7 +490,9 @@ The forces of Angmar have been given a single task: to wipe out the royal lineag
 
 **Evil:** Nazthak, Orc Captain; The Shadow of Rhudaur; Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 5 Werewolves; 2 Hill Trolls.
 
-![](media/scenarios/the_fall_of_arnor.jpg)
+![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
+
+---
 
 ## FLIGHT TO THE NORTH
 
@@ -489,15 +510,15 @@ Arvedui must escape the evil that now hunts him to ensure the Palantiri do not f
 
 The game lasts until one force has completed their objective. The Good side wins immediately if Arvedui can escape the board via the northern board edge. The Evil side wins if they manage to reclaim the Palantiri and move them off any board edge.
 
-At the start of the game, Arvedui is in possession of the Palantiri. This is a Light Object that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
-
 **SPECIAL RULES**
 
-*The Palantiri* — *Arvedui knows that the seeing stones cannot fall into the hands of the Witch-king, and so he must carry it to safety.*
-
-*The Terror of Arnor* — *Gulavhar has been unleashed by the Witch-king, and now makes his way to slay Arvedui.*
+* **The Terror of Arnor**
 
 At the end of each Evil Move phase, the Evil player rolls a D6 and adds the turn number. If the total is 10 or more, then Gulavhar immediately arrives from any point on the southern board edge via the rules for Reinforcements.
+
+* **The Palantiri**
+
+At the start of the game, Arvedui is in possession of the Palantiri. This is a Light Object that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
 
 **PARTICIPANTS**
 
@@ -505,7 +526,9 @@ At the end of each Evil Move phase, the Evil player rolls a D6 and adds the turn
 
 **Evil:** Gulavhar, the Terror of Arnor; Barrow-wight; 6 Angmar Orc Warriors: 3 with shield, 3 with Orc bow; 4 Werewolves.
 
-![](../media/scenarios/scouring_of_the_shire/flight_to_the_north.jpg)
+![](../media/scenarios/rise_of_angmar/flight_to_the_north.jpg)
+
+---
 
 ## AID TO FORNOST
 
@@ -525,10 +548,12 @@ The game lasts until one side has completed their objective. The Good side wins 
 
 **SPECIAL RULES**
 
-*Sure-footed* — *The Rangers and Hobbits know the paths they are traversing far better than their Orc counterparts and can move far easier through the trees.*  
+* **Sure-footed**
+
 Good models gain the Woodland Creature special rule.
 
-*The Orc Pack* — *The Orcs are unaware of the Hobbits trying to make their way northwards, and are simply hunting the woodland in search of the Witch-king's enemies.*  
+* **The Orc Pack**
+
 Evil models begin the game as Sentries as described in the main rules manual.
 
 **PARTICIPANTS**
@@ -536,6 +561,10 @@ Evil models begin the game as Sentries as described in the main rules manual.
 **Good:** 3 Rangers of the North; 12 Hobbit Archers.
 
 **Evil:** Angmar Orc Captain with shield; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
+
+![](../media/scenarios/rise_of_angmar/aid_to_fornost.jpg)
+
+---
 
 ## THE BATTLE OF FORNOST
 
@@ -555,21 +584,21 @@ The game lasts until one force is wiped out, at which point the opposing side is
 
 **SPECIAL RULES**
 
-*The Toll of Battle* — *A battle of such magnitude will have consequences on the morale of all those that witness such death around them, and some may choose to flee the battle to ensure they live.*
+* **The Toll of Battle**
 
 In this scenario, both forces will break in the same way as if it were a Matched Play game. The rules for Broken forces can be found in the main rules manual.
 
-*The Lord of the Nazgûl* — *The Witch-king is at the height of his power, and his armies will constantly push forward unless they want to feel his wrath.*
+* **The Lord of the Nazgûl**
 
 The Witch-king of Angmar has 3 Attacks in this scenario. Additionally, while the Witch-king is alive and on the board, Evil models gain a bonus of +1 to their Courage value. However, should the Witch-king be slain or flee the board, then the best result the Evil player can achieve is a draw.
 
-*Leaders of the Free Peoples* — *Those that lead the armies of the free peoples have the unyielding loyalty of their followers, yet should they fall, hope will begin to fade.*
+* **Leaders of the Free Peoples**
 
 If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the board at the end of the game, the best result the Good player can achieve is a draw.
 
 **PARTICIPANTS**
 
-**GOOD:**
+**GOOD**
 
 **Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;  
 25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, 1 with banner; 6 Knights of Minas Tirith with shield.
@@ -578,8 +607,11 @@ If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the boar
 
 **Arnor:** Aranarth, First Chieftain of the Dúnedain; 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment; 8 Hobbit Archers.
 
-**EVIL:** The Witch-king of Angmar on horse with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik;  
-The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow, 2 with banner; 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik; The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow, 2 with banner; 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
+
+![](../media/scenarios/rise_of_angmar/the_battle_of_fornost.jpg)
+
+---
 
 ## FALL OF MINAS ITHIL
 
@@ -599,21 +631,23 @@ The game lasts until one force has completed their objective. The Good side wins
 
 **SPECIAL RULES**
 
-*Controlling Objectives* — *Capturing key areas of Minas Ithil will require large numbers to overwhelm the defenders and drive them backwards.*
+* **Controlling Objectives**
 
 The Evil force is considered to be controlling an Objective marker if there are at least twice as many Evil models within 3" of it as there are Good models, or if there is at least one Evil model within 3" and no Good models.
 
-*Legions of the Witch-king* — *The Witch-king has gathered to him a huge army, and more flood through the gates of Minas Ithil as the battle rages on.*
+* **Legions of the Witch-king**
 
 Whenever an Evil Warrior model is slain, keep it to one side. At the end of each Evil Move phase, roll a D6 for each model kept aside in this manner. On a 4+, that model may enter the board from the center of the western board edge via the rules for Reinforcements.
 
 **PARTICIPANTS**
 
-**GOOD:** 3 Captains of Minas Tirith with shield;  
-36 Warriors of Minas Tirith: 12 with shield, 12 with spear and shield, 12 with bow.
+**Good:** 3 Captains of Minas Tirith with shield; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear and shield, 12 with bow.
 
-**EVIL:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield;  
-36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 3 Dead Marsh Spectres.
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 3 Dead Marsh Spectres.
+
+![](../media/scenarios/rise_of_angmar/fall_of_minas_ithil.jpg)
+
+---
 
 ## LAST SIGHTING OF EARNUR
 
@@ -633,33 +667,37 @@ The game lasts until one force has completed their objective. The Good side wins
 
 **SPECIAL RULES**
 
-*Lord of the Nazgûl* — *The Witch-king has regained much of his former power and is ready to face Earnur head-on.*
+* **Lord of the Nazgûl**
 
 The Witch-king has a Fight value of 6 and 3 Attacks in this Scenario.
 
-*Leave Him to Me* — *The Garrison of Minas Morgul is under strict orders to allow the Witch-king to slay the King of Gondor.*
+* **Leave Him to Me**
 
 Evil models may not target Earnur with shooting attacks, special rules, or Magical Powers.
 
-*A Clash of Kings* — *Earnur and the Witch-king are striving to prove their dominance, and must slay the other to achieve victory.*
+* **A Clash of Kings**
 
 If a model, other than Earnur or the Witch-king, causes a Wound to either Earnur or the Witch-king that would cause them to be slain, after Fate points have been spent, the Wound is negated but any Fate points spent are lost.
 
-*Death or Glory* — *Both the Witch-king and Earnur will fight fearlessly and without respite to achieve victory.*
+* **Death or Glory**
 
 Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch-king does not give up a Will point for being involved in a combat during this Scenario.
 
 **PARTICIPANTS**
 
-**GOOD:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
+**Good:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
 
-**EVIL:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;  
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;  
 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
 
 ***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain — it will be an epic conclusion!*
 
 
-## AMBUSH IN RHUDAUR
+![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg)
+
+---
+
+## APPENDIX 1 - AMBUSH IN RHUDAUR
 
 **LAYOUT**
 
@@ -677,11 +715,11 @@ The game lasts until the end of the turn in which one player has completed their
 
 **SPECIAL RULES**
 
-*Ambush!* — *The Orcs are unaware of the presence of the Dunedain, until a hail of arrows is unleashed upon them.*
+* **Ambush!**
 
 After both sides have deployed, but before the first turn of the game, each Good model may make a free shooting attack as if it were the Shoot phase. Might may not be used by Good models during this free shooting attack.
 
-*The Troll* — *Alongside the band of Orcs is a Hill Troll, one of Buhrdur's kind. The Dunedain know that if they can fell the Troll now, it will be one fewer for them to face when they attack Buhrdur's camp.*
+* **The Troll**
 
 If the Hill Troll escapes the board, the best result the Good player can achieve is a draw. While the Hill Troll is still on the board, the game cannot end.
 
@@ -691,7 +729,11 @@ If the Hill Troll escapes the board, the best result the Good player can achieve
 
 **Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 1 Hill Troll.
 
-## THE TRAP IS SPRUNG
+![](../media/scenarios/rise_of_angmar/ambush_in_rhudaur.jpg)
+
+---
+
+## APPENDIX 2 - THE TRAP IS SPRUNG
 
 **LAYOUT**
 
@@ -709,13 +751,16 @@ The game lasts until the end of the turn in which one side completes their objec
 
 **SPECIAL RULES**
 
-*Ambush!* — *The Dunedain have been caught off guard by Buhrdur's trap and are not yet ready to fight.*  
+* **Ambush!**
+
 Good models may not shoot during the first turn of the game.
 
-*Desperate Fight* — *Arathorn is well aware of the mortal peril he now finds himself in. If he wants to see his wife and son again, he must fight with all he has in order to survive.*  
+* **Desperate Fight**
+
 Arathorn may re-roll a single D6 when making a Duel roll.
 
-*Death to the Dunedain* — *Buhrdur's plan is to wipe out the Dunedain who have caused him so much trouble, and he has commanded his forces to show no mercy.*  
+* **Death to the Dunedain**
+
 Once per game, at the start of the Fight phase, the Evil player may declare that Buhrdur has let out a fearsome war cry. If they do, then until the end of the turn, all Evil models receive a bonus of +1 when rolling To Wound.
 
 **PARTICIPANTS**
@@ -724,11 +769,15 @@ Once per game, at the start of the Fight phase, the Evil player may declare that
 
 **Evil:** Buhrdur, Troll Chieftain; Angmar Orc Captain with shield; Wild Warg Chieftain; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
 
-## ARAGORN'S REVENGE
+![](../media/scenarios/rise_of_angmar/the_trap_is_sprung.jpg)
+
+---
+
+## APPENDIX 3 - ARAGORN'S REVENGE
 
 **LAYOUT**
 
-The board represents the wilderness somewhere to the north of Rivendell. There should be six large areas of terrain on the board numbered 1 to 6, which can be either ruins or woods. These will be the places where the Evil player’s models will be hiding. The rest of the board should have a few trees, hedges, and other undergrowth dotted around.
+The board represents the wilderness somewhere to the north of Rivendell. There should be six large areas of terrain on the board numbered 1 to 6, which can be either ruins or woods. These will be the places where the Evil player's models will be hiding. The rest of the board should have a few trees, hedges, and other undergrowth dotted around.
 
 **STARTING POSITIONS**
 
@@ -740,19 +789,19 @@ Consumed by rage, Aragorn will not rest until Buhrdur has been slain. The game l
 
 **SPECIAL RULES**
 
-*Tracking the Troll* — *In order to locate Buhrdur’s whereabouts, Aragorn must scour the northern lands in his search.*
+* **Tracking the Troll**
 
-When a Good model enters one of the numbered pieces of terrain for the first time, that model's move immediately ends and the Good player’s Move phase is paused. The Evil player then deploys all of the models associated with that terrain piece anywhere touching that piece of terrain, but not in base contact with any Good models. Models placed in this manner may not move or shoot during the turn in which they are placed but may otherwise act normally. When all the models for a terrain piece have been placed, the Good player’s Move phase is resumed.
+When a Good model enters one of the numbered pieces of terrain for the first time, that model's move immediately ends and the Good player's Move phase is paused. The Evil player then deploys all of the models associated with that terrain piece anywhere touching that piece of terrain, but not in base contact with any Good models. Models placed in this manner may not move or shoot during the turn in which they are placed but may otherwise act normally. When all the models for a terrain piece have been placed, the Good player's Move phase is resumed.
 
-*They're Awake!* — *Whilst some of Buhrdur’s force are asleep, others are lying in wait for the Dunedain.*
+* **They're Awake!**
 
 If the roll for Priority is ever tied, randomly select one of the numbered pieces of terrain that has not yet been revealed and deploy all of the models hidden within it as per the rules stated in *Tracking the Troll* above.
 
-*You Do Not Stand Alone* — *Halbarad has been unable to prevent Aragorn from seeking his vengeance, but he will not let him fight this evil alone.*
+* **You Do Not Stand Alone**
 
 From the third turn onwards, at the end of each Good Move phase, the Good player may roll a D6. On a 4+, Halbarad has arrived and may move onto the board, along with 3 Rangers of the North and 3 Dunedain, from any table edge via the rules for Reinforcements. After Halbarad has arrived, the Good player will keep rolling each turn as described above. The next time a 4+ is rolled, Elladan & Elrohir will arrive, along with 3 Rangers of the North and 3 Dunedain, in the same manner as Halbarad.
 
-*The Young Warrior* — *Aragorn is still young and has not yet reached the full potential that runs in his veins.*
+* **The Young Warrior**
 
 Aragorn does not have the Mighty Hero special rule in this scenario.
 
@@ -762,9 +811,11 @@ Aragorn does not have the Mighty Hero special rule in this scenario.
 
 **Evil:** Buhrdur, Troll Chieftain; 2 Angmar Orc Captains with shield; Wild Warg Chieftain; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
 
-![](media/image168.jpeg)
+![](../media/scenarios/rise_of_angmar/aragorns_revenge.jpg)
 
-## THE TERROR OF ARNOR
+---
+
+## APPENDIX 4 - THE TERROR OF ARNOR
 
 **LAYOUT**
 
@@ -780,20 +831,24 @@ Aragorn seeks to rid the northern lands of the evil that plagues them and will n
 
 The game lasts until the end of a turn in which one player completes their objective. The Good player wins if Gulavhar is slain. The Evil player wins if Aragorn is slain. If both Gulavhar and Aragorn are slain in the same turn, the game is a draw.
 
-From the second turn onwards, at the end of each player's Move phase, they roll a D3. This is the number of a player's models that may enter the board that turn. These models may be selected from any that have not yet entered the game and will enter the board from a point along any board edge chosen by the player with Priority via the rules for Reinforcements. A different point may be chosen for each model. Aragorn may not enter the board until all other Good models have done so.
-
 **SPECIAL RULES**
 
-*The Young Warrior* — *Aragorn is still young and has not yet reached the full potential that runs in his veins.*  
+* **The Sound of Battle**
+
+From the second turn onwards, at the end of each player's Move phase, they roll a D3. This is the number of a player's models that may enter the board that turn. These models may be selected from any that have not yet entered the game and will enter the board from a point along any board edge chosen by the player with Priority via the rules for Reinforcements. A different point may be chosen for each model. Aragorn may not enter the board until all other Good models have done so.
+
+* **The Young Warrior**
+
 Aragorn does not have the Mighty Hero special rule in this scenario.
 
-*Chieftain of the Dunedain* — *Aragorn knows that he must stop Gulavhar from terrorizing the northern lands, and he shows no fear in facing down the creature.*  
-Aragorn gains the Fearless special rule in this scenario.
+* **Chieftain of the Dunedain**
 
-*The Sound of Battle* — *Upon discovering Gulavhar, the Rangers have called for help from their kin; though more than just the Dunedain have heard their cries...*
+Aragorn gains the Fearless special rule in this scenario.
 
 **PARTICIPANTS**
 
 **Good:** Aragorn - Strider with bow; Halbarad; 6 Rangers of the North; 6 Dunedain.
 
 **Evil:** Gulavhar, Terror of Arnor; 6 Dead Marsh Spectres.
+
+![](../media/scenarios/rise_of_angmar/the_terror_of_arnor.jpg)

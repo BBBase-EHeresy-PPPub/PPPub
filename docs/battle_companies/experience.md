@@ -63,7 +63,7 @@ Only Hero models that possess a missile weapon (but not a throwing weapon) may e
 | 9   | **Defence** – The Hero may increase their Defence value by 1. This may only be increased once. |
 | 10  | **Might/Will** – The Hero may either gain +1 Might point (to a maximum of 3), or +1 Will point (to a maximum of 1). |
 | 11  | **Heroic Accuracy** – The Hero may now use the Heroic Accuracy Heroic Action in addition to any others they have access to. |
-| 12  | **Lethal Aim** – The Hero may spend a single ‘free’ point of Might during each Shoot phase. This can either be to improve a To Hit, To Wound or an In The Way roll. |
+| 12  | **Lethal Aim** – The Hero may spend a single ‘free' point of Might during each Shoot phase. This can either be to improve a To Hit, To Wound or an In The Way roll. |
 
 
 ### PATH OF THE GENERAL
@@ -77,7 +77,7 @@ Any Hero may embark on the Path of the General.
 | 2   | **Battle Veteran** – At the end of each game the Hero participates in, their Battle Company receives an additional 1 Influence Point. |
 | 3   | **Inspiring Presence** – Friendly models within 6" of the Hero count as being in range of a banner. |
 | 4   | **Lead by Example** – Friendly models within 6" of the Hero gain a bonus of +1 to their Courage value. |
-| 5   | **‘Rally to me!’** – The Hero increases the range of their Stand Fast! by 3" to a maximum of 12". |
+| 5   | **‘Rally to me!'** – The Hero increases the range of their Stand Fast! by 3" to a maximum of 12". |
 | 6   | **Fight** – The Hero may increase their Fight value by 1, up to a maximum value of 6. |
 | 7   | **Courage** – The Hero increases their Courage value by 1 to a maximum of 6. |
 | 8   | **Attack/Wound** – The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
@@ -136,7 +136,7 @@ Any Hero may embark on the Path of the Adventurer.
 | 2D6 | Result |
 |-----|--------|
 | 2   | **Wilderness Experience** – The Hero may re-roll any Jump, Climb, Leap or Swim tests. |
-| 3   | **Master of Ambush** – In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcement rule), you receive a bonus of +1 to the dice roll for this Hero model’s warband. If this Hero is already on the board then all warbands in your army receive a +1 bonus to the dice roll. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1. |
+| 3   | **Master of Ambush** – In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcement rule), you receive a bonus of +1 to the dice roll for this Hero model's warband. If this Hero is already on the board then all warbands in your army receive a +1 bonus to the dice roll. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1. |
 | 4   | **Fearless** – The Hero gains the Fearless special rule. |
 | 5   | **Fight** – The Hero may increase their Fight value by 1, up to a maximum value of 5. |
 | 6   | **Stalk Unseen** – The Hero gains the Stalk Unseen special rule. |

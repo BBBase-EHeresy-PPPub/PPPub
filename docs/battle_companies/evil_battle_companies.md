@@ -3,7 +3,7 @@
 Mordor; a barren and desolate land filled with darkness and evil creatures in the service of Sauron. Nothing good
 can grow in this vile realm, and those who dwell there are driven by malice and cruelty. In the shadows of this
 blighted place, packs of Orcs skulk in the dark, their leaders constantly looking for opportunities to improve their standing
-within Sauron’s armies, keeping one eye out for inevitable acts of treachery from their underlings.
+within Sauron's armies, keeping one eye out for inevitable acts of treachery from their underlings.
 When these packs become renowned within the land of Mordor, they are often commanded by the Great Eye to leave the Black Lands to bring devastation
 upon Middle-earth. These packs will then thieve, raid, and murder their way into the favor of Sauron. Often, they will attack the outposts of Gondor,
 Rohan, or even further afield, all the time looking to strengthen the influence of the Dark Lord and wreak as much havoc as they can.
@@ -63,7 +63,7 @@ Black Númenórean – Morgul Knight
 
 ### CIRITH UNGOL
 
-To the west of Mordor is Cirith Ungol, a fortress that guards the pass that runs through the mountains between Mordor and Gondor. This tall and imposing structure is garrisoned by a rabble of Orcs and Mordor Uruk-hai, two factions that constantly bicker with each other over who truly commands the forces stationed within the tower. They are the first line of defence against whatever should come through the pass, whether that be Elves, Men, or something more sinister. Under the orders of the commanders of the tower, bands of Orcs and Uruk-hai are sent into the pass to patrol its borders in search of anyone brave (or foolish) enough to attempt to cross it, knowing full well that they risk being entwined in the clutches of Shelob, who lurks within its dank tunnels. It has been known for these bands to be set upon by lesser spiders, and sometimes they manage to fend off and ‘control’ them for long enough that they can utilise them against their enemies in times of need.
+To the west of Mordor is Cirith Ungol, a fortress that guards the pass that runs through the mountains between Mordor and Gondor. This tall and imposing structure is garrisoned by a rabble of Orcs and Mordor Uruk-hai, two factions that constantly bicker with each other over who truly commands the forces stationed within the tower. They are the first line of defence against whatever should come through the pass, whether that be Elves, Men, or something more sinister. Under the orders of the commanders of the tower, bands of Orcs and Uruk-hai are sent into the pass to patrol its borders in search of anyone brave (or foolish) enough to attempt to cross it, knowing full well that they risk being entwined in the clutches of Shelob, who lurks within its dank tunnels. It has been known for these bands to be set upon by lesser spiders, and sometimes they manage to fend off and ‘control' them for long enough that they can utilise them against their enemies in times of need.
 
 **STARTING BATTLECOMPANY**
 
@@ -81,7 +81,7 @@ Mordor Orc with Orc bow – Orc Tracker
 
 **ARMY SPECIFIC HERO UPGRADES**
 
-**'We’re in Charge!'** (Orcs and Uruk-hai only) – Constantly trying to prove they are the better race, the Orcs and Uruk-hai of Cirith Ungol will try everything to outdo each other.
+**'We're in Charge!'** (Orcs and Uruk-hai only) – Constantly trying to prove they are the better race, the Orcs and Uruk-hai of Cirith Ungol will try everything to outdo each other.
 
 - If the Hero is an Orc, they gain a bonus of +1 To Wound whilst within 2" of a friendly Uruk-hai. If the Hero is an Uruk-hai, they gain a bonus of +1 To Wound whilst within 2" of a friendly Orc.
 
@@ -102,7 +102,7 @@ Mordor Orc with Orc bow – Orc Tracker
 
 ### MINAS MORGUL
 
-Once a proud city of Gondor, Minas Morgul has long been under the Dark Lord’s control. Now known as the Tower of Sorcery, Minas Morgul is the home of the Nazgûl and their legions of Orcs, spirits, and other creatures. The dead city is not a place that any would willingly venture into, except those under the direct influence of the Nazgûl. As the Dark Lord’s search for the Ring of Power continues, the Nazgûl constantly send their own followers to tread the paths of Middle-earth in search of the Ring. Alongside the Orcs that are commonplace within Mordor, the Nazgûl send small numbers of highly skilled Black Númenóreans to take charge of these companies and to make sure the Orcs stay in line.
+Once a proud city of Gondor, Minas Morgul has long been under the Dark Lord's control. Now known as the Tower of Sorcery, Minas Morgul is the home of the Nazgûl and their legions of Orcs, spirits, and other creatures. The dead city is not a place that any would willingly venture into, except those under the direct influence of the Nazgûl. As the Dark Lord's search for the Ring of Power continues, the Nazgûl constantly send their own followers to tread the paths of Middle-earth in search of the Ring. Alongside the Orcs that are commonplace within Mordor, the Nazgûl send small numbers of highly skilled Black Númenóreans to take charge of these companies and to make sure the Orcs stay in line.
 
 **STARTING BATTLECOMPANY**
 
@@ -145,7 +145,7 @@ A Dead Marsh Spectre cannot gain Experience and therefore can never become a Her
 
 ### ISENGARD
 
-As the White Wizard has fallen from grace, Isengard has done much the same. Gone are the trees and the green fields; uprooted, destroyed, and replaced by machines and industry. The fires of Isengard never cease, the forges constantly churning out weapons, armour, and contraptions of war in order to arm Saruman’s fighting Uruk-hai against the races of Men, Elves, and Dwarves. Saruman regularly sends forth companies of Uruk-hai to raid and burn the villages of Men, spreading fear and panic to increase the Wizard’s dominance. None felt this more than the land of Rohan, whose settlements and villages were burned to the ground by these bands. The Uruk-hai who lead these warbands are vicious and bloodthirsty warriors, the very best of Saruman’s fledgling army, looking to prove themselves worthy to lead the White Wizard’s eventual siege upon Helm’s Deep.
+As the White Wizard has fallen from grace, Isengard has done much the same. Gone are the trees and the green fields; uprooted, destroyed, and replaced by machines and industry. The fires of Isengard never cease, the forges constantly churning out weapons, armour, and contraptions of war in order to arm Saruman's fighting Uruk-hai against the races of Men, Elves, and Dwarves. Saruman regularly sends forth companies of Uruk-hai to raid and burn the villages of Men, spreading fear and panic to increase the Wizard's dominance. None felt this more than the land of Rohan, whose settlements and villages were burned to the ground by these bands. The Uruk-hai who lead these warbands are vicious and bloodthirsty warriors, the very best of Saruman's fledgling army, looking to prove themselves worthy to lead the White Wizard's eventual siege upon Helm's Deep.
 
 **STARTING BATTLECOMPANY**
 
@@ -179,19 +179,19 @@ As the White Wizard has fallen from grace, Isengard has done much the same. Gone
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'You Shall Taste Man-flesh!'** – The hero’s lust for flesh drives them into a bloodthirsty rage, spurring them forth into battle. This Hero receives a bonus of +1 To Wound when making Strikes against models with the Man keyword.
+**'You Shall Taste Man-flesh!'** – The hero's lust for flesh drives them into a bloodthirsty rage, spurring them forth into battle. This Hero receives a bonus of +1 To Wound when making Strikes against models with the Man keyword.
 
 **UNIQUE WARGEAR**
 
 Uruk-hai Grog – Small (2) (Hero only) – 4 Influence Points
 
-- A Hero may elect to use their Uruk-hai Grog at the start of any game. If they do so, remove it from the Hero model’s profile. Every model within the Hero model’s Battle Company may re-roll a single D6 when making a Duel roll for the duration of that game.
+- A Hero may elect to use their Uruk-hai Grog at the start of any game. If they do so, remove it from the Hero model's profile. Every model within the Hero model's Battle Company may re-roll a single D6 when making a Duel roll for the duration of that game.
 
 ---
 
 ### WARG RIDERS
 
-The wolves of Isengard, known as Warg Riders, serve as the scouts of Saruman’s army, employed by the Wizard to ambush and harass his enemies. The sound of baying Wargs heralds their imminent arrival, and few witnesses live to tell the tale. Leaders of these packs are ambitious and cunning Orcs who view their role as a chance to improve their standing, gaining the best plunder and feeding their Wargs the freshest kills. These packs also include unridden Wargs, either too wild or not yet subdued by their Orc riders. Saruman’s Warg Riders roam across Middle-earth in search of fresh kills and valuable loot to aid the White Wizard in his quest for The One Ring.
+The wolves of Isengard, known as Warg Riders, serve as the scouts of Saruman's army, employed by the Wizard to ambush and harass his enemies. The sound of baying Wargs heralds their imminent arrival, and few witnesses live to tell the tale. Leaders of these packs are ambitious and cunning Orcs who view their role as a chance to improve their standing, gaining the best plunder and feeding their Wargs the freshest kills. These packs also include unridden Wargs, either too wild or not yet subdued by their Orc riders. Saruman's Warg Riders roam across Middle-earth in search of fresh kills and valuable loot to aid the White Wizard in his quest for The One Ring.
 
 **STARTING BATTLECOMPANY**
 
@@ -220,13 +220,13 @@ Wild Warg – Warg Rider with choice of weapon
 
 **'Vicious Battle Scars'** – The ferocity of the Warg is well-documented by the array of scars and flesh wounds it possesses. Such viciousness is enough to strike fear into the hearts of those that must face this fearsome creature.
 
-The Hero model’s mount (or itself if the Hero is a Wild Warg) causes Terror.
+The Hero model's mount (or itself if the Hero is a Wild Warg) causes Terror.
 
 ---
 
 ### DUNLAND
 
-When Saruman’s treachery was finally revealed, he called upon more than just Orcs and Uruk-hai to wage war upon the kingdom of Rohan. The Dunlending people hated the Rohirrim for centuries, and they required little persuasion to join the White Wizard’s cause to see to the destruction of those they have fought to supplant for many years. While most of the Dunlendings joined Saruman’s standing armies, some were gathered together and sent out to raid the settlements of Rohan in secret, causing panic before the main armies of Isengard would attack. These bands would often venture into the wider lands of Middle-earth in order to raid and pillage other settlements, gaining wealth and renown amongst their people as they slaughtered those in their path.
+When Saruman's treachery was finally revealed, he called upon more than just Orcs and Uruk-hai to wage war upon the kingdom of Rohan. The Dunlending people hated the Rohirrim for centuries, and they required little persuasion to join the White Wizard's cause to see to the destruction of those they have fought to supplant for many years. While most of the Dunlendings joined Saruman's standing armies, some were gathered together and sent out to raid the settlements of Rohan in secret, causing panic before the main armies of Isengard would attack. These bands would often venture into the wider lands of Middle-earth in order to raid and pillage other settlements, gaining wealth and renown amongst their people as they slaughtered those in their path.
 
 **STARTING BATTLECOMPANY**
 
@@ -253,11 +253,11 @@ When Saruman’s treachery was finally revealed, he called upon more than just O
 
 ---
 
-### SHARKEY’S ROGUES
+### SHARKEY'S ROGUES
 
-Following his army’s defeat at Helm’s Deep, and his subsequent banishment from Isengard, Saruman, under the guise of an old withered man named Sharkey, made his way west to the Shire. There, he gathered Ruffians and wild men, hatching a scheme to take control over the Shire and the Halflings living there as vengeance for the defeat that the Travellers had brought upon him.
+Following his army's defeat at Helm's Deep, and his subsequent banishment from Isengard, Saruman, under the guise of an old withered man named Sharkey, made his way west to the Shire. There, he gathered Ruffians and wild men, hatching a scheme to take control over the Shire and the Halflings living there as vengeance for the defeat that the Travellers had brought upon him.
 
-After plotting and buying his way into control over the Shire, Sharkey assumed full command under the name of ‘The Chief’ and sent bands of his Ruffians across the Shire and surrounding lands to spread his will. Some of these groups of Ruffians and wild men would often venture a bit further than instructed, bullying local villages, especially if there was some extra money to be had.
+After plotting and buying his way into control over the Shire, Sharkey assumed full command under the name of ‘The Chief' and sent bands of his Ruffians across the Shire and surrounding lands to spread his will. Some of these groups of Ruffians and wild men would often venture a bit further than instructed, bullying local villages, especially if there was some extra money to be had.
 
 **STARTING BATTLECOMPANY**
 
@@ -287,7 +287,7 @@ If the Hero is involved in a Fight where there are more friendly models than ene
 
 ### MORIA
 
-Since the coming of the Balrog and the rout of the Dwarves, Moria’s halls have resounded to the clamour of a different kind. Sonorous drum beats and the gleeful cackle of Goblin-kin echo where once hammer fell and harps were played. Unlike the realms of Man and Orc, Moria is a domain constantly driven by internal strife, as the fractious Goblins who dwell there jostle for power and wealth with one another, and battles are fought between rival factions for control of a particular hall or possession of some tarnished treasure or another.
+Since the coming of the Balrog and the rout of the Dwarves, Moria's halls have resounded to the clamour of a different kind. Sonorous drum beats and the gleeful cackle of Goblin-kin echo where once hammer fell and harps were played. Unlike the realms of Man and Orc, Moria is a domain constantly driven by internal strife, as the fractious Goblins who dwell there jostle for power and wealth with one another, and battles are fought between rival factions for control of a particular hall or possession of some tarnished treasure or another.
 
 In the deeps of Moria, gaining power is no easy thing, and holding onto it is even harder – any Goblin with aspirations to rule will fight to rally followers to their cause, while the many self-styled Goblin kings will unleash their warbands to forage for supplies and treasure (with which they can lure in more Goblins to their cause). This chaotic situation inevitably means there is no shortage of Goblins patrolling not only the mines of Moria, but for leagues around in every direction, fighting against Men, Elves and Dwarves, but also each other in their self-defeating quest for supremacy.
 
@@ -329,7 +329,7 @@ Moria Goblin with Orc bow – Moria Goblin Prowler
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Treacherous Leader'** – Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their ‘allies’ to see that they live to fight another day.
+**'Treacherous Leader'** – Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their ‘allies' to see that they live to fight another day.
 
 Every time this Hero suffers a Wound in combat that would result in it being slain, after Fate points have been spent, roll a D6. On a 2+, the Hero may select another friendly model within 1" of itself; that model suffers the Wound instead of the Hero. Models that suffer Wounds in this way may still use Fate points as normal.
 
@@ -337,7 +337,7 @@ Every time this Hero suffers a Wound in combat that would result in it being sla
 
 ### GOBLIN-TOWN
 
-Whilst the Goblin-infested realm of Moria is splintered into countless factions all vying for their place at the top, the neighboring realm of Goblin-town suffers no such problems. For atop the throne of this blighted kingdom sits the bloated Goblin King, a vile and ruthless leader who towers over his Goblin subjects. The Goblins under their king’s rule are constantly sent out on hunting parties to cause destruction in the Goblin King’s name, or to quell any that plot to overthrow their blubbery overlord. Yet in more recent years, news of the price put upon the head of Thorin Oakenshield has seen these hunting parties put to a different use; hunting down the would-be Dwarf king and bringing him to his knees before The Goblin King.
+Whilst the Goblin-infested realm of Moria is splintered into countless factions all vying for their place at the top, the neighboring realm of Goblin-town suffers no such problems. For atop the throne of this blighted kingdom sits the bloated Goblin King, a vile and ruthless leader who towers over his Goblin subjects. The Goblins under their king's rule are constantly sent out on hunting parties to cause destruction in the Goblin King's name, or to quell any that plot to overthrow their blubbery overlord. Yet in more recent years, news of the price put upon the head of Thorin Oakenshield has seen these hunting parties put to a different use; hunting down the would-be Dwarf king and bringing him to his knees before The Goblin King.
 
 **STARTING BATTLECOMPANY**
 
@@ -368,7 +368,7 @@ The Hero gains the 'Backstabbers' special rule.
 
 ### ANGMAR
 
-As the power of the Witch-king of Angmar grew, the realm of Arnor began to wane. Its once proud cities fell into ruin and disrepair, a prime target for the forces of Angmar to assail and conquer. Under the Witch-king’s command, Orc warbands would attack these fallen cities, delivering them to their dark ruler; for only a few Orcs would be needed to prise these cities from the depleted forces of Arnor. These warbands were led by the most opportunistic of all the Angmar Orcs, those whose main aim is to plunder, backstab, and murder their way to the head of the Witch-king’s armies. Yet there were more than mere Orcs in these warbands. Often the relentless cries of the Orcs lured to them the spirits of those long since dead. Now bound to the power of the Witch-king, these spirits would sometimes fight alongside the living – if the Witch-king willed it.
+As the power of the Witch-king of Angmar grew, the realm of Arnor began to wane. Its once proud cities fell into ruin and disrepair, a prime target for the forces of Angmar to assail and conquer. Under the Witch-king's command, Orc warbands would attack these fallen cities, delivering them to their dark ruler; for only a few Orcs would be needed to prise these cities from the depleted forces of Arnor. These warbands were led by the most opportunistic of all the Angmar Orcs, those whose main aim is to plunder, backstab, and murder their way to the head of the Witch-king's armies. Yet there were more than mere Orcs in these warbands. Often the relentless cries of the Orcs lured to them the spirits of those long since dead. Now bound to the power of the Witch-king, these spirits would sometimes fight alongside the living – if the Witch-king willed it.
 
 **STARTING BATTLECOMPANY**
 
@@ -415,7 +415,7 @@ During its Move phase, the Hero may target a single enemy model within 6". The t
 
 ### GUNDABAD
 
-At the northernmost peaks of The Misty Mountains lies the fortress of Gundabad, the gateway to the fell kingdom of Angmar. Within its walls are harboured hosts of Gundabad Orcs, monsters and other vicious creatures, bred specifically for the purpose of waging war upon the enemies of the Dark Lord. Under the orders of Bolg, the Castellan of Mount Gundabad, small bands of Orcs and other foul creatures ventured forth from the fortress’ bowels in order to wreak havoc and destruction upon Middle-earth. These bands attacked outposts, raided settlements, and engaged travelling warbands in brutal melee, all in the name of the Dark Lord.
+At the northernmost peaks of The Misty Mountains lies the fortress of Gundabad, the gateway to the fell kingdom of Angmar. Within its walls are harboured hosts of Gundabad Orcs, monsters and other vicious creatures, bred specifically for the purpose of waging war upon the enemies of the Dark Lord. Under the orders of Bolg, the Castellan of Mount Gundabad, small bands of Orcs and other foul creatures ventured forth from the fortress' bowels in order to wreak havoc and destruction upon Middle-earth. These bands attacked outposts, raided settlements, and engaged travelling warbands in brutal melee, all in the name of the Dark Lord.
 
 **STARTING BATTLECOMPANY**
 
@@ -452,7 +452,7 @@ A War Bat cannot gain Experience and therefore cannot become a Hero.
 
 ### DOL GULDUR
 
-Within the southern reaches of the Greenwood, the old fortress of Dol Guldur was long thought to have been abandoned many years ago. As the years of the Third Age rolled on, a darkness fell upon its ruined walls. It was believed that a sorcerer now dwelt within its crumbling foundations, and that Evil emanated from it. In time, the woodsmen would no longer call the forest Greenwood. It would become known by a new name – Mirkwood. The truth was far worse than even the woodsmen could have imagined, for it was no mere sorcerer who dwelt within Dol Guldur, but the Dark Lord himself. Sauron had drawn all manner of Orcs and Wargs to his power, including the forces of Azog the Defiler. The Pale Orc still thirsted for the blood of Thorin Oakenshield, and news of the company’s travels had reached the Orc’s ears. With this new knowledge, Azog would send out warbands of Orcs and Wargs in search of the Dwarven travellers, their sole purpose to obtain the head of Thorin Oakenshield.
+Within the southern reaches of the Greenwood, the old fortress of Dol Guldur was long thought to have been abandoned many years ago. As the years of the Third Age rolled on, a darkness fell upon its ruined walls. It was believed that a sorcerer now dwelt within its crumbling foundations, and that Evil emanated from it. In time, the woodsmen would no longer call the forest Greenwood. It would become known by a new name – Mirkwood. The truth was far worse than even the woodsmen could have imagined, for it was no mere sorcerer who dwelt within Dol Guldur, but the Dark Lord himself. Sauron had drawn all manner of Orcs and Wargs to his power, including the forces of Azog the Defiler. The Pale Orc still thirsted for the blood of Thorin Oakenshield, and news of the company's travels had reached the Orc's ears. With this new knowledge, Azog would send out warbands of Orcs and Wargs in search of the Dwarven travellers, their sole purpose to obtain the head of Thorin Oakenshield.
 
 **STARTING BATTLECOMPANY**
 
@@ -508,7 +508,7 @@ Within the sickly trees of this tainted forest, small packs of vicious Fell Warg
 
 A Bat Swarm cannot gain Experience and therefore can never become a Hero.
 
-A Note on Broodlings: If you already have three Broodlings in your company, and you roll another one for a Reinforcements roll, treat the roll as a Fell Warg instead. The profiles for Broodlings can be found within the Spider Queen’s profile (see page 115 of Armies of The Hobbit).
+A Note on Broodlings: If you already have three Broodlings in your company, and you roll another one for a Reinforcements roll, treat the roll as a Fell Warg instead. The profiles for Broodlings can be found within the Spider Queen's profile (see page 115 of Armies of The Hobbit).
 
 **REINFORCEMENTS**
 
@@ -529,7 +529,7 @@ A Note on Broodlings: If you already have three Broodlings in your company, and 
 
 ### HARAD
 
-In the vast desert wastes of Harad, large kingdoms and realms are a rare thing to find. Most Haradrim live in small tribes, each with its own hierarchy, which lies under the influence of greater warlords. The chieftains of these tribes possess a ruthless streak, a necessity in Harad for those who wish to keep their power and not meet an untimely death. Haradrim who live in these tribes will form raiding parties, bands of cruel Men that ride out to pillage and raid the outposts and southernmost settlements of Gondor and her Fiefdoms. These raids are often quick and bloody, with many good Men being felled by the Haradrim’s black-fletched arrows. Although these acts of war are born out of need to gather provisions to survive, it has since become ingrained into Haradrim culture, with raiding parties constantly heading out as much for enjoyment than anything else.
+In the vast desert wastes of Harad, large kingdoms and realms are a rare thing to find. Most Haradrim live in small tribes, each with its own hierarchy, which lies under the influence of greater warlords. The chieftains of these tribes possess a ruthless streak, a necessity in Harad for those who wish to keep their power and not meet an untimely death. Haradrim who live in these tribes will form raiding parties, bands of cruel Men that ride out to pillage and raid the outposts and southernmost settlements of Gondor and her Fiefdoms. These raids are often quick and bloody, with many good Men being felled by the Haradrim's black-fletched arrows. Although these acts of war are born out of need to gather provisions to survive, it has since become ingrained into Haradrim culture, with raiding parties constantly heading out as much for enjoyment than anything else.
 
 **STARTING BATTLECOMPANY**
 
@@ -678,7 +678,7 @@ Blowpipe (1/5) – 1 Influence Point
 
 ### CORSAIRS OF UMBAR
 
-Umbar is a ruthless city where treachery and corruption run rife within its shadowed streets. None that reside there better represent this than the Corsairs who man Umbar’s fleets. The captains of these ships are tyrannical and greedy Men, who will sail the coasts of Gondor and even further with the intent of pillaging the settlements upon the shores. The crew under these captains’ command will often share their lust for plunder, and need little convincing to set off upon the black-sailed ships in search of new settlements to raze to the ground. Once this band of malicious Men has raided a town, stealing whatever they can lay their hands on, they will splinter into smaller bands, each eager to unleash their own devious brand of destruction and murder upon the villages along the coast. The more fear these bands of Evil Men can instill in their enemies, the higher they will rise up the treacherous ranks of the Corsair fleets.
+Umbar is a ruthless city where treachery and corruption run rife within its shadowed streets. None that reside there better represent this than the Corsairs who man Umbar's fleets. The captains of these ships are tyrannical and greedy Men, who will sail the coasts of Gondor and even further with the intent of pillaging the settlements upon the shores. The crew under these captains' command will often share their lust for plunder, and need little convincing to set off upon the black-sailed ships in search of new settlements to raze to the ground. Once this band of malicious Men has raided a town, stealing whatever they can lay their hands on, they will splinter into smaller bands, each eager to unleash their own devious brand of destruction and murder upon the villages along the coast. The more fear these bands of Evil Men can instill in their enemies, the higher they will rise up the treacherous ranks of the Corsair fleets.
 
 **STARTING BATTLECOMPANY**
 
