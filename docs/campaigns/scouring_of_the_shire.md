@@ -105,3 +105,39 @@ In The Lockholes Scenario, replace the Hobbit Militia that have been arrested wi
 **Good Victory:** Once during the course of the game, Merry may declare a single Heroic Action without spending Might points in the Battle of Bywater Scenario.
 
 **Evil Victory:** In the Battle of Bywater Scenario, Merry begins the game with no Fate points.
+
+
+### TRAPS 
+
+Some Scenarios or characters allow for the Hobbit player to deploy a selection of Traps on the board to help them gain an advantage over those that seek to bring ruin to the Shire. The special rules of either the Scenario or character will state how many of each type of Trap the Hobbit player may deploy at the start of the game. Traps are deployed after both sides have set up but before the first turn begins. Friendly models treat Traps as open ground but no model may finish their movement with their base overlapping a Trap marker.
+
+Traps can be deployed anywhere on the board, although they must be deployed using the following rules:
+
+- Traps may not be deployed within the enemy player’s deployment zone.
+- Traps may not be deployed within 3" of another Trap.
+- Traps may not be deployed within an enemy model’s Control Zone.
+- Traps may not be deployed within 2" of an Objective marker in Scenarios where this applies.
+
+**TRIGGERING TRAPS**
+
+When Trap markers are deployed, they are always placed face-down so that the opposing player cannot tell what kind of Trap each Trap marker represents. When an enemy model moves within 1" of a Trap marker, they immediately stop moving – flip the Trap marker over and resolve the effects of the Trap that is revealed, as explained opposite. Models that reveal a Trap marker cannot continue moving after revealing the Trap; they have either fallen into the Trap or used the rest of their movement to avoid it.
+
+* **TRIPWIRE TRAP**
+
+When a Tripwire Trap is revealed, the Hobbit player rolls a D6. On a 2+, the model that revealed the Trap suffers a Strength 2 hit and is placed Prone. Cavalry models that reveal a Tripwire Trap are only affected on a 4+. However, they will also count as being Knocked Flying in addition to suffering a Strength 2 hit. Monster models are unaffected by a Tripwire Trap, and can continue to move even after revealing the Trap. After the effects are resolved, remove the Trap from play.
+
+* **SNARE TRAP**
+
+When a Snare Trap is revealed, the Hobbit player rolls a D6. On a 2+, the model that revealed the Trap is immediately knocked Prone and suffers a Strength 1 hit (they actually either have their legs tied up or are kept dangling in the air, but this has the same effect). A model that is caught in a Snare Trap cannot move until they have freed themselves. They will not stand up if they win a fight and will always count as being Trapped. During the End phase of each turn, roll a D6 for a model caught in a Snare Trap. If the result is equal to or less than the model’s Strength characteristic then the model has freed themselves and may immediately stand up.
+
+Cavalry models that reveal a Snare Trap are only affected on a 4+. However, they will also count as being Knocked Flying in addition to suffering a Strength 1 hit. Monster models are unaffected by a Snare Trap, and can continue to move even after revealing the Trap. After the effects are resolved, remove the Trap from play.
+
+* **PITFALL TRAP**
+
+When a Pitfall Trap is revealed, the Hobbit player rolls a D6. On a 2+, the model that revealed the Trap immediately falls into the hole. A model that falls into a Pitfall Trap may attempt to get out of the hole at the start of each of its Move phases. Roll a D6. On a 4+, the model clambers out of the hole at the cost of half of its Move value.
+
+Whilst in a Pitfall Trap, a model always counts as being Trapped. Cavalry models that reveal a Pitfall Trap are only affected on a 4+. However, they will also count as being Knocked Flying in addition to falling into the hole. Monster models are unaffected by a Pitfall Trap, and can continue to move even after revealing the Trap. After the effects are resolved, leave the Pitfall Trap face-up. A model can attempt to cross a Pitfall Trap by passing a Jump test, but if they fail, they will fall into the hole. If a model is forced into base contact with the Pitfall Trap (such as when they Back Away) then they will fall into the hole. Only one model at a time can be in a Pitfall Trap.
+
+* **DUMMY TRAP**
+
+When an Infantry model reveals a Dummy Trap, remove the Trap from play (there is no Trap there after all!), though the model will still stop moving. Cavalry and War Beast models are unaffected by a Dummy Trap, and can continue to move even after revealing the Trap.

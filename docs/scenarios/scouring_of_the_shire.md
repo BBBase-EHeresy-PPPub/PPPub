@@ -581,3 +581,119 @@ Once per game, both Merry and Pippin can each declare a Heroic Combat without sp
 **Evil:** Sharkey & Worm; Sid Briarthorn, Ruffian Chief; Bill Ferny; 12 Ruffians; 4 Ruffians with whip; 8 Ruffians with bow.
 
 ![](../media/scenarios/scouring_of_the_shire/the_battle_of_bywater.jpg)
+
+---
+
+## APPENDIX - BATTLE OF GREENFIELDS
+
+**LAYOUT**
+
+The board represents the area of Greenfields and its borders. There should be a selection of Hobbit-holes within 18" of the western board edge. The area within 15" of the eastern board edge should be densely packed with trees, representing the borders of the Shire. The rest of the board should be fairly open, with the odd bush or hedge.
+
+**STARTING POSITIONS**
+
+The Good player deploys the Hobbits within 12" of the western board edge. The Evil player then deploys Golfimbul and eight Warg Riders between 12" and 24" of the eastern board edge. The rest of the Warg Riders are deployed within 3" of the eastern board edge. The Good player then deploys the Rangers of the North anywhere within 12" of the eastern board edge, but not within 6" of any Evil model.
+
+**OBJECTIVES**
+
+Both sides must cause enough casualties to force the other to surrender. The game lasts until the end of a turn in which one side has been reduced to 25% of its starting numbers. The Good side wins if the Evil player has been reduced to 25% of its starting number. The Evil side wins if the Good side has been reduced to 25% of its starting numbers. If both sides have been reduced to 25% of their starting numbers in the same turn, the game is a draw.
+
+**SPECIAL RULES**
+
+* **The Bullroarer**
+
+Should Bandobras Took be slain, then at the start of each Hobbit model’s Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+
+* **Golfimbul**
+
+Should Golfimbul be slain, then at the start of each Orc model’s Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+
+* **Surprise Volley**
+
+Before the game begins, but after all models have been deployed, each of the Rangers may make a free shot, resolved by the normal shooting rules. This free shot may not target Golfimbul.
+
+* **We Shall Not Be Seen**
+
+The Rangers may not willingly move beyond the tree-line. Should they find themselves beyond this point, they must move back as quickly as possible.
+
+**PARTICIPANTS**
+
+**Good:** Bandobras Took; 3 Rangers of the North; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs.  
+
+**Evil:** Golfimbul, Orc Chieftain, on Warg; 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow.
+
+![](../media/scenarios/scouring_of_the_shire/battle_of_greenfields.jpg)
+
+---
+
+## APPENDIX - THE WOLVES OF WINTER
+
+**LAYOUT**
+
+The board represents the Shire in the dead of winter. There should be four Hobbit-holes on the board, as well as a few trees, hedges, and bushes. In the center of the board should be four large bonfires, each on a 40mm base. The Hobbit-holes should be arranged around the bonfires, but no Hobbit-hole may be within 6" of the bonfires.
+
+**STARTING POSITIONS**
+
+The Good player deploys the Hobbits so that there are four Hobbits within 3" of each bonfire. They then deploy Gandalf within 3" of any of the bonfires. The Evil player then deploys one Warg touching the center of each board edge, and then another Warg within 6" of each Warg so that there are two Wargs within 6" of each edge of the board. The Wild Warg Chieftain can be placed within 6" of any board edge.
+
+**OBJECTIVES**
+
+The Hobbits are in a dire situation; they must either kill all of the Wargs or they will all perish. The game lasts until one force has been wiped out, at which point the other side is the winner.
+
+**SPECIAL RULES**
+
+* **Dead of Night**
+
+Models cannot see further than 6" in this Scenario; this means that they cannot Shoot, Charge, or target models with Magical Powers unless they are within 6". However, models within 6" of a bonfire can be seen clearly from any distance.
+
+* **The Warg Pack**
+
+Warg models must always move as fast as they can towards enemy models, Charging if possible, in which case they can move how they wish, so long as they Charge. At the start of each Evil Move phase in which the Wild Warg Chieftain is alive, the Evil player may move up to two Wild Wargs slain earlier in the battle onto the board from any board edge via the rules for Reinforcements. While the Wild Warg Chieftain is alive, Warg models automatically pass Courage tests.
+
+* **Surprise Attack**
+
+The Evil player has Priority in the first turn.
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs. Note that Gandalf does not have Glamdring in this Scenario, instead he has a normal hand-and-a-half sword.  
+
+**Evil:** Wild Warg Chieftain; 8 Wild Wargs.
+
+![](../media/scenarios/scouring_of_the_shire/the_wolves_of_winter.jpg)
+
+---
+
+## APPENDIX - THE ROAD TO RIVENDELL
+
+**LAYOUT**
+
+The board represents the wilderness between the Shire and Rivendell. It should be covered with plenty of trees, hedges, bushes, and other suitable vegetation. There should also be a few hills on the board.
+
+**STARTING POSITIONS**
+
+The Good player deploys Bilbo within 12" of the center of the western board edge. They then deploy the Elves anywhere on the board but not within 12" of Bilbo. The Evil player then deploys the Orcs anywhere on the board, but not within 12" of Bilbo or 6" of an Elf. The remaining models are kept aside for later in the game.
+
+**OBJECTIVES**
+
+Bilbo must reach the safety of Rivendell before the Orcs can catch up with him. The Good player wins if Bilbo can move off the board via the eastern board edge. The Evil player wins if Bilbo is slain.
+
+**SPECIAL RULES**
+
+* **Wanderers in the Wild**
+
+From the second turn onwards, at the end of each Good Move phase, the Good player rolls a D6. On a 2+, one of the Rangers of the North may enter the board. Once all of the Rangers have entered play, the next model to arrive is Aragorn. To determine where the model enters play, roll a further D6. On a 1-2, the model enters play from any point on the northern board edge. On a 3-4, the model enters play from the southern board edge. On a 5, the model enters play from the eastern board edge. On a 6, the model enters play from the western board edge.  
+
+Models enter the board via the rules for Reinforcements.
+
+* **Patrolling Wargs**
+
+From the second turn onwards, at the end of each Evil Move phase, the Evil player rolls a D6. On a 2+, one of the Warg Riders may enter the board in the same way as the Rangers as described above.
+
+**PARTICIPANTS**
+
+**Good:** Bilbo Baggins with Mithril Coat and Sting; Aragorn – Strider with bow; 3 Rangers of the North; 3 Wood Elf Warriors; 3 Wood Elf Warriors with Wood Elf spear; 3 Wood Elf Warriors with Elf bow.
+
+**Evil:** 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow; 4 Orc Warriors with shield; 4 Orc Warriors with spear; 2 Orc Warriors with two-handed weapon; 2 Orc Warriors with Orc bow.
+
+![](../media/scenarios/scouring_of_the_shire/the_road_to_rivendell.jpg)
