@@ -54,17 +54,17 @@ If Radagast is slain or dismounts, remove the sleigh from play.
 
 ---
 
-- **Sebastian (PASSIVE)**
+- **Sebastian** `PASSIVE`
 
 If Radagast is accompanied by Sebastian, he may always make an additional Attack in close combat, with a Fight value and Strength of 1 (roll a separate D6 for Sebastian) which cannot be altered by Might.
 
 **SPECIAL RULES**
 
-- **Master of Birds (PASSIVE)**
+- **Master of Birds** `PASSIVE`
 
 Radagast is always assumed to have Line of Sight to any point on the battlefield. Additionally, Eagle models within 12" of Radagast have the Resistant to Magic special rule.
 
-- **One with Nature (PASSIVE)**
+- **One with Nature** `PASSIVE`
 
 Whilst he has the Infantry keyword, Radagast may move through areas of difficult terrain without penalty. Additionally, he will also gain the [Stalk Unseen] special rule.
 
@@ -108,7 +108,7 @@ Whilst he has the Infantry keyword, Radagast may move through areas of difficult
 - [Fearless]
 - [Resistant to Magic]
 - [Woodland Creature]
-- **Skin-changer (ACTIVE)**
+- **Skin-changer** `ACTIVE`
 
 To change Beorn's form, the controlling player may roll a D6 at the start of Beorn's Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
 
@@ -132,11 +132,11 @@ To change Beorn's form, the controlling player may roll a D6 at the start of Beo
 
 If Beorn wins a Duel, instead of striking as normal, choose a losing model – that model immediately suffers a Strength 10 hit. If the To Wound roll is successful, the victim suffers another Strength 10 hit, and so on, until the victim is dead or Beorn fails to wound his victim.
 
-- **Berserk (PASSIVE)**
+- **Berserk** `PASSIVE`
 
 Beorn the Bear must always Charge an enemy if he is able to. Additionally, Beorn may not use the [Stand Fast!] or Heroic Actions of other models, and other models may not use his, whilst he is in bear form.
 
-- **Skin-changer (ACTIVE)**
+- **Skin-changer** `ACTIVE`
 
 To change Beorn's form, the Good player may roll a D6 at the start of Beorn's Move. On the roll of a 4+ (Might may be used to modify this roll), Beorn changes shape from a man into a bear (or vice-versa). Replace the Beorn model with the Beorn the Bear model (or vice-versa). Beorn can then continue with his move as normal, including making Charges. Beorn cannot change form if there is an enemy model in base contact with him.
 

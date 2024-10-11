@@ -35,15 +35,15 @@ The profile for Orc Warriors and Warg Riders can be found on pages 119-120.
 
 **SPECIAL RULES**
 
-- **The Palantir (ACTIVE)**
+- **The Palantir** `ACTIVE`
 
 Once per game the controlling player can use the Palantir to automatically win a Priority roll - the use of this special rule must be declared before any dice are rolled for Priority.
 
-- **Voice of Curunir (ACTIVE)**
+- **Voice of Curunir** `ACTIVE`
 
 Saruman's [Stand Fast!] has a range of 12" and, unlike other Hero models' [Stand Fast!] rolls, can affect other Hero models.
 
-- **Lord of the Istari (PASSIVE)**
+- **Lord of the Istari** `PASSIVE`
 
 Saruman the White can choose to re-roll one dice when making Casting or Resist tests.
 
@@ -80,7 +80,7 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 **SPECIAL RULES**
 
-- **A Traitor Within (PASSIVE)**
+- **A Traitor Within** `PASSIVE`
 
 Grima must be deployed in Saruman's warband if deployed as part of the Isengard force.
 
@@ -90,7 +90,7 @@ If deployed as part of the enemy's army (but not as part of his own army), no en
 
 This restriction ends if Saruman is slain, if Grima voluntarily Charges an enemy model or if Grima scores a Wound with his dagger (even if the Wound is avoided with Fate). Grima can decide not to strike blows if he wins a Duel roll in order not to reveal his real allegiance. Once one of these conditions is met, the depth of Grima's evil is revealed and he becomes an enemy who can be shot at and fought in the same way as any other enemy model.
 
-- **Wormtongue (PASSIVE)**
+- **Wormtongue** `PASSIVE`
 
 If an enemy Hero model is within 6" of Grima, 2 Might points must be expended to use Heroic Actions instead of 1.
 
@@ -122,7 +122,7 @@ If an enemy Hero model is within 6" of Grima, 2 Might points must be expended to
 
 **SPECIAL RULES**
 
-- **Find the Halflings (PASSIVE)**
+- **Find the Halflings** `PASSIVE`
 
 Any warband led by Lurtz does not have to roll to determine when and where it arrives in Scenarios that require such a roll. Instead, Lurtz may choose the result.
 
@@ -152,7 +152,7 @@ Any warband led by Lurtz does not have to roll to determine when and where it ar
 
 **SPECIAL RULES**
 
-- **Head Taker (ACTIVE)**
+- **Head Taker** `ACTIVE`
 
 Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead of taking a Courage test. Simply choose a friendly Warrior within 2" of Ugluk and remove it as a casualty. Furthermore, in a turn that Ugluk does this, he will automatically pass his Courage test and his [Stand Fast!] has a range of 12" and affects both Warrior and Hero models.
 
@@ -174,7 +174,7 @@ Should Ugliik's force be broken, Ugluk can choose to kill a nearby model instead
 - [Armour]
 - Riding Dagger
 
-- **Riding Dagger (ACTIVE)**
+- **Riding Dagger** `ACTIVE`
 
 The curious blade Sharku carries into battle complements his gritty, vicious fighting style. Additionally, whenever an enemy Hero model in base contact resolves a Strike against Sharku and fails To Wound, immediately resolve one Strength 4 Strike against that model.
 
@@ -269,7 +269,7 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 **SPECIAL RULES**
 
 - [Mighty Blow]
-- **Lord of Dunland (ACTIVE)**
+- **Lord of Dunland** `ACTIVE`
 
 The range of Thrydan's [Stand Fast!] is 12".
 
@@ -480,17 +480,17 @@ The range of Thrydan's [Stand Fast!] is 12".
 **WARGEAR**
 
 - Berserker blade
-- **Berserker Blade (ACTIVE)**
+- **Berserker Blade** `ACTIVE`
 
 A Berserker blade is a *[hand-and-a-half]* [Sword] If an Uruk-hai Berserker wins a Duel roll while fighting with its Berserker blade as a two-handed weapon, it may either assign strikes as normal, or do one Strength 4 hit at +1 To Wound on every model Engaged in the fight or supporting the Berserker and in base contact (friend and foe).
 
 **SPECIAL RULES**
 
-- **Oblivious to Pain (PASSIVE)**
+- **Oblivious to Pain** `PASSIVE`
 
 Every time an Uruk-hai Berserker suffers a Wound, roll a D6. On the roll of a 6, the wound is ignored exactly as if a point of Fate had been spent. This is not cumulative with other special rules that confer the same effect.
 
-- **Impervious to Bow-fire (PASSIVE)**
+- **Impervious to Bow-fire** `PASSIVE`
 
 Uruk-hai Berserkers count their Defence characteristic as 6 when an enemy model makes a shooting attack against them.
 
@@ -513,7 +513,7 @@ Uruk-hai Berserkers count their Defence characteristic as 6 when an enemy model 
 
 **SPECIAL RULES**
 
-- **Oblivious to Pain (PASSIVE)**
+- **Oblivious to Pain** `PASSIVE`
 
 Every time a Feral Uruk-hai suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if a point of Fate had been spent. This is not cumulative with other special rules that confer the same effect.
 

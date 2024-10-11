@@ -459,34 +459,34 @@ This power targets the caster themselves. Whilst this power is in effect, the ca
 
 ### ACTIVE AND PASSIVE SPECIAL RULES
 
-All special rules can be classed as either ***PASSIVE*** or ***ACTIVE***
+All special rules can be classed as either *`PASSIVE`* or *`ACTIVE`*
 
 A Passive special rule is one that takes effect regardless of other factors. They require no particular thought or effort to enact. Passive special rules still take effect even if the model is under the influence of another ability that would render it unable to move, such as the Transfix Magical Power.
 
 An Active special rule is one that requires the user to physically act, think or move. These special rules are not usable if the model in question is under the effect of another ability that renders it unable to move or act, such as the Transfix Magical Power.
 
 #### Harbinger of Evil 
-**PASSIVE** 
+`PASSIVE` 
 
 Any enemy model within 12" of this model suffers a -1 penalty to its Courage.
 
 #### Resistant to Magic 
-**PASSIVE** 
+`PASSIVE` 
 
 If this model is targeted by a Magical Power, it may use an additional 'free' dice when it makes a Resist test, even if it has no Will remaining or decides not to use any Will points from its store.
 
 #### Shieldwall 
-**ACTIVE** 
+`ACTIVE` 
 
 If this model is armed with a shield, whilst in base contact with two or more non-Prone models with this special rule that are armed with a shield, this model gains a bonus of + 1 to its Defence. This bonus is only available whilst on foot.
 
 #### Terror 
-**PASSIVE** 
+`PASSIVE` 
 
 Should a model wish to Charge this model, it must first take a Courage test at the start of its move, before doing anything else. If the test is passed, the model may Charge as normal, though is not obliged to. If the test is failed, the model does not Charge and may not move at all this turn.
 
 #### Will of Evil 
-**PASSIVE** 
+`PASSIVE` 
 
 This model must give up 1 point of Will at the end of the Fight phase if it has been involved in one or more Fights that turn. Note that if a model is in base contact with an enemy model then it must fight - it cannot choose not to fight! Once the model is reduced to 0 Will points, it is banished and therefore removed as a casualty. A model with this special rule may not use their last point of Will to cast a Magical Power and cause themselves to be removed as a casualty.
 

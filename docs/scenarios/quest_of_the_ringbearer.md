@@ -42,7 +42,7 @@ If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately
 
 Whilst the Hobbits definitely are not Evil, the fact that they are stealing crops from Farmer Maggot means they will play the role of the Evil force in this Scenario.
 
-**Designer's Notes:** This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.
+**Designer's Notes:** *This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/farmer_maggots_crop.jpg)
 
@@ -346,7 +346,7 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 
 **Evil:** The Witch-king of Angmar on horse, and 8 Ringwraiths on horse, each with no additional Might, Will, or Fate.
 
-**Designer's Notes:** If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.
+**Designer's Notes:** *If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/flight_to_the_ford.jpg)
 
@@ -647,6 +647,7 @@ At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai
 **PARTICIPANTS**
 
 **Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn – Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
+
 All Good models have an Elven Cloak.
 
 **Evil:** Lurtz; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
@@ -684,6 +685,7 @@ Evil models may not target a Hobbit with shooting attacks. Additionally, any Hob
 **PARTICIPANTS**
 
 **Good:** Boromir of Gondor; Meriadoc Brandybuck; Peregrin Took.
+
 All Good models have an Elven Cloak.
 
 **Evil:** Uruk-hai Scout Captain with two-handed weapon; 18 Uruk-hai Scouts: 6 with shield, 6 with Uruk-hai bow, 6 with no additional wargear.
@@ -721,6 +723,7 @@ Once per game, Lurtz can choose to use his shield as a throwing weapon. This has
 **PARTICIPANTS**
 
 **Good:** Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+
 All Good models have an Elven Cloak.
 
 **Evil:** Lurtz with shield; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
@@ -952,15 +955,21 @@ To decide who goes first, both players roll-off, re-rolling any ties, with whoev
 
 On a player's turn, they may do one of three things:
 
-* **Attempt to Move:**  When a player attempts to move their character, they will try to move one card along the Path closer to Frodo. They play a card from their hand face-up. Then, making sure they don't see it themselves, they show their opponent the card they are trying to move to. 
+* **Attempt to Move:**  
+
+When a player attempts to move their character, they will try to move one card along the Path closer to Frodo. They play a card from their hand face-up. Then, making sure they don't see it themselves, they show their opponent the card they are trying to move to. 
 
 Their opponent must then say if the card played is higher or lower than the card they are trying to move to. If the card they played is equal to or higher than the card shown, they flip it face-up and move their character onto it; they then take another go. If the card they played is lower than the card shown, they place it back face-down without looking, do not move, and their turn immediately ends.
 
 It is important to be completely honest when playing this game, for the benefit of both players.
 
-* **Discard Hand:** If a player wishes, they can discard all of the cards in their hand and then draw a fresh hand of five cards from the playing deck. Their turn then ends.
+* **Discard Hand:** 
 
-* **Draw New Hand:** If a player has no cards in their hand, they may then draw a new hand of five cards. Their turn then ends.
+If a player wishes, they can discard all of the cards in their hand and then draw a fresh hand of five cards from the playing deck. Their turn then ends.
+
+* **Draw New Hand:** 
+
+If a player has no cards in their hand, they may then draw a new hand of five cards. Their turn then ends.
 
 **TIPS**
 
@@ -1146,9 +1155,11 @@ Frodo may not put on the Ring in this Scenario.
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try to slow Frodo down and corrupt him. To use one of these powers, the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, they may use the power:
 
-- **Exhaustion (3+)** — During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.
-- **Corruption (4+)** — The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game ends.
-- **Lure of the Ring (5+)** — The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
+**Exhaustion (3+)** — During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.
+
+**Corruption (4+)** — The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game ends.
+
+**Lure of the Ring (5+)** — The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
 
 * **Destroying the Ring**
 

@@ -42,15 +42,15 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 **SPECIAL RULES**
 
-- **Voice of Curunír (ACTIVE)**
+- **Voice of Curunír** `ACTIVE`
 
 Saruman the White's [Stand Fast!] has a range of 12" and, unlike other Hero model's [Stand Fast!] rolls, can affect other Hero models.
 
-- **Consuming Rivalry (PASSIVE)**
+- **Consuming Rivalry** `PASSIVE`
 
 Saruman the White will never move as part of a Heroic Action called by Gandalf the Grey, nor will he accept Gandalf the Grey's aid in the form of the Strengthen Will spell — if Gandalf the Grey casts this Magical Power on Saruman the White, it has no effect.
 
-- **Lord of the Istari (PASSIVE)**
+- **Lord of the Istari** `PASSIVE`
 
 Saruman the White can choose to re-roll one dice when making Casting or Resist tests.
 
@@ -77,11 +77,11 @@ Saruman the White can choose to re-roll one dice when making Casting or Resist t
 
 - The Light of Eärendil
 - Nenya
-- **Nenya (PASSIVE)**
+- **Nenya** `PASSIVE`
 
 Galadriel, Lady of Light can re-roll her dice when using Fate points.
 
-- **The Light of Eärendil (PASSIVE)**
+- **The Light of Eärendil** `PASSIVE`
 
 Shooting attacks that are directed against Galadriel, Lady of Light, or any model within 6" of her, will only hit on a To Hit roll of a 6.
 
@@ -94,11 +94,11 @@ Shooting attacks that are directed against Galadriel, Lady of Light, or any mode
 
 - [Terror]
 - [Woodland Creature]
-- **The Lady of Lothlórien (PASSIVE)**
+- **The Lady of Lothlórien** `PASSIVE`
 
 Galadriel, Lady of Light can expend a single point of Will each turn without depleting her own store.
 
-- **War Aspect (PASSIVE)**
+- **War Aspect** `PASSIVE`
 
 - All enemy models within 6" of Galadriel, Lady of Light suffer a -1 penalty to their Courage. Furthermore, Galadriel, Lady of Light never counts as being unarmed.
 
@@ -139,9 +139,9 @@ Galadriel, Lady of Light can expend a single point of Will each turn without dep
 
 - [Terror]
 - [Woodland Creature]
-- **Lord of the West (ACTIVE)** – see page 61.
+- **Lord of the West** `ACTIVE` – see page 61.
 
-- **Lord of Lórien (ACTIVE)**
+- **Lord of Lórien** `ACTIVE`
 
 Celeborn's [Stand Fast!] is 12", rather than 6".
 

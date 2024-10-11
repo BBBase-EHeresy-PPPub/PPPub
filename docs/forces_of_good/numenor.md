@@ -21,7 +21,7 @@ This army may include: Elendil, High King of Gondor and Arnor; Isildur; Captains
 
 - [Heavy armour]
 - Narsil
-- **Narsil (ACTIVE)**
+- **Narsil** `ACTIVE`
 
 Narsil is a *[Master-Forged]* *[hand-and-a-half]* [Sword]. Additionally, Elendil may call a [Heroic Combat] each turn without expending Might.
 
@@ -34,11 +34,11 @@ Narsil is a *[Master-Forged]* *[hand-and-a-half]* [Sword]. Additionally, Elendil
 
 **SPECIAL RULES**
 
-- **High King of Gondor and Arnor (ACTIVE)**
+- **High King of Gondor and Arnor** `ACTIVE`
 
 The range of Elendil's [Stand Fast!] is 12" rather than 6".
 
-- **Unbending Resolve (PASSIVE)**
+- **Unbending Resolve** `PASSIVE`
 
 Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon him. This is always in effect, even if his Will is reduced to 0.
 
@@ -81,7 +81,7 @@ As long as your force does not contain either Elendil or Andrion, then Isildur m
 
 **SPECIAL RULES**
 
-- **Blood of Numenor (PASSIVE)**
+- **Blood of Numenor** `PASSIVE`
 
 A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
 
@@ -117,7 +117,7 @@ A model with this special rule gains the [Resistant to Magic] special rule whils
 
 **SPECIAL RULES**
 
-- **Blood of Numenor (PASSIVE)**
+- **Blood of Numenor** `PASSIVE`
 
 A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
 
@@ -150,7 +150,7 @@ A model with this special rule gains the [Resistant to Magic] special rule whils
 
 **SPECIAL RULES**
 
-- **Blood of Numenor (PASSIVE)**
+- **Blood of Numenor** `PASSIVE`
 
 A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
 

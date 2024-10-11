@@ -149,7 +149,7 @@ A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models t
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 10" | 0 | 4 | 4 | 0 | 1 | 2 |
 
-- **Impaler (ACTIVE)**
+- **Impaler** `ACTIVE`
 
 Whenever a war camel charges into combat, it will inflict one Strength 4 hit upon one model it has charged (Cavalry models suffer the hits on both the mount and the rider). If after these hits the Raider is unengaged and has movement remaining, the Raider may complete its move in any way the controlling player wishes; stopping straight away, charging another target or anything in between.
 

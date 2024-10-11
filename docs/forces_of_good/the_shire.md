@@ -27,7 +27,7 @@ The profile for Gandalf the Grey can be found on [page 11]. Gandalf the Grey cou
 
 - Mithril Coat
 - [Unarmed]
-- **Mithril Coat (PASSIVE)**
+- **Mithril Coat** `PASSIVE`
 
 Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this has already been included in the profile above).
 
@@ -44,11 +44,11 @@ Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this has alre
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- **It will never really Heal (PASSIVE)**
+- **It will never really Heal** `PASSIVE`
 
 Frodo may never Charge enemy models. In a Fight, he will make no Strikes if his side wins the Fight.
 
-- **Home is the Hero (PASSIVE)**
+- **Home is the Hero** `PASSIVE`
 
 All Hobbit models within 6" of Frodo count as being in range of a [banner].
 
@@ -68,7 +68,7 @@ All Hobbit models within 6" of Frodo count as being in range of a [banner].
 **WARGEAR**
 
 - Sting
-- **Sting (ACTIVE)**
+- **Sting** `ACTIVE`
 
 Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a model adds +1 to its Strength when making Strikes.
 
@@ -105,7 +105,7 @@ Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a mode
 - [Armour]
 - [Sword]
 - Horn of the Riddermark
-- **Horn of the Riddermark (ACTIVE)**
+- **Horn of the Riddermark** `ACTIVE`
 
 Whilst carrying the Horn of the Riddermark, all Hobbit models gain +1 to their Courage value. If Merry is slain, the hom is lost.
 
@@ -160,7 +160,7 @@ Whilst carrying the Horn of the Riddermark, all Hobbit models gain +1 to their C
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **Against all Odds (ACTIVE)**
+- **Against all Odds** `ACTIVE`
 
 Pippin may re-roll any failed To Wound rolls when making Strikes against Monster or Hero models.
 
@@ -189,7 +189,7 @@ Pippin may re-roll any failed To Wound rolls when making Strikes against Monster
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **To me Shire-folk! (ACTIVE)**
+- **To me Shire-folk!** `ACTIVE`
 
 Paladin's [Stand Fast!] only affects Hobbit models, however, his [Stand Fast!] is 12" rather than 6".
 
@@ -215,7 +215,7 @@ Paladin's [Stand Fast!] only affects Hobbit models, however, his [Stand Fast!] i
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **Grip, Fang and Wolf (PASSIVE)**
+- **Grip, Fang and Wolf** `PASSIVE`
 
 Farmer Maggot is always accompanied by his three loyal guard dogs.
 
@@ -256,11 +256,11 @@ Grip, Fang and Wolf are automatically the first three members of Farmer Maggot's
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **Furious Tirade (ACTIVE)**
+- **Furious Tirade** `ACTIVE`
 
 No Warrior model, from either player's force, may benefit from a Hero model's [Stand Fast!] whilst within 6" of Lobelia.
 
-- **The Umbrella is not Mightier than the Sword (PASSIVE)**
+- **The Umbrella is not Mightier than the Sword** `PASSIVE`
 
 If Lobelia wins a combat, she will not make Strikes (in fact she will most likely give her opponent a good, but ultimately painless, battering with her umbrella).
 

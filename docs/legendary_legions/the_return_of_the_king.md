@@ -33,7 +33,7 @@
 
 ## ADDITIONAL RULES
 
-- This army must include both Aragorn – Strider and the King of the Dead. Aragorn is always the army’s leader.
+- This army must include both Aragorn – Strider and the King of the Dead. Aragorn is always the army's leader.
 - Aragorn, Legolas, and Gimli may all lead Warriors of the Dead and Riders of the Dead in this army list.
 
 ## SPECIAL RULES
@@ -44,5 +44,5 @@ Aragorn does not have to pay any points for Andúril, Flame of the West, he auto
 **The King of the Dead** – Having been tormented in an undead state for centuries, the King of the Dead can now unleash his fearsome might upon those that oppose him.  
 The King of the Dead gains the Harbinger of Evil special rule.
 
-**“Fight for Us and Regain your Honour”** – Only by fighting alongside the King of Gondor can the Dead finally find peace, something they will fight all the harder to possess.  
+**"Fight for Us and Regain your Honour"** – Only by fighting alongside the King of Gondor can the Dead finally find peace, something they will fight all the harder to possess.  
 Spirit models from this army list count as being in range of a banner if Aragorn is within 6".

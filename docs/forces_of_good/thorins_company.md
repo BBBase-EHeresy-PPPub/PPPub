@@ -38,11 +38,11 @@ A Thorin's Company warband is always a single warband made up entirely of Heroes
 - Orcrist: 10 points
 - [Pony]: 5 points
 - The Oakenshield: 5 points
-- **Orcrist (ACTIVE)**
+- **Orcrist** `ACTIVE`
 
 Orcrist is an *[Elven-made]* *[hand-and-a-half]* sword that has the Orcbane, Goblinbane, and Uruk-haibane special rules. Additionally, the bearer of Orcrist has the [Terror] (Goblin), [Terror] (Orc), and [Terror] (Uruk-hai) special rules.
 
-- **The Oakenshield (ACTIVE)**
+- **The Oakenshield** `ACTIVE`
 
 The Oakenshield is a [shield]. Additionally, should Thorin opt to use it for Shielding during a Fight and he wins, he may make a single Strike at his Strength (receiving no bonuses from any weapons.
 
@@ -76,7 +76,7 @@ The Oakenshield is a [shield]. Additionally, should Thorin opt to use it for Shi
 
 **SPECIAL RULES**
 
-- **Combat Synergy (ACTIVE)**
+- **Combat Synergy** `ACTIVE`
 
 If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to swap places with one another at the start of any phase — this does not count as moving.
 
@@ -110,7 +110,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 
 **SPECIAL RULES**
 
-- **Combat Synergy (ACTIVE)**
+- **Combat Synergy** `ACTIVE`
 
 If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to swap places with one another at the start of any phase — this does not count as moving.
 
@@ -132,7 +132,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 - [Armour]
 - Sword-mace
 
-- **Sword-mace (ACTIVE)**
+- **Sword-mace** `ACTIVE`
 
 This weapon may use the Feint or Bash Special Strikes.
 
@@ -147,7 +147,7 @@ This weapon may use the Feint or Bash Special Strikes.
 
 **SPECIAL RULES**
 
-- **Longbeard (ACTIVE)**
+- **Longbeard** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
 
@@ -207,7 +207,7 @@ Dwalin the Dwarf is never considered to be unarmed, and never suffers the usual 
 - [Dagger]
 - Boar spear
 
-- **Boar spear (ACTIVE)**
+- **Boar spear** `ACTIVE`
 
 A boar spear can be used as either a [spear] or a *[Two-handed]* [Axe].
 
@@ -222,7 +222,7 @@ A boar spear can be used as either a [spear] or a *[Two-handed]* [Axe].
 **SPECIAL RULES**
 
 - [Throw Stones] (range 8", Strength 1)
-- **Embedded Axe-blade (ACTIVE)**
+- **Embedded Axe-blade** `ACTIVE`
 
 If Bifur the Dwarf wins a fight, he may choose to headbutt his enemy with the axe-blade embedded in his skull. Instead of striking normally, he may make a single Strike against his opponent. If Bifur manages to successfully wound his opponent, then the axe has been removed from his skull. Once the axe-blade is removed, Bifur may call a Heroic Move each turn without reducing his own Might store.
 
@@ -243,7 +243,7 @@ If Bifur the Dwarf wins a fight, he may choose to headbutt his enemy with the ax
 
 - [Armour]
 - Mattock
-- **Mattock (ACTIVE)**
+- **Mattock** `ACTIVE`
 
 This is a *[Two-handed]* weapon, which can use either the [Bash][Hammer] or [Piercing Strike][Spear] Special Strikes.
 
@@ -257,7 +257,7 @@ This is a *[Two-handed]* weapon, which can use either the [Bash][Hammer] or [Pie
 
 **SPECIAL RULES**
 
-- **Steadfast (PASSIVE)**
+- **Steadfast** `PASSIVE`
 
 Whenever Bofur is targeted by a Magical Power or special rule, he may try to ignore its effects. Roll a D6; on the score of a 2+, its effects are ignored. This roll may be modified by Might. If you wish to try to Resist a Magical Power, you must do so before making Bofur's Steadfast roll.
 
@@ -288,15 +288,15 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 
 **SPECIAL RULES**
 
-- **Beefy (ACTIVE)**
+- **Beefy** `ACTIVE`
 
 Bombur the Dwarf may choose to use the Bash Special Strike, just as if he were using a [mace].
 
-- **Lumbering (PASSIVE)**
+- **Lumbering** `PASSIVE`
 
 When making Jump or Climb tests, Bombur the Dwarf must re-roll results of 6. Additionally, he may not call Heroic Moves.
 
-- **Raising Spirits (ACTIVE)**
+- **Raising Spirits** `ACTIVE`
 
 Once each turn, at any point in Bombur's Move phase, choose a friendly model in base contact with Bombur the Dwarf and roll a D6. On a 4+, the chosen model regains a point of Will spent earlier in the battle (or campaign).
 
@@ -329,11 +329,11 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 
 **SPECIAL RULES**
 
-- **Chronicler (ACTIVE)**
+- **Chronicler** `ACTIVE`
 
 Any time that a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori the Dwarf, that model immediately regains a point of Might, Will or Fate (your choice) that has previously been spent in that game (or campaign).
 
-- **Deadeye (ACTIVE)**
+- **Deadeye** `ACTIVE`
 
 If Ori scores a 6 when rolling To Hit, do not take any In The Way tests, and do not roll To Wound. His target automatically suffers a single Wound.
 
@@ -366,7 +366,7 @@ If Ori scores a 6 when rolling To Hit, do not take any In The Way tests, and do 
 
 **SPECIAL RULES**
 
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
@@ -399,7 +399,7 @@ Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penal
 
 **SPECIAL RULES**
 
-- **A Good Sort Really (PASSIVE)**
+- **A Good Sort Really** `PASSIVE`
 
 If Bilbo Baggins is within 3" of Dori the Dwarf, he may spend Dori's Might, Will, and Fate points as if they were his own.
 
@@ -430,11 +430,11 @@ If Bilbo Baggins is within 3" of Dori the Dwarf, he may spend Dori's Might, Will
 
 **SPECIAL RULES**
 
-- **Healing Herbs (ACTIVE)**
+- **Healing Herbs** `ACTIVE`
 
 In the Move phase, instead of moving, Óin the Dwarf may attempt to heal a friendly model with which he is in base contact. Roll a D6. On a 1-3, there is no effect. On a 4 or 5, the model regains a Wound lost previously in the game (or campaign). On a 6, the model regains all of its lost Wounds.
 
-- **Prognostication (ACTIVE)**
+- **Prognostication** `ACTIVE`
 
 Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendly model within 3" to re-roll a single dice when making a Duel roll.
 
@@ -468,7 +468,7 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 
 **SPECIAL RULES**
 
-- **A Warrior Born (ACTIVE)**
+- **A Warrior Born** `ACTIVE`
 
 Glóin the Dwarf must re-roll scores of 1 To Wound in combat.
 
@@ -491,11 +491,11 @@ Glóin the Dwarf must re-roll scores of 1 To Wound in combat.
 - [Staff of Power]*
 - Glamdring
 - Narya
-- **Glamdring (ACTIVE)**
+- **Glamdring** `ACTIVE`
 
 Glamdring is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
-- **Narya (PASSIVE)**
+- **Narya** `PASSIVE`
 
 Gandalf may re-roll his dice when making Fate rolls.
 
@@ -551,7 +551,7 @@ Gandalf may re-roll his dice when making Fate rolls.
 - Sting: 5 points
 - [The One Ring]: Free
 
-- **Sting (ACTIVE)**
+- **Sting** `ACTIVE`
 
 Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, Bilbo adds +1 to his Strength when making Strikes.
 
@@ -559,7 +559,7 @@ Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, Bilbo 
 
 - [Resistant to Magic]
 - [Thrown Stones] (range 8", Strength 1)
-- **It has not yet Awoken (PASSIVE)**
+- **It has not yet Awoken** `PASSIVE`
 
 Bilbo Baggins ignores the Sauron's Will section of the One Ring's rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
 

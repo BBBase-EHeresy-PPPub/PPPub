@@ -21,7 +21,7 @@ This army may include: Aragorn, King Elessar; Gandalf the White; Denethor, Stewa
 
 - [Heavy Armour]
 - Anduril, Flame of the West
-- **Anduril, Flame of the West (ACTIVE)**
+- **Anduril, Flame of the West** `ACTIVE`
 
 Anduril is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, when making Strikes with Anduril, Aragorn never requires more than a 4 for his To Wound rolls. Note that if Aragorn elects to use Anduril as a *[Two-handed]* weapon, he will still get the +1 bonus To Wound meaning that he will Wound on a 3+.
 
@@ -42,7 +42,7 @@ Anduril is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, when mak
 
 - [Horse Lord]
 - [Mighty Hero]*
-- **Stand Men of the West! (PASSIVE)**
+- **Stand Men of the West!** `PASSIVE`
 
 Friendly models within 6" of Aragorn, King Elessar count as being in range of a [banner].
 
@@ -64,11 +64,11 @@ Friendly models within 6" of Aragorn, King Elessar count as being in range of a 
 * [Staff of Power]*
 * Glamdring
 * Narya
-* **Glamdring (ACTIVE)**
+* **Glamdring** `ACTIVE`
 
 Glamdring is an *[Elven-made]* *[hand-and-a-half]* [Sword]. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
-* **Narya (PASSIVE)**
+* **Narya** `PASSIVE`
 
 Gandalf may re-roll his dice when making Fate rolls.
 
@@ -128,13 +128,13 @@ Shadowfax is a mount that uses the following profile.
 
 **SPECIAL RULES**
 
-- **Broken Mind (PASSIVE)**
+- **Broken Mind** `PASSIVE`
 
 At the start of every turn, before Priority is rolled, the controlling player must take a Courage test for Denethor. If the test is passed, all is fine. If the test is failed, Denethor is controlled by the opposing player until the End phase of that turn. Whilst under the control of the opposing player, friendly models cannot target Denethor with shooting attacks or Magical Powers that cause damage and may not make Strikes if they beat him in a fight.
 
 If Boromir is part of the same army as Denethor, then Denethor will automatically pass these Courage tests so long as Boromir is alive. Should Boromir be slain, then Denethor will automatically fail the next Courage test he must take for this special rule.
 
-- **"The rule of Gondor is mine, and no other's!" (PASSIVE)**
+- **"The rule of Gondor is mine, and no other's!"** `PASSIVE`
 
 If your force contains Denethor then he must be your leader, unless your force also contains Aragorn, King Elessar.
 
@@ -187,7 +187,7 @@ If your force contains Denethor then he must be your leader, unless your force a
 - [Heavy armour]
 - [Sword]
 - Horn of Gondor
-- **Horn of Gondor (ACTIVE)**
+- **Horn of Gondor** `ACTIVE`
 
 Boromir can blow the horn at the start of a Fight if he is outnumbered by two-to one or more. The enemy combatant in the Fight with the highest Courage value must take a Courage test. If the test if passed, the combat is fought as normal. If the test is failed, Boromir automatically wins the fight and can strike blows against his
 enemies.
@@ -204,7 +204,7 @@ enemies.
 - [Horse]: 10 points
 - [Lance]: 5 points
 - [Shield]: 5 points
-- **The Banner of Minas Tirith (PASSIVE)**
+- **The Banner of Minas Tirith** `PASSIVE`
 
 The Banner of Minas Tirith is a [banner] with a range of 6". Additionally, Boromir and all friendly Gondor Warrior models within 6" of it gain a +1 bonus to their Fight value. Note, this is cumulative with other bonuses to a model's Fight value. Boromir suffers no penalties for carrying the Banner of Minas Tirith. He may not carry the Banner of Minas Tirith if he is also carrying a lance.
 
@@ -244,7 +244,7 @@ The Banner of Minas Tirith is a [banner] with a range of 6". Additionally, Borom
 
 **SPECIAL RULES**
 
-- **"Is there a Captain here who still has the Courage to do his Lord's Will?" (PASSIVE)**
+- **"Is there a Captain here who still has the Courage to do his Lord's Will?"** `PASSIVE`
 
 If Denethor is part of the same army as Faramir, then Faramir will automatically pass all Courage tests he is forced to make whilst Denethor is alive and on the battlefield. However, whilst Denethor is on the battlefield, Faramir must always Charge an enemy model if he is able to do so.
 
@@ -306,7 +306,7 @@ If Denethor is part of the same army as Faramir, then Faramir will automatically
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Master of Ambush (PASSIVE)**
+- **Master of Ambush** `PASSIVE`
 
 In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcements rule), you may modify the Reinforcements roll for Madril's warband by +1 or -1. If Madril is already on the board, then all warbands from this army list may also modify their Reinforcements roll by +1 or -1. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1.
 
@@ -363,7 +363,7 @@ In Scenarios where you roll for additional forces to arrive (such as those that 
 
 **SPECIAL RULES**
 
-- **Boldest of the Bold (ACTIVE)**
+- **Boldest of the Bold** `ACTIVE`
 
 When charging an enemy that causes Terror, Cirion receives a +2 bonus to his Courage value. Additionally, Cirion receives a bonus of +2 to his Courage when models with the Blades of the Dead special rule make Strikes against him.*
 
@@ -385,7 +385,7 @@ When charging an enemy that causes Terror, Cirion receives a +2 bonus to his Cou
 - [Heavy armour]
 - [Dagger]
 - White Sword of Gondor
-- **White Sword of Gondor (ACTIVE)**
+- **White Sword of Gondor** `ACTIVE`
 
 A White Sword of Gondor is a *[Two-handed]* [sword]. Additionally, Strikes made with this weapon have the [Mighty Blow] special rule.
 
@@ -395,7 +395,7 @@ A White Sword of Gondor is a *[Two-handed]* [sword]. Additionally, Strikes made 
 
 **SPECIAL RULES**
 
-- **The Bladelord's Skill (ACTIVE)**
+- **The Bladelord's Skill** `ACTIVE`
 
 If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he does not apply the penalty for using a *[Two-handed]* weapon.
 
@@ -628,7 +628,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 
 **SPECIAL RULES**
 
-- **Loyal to the Captains (PASSIVE)**
+- **Loyal to the Captains** `PASSIVE`
 
 If this model is within 6" of either Boromir or Faramir, then this model will receive a +1 bonus to its Fight value. This is cumulative with other Fight value bonuses.
 

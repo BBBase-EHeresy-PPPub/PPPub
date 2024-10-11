@@ -2,7 +2,7 @@ A Legendary Legion is a different way of selecting your army for a battle. Each 
 
 **HOW DO THEY WORK?**
 
-A Legendary Legion is a standalone army list that is separate from all of the others presented elsewhere. It will list all of the profiles that can be used when fielding it, as well as any wargear that can be taken by the units and Heroes included. This may mean that a profile that could normally take a certain piece of wargear may not be able to take that piece of wargear in a Legendary Legion if it does not fit the specific theme of the list. Alternatively, some profiles may come with certain wargear already built into their points cost, ensuring that the relevant wargear is always taken. When this is the case, the wargear will be stated in the profile’s entry and its points value will have been adjusted accordingly.
+A Legendary Legion is a standalone army list that is separate from all of the others presented elsewhere. It will list all of the profiles that can be used when fielding it, as well as any wargear that can be taken by the units and Heroes included. This may mean that a profile that could normally take a certain piece of wargear may not be able to take that piece of wargear in a Legendary Legion if it does not fit the specific theme of the list. Alternatively, some profiles may come with certain wargear already built into their points cost, ensuring that the relevant wargear is always taken. When this is the case, the wargear will be stated in the profile's entry and its points value will have been adjusted accordingly.
 
 A Legendary Legion will often be made up of profiles that would normally not be in the same army list. This is intentional as it allows players to create a force that is thematic and fits the specific snapshot or moment from the books or movies that the Legendary Legion represents. 
 
@@ -18,9 +18,9 @@ As Legendary Legions are meant to represent a specific point in time, there are 
 
 Legendary Legions focus on key moments from the books and movies, and as such they will already contain all of the relevant profiles that can be used within the army list. Because of this, they cannot ally with any other army lists under any circumstances.
 
-**2) THEY DON’T HAVE AN ARMY BONUS**
+**2) THEY DON'T HAVE AN ARMY BONUS**
 
-Whilst other army lists have an Army Bonus to reward players for taking a pure force, Legendary Legions go one step further. Whilst they don’t have an Army Bonus as such (mainly because they must always be pure forces by their very nature), they will have a series of additional special rules instead, all of which are listed on the relevant Legendary Legion’s page. 
+Whilst other army lists have an Army Bonus to reward players for taking a pure force, Legendary Legions go one step further. Whilst they don't have an Army Bonus as such (mainly because they must always be pure forces by their very nature), they will have a series of additional special rules instead, all of which are listed on the relevant Legendary Legion's page. 
 
 **3) HERO MODELS CAN LEAD WARRIOR MODELS THEY COULD NOT NORMALLY LEAD**
 

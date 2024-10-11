@@ -24,7 +24,7 @@ This army may include: Thrór; Thráin; Young Thorin Oakenshield; Young Balin th
 - [Sword]
 - [Shield]
 - Arkenstone
-- **Arkenstone (PASSIVE)**
+- **Arkenstone** `PASSIVE`
 
 The bearer of the Arkenstone passes Fate rolls on a 3+. In addition, when taking a Fate roll, if the roll is a 4 or better, there is no need to expend the Fate point at all; it is free.
 
@@ -40,7 +40,7 @@ If your army includes Thrór, you may upgrade any number of Grim Hammers in his 
 
 If your army does not include Durin, King of Khazad-dûm, then Thrór carries the Ring of Durin.
 
-- **The Ring of Durin (PASSIVE)**
+- **The Ring of Durin** `PASSIVE`
 
 Once per game, the bearer of the Ring of Durin may re-roll a single Priority roll.
 
@@ -72,17 +72,17 @@ Once per game, the bearer of the Ring of Durin may re-roll a single Priority rol
 
 If your army does not include Durin, King of Khazad-dûm, or Thrór, then Thráin carries the Ring of Durin.
 
-- **The Ring of Durin (PASSIVE)**
+- **The Ring of Durin** `PASSIVE`
 
 Once per game, the bearer of the Ring of Durin may re-roll a single Priority roll.
 
 **SPECIAL RULES**
 
-- **Durin's Heir (PASSIVE)**
+- **Durin's Heir** `PASSIVE`
 
 Thráin's [Stand Fast!] is unusual. In addition to all of the normal rules for Stand Fast!, when Thráin passes a [Stand Fast!] roll, every friendly Dwarf model on the battlefield is automatically affected, including other Dwarf Hero models.
 
-- **Blood Feud (ACTIVE)**
+- **Blood Feud** `ACTIVE`
 
 Thráin re-rolls all failed To Wound rolls when making Strikes against Azog, and any model in the same army as Azog.
 
@@ -115,13 +115,13 @@ Thráin re-rolls all failed To Wound rolls when making Strikes against Azog, and
 **OPTIONS**
 
 - The Oakenshield: 5 points
-- **The Oakenshield (ACTIVE)**
+- **The Oakenshield** `ACTIVE`
 
 The Oakenshield is a shield. Additionally, should Thorin opt to use it for Shielding during a Fight and he wins, he may make a single Strike at his Strength (receiving no bonuses from any weapons).
 
 **SPECIAL RULES**
 
-- **To Arms! (ACTIVE)**
+- **To Arms!** `ACTIVE`
 
 Once per game, when moving Young Thorin Oakenshield, the controlling player may declare "To Arms!". At the start of the following Fight phase, all friendly Erebor Dwarf models within 3" increase their Strength by 1 for that phase.
 
@@ -143,7 +143,7 @@ Once per game, when moving Young Thorin Oakenshield, the controlling player may 
 
 - [Dwarf armour]
 - Sword-mace
-- **Sword-mace (ACTIVE)**
+- **Sword-mace** `ACTIVE`
 
 This weapon may use the [Feint][Sword] or [Bash][Mace] Special Strikes.
 
@@ -153,7 +153,7 @@ This weapon may use the [Feint][Sword] or [Bash][Mace] Special Strikes.
 
 **SPECIAL RULES**
 
-- **The Young Sage (ACTIVE)**
+- **The Young Sage** `ACTIVE`
 
 In the Priority phase, Young Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
 
@@ -184,11 +184,11 @@ In the Priority phase, Young Balin may spend a Will point to enable his side to 
 **SPECIAL RULES**
 
 - [Fearless]
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Young Dwalin the Dwarf is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
-- **Dwarven Fury (ACTIVE)**
+- **Dwarven Fury** `ACTIVE`
 
 Before making a Duel roll, Young Dwalin the Dwarf may choose to reduce his Fight value by D3. If he does this, Young Dwalin the Dwarf may re-roll all failed To Wound rolls in the following fight.
 
@@ -240,7 +240,7 @@ Wherever Dwalin travelled, his older brother, Balin, was sure to be found. Wise,
 - [Heavy Dwarf armour]
 - Pick-hammer
 - [Throwing axes][Throwing weapon]
-- **Pick-hammer (ACTIVE)**
+- **Pick-hammer** `ACTIVE`
 
 These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] or [Piercing Strike][Pick] Special Strikes.
 
@@ -296,7 +296,7 @@ These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] o
 - [Heavy Dwarf armour]
 - Pick-hammer
 - [Throwing axes][Throwing weapon]
-- **Pick-hammer (ACTIVE)**
+- **Pick-hammer** `ACTIVE`
 
 These are *[hand-and-a-half]* weapons, which may use either the [Bash][Hammer] or [Piercing Strike][Pick] Special Strikes.
 

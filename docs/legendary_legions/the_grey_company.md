@@ -35,8 +35,8 @@
 
 ## ADDITIONAL RULES
 
-- A Grey Company force must always include Aragorn – Strider, who is always the army’s leader.
-- A Grey Company army is always deployed as a single warband, regardless of the number of models, with Aragorn as the warband’s captain.
+- A Grey Company force must always include Aragorn – Strider, who is always the army's leader.
+- A Grey Company army is always deployed as a single warband, regardless of the number of models, with Aragorn as the warband's captain.
 
 ## SPECIAL RULES
 

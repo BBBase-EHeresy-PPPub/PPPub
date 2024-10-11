@@ -71,11 +71,11 @@
 
 - All models in this force must have the Infantry keyword. No Cavalry models are available.
 - Only Gondor Hero models may lead Gondor Warrior models. Only Rohan Hero models may lead Rohan Warrior models.
-- A Men of the West force must always include Aragorn, King Elessar, who is always the army’s leader.
+- A Men of the West force must always include Aragorn, King Elessar, who is always the army's leader.
 
 ## SPECIAL RULES
 
-**“This Day We Fight!”** – Whilst Aragorn, King Elessar, is alive and on the battlefield, all models from this army list automatically pass all Courage tests that they are required to make.
+**"This Day We Fight!"** – Whilst Aragorn, King Elessar, is alive and on the battlefield, all models from this army list automatically pass all Courage tests that they are required to make.
 
-**“For Frodo!”** – Once per game, at the start of any Fight phase, so long as he is alive and on the battlefield, Aragorn can declare he is using this ability. Friendly models within 12" increase their Fight value by 1 until the end of the turn.
+**"For Frodo!"** – Once per game, at the start of any Fight phase, so long as he is alive and on the battlefield, Aragorn can declare he is using this ability. Friendly models within 12" increase their Fight value by 1 until the end of the turn.
 

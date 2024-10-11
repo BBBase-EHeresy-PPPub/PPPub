@@ -524,7 +524,7 @@ Galadhrim Warrior with spear & shield – Guard of the Galadhrim Court
 
 ### RIVENDELL
 
-Located in the hidden valley in the western foothills of The Misty Mountains, Rivendell endures under the protection of Elrond and the Elven ring that he possesses. The power of Vilya has kept Rivendell safe, and made it a place of peace and refuge to all of the Free Peoples of Middle-earth, earning it the name ‘The Last Homely House'.
+Located in the hidden valley in the western foothills of The Misty Mountains, Rivendell endures under the protection of Elrond and the Elven ring that he possesses. The power of Vilya has kept Rivendell safe, and made it a place of peace and refuge to all of the Free Peoples of Middle-earth, earning it the name 'The Last Homely House'.
 
 However, even places such as Rivendell need protection from the ever-growing Evil in the Third Age. Under Lord Elrond's orders, Elven captains patrol Rivendell's borders, making sure that they are kept free from foul creatures that would bring destruction upon them. Although rare, it has been known for the Elven patrols from Rivendell to venture further beyond their borders, offering aid to those in need against the forces of Sauron.  
 
@@ -560,7 +560,7 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 Deep within Mirkwood can be found the halls of the Elvenking, Thranduil. This woodland realm is kept hidden within the forest, away from prying eyes and Evil thoughts. Thranduil cares little for the world beyond his realm and will not waste precious lives in keeping it safe. Yet as the years have gone by, even the Elvenking has come to
 acknowledge the growing threat that is beginning to rise in the old fortress of Dol Guldur.
 
-More and more frequently, the Elvenking has commanded patrols to go out into Mirkwood and clear out the Evil creatures that lurk in the gloom. For the spiders that once resided solely in Dol Guldur have become more brazen and vicious, creeping further and further north, towards the halls of Thranduil. Those in charge of the Elvenking's patrols are tasked with clearing out these spider nests and protecting Mirkwood from all manner of unwelcome ‘guests'.
+More and more frequently, the Elvenking has commanded patrols to go out into Mirkwood and clear out the Evil creatures that lurk in the gloom. For the spiders that once resided solely in Dol Guldur have become more brazen and vicious, creeping further and further north, towards the halls of Thranduil. Those in charge of the Elvenking's patrols are tasked with clearing out these spider nests and protecting Mirkwood from all manner of unwelcome 'guests'.
 
 **STARTING BATTLECOMPANY**
 

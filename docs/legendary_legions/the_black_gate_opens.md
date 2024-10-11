@@ -41,7 +41,7 @@
 
 ## ADDITIONAL RULES
 
-- A Black Gate Opens force must include a Mordor Troll Chieftain. This Mordor Troll Chieftain is counted as being a Hero of Valour and must be the force’s leader. Additional Mordor Troll Chieftains remain as normal.
+- A Black Gate Opens force must include a Mordor Troll Chieftain. This Mordor Troll Chieftain is counted as being a Hero of Valour and must be the force's leader. Additional Mordor Troll Chieftains remain as normal.
 
 ## SPECIAL RULES
 

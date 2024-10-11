@@ -24,19 +24,19 @@ This army may include: Durin, King of Khazad-dum; Mardin; Balin the Dwarf, King 
 - The Ring of Durin
 - The Crown of Kings
 - The Horn of Zirakzigil
-- **Durin's Axe (ACTIVE)**
+- **Durin's Axe** `ACTIVE`
 
 This is a *[Master-forged]* *[Two-handed]* [Axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
 
-- **The Ring of Durin (PASSIVE)**
+- **The Ring of Durin** `PASSIVE`
 
 Once per game, the bearer of the Ring of Durin may re-roll a single Priority roll.
 
-- **The Crown of Kings (PASSIVE)**
+- **The Crown of Kings** `PASSIVE`
 
 If Durin suffers a wound, roll a D6. On a 6, the Wound is ignored, exactly as if a point of Fate had been spent.
 
-- **The Horn of Zirakzigil (ACTIVE)**
+- **The Horn of Zirakzigil** `ACTIVE`
 
 This is a [War horn]. Additionally, it also gives Durin the [Terror] special rule.
 
@@ -73,7 +73,7 @@ rule.
 - [Dwarf armour]
 - Torozul
 
-- **Torozul (ACTIVE)**
+- **Torozul** `ACTIVE`
 
 This is a Foe [Spear] with the [Trollbane] special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
 
@@ -105,11 +105,11 @@ This is a Foe [Spear] with the [Trollbane] special rule. Additionally, Mardin ad
 
 **SPECIAL RULES**
 
-- **Loremaster (ACTIVE)**
+- **Loremaster** `ACTIVE`
 
 At the start of his move, Floi can spend a point of Will to negate an enemy Active or Passive special rule, or the effects of a piece of wargear (with the exception of The One Ring), until the end of the turn. There is no range for this ability, but Floi must have Line of Sight in order to use it.
 
-- **The Living Lore (PASSIVE)**
+- **The Living Lore** `PASSIVE`
 
 Each time a friendly Moria Dwarf model slays an enemy Hero or Monster model, Floi immediately recovers a point of Will spent earlier in the battle.
 
@@ -136,7 +136,7 @@ Also, if your army includes Balin, then every alliance will be Impossible Allies
 
 - [Heavy Dwarf Armour]
 - Durin's axe
-- **Durin's Axe (ACTIVE)**
+- **Durin's Axe** `ACTIVE`
 
 This is a *[Master-forged]* *[Two-handed]* [Axe]. Additionally, the wielder may re-roll a single dice when making Duel rolls.
 
@@ -149,7 +149,7 @@ This is a *[Master-forged]* *[Two-handed]* [Axe]. Additionally, the wielder may 
 
 **SPECIAL RULES**
 
-- **Longbeard (ACTIVE)**
+- **Longbeard** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
 
@@ -238,7 +238,7 @@ The King's Champion will always be the warband leader, and a Herald counts as an
 
 **SPECIAL RULES**
 
-- **The Herald's Duty (ACTIVE)**
+- **The Herald's Duty** `ACTIVE`
 
 When two Heralds, or the King's Champion and a Herald, are in base contact, they receive a +1 bonus to their Defence. If both Heralds and the King's Champion are in base contact with each other, they all receive a +2 bonus to their Defence.
 
@@ -259,11 +259,11 @@ When two Heralds, or the King's Champion and a Herald, are in base contact, they
 
 **SPECIAL RULES**
 
-- **The Herald's Duty (ACTIVE)**
+- **The Herald's Duty** `ACTIVE`
 
 When two Heralds, or the King's Champion and a Herald, are in base contact, they receive a +1 bonus to their Defence. If both Heralds and the King's Champion are in base contact with each other, they all receive a +2 bonus to their Defence.
 
-- **The Life Guard (ACTIVE)**
+- **The Life Guard** `ACTIVE`
 
 If the King's Champion is wounded, either Herald may expend their own Fate points on the Champion's behalf as long as they are in base contact. Note that they cannot suffer Wounds on the Champion's behalf - they may only use their Fate points.
 
@@ -288,11 +288,11 @@ If the King's Champion is wounded, either Herald may expend their own Fate point
 
 **SPECIAL RULES**
 
-- **In Defence of the King (ACTIVE)**
+- **In Defence of the King** `ACTIVE`
 
 At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier for the Shieldbearer to protect. If the nominated Hero model is Engaged in a Fight within 3" of the Shieldbearer, then the Shieldbearer may call a Heroic Combat without using Might. If the Heroic Combat is successful, then they must use the following move to join their nominated Hero model's combat, if this is not possible then the Shieldbearer must move as close as possible to that Hero model. If you have more than one Shieldbearer, they may both protect different Hero models - just remember to make it clear to your opponent which Shieldbearer is protecting which Hero model!
 
-- **Lead by Example (PASSIVE)**
+- **Lead by Example** `PASSIVE`
 
 Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage tests.
 
@@ -414,13 +414,13 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 - [Heavy Dwarf armour]
 - [Axe]
 - Iron Shield
-- **Iron Shield (PASSIVE)**
+- **Iron Shield** `PASSIVE`
 
 A model armed with an Iron Shield cannot be barged or Hurled and is unaffected by the Rend Brutal Power Attack.
 
 **SPECIAL RULES**
 
-- **Spear & Shield (PASSIVE)**
+- **Spear & Shield** `PASSIVE`
 
 Unless supported by a model with a foe spear, a model with an Iron Shield applies a -1 penalty to their Duel rolls, even when Shielding.
 
@@ -436,7 +436,7 @@ Unless supported by a model with a foe spear, a model with an Iron Shield applie
 
 - [Dwarf armour]
 - Foe spear
-- **Foe Spear (ACTIVE)**
+- **Foe Spear** `ACTIVE`
 
 This is a spear that when supporting a model with an Iron Shield receives a bonus of + 1 when rolling To Wound Monsters.
 

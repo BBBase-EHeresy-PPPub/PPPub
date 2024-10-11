@@ -15,11 +15,11 @@
 
 **SPECIAL RULES**
 
-* **The Palantír (ACTIVE)** 
+* **The Palantír** `ACTIVE` 
 
 Once per game Saruman can use the Palantír to automatically win a Priority roll. The use of this special rule must be declared before any dice are rolled for Priority.
 
-* **Lord of the Istari (PASSIVE)** 
+* **Lord of the Istari** `PASSIVE` 
 
 Saruman can choose to re-roll one dice when making Casting or Resist tests.
 
@@ -51,7 +51,7 @@ Saruman can choose to re-roll one dice when making Casting or Resist tests.
 
 **SPECIAL RULES**
 
-* **Wormtongue (PASSIVE)** - 
+* **Wormtongue** `PASSIVE` - 
 
 If an enemy **Hero** model is within 6" of Gríma, 2 Might points must be expended instead of 1 when using a Might point.
 

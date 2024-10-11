@@ -57,7 +57,7 @@
 
 ## ADDITIONAL RULES
 
-- A Host of the Witch-king force must always include The Witch-king of Angmar, who is always the army’s leader.
+- A Host of the Witch-king force must always include The Witch-king of Angmar, who is always the army's leader.
 - The Witch-king of Angmar counts as a Hero of Legend in this Legendary Legion.
 
 ## SPECIAL RULES
@@ -66,6 +66,6 @@
 
 **Dark Sorceries** – Friendly Ringwraith models may re-roll a single D6 when making a Casting or Resist test.
 
-**Lord of the Nazgûl** – The Witch-king increases his Attacks characteristic to 3. Additionally, the Witch-king only loses a point of Will for having been in a Fight if he loses a Fight during the Fight phase (for example, if he doesn’t win the Duel roll to see which side may make Strikes).
+**Lord of the Nazgûl** – The Witch-king increases his Attacks characteristic to 3. Additionally, the Witch-king only loses a point of Will for having been in a Fight if he loses a Fight during the Fight phase (for example, if he doesn't win the Duel roll to see which side may make Strikes).
 
-**“No Man can kill me!”** – The Witch-king gains a bonus of +1 to his Fight value when Engaged with an enemy Man model.
+**"No Man can kill me!"** – The Witch-king gains a bonus of +1 to his Fight value when Engaged with an enemy Man model.

@@ -31,7 +31,7 @@ This army may include: Treebeard and Ents.
 
 - Merry & Pippin: 10 points
 
-- **Merry & Pippin (PASSIVE)**
+- **Merry & Pippin** `PASSIVE`
 
 If this option is taken, both Merry & Pippin will ride into battle upon Treebeard. They will use their profiles from the Fellowship army list (see page 10), but will count as being from the Fangorn army list for all intents and purposes. Although this will not give Treebeard the Cavalry keyword, Merry & Pippin count as Passengers upon Treebeard with the exception that enemy shooting or attacks may not target them. Whilst upon Treebeard, Merry & Pippin may still use their [Throw Stones] special rule, using their own Strength and range, even if Treebeard has moved this turn, without suffering the -1 penalty for moving and shooting. Should they dismount, Merry & Pippin may re-mount Treebeard by moving into base contact with him.
 

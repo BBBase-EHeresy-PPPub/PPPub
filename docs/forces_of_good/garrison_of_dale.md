@@ -34,11 +34,11 @@ This army may include: Girion, Lord of Dale; Captains of Dale; Warriors of Dale.
 
 **SPECIAL RULES**
 
-- **Windlance Trained (ACTIVE)**
+- **Windlance Trained** `ACTIVE`
 
 Girion, Lord of Dale's, Windlance follows all the rules for Bard the Bowman's Windlance – see page 49.
 
-- **Rapid Fire (ACTIVE)**
+- **Rapid Fire** `ACTIVE`
 
 If Girion, Lord of Dale hits a target with his great bow, he may take another shot at a target within 3" of it – it may even be the same target. If that shot is also a hit, he may shoot again – to a maximum of three shots in total.
 

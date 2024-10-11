@@ -22,7 +22,7 @@ This army may include: Gil-galad, High King of the Elves; Elrond, Master of Rive
 
 - [Heavy armour]
 - Aiglos
-- **Aiglos (ACTIVE)**
+- **Aiglos** `ACTIVE`
 
 Aiglos is an *[Elven-made]* [spear]. Additionally, Gil-galad may add +1 to all of his rolls To Wound when making Strikes with Aiglos.
 
@@ -46,11 +46,11 @@ If your army includes Gil-galad, High King of the Elves, then you may upgrade an
 - [Blood and Glory]
 - [Terror]
 - [Woodland Creature]
-- **High King of the Elves (PASSIVE)**
+- **High King of the Elves** `PASSIVE`
 
 Gil-galad's [Stand Fast!] is 12" rather than 6". Additionally, friendly Elf Hero models may use Gil-galad's Stand Fast!
 
-- **Lord of the West (ACTIVE)**
+- **Lord of the West** `ACTIVE`
 
 A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
@@ -72,11 +72,11 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 - Hadhafang
 - Vilya
-- **Hadhafang (ACTIVE)**
+- **Hadhafang** `ACTIVE`
 
 This is an *[Elven-made]* *[hand-and-a-half]* [sword]. Additionally, Elrond gets a bonus of + 1 To Wound Spirit models when making strikes with Hadhafang.
 
-- **Vilya (ACTIVE)**
+- **Vilya** `ACTIVE`
 
 Elrond, Master of Rivendell may re-roll his dice when using Fate points.
 
@@ -96,11 +96,11 @@ Elrond, Master of Rivendell may re-roll his dice when using Fate points.
 
 - [Terror]
 - [Woodland Creature]
-- **Foresight of the Eldar (PASSIVE)**
+- **Foresight of the Eldar** `PASSIVE`
 
 Before the game begins, roll a D6 and make a note of the result - these are Elrond's Foresight points for the battle. During the Priority phase, after the dice has been rolled, Elrond may chose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Elrond may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.
 
-- **Lord of the West (ACTIVE)**
+- **Lord of the West** `ACTIVE`
 
 A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
@@ -140,11 +140,11 @@ A model with this special rule may re-roll a single D6 when making a Duel roll. 
 
 - Armour of Gondolin: 15 points
 - Asfaloth: 10 points
-- **Armour of Gondolin (PASSIVE)**
+- **Armour of Gondolin** `PASSIVE`
 
 This is heavy armour. Additionally, whilst wearing the armour of Gondolin, Monster models may not target Glorfindel with Brutal Power Attacks.
 
-- **Asfaloth (PASSIVE)**
+- **Asfaloth** `PASSIVE`
 
 Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the [Fleetfoot] special rule.
 
@@ -154,11 +154,11 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 - [Horse Lord]
 - [Terror]
 - [Woodland Creature]
-- **Lord of the West (ACTIVE)**
+- **Lord of the West** `ACTIVE`
 
 A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
-- **Unbending Resolve (PASSIVE)**
+- **Unbending Resolve** `PASSIVE`
 
 Glorfindel always counts as having had the [Fortify Spirit] Magical Power cast upon him. This is always in effect, even if his Will is reduced to 0.
 
@@ -180,7 +180,7 @@ Glorfindel always counts as having had the [Fortify Spirit] Magical Power cast u
 
 - [Heavy armour]
 - Noldorin daggers
-- **Noldorin Daggers (ACTIVE)**
+- **Noldorin Daggers** `ACTIVE`
 
 These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing weapon]. Erestor may re-roll failed To Wound rolls when throwing his daggers or when making Strikes with them.
 
@@ -222,7 +222,7 @@ These are *[Elven-made]* [daggers][Dagger]. Erestor may use these as [Throwing w
 - Asfaloth: 10 points
 - [Horse]: 10 points
 - [Elven Cloak]: 5 points
-- **Asfaloth (PASSIVE)**
+- **Asfaloth** `PASSIVE`
 
 Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, whilst riding Asfaloth, the rider gains the [Fleetfoot] special rule.
 
@@ -270,12 +270,12 @@ Asfaloth is a [horse] with a Move value of 12" rather than 10". Additionally, wh
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Twin Elven Blades (ACTIVE)**
+- **Twin Elven Blades** `ACTIVE`
 
 Whilst fighting on foot, Elladan & Elrohir may choose to fight in one of three ways. They may either fight using a single [Sword]
 - fight as if it were a *[Two-handed]* [sword], they may elect to fight with both swords for +1 Attack, or they may elect to parry, which counts as shielding.
 
-- **Unbreakable bond (ACTIVE)**
+- **Unbreakable bond** `ACTIVE`
 
 Should one brother be killed, the surviving brother will immediately increase their Strength by 1 and decrease their Defence by 1. The surviving brother will automatically pass all Courage tests they are forced to make and must do everything they can to Charge the model that killed their brother as quickly as possible. Once that model is killed, the surviving brother must move as fast as possible towards the closest enemy model for the remainder of the game, charging if able. Additionally, if the model that killed the brother is a Hero model, the first time the surviving brother is in combat with his brother's killer, he must declare a [Heroic Challenge], targeting that Hero, without spending Might. This may be done even if the Hero is of a lower Heroic Tier than the surviving brother.
 
@@ -305,11 +305,11 @@ Should one brother be killed, the surviving brother will immediately increase th
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Song to Elbereth (ACTIVE)**
+- **Song to Elbereth** `ACTIVE`
 
 All friendly Rivendell models within 6" of Lindir gain the [Resistant to Magic] special rule.
 
-- **Wise Council (PASSIVE)**
+- **Wise Council** `PASSIVE`
 
 If Lindir is within 6" of Elrond, then Elrond may expend a single point of Will each turn without reducing his own store, even if he has none remaining.
 
@@ -341,7 +341,7 @@ If Lindir is within 6" of Elrond, then Elrond may expend a single point of Will 
 - [Resistant to Magic]
 - [Terror]
 - [Woodland Creature]
-- ***The Shipwright's Power (PASSIVE)**
+- ***The Shipwright's Power** `PASSIVE`
 
 Cirdan may spend a single point of Will each turn without reducing his own store of Will.
 
@@ -457,7 +457,7 @@ If your army includes Gildor Inglorion, you may include Wood Elf Warriors from t
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Powers of Nature (ACTIVE)**
+- **Powers of Nature** `ACTIVE`
 
 If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or more dice, then the Will points spent in casting the Magical Power are returned to the Stormcaller's store of Will upon completion of the effects of the Magical Power.
 

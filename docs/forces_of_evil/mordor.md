@@ -52,7 +52,7 @@ The profiles for Orc Warriors, Orc Trackers, Warg Riders, Black Numenoreans, Mor
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Essence Leech (ACTIVE)**
+- **Essence Leech** `ACTIVE`
 
 If Khamul makes a Strike against an enemy model which causes a Wound, he instantly regains a single point of Will spent earlier in the battle for each Wound caused (unless the Wound is saved by a point of Fate or a similar special rule). This cannot restore his Will beyond 12.
 
@@ -103,7 +103,7 @@ Additionally, Khamul may expend a single point of Will at the start of the Fight
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Rule Through Fear (PASSIVE)**
+- **Rule Through Fear** `PASSIVE`
 
 At the start of the Fight phase, before Heroic Actions are declared, The Dark Marshal may elect to spend a point of Will. If he does this, all friendly Warrior models within 6" of The Dark Marshal count as being in range of a banner until the End phase of the turn.
 
@@ -200,11 +200,11 @@ At the start of the Move phase, before Heroic Actions are declared, The Shadow L
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Arcana Leech (PASSIVE)**
+- **Arcana Leech** `PASSIVE`
 
 At the start of the Move phase, before Heroic Actions are declared, The Undying may spend a Will point to activate this ability. Until the End phase of that turn, The Undying regains one Will point for each Magical Power successfully cast by another model within 6".
 
-- **Eternal Willpower (PASSIVE)**
+- **Eternal Willpower** `PASSIVE`
 
 The Undying may expend Will points in the same manner as Fate points.
 
@@ -236,7 +236,7 @@ The Undying may expend Will points in the same manner as Fate points.
 
 - Armour of the Sundered Land
 - [Sword]
-- **Armour of the Sundered Land (PASSIVE)**
+- **Armour of the Sundered Land** `PASSIVE`
 
 The Knight of Umbar only loses a point of Will for having been in a Fight if he loses a Fight during the Fight phase (for example, if he doesn't win the Duel roll to see which side may make Strikes).
 
@@ -256,7 +256,7 @@ The Knight of Umbar only loses a point of Will for having been in a Fight if he 
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Combat Mimicry (ACTIVE)**
+- **Combat Mimicry** `ACTIVE`
 
 At the start of any Fight phase, before Heroic Actions are declared, The Knight of Umbar may spend a Will point to activate this ability. The Knight of Umbar can elect to use the Fight, Strength and/or Attack values of his opponent instead of his own. He does not need to adopt all of these characteristics; he could, for example, only adopt the Fight value.
 
@@ -305,7 +305,7 @@ At the start of any Fight phase, before Heroic Actions are declared, The Knight 
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Master of Poisons (PASSIVE)**
+- **Master of Poisons** `PASSIVE`
 
 At the start of the Move phase, before Heroic Actions are declared, The Betrayer may spend a Will point to activate this ability. Until the End phase of the turn, friendly models with the Poisoned Weapons special rule, within 6" of The Betrayer, may re-roll all failed To Wound rolls made with those weapons.
 
@@ -347,11 +347,11 @@ At the start of the Move phase, before Heroic Actions are declared, The Betrayer
 **SPECIAL RULES**
 
 - [Master of Battle]
-- **The Age of Men is Over (PASSIVE)**
+- **The Age of Men is Over** `PASSIVE`
 
 Gothmog, and all friendly Mordor Orc models within 3" of him, gain the Hatred (Man) special rule.
 
-- **The Time of the Orc has Come (ACTIVE)**
+- **The Time of the Orc has Come** `ACTIVE`
 
 Once per game, at the start of any Fight phase, Gothmog can declare that he is using this ability. For the remainder of the turn, all friendly Mordor Orc models within 12" of Gothmog may re-roll failed To Wound rolls when making Strikes.
 
@@ -422,7 +422,7 @@ Once per game, at the start of any Fight phase, Gothmog can declare that he is u
 
 - Shield of Cirith Ungol: 10 points
 - [Heavy armour]: 5 points
-- **Shield of Cirith Ungol (ACTIVE)**
+- **Shield of Cirith Ungol** `ACTIVE`
 
 This is a shield. Additionally, in a turn in which Shagrat charges, he gains the Knock to the Ground bonus exactly as if he were a Cavalry model.
 
@@ -458,7 +458,7 @@ This is a shield. Additionally, in a turn in which Shagrat charges, he gains the
 
 **SPECIAL RULES**
 
-- **Orcish Brawler (ACTIVE)**
+- **Orcish Brawler** `ACTIVE`
 
 If Gorbag is outnumbered during a Fight, then he gains a bonus of +1 to both his Fight and Attack values. Models that are supporting do not count as in the Fight for working out if a model is outnumbered.
 
@@ -516,11 +516,11 @@ If Gorbag is outnumbered during a Fight, then he gains a bonus of +1 to both his
 
 **SPECIAL RULES**
 
-- **Heart of Darkness (ACTIVE)**
+- **Heart of Darkness** `ACTIVE`
 
 At the start of any Priority phase, before any dice are rolled, Kardush can drain the life force of a friendly Orc model within 6", causing it to be removed as a casualty. Kardush then immediately regains D3 Will points. This cannot take his Will points above their starting level.
 
-- **Shadow Pawn (PASSIVE)**
+- **Shadow Pawn** `PASSIVE`
 
 At the start of any Priority phase, before any dice are rolled, Kardush's controlling player can remove him from the board as a casualty to allow a single friendly Ringwraith model within 6" to immediately regain D6 Will points. This cannot take the Ringwraith model's Will points above their starting level.
 
@@ -578,7 +578,7 @@ At the start of any Priority phase, before any dice are rolled, Kardush's contro
 
 **SPECIAL RULES**
 
-- **For the Dark Lord! (PASSIVE)**
+- **For the Dark Lord!** `PASSIVE`
 
 While at least one friendly Ringwraith model is on the battlefield, treat the Captain of the Black Guard's Courage value as being 6.
 
@@ -673,7 +673,7 @@ A Great Beast of Gorgoroth's Howdah has a capacity of nine models, in addition t
 
 When a Great Beast Tramples, it will inflict two Strength 6 hits.
 
-- **Battle Platform (PASSIVE)**
+- **Battle Platform** `PASSIVE`
 
 Models within the Great Beasts' Howdah do not count towards your force's Bow Limit.
 
@@ -789,7 +789,7 @@ Models within the Great Beasts' Howdah do not count towards your force's Bow Lim
 - [Fly]
 - [Monstrous Charge]
 - [Terror]
-- **Feral (PASSIVE)**
+- **Feral** `PASSIVE`
 
 If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
 
@@ -815,7 +815,7 @@ If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automa
 - [Fly]
 - [Monstrous Charge]
 - [Terror]
-- **Feral (PASSIVE)**
+- **Feral** `PASSIVE`
 
 If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
 

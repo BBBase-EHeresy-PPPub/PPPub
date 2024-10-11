@@ -36,11 +36,11 @@ This army may include: Sharkey; Worm and Ruffians.
 |  [Terrifying Aura]   |  -  |   2+   |
 
 
-- **The Chief (PASSIVE)** 
+- **The Chief** `PASSIVE` 
 
 Sharkey must always be the warband's Leader. Worm will always be the first follower in Sharkey's warband.
 
-- **Whoever Strikes me shall be Accursed (PASSIVE)**
+- **Whoever Strikes me shall be Accursed** `PASSIVE`
 
 After a model resolves Strikes against Sharkey, it must take a Courage test. If the test is failed, that model takes one Strength 4 hit. 
 
@@ -56,11 +56,11 @@ After a model resolves Strikes against Sharkey, it must take a Courage test. If 
 
 **SPECIAL RULES**
 
-- **Broken Loyalties (PASSIVE)**
+- **Broken Loyalties** `PASSIVE`
 
 If Sharkey is reduced to 1 Wound and has no Fate remaining, Worm becomes an enemy model and must move towards and attack Sharkey if possible. If Sharkey is slain, Worm reverts to being a friendly model.
 
-- **When he Sneaks (ACTIVE)** 
+- **When he Sneaks** `ACTIVE` 
 
 When making a Duel roll for a Fight where Worm is Engaged, check to see if any enemy models, except for those he is fighting, can see him. If only the model(s) Worm is fighting can see him, immediately increase his Fight value to 4 and his Attacks to 3 for the Duel roll and any Strikes that may follow. 
 

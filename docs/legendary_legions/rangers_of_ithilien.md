@@ -45,14 +45,14 @@
 
 ## ADDITIONAL RULES
 
-- A Rangers of Ithilien force must always include Faramir, Captain of Gondor, who is always the army’s leader.
+- A Rangers of Ithilien force must always include Faramir, Captain of Gondor, who is always the army's leader.
 - Samwise Gamgee can only be included in your force if Frodo Baggins is also included. Sméagol may only be included in your force if both Frodo and Sam are included.
 - Frodo, Sam, and Sméagol may not lead Warrior models in this force.
 
 ## SPECIAL RULES
 
-**Faramir’s Rangers** – Faramir often leads Rangers to patrol the borders of their realm and protect it against intruders. Rangers of Gondor in warbands led by Faramir, Madril, or Damrod do not count towards this force’s Bow Limit.
+**Faramir's Rangers** – Faramir often leads Rangers to patrol the borders of their realm and protect it against intruders. Rangers of Gondor in warbands led by Faramir, Madril, or Damrod do not count towards this force's Bow Limit.
 
-**Captured by Gondor** – Although originally prisoners, Frodo and Sam will fight alongside Faramir if the need arises. Frodo, Sam, and Sméagol must either be deployed together as one warband, or included as part of Faramir’s warband.
+**Captured by Gondor** – Although originally prisoners, Frodo and Sam will fight alongside Faramir if the need arises. Frodo, Sam, and Sméagol must either be deployed together as one warband, or included as part of Faramir's warband.
 
-**Experienced Trackers** – The Rangers under Faramir’s command have become experts in traversing the thick undergrowth and forests that surround Ithilien as they track the servants of the Dark Lord that enter Gondor. Rangers of Gondor from this army list gain the Woodland Creature special rule.
+**Experienced Trackers** – The Rangers under Faramir's command have become experts in traversing the thick undergrowth and forests that surround Ithilien as they track the servants of the Dark Lord that enter Gondor. Rangers of Gondor from this army list gain the Woodland Creature special rule.

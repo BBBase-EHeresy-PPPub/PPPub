@@ -451,7 +451,7 @@ During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. 
 
 **Evil:** The Necromancer of Dol Guldur; Azog; 6 Hunter Orcs on Fell Wargs; 12 Hunter Orcs.
 
-*Designer's Notes:* *Winning this Scenario is very hard for the Good side — but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
+**Designer's Notes:** *Winning this Scenario is very hard for the Good side — but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
 ![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg)
 

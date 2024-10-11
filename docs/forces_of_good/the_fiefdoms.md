@@ -32,11 +32,11 @@ This army may include: Prince Imrahil of Dol Amroth; Forlong the Fat; Angbor the
 
 **SPECIAL RULES**
 
-- **The Lineage of Numenor (ACTIVE)**
+- **The Lineage of Numenor** `ACTIVE`
 
 The range of Prince Imrahil's [Stand Fast!] is 12" rather than 6".
 
-- ***Dol Amroth for Gondor! (PASSIVE)**
+- ***Dol Amroth for Gondor!** `PASSIVE`
 
 Captains of Dol Amroth, Knights of Dol Amroth and Men-at-arms of Dol Amroth within 12" of Prince Imrahil of Dol Amroth count as being in range of a [banner].
 
@@ -66,7 +66,7 @@ Captains of Dol Amroth, Knights of Dol Amroth and Men-at-arms of Dol Amroth with
 
 **SPECIAL RULES**
 
-- ***The Lord of Lossarnach (PASSIVE)**
+- ***The Lord of Lossarnach** `PASSIVE`
 
 Axemen of Lossarnach within 6" of Forlong the Fat must re-roll results of 1 when rolling To Wound during the Fight phase.
 
@@ -87,13 +87,13 @@ Axemen of Lossarnach within 6" of Forlong the Fat must re-roll results of 1 when
 
 - [Armour]
 - Broadsword
-- **Broadsword (ACTIVE)**
+- **Broadsword** `ACTIVE`
 
 This is a *[Two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
 
 **SPECIAL RULES**
 
-- ***Chief of Lamedon (PASSIVE)**
+- ***Chief of Lamedon** `PASSIVE`
 
 Clansmen of Lamedon within 6" of Angbor the Fearless gain the [Fearless] special rule.
 
@@ -126,11 +126,11 @@ Clansmen of Lamedon within 6" of Angbor the Fearless gain the [Fearless] special
 
 - [Mountain Dweller]
 
-- **Go for the Eyes! (ACTIVE)**
+- **Go for the Eyes!** `ACTIVE`
 
 When shooting, Duinhir can re-roll failed To Wound rolls. Additionally when shooting at a Monster model, wounds caused by Duinhir's shooting attacks cause D3 wounds rather than 1.
 
-- ***Lord of the Blackroot Vale (PASSIVE)**
+- ***Lord of the Blackroot Vale** `PASSIVE`
 
 Blackroot Vale Archers within 6" of Duinhir, that did not move during the Move phase, may re-roll Is To Hit during the Shoot phase.
 
@@ -159,7 +159,7 @@ Blackroot Vale Archers within 6" of Duinhir, that did not move during the Move p
 
 **SPECIAL RULES**
 
-- **Pride of Dol Amroth (ACTIVE)**
+- **Pride of Dol Amroth** `ACTIVE`
 
 A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth, adds +1 to their Fight value.
 
@@ -193,7 +193,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 
 **SPECIAL RULES**
 
-- **Pride of Dol Amroth (ACTIVE)**
+- **Pride of Dol Amroth** `ACTIVE`
 
 A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth, adds +1 to their Fight value.
 
@@ -222,7 +222,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 
 **SPECIAL RULES**
 
-- **Pride of Dol Amroth (ACTIVE)**
+- **Pride of Dol Amroth** `ACTIVE`
 
 A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth, adds +1 to their Fight value.
 
@@ -244,7 +244,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 - [Heavy armour]
 - Axe of Lossarnach
 - [Dagger]
-- **Axe of Lossarnach (ACTIVE)**
+- **Axe of Lossarnach** `ACTIVE`
 
 An axe of Lossarnach can be used as either a [spear] or a *[Two-handed]* [Axe].
 
@@ -269,13 +269,13 @@ An axe of Lossarnach can be used as either a [spear] or a *[Two-handed]* [Axe].
 
 - [Armour]
 - Broadsword
-- **Broadsword (ACTIVE)**
+- **Broadsword** `ACTIVE`
 
 This is a *[Two-handed]* [sword]. Additionally, if a model that is fighting with a broadsword scores a natural roll of a 6 in a Duel roll, they do not apply the penalty for using a two-handed
 
 **SPECIAL RULES**
 
-- **The Honour of Lamedon (PASSIVE)**
+- **The Honour of Lamedon** `PASSIVE`
 
 Clansmen within 6" of Angbor the Fearless count as being in range of a [banner].
 
@@ -307,7 +307,7 @@ Clansmen within 6" of Angbor the Fearless count as being in range of a [banner].
 **SPECIAL RULES**
 
 - [Mountain Dweller]
-- **Dead-eye Shot (ACTIVE)**
+- **Dead-eye Shot** `ACTIVE`
 
 When benefitting from a [Heroic Shoot], this model may re-roll failed To Wound rolls when making shooting attacks.
 

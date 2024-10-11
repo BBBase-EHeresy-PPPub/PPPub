@@ -28,11 +28,11 @@ The Witch-king may also take the following options:
 
 * [Will of Evil](battlehost_quickstart_rules_guide.md#will-of-evil)
 
-* **Crown of Morgul (PASSIVE)** 
+* **Crown of Morgul** `PASSIVE` 
 
 If the Witch-king has the Crown of Morgul, his Attack value is increased to 3. Additionally, whilst wearing the Crown of Morgul, the Witch-king can choose to re-roll one dice when making Casting or Resist tests.
 
-* **Morgul Blade (ACTIVE)** 
+* **Morgul Blade** `ACTIVE` 
 
 Once per game, the Witch-king can declare he is using the Morgul Blade during the Fight phase before rolling To Wound. If the Witch-king uses the Morgul Blade, he must direct all of his Strikes against a single target. An enemy that suffers a Wound from the Morgul Blade is automatically slain, regardless of the number of Wounds on their profile. **Hero** models may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain.
 

@@ -48,11 +48,11 @@ Thorin, and all twelve Champions of Erebor, may be deployed as one warband if yo
 
 **SPECIAL RULES**
 
-- **A Score to Settle (ACTIVE)**
+- **A Score to Settle** `ACTIVE`
 
 Thorin Oakenshield, King Under the Mountain re-rolls all failed rolls To Wound when making Strikes against Azog.
 
-- **Ancestral Fury (ACTIVE)**
+- **Ancestral Fury** `ACTIVE`
 
 Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight phase without expending Might.
 
@@ -87,11 +87,11 @@ Thorin Oakenshield, King Under the Mountain may call a Heroic Combat every Fight
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain).
-- **Combat Synergy (ACTIVE)**
+- **Combat Synergy** `ACTIVE`
 
 If they are in base contact, Fíli the Dwarf, Champion of Erebor and Kíli the Dwarf, Champion of Erebor may choose to swap places with one another at the start of any phase – this does not count as moving.
 
-- **Du Bekâr! (ACTIVE)**
+- **Du Bekâr!** `ACTIVE`
 
 A model with this special rule counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
@@ -126,11 +126,11 @@ A model with this special rule counts as being in range of a banner if they are 
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Combat Synergy (ACTIVE)**
+- **Combat Synergy** `ACTIVE`
 
 If they are in base contact, Fíli the Dwarf, Champion of Erebor and Kíli the Dwarf, Champion of Erebor may choose to swap places with one another at the start of any phase – this does not count as moving.
 
-- **Du Bekâr! (ACTIVE)**
+- **Du Bekâr!** `ACTIVE`
 
 A model with this special rule counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
@@ -160,7 +160,7 @@ A model with this special rule counts as being in range of a banner if they are 
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Longbeard (ACTIVE)**
+- **Longbeard** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
 
@@ -197,11 +197,11 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 - [Burly]
 - [Fearless]
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Dwalin the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
-- **The King's Axeman (ACTIVE)**
+- **The King's Axeman** `ACTIVE`
 
 Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the Dwarf, Champion of Erebor can choose to use either an axe in each hand, in which case he fights with 4 Attacks, or use a two-handed axe.
 
@@ -231,7 +231,7 @@ Whilst he has the Infantry keyword, at the beginning of each fight, Dwalin the D
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 - [Throw Stones] (range 8", Strength 1)
-- **Embedded Axe-blade (ACTIVE)**
+- **Embedded Axe-blade** `ACTIVE`
 
 If Bifur the Dwarf, Champion of Erebor wins a fight, he may choose to headbutt his enemy with the axe-blade embedded in his skull. Instead of striking normally, he may make a single Strike against his opponent. If Bifur manages to successfully wound his opponent, then the axe has been removed from his skull. Once the axe-blade is removed, Bifur may call a Heroic Move each turn without reducing his own Might store.
 
@@ -261,7 +261,7 @@ If Bifur the Dwarf, Champion of Erebor wins a fight, he may choose to headbutt h
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Steadfast (PASSIVE)**
+- **Steadfast** `PASSIVE`
 
 Whenever Bofur is targeted by a Magical Power or special rule, he may try to ignore its effects. Roll a D6. On the score of a 2+, its effects are ignored. This roll may be modified by Might. If you wish to try to Resist a Magical Power, you must do so before making Bofur's Steadfast roll.
 
@@ -290,15 +290,15 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Beefy (ACTIVE)**
+- **Beefy** `ACTIVE`
 
 When Bombur the Dwarf makes Strikes, he may choose to use the Bash Special Strike just as if he were using a mace.
 
-- **Lumbering (PASSIVE)**
+- **Lumbering** `PASSIVE`
 
 When making Jump or Climb tests, Bombur the Dwarf must re-roll results of 6. Additionally, he may not call Heroic Moves.
 
-- **Raising Spirits (ACTIVE)**
+- **Raising Spirits** `ACTIVE`
 
 Once each turn, at any point in Bombur's Move phase, choose a friendly model in base contact with Bombur the Dwarf and roll a D6. On a 4+, the chosen model regains a point of Will spent earlier in the battle (or campaign).
 
@@ -327,7 +327,7 @@ Once each turn, at any point in Bombur's Move phase, choose a friendly model in 
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Chronicler (ACTIVE)**
+- **Chronicler** `ACTIVE`
 
 Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Erebor slays an enemy Hero or Monster model within 3" of Ori the Dwarf, that model immediately regains a point of Might, Will or Fate (your choice) that has previously been spent in that game (or campaign).
 
@@ -358,11 +358,11 @@ Any time that Thorin Oakenshield, King Under the Mountain, or a Champion of Ereb
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
-- **Weapon Synergy (ACTIVE)**
+- **Weapon Synergy** `ACTIVE`
 
 Nori the Dwarf, Champion of Erebor may re-roll one dice to win a Duel and may re-roll one dice when making Strikes.
 
@@ -392,11 +392,11 @@ Nori the Dwarf, Champion of Erebor may re-roll one dice to win a Duel and may re
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **A Good Sort Really (PASSIVE)**
+- **A Good Sort Really** `PASSIVE`
 
 If Bilbo Baggins, Master Burglar is within 3" of Dori the Dwarf, Champion of Erebor, he may spend Dori's Might, Will and Fate points as if they were his own.
 
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Dori the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 
@@ -426,11 +426,11 @@ Dori the Dwarf, Champion of Erebor is never considered unarmed, and never suffer
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **Healing Herbs (ACTIVE)**
+- **Healing Herbs** `ACTIVE`
 
 In the Move phase, instead of moving, Óin the Dwarf may attempt to heal a friendly model with which he is in base contact. Roll a D6. On a 1-3, there is no effect. On a 4 or 5, the model regains a Wound lost previously in the game (or campaign). On a 6, the model regains all of its lost Wounds.
 
-- **Prognostication (PASSIVE)**
+- **Prognostication** `PASSIVE`
 
 Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendly model within 3" to re-roll a single dice when making a Duel roll.
 
@@ -460,11 +460,11 @@ Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendl
 **SPECIAL RULES**
 
 - [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
-- **A Warrior Born (ACTIVE)**
+- **A Warrior Born** `ACTIVE`
 
 Glóin the Dwarf must re-roll scores of 1 To Wound in combat.
 
-- **Weapon Master (ACTIVE)**
+- **Weapon Master** `ACTIVE`
 
 Glóin the Dwarf, Champion of Erebor is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
 

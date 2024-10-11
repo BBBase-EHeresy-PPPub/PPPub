@@ -32,7 +32,7 @@ This army may include: Gwaihir and Great Eagles.
 - [Fly]
 - [Monstrous Charge]
 - [Terror]
-- **Lord of the Eagles (ACTIVE)**
+- **Lord of the Eagles** `ACTIVE`
 
 Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit from his Heroic Actions.
 

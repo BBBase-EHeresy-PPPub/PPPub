@@ -113,9 +113,9 @@ Some Scenarios or characters allow for the Hobbit player to deploy a selection o
 
 Traps can be deployed anywhere on the board, although they must be deployed using the following rules:
 
-- Traps may not be deployed within the enemy player’s deployment zone.
+- Traps may not be deployed within the enemy player's deployment zone.
 - Traps may not be deployed within 3" of another Trap.
-- Traps may not be deployed within an enemy model’s Control Zone.
+- Traps may not be deployed within an enemy model's Control Zone.
 - Traps may not be deployed within 2" of an Objective marker in Scenarios where this applies.
 
 **TRIGGERING TRAPS**
@@ -128,7 +128,7 @@ When a Tripwire Trap is revealed, the Hobbit player rolls a D6. On a 2+, the mod
 
 * **SNARE TRAP**
 
-When a Snare Trap is revealed, the Hobbit player rolls a D6. On a 2+, the model that revealed the Trap is immediately knocked Prone and suffers a Strength 1 hit (they actually either have their legs tied up or are kept dangling in the air, but this has the same effect). A model that is caught in a Snare Trap cannot move until they have freed themselves. They will not stand up if they win a fight and will always count as being Trapped. During the End phase of each turn, roll a D6 for a model caught in a Snare Trap. If the result is equal to or less than the model’s Strength characteristic then the model has freed themselves and may immediately stand up.
+When a Snare Trap is revealed, the Hobbit player rolls a D6. On a 2+, the model that revealed the Trap is immediately knocked Prone and suffers a Strength 1 hit (they actually either have their legs tied up or are kept dangling in the air, but this has the same effect). A model that is caught in a Snare Trap cannot move until they have freed themselves. They will not stand up if they win a fight and will always count as being Trapped. During the End phase of each turn, roll a D6 for a model caught in a Snare Trap. If the result is equal to or less than the model's Strength characteristic then the model has freed themselves and may immediately stand up.
 
 Cavalry models that reveal a Snare Trap are only affected on a 4+. However, they will also count as being Knocked Flying in addition to suffering a Strength 1 hit. Monster models are unaffected by a Snare Trap, and can continue to move even after revealing the Trap. After the effects are resolved, remove the Trap from play.
 

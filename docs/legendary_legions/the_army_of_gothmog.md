@@ -11,7 +11,7 @@
 
 **GURITZ, MASTER OF RESERVES [60 points]**
 
-**GOTHMOG’S ENFORCER [60 points]**
+**GOTHMOG'S ENFORCER [60 points]**
 
 **ZAGDÛSH, ORC CAPTAIN [60 points]**
 
@@ -63,12 +63,12 @@
 
 ## ADDITIONAL RULES
 
-- An Army of Gothmog force must always include Gothmog, Lieutenant of Sauron, who is always the army’s leader.
+- An Army of Gothmog force must always include Gothmog, Lieutenant of Sauron, who is always the army's leader.
 - Gothmog counts as a Hero of Legend when part of this Legendary Legion.
 
 ## SPECIAL RULES
 
-**The Destruction of Men** – The range of Gothmog’s *The Age of Men is Over* special rule is increased to 12". Additionally, the range of Gothmog’s *The Time of the Orc has Come* special rule is increased to battlefield-wide.
+**The Destruction of Men** – The range of Gothmog's *The Age of Men is Over* special rule is increased to 12". Additionally, the range of Gothmog's *The Time of the Orc has Come* special rule is increased to battlefield-wide.
 
-**Tyrannical Rule** – Friendly Mordor Orc Hero models may benefit from Gothmog’s Stand Fast!
+**Tyrannical Rule** – Friendly Mordor Orc Hero models may benefit from Gothmog's Stand Fast!
 

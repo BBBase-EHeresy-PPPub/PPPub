@@ -39,15 +39,15 @@ The Necromancer, and all nine Nazgûl of Dol Guldur, may be deployed as one warb
 - [Terror]
 - [Will of Evil]
 
-- **He cannot yet take Physical Form (PASSIVE)** 
+- **He cannot yet take Physical Form** `PASSIVE` 
 
 The Necromancer may use his Will points as Fate points if he wishes.
 
-- **Drain Soul (ACTIVE)**
+- **Drain Soul** `ACTIVE`
 
 Any model that suffers a wound from the Necromancer during the Fight phase is automatically slain regardless of the number of Wounds on its profile. A Hero can use Fate to avoid Wounds suffered, but if even a single Wound is not avoided then the Hero is slain and removed as a casualty.
 
-- **Master of the Nazgûl (PASSIVE)**
+- **Master of the Nazgûl** `PASSIVE`
 
 Any Nazgûl of Dol Guldur in the same army as the Necromancer of Dol Guldur gains a bonus of +1 to their rolls for their Unholy Resurrection special rule whilst he is alive and on the board.
 
@@ -84,15 +84,15 @@ Note: The Necromancer is in fact Sauron. This means you cannot have both Sauron 
 
 - [Harbinger of Evil]
 - [Terror]
-- **One of Nine (PASSIVE)**
+- **One of Nine** `PASSIVE`
 
 There can only be a maximum of nine Ringwraith models, of any combination (including Ringwraiths or any of the named Wraiths), in your force. Additionally, a Hero wearing the Ring is not invisible to these models as he is to others.
 
-- **The Servants of Evil (PASSIVE)**
+- **The Servants of Evil** `PASSIVE`
 
 When choosing which Nazgûl to field, pick one option from the list that follows. Each Nazgûl may only be taken once, unless otherwise stated.
 
-- **Unholy Resurrection (PASSIVE)**
+- **Unholy Resurrection** `PASSIVE`
 
 If a model with this special rule is slain, place a marker where it was removed from the board. In the next Priority phase, after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound and may be placed anywhere within 6" of the marker, so long as it is not placed in base contact with an enemy model. Any Might or Will points that were spent remain spent. Whilst the marker is in play, the Nazgûl counts as on the board for the purpose of working out whether your force is Broken or reduced to 25% – though they cannot hold objectives and will still count as slain for the purposes of any special rules that would require a model to be slain (such as a Heroic Combat). If the roll is a 1 or a 2, then the Nazgûl has been banished – remove the marker and the Nazgûl from play. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to the Unholy Resurrection roll. If, when the game ends, a marker is in play and the corresponding Nazgûl is not on the board, that Nazgûl will count as having been slain for the purposes of victory conditions.
 
@@ -107,7 +107,7 @@ If a model with this special rule is slain, place a marker where it was removed 
 
 **SPECIAL RULES**
 
-- **Angmar Arisen (PASSIVE)**
+- **Angmar Arisen** `PASSIVE`
 
 The Witch-king has 3 Might instead of 2.
 
@@ -122,7 +122,7 @@ The Witch-king has 3 Might instead of 2.
 
 **SPECIAL RULES**
 
-- **Rhûnish Fury (PASSIVE)**
+- **Rhûnish Fury** `PASSIVE`
 
 Khamûl the Easterling has 3 Attacks instead of 2.
 
@@ -137,7 +137,7 @@ Khamûl the Easterling has 3 Attacks instead of 2.
 
 **SPECIAL RULES**
 
-- **Executioner (ACTIVE)**
+- **Executioner** `ACTIVE`
 
 If the Dark Headsman scores a natural 6 when rolling To Wound, then the Strike causes not 1 Wound but D3 Wounds instead (determine the number of Wounds after Fate points are used).
 
@@ -152,7 +152,7 @@ If the Dark Headsman scores a natural 6 when rolling To Wound, then the Strike c
 
 **SPECIAL RULES**
 
-- **Trident Spear (ACTIVE)**
+- **Trident Spear** `ACTIVE`
 
 The Trident Spear is a [spear]. Additionally, the Forsaken must reroll all failed rolls To Wound.
 
@@ -167,7 +167,7 @@ The Trident Spear is a [spear]. Additionally, the Forsaken must reroll all faile
 
 **SPECIAL RULES**
 
-- **Unnatural Speed (ACTIVE)**
+- **Unnatural Speed** `ACTIVE`
 
 After Priority has been rolled, the controlling player may remove the Lingering Shadow from the board and place him anywhere within 3" of where he originally was. Note, the Lingering Shadow may not be placed in base contact with an enemy model. This does not count as moving.
 
@@ -182,7 +182,7 @@ After Priority has been rolled, the controlling player may remove the Lingering 
 
 **SPECIAL RULES**
 
-- **Spiritual Displacement (ACTIVE)**
+- **Spiritual Displacement** `ACTIVE`
 
 An army may include up to two Abyssal Knights. In the Priority phase, after Priority has been rolled for, the controlling player can choose to remove one of the Abyssal Knights from the board and immediately place it into base contact with the other, so long as it is not also placed in base contact with an enemy model. This does not count as moving.
 
@@ -197,7 +197,7 @@ An army may include up to two Abyssal Knights. In the Priority phase, after Prio
 
 **SPECIAL RULES**
 
-- **Deadly Strength (ACTIVE)**
+- **Deadly Strength** `ACTIVE`
 
 An army may include up to two Slayers of Men. Additionally, a Slayer of Men never suffers the -1 penalty for wielding a two-handed weapon.
 
@@ -224,11 +224,11 @@ An army may include up to two Slayers of Men. Additionally, a Slayer of Men neve
 
 - [Burly]
 
-- **Torturer (ACTIVE)**
+- **Torturer** `ACTIVE`
 
 Every time the Keeper of the Dungeons slays a model, keep a note of it. Once he has killed one or more models, he may re-roll To Wound rolls of 1. Once he has killed three or more models, he causes Terror. Once he has killed five or more models, he re-rolls all failed To Wound rolls.
 
-- **“You have something my Master wants!” (ACTIVE)**
+- **"You have something my Master wants!"** `ACTIVE`
 
 The Keeper of the Dungeons gets a bonus of +1 To Wound against any model that bears one of the three Elven rings: Nenya, Narya or Vilya.
 
@@ -254,7 +254,7 @@ The Keeper of the Dungeons gets a bonus of +1 To Wound against any model that be
 
 - Morgul Blade: 5 points 
 
-- **Morgul Blade (ACTIVE)**
+- **Morgul Blade** `ACTIVE`
 
 Once per game, this model's controlling player may declare they are using their Morgul blade during the Fight phase before rolling To Wound. If a model is using a Morgul blade, they must direct all of their Strikes against a single target. An enemy that suffers a Wound from the Morgul blade is automatically slain, regardless of the number of Wounds on their profile. Heroes may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain. If the model using the Morgul blade is mounted, they must use the rider's Attacks and Strength if using the Morgul blade.
 
@@ -262,11 +262,11 @@ Once per game, this model's controlling player may declare they are using their 
 
 - [Terror]
 - [Will of Evil]
-- **Automatons (PASSIVE)**: 
+- **Automatons** `PASSIVE`: 
 
 Castellans of Dol Guldur do not grant their [Stand Fast!] rule to nearby Warrior models.
 
-- **Will of the Necromancer (PASSIVE)**
+- **Will of the Necromancer** `PASSIVE`
 
 Castellans of Dol Guldur may use Will points as Fate points if they wish.
 

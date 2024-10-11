@@ -107,10 +107,10 @@
 A Grand Army of the South force may have 50% of its Warrior models armed with bows.
 
 **The Making of a King** – The leaders of the south will stop at nothing to further their claim to rule, challenging the generals of opposing armies to a fight to the death.  
-Your army’s leader may declare a free Heroic Action at the start of any Fight phase in which they are Engaged in combat with the enemy leader. If the Mûmak War Leader is your leader, he may still use this ability whilst atop his Royal War Mûmak, in which case the Mûmak will be affected as if it had been the one to declare the Heroic Action.
+Your army's leader may declare a free Heroic Action at the start of any Fight phase in which they are Engaged in combat with the enemy leader. If the Mûmak War Leader is your leader, he may still use this ability whilst atop his Royal War Mûmak, in which case the Mûmak will be affected as if it had been the one to declare the Heroic Action.
 
 **War Beasts for the South** – The sight of the gigantic Mûmakil sends a chill down the spine of all those at Pelennor, filling their hearts with dread and doubt.  
 All Mûmak models in your force gain the Harbinger of Evil special rule.
 
-**Warrior Pride** – The Mahûd are a violent people, spurred on by their leaders’ ferocity in battle.  
+**Warrior Pride** – The Mahûd are a violent people, spurred on by their leaders' ferocity in battle.  
 Mahûd Warrior models that are within 6" of a friendly Mahûd Hero model that is Engaged in combat automatically pass all Courage tests they are required to make.

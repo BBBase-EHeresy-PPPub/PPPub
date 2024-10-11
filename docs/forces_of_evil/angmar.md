@@ -40,11 +40,11 @@ The profile for The Witch-king of Angmar can be found on page 114. The Witch-kin
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Miasmatic Presence (PASSIVE)**
+- **Miasmatic Presence** `PASSIVE`
 
 At the start of the Move phase, before Heroic Actions are declared, The Tainted may elect to spend a point of Will. If he does this, until the end of the turn, all Warrior models within 6" of The Tainted may not benefit from the [Stand Fast!] rule, nor take part in Heroic Actions.
 
-- **Seeping Decay (PASSIVE)**
+- **Seeping Decay** `PASSIVE`
 
 At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly or enemy) in base contact with The Tainted - if the model is a Cavalry model, roll for both the mount and the rider. On the roll of a 6, they suffer a Wound.
 
@@ -93,7 +93,7 @@ At the start of the Fight phase, roll a D6 for each non-Spirit model (friendly o
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- **Sap Fortitude (PASSIVE)**
+- **Sap Fortitude** `PASSIVE`
 
 Every time a Hero model within 6" of The Dwimmerlaik spends a point of Might, Will or Fate, The Dwimmerlaik may elect to spend a point of Will. If he does, roll a D6. On a 4+, the enemy Hero model must spend an additional point (of the same type) or the deed will be cancelled and any Might, Will or Fate already committed will be lost. Note that a Hero model that wishes to expend multiple points of Might, Will or Fate, may wait to see how The Dwimmerlaik's roll affects their first point of Might, Will or Fate, before committing to spending any more. The Dwimmerlaik will have to spend a point of Will for every point he wishes to affect, though he may wait to see how his first point of Will affected his opponent before deciding to spend another point of Will.
 
@@ -137,11 +137,11 @@ Every time a Hero model within 6" of The Dwimmerlaik spends a point of Might, Wi
 - [Monstrous Charge]
 - [Resistant to Magic]
 - [Terror]
-- **Immortal Hunger (ACTIVE)**
+- **Immortal Hunger** `ACTIVE`
 
 Gulavhar regains a single Wound for each model he slays in combat. Rend is the only Brutal Power Attack that allows Gulavhar to regain Wounds in this manner. This can never take his Wounds beyond 4.
 
-- **Strength of Body, Strength of Will (PASSIVE)**
+- **Strength of Body, Strength of Will** `PASSIVE`
 
 Gulavhar's Attacks and Courage are always equal to his remaining Wounds.
 
@@ -201,7 +201,7 @@ Whilst a Shade has no specific weapons, it is a twisted mass of undead beings co
 - [Terror]
 - Chill Aura (PASSIVE)
 
-At the start of the Fight phase, before Heroic Actions are declared, a Shade may expend a Will point to activate this ability. Any enemy model within 6“ of one or more Shades suffers a -1 penalty on its Duel roll. This is cumulative with other such penalties, such as for wielding a two-handed weapon.
+At the start of the Fight phase, before Heroic Actions are declared, a Shade may expend a Will point to activate this ability. Any enemy model within 6" of one or more Shades suffers a -1 penalty on its Duel roll. This is cumulative with other such penalties, such as for wielding a two-handed weapon.
 
 </div>
 
@@ -401,7 +401,7 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 
 - Troll Chain: 5 points
 - May swap spear for *[hand-and-a-half]* [hammer]: 5 points
-- **Troll Chain (ACTIVE)**
+- **Troll Chain** `ACTIVE`
 
 This is a throwing weapon with a range of 3" and a Strength of 5.
 
@@ -434,7 +434,7 @@ This is a throwing weapon with a range of 3" and a Strength of 5.
 
 - [Blades of the Dead]
 - [Terror]
-- **A Fell Light is in Them (ACTIVE)**
+- **A Fell Light is in Them** `ACTIVE`
 
 At any point during its move, a Spectre can choose a single enemy model anywhere within 12" and Line of Sight. This model must pass a Courage test or make a full move under the control of the Spectre's controlling player - even if it has already moved. This move cannot be used to enter an enemy model's Control Zone, or perform actions that would cause direct harm to the target (such as jumping down a cliff). It may also not be used to have the target dismount or lie down. Affected models may move no further that turn, and may not use Active abilities for the remainder of the Move phase.
 

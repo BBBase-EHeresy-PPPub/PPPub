@@ -60,7 +60,7 @@ If your force contains Arathorn and Aragorn - Strider, then it will automaticall
 
 - Banner of Arwen Evenstar: 40 points
 - [Horse]: 10 points
-- **Banner of Arwen Evenstar (PASSIVE)**
+- **Banner of Arwen Evenstar** `PASSIVE`
 
 This is a banner that affects all friendly models within 6" rather than 3". Friendly models within 6" gain the [Fearless] special rule. Additionally, Halbarad suffers no penalties for carrying the banner.
 

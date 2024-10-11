@@ -37,15 +37,15 @@ The profile for Goblin Mercenaries can be found on page 103.
 - [Cave Dweller]
 - [Resistant to Magic]
 - [Terror]
-- **Relentless Advance (ACTIVE)**
+- **Relentless Advance** `ACTIVE`
 
 When the Goblin King Charges into combat, he can pass 'through' friendly Goblin models when he moves. Each Goblin he moves through suffers a Strength 3 hit. Any Goblin that he ends his move on is automatically slain. A model with this special rule cannot be Compelled/Commanded over friendly models if it is forced to Charge as a part of that Magical Power.
 
-- **Blubbery Mass (PASSIVE)**
+- **Blubbery Mass** `PASSIVE`
 
 Every time the Goblin King is wounded, roll a D6. On a 3+, the Wound is ignored. Magical Powers and Elven-made weapons ignore this ability.
 
-- **Goblin Projectile (ACTIVE)**
+- **Goblin Projectile** `ACTIVE`
 
 In the Shoot phase, if there is a friendly Goblin model in base contact with the Goblin King, and neither are Engaged in combat, the Goblin King may make a shooting attack with a range of 12" – this counts as a throwing weapon. Remove the Goblin, roll To Hit and take any In The Way tests for the shooting attack. The shot is resolved at Strength 8 and will automatically knock Prone any model it hits.
 
@@ -80,7 +80,7 @@ This is a [throwing weapon] with a range of 2" and a Strength of 2.
 - [Cave Dweller]
 - Chittering Hordes
 
-- **Swap with Me (ACTIVE)**
+- **Swap with Me** `ACTIVE`
 
 Swap with Me is a special Heroic Action that Grinnah can use at the start of any phase. Using Swap with Me enables Grinnah to swap places with any friendly Goblin model (except the Goblin Scribe) within 3". This does not count as moving. If there is no room to place the swapped model, you must choose another, or the Heroic Action is wasted.
 
@@ -103,11 +103,11 @@ Swap with Me is a special Heroic Action that Grinnah can use at the start of any
 
 **SPECIAL RULES**
 
-- **Always more where they came from (ACTIVE)**
+- **Always more where they came from** `ACTIVE`
 
 At the end of his Move phase, the Goblin Scribe may opt to take a Courage test. If the test is passed, you may move D3 extra Goblin Warriors onto the board (+1 for each point that he passed his test by) – from an edge chosen by the controlling player. If the Goblin Scribe is forced to automatically pass this Courage test, then D3 Goblin Warriors will enter the board as described above.
 
-- **Immobile (PASSIVE)**
+- **Immobile** `PASSIVE`
 
 The Goblin Scribe is automatically Trapped if he loses a Fight. Additionally, in the Move phase, friendly models may move him and his frame, in which case he is considered to be a Heavy Object.
 
@@ -135,11 +135,11 @@ The Goblin Scribe is automatically Trapped if he loses a Fight. Additionally, in
 **SPECIAL RULES**
 
 - [Cave Dweller]
-- **The Precious (ACTIVE)**
+- **The Precious** `ACTIVE`
 
 Unless there is another Ringbearer (such as Bilbo, Frodo or even Sauron himself!) in play, Gollum always has the Ring. Should the Ringbearer be slain in a Fight with Gollum, then he automatically recovers the Ring – add it to his wargear.
 
-- **Strangler (PASSIVE)**
+- **Strangler** `PASSIVE`
 
 Gollum is never considered to be unarmed, ever.
 
@@ -168,7 +168,7 @@ Gollum is never considered to be unarmed, ever.
 **SPECIAL RULES**
 
 - [Cave Dwellers]
-- **Chittering Hordes (ACTIVE)**
+- **Chittering Hordes** `ACTIVE`
 
 Models with this special rule can Support as if they had spears, with the exception that they can only ever Support another model with the Chittering Hordes special rule. A Supporting model does get the benefit of having a two-handed weapon, if it has one.
 
@@ -198,7 +198,7 @@ Models with this special rule can Support as if they had spears, with the except
 **SPECIAL RULES**
 
 - [Cave Dwellers]
-- **Chittering Hordes (ACTIVE)**
+- **Chittering Hordes** `ACTIVE`
 
 Models with this special rule can Support as if they had spears, with the exception that they can only ever Support another model with the Chittering Hordes special rule. A Supporting model does get the benefit of having a twohanded weapon, if it has one.
 

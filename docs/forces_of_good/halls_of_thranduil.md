@@ -38,7 +38,7 @@ This army may include: Thranduil, King of the Woodland Realm; Legolas Greenleaf,
 - [Horse]: 10 points
 - [Elf bow][Bow]: 5 points
 
-- **Additional Elven-made sword (PASSIVE)**
+- **Additional Elven-made sword** `PASSIVE`
 
 When equipped with an additional *[Elven-made]* [sword], Thranduil, King of the Woodland Realm increases his Attacks to 3 and his Fight value to 7. Additionally, he gains the Bladelord special rule*.
 
@@ -54,7 +54,7 @@ If Thranduil Charges into combat whilst riding his Elk, Thranduil's Strikes are 
 
 ---
 
-- **Circlet of Kings (ACTIVE)**
+- **Circlet of Kings** `ACTIVE`
 
 This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powers Aura of Dismay and Nature's Wrath once each per game. The spell is automatically cast, counting the result as a 6, and no Will points need be expended.
 
@@ -63,7 +63,7 @@ This crown allows Thranduil, King of the Mirkwood Realm to cast the Magical Powe
 - [Expert Rider]
 - [Fleetfoot]
 - [Woodland Creature]
-- ***Bladelord (ACTIVE)**
+- ***Bladelord** `ACTIVE`
 
 Whilst he has the Infantry keyword, Thranduil, King of the Woodland Realm receives +1 Attack. Furthermore, Thranduil, King of the Woodland Realm receives an additional Attack for each enemy model he is Engaged with after the first. This bonus is determined at the start of each Fight and lasts until all Strikes from that Fight have been resolved.
 
@@ -103,7 +103,7 @@ Note, only one Orcrist may be taken per army.
 
 - [Woodland Creature]
 
-- **Deadly Shot (ACTIVE)**
+- **Deadly Shot** `ACTIVE`
 
 Legolas may fire his bow three times in the Shoot phase rather than once. Each of these shots may be made against a different target. Alternatively, Legolas may instead choose to make one shot, but in this case he will always hit on a roll of a 2+, regardless of In The Way tests, if the target is Engaged in combat or any other factors, including modifiers, Magical Powers and so forth. If Legolas uses this one shot to target a Cavalry model, he may choose whether he hits the rider or the mount.
 
@@ -135,11 +135,11 @@ Legolas may fire his bow three times in the Shoot phase rather than once. Each o
 
 - [Woodland Creature]
 
-- **Blade Mistress (ACTIVE)**
+- **Blade Mistress** `ACTIVE`
 
 Tauriel receives an additional Attack for each enemy model she is Engaged with after the first. This bonus is determined at the start of each Fight, and lasts until all Strikes from that Fight have been resolved.
 
-- **Vengeful Fury (PASSIVE)**
+- **Vengeful Fury** `PASSIVE`
 
 If Kíli the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel's Strength is immediately increased to 5 and her Defence is reduced to 4 for the remainder of the battle.
 
@@ -169,7 +169,7 @@ If Kíli the Dwarf, Champion of Erebor is in your army, and is killed, Tauriel's
 
 - [Bodyguard]
 - [Woodland Creature]
-- **King's Guard (PASSIVE)**
+- **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a bonus of +1 to their Fight value.
 
@@ -187,7 +187,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, this model receives a
 - [Heavy armour]
 - *[Elven-made]* [glaive]
 
-- **Glaive (ACTIVE)**
+- **Glaive** `ACTIVE`
 
 A glaive can be used either as a [spear] or a *[hand-and-a-half]* [sword]. Alternatively, the bearer of a glaive can use the Shielding rule.
 
@@ -221,7 +221,7 @@ A glaive can be used either as a [spear] or a *[hand-and-a-half]* [sword]. Alter
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Knife Fighters (ACTIVE)**
+- **Knife Fighters** `ACTIVE`
 
 Mirkwood Rangers receive an additional Attack for each enemy model they are Engaged in combat with after the first (to a maximum of 3 bonus Attacks). This bonus is determined at the start of each fight, and lasts until all Strikes from that fight have been resolved.
 
@@ -258,7 +258,7 @@ Mirkwood Rangers receive an additional Attack for each enemy model they are Enga
 
 - [Bodyguard]
 - [Woodland Creature]
-- **King's Guard (PASSIVE)**
+- **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive a bonus of +1 to their Fight value.
 
@@ -317,7 +317,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 
 - [Expert Rider]
 - [Woodland Creature]
-- **King's Knights (PASSIVE)**
+- **King's Knights** `PASSIVE`
 
 Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if they are within 6" of Thranduil, King of the Woodland Realm.
 
@@ -348,7 +348,7 @@ Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if t
 
 - **Woodland Creature**
 
-- **Knife Fighters (ACTIVE)** See Page 75.
+- **Knife Fighters** `ACTIVE` See Page 75.
 
 </div>
 
@@ -373,7 +373,7 @@ Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if t
 
 - [Woodland Creature]
 
-- **Enchanting Song (ACTIVE)**
+- **Enchanting Song** `ACTIVE`
 
 A Sentinel may sing one song each turn, provided they are not Engaged in combat. These function exactly like Magical Powers except that they are automatically cast without spending Will, and cannot be resisted.
 

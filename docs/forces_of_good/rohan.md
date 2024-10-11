@@ -25,7 +25,7 @@ Riders of Rohan within this army list do not count towards your force's Bow Limi
 
 * [Armour]
 * Herugrim
-* **Herugrim (ACTIVE)**
+* **Herugrim** `ACTIVE`
 
 Herugrim is a [sword]. Additionally, Theoden may use the Feint Special Strike even if his Fight value is lower than his opponent's.
 
@@ -46,11 +46,11 @@ Herugrim is a [sword]. Additionally, Theoden may use the Feint Special Strike ev
 
 - [Expert Rider]
 - [Horse Lord]
-- **The Will of Men is Easily Corrupted (PASSIVE)**
+- **The Will of Men is Easily Corrupted** `PASSIVE`
 
 If Grima Wormtongue is within 6" of Theoden, King of Rohan, then Theoden is reduced to Fight value 3/4+ and 1 Attack. Additionally, he may not declare Heroic Actions and may not use Will points.
 
-- **Forth, and Fear no Darkness (ACTIVE)**
+- **Forth, and Fear no Darkness** `ACTIVE`
 
 Theoden's [Stand Fast!] is 12" rather than 6".
 
@@ -87,7 +87,7 @@ Theoden's [Stand Fast!] is 12" rather than 6".
 
 - [Expert Rider]
 - [Horse Lord]
-- **Reckless Charge (ACTIVE)**
+- **Reckless Charge** `ACTIVE`
 
 Theodred must Charge an enemy model if he is able to do so. Additionally, on a turn in which he Charges, Theodred may re-roll any failed To Wound rolls during the Fight phase.
 
@@ -125,7 +125,7 @@ Theodred must Charge an enemy model if he is able to do so. Additionally, on a t
 
 - [Expert Rider]
 - [Horse Lord]
-- **The Price of Grief (ACTIVE)**
+- **The Price of Grief** `ACTIVE`
 
 If Theoden or Eowyn are in the same force as Eomer, and either (or both) are slain, for the remainder of the game Eomer adds +1 to all To Wound rolls during the Fight phase. Additionally, for the remainder of the game, Eomer must Charge if able to do so.
 
@@ -220,7 +220,7 @@ If Theoden is in your force and is slain, place a 25mm marker where he fell. Eow
 - [Shield]
 - The Horn of the Hammerhand
 
-- **The Horn of the Hammerhand (ACTIVE)**
+- **The Horn of the Hammerhand** `ACTIVE`
 
 This is a war horn that adds +2 Courage rather than +1. However, this war horn only affects friendly Rohan models.
 
@@ -268,7 +268,7 @@ If your army includes Erkenbrand, you can upgrade any number of Riders of Rohan 
 
 - Royal Standard of Rohan: 50 points
 - [Horse]: 10 points
-- **Royal Standard of Rohan (PASSIVE)**
+- **Royal Standard of Rohan** `PASSIVE`
 
 This precious heirloom is a [banner]. Additionally, any Rohan Hero models that are within 3" of the Royal Standard of Rohan at the start of any turn, and have no Might remaining, automatically add 1 point of Might to their store. This cannot take a Hero model's Might beyond its starting level. Gamling suffers no penalties for carrying the Royal Standard of Rohan.
 
@@ -380,7 +380,7 @@ Eorl's noble steed is an [armoured horse] with a Move of 12"
 
 - [Expert Rider]
 - [Horse Lord]
-- **Legendary Hero (PASSIVE)**
+- **Legendary Hero** `PASSIVE`
 
 The first time each turn that Eorl the Young expends a point of Might, roll a D6. On a 4+, the point of Might is free and does not reduce Eorl's store of Might.
 
@@ -409,7 +409,7 @@ The first time each turn that Eorl the Young expends a point of Might, roll a D6
 
 **SPECIAL RULES**
 
-- **Master Archer (ACTIVE)**
+- **Master Archer** `ACTIVE`
 
 King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, each time this model slays an enemy Hero or Monster model, restore the King's Huntsman's Might to its starting level.
 
@@ -447,7 +447,7 @@ King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, eac
 
 - [Expert Rider]
 - [Horse Lord]
-- **Arise Riders of Theoden! (ACTIVE)**
+- **Arise Riders of Theoden!** `ACTIVE`
 
 If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
 Charge.
@@ -510,7 +510,7 @@ Charge.
 **SPECIAL RULES**
 
 - [Expert Rider]
-- **Arise Riders of Theoden! (ACTIVE)**
+- **Arise Riders of Theoden!** `ACTIVE`
 
 If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
 Charge.
@@ -544,7 +544,7 @@ Charge.
 
 - [Bodyguard]
 - [Expert Rider]
-- **Arise Riders of Theoden! (ACTIVE)**
+- **Arise Riders of Theoden!** `ACTIVE`
 
 If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
 Charge.
@@ -574,7 +574,7 @@ Charge.
 **SPECIAL RULES**
 
 - [Expert Rider]
-- **Vanguard (ACTIVE)**
+- **Vanguard** `ACTIVE`
 
 Outriders may use a friendly Hero model's [Stand Fast!] regardless of range.
 
@@ -601,7 +601,7 @@ Outriders may use a friendly Hero model's [Stand Fast!] regardless of range.
 **SPECIAL RULES**
 
 - [Expert Rider]
-- **Riders of Eorl (ACTIVE)**
+- **Riders of Eorl** `ACTIVE`
 
 Whilst within 6" of Eorl the Young, Sons of Eorl gain a bonus of +1 to their Attack value.
 

@@ -42,7 +42,7 @@ After forces are deployed, but before the first turn begins, place the Campfire 
 
 - [Terror]
 - [Throw Stones] (range 12", Strength 8).
-- **Keep 'em for Later (ACTIVE)**
+- **Keep 'em for Later** `ACTIVE`
 
 If this Troll wins a Fight, they may choose one Man-sized (or smaller) model from the Fight and Keep 'em for Later instead of rolling for Strikes or using a Brutal Power Attack. Replace the model with a 25mm marker that represents the unfortunate victim stuffed in a bag. The model thereafter counts as being subject to the Paralyse Magical Power.
 
@@ -109,7 +109,7 @@ When Bert wins a Fight, he may choose to perform a Roast 'em Slowly Brutal Power
 - [Throw Stones] (range 12", Strength 8).
 - **Keep 'em for Later**
 
-- **Lingering Cold (ACTIVE)**
+- **Lingering Cold** `ACTIVE`
 
 During a Fight that involves him, and before making a Duel roll, Tom may expend a point of Will to halve the Fight value of a single foe in base contact as he sneezes on his victim.
 

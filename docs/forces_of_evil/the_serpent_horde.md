@@ -40,7 +40,7 @@ The profile for The Betrayer can be found on [page 140]. The Betrayer counts as 
 **SPECIAL RULES**
 
 - [Poisoned Sword]
-- **Ascendant (PASSIVE)**
+- **Ascendant** `PASSIVE`
 
 The range of Suladan's [Stand Fast!] is 12" rather than 6".
 
@@ -93,7 +93,7 @@ The Golden King and his bearers are represented by a single model with the combi
 - *[Two-handed]* weapon
 - The Golden Throne
 
-- **The Golden Throne (PASSIVE)**
+- **The Golden Throne** `PASSIVE`
 
 This is a [banner]. However, it does not hinder the Golden King in any way. He does not suffer the -1 penalty for carrying it.
 
@@ -104,7 +104,7 @@ This is a [banner]. However, it does not hinder the Golden King in any way. He d
 **SPECIAL RULES**
 
 - [Burly]
-- **Riches Beyond Renown (ACTIVE)**
+- **Riches Beyond Renown** `ACTIVE`
 
 The Golden King may spend any number of Will points whenever an enemy Hero model takes a Courage test within 12". The target model's Courage value is reduced by 1 for each point of Will the Golden King spends in this way. The Golden King may even wait for the Courage test to be rolled before choosing whether to expend any Will points. After the Golden King has reduced a target's Courage value, the target may still use Might or Will to alter their Courage test. 
 
@@ -136,7 +136,7 @@ The Golden King may spend any number of Will points whenever an enemy Hero model
 
 - [Bane of Kings]
 - [Stalk Unseen]
-- **Preternatural Agility (ACTIVE)**
+- **Preternatural Agility** `ACTIVE`
 
 A Hasharin can never be Trapped whilst still standing.
 
@@ -255,7 +255,7 @@ A Mumak with Tusk Weapons will inflict four Strength 9 hits when it Tramples, ra
 
 When a War Mumak of Harad tramples, it will inflict three Strength 9 hits.
 
-- **Awesome Presence (PASSIVE)**
+- **Awesome Presence** `PASSIVE`
 
 Friendly Haradrim and Mahud models within 3" of this model may re-roll a single D6 when making a Duel roll. This is cumulative with the effects of a banner, however, each D6 may only be re-rolled once. 
 
@@ -284,7 +284,7 @@ Friendly Haradrim and Mahud models within 3" of this model may re-roll a single 
 
 **SPECIAL RULES**
 
-- **Whip of the Masters (ACTIVE)**
+- **Whip of the Masters** `ACTIVE`
 
 Each time a friendly Hero model within 6" of the Taskmaster from the same army list, including the Taskmaster, attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, they may call the declared Heroic Action without expending Might.
 
@@ -418,7 +418,7 @@ A Watcher of Kama with twin blades increases their Attack characteristic to 2.
 
 - [Hatred] (Spirit)
 
-- **Steely Nerve (ACTIVE)**
+- **Steely Nerve** `ACTIVE`
 
 Watchers of Kama receive a bonus of +2 to any Courage test they must make for charging an enemy with the Terror special rule. Additionally, Watchers of Kama receive a bonus of +2 to their Courage when models with the Blades of the Dead special rule make Strikes against them.
 

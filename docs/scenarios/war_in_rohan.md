@@ -834,3 +834,117 @@ All Rohan models must be mounted and may have armor and shields if they are able
 **Evil:** 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 ![](../media/scenarios/war_in_rohan/paths_of_the_druadan.jpg)
+
+---
+
+## APPENDIX - FIELD OF CELEBRANT
+
+**LAYOUT**
+
+The board represents the Field of Celebrant and the River Anduin. The Anduin should run through the center of the board from north to south and should be 6" wide. The area of the Anduin within 3" of the center of the board is the ford. The rest of the board should have a few trees, bushes, and hedges dotted around.
+
+**STARTING POSITIONS**
+
+The Good player deploys their Gondor models on the western side of the Anduin but within 6" of the center of the battlefield. The Evil player then deploys their models within 12" of the eastern board edge. The Rohan models are kept aside for later in the game.
+
+**OBJECTIVES**
+
+The Khandish forces have thrust war upon Gondor and will not rest until its leaders are dead. However, the Horse Lords have come to Gondor's aid and will fight to drive the Khandish forces from the Field of Celebrant. The Good side wins if they can reduce the Evil side to 25% of its starting numbers at the end of any turn. The Evil player wins immediately if Cirion is slain.
+
+**SPECIAL RULES**
+
+* **Fast-flowing River**
+
+The area of the Anduin that is the ford is treated as Shallow Water. The rest of the Anduin is considered to be Deep Water.
+
+* **Eorl the Young**
+
+At the end of the Good player's fourth Move phase, the Rohan models may move onto the board from the northern board edge via the rules for Reinforcements.
+
+**PARTICIPANTS**
+
+**Good:** Eorl the Young; King of Men with heavy armour, shield and horse (representing Cirion); 12 Riders of Rohan: 4 with throwing spear, 8 with no additional equipment; 6 Sons of Eorl; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 6 Knights of Minas Tirith with shield.
+
+**Evil:** Khandish King on Chariot; Khandish Chieftain on Chariot; 3 Khandish Charioteers; 12 Khandish Horsemen; 18 Khandish Warriors: 6 with bow, 12 with hand-and-a-half axe.
+
+![](../media/scenarios/war_in_rohan/field_of_celebrant.jpg)
+
+---
+
+## APPENDIX - ASSAULT ON EDORAS
+
+**LAYOUT**
+
+The board represents the city of Edoras. In the center of the board should be a larger building representing the Golden Hall of Meduseld, with the doors facing southwards. The rest of the board should have four Rohan houses as shown on the map.
+
+**STARTING POSITIONS**
+
+The Good player splits their force into three equal sections and deploys each one within 3" of either the Golden Hall or one of the houses on the northern half of the board. The Evil player then deploys their force within 12" of the southern board edge.
+
+**OBJECTIVES**
+
+The Rohirrim must drive the Dunlendings from their home in order to prevent Edoras from falling. The Dunlendings have come to capture Edoras, which they believe to be rightfully theirs.
+
+The game lasts until one player has completed their objective. The Good player wins if they can reduce the Evil force to 25% of its starting numbers. The Evil player wins if they can capture the Golden Hall. If both players achieve this in the same turn, the game is a draw.
+
+**SPECIAL RULES**
+
+* **Death to the Forgoil!**
+
+Friendly Dunlending models gain the *Hatred (Rohan)* special rule.
+
+* **Dunlending War Cry**
+
+Once per game, at the start of any Fight phase, one Dunlending Chieftain can declare that they are using this ability. Until the end of the turn, friendly Dunlending models within 12" of the Chieftain gain a bonus of +1 To Wound when making strikes.
+
+* **The Golden Hall**
+
+To capture the Golden Hall, the Evil player must have five Dunlending models, including at least one Hero model, move into the Golden Hall via the doors. Models that move into the Golden Hall do not count as slain but cannot move out again once they are inside.
+
+**PARTICIPANTS**
+
+**Good:** 3 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Horsemen.
+
+![](../media/scenarios/war_in_rohan/assault_on_edoras.jpg)
+
+---
+
+## APPENDIX - BIRTH OF HELM'S DEEP
+
+**LAYOUT**
+
+The board represents the causeway of Helm's Deep and the plains outside the fortress. The causeway should extend out 12" from the western board edge and should be 9" wide. The rest of the board should be bare, representing the lands outside Helm's Deep.
+
+**STARTING POSITIONS**
+
+The Good player deploys their force on the causeway, with Helm Hammerhand at the front of their force. The Evil player then deploys their force anywhere within the eastern half of the board.
+
+**OBJECTIVES**
+
+With the sound of the horn ringing through the deep, Helm Hammerhand has ridden out to take the fight to the Dunlendings; only by slaying enough of them can the Dunlendings be driven back. The Dunlendings' task is simple: kill the king of Rohan and shatter the morale of his people.
+
+The game lasts until one side has completed their objective. The Good side wins if they can reduce the Evil force to 25% of its starting numbers at the end of any turn. The Evil force wins immediately if Helm Hammerhand is slain.
+
+**SPECIAL RULES**
+
+* **Death to the Forgoil!**
+
+Friendly Dunlending models gain the *Hatred (Rohan)* special rule.
+
+* **Dunlending War Cry**
+
+Once per game, at the start of any Fight phase, one Dunlending Chieftain can declare that they are using this ability. Until the end of the turn, friendly Dunlending models within 12" of the Chieftain gain a bonus of +1 To Wound when making strikes.
+
+* **The King of Rohan**
+
+Helm Hammerhand may declare a Heroic Combat each turn without spending Might.
+
+**PARTICIPANTS**
+
+**Good:** Helm Hammerhand on horse; 2 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear and horse; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Huscarls; 6 Dunlending Horsemen.
+
+![](../media/scenarios/war_in_rohan/birth_of_helms_deep.jpg)

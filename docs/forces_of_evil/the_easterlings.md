@@ -23,7 +23,7 @@ The profile for Khamul the Easterling can be found on [page 135]. Khamul the Eas
 
 - [Heavy armour]
 - Durtuz, the silver falchion
-- **Durtuz (PASSIVE)**
+- **Durtuz** `PASSIVE`
 
 Durtuz is an *[Elven-made]* *[hand-and-a-half]* [Sword]
 
@@ -42,11 +42,11 @@ Durtuz is an *[Elven-made]* *[hand-and-a-half]* [Sword]
 - [Unyielding Combat Stance]
 - Phalanx (see page 184)
 - The Gleaming Horde (see page 185)
-- **Herald of Victory (PASSIVE)**
+- **Herald of Victory** `PASSIVE`
 
 All Easterling models treat Amdur as a banner. If Amdur kills the enemy Leader in combat, the range of this banner is increased to 6".
 
-- **The Lord of Blades (ACTIVE)**
+- **The Lord of Blades** `ACTIVE`
 
 Whenever an enemy model in combat with Amdur declares a Heroic Strike, Amdur may immediately declare the same Heroic Action for free. If Amdur has already declared any other kind of Heroic Action, he may change his choice, but he does not 'regain' any Might points he has expended.
 
@@ -82,11 +82,11 @@ Whenever an enemy model in combat with Amdur declares a Heroic Strike, Amdur may
 - [Unyielding Combat Stance]
 - Phalanx (see page 184)
 - The Gleaming Horde (see page 185)
-- **Shield of Blades (ACTIVE)**
+- **Shield of Blades** `ACTIVE`
 
 Dragon Knights can use the Shielding melee whilst armed with two swords.
 
-- **Knights of the Dragon Cult (PASSIVE)**
+- **Knights of the Dragon Cult** `PASSIVE`
 
 Dragon Knights may only include Easterling models with the Black Dragon upgrade within their warbands.
 
@@ -153,7 +153,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 
 |     | Casting | Range |
 |---------------|:-------:|:-----:|
-| [Bladewrath]  | 2+   | 6”  |
+| [Bladewrath]  | 2+   | 6"  |
 | [Fury] (Easterling) | 3+ | 6"  |
 
 ---
@@ -186,7 +186,7 @@ Dragon Knights may only include Easterling models with the Black Dragon upgrade 
 
 **SPECIAL RULES**
 
-- **Phalanx (ACTIVE)**
+- **Phalanx** `ACTIVE`
 
 Easterling models can use pikes and shields at the same time without penalty. Furthermore, should an Easterling model on foot with this special rule lose a Duel roll, up to two other models that also have the Phalanx special rule can Make Way instead of one.
 
@@ -219,7 +219,7 @@ Easterling models can use pikes and shields at the same time without penalty. Fu
 **SPECIAL RULES**
 
 - Phalanx (see page 184)
-- **The Gleaming Horde (ACTIVE)**
+- **The Gleaming Horde** `ACTIVE`
 
 This model gains the Shieldwall special rule while they remain mounted, even though they are not on foot. The +1 Defence bonus is applied to both rider and steed. Hero models with this special rule that do not have a shield will still benefit from this mle.
 

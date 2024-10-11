@@ -42,7 +42,7 @@
 
 **ROBIN SMALLBURROW, HOBBIT SHIRRIFF [20 points]**
 
-**HAMFAST ‘GAFFER’ GAMGEE [30 points]**
+**HAMFAST 'GAFFER' GAMGEE [30 points]**
 
 **FOLCO BOFFIN [20 points]**
 
@@ -61,13 +61,13 @@
 ## ADDITIONAL RULES
 
 - A Defenders of the Shire force must always include Meriadoc, Captain of the Shire, and Peregrin, Captain of the Shire.
-- Meriadoc must always be the army’s leader.
-- Hobbit Militia in Merry’s warband must be upgraded to Battlin’ Brandybucks.
-- Hobbit Archers in Pippin’s warband must be upgraded to Tookish Hunters.
+- Meriadoc must always be the army's leader.
+- Hobbit Militia in Merry's warband must be upgraded to Battlin' Brandybucks.
+- Hobbit Archers in Pippin's warband must be upgraded to Tookish Hunters.
 
 ## SPECIAL RULES
 
-**“Fear! Fire! Foes!”** – Friendly Hobbit models gain the Woodland Creature special rule.
+**"Fear! Fire! Foes!"** – Friendly Hobbit models gain the Woodland Creature special rule.
 
 **Heroes of the Shire** – Friendly Hobbit Hero models may benefit from the Stand Fast! of Merry.
 
@@ -79,4 +79,4 @@
 or  
 - Deploy in, or within 1" of, a wood, building, rocky outcrop, or other similar piece of terrain that Hobbits could hide in.  
 
-A degree of common sense is required when deciding which pieces of terrain the Hobbits can ambush from – Hobbits shouldn’t be leaping out from behind a single rock or from a river! It is best to decide with your opponent before the game which pieces of terrain your Hobbits can ambush from. Models deployed in this way may not be placed within the Control Zones of any enemy models. Models that enter the board in this way cannot move any further that turn, and count as having moved half of their Move allowance for the purposes of shooting.
+A degree of common sense is required when deciding which pieces of terrain the Hobbits can ambush from – Hobbits shouldn't be leaping out from behind a single rock or from a river! It is best to decide with your opponent before the game which pieces of terrain your Hobbits can ambush from. Models deployed in this way may not be placed within the Control Zones of any enemy models. Models that enter the board in this way cannot move any further that turn, and count as having moved half of their Move allowance for the purposes of shooting.

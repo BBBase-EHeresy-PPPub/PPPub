@@ -28,7 +28,7 @@ As the Wanderers in the Wild are not an army, and not even really a fighting for
 - [Dwarf armour]
 - [Shield]
 - Kalazal
-- **Kalazal (ACTIVE)**
+- **Kalazal** `ACTIVE`
 
 This is a [sword]. Additionally, Miirin receives a bonus of +1 To Wound when making Strikes against Orc models, Goblin models and Uruk-hai models.
 
@@ -86,11 +86,11 @@ They are Impossible Allies with all other army lists.
 
 **SPECIAL RULES**
 
-- **Tom is Master (PASSIVE)**
+- **Tom is Master** `PASSIVE`
 
 Tom Bombadil treats all kinds of difficult terrain as open, and also always counts as having rolled a 6 on any Jump, Leap, Climb or Swim tests he has to make. Tom cannot be directly targeted by Abilities, Magical Powers or Shooting attacks, this means that Magical Powers, including friendly ones, that would affect Tom count as being automatically Resisted and any missiles that hit Tom will automatically disappear before they hit him. No models may move into Tom's Control Zone for any reason, unless his controlling player allows it. Models that are Hurled, Barged or forced towards Tom in any other way will stop 1" away from him and he will suffer no effects. Tom may Charge enemy models as normal and his side will automatically win any Fight that Tom is involved in, however neither Tom nor any model in the same Fight may make Strikes of any kind. Tom and all friendly models within 3" of him will automatically pass Courage tests. Tom may never carry objectives in Scenarios that require objectives to be picked up.
 
-- **Hey! Come Merry Dol! (PASSIVE)**
+- **Hey! Come Merry Dol!** `PASSIVE`
 
 Tom Bombadil must give up a point of Will at the end of each turn in which he participated in a Fight during the Fight phase. Should Tom Bombadil be reduced to 0 Will, or there are no other friendly models other than himself and Goldberry, then he will simply wander back off to his homestead. Remove the model as a casualty.
 
@@ -124,16 +124,16 @@ Tom Bombadil is Convenient Allies with all Good army lists.
 
 **SPECIAL RULES**
 
-- **River-daughter (PASSIVE)**
+- **River-daughter** `PASSIVE`
 
 Goldberry automatically passes any Swim tests she has to make. Goldberry cannot be directly targeted by Abilities, Magical Powers or Shooting attacks. This means that Magical Powers, including friendly ones, that would affect Goldberry count as being automatically Resisted and any missiles that hit Goldberry will automatically disappear before they hit her. No models may move into Goldberry's Control Zone, for any reason, unless her controlling player allows it. Models that are Hurled, Barged or forced towards Goldberry in any other way will stop 1" away from her and she will suffer no effects. Goldberry may Charge enemy models as normal and her side will automatically win any Fight that she is involved in, however neither Goldberry nor any model in the same Fight may make Strikes of any kind. Goldberry and all friendly models within 6" of her will automatically pass Courage tests. Goldberry may never carry objectives in Scenarios that require objectives to be picked
 up.
 
-- **Hey! Come Merry Dol! (PASSIVE)**
+- **Hey! Come Merry Dol!** `PASSIVE`
 
 Goldberry must give up a point of Will at the end of each turn in which she participated in a Fight during the Fight phase. Should Goldberry be reduced to 0 Will, or there are no other friendly models other than herself and Tom Bombadil, then she will simply wander back off to her homestead. Remove the model as a casualty.
 
-- **Tom has his House to mind, and Goldberry is waiting (PASSIVE)**
+- **Tom has his House to mind, and Goldberry is waiting** `PASSIVE`
 
 Goldberry may not be included in your force unless it also includes Tom Bombadil.
 
@@ -166,7 +166,7 @@ Goldberry is Convenient Allies with all Good army lists.
 
 **SPECIAL RULES**
 
-- **Shattered Spirit (PASSIVE)**
+- **Shattered Spirit** `PASSIVE`
 
 At the start of every Priority phase, before rolling for Priority, Thráin must take an unmodified Courage test. If the test is passed, he acts normally. If it is passed on a double, Thráin adds +2 to his Fight, Strength, Attacks and Courage until the end of the turn. If the Courage test is failed, then the opposing player controls Thráin as if he was one of their models. If Thráin is being used as a Good model, then when he fails his Courage test, the only difference between him and other Evil models is that Good models cannot target Thráin with missile fire or Magical Powers that cause damage, and cannot make Strikes against him. Thráin must always take this Courage test, he can never be forced to automatically pass it.
 

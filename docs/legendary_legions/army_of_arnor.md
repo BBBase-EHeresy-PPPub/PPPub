@@ -37,13 +37,13 @@
 
 ## ADDITIONAL RULES
 
-- An Army of Arnor force must always include Arvedui, Last King of Arnor, who is always the army’s leader.
+- An Army of Arnor force must always include Arvedui, Last King of Arnor, who is always the army's leader.
 - Rangers of the North and Dúnedain in this force gain the Arnor keyword.
 
 ## SPECIAL RULES
 
 **"Protect the King!"** – Friendly Arnor models automatically pass Courage tests whilst within 6" of Arvedui, Last King of Arnor.
 
-**Power of the Seer** – Friendly Arnor Hero models receive a bonus of +1 when rolling for Malbeth’s Gift of Foresight special rule.
+**Power of the Seer** – Friendly Arnor Hero models receive a bonus of +1 when rolling for Malbeth's Gift of Foresight special rule.
 
-**Foresight of the Eldar** – Before the game begins, roll a D6 and make a note of the result. These are Malbeth’s Foresight points for the battle. During the Priority phase, after the dice has been rolled, as long as he is alive and on the battlefield, Malbeth may choose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Malbeth may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.
+**Foresight of the Eldar** – Before the game begins, roll a D6 and make a note of the result. These are Malbeth's Foresight points for the battle. During the Priority phase, after the dice has been rolled, as long as he is alive and on the battlefield, Malbeth may choose to expend these Foresight points to alter the controlling player's dice roll. For each Foresight point expended, Malbeth may alter the dice score by either +1 or -1, to a minimum of 1 and a maximum of 6.

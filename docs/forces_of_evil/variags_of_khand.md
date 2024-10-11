@@ -36,7 +36,7 @@ This army may include: Khandish Kings; Khandish Chieftains; Khandish Warriors; K
 
 **SPECIAL RULES**
 
-- **Commanding Presence (PASSIVE)**
+- **Commanding Presence** `PASSIVE`
 
 Friendly Khandish models within 6" of a Khandish King count as being in range of a banner.
 
@@ -152,15 +152,15 @@ If a Khandish Horseman is dismounted, they immediately drop either their bow or 
 | 10" | 0 | 3 | 7 | 0 | 3 | 3 |
 
 
-- **Defensive Bulwark (ACTIVE)**
+- **Defensive Bulwark** `ACTIVE`
 
 When an enemy model makes an In The Way roll to see if they hit either the rider or the mount, they will hit the Chariot on a 1-4 and the rider on a 5+. Additionally, when in combat, any model that wishes to Strike the rider must roll a D6. On a 1-4, the model must Strike the Chariot. On a 5+, they may Strike the rider.
 
-- **The Chariot and Magic (PASSIVE)**
+- **The Chariot and Magic** `PASSIVE`
 
 Models with Magical Powers can use them on the Chariot, selecting either the Chariot itself or one of the crew members as the target. Magical Powers that affect multiple targets will automatically affect both the Chariot and its crew if in range of the model. Only by affecting the Driver will a Magical Power such as Transfix or Compel impede the Chariot's movement (thereby causing it to remain stationary or take a move as described by the Magical Power). Finally, Magical Powers such as Sorcerous Blast, Nature's Wrath and Call Winds will not move the Chariot or Knock it Prone, although they will still inflict any damage as detailed in the Magical Power's description.
 
-- **Stable Platform (ACTIVE)**
+- **Stable Platform** `ACTIVE`
 
 A model riding a Chariot can still fire a bow after moving its full distance.
 

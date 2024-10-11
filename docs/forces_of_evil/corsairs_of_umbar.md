@@ -31,7 +31,7 @@ The profile for Black Niimenoreans is on page 121.
 - [Throwing daggers][Throwing weapon]
 - Smoke bombs
 
-- **Smoke Bombs (ACTIVE)**
+- **Smoke Bombs** `ACTIVE`
 
 These are a throwing weapon with Strength 1. Any model hit, but not slain, by these weapons must immediately expend a point of Will or be subjected to the effects of the Channelled version of the Transfix Magical Power. Should Dalamyr ever roll a 1 To Hit with his smoke bombs then his supply has run out and he cannot use them for the remainder of the game.
 
@@ -44,7 +44,7 @@ These are a throwing weapon with Strength 1. Any model hit, but not slain, by th
 
 - [Bane of Kings]
 - [Stalk Unseen]
-- **Preternatural Agility (ACTIVE)**
+- **Preternatural Agility** `ACTIVE`
 
 Dalamyr can never be Trapped whilst still standing.
 
@@ -109,7 +109,7 @@ Dalamyr can never be Trapped whilst still standing.
 
 **SPECIAL RULES**
 
-- **Commanding Bellow (ACTIVE)**
+- **Commanding Bellow** `ACTIVE`
 
 Friendly Corsair models within 3" of a Corsair Bo'sun count as being in range of a banner.
 
@@ -164,7 +164,7 @@ Friendly Corsair models within 3" of a Corsair Bo'sun count as being in range of
 
 **SPECIAL RULES**
 
-- **Mindless Killers (ACTIVE)**
+- **Mindless Killers** `ACTIVE`
 
 Any Corsair Reaver that starts its move at least 6" away from a friendly Corsair Bo'sun must take a Courage test. If the test is failed, they will be driven into a bloodthirsty rampage, and will Charge the nearest enemy model. If two or more models are an equal distance away from each other then the Reaver's controlling player may choose which model the Reaver will Charge. If a Reaver fails this Courage test, and it is not possible for it to Charge an enemy model, it will Charge the nearest friendly model instead. Should a Corsair Reaver Charge a friendly model, then the Charged model may not move during the Move phase and must fight the Reaver during the Fight phase. If a Reaver fails this test, and there are no models (friend or foe) that it can Charge, it will move 6" towards the closest enemy model instead.
 

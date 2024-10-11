@@ -602,11 +602,11 @@ Both sides must cause enough casualties to force the other to surrender. The gam
 
 * **The Bullroarer**
 
-Should Bandobras Took be slain, then at the start of each Hobbit model’s Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+Should Bandobras Took be slain, then at the start of each Hobbit model's Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
 
 * **Golfimbul**
 
-Should Golfimbul be slain, then at the start of each Orc model’s Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+Should Golfimbul be slain, then at the start of each Orc model's Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
 
 * **Surprise Volley**
 

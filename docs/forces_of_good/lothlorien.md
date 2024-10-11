@@ -22,7 +22,7 @@ This army may include: Galadriel; Celeborn; Haldir; Rumil; Galadhrim Captains; W
 
 - [Unarmed]
 - Nenya
-- **Nenya (PASSIVE)**
+- **Nenya** `PASSIVE`
 
 Galadriel can re-roll her dice when using Fate points.
 
@@ -38,7 +38,7 @@ Galadriel can re-roll her dice when using Fate points.
 
 If your army includes Galadriel, you may upgrade any number of Galadhrim Warriors in her warband to Galadhrim Guard at the cost of + 1 point per model. Galadhrim Guard have a Courage of 6.
 
-- **Mirror of Galadriel (PASSIVE)**
+- **Mirror of Galadriel** `PASSIVE`
 
 The mirror is a Heavy Object with a Defence of 8 and 3 Wounds. It is deployed within 6" of Galadriel at the start of the game. For Scenarios that require both armies to move onto the board, any models within Galadriel's warband may carry the mirror onto the board. During the End phase of each turn, one friendly Hero model within 6" may restore their Fate to its starting value.
 
@@ -46,7 +46,7 @@ The mirror is a Heavy Object with a Defence of 8 and 3 Wounds. It is deployed wi
 
 - [Terror]
 - [Woodland Creature]
-- ***The Lady of Lothlorien (PASSIVE)**
+- ***The Lady of Lothlorien** `PASSIVE`
 
 Galadriel may expend a single point of Will each turn without reducing her own store.
 
@@ -95,11 +95,11 @@ Galadriel may expend a single point of Will each turn without reducing her own s
 
 - [Terror]
 - [Woodland Creature]
-- **Lord of the West (ACTIVE)**
+- **Lord of the West** `ACTIVE`
 
 A model with this special rule may re-roll a single D6 when making a Duel roll. Additionally, they may re-roll a single D6 when rolling To Wound.
 
-- **Lord of Lórien (ACTIVE)**
+- **Lord of Lórien** `ACTIVE`
 
 Celeborn's [Stand Fast!] is 12" rather than 6".
 
@@ -142,7 +142,7 @@ Celeborn's [Stand Fast!] is 12" rather than 6".
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Swift Parry (ACTIVE)**
+- **Swift Parry** `ACTIVE`
 
 Rumil may force one enemy model in the same fight as him to re- roll a single D6 for the Duel roll. This must be done before any Might points are used.
 
@@ -180,11 +180,11 @@ Rumil may force one enemy model in the same fight as him to re- roll a single D6
 
 - [Expert Shot]
 - [Woodland Creature]
-- **Allies 'til the End (PASSIVE)**
+- **Allies 'til the End** `PASSIVE`
 
 Haldir is counted as being in range of a [banner], and automatically passes all Courage tests, if he is within 12" of either Aragorn or Theoden.
 
-- **One Final Blow (ACTIVE)**
+- **One Final Blow** `ACTIVE`
 
 If Haldir is slain in close combat, he may immediately make one Strength 4 Strike on each enemy model that was Engaged with him in the fatal fight.
 
@@ -251,7 +251,7 @@ If Haldir is slain in close combat, he may immediately make one Strength 4 Strik
 - [Elf bow][Bow]: 5 points
 - [Throwing daggers][Throwing weapon]: 5 points
 - Wood Elf spear: 5 points
-- **Wood Elf spear (ACTIVE)**
+- **Wood Elf spear** `ACTIVE`
 
 In addition to the normal rules for spears, a model armed with a Wood Elf spear may also parry, allowing the model to use the rules for Shielding.
 
@@ -286,7 +286,7 @@ In addition to the normal rules for spears, a model armed with a Wood Elf spear 
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Powers of Nature (PASSIVE)**
+- **Powers of Nature** `PASSIVE`
 
 If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or more dice, then the Will points spent in casting the Magical Power are returned to the Stormcaller's store of Will upon completion of the effects of the Magical Power.
 
@@ -389,7 +389,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Caras Galadhon Fighting Style (ACTIVE)**
+- **Caras Galadhon Fighting Style** `ACTIVE`
 
 In addition to the normal rules for pikes, the Guard of the Galadhrim Court may also use the rules for shielding. The usual restrictions for shielding still apply, chiefly that a Guard of the Galadhrim Court that is shielding cannot be supported by another model, not even by another Guard of the Galadhrim Court.
 
@@ -418,7 +418,7 @@ In addition to the normal rules for pikes, the Guard of the Galadhrim Court may 
 - [Elf bow][Bow]: 2 points
 - [Throwing daggers][Throwing weapon]: 2 points
 - Wood Elf spear: 1 point
-- **Wood Elf spear (ACTIVE)**
+- **Wood Elf spear** `ACTIVE`
 
 In addition to the normal rules for spears, a model armed with a Wood Elf spear may also parry, allowing the model to use the rules for Shielding.
 
@@ -449,7 +449,7 @@ In addition to the normal rules for spears, a model armed with a Wood Elf spear 
 **SPECIAL RULES**
 
 - [Woodland Creature]
-- **Enchanting Song (ACTIVE)**
+- **Enchanting Song** `ACTIVE`
 
 A Sentinel may sing one song each turn, provided they are not Engaged in combat. These function exactly like Magical Powers except that they are automatically cast without spending Will, and cannot be resisted.
 

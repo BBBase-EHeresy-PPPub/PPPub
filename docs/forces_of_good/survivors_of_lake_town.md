@@ -12,7 +12,7 @@ In the films, following Smaug's destruction of Lake-town, some former members of
 
 ## ARMY BONUS
 
-“Any man who wants to give their last, follow me!" – Bard the Bowman's [Stand Fast!] will affect other Laketown Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+"Any man who wants to give their last, follow me!" – Bard the Bowman's [Stand Fast!] will affect other Laketown Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
 ## HEROES OF THE SURVIVORS OF LAKE-TOWN
 
@@ -45,15 +45,15 @@ In the films, following Smaug's destruction of Lake-town, some former members of
 
 **SPECIAL RULES**
 
-- **Rapid Fire (ACTIVE)**
+- **Rapid Fire** `ACTIVE`
 
 If Bard the Bowman hits a target with his great bow, he may take another shot at a target within 3" of it (it may even be the same target). If that shot is also a hit, he may shoot again – to a maximum of three shots in total.
 
-- **The Black Arrow (ACTIVE)**
+- **The Black Arrow** `ACTIVE`
 
 Once per game, Bard the Bowman can fire his Black Arrow instead of shooting the Windlance normally. If you choose to do so, declare that he is firing his Black Arrow before rolling To Hit. When shooting the Black Arrow, Bard the Bowman re-rolls a failed To Hit roll and any failed In The Way tests. Furthermore, do not roll on the Scatter table when firing the Black Arrow – a successful To Hit roll against a Battlefield target automatically counts as a Dead On! result.
 
-- **Saviour of Lake-town (PASSIVE)**
+- **Saviour of Lake-town** `PASSIVE`
 
 Bard the Bowman's [Stand Fast!] rule has a range of 6". Furthermore, Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and Lake-town Militia within 6" of Bard the Bowman receive a +1 bonus to their Fight value and count as being in range of a banner.
 
@@ -108,11 +108,11 @@ Sigrid and Tilda may only be included in your army if it also includes Bard the 
 
 **SPECIAL RULES**
 
-- **"Da! Down Here!" (PASSIVE)**
+- **"Da! Down Here!"** `PASSIVE`
 
 Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
 
-- **Something to Fight for (ACTIVE)**
+- **Something to Fight for** `ACTIVE`
 
 If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
 
@@ -142,7 +142,7 @@ It is possible for two models to be the target of Bard's rage if both Sigrid and
 
 **SPECIAL RULES**
 
-- **"Archers, This Way!" (PASSIVE)**
+- **"Archers, This Way!"** `PASSIVE`
 
 Percy, and Lake-town Militia within 6" of Percy, may re-roll 1s To Hit when making shooting attacks with a bow.
 
@@ -169,7 +169,7 @@ Percy, and Lake-town Militia within 6" of Percy, may re-roll 1s To Hit when maki
 
 **SPECIAL RULES**
 
-- **Stand by our Men! (PASSIVE)**
+- **Stand by our Men!** `PASSIVE`
 
 If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and Lake-town Militia within 3" of her gain a bonus of +1 To Wound if they charged that turn.
 
@@ -191,11 +191,11 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 - [The One Ring]
 - Mithril Coat
 - Sting
-- **Mithril Coat (PASSIVE)**
+- **Mithril Coat** `PASSIVE`
 
 Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this is already included in Bilbo's profile above).
 
-- **Sting (ACTIVE)**
+- **Sting** `ACTIVE`
 
 Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
@@ -209,7 +209,7 @@ Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a mode
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
-- **It has not yet Awoken (PASSIVE)**
+- **It has not yet Awoken** `PASSIVE`
 
 Bilbo Baggins, Master Burglar ignores the Sauron's Will section of the One Ring's rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
 
@@ -268,7 +268,7 @@ Bilbo Baggins, Master Burglar ignores the Sauron's Will section of the One Ring'
 
 **SPECIAL RULES**
 
-- **Onwards, Men of Esgaroth (PASSIVE)**
+- **Onwards, Men of Esgaroth** `PASSIVE`
 
 Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is in combat do not need to take Courage tests for being Broken.
 

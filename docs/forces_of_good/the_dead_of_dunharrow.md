@@ -35,15 +35,15 @@ A Dead of Dunharrow army list is automatically Impossible Allies with any force 
 
 * [Blades of the Dead]
 * [Terror]
-* **Drain Soul (ACTIVE)**
+* **Drain Soul** `ACTIVE`
 
 Any model that suffers a Wound from the King of the Dead is automatically slain, regardless of how many Wounds it has remaining. Hero models may prevent these Wounds with Fate, but if even a single Wound is not prevented, they are slain.
 
-* **The Dead and the Living (PASSIVE)**
+* **The Dead and the Living** `PASSIVE`
 
 Only Warriors and Riders of the Dead may use the King of the Dead's [Stand Fast!] or benefit from his Heroic Actions.
 
-* **Spectral Walk (PASSIVE)**
+* **Spectral Walk** `PASSIVE`
 
 A model with this special rule may move over water features as if they were open ground.
 
@@ -77,7 +77,7 @@ A model with this special rule may move over water features as if they were open
 
 * [Blades of the Dead]
 * [Terror]
-* **Spectral Walk (PASSIVE)**
+* **Spectral Walk** `PASSIVE`
 
 A model with this special rule may move over water features as if they were open ground.
 
@@ -100,7 +100,7 @@ A model with this special rule may move over water features as if they were open
 * [Sword]
 * [Shield]
 * Spectral steed
-* **Spectral steed (PASSIVE)**
+* **Spectral steed** `PASSIVE`
 
 This is a [horse] that is a Spirit model and has a Defence of 6.
 
@@ -108,7 +108,7 @@ This is a [horse] that is a Spirit model and has a Defence of 6.
 
 * [Blades of the Dead]
 * [Terror]
-* **Spectral Walk (PASSIVE)**
+* **Spectral Walk** `PASSIVE`
 
 A model with this special rule may move over water features as if they were open ground.
 

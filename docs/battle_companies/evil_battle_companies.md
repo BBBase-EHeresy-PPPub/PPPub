@@ -63,7 +63,7 @@ Black Númenórean – Morgul Knight
 
 ### CIRITH UNGOL
 
-To the west of Mordor is Cirith Ungol, a fortress that guards the pass that runs through the mountains between Mordor and Gondor. This tall and imposing structure is garrisoned by a rabble of Orcs and Mordor Uruk-hai, two factions that constantly bicker with each other over who truly commands the forces stationed within the tower. They are the first line of defence against whatever should come through the pass, whether that be Elves, Men, or something more sinister. Under the orders of the commanders of the tower, bands of Orcs and Uruk-hai are sent into the pass to patrol its borders in search of anyone brave (or foolish) enough to attempt to cross it, knowing full well that they risk being entwined in the clutches of Shelob, who lurks within its dank tunnels. It has been known for these bands to be set upon by lesser spiders, and sometimes they manage to fend off and ‘control' them for long enough that they can utilise them against their enemies in times of need.
+To the west of Mordor is Cirith Ungol, a fortress that guards the pass that runs through the mountains between Mordor and Gondor. This tall and imposing structure is garrisoned by a rabble of Orcs and Mordor Uruk-hai, two factions that constantly bicker with each other over who truly commands the forces stationed within the tower. They are the first line of defence against whatever should come through the pass, whether that be Elves, Men, or something more sinister. Under the orders of the commanders of the tower, bands of Orcs and Uruk-hai are sent into the pass to patrol its borders in search of anyone brave (or foolish) enough to attempt to cross it, knowing full well that they risk being entwined in the clutches of Shelob, who lurks within its dank tunnels. It has been known for these bands to be set upon by lesser spiders, and sometimes they manage to fend off and 'control' them for long enough that they can utilise them against their enemies in times of need.
 
 **STARTING BATTLECOMPANY**
 
@@ -257,7 +257,7 @@ When Saruman's treachery was finally revealed, he called upon more than just Orc
 
 Following his army's defeat at Helm's Deep, and his subsequent banishment from Isengard, Saruman, under the guise of an old withered man named Sharkey, made his way west to the Shire. There, he gathered Ruffians and wild men, hatching a scheme to take control over the Shire and the Halflings living there as vengeance for the defeat that the Travellers had brought upon him.
 
-After plotting and buying his way into control over the Shire, Sharkey assumed full command under the name of ‘The Chief' and sent bands of his Ruffians across the Shire and surrounding lands to spread his will. Some of these groups of Ruffians and wild men would often venture a bit further than instructed, bullying local villages, especially if there was some extra money to be had.
+After plotting and buying his way into control over the Shire, Sharkey assumed full command under the name of 'The Chief' and sent bands of his Ruffians across the Shire and surrounding lands to spread his will. Some of these groups of Ruffians and wild men would often venture a bit further than instructed, bullying local villages, especially if there was some extra money to be had.
 
 **STARTING BATTLECOMPANY**
 
@@ -329,7 +329,7 @@ Moria Goblin with Orc bow – Moria Goblin Prowler
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Treacherous Leader'** – Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their ‘allies' to see that they live to fight another day.
+**'Treacherous Leader'** – Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their 'allies' to see that they live to fight another day.
 
 Every time this Hero suffers a Wound in combat that would result in it being slain, after Fate points have been spent, roll a D6. On a 2+, the Hero may select another friendly model within 1" of itself; that model suffers the Wound instead of the Hero. Models that suffer Wounds in this way may still use Fate points as normal.
 

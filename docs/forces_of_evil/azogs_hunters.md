@@ -38,7 +38,7 @@ The profile for Bolg can be found on page 96. Bolg counts as a Hero of Valour if
 **SPECIAL RULES**
 
 - [Expert Rider]
-- **The Price of Failure (PASSIVE)**
+- **The Price of Failure** `PASSIVE`
 
 If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling the dice to make a Courage test when your force is Broken, you can remove Yazneg from play. If you do so, Azog is considered to have automatically passed his Courage test and his [Stand Fast!] will affect the entire battlefield. Furthermore, if Yazneg is removed from play in this way then whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
 
@@ -73,7 +73,7 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 
 - [Expert Rider]
 - Morgul Arrows
-- **Lethal Aim (ACTIVE)**
+- **Lethal Aim** `ACTIVE`
 
 Each turn, Narzug may spend a single point of Might without reducing his store (even if he has none remaining) to modify either a To Hit roll, an In The Way roll or a To Wound roll when shooting his Orc bow.
 
@@ -107,7 +107,7 @@ Each turn, Narzug may spend a single point of Might without reducing his store (
 **SPECIAL RULES**
 
 - [Expert Rider]
-- **Hunt Master (ACTIVE)**
+- **Hunt Master** `ACTIVE`
 
 When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting to move in difficult terrain – this even enables him to gain the bonuses for charging!
 
@@ -141,7 +141,7 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models attempting
 
 **SPECIAL RULES**
 
-- **Many Blades (ACTIVE)**
+- **Many Blades** `ACTIVE`
 
 Whilst they have the Infantry keyword, a model with this special rule receives +1 Attack.
 
@@ -175,7 +175,7 @@ Whilst they have the Infantry keyword, a model with this special rule receives +
 
 **SPECIAL RULES**
 
-- **Many Blades (ACTIVE)**
+- **Many Blades** `ACTIVE`
 
 Whilst they have the Infantry keyword, a model with this special rule receives +1 Attack.
 

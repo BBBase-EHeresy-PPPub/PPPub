@@ -22,7 +22,7 @@ This army may include: The Dark Lord Sauron; The Witch-king of Angmar; Ringwrait
 - [Heavy armour]
 - [Mace]
 - The One Ring
-- ****The One Ring (PASSIVE)**
+- ****The One Ring** `PASSIVE`
 
 Sauron does not follow the normal rules for The One Ring. Instead, whilst he wields The One Ring, whenever Sauron loses his last Wound or would be removed as a casualty, roll a D6. On a 2+, the power of the Ring sustains him and he has a single Wound restored. During the Fight phase, Sauron will make this roll for each Wound suffered that would cause him to be removed as a casualty. Sauron may use Might to influence this roll.
 
@@ -38,11 +38,11 @@ Sauron does not follow the normal rules for The One Ring. Instead, whilst he wie
 - [Ancient Evil]
 - [Resistant to Magic]
 - [Terror]
-- **The Dark Lord (PASSIVE)**
+- **The Dark Lord** `PASSIVE`
 
 If Sauron is in your force, he must be your leader
 
-- ***The Lord of the Rings (PASSIVE)**
+- ***The Lord of the Rings** `PASSIVE`
 
 Sauron can spend a single point of Will each turn without reducing his own store.
 
@@ -101,11 +101,11 @@ Sauron makes a single Strike against a single Infantry or Cavalry model Engaged 
 - Morgul Blade: 10 points
 - *[Two-handed]* [flail]: 5 points
 
-- **Crown of Morgul (PASSIVE)**
+- **Crown of Morgul** `PASSIVE`
 
 If the Witch-king has the Crown of Morgul, his Attack value is increased to 3. Additionally, whilst wearing the Crown of Morgul, the Witch-king of Angmar can choose to re-roll one dice when making Casting or Resist tests.
 
-- **Morgul Blade (ACTIVE)**
+- **Morgul Blade** `ACTIVE`
 
 Once per game, this model's controlling player may declare they are using their Morgul blade during the Fight phase before rolling To Wound. If a model is using a Morgul blade, they must direct all of their Strikes against a single target. An enemy that suffers a Wound from the Morgul blade is automatically slain, regardless of the number of Wounds on their profile. Heroes may use Fate to avoid these Wounds, but if even a single Wound is not saved, they are slain. If the model using the Morgul blade is mounted, they must use the rider's Attacks and Strength if using the Morgul blade.
 
@@ -169,7 +169,7 @@ When buying the Witch-king for your force, decide how many points of Might/Will/
 
 A Ringwraith may upgrade its number of Might, Will and Fate in the same manner as the Witch-king (see page 114), to a maximum of 2/14/2.
 
-- **One of Nine (PASSIVE)**
+- **One of Nine** `PASSIVE`
 
 There can only be a maximum of nine Ringwraith models, of any combination (including Ringwraiths, Nazgul of Dol Guldur or any of the named Ringwraiths), in your force.
 
@@ -213,7 +213,7 @@ There can only be a maximum of nine Ringwraith models, of any combination (inclu
 
 Instead of striking as normal, Shelob can instead opt to direct a single Strike at one model involved in the Fight. This model may not be a Monster. The chosen model suffers one Strength 7 hit. If the model is wounded, and the Wound is not prevented by Fate, the model is treated as being under the effect of the Paralyse Magical Power.
 
-- **Lone Hunter (PASSIVE)**
+- **Lone Hunter** `PASSIVE`
 
 Shelob hunts alone, those that are foolish enough to get in her way will end up suffering the same fate as the rest of her prey. Shelob may never be taken as part of another model's warband.
 
@@ -300,7 +300,7 @@ Shelob hunts alone, those that are foolish enough to get in her way will end up 
 
 **SPECIAL RULES**
 
-- **Whip of the Masters (ACTIVE)**
+- **Whip of the Masters** `ACTIVE`
 
 Each time a friendly Hero model within 6" of the Taskmaster from the same army list, including the Taskmaster itself, attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, they may call the declared Heroic Action without expending Might.
 

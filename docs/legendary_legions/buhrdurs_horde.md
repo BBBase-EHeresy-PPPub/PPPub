@@ -39,7 +39,7 @@
 
 ## ADDITIONAL RULES
 
-- A Buhrdûr’s Horde force must always include Buhrdûr, Troll Chieftain, who is always the army’s leader.
+- A Buhrdûr's Horde force must always include Buhrdûr, Troll Chieftain, who is always the army's leader.
 
 ## SPECIAL RULES
 
@@ -47,7 +47,7 @@
 
 **A Fearsome Foe** – Buhrdûr gains the Blood and Glory special rule. Additionally, if Buhrdûr kills an enemy Hero in combat, he gains the Fearless special rule for the remainder of the battle.
 
-**Ambushers** – Buhrdûr’s warband is ambushing and does not deploy on the board as normal. Instead, at the end of both players’ third Move phase, the ambushing warband must choose one of the following:  
+**Ambushers** – Buhrdûr's warband is ambushing and does not deploy on the board as normal. Instead, at the end of both players' third Move phase, the ambushing warband must choose one of the following:  
 
 Move onto the board from any board edge via the rules for Reinforcements.  
 
