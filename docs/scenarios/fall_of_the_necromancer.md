@@ -126,13 +126,13 @@ The game lasts until one force has completed their objective. The Good force win
 
 **SPECIAL RULES**
 
-**Spider Nests** — *The nests in the forest are home to the Spider Queen's offspring, and more will constantly come to her aid.*
+* **Spider Nests**
 
 Good models treat Spider Nests as difficult terrain.
 
 Additionally, whenever a **Spider** model is slain, with the exception of the Spider Queen, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each **Spider** model kept aside in this manner. On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter from, roll a further D6. On a 1-3, the Good player chooses which Spider Nest the model enters from; on a 4+, the Evil player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
-**Swarm of Spiders** — *The writhing mass of broodlings on the back of the Spider Queen makes it hard to hit her from range, and the chances of piercing her hide are slim.*
+* **Swarm of Spiders**
 
 Shooting attacks that target the Spider Queen suffer a -1 penalty when rolling To Hit. Additionally, shooting attacks will only Wound the Spider Queen on the roll of a natural 6.
 

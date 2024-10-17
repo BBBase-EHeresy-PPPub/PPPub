@@ -557,11 +557,9 @@ The Mallorn tree has a Defence of 10 and 10 Wounds. Evil models may fight the Ma
 
 Muzgúr and the Orc Shaman gain the following additional Magical Power:
 
-*DECAY*
-Range: 6"
-Casting Value: 4+
+*DECAY (DURATION: INSTANT)*
 
-This Magical Power may only target the Mallorn tree. The Mallorn tree suffers a Wound. Additionally, its Defence characteristic is reduced by 1 for the remainder of the game.
+This Magical Power may only target the Mallorn tree, has a range of 6" and is cast on a 4+. The Mallorn tree suffers a Wound. Additionally, it reduces its Defence characteristic by 1 for the remainder of the game.
 
 Additionally, both Muzgúr and the Orc Shaman gain a free Will point per turn, which can only be used to cast the Decay Magical Power.
 
@@ -682,11 +680,9 @@ The Good player wins immediately if they can destroy all seven of the ruins of D
 
 Galadriel may only attempt to cast the following Magical Power during the game:
 
-*BREAK STONE*
-Range: 3"
-Casting Value: 4+
+*BREAK STONE (DURATION: INSTANT)*
 
-This Magical Power may only target the ruins of Dol Guldur. The targeted ruins are immediately destroyed. Any models within the ruins, or within 1" of the ruins when they are destroyed, suffer a Strength 8 hit.
+This Magical Power may only target the ruins of Dol Guldur, has a range of 3" and is cast on a 4+. The targeted ruins are immediately destroyed. Any models within the ruins, or within 1" of the ruins, when they are destroyed suffer a Strength 8 hit.
 
 * **Weary from War**
 
@@ -699,3 +695,165 @@ Each Good Hero model starts the game with one fewer Might point than usual.
 **Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
 
 ![](../media/scenarios/defence_of_the_north/fall_of_dol_guldur.jpg)
+
+---
+
+## APPENDIX - DESTRUCTION OF DALE
+
+**LAYOUT**
+
+This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways, and, of course, plenty of towers to fire at the Dragon from. The center of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this – Dale's only hope at stopping the dreaded Smaug!
+
+**STARTING POSITIONS**
+
+The Good player deploys their force anywhere on the board, but at least 6" from any board edge and at least 6" from the Windlance. The Evil player does not deploy Smaug; he will move onto the board on the first turn.
+
+**OBJECTIVES**
+
+This is a fight to the death. The Men of Dale must slay the Dragon, or perish in the attempt. The first side to wipe out their opponent is declared the winner.
+
+**SPECIAL RULES**
+
+* **The Coming of Smaug**
+
+At the end of the Evil player's first Move phase, Smaug will arrive. The Evil player rolls a D6. On a 1-3, the Good player may decide which board edge Smaug arrives from. On a 4+, the Evil player may choose instead.
+
+* **Not Yet Loosened**
+
+Smaug is not subject to his Missing Scale rule in this Scenario.
+
+* **The Lord of Dale**
+
+Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
+
+**PARTICIPANTS**
+
+**Good:**  Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
+
+**Evil:**  Smaug.
+
+![](../media/scenarios/defence_of_the_north/destruction_of_dale.jpg)
+
+---
+
+## APPENDIX - BATTLE FOR DALE
+
+**LAYOUT**
+
+This scenario takes place within the city of Dale. The city is closely packed with houses, providing plenty of streets of various sizes in which to fight. The area within 6" of the center of the board is clear and represents the courtyard. It is the streets that make this scenario exciting; some should be big enough for only one or two models, whereas others should fit many more. The center of the southern board edge represents the gates of Dale. Five Objective Markers should be placed as shown on the map.
+
+**STARTING POSITIONS**
+
+The Good player deploys all of their models except the Elves (these are kept aside for later) anywhere within 12" of the northern board edge. The Evil player deploys half of their models anywhere within 12" of the southern board edge, and the other half anywhere between 12" and 24" of the southern board edge.
+
+**OBJECTIVES**
+
+The Orcs are trying to take the city and will not stop until all those within it are dead. The Men and Elves are trying to prevent the city from falling into Orcish hands. Both forces are trying to capture key areas of Dale (represented by the markers). The game lasts until one force has been reduced to 25% of its starting number, at which point whichever side has captured the most objectives by having more models within 3" of them is the winner. Additionally, if both Thranduil and Bard have been slain, the best result the Good player can achieve is a draw.
+
+**SPECIAL RULES**
+
+* **The Elven Host**
+
+At the end of the Good player's second Move phase, the Elves move onto the board through the gates of Dale.
+
+* **"You're not a Man, you're a Weasel"**
+
+Alfrid may not use his Dubious Counsel special rule.
+
+* **Radagast's Staff**
+
+Whenever Gandalf declares that he is casting a Magical Power, declare how many Will points are being used, then roll a single D6 before rolling to cast. On a 1 or 2, the Magical Power is not cast, and any Will points declared are lost.
+
+**PARTICIPANTS**
+
+**Good:** Bard the Bowman with armor; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar; Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
+
+**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
+
+![](../media/scenarios/defence_of_the_north/battle_for_dale.jpg)
+
+---
+
+## APPENDIX - THE BATTLE OF FIVE ARMIES
+
+**LAYOUT**
+
+The board represents the plains before Erebor – there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this scenario!). The eastern board edge represents the walls of Erebor, with the center marking the gates of Erebor.
+
+**STARTING POSITIONS**
+
+The Evil player deploys the Signal Tower as shown on the map, with Azog and all seven of his Lieutenants within 3" of it. They then deploy the Gundabad Orc Captains, Gundabad Orcs, Gundabad Trolls, Ogres, and Catapult Troll between 12" and 36" of the western board edge. The Good player then deploys Dáin and the Iron Hills Dwarves in the eastern half of the board within 12" of the center. They then deploy Thranduil and the Mirkwood Elves between 12" and 24" of the eastern board edge. Finally, the Good player deploys the members of Thorin's Company within 6" of the gates of Erebor. All other models are kept to one side.
+
+**OBJECTIVES**
+
+The game lasts until one force has been reduced to 25% of its starting numbers. There are five main objectives that both sides are trying to achieve. Whichever side achieves the most objectives is the winner:
+
+1. **Azog**: If Azog has been slain at the end of the battle, the Good player achieves this objective. If Azog is alive at the end of the battle, the Evil player achieves this objective.
+2. **Thorin**: If Thorin has been slain at the end of the battle, the Evil player achieves this objective. If Thorin is alive at the end of the battle, the Good player achieves this objective.
+3. **Thranduil**: If Thranduil moves off the western board edge to reach Dale, the Good player achieves this objective. If not, the Evil player achieves this objective.
+4. **The Battlefield**: At the end of the game, whichever force has the most models within 6" of the center of the board achieves this objective.
+5. **Strength of Numbers**: Whichever force reduces their opponent to 25% of their starting number first achieves this objective.
+
+**SPECIAL RULES**
+
+* **Forth from Gundabad**
+
+At the end of the Evil player's fifth Move phase, the Evil player moves Bolg, the Gundabad Berserkers, the Goblin Mercenaries, and the War Bats onto the board from any point on the northern board edge that is within 36" of the western board edge.
+
+* **The Eagles are Coming**
+
+At the end of the Good player's seventh Move phase, the Good player moves Radagast, Gwaihir, and the Great Eagles onto the board from any point on the northern board edge.
+
+* **Beorn**
+
+Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts. Beorn may not transform into a bear while mounted upon the eagle, but will automatically transform as soon as he dismounts.
+
+**PARTICIPANTS**
+
+**GOOD**
+
+**Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.  
+
+**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.  
+
+**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.  
+
+**Radagast's Alliance:** Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
+
+**EVIL**  
+
+**Azog's Legion:** Azog with heavy armor, stone flail, and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
+
+![](../media/scenarios/defence_of_the_north/the_battle_of_five_armies.jpg)
+
+---
+
+## APPENDIX - THE HIGH PASS
+
+**LAYOUT**
+
+The board represents one of the many roads that runs from the Misty Mountains to the forest of Mirkwood. There should be a 6" wide road running across the center of the board from east to west. The rest of the board should be littered with plenty of trees, bushes, hedges, rocky outcrops, and other scatter terrain to provide many different routes for the Orcs.
+
+**STARTING POSITIONS**
+
+The Evil player deploys their force within 12" of the center of the western board edge. The Good player then deploys the Beornings within 12" of the center of the eastern board edge. Beorn is deployed touching the center of the northern board edge, while Grimbeorn is deployed touching the center of the southern board edge.
+
+**OBJECTIVES**
+
+The Beornings have tasked themselves with keeping the roads around their home clear of evil beings, and the Orcs will have to make their way past Beorn and his people if they are to reach Dol Guldur.
+
+The game lasts until one force completes their objective. The Evil player wins if 12 or more Evil models can escape the board via the eastern board edge. The Good player wins if they can kill enough Evil models to prevent this from happening.
+
+**SPECIAL RULES**
+
+* **Thick Fog**
+
+Models cannot see, and therefore cannot shoot, enemy models that are further than 12" away. Additionally, if a model wishes to shoot or charge a model that is over 6" away, they must first roll a D6. On a 4+, they may act as normal; however, on the roll of a 1-3, they cannot see the model and so cannot shoot or charge the selected model but may otherwise act as normal, even rolling to see if they can see a different model if they wish.
+
+**PARTICIPANTS**
+
+**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.  
+
+**Evil:** 3 Orc Captains with shield; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
+
+![](../media/scenarios/defence_of_the_north/the_high_pass.jpg)
