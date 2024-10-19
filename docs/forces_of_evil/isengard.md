@@ -361,7 +361,6 @@ The range of Thrydan's [Stand Fast!] is 12".
 | [Fury] (Isengard Uruk-hai) |  6"   |   3+   |
 |      [Transfix]     |  12"  |   5+   |
 
-
 </div>
 
 ---

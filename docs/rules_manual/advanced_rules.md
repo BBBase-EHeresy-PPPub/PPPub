@@ -53,7 +53,6 @@ A model may only pass or drop a Light Object (both willingly or otherwise) if it
 
 If a model carrying a Light Object is slain in close combat, then the model that slew them immediately takes possession of the Light Object.
 
-
 ### HEAVY OBJECTS
 
 Items that are especially large or cumbersome are considered to be Heavy Objects for the purposes of our rules. Such things might include siege ladders, demolition charges, or similar. These tend to be large enough that they are normally represented by a model of some kind.

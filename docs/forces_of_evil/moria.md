@@ -176,7 +176,6 @@ Ashrak may include Giant Spiders in his warband as if they were part of the same
 
 Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Additionally, Ashrak may only target Spider models with his Shroud of Shadows Magical Power.
 
-
 **MAGICAL POWERS**
 
 |  | Range | Casting |
@@ -308,7 +307,6 @@ Only Spider models may benefit from Ashrak's [Stand Fast!] or Heroic Actions. Ad
 | [Shatter]    | 12" |  3+  |
 | [Tremor]     |  6" |  5+  |
 
-
 </div>
 
 ---
@@ -360,7 +358,6 @@ A Dragon with this ability can spend a single Will point each turn without reduc
 |----------------|-------|---------|
 | Transfix    | 12" |  3+  |
 | Compel     | 12" |  4+  |
-
 
 **SPECIAL RULES**
 
@@ -535,7 +532,6 @@ Instead of striking normally, if the Watcher in the Water is within a water feat
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | - | -/- | - | 10 | - | 3 | - |
-
 
 **WARGEAR**
 
@@ -724,6 +720,5 @@ Whilst the Goblins remain mounted upon the Warg, the entire model gains the Terr
 - **Murderous Power** `ACTIVE`
 
 Whenever a Dweller in the Dark slays an enemy model in combat, it regains a single Wound lost earlier in the battle. Rend is the only Brutal Power Attack that allows a Dweller to regain Wounds in this manner.
-
 
 </div>

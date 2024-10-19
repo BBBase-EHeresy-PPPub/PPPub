@@ -6,7 +6,6 @@ A **Siege Engine** has a profile in the same way that Warrior, **Hero** and Mons
 |---------------------|----------|---------|--------|
 | BATTLECRY TREBUCHET | (10) | 10 | 3 |
 
-
 A **Siege Engine** also always comes with a crew specified in its profile -- these are fighters who have been specially trained to operate it. Crew have their own characteristic profiles — the crew may not move more than 6" from their **Siege Engine** unless it is first destroyed.
 
 ### SIEGE VETERANS

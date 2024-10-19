@@ -1,8 +1,6 @@
 ﻿## ARMY COMPOSITION
 
-This army may include: Arvedui, Last King of Arnor; Malbeth the Seer; Captains of Arnor; Warriors of Arnor; Rangers of Arnor; and Hobbit Archers.
-
-The profile for Hobbit Archers can be found on page 22.
+This army may include: Arvedui, Last King of Arnor; Malbeth the Seer; Aranarth, First Chieftain of the Dúnedain; Argaudir, Captain of Arnor; Captains of Arnor; Warriors of Arnor; Knights of Arnor; Rangers of Arnor and Hobbit Archers.
 
 ## ARMY BONUS
 

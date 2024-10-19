@@ -227,7 +227,6 @@ A Mahud Beastmaster Chieftain wears [armour], and is equipped with a [Dagger] an
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/3+ | 5 | 5 | 2 | 2 | 5 | 3  | 2  | 2 |
 
-
 - **Foul Temperament**
 
 This Mumak has its Attacks increased to 4, however, it will suffer a -1 penalty to all Courage tests when rolling to see whether or not it will Stampede.

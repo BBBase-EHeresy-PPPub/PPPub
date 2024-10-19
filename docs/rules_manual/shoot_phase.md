@@ -66,7 +66,6 @@ You will also need to check to see if an enemy model is in range. Every missile 
 | Great bow | 24"  | 4    |
 | Ore bow  | 18"  | 2    |
 
-
 ## MOVING AND SHOOTING
 
 Moving too far can keep a model from making a shooting attack that turn (it's hard to aim a bow and run across a battlefield). A model can move and shoot as long as it has not moved further than half its Move allowance in the preceding Move phase. In addition, a model may not shoot if it has attempted a Jump, Leap, Climb or Swim (see pages 28-30 and [109]) test in the preceding Move phase (even if they rolled a 6), or if it is Prone.

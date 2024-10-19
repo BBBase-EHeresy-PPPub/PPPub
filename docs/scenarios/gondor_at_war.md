@@ -143,7 +143,6 @@ Any Good model that ends its move in base contact with a building that is on fir
 
 ![](../media/scenarios/gondor_at_war/raiding_of_pelargir.jpg)
 
-
 ---
 
 ## FALL OF OSGILIATH
@@ -177,7 +176,6 @@ At the start of each turn, the Evil player may select a single Good Warrior and 
 **Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 ![](../media/scenarios/gondor_at_war/fall_of_osgiliath.jpg)
-
 
 ---
 
@@ -362,7 +360,6 @@ Good models do not have to take Courage tests to Charge a Mordor Troll.
 **Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
 
 ![](../media/scenarios/gondor_at_war/the_gate_is_breached.jpg)
-
 
 ---
 

@@ -2,16 +2,9 @@
 
 This army may include: Bard the Bowman; The Master of Laketown; Alfrid the Councilor; Braga, Captain of the Guard; Bain, Son of Bard; Sigrid & Tilda; Lake-town Guard Captains and Lake-town Guard.
 
-The profile for Bard the Bowman can be found on page 49. Bard the Bowman counts as a Hero of Valour if taken as part of an Army of Lake-town army list.
-
-The profile for Bain, Son of Bard can be found on page 51. Bain, Son of Bard counts as an Independent Hero if taken as part of an Army of Lake-town army list.
-
-The profile for Sigrid & Tilda can be found on page 50. Sigrid & Tilda count as an Independent Hero if taken as part of an Army of Lake-town army list.
-
 ## ARMY BONUS
 
 **The Master's Purse-strings** – The Master of Lake-town's Moneybags special rule has a range of 12" rather than 6".
-
 
 ## HEROES OF THE ARMY OF LAKE-TOWN
 

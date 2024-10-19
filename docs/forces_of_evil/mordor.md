@@ -166,7 +166,6 @@ At the start of the Move phase, before Heroic Actions are declared, The Shadow L
 | [Instill Fear]  |  3" |  5+  |
 | [Sap will]    | 12" |  5+  |
 
-
 </div>
 
 ---
@@ -239,7 +238,6 @@ The Undying may expend Will points in the same manner as Fate points.
 - **Armour of the Sundered Land** `PASSIVE`
 
 The Knight of Umbar only loses a point of Will for having been in a Fight if he loses a Fight during the Fight phase (for example, if he doesn't win the Duel roll to see which side may make Strikes).
-
 
 **HEROIC ACTIONS**
 
@@ -319,7 +317,6 @@ At the start of the Move phase, before Heroic Actions are declared, The Betrayer
 | [Instill Fear]  |  3" |  5+  |
 | [Sap Will]    | 12" |  5+  |
 | [Black Dart]   | 12" |  6+  |
-
 
 ### GOTHMOG, LIEUTENANT OF SAURON [130 POINTS]
 *ORC, MORDOR, INFANTRY, HERO - HERO OF VALOUR*
@@ -530,7 +527,6 @@ At the start of any Priority phase, before any dice are rolled, Kardush's contro
 |----------------|-------|---------|
 | [Flameburst]   | 6"  |  3+  |
 | [Fury] (Mordor Orc) | 6"  |  3+  |
-
 
 ### MORANNON ORC CAPTAIN [50 POINTS]
 *ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE*

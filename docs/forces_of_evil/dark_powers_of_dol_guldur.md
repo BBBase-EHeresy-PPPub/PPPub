@@ -53,7 +53,6 @@ Any Nazgûl of Dol Guldur in the same army as the Necromancer of Dol Guldur gain
 
 Note: The Necromancer is in fact Sauron. This means you cannot have both Sauron and the Necromancer in the same army, as much as you may want to!
 
-
 **MAGICAL POWERS**
 
 |       | Range | Casting |

@@ -1,8 +1,8 @@
 ﻿## ARMY COMPOSITION
 
-This army may include: The Witch-king of Angmar; The Tainted; The Dwimmerlaik; Gulavhar, the Terror of Arnor; Buhrdur, Troll Chieftain; Shades; Barrow-wights; Angmar Orc Captains; Angmar Orc Shamans; Wild Warg Chieftains; Angmar Orc Warriors; Angmar Warg Riders; Cave Trolls, Wild Wargs and Dead Marsh Spectres.
+This army may include: The Witch-king of Angmar; The Tainted; The Dwimmerlaik; Gulavhar, the Terror of Arnor; Buhrdûr, Troll Chieftain; The Shadow of Rhudaur; Nazthûk, Orc Captain; Aldrac, Warlord of Carn Dûm; Fræcht, Vassal of the Witch-king; Shades; Barrow-wights; Angmar Orc Captains; Angmar Orc Shamans; Wild Warg Chieftains; Captains of Carn Dûm; Angmar Orc Warriors; Angmar Warg Riders; Wild Wargs; Warriors of Carn Dûm; Dead Marsh Spectres; Hill Trolls and Werewolves.
 
-The profile for The Witch-king of Angmar can be found on page 114. The Witch-king of Angmar counts as a Hero of Legend if taken as part of an Angmar army list.
+The Witch-king of Angmar counts as a Hero of Legend if taken as part of the Angmar army list.
 
 ## ARMY BONUS
 
@@ -158,7 +158,6 @@ Gulavhar's Attacks and Courage are always equal to his remaining Wounds.
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/4+ | 6 | 6 | 3 | 3 | 4 |  3 | 1  |  1 |
 
-
 **WARGEAR**
 
 - [Pick]
@@ -194,7 +193,6 @@ In a turn in which Buhrdur slays an enemy Hero or Monster model in combat, all f
 
 Whilst a Shade has no specific weapons, it is a twisted mass of undead beings constantly lashing out at the enemies of the Witch-king. A Shade never counts as unarmed.
 
-
 **SPECIAL RULES**
 
 - [Blades of the Dead]
@@ -216,7 +214,6 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 3 | 7 | 1 | 2 | 6 | 0  | 5  |  0 |
 
-
 **WARGEAR**
 
 - [Heavy armour]
@@ -233,7 +230,6 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 |---------------|-------|---------|
 | [Paralyse]   | 6"  |  4+  |
 
-
 </div>
 
 ---
@@ -246,7 +242,6 @@ At the start of the Fight phase, before Heroic Actions are declared, a Shade may
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/5+ | 4 | 5 | 2 | 2 | 3 | 2  | 1  | 1  |
-
 
 **WARGEAR**
 
@@ -404,7 +399,6 @@ Only friendly Warg models may benefit from a Wild Warg Chieftain's [Stand Fast!]
 - **Troll Chain** `ACTIVE`
 
 This is a throwing weapon with a range of 3" and a Strength of 5.
-
 
 **SPECIAL RULES**
 

@@ -151,7 +151,6 @@ If a Khandish Horseman is dismounted, they immediately drop either their bow or 
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 10" | 0 | 3 | 7 | 0 | 3 | 3 |
 
-
 - **Defensive Bulwark** `ACTIVE`
 
 When an enemy model makes an In The Way roll to see if they hit either the rider or the mount, they will hit the Chariot on a 1-4 and the rider on a 5+. Additionally, when in combat, any model that wishes to Strike the rider must roll a D6. On a 1-4, the model must Strike the Chariot. On a 5+, they may Strike the rider.

@@ -543,7 +543,6 @@ If the Attacker successfully slays the Defender's **Hero**, then the model that 
 
 ---
 
-
 ## NARRATIVE SCENARIO 1 - SKIRMISH IN BREE
 
 **LAYOUT**

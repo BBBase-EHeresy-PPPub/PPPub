@@ -72,7 +72,6 @@ If the Fight values of the models are also drawn, then the player with Priority 
 
 *Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin — a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*[see page 46]*) against the unfortunate cave dweller.*
 
-
 ### MULTIPLE ATTACKS
 
 Many models have more than one Attack listed on their profiles. When a model such as this is involved in a Fight, simply roll a D6 for each of the model's Attacks when making the Duel roll, and use the result of the highest dice when checking to see who has won the Fight.

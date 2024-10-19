@@ -557,7 +557,7 @@ The Mallorn tree has a Defence of 10 and 10 Wounds. Evil models may fight the Ma
 
 Muzgúr and the Orc Shaman gain the following additional Magical Power:
 
-*DECAY (DURATION: INSTANT)*
+*DECAY* `DURATION: INSTANT`
 
 This Magical Power may only target the Mallorn tree, has a range of 6" and is cast on a 4+. The Mallorn tree suffers a Wound. Additionally, it reduces its Defence characteristic by 1 for the remainder of the game.
 
@@ -680,7 +680,7 @@ The Good player wins immediately if they can destroy all seven of the ruins of D
 
 Galadriel may only attempt to cast the following Magical Power during the game:
 
-*BREAK STONE (DURATION: INSTANT)*
+*BREAK STONE* `DURATION: INSTANT`
 
 This Magical Power may only target the ruins of Dol Guldur, has a range of 3" and is cast on a 4+. The targeted ruins are immediately destroyed. Any models within the ruins, or within 1" of the ruins, when they are destroyed suffer a Strength 8 hit.
 

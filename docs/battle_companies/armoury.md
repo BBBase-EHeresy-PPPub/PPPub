@@ -53,7 +53,6 @@ This weapon can be of any type the player chooses.
 - **WAR SPEAR** (1/5) [*1 Influence Point*]
 - **WARG** (5/10) [*3 Influence Points*]
 
-
 ## EQUIPMENT
 
 As a Battle Company journeys across Middle-earth, they will often accumulate a variety of different pieces of Equipment that will aid them in their adventures. Ranging from cloaks that can help to protect the wearer from unfriendly eyes to a comforting brew that can lift the spirits of even the most timid, these pieces of Equipment come in all shapes and sizes. Alongside each of the entries given in this section is a picture that provides an example or idea of how you can choose to represent the Equipment on your models. 

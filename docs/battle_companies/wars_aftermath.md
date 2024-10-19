@@ -132,7 +132,6 @@ Adelmar is Adam's Rohan Hero, and the leader of his Battle Company. Over the cou
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  6"  | 4/4+ |  4  |  6  |  2  |  2  |  4  |  3  |  1  |  1  |
 
-
 **WARGEAR:** Heavy armour, shield & sword.
 
 **EQUIPMENT:** Lucky Talisman

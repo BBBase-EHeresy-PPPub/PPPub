@@ -692,7 +692,6 @@ Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch
 
 ***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain — it will be an epic conclusion!*
 
-
 ![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg)
 
 ---

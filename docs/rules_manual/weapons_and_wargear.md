@@ -216,7 +216,6 @@ A model with a crossbow may not fire it in the same turn that it has moved.
 | Throwing weapon | 6" | 3 |
 | Uruk-hai bow | 18" | 3 |
 
-
 ### THROWING WEAPONS
 
 *From carefully balanced knives and axes, to crudely sharpened lumps of metal, throwing weapons are easy to use, even on the move.*
@@ -260,7 +259,6 @@ It is possible that one player may re-roll a dice and find themselves winning th
 Any model carrying a banner is encumbered by its weight, and suffers a -1 penalty to their Duel rolls.
 
 A **Warrior** model carrying a banner who is slain may pass it on to a friendly **Warrior** model (but not to a **Hero** model), who is in base contact, not Prone, and is not Engaged in a Fight. Swap the models over if they are the same type of **Warrior**, or find a suitable banner-carrying substitute in your collection.
-
 
 ### ELVEN CLOAKS
 

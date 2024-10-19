@@ -91,7 +91,7 @@ Heroic Channelling is a Heroic Action (see page 68). When a **Hero** uses this H
 
 ### AURA OF COMMAND
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 This power targets the caster themselves. While this power is in effect, the caster and all friendly models within 6" automatically pass any Courage tests they are required to make.
 
@@ -99,7 +99,7 @@ This power targets the caster themselves. While this power is in effect, the cas
 
 ### AURA OF DISMAY
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 This power targets the caster themself. While this power is in effect, the caster and all friendly models within 6" cause Terror.
 
@@ -107,7 +107,7 @@ This power targets the caster themself. While this power is in effect, the caste
 
 ### BANISHMENT
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. This power only affects Spirit models. The target model automatically suffers 1 Wound, exactly as if it had been wounded in combat. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount suffers the effects.
 
@@ -115,7 +115,7 @@ This power targets one enemy model within range. This power only affects Spirit 
 
 ### BLACK DART
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target immediately suffers one Strength 9 hit. Do not roll To Hit or for In The Way tests. If the target is a **Cavalry** model then the Attacker must choose whether the rider or the mount is hit. This power can still be used on a target that is Engaged in combat.
 
@@ -123,7 +123,7 @@ This power targets one enemy model within range. The target immediately suffers 
 
 ### BLADEWRATH
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one friendly model within range. In the Fight phase, all Strikes made by the target model are resolved at Strength 6, regardless of other modifiers.
 
@@ -131,7 +131,7 @@ This power targets one friendly model within range. In the Fight phase, all Stri
 
 ### BLESSING OF THE VALAR
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one friendly model within range. They immediately recover a Fate point spent earlier in the battle. This may not take a model's Fate beyond its starting level. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount recovers the Fate point.
 
@@ -139,7 +139,7 @@ This power targets one friendly model within range. They immediately recover a F
 
 ### BLINDING LIGHT
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets the caster themselves. While this power is in effect, any shooting attacks directed at the caster, or a friendly model within 6" of them, will only hit on a To Hit roll of a 6. Additionally, an area within a 12" radius around the caster is illuminated as if it were daylight (perfect when you are fighting underground!).
 
@@ -147,7 +147,7 @@ This power targets the caster themselves. While this power is in effect, any sho
 
 ### CALL WINDS
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target is blown D6" directly away from the caster in a straight line. If the model comes into contact with another model or terrain such as an Obstacle like a hedge, house or large rock, then it will stop 1" away from it. In either case the target model is knocked Prone. If the target is in combat, the effect is the same as described above, but every other model in the combat is also knocked Prone.
 
@@ -155,7 +155,7 @@ This power targets one enemy model within range. The target is blown D6" directl
 
 ### CHILL SOUL
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target model suffers a Wound, exactly as if it had been wounded in combat. If cast on a **Cavalry** model, the Attacker decides whether the rider or the mount suffers the Wound. This power may be cast on a model Engaged in close combat.
 
@@ -163,7 +163,7 @@ This power targets one enemy model within range. The target model suffers a Woun
 
 ### COLLAPSE ROCKS
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. This power may only be cast on a model that is within a ruin, stone or brick building, cave, rock pile or another similar piece of terrain where a Wizard could crack rocks either underfoot or overhead. The target suffers one Strength 5 hit.
 
@@ -171,7 +171,7 @@ This power targets one enemy model within range. This power may only be cast on 
 
 ### COMMAND/COMPEL
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one enemy model within range. The caster may move the target model up to half of its maximum Move distance. They can do this even if the model has already moved this turn. The move cannot force the target to jump, leap, climb, dismount or lie down, but can take them into difficult terrain, and even make them Charge an enemy. No Courage test is required to Charge Terror-causing foes. It can even force an unengaged victim to drop an object (but not wargear) that it is holding or to put on The One Ring (if they carry it). Once the target has finished the move, it may move no further that turn for any reason. Finally, the target suffers the effect of the Immobilise/Transfix magical power.
 
@@ -179,7 +179,7 @@ This power targets one enemy model within range. The caster may move the target 
 
 ### CURSE
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target model immediately loses 1 Fate point. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount loses the Fate point.
 
@@ -187,7 +187,7 @@ This power targets one enemy model within range. The target model immediately lo
 
 ### DRAIN COURAGE
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target immediately reduces their Courage characteristic by 1 for the remainder of the battle, to a minimum of 1. This power can take effect multiple times over the course of a battle, reducing the target's Courage each time. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount reduces their Courage value.
 
@@ -195,7 +195,7 @@ This power targets one enemy model within range. The target immediately reduces 
 
 ### ENCHANTED BLADES
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one friendly model within range. In the Fight phase, the target may re-roll all failed To Wound rolls.
 
@@ -203,7 +203,7 @@ This power targets one friendly model within range. In the Fight phase, the targ
 
 ### ENRAGE BEAST
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one friendly model within range. This power can be used against a single Bat, (unridden) Warg or Spider model within range. If successful, the target's Fight, Attacks, Strength and Courage are increased by 2 until the End phase. During the End phase, the target suffers one Strength 10 hit.
 
@@ -211,7 +211,7 @@ This power targets one friendly model within range. This power can be used again
 
 ### FLAMEBURST
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target immediately suffers one Strength 6 hit.
 
@@ -219,7 +219,7 @@ This power targets one enemy model within range. The target immediately suffers 
 
 ### FORTIFY SPIRIT
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 This power may target one friendly model within range. While this power is in effect, the target rolls two extra dice when making Resist tests. These extra dice do not reduce the target's store of Will and can even be rolled if the target has no Will points remaining or chooses not to expend any Will.
 
@@ -227,7 +227,7 @@ This power may target one friendly model within range. While this power is in ef
 
 ### FURY (X)
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 Every model with this Magical Power will have a bracket after Fury denoting the models that will be affected by the power (e.g., Fury (Goblin)). This power targets all friendly models within 6" that are included in the bracket. Whilst this power is in effect, all targets will automatically pass any Courage tests they are required to make. In the case of **Cavalry** models, a degree of common sense is required when applying this effect.
 
@@ -235,7 +235,7 @@ Every model with this Magical Power will have a bracket after Fury denoting the 
 
 ### IMMOBILISE/TRANSFIX
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one enemy model within range. While this power is in effect, the target model may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a Stand Fast! or use Active abilities and may not Strike if they win a Duel.
 
@@ -243,7 +243,7 @@ This power targets one enemy model within range. While this power is in effect, 
 
 ### INSTILL FEAR
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets all enemy models within range. Each affected model must take a Courage test, in an order chosen by the caster; if the test is failed then the model must move its maximum Move distance directly away from the caster. If a model comes into base contact with the edge of the board, they will immediately stop moving.
 
@@ -251,7 +251,7 @@ This power targets all enemy models within range. Each affected model must take 
 
 ### NATURE'S WRATH
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets all enemy models within range. All enemy models within 6" of the caster are knocked Prone. **Cavalry** models are automatically treated as having suffered a Knocked Flying result on the Thrown Rider table — both rider and mount are then knocked Prone.
 
@@ -259,7 +259,7 @@ This power targets all enemy models within range. All enemy models within 6" of 
 
 ### PANIC STEED
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. This power may only target **Cavalry** models. The rider is immediately thrown and the mount instantly flees. Remove the mount from play and roll on the Thrown Rider table to determine the effect on the rider.
 
@@ -267,7 +267,7 @@ This power targets one enemy model within range. This power may only target **Ca
 
 ### PARALYSE
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target is immediately paralysed. It is knocked Prone and may do nothing until it recovers, including using Active special rules. The target may make no Duel rolls and will automatically lose any Duels it takes part in unless joined by a friendly model.
 
@@ -275,7 +275,7 @@ This power targets one enemy model within range. The target is immediately paral
 
 ### PROTECTION OF THE VALAR
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power may target the caster or a single friendly model within 3". The target may not be targeted by an enemy's Magical Powers or special rules.
 
@@ -283,7 +283,7 @@ This power may target the caster or a single friendly model within 3". The targe
 
 ### REFRESHING SONG
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one friendly model within range. The target immediately recovers a single lost Wound, as well as a single lost Might, Will and Fate point spent earlier in the battle. The target also immediately recovers from the effects of any Magical Power they wish.
 
@@ -291,7 +291,7 @@ This power targets one friendly model within range. The target immediately recov
 
 ### RENEW
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets a single friendly model within range. The target immediately regains a single Wound lost earlier in the battle. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount regains the Wound.
 
@@ -299,7 +299,7 @@ This power targets a single friendly model within range. The target immediately 
 
 ### SAP WILL
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target immediately loses D3 Will points. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount loses the Will.
 
@@ -307,7 +307,7 @@ This power targets one enemy model within range. The target immediately loses D3
 
 ### SHATTER
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. Pick a single piece of wargear on the target model. The selected item is immediately destroyed and cannot be used for the remainder of the game. All special rules associated with the selected item are lost.
 
@@ -315,7 +315,7 @@ This power targets one enemy model within range. Pick a single piece of wargear 
 
 ### SHROUD OF SHADOWS
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets a friendly model within range. The target is considered to be invisible until the End phase. They cannot be targeted by enemy models' Magical Powers, special rules or shooting attacks.
 
@@ -323,7 +323,7 @@ This power targets a friendly model within range. The target is considered to be
 
 ### SORCEROUS BLAST
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target is blasted D6" directly away from the caster and knocked Prone. If the target comes into contact with another model that is Strength 5 or less, it will immediately stop and both models will be knocked Prone.
 
@@ -331,7 +331,7 @@ This power targets one enemy model within range. The target is blasted D6" direc
 
 ### STRENGTHEN WILL
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one friendly model within range. The caster can use this spell to give 1 Will point to a friendly **Hero** within range. The target's Will can be increased past their starting amount.
 
@@ -339,7 +339,7 @@ This power targets one friendly model within range. The caster can use this spel
 
 ### TERRIFYING AURA
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 This power targets the caster themselves. While this power is in effect, the caster causes Terror.
 
@@ -347,7 +347,7 @@ This power targets the caster themselves. While this power is in effect, the cas
 
 ### TREMOR
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range, and any model that falls under the line. Draw a straight line, 1mm wide, that extends D6" from the target in the direction directly away from the caster.
 
@@ -355,7 +355,7 @@ This power targets one enemy model within range, and any model that falls under 
 
 ### WITHER
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target's Strength is reduced by 1 (to a minimum of 1) for the remainder of the game. If the target is a **Cavalry** model, the caster must choose whether the rider or the mount has their Strength reduced.
 
@@ -363,7 +363,7 @@ This power targets one enemy model within range. The target's Strength is reduce
 
 ### WRATH OF BRUINEN
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets all enemy models within range. All enemy models within 6" of the caster are knocked Prone. **Cavalry** models are automatically treated as having suffered a Knocked Flying result on the Thrown Rider table — both rider and mount are then knocked Prone.
 
@@ -371,7 +371,7 @@ This power targets all enemy models within range. All enemy models within 6" of 
 
 ### YOUR STAFF IS BROKEN
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range, so long as they have a staff. This power destroys the staff of the target model. All the advantages associated with the staff are immediately lost.
 

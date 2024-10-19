@@ -71,7 +71,6 @@ Here is the list of situations in which Might points can be used to alter a dice
 
 * **Using Fate** — A **Hero** can use Might to succeed in a Fate roll ([see page 75]).
 
-
 ## HEROIC ACTIONS
 
 **Hero** models can also use Might points to perform Heroic Actions. These spectacular deeds can sway the outcome of an entire battle.

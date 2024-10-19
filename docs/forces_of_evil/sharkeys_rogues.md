@@ -35,7 +35,6 @@ This army may include: Sharkey; Worm and Ruffians.
 |    [Immobilise]    |  12"  |   2+   |
 |  [Terrifying Aura]   |  -  |   2+   |
 
-
 - **The Chief** `PASSIVE` 
 
 Sharkey must always be the warband's Leader. Worm will always be the first follower in Sharkey's warband.

@@ -422,13 +422,13 @@ Magical Powers with this duration remain in play until the caster reaches 0 Will
 
 ### BLACK DART
 
-**DURATION: INSTANT**
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target immediately suffers one Strength 9 hit. This power can still be used on a target that is Engaged in combat.
 
 ### COMMAND/COMPEL
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one enemy model within range. The caster may move the target model up to half of its Move allowance. They can do this even if the model has already moved this turn, though cannot move a model out of combat. The move can even make them Charge an enemy. No Courage test is required to Charge Terror-causing foes. Once the target has finished the move, it may move no further that turn for any reason.
 
@@ -436,20 +436,19 @@ Finally, the target suffers the effect of the Immobilise/Transfix magical power.
 
 ### IMMOBILISE/TRANSFIX
 
-**DURATION: TEMPORARY**
+`DURATION: TEMPORARY`
 
 This power targets one enemy model within range. Whilst this power is in effect, the target model may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, or use Active abilities, and may not Strike if they win a Duel.
 
 ### SORCEROUS BLAST
 
-**DURATION: INSTANT**
-
+`DURATION: INSTANT`
 
 This power targets one enemy model within range. The target is blasted D6" directly away from the caster and knocked Prone. If the target comes into contact with another model, it will immediately stop and both models will be knocked Prone; this can blast a model out of combat. If the target, or one of the models that is knocked Prone, is Engaged in combat, then all the models (friend and foe) in the same Fight are also knocked Prone. The target model suffers one Strength 5 hit, and any other model knocked Prone suffers one Strength 3 hit.
 
 ### TERRIFYING AURA
 
-**DURATION: EXHAUSTION**
+`DURATION: EXHAUSTION`
 
 This power targets the caster themselves. Whilst this power is in effect, the caster causes Terror.
 

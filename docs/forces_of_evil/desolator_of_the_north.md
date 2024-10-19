@@ -8,7 +8,6 @@ The Desolator of the North army list does not have a special rule — having Sma
 
 ## HEROES OF THE DESOLATOR OF THE NORTH
 
-
 <div class="unitCard" markdown>
 
 ### SMAUG [700 POINTS]

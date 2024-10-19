@@ -52,7 +52,6 @@ This Scenario is played on a 4'x4' board. A 6" wide chasm spans the length of th
 
 The Good player deploys all of their models anywhere on the southern side of the chasm. The Evil player then deploys all of their models anywhere on the northern side of the chasm.
 
-
 **OBJECTIVES**
 
 The Balrog's wrath knows no bounds, and it has come to smite all those that stand in its path, bringing with it a tide of Goblins intent on pillaging the great wealth of the Dwarven halls. For the Dwarves to claim victory in these dark times the Balrog must be slain, for only then can the Goblins be driven from Khazad-dum.

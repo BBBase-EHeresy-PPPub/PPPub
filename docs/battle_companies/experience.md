@@ -65,7 +65,6 @@ Only Hero models that possess a missile weapon (but not a throwing weapon) may e
 | 11  | **Heroic Accuracy** – The Hero may now use the Heroic Accuracy Heroic Action in addition to any others they have access to. |
 | 12  | **Lethal Aim** – The Hero may spend a single 'free' point of Might during each Shoot phase. This can either be to improve a To Hit, To Wound or an In The Way roll. |
 
-
 ### PATH OF THE GENERAL
 
 The Hero is a natural leader, one capable of great deeds worthy of songs, and can inspire those around them to do the same.
@@ -105,7 +104,6 @@ Only Cavalry Hero models may embark on the Path of the Knight. If an Infantry mo
 | 10  | **Might/Will** – The Hero may either gain +1 Might point (to a maximum of 3), or +1 Will point (to a maximum of 1). |
 | 11  | **Devastating Charge** – Whilst mounted, when the Hero charges into combat against one or more Man-sized (or smaller) models, roll a D6 for each. On a 5+, that model is immediately knocked Prone. |
 | 12  | **Skillful Rider** – Whilst mounted, the Hero treats difficult terrain as open ground. |
-
 
 ### PATH OF THE SCOUT
 

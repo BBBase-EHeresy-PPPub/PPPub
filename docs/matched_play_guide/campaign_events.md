@@ -33,7 +33,6 @@ To decide on which Region all players will be fighting over, roll a D6 and consu
 | 5 | Haradwaith |
 | 6 | Gondor |
 
-
 ## WINNING THE CAMPAIGN
 
 At the end of each round, count the number of wins each faction has achieved whilst fighting in the selected Region. Whichever faction has the most wins will gain control of that Region for the remainder of the campaign.
