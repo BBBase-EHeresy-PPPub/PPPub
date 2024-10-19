@@ -44,7 +44,7 @@
 
 ## ADDITIONAL RULES
 
-- A Host of the Dragon Emperor force must include the Dragon Emperor of Rhûn, who is always the army’s leader.
+- A Host of the Dragon Emperor force must include the Dragon Emperor of Rhûn, who is always the army's leader.
 
 ## SPECIAL RULES
 

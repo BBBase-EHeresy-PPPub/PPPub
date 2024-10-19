@@ -64,8 +64,8 @@
 
 **Long-standing Alliance** – Dale models within 1" of a friendly Erebor model re-roll 1s To Wound during the Fight phase. Additionally, Erebor models within 1" of a friendly Dale model re-roll 1s To Wound during the Fight phase.
 
-**A Bond Forged in War** – If either Dáin or Brand would be Trapped at the start of the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally’s fight if possible. If this is not possible, then they must move as close as possible to their Trapped ally.
+**A Bond Forged in War** – If either Dáin or Brand would be Trapped at the start of the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, then they must move as close as possible to their Trapped ally.
 
-**The Heirs to the Kingdoms** – If either Thorin III Stonehelm or Bard II would be Trapped at the start of the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally’s fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
+**The Heirs to the Kingdoms** – If either Thorin III Stonehelm or Bard II would be Trapped at the start of the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
 **Royal Bloodlines** – Friendly models within 3" of Dáin Ironfoot, Thorin III Stonehelm, Brand, King of Dale, and Bard II, Prince of Dale count as being in range of a banner.

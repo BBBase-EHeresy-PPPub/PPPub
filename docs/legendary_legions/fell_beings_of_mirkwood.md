@@ -51,7 +51,7 @@
 
 ## ADDITIONAL RULES
 
-- A Fell Beings of Mirkwood force must always include Razgûsh, War Leader of the North, who is always the army’s leader.
+- A Fell Beings of Mirkwood force must always include Razgûsh, War Leader of the North, who is always the army's leader.
 
 ## SPECIAL RULES
 

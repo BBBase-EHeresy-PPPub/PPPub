@@ -30,7 +30,7 @@
 
 ## ADDITIONAL RULES
 
-- An Army of Dale force must always include Brand, King of Dale, who is always the army’s leader.
+- An Army of Dale force must always include Brand, King of Dale, who is always the army's leader.
 
 ## SPECIAL RULES
 

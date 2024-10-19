@@ -15,7 +15,7 @@
 ## ADDITIONAL RULES
 
 - If a Beornings force includes both Beorn and Grimbeorn, then Beorn will automatically be the leader.
-- Friendly models may benefit from Beorn’s Heroic Actions. Additionally, Beorning models may benefit from Beorn’s Stand Fast!
+- Friendly models may benefit from Beorn's Heroic Actions. Additionally, Beorning models may benefit from Beorn's Stand Fast!
 
 ## SPECIAL RULES
 
