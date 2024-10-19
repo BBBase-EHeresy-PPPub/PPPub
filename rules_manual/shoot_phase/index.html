@@ -1,0 +1,5044 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../move_phase/">
+      
+      
+        <link rel="next" href="../fight_phase/">
+      
+      
+      <link rel="icon" href="../../assets/PPPub_Favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.41">
+    
+    
+      
+        <title>Shoot Phase - Prancing Pony Pub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.0253249f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"PT Serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="mesbg" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#priority" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Prancing Pony Pub" class="md-header__button md-logo" aria-label="Prancing Pony Pub" data-md-component="logo">
+      
+  <img src="../../assets/PPPub_Logo.webp" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Prancing Pony Pub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Shoot Phase
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../quick_start/battlehost_quickstart_rules_guide/" class="md-tabs__link">
+          
+  
+    
+  
+  Quick Start
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+    
+  
+  Rules Manual
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../matched_play_guide/" class="md-tabs__link">
+          
+  
+    
+  
+  Matched Play Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../battle_companies/" class="md-tabs__link">
+          
+  
+    
+  
+  Battle Companies
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../forces_of_good/" class="md-tabs__link">
+          
+  
+    
+  
+  Forces of Good
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../forces_of_evil/" class="md-tabs__link">
+          
+  
+    
+  
+  Forces of Evil
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../legendary_legions/" class="md-tabs__link">
+          
+  
+    
+  
+  Legendary Legions
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../campaigns/" class="md-tabs__link">
+          
+  
+    
+  
+  Campaigns
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../scenarios/rules_manual/" class="md-tabs__link">
+          
+  
+    
+  
+  Scenarios
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Prancing Pony Pub" class="md-nav__button md-logo" aria-label="Prancing Pony Pub" data-md-component="logo">
+      
+  <img src="../../assets/PPPub_Logo.webp" alt="logo">
+
+    </a>
+    Prancing Pony Pub
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Quick Start
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Quick Start
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/battlehost_quickstart_rules_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Battlehost Quickstart Rules Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/isengard_battlehost_quickstart_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Isengard Battlehost Quickstart Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/minas_tirith_battlehost_quickstart_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Minas Tirith Battlehost Quickstart Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/mordor_battlehost_quickstart_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mordor Battlehost Quickstart Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/rohan_battlehost_quickstart_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rohan Battlehost Quickstart Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Rules Manual
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Rules Manual
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../turn_sequence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Turn Sequence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priority_phase/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Priority Phase
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../move_phase/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Move Phase
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Shoot Phase
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Shoot Phase
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#priority" class="md-nav__link">
+    <span class="md-ellipsis">
+      PRIORITY
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-shoot" class="md-nav__link">
+    <span class="md-ellipsis">
+      HOW TO SHOOT
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#who-can-shoot" class="md-nav__link">
+    <span class="md-ellipsis">
+      WHO CAN SHOOT?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WHO CAN SHOOT?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#missile-weapons" class="md-nav__link">
+    <span class="md-ellipsis">
+      MISSILE WEAPONS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#picking-a-target" class="md-nav__link">
+    <span class="md-ellipsis">
+      PICKING A TARGET
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#line-of-sight" class="md-nav__link">
+    <span class="md-ellipsis">
+      LINE OF SIGHT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#measure-range" class="md-nav__link">
+    <span class="md-ellipsis">
+      MEASURE RANGE
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#missile-weapon-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      MISSILE WEAPON CHART
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moving-and-shooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      MOVING AND SHOOTING
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rolling-to-hit" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROLLING TO HIT
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ROLLING TO HIT">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#in-the-way" class="md-nav__link">
+    <span class="md-ellipsis">
+      IN THE WAY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#in-the-way-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      IN THE WAY CHART
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#models-in-the-way" class="md-nav__link">
+    <span class="md-ellipsis">
+      MODELS IN THE WAY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-from-behind-cover" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING FROM BEHIND COVER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-from-behind-friends" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING FROM BEHIND FRIENDS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-at-models-engaged-in-combat" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING AT MODELS ENGAGED IN COMBAT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moving-and-shooting_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      MOVING AND SHOOTING
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rolling-to-wound" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROLLING TO WOUND
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ROLLING TO WOUND">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#to-wound-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      TO WOUND CHART
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recording-wounds-and-removing-casualties" class="md-nav__link">
+    <span class="md-ellipsis">
+      RECORDING WOUNDS AND REMOVING CASUALTIES
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#taking-shots-together" class="md-nav__link">
+    <span class="md-ellipsis">
+      TAKING SHOTS TOGETHER
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fight_phase/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fight Phase
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../courage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cavalry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cavalry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../heroes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heroes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monsters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monsters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../weapons_and_wargear/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weapons and Wargear
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../magical_powers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Magical Powers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../special_rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Special Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../advanced_rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Advanced Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../siege_engines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Siege Engines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sieges/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sieges
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../narrative_play/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Narrative Play
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../open_play/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open Play
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matched_play/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matched Play
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../matched_play_guide/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Matched Play Guide
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Matched Play Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/recommended_tournament_style/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recommended Tournament Style
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/results_sheet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Results Sheet
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/scenario_pool_system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scenario Pool System
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/doubles_events/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Doubles Events
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/campaign_events/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Campaign Events
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/additional_rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Additional Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../battle_companies/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Battle Companies
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Battle Companies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/mustering_your_warband/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mustering Your Warband
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/wars_aftermath/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    War's Aftermath
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/injuries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Injuries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/experience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Experience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/armoury/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armoury
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/good_battle_companies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Good Battle Companies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/evil_battle_companies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Evil Battle Companies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/scenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scenarios
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/adventures_in_middle_earth/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Adventures in Middle-Earth
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/narrative_campaign/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Narrative Campaign
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/map_based_campaigns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Map-Based Campaigns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/additional_rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Additional Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/using_your_company_in_larger_games/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Using Your Company in Larger Games
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../battle_companies/battle_companies_roster/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Battle Companies Roster
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../forces_of_good/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Forces of Good
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Forces of Good
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/army_of_lake_town/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Army of Lake-town
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/army_of_thror/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Army of Thrór
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/arnor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arnor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_dead_of_dunharrow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Dead of Dunharrow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/erebor_reclaimed/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erebor Reclaimed
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/fangorn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fangorn
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_fellowship/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Fellowship
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_fiefdoms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Fiefdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/garrison_of_dale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Garrison of Dale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/halls_of_thranduil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Halls of Thranduil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_iron_hills/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Iron Hills
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_kingdom_of_khazad_dum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Kingdom of Khazad-Dum
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/lothlorien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lothlorien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/minas_tirith/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Minas Tirith
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_misty_mountains/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Misty Mountains
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/numenor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Numenor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/radagasts_alliance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Radagast's Alliance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_rangers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Rangers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/rivendell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rivendell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/rohan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rohan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_shire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Shire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/survivors_of_lake_town/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Survivors of Lake-town
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/thorins_company/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thorin's Company
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/wanderers_in_the_wild/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wanderers in the Wild
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_white_council/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The White Council
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/wildmen_of_druadan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wildmen of Druadan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../forces_of_evil/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Forces of Evil
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Forces of Evil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/angmar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Angmar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/azogs_hunters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azog's Hunters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/azogs_legion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azog's Legion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/barad_dur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barad-Dur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/corsairs_of_umbar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Corsairs of Umbar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/dark_denizens_of_mirkwood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dark Denizens of Mirkwood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/dark_powers_of_dol_guldur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dark Powers of Dol Guldur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/desolator_of_the_north/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Desolator of the North
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/the_easterlings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Easterlings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/far_harad/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Far Harad
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/goblin_town/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goblin-town
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/isengard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Isengard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/mordor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mordor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/moria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Moria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/the_serpent_horde/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Serpent Horde
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/sharkeys_rogues/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharkey's Rogues
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/the_trolls/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Trolls
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/variags_of_khand/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Variags of Khand
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../legendary_legions/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Legendary Legions
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Legendary Legions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/army_of_arnor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Army of Arnor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/army_of_carn_dum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Army of Carn Dûm
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_army_of_dale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Army of Dale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/army_of_dunland/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Army of Dunland
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_army_of_gothmog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Army of Gothmog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/arathorns_stand/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arathorn's Stand
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/assault_on_lothlorien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Assault on Lothlórien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/assault_upon_helms_deep/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Assault upon Helm's Deep
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/battle_of_fornost/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Battle of Fornost
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_beornings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Beornings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_black_gate_opens/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Black Gate Opens
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_black_riders/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Black Riders
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/breaking_of_the_fellowship/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Breaking of the Fellowship
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/buhrdurs_horde/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Buhrdûr's Horde
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_chiefs_ruffians/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Chief's Ruffians
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/cirith_ungol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cirith Ungol
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/defenders_of_erebor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defenders of Erebor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/defenders_of_helms_deep/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defenders of Helm's Deep
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/defenders_of_the_shire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defenders of the Shire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/depths_of_moria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Depths of Moria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/fell_beings_of_mirkwood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fell Beings of Mirkwood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/grand_army_of_the_south/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Grand Army of the South
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_grey_company/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Grey Company
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/helms_guard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Helm's Guard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/host_of_the_dragon_emperor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Host of the Dragon Emperor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/host_of_the_witch_king/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Host of the Witch-King
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/lurtzs_scouts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lurtz's Scouts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_men_of_the_west/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Men of the West
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/paths_of_the_druadan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paths of the Drúadan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/pits_of_dol_guldur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pits of Dol Guldur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/rangers_of_ithilien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rangers of Ithilien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/rangers_of_mirkwood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rangers of Mirkwood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_return_of_the_king/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Return of the King
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/riders_of_eomer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Riders of Éomer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/riders_of_theoden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Riders of Théoden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/rise_of_the_necromancer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rise of the Necromancer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/the_vanquishers_of_the_necromancer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Vanquishers of the Necromancer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/theodreds_guard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Théodred's Guard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/ugluks_scouts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Uglúk's Scouts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/wolf_pack_of_angmar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wolf Pack of Angmar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legendary_legions/wolves_of_isengard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wolves of Isengard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../campaigns/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Campaigns
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Campaigns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/gondor_at_war/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gondor at War
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/scouring_of_the_shire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scouring of the Shire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/war_in_rohan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    War in Rohan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/quest_of_the_ringbearer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quest of the Ringbearer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/fall_of_the_necromancer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fall of the Necromancer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/defence_of_the_north/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defence of the North
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/rise_of_angmar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rise of Angmar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Scenarios
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Scenarios
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/rules_manual/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rules Manual
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/matched_play_guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matched Play Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/armies_of_lord_of_the_rings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armies of Lord of the Rings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/armies_of_the_hobbit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Armies of the Hobbit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/battle_companies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Battle Companies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/gondor_at_war/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gondor at War
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/scouring_of_the_shire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scouring of the Shire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/war_in_rohan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    War in Rohan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/quest_of_the_ringbearer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quest of the Ringbearer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/fall_of_the_necromancer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fall of the Necromancer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/defence_of_the_north/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defence of the North
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/rise_of_angmar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rise of Angmar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#priority" class="md-nav__link">
+    <span class="md-ellipsis">
+      PRIORITY
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-shoot" class="md-nav__link">
+    <span class="md-ellipsis">
+      HOW TO SHOOT
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#who-can-shoot" class="md-nav__link">
+    <span class="md-ellipsis">
+      WHO CAN SHOOT?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WHO CAN SHOOT?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#missile-weapons" class="md-nav__link">
+    <span class="md-ellipsis">
+      MISSILE WEAPONS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#picking-a-target" class="md-nav__link">
+    <span class="md-ellipsis">
+      PICKING A TARGET
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#line-of-sight" class="md-nav__link">
+    <span class="md-ellipsis">
+      LINE OF SIGHT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#measure-range" class="md-nav__link">
+    <span class="md-ellipsis">
+      MEASURE RANGE
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#missile-weapon-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      MISSILE WEAPON CHART
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moving-and-shooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      MOVING AND SHOOTING
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rolling-to-hit" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROLLING TO HIT
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ROLLING TO HIT">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#in-the-way" class="md-nav__link">
+    <span class="md-ellipsis">
+      IN THE WAY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#in-the-way-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      IN THE WAY CHART
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#models-in-the-way" class="md-nav__link">
+    <span class="md-ellipsis">
+      MODELS IN THE WAY
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-from-behind-cover" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING FROM BEHIND COVER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-from-behind-friends" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING FROM BEHIND FRIENDS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shooting-at-models-engaged-in-combat" class="md-nav__link">
+    <span class="md-ellipsis">
+      SHOOTING AT MODELS ENGAGED IN COMBAT
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moving-and-shooting_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      MOVING AND SHOOTING
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rolling-to-wound" class="md-nav__link">
+    <span class="md-ellipsis">
+      ROLLING TO WOUND
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ROLLING TO WOUND">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#to-wound-chart" class="md-nav__link">
+    <span class="md-ellipsis">
+      TO WOUND CHART
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recording-wounds-and-removing-casualties" class="md-nav__link">
+    <span class="md-ellipsis">
+      RECORDING WOUNDS AND REMOVING CASUALTIES
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#taking-shots-together" class="md-nav__link">
+    <span class="md-ellipsis">
+      TAKING SHOTS TOGETHER
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Shoot Phase</h1>
+
+<p>Many armies will employ the use of archers, crossbows or some other form of ranged weaponry, tasked with raining down death from afar. These weapons vary in all manner of size and ways of use, from the traditional bow and arrow used by the Warriors of Minas Tirith, to the deadly crossbows wielded by the fearsome Uruk-hai and the finely balanced throwing spears the Riders of Rohan plunge into their enemies. Though these weapons are all different, they are all used to fulfill the same task — namely to fell their enemies before they can reach the fight.</p>
+<p>During the Shoot phase, each player's eligible models can make a shooting attack with their missile weapons. To make a shooting attack, they must first pick a target, roll To Hit and then roll To Wound.</p>
+<h2 id="priority">PRIORITY</h2>
+<p>The player with Priority shoots first. They select one of their models and resolve its shooting attack. Once they are finished, they select another of their models and resolve its shooting attack — repeating this process until they have made all of the shooting attacks that they wish to. Once the player with Priority has resolved all of their shooting attacks, the other player may then do likewise.</p>
+<h2 id="how-to-shoot">HOW TO SHOOT</h2>
+<p>Shooting is a fairly simple practice, especially after you have done it a few times. Here are the steps you need to take to make a shooting attack:</p>
+<ol>
+<li>
+<p>Check Line of Sight to your intended target — Make sure that the model can actually see part of the model that they wish to shoot at.</p>
+</li>
+<li>
+<p>Work out the number of models or Obstacles that are In The Way — If the Line of Sight to the target is obscured, you will need to know what it is that blocks this Line of Sight as this may affect whether the model may shoot or not.</p>
+</li>
+<li>
+<p>Roll To Hit — Roll a D6 to see if your model has hit its target based on their Shoot value.</p>
+</li>
+<li>
+<p>Make any In The Way rolls — If there are models/terrain along the path to the target, you will need to roll to see if the shot hits something along the path, or hits its intended target.</p>
+</li>
+<li>
+<p>Roll To Wound — If the shot hits a model, you'll need to make another roll to see if the hit has caused a serious wound.</p>
+</li>
+<li>
+<p>Remove Casualties — Any model that was slain is removed from the battlefield.</p>
+</li>
+</ol>
+<p><strong>FINDING THE SHOOT VALUE</strong></p>
+<p>All models have a Shoot value listed in their profile — it is the second number beneath the Fight characteristic (and is always followed by a plus sign). Here you can see Legolas has a Shoot value of 3+.</p>
+<p><img alt="" src="../../media/rules_manual/legolas.jpg" /></p>
+<p><em>For example: Having worked out that he can see his target, and that his target is in range, Legolas lets his arrow loose against the Hunter Orc. To see if the shot is a hit, Legolas rolls a D6, which results in a 5. This is enough to hit the target, but if he had rolled a 1 or a 2, the shot would have missed.</em></p>
+<h2 id="who-can-shoot">WHO CAN SHOOT?</h2>
+<p>There are a variety of factors that determine whether or not a model is eligible to make a shooting attack. If a model has a missile weapon, has a target to shoot at, hasn't moved too far in the preceding Move phase and is not Engaged in combat, it may make a shooting attack.</p>
+<h3 id="missile-weapons">MISSILE WEAPONS</h3>
+<p>In order to shoot, a model must be equipped with a missile weapon (for example, a bow, crossbow, etc), many of which are described on [page 88]. </p>
+<h3 id="picking-a-target">PICKING A TARGET</h3>
+<p>A model must have a target to shoot at. For an enemy model to be a viable target, they must be in Line of Sight and in range. It is likely that there will be multiple enemy models that are eligible targets. When this is the case, simply choose one of them to shoot at.</p>
+<h3 id="line-of-sight">LINE OF SIGHT</h3>
+<p>When you select a model to make a shot, you need to check if they have any enemy models within Line of Sight.</p>
+<p><strong><em>LINE OF SIGHT</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/line_of_sight_1.jpg" /></p>
+<p><em>Legolas is readying himself to make a shot and there are four Hunter Orcs (A, B, C, D) before him. Hunter Orc A is in the open, and therefore is an eligible target. Hunter Orc B is partially concealed by the tree trunk, but is still a viable target. Hunter Orc C is almost completely concealed, but Legolas can see some of his face, so he is still a legitimate target. Hunter Orc D, on the other hand, is completely concealed except for his hand and a waving weapon — he cannot be targeted.</em></p>
+<h3 id="measure-range">MEASURE RANGE</h3>
+<p>You will also need to check to see if an enemy model is in range. Every missile weapon has a maximum range that tells you how far it can shoot in inches. Check to see how far each model's weapon can shoot by looking at the Missile Weapon chart on [page 88] (a cut down version can be seen below). If the distance to an enemy model is equal to or less than the weapon's maximum range, then it is in range.</p>
+<h3 id="missile-weapon-chart">MISSILE WEAPON CHART</h3>
+<table>
+<thead>
+<tr>
+<th>NAME</th>
+<th>RANGE</th>
+<th>STRENGTH</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bow</td>
+<td>24"</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Dwarf bow</td>
+<td>18"</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Elf bow</td>
+<td>24"</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Great bow</td>
+<td>24"</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Ore bow</td>
+<td>18"</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="moving-and-shooting">MOVING AND SHOOTING</h2>
+<p>Moving too far can keep a model from making a shooting attack that turn (it's hard to aim a bow and run across a battlefield). A model can move and shoot as long as it has not moved further than half its Move allowance in the preceding Move phase. In addition, a model may not shoot if it has attempted a Jump, Leap, Climb or Swim (see pages 28-30 and [109]) test in the preceding Move phase (even if they rolled a 6), or if it is Prone.</p>
+<p>Bear in mind that certain types of terrain have the effect of slowing models down further, as described in the Move phase. A model in difficult terrain, for example, would only be able to move a quarter of its usual maximum Move distance and still shoot (halving its Movement for the terrain and then
+halving it again if they wish to shoot).</p>
+<h2 id="rolling-to-hit">ROLLING TO HIT</h2>
+<p>Once a target has been chosen, you will need to see if they are hit. Not all fighters have an equal skill when shooting. Some, like Legolas Greenleaf, are expert archers with finely wrought bows, whilst others are clumsy or make crude shots with poorly made weapons. However, when shooting at the foe, there is always a chance (however small) that the shot will hit.</p>
+<p>We represent this by making a dice roll and comparing it to the firer's Shoot value — this is called a Shoot roll. A model's Shoot value is the score it needs to equal or beat for the shot to hit its target. To see if your shot hits, roll a D6 — if the score is equal to or higher than the target number, you have hit!</p>
+<p>If the score rolled is not high enough, the shot misses its target and causes no harm, probably clattering to rest somewhere nearby or sticking harmlessly into a piece of scenery.</p>
+<h3 id="in-the-way">IN THE WAY</h3>
+<p>Often, you will find that there are objects (or even other models) obscuring the shots you wish to make. When you are taking a look to see if your model can see its target, keep an eye out for any obstructions such as these. If you pass your Shoot roll, you will need to take an In The Way test for each obstruction.</p>
+<p>Taking an In The Way test is simple — roll a D6 and compare the result to the In The Way chart below. If the result equals or beats the number given by the In The Way chart, the shot continues on its way to the target. Should you fail, the shot hits the obstruction instead. If the obstruction in question is another model, the shot may even result in some damage ([see page 40]).</p>
+<p>Depending on what is between your model and their target, the roll will be easier or harder. If two or more obstructions stand In The Way of your shot, you will need to take an In The Way test for each of them, starting with the obstruction closest to the shooter.</p>
+<p>There are rare situations where a model will be able to draw multiple Lines of Sight to a large model, and it can be difficult to know which path the shot will take. Normally, common sense will prevail and it will be obvious which route the shot takes. However, there may be situations where there is some dispute. In these situations, the shooting model's controlling player should roll a D6 before rolling To Hit. On a 1-3, their opponent chooses the path that the shot takes. On a 4+, the shooting model's controlling player may choose. If their opponent is allowed to choose, the controlling player may elect to target a different model instead should the shot no longer be preferable. Note that if there are models In The Way, then a path must be selected that goes through at least one model. Good
+models still cannot shoot at enemy models that are obscured by friendly models.</p>
+<h3 id="in-the-way-chart">IN THE WAY CHART</h3>
+<table>
+<thead>
+<tr>
+<th>OBSTRUCTION</th>
+<th>Score to Pass</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Purpose built fortifications, large rocky outcrops, windows and doorways.</td>
+<td>5+</td>
+</tr>
+<tr>
+<td>Flimsy fences, bushes, crops and long grass.</td>
+<td>4+</td>
+</tr>
+<tr>
+<td>Walls, rocks, tree trunks, sturdy fence, intervening models and elevated positions (Combat only)</td>
+<td>3+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>TERRAIN IN THE WAY</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/terrain_in_the_way_1.jpg" /></p>
+<p><em>Here,</em> Bard <em>wants to shoot at the Hunter Orc scout bearing down upon</em> Bain. <em>However, Bard cannot see the whole Hunter Orc model. Some of it is being blocked by a house, so the house is In The Way. Bard rolls To Hit, scoring a 5 — a hit! He must then make his In The Way roll for the house, needing a 4+ to succeed. Bard rolls a 2 and his arrow sticks firmly in the wooden house — bad news for</em> Bain!</p>
+<h3 id="models-in-the-way">MODELS IN THE WAY</h3>
+<p>Sometimes, when you are taking shots with your models, you will find that other models partially obscure your original target. This is a slightly more complicated situation than when scenery is In The Way of a shot. </p>
+<p>Firstly, Good models may not take shots where there is any risk of striking another Good model. Evil models don't care for the lives of their 'friends' and can make shots regardless of what (or who) is In The Way.</p>
+<p>The shooter must still be able to see their target; if the intervening model blocks the target completely, then the shot cannot be attempted.</p>
+<p><strong><em>MODELS IN THE WAY 1</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/models_in_the_way_1.jpg" /></p>
+<p><em>Adam wants his</em> Narzug <em>to shoot at Jay's</em> Beorn <em>with his Orc bow. However, there are two Hunter Orcs In The Way of Beorn to the right, and </em>Radagast <em>is In The Way of Beorn to the left. Adam and Jay have differing ideas as to which is the correct path for the shots to take, so to speed things up Adam (as Narzug's controlling player) rolls a D6 — and rolls a 2 meaning that the shot will pass through the two Hunter Orcs. Adam now has to decide whether he wants to risk hitting his own warriors or whether to look for another target.</em></p>
+<p><strong><em>MODELS IN THE WAY 2</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/models_in_the_way_2.jpg" /></p>
+<p><em>Bard wants to take a shot at a Hunter Orc, who is closing in on Bain. The controlling player takes a look to see if the shot is clear and realises Bain is in The Way of the shot. Because Bard is a Good model, he may not risk hurting a friendly model, and so the shot cannot be made.</em></p>
+<h3 id="shooting-from-behind-cover">SHOOTING FROM BEHIND COVER</h3>
+<p>A model that is in base contact with an Obstacle or piece of cover that it can see over (or around) ignores that item for the purposes of In The Way tests when it is shooting. This represents the warrior using a low wall, crop of boulders or even the trunk of a tree as cover.</p>
+<p><strong><em>SHOOTING FROM BEHIND COVER</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/shooting_from_behing_cover_1.jpg" /></p>
+<p><em>Legolas, behind a low wall, wishes to shoot at the Hunter Orcs that are closing in on him. Because he is in base contact with the wall, he can shoot across it without penalty.</em></p>
+<h3 id="shooting-from-behind-friends">SHOOTING FROM BEHIND FRIENDS</h3>
+<p>Whilst other models are typically considered to be obstructions when it comes to making shots, we make an exception for models who are in base contact with a friendly model with a base of the same size or smaller than theirs. We imagine that the friendly model simply leans out of the way or kneels to avoid obstructing the shot. However, models that are Engaged in combat cannot do this, they are too busy fighting for their lives to make way for the shot.</p>
+<p><strong><em>SHOOTING FROM BEHIND FRIENDS</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/shooting_from_behing_friends_1.jpg" /></p>
+<p>Kili <em>is standing behind</em> Dwalin <em>(a rather safe place to be!), and wishes to take a shot at the Goblin rushing towards them. Because he is in base contact with Dwalin, Kili can shoot past him and no In The Way test is required.</em></p>
+<h3 id="shooting-at-models-engaged-in-combat">SHOOTING AT MODELS ENGAGED IN COMBAT</h3>
+<p>Evil models can shoot at an enemy that is Engaged in combat (Good models wouldn't dare take such a shot, for fear of striking their friends). Because Fights don't actually take place between static models, but rather between warriors hacking and slashing at one another, there is a risk that the shot could strike another model in the Fight.</p>
+<p>To shoot a model Engaged in combat, the shooter must be able to see their target. If they can, roll To Hit as normal and take any In The Way tests for obstructions up to, but not including, those models actually Engaged in the same Fight.</p>
+<p>Finally, you'll need to make a special In The Way test: roll a D6 to see who in the Fight is hit. On a 1-3, the friendly model closest to the firer is hit. On a 4-6, the original target is hit instead.</p>
+<p><strong><em>SHOOTING INTO COMBAT</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/shooting_into_combat_1.jpg" /></p>
+<p>Fimbul <em>wants to shoot at</em> Thorin<em>, </em>who is Engaged in combat against a pair of Hunter Orcs. Because he is an Evil model, Fimbul may take the shot. First he rolls To Hit, scoring a 6 a very clear hit! Next, he takes the special In The Way test to see if he hits Thorin, or one of the Hunter Orcs. Fimbul rolls a 2, meaning that he instead hits the Hunter Orc closest to him!*</p>
+<h3 id="moving-and-shooting_1">MOVING AND SHOOTING</h3>
+<p>If a model has moved, it will have less time to prepare to make a shot (all that jostling around has an impact on accuracy). Any model who wishes to shoot in the same turn that it has moved suffers a penalty to their Shoot value, making it slightly harder for them to score a successful hit.</p>
+<p>This is represented by making the Shoot value of a model that has moved 1 point worse for the rest of the turn. Thus, a model with a Shoot value of 4+ that has moved will instead require a 5+ to hit their target that turn. A roll of a 6 always hits.</p>
+<p>Note that turning on the spot does not count as movement (in fact, it's a great way to pose your models so that they are aiming at their target).</p>
+<p><strong><em>MOVING AND SHOOTING</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/moving_and_shooting_1.jpg" /></p>
+<p><em>Kili is trying to keep up with his friends, whilst also whittling down the Goblins bearing down upon them. He wishes to shoot at the Goblin nearest to him, and has moved this turn. Normally Kili needs a 3+ to hit a target with his bow, but because he has moved this turn, he instead needs a 4+. Kili rolls a 4, which is a hit!</em></p>
+<h2 id="rolling-to-wound">ROLLING TO WOUND</h2>
+<p>When a shot hits its target, there is a chance it will cause serious injury or death. Of course, there is also the chance it will merely inflict a flesh wound
+or be deflected by armour, causing no damage at all!</p>
+<p>Every missile weapon has a Strength value, which is often different to the user's and represents the power of the weapon itself. A weapon's Strength value
+can be found on the Missile Weapons chart on [page 88].</p>
+<p>First, compare the Strength of the weapon to the Defence of your target on the To Wound chart shown above. The result indicates the minimum dice roll required to inflict one Wound on your enemy. A score of 6/4, 6/5 or 6/6 means you must roll a single dice and score a 6, followed by a further dice that must score either 4+, 5+ or another 6, respectively. A '-' means that model cannot wound the target, they are just too tough to be harmed. If your dice roll is not high enough, no Wound is inflicted (the target just ignores the blow).</p>
+<h3 id="to-wound-chart">TO WOUND CHART</h3>
+<p><img alt="" src="../../media/rules_manual/to_wound_chart.jpg" /></p>
+<p><strong>ROLLING TO WOUND</strong></p>
+<p><em>Kili's arrow has hit his target, so now we need to know if the shot has caused any damage. Checking the To Wound chart, we discover that Kili's Dwarf bow (with a Strength of 3) needs a 4 or better To Wound the Goblin (whose Defence is 3). Luckily, Kili rolls a 6, and the Goblin suffers a Wound and is slain!</em></p>
+<h2 id="recording-wounds-and-removing-casualties">RECORDING WOUNDS AND REMOVING CASUALTIES</h2>
+<p>When a model suffers a Wound, check against its profile to see how many Wounds it has. A model that has a Wound characteristic of 1 is slain as soon as it suffers its first Wound. A model that has two Wounds must be wounded twice before it is killed, and so on. For models with multiple Wounds, it helps to place a counter beside the model (or make a note on a piece of paper) to remind you how many Wounds the model has remaining.</p>
+<p>When a model loses its last Wound, simply remove it from the game as a casualty — pick it up and place it carefully to one side.</p>
+<h2 id="taking-shots-together">TAKING SHOTS TOGETHER</h2>
+<p>Sometimes you will have several models firing at the same target. These situations can be resolved quicker by taking all the shots together. To do this, count up the number of firers, and roll that many dice at once. Work out which have struck the target, and then roll To Wound.</p>
+<p>To make things clearer, it helps to roll different coloured dice for different variables. If the shooting models have different Shoot values, have different obstructions In The Way of their shots or will require a different score To Wound their foes, you can designate a particular colour to the variable: '<em>Blue dice need 3 or more to hit, red dice need 5 or more,</em>' for instance.</p>
+<p>Taking shots together can really make your game flow more quickly and smoothly, and works very well if both players communicate clearly with each other as they play.</p>
+<p>If you have multiple models shooting at multiple targets, it is best to break them up into smaller groups and resolve shots at individual targets as above.</p>
+<p><strong><em>TAKING SHOTS TOGETHER</em></strong></p>
+<p><img alt="" src="../../media/rules_manual/taking_shots_together.jpg" /></p>
+<p>Bilbo Baggins <em>is in trouble — five Hunter Orcs are lining up to take shots at him. Two of the Hunter Orcs will need to take an In The Way test for a low wall, however (indicated by the red lines). To keep track of these and to make rolling all of the dice quicker, the dice can be rolled in two batches: the three shots that are unobstructed, and the two shots that will require In The Way rolls. Once it is clear which shots have hit, all of the To Wound rolls can be made at once.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <!-- Footer -->
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <!-- Copyright and theme information -->
+        <div class="md-copyright">
+          <a href="/sitemap.xml" title="Site Map"> Site Map </a>
+          |
+          <a href="https://discord.gg/XkFPPEUDGy" title="Feedback Discord Channel">Feedback Discord </a>
+          |
+          <a href="https://wahapedia.ru/" title="Wahapedia">Wahapedia </a>
+          |
+          <a href="https://bloodbowlbase.ru/" title="Blood Bowl Base">Blood Bowl Base </a>
+          |
+          <a href="https://epicheresy.ru/" title="Epic Heresy">Epic Heresy </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "navigation.indexes", "navigation.tabs", "navigation.top"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+    
+  </body>
+</html>
