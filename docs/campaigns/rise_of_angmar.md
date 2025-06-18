@@ -112,6 +112,8 @@ After each Scenario has been completed, it is necessary to note down which side 
 
 **Evil Victory:** In the Last Sighting of Earnur Scenario, the Witch-king may re-roll a single D6 when making Casting rolls.
 
+### (*) [LAST SIGHTING OF EARNUR](../scenarios/rise_of_angmar.md#last-sighting-of-earnur)
+
 ---
 
 **APPENDIX**

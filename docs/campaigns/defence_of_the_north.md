@@ -123,3 +123,5 @@ After each Scenario has been completed, it is important to note down which side 
 **Good Victory:** In the Fall of Dol Guldur Scenario, Galadriel may re-roll a single D6 when attempting to cast the Break Stone Magical Power.
 
 **Evil Victory:** In the Fall of Dol Guldur Scenario, Galadriel starts the game with only 3 points of Will in her store.
+
+#### (*) [FALL OF DOL GULDUR](../scenarios/defence_of_the_north.md#fall-of-dol-guldur)

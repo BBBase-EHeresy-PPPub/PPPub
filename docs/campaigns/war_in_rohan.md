@@ -111,3 +111,5 @@ After each Scenario has been completed, it is important to note down which side 
 **Good Victory:** In the Uruk-hai Retreat Scenario, whenever an Uruk-hai model suffers a hit from a restless tree, this will instead be resolved at Strength 5.
 
 **Evil Victory:** In the Uruk-hai Retreat Scenario, each Ent will start the game with only two Wounds remaining.
+
+### (*) [THE URUK-HAI RETREAT](../scenarios/war_in_rohan.md#the-uruk-hai-retreat)

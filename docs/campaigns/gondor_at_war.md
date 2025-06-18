@@ -161,6 +161,12 @@ spear.
 
 **Evil Victory:** In the Black Gate Scenario, the Evil player may select any Hero model in their force. The chosen Hero model may declare a single Heroic Action each turn without reducing their store of Might. 
 
+### (*) [THE BLACK GATE](../scenarios/gondor_at_war.md#the-black-gate)
+
+### (*) [THE BLACK GATE: THE LEFT HILL](../scenarios/gondor_at_war.md#the-black-gate-the-left-hill)
+
+### (*) [THE BLACK GATE: THE RIGHT HILL](../scenarios/gondor_at_war.md#the-black-gate-the-right-hill)
+
 ---
 
 Following The Dead Arrive Scenario, the campaign progresses to The Black Gate. You may have noticed that we provide players with two different ways to play this Scenario, either following the movies or the books. When you get to this stage, simply decide among the players which of these versions you would like to play. Once you have played one version, why not give the other one a try – both are great fun and have their own series of challenges!

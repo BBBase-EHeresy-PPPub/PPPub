@@ -106,6 +106,10 @@ In The Lockholes Scenario, replace the Hobbit Militia that have been arrested wi
 
 **Evil Victory:** In the Battle of Bywater Scenario, Merry begins the game with no Fate points.
 
+### (*) [THE BATTLE OF BYWATER](../scenarios/scouring_of_the_shire.md#the-battle-of-bywater)
+
+---
+
 ### TRAPS 
 
 Some Scenarios or characters allow for the Hobbit player to deploy a selection of Traps on the board to help them gain an advantage over those that seek to bring ruin to the Shire. The special rules of either the Scenario or character will state how many of each type of Trap the Hobbit player may deploy at the start of the game. Traps are deployed after both sides have set up but before the first turn begins. Friendly models treat Traps as open ground but no model may finish their movement with their base overlapping a Trap marker.

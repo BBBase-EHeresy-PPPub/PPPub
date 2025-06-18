@@ -81,3 +81,5 @@ After each Scenario has been completed, note down which side won that Scenario, 
 **Good Victory:** In The Fall of the Necromancer Scenario, Radagast may Charge on the turn in which he arrives.
 
 **Evil Victory:** In The Fall of the Necromancer Scenario, Radagast starts the game with only a single point of Might.
+
+### (*) [THE FALL OF THE NECROMANCER](../scenarios/fall_of_the_necromancer.md#the-fall-of-the-necromancer)
