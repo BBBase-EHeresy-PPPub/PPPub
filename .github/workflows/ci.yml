@@ -35,7 +35,7 @@ jobs:
 
       - name: Build versions
         run: |
-          mike delete --all --branch gh-pages --ignore-remote-status
+          mike delete --all --config-file mkdocs-2024.yml --branch gh-pages --ignore-remote-status
           mike deploy --config-file mkdocs-2018.yml mesbg2018
           mike deploy --config-file mkdocs-2024.yml mesbg2024
           mike set-default --config-file mkdocs-2024.yml mesbg2024
