@@ -33,17 +33,13 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mike
 
-      - name: Clean gh-pages
-        run: |
-          find gh-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
-          git -C gh-pages add -A
-          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Clean generated site"
-
       - name: Build versions
         run: |
+          mike delete --all --branch gh-pages --ignore-remote-status
           mike deploy --config-file mkdocs-2018.yml mesbg2018
           mike deploy --config-file mkdocs-2024.yml mesbg2024
           mike set-default --config-file mkdocs-2024.yml mesbg2024
+          git -C gh-pages reset --hard gh-pages
           sh .github/pages-root-files.sh docs/mesbg2018 gh-pages
           git -C gh-pages add -A
           git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Restore Pages root files"
