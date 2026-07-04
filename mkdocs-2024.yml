@@ -1,0 +1,84 @@
+site_name: Prancing Pony Pub
+docs_dir: docs/mesbg2024
+theme:
+  name: material
+  palette:
+    scheme: mesbg
+  custom_dir: overrides
+  logo: assets/PPPub_Logo.webp
+  favicon: assets/PPPub_Favicon.ico
+  font:
+    text: PT Serif
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      base_path: includes/mesbg2024
+      auto_append:
+        - tooltip_special_rules.md
+        - tooltip_magical_powers.md
+        - tooltip_heroic_actions.md
+        - tooltip_weapons_and_wargear.md
+nav:
+  - Quick Start:
+      - Quick Start: 'quick_start/index.md'
+  - Rules Manual:
+      - Rules Manual: 'rules_manual/index.md'
+      - Introduction: 'rules_manual/introduction.md'
+      - The Rules: 'rules_manual/the_rules.md'
+      - Turn Sequence: 'rules_manual/turn_sequence.md'
+      - Priority Phase: 'rules_manual/priority_phase.md'
+      - Move Phase: 'rules_manual/move_phase.md'
+      - Shoot Phase: 'rules_manual/shoot_phase.md'
+      - Fight Phase: 'rules_manual/fight_phase.md'
+      - Courage and Intelligence: 'rules_manual/courage_and_intelligence.md'
+      - Unit Types: 'rules_manual/unit_types.md'
+      - Cavalry: 'rules_manual/cavalry.md'
+      - Heroes: 'rules_manual/heroes.md'
+      - Monsters: 'rules_manual/monsters.md'
+      - War Beasts: 'rules_manual/war_beasts.md'
+      - Weapons and Wargear: 'rules_manual/weapons_and_wargear.md'
+      - Magic: 'rules_manual/magic.md'
+      - Special Rules: 'rules_manual/special_rules.md'
+      - Advanced Rules: 'rules_manual/advanced_rules.md'
+      - Siege Engines: 'rules_manual/siege_engines.md'
+      - Sieges: 'rules_manual/sieges.md'
+      - Narrative Play: 'rules_manual/narrative_play.md'
+      - Matched Play: 'rules_manual/matched_play.md'
+      - Scenarios: 'rules_manual/scenarios.md'
+  - Matched Play Guide:
+      - Matched Play Guide: 'matched_play_guide/index.md'
+      - Introduction: 'matched_play_guide/introduction.md'
+      - Recommended Tournament Style: 'matched_play_guide/recommended_tournament_style.md'
+      - Results Sheet: 'matched_play_guide/results_sheet.md'
+      - Scenario Pool System: 'matched_play_guide/scenario_pool_system.md'
+      - Common Scenario Rules: 'matched_play_guide/common_scenario_rules.md'
+      - Scenarios: 'matched_play_guide/scenarios.md'
+      - Doubles Events: 'matched_play_guide/doubles_events.md'
+      - Campaign Events: 'matched_play_guide/campaign_events.md'
+      - Team Events: 'matched_play_guide/team_events.md'
+      - Additional Rules: 'matched_play_guide/additional_rules.md'
+  - Battle Companies:
+      - Battle Companies: 'battle_companies/index.md'
+  - Forces of Good:
+      - Forces of Good: 'forces_of_good/index.md'
+  - Forces of Evil:
+      - Forces of Evil: 'forces_of_evil/index.md'
+  - Legendary Legions:
+      - Legendary Legions: 'legendary_legions/index.md'
+  - Campaigns:
+      - Campaigns: 'campaigns/index.md'
+  - Scenarios:
+      - Scenarios: 'scenarios/index.md'
+  - "[ MESBG 2018 ]": /mesbg2018/

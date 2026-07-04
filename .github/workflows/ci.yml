@@ -1,25 +1,50 @@
-name: ci 
+name: ci
+
 on:
   push:
     branches:
-      - master 
+      - master
       - main
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+
+      - name: Prepare gh-pages
+        run: |
+          git fetch origin gh-pages || true
+          git worktree add gh-pages gh-pages || git worktree add gh-pages origin/gh-pages
+
+      - name: Configure Git Credentials
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+
+      - name: Install dependencies
+        run: pip install mkdocs-material mike
+
+      - name: Clean gh-pages
+        run: |
+          find gh-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          git -C gh-pages add -A
+          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Clean generated site"
+
+      - name: Build versions
+        run: |
+          mike deploy --config-file mkdocs-2018.yml mesbg2018
+          mike deploy --config-file mkdocs-2024.yml mesbg2024
+          mike set-default --config-file mkdocs-2024.yml mesbg2024
+          cp docs/mesbg2018/CNAME gh-pages/CNAME || true
+
+      - name: Push gh-pages
+        run: git -C gh-pages push origin gh-pages

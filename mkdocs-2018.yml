@@ -1,9 +1,10 @@
 site_name: Prancing Pony Pub
+docs_dir: docs/mesbg2018
 theme:
   name: material
   palette:
-    scheme: mesbg
-  custom_dir: overrides
+    scheme: mesbg2018
+  custom_dir: docs/mesbg2018/overrides
   logo: assets/PPPub_Logo.webp
   favicon: assets/PPPub_Favicon.ico
   font:
@@ -23,11 +24,12 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tilde
   - pymdownx.snippets:
+      base_path: includes/mesbg2018
       auto_append:
-        - includes/tooltip_special_rules.md
-        - includes/tooltip_magical_powers.md
-        - includes/tooltip_heroic_actions.md
-        - includes/tooltip_weapons_and_wargear.md
+        - tooltip_special_rules.md
+        - tooltip_magical_powers.md
+        - tooltip_heroic_actions.md
+        - tooltip_weapons_and_wargear.md
 nav:
   - Quick Start:
       - Battlehost Quickstart Rules Guide: 'quick_start/battlehost_quickstart_rules_guide.md'
