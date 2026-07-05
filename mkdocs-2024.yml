@@ -197,8 +197,10 @@ nav:
       - "Wolf Pack of Angmar": 'evil_army_list/wolf_pack_of_angmar.md'
       - "Wolves of Isengard": 'evil_army_list/wolves_of_isengard.md'
       - "Wraiths on Wings": 'evil_army_list/wraiths_on_wings.md'
-  - Campaigns:
-      - Campaigns: 'campaigns/index.md'
   - Scenarios:
       - Scenarios: 'scenarios/index.md'
+      - Rules Manual: 'scenarios/rules_manual.md'
+      - Matched Play Guide: 'scenarios/matched_play_guide.md'
+      - Doubles Events: 'scenarios/doubles_events.md'
+      - WarCom Narrative Scenarios: 'scenarios/warcom_narrative_scenarios.md'
   - "[ MESBG 2018 ]": /mesbg2018/
