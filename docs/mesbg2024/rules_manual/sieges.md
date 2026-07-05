@@ -28,9 +28,7 @@ Depending on the configuration of your fortress, there may be doorways and trapd
 
 Models can Move freely up and down stairs, though Cavalry have some alternative interactions with stairs as described in the Cavalry rules on page 68. Fighting on stairs is much the same as fighting anywhere else, with one exception. Should a model have to Back Away down the stairs, they must roll a D6 before the winner makes Strikes. On a 1-3, the model that Backed Away will slip and become Prone.
 
-***Example 82: These Uruk-hai have both Charged up***
-
-ladders and become Engaged in Combat with the Warriors of Rohan. Uruk-hai A wins their Combat and successfully kills their target; they may then Move onto the walls. However, Uruk-hai B loses their Combat though is not slain by the Warrior of Rohan. After the Strikes have been resolved, Uruk-hai B rolls a D6, scoring a 2 meaning they fall and suffer Falling Damage.
+***Example 82:** These Uruk-hai have both Charged up ladders and become Engaged in Combat with the Warriors of Rohan. Uruk-hai A wins their Combat and successfully kills their target; they may then Move onto the walls. However, Uruk-hai B loses their Combat though is not slain by the Warrior of Rohan. After the Strikes have been resolved, Uruk-hai B rolls a D6, scoring a 2 meaning they fall and suffer Falling Damage.*
 
 ![](../media/rules_manual/example_82.jpg)
 
@@ -58,9 +56,7 @@ A Battering Ram is a Heavy Object, however, it is not mounted on a 25mm base and
 
 To use a Battering Ram, it must be in base contact with a door or gate at the start of the Fight Phase. After any Heroic Combats have been resolved, but before any other Combats are resolved, a Battering Ram can be used against the doors or gates. It will automatically hit its target, and will make a single Strike against it. Note that as a door or gate is always considered Trapped, the Battering Ram will make two rolls To Wound as a result. The Strength of the Battering Ram is equal to the Strength of the strongest model helping to carry it, +1 for each additional model carrying it, to a maximum of 10. If a Battering Ram would have a Strength of higher than 10, then it may re-roll any failed To Wound Rolls.
 
-***Example 83: These Uruk-hai are about to use a***
-
-Battering Ram against the gates of the Hornburg. The Strength of the battering ram is 4 (the Strength of the Uruk-hai) plus 5 for the additional 5 Uruk-hai that are carrying it, for a total Strength of 9. The Battering Ram can then make one Strike against the gates, making two To Wound Rolls because the gate is considered to be Trapped - the gate is in deep trouble!
+***Example 83:** These Uruk-hai are about to use a Battering Ram against the gates of the Hornburg. The Strength of the battering ram is 4 (the Strength of the Uruk-hai) plus 5 for the additional 5 Uruk-hai that are carrying it, for a total Strength of 9. The Battering Ram can then make one Strike against the gates, making two To Wound Rolls because the gate is considered to be Trapped - the gate is in deep trouble!*
 
 ![](../media/rules_manual/example_83.jpg)
 

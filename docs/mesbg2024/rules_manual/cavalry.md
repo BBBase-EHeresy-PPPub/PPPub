@@ -84,15 +84,11 @@ Some Cavalry models may have, or be affected by, a special rule that means they 
 
 What is a Cavalry Model? Characteristics For Cavalry Models Cavalry and Movement One of the benefits of riding a Mount is that the rider uses some of the Mount model's characteristics. Cavalry models must use the Move Value of the Mount. Additionally, during a Combat, the rider must use the Fight Value, Strength and Attacks characteristics of their Mount if they are higher than their own. In the example above, the Mordor Orc must use the Warg's Strength of 4 as it is higher than their own.
 
-***Example 50: Éowyn is riding towards***
-
-Pelennor Fields, however she needs to pass through a rocky outcrop on her way. A horse can move 10" in total: Éowyn spends 2" of her Move Value moving up to the Difficult Terrain, leaving her with 8" remaining. This is enough to allow Éowyn to Move 2" through the rocky outcrop this turn.
+***Example 50:** Éowyn is riding towards Pelennor Fields, however she needs to pass through a rocky outcrop on her way. A horse can move 10" in total: Éowyn spends 2" of her Move Value moving up to the Difficult Terrain, leaving her with 8" remaining. This is enough to allow Éowyn to Move 2" through the rocky outcrop this turn.*
 
 ![](../media/rules_manual/example_50.jpg)
 
-***Example 51: Wulf is on his horse and***
-
-wishes to Descend from atop this large boulder. Because the drop is taller than the model, there is a chance that it will be injured. The horse suffers one Strength 3 hit. If it survives, it may continue to Move as normal.
+***Example 51:** Wulf is on his horse and wishes to Descend from atop this large boulder. Because the drop is taller than the model, there is a chance that it will be injured. The horse suffers one Strength 3 hit. If it survives, it may continue to Move as normal.*
 
 ![](../media/rules_manual/example_51.jpg)
 
@@ -136,21 +132,15 @@ During a battle, there are situations where the rider of a Cavalry model will be
 
 The rider of a Cavalry model may Dismount from their steed at any point during their Move. Dismounting is automatic, and there is no roll required. Place the newly dismounted Infantry model in base contact with the Cavalry model, and then the Mount becomes a Separated Mount. The Infantry model cannot be placed in base contact with an enemy model in this manner. Once placed, the Infantry model can continue their Move as normal, including Charging if they wish, subtracting the amount the Cavalry model Moved prior to them Dismounting from their Move Value. If a rider Dismounts and their Mount stays, the Mount cannot Move any further that turn. Sometimes, when a model Dismounts there will not be an official model that can accurately depict the wargear that the rider was carrying - such as a Rider of Rohan carrying both a shield and a bow (and possibly also throwing spears). If this is the case, then when the model Dismounts they must discard pieces of wargear so that they can be accurately represented as a model. So, in the example of a Rider of Rohan, they would have to discard either their bow or their shield. If the Rider of Rohan also had throwing spears, then they would have to discard either their bow, their bow and throwing spears, or their shield and throwing spears in order to represent a legal dismounted model - in this case a Warrior of Rohan. The choice of which wargear is discarded is always down to the model's controlling player.
 
-***Example 52: Wulf wishes to Move***
-
-under a low arch whilst mounted. However, the arch is too low for Wulf and his horse together, and so he must Dismount and continue on foot, or find an alternative route.
+***Example 52:** Wulf wishes to Move under a low arch whilst mounted. However, the arch is too low for Wulf and his horse together, and so he must Dismount and continue on foot, or find an alternative route.*
 
 ![](../media/rules_manual/example_52.jpg)
 
-***Example 53: Aragorn and Legolas are***
-
-chasing down Gothmog, who has moved through a gap too small for a Cavalry model to fit through. As he is further away, Legolas has to Move 8" to get close to Gothmog and Dismount; though as he has now Moved over the 6" he can Move on foot, Legolas cannot Move any further. Aragorn Moves 3" before Dismounting, which then gives him 3" of his Move Value remaining - enough to Charge Gothmog.
+***Example 53:** Aragorn and Legolas are chasing down Gothmog, who has moved through a gap too small for a Cavalry model to fit through. As he is further away, Legolas has to Move 8" to get close to Gothmog and Dismount; though as he has now Moved over the 6" he can Move on foot, Legolas cannot Move any further. Aragorn Moves 3" before Dismounting, which then gives him 3" of his Move Value remaining - enough to Charge Gothmog.*
 
 ![](../media/rules_manual/example_53.jpg)
 
-***Example 54: Kíli is Shooting at the***
-
-Hunter Orc on Fell Warg, targeting the rider. After successfully rolling To Hit, Kíli must now take a special In The Way Test to see whether he hits the Mount (on a 1-3) or the rider (on a 4+). Rolling a 5, Kíli's shot hits the rider and he must now roll To Wound.
+***Example 54:** Kíli is Shooting at the Hunter Orc on Fell Warg, targeting the rider. After successfully rolling To Hit, Kíli must now take a special In The Way Test to see whether he hits the Mount (on a 1-3) or the rider (on a 4+). Rolling a 5, Kíli's shot hits the rider and he must now roll To Wound.*
 
 ![](../media/rules_manual/example_54.jpg)
 
@@ -234,15 +224,11 @@ Race WARG Faction SEE RIDER Unit Type MOUNT Cavalry and Combat
 
 Fell Sight
 
-***Example 55: Théoden Charges a pair***
-
-of Morannon Orcs. As they are both Infantry, Théoden will get the Extra Attack and Knock to the Ground bonuses. Théoden rolls three dice for his Duel Roll (2 for his Attacks +1 for Extra Attack) and wins the roll, knocking both Morannon Orcs Prone. Théoden then gets to make three Strikes, and may choose how to assign them. As his Strikes are being made against Prone enemies, Théoden will roll two dice rather than one and apply both results. He assigns the first Strike to the first Orc, rolls two dice, and then checks the results before deciding which Orc to assign the next Strike to.
+***Example 55:** Théoden Charges a pair of Morannon Orcs. As they are both Infantry, Théoden will get the Extra Attack and Knock to the Ground bonuses. Théoden rolls three dice for his Duel Roll (2 for his Attacks +1 for Extra Attack) and wins the roll, knocking both Morannon Orcs Prone. Théoden then gets to make three Strikes, and may choose how to assign them. As his Strikes are being made against Prone enemies, Théoden will roll two dice rather than one and apply both results. He assigns the first Strike to the first Orc, rolls two dice, and then checks the results before deciding which Orc to assign the next Strike to.*
 
 ![](../media/rules_manual/example_55.jpg)
 
-***Example 56: Théoden has Charged***
-
-another Morannon Orc. However, this time a Warg Rider has subsequently Charged Théoden as well. Since Théoden is no longer fighting solely against Infantry models, he no longer gains the Extra Attack and Knock to the Ground bonuses he would normally get. This means that Théoden will only roll two dice (the number of Attacks on his profile) when making his Duel Roll.
+***Example 56:** Théoden has Charged another Morannon Orc. However, this time a Warg Rider has subsequently Charged Théoden as well. Since Théoden is no longer fighting solely against Infantry models, he no longer gains the Extra Attack and Knock to the Ground bonuses he would normally get. This means that Théoden will only roll two dice (the number of Attacks on his profile) when making his Duel Roll.*
 
 ![](../media/rules_manual/example_56.jpg)
 
@@ -278,8 +264,6 @@ If a model uses a Magical Power that targets a Cavalry model, then the whole mod
 
 As a Cavalry model contains two parts - the rider and the Mount - it can be confusing trying to understand if and when slain Cavalry models count as a casualty in regards to working out if an Army has been Broken. A Cavalry model will count as a casualty in regards to working out whether an Army is Broken (or reduced to 25%) as soon as the rider is slain, regardless as to whether the Mount stays or flees. If the Mount is slain, either before the rider or after the rider has been slain themselves, then this will not count as a casualty towards an Army's Break Point. Cavalry and Special Rules Cavalry and Magic Cavalry and Break Points
 
-***Example 57: Gandalf is mounted***
-
-upon Shadowfax and is the target of Saruman's Flameburst Magical Power. As this is a Cavalry model, both Gandalf and his Mount, Shadowfax, will feel the effects.
+***Example 57:** Gandalf is mounted upon Shadowfax and is the target of Saruman's Flameburst Magical Power. As this is a Cavalry model, both Gandalf and his Mount, Shadowfax, will feel the effects.*
 
 ![](../media/rules_manual/example_57.jpg)

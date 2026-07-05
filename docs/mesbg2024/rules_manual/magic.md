@@ -16,9 +16,7 @@ Magical Powers come in three basic types: those that target a specific model, th
 
 A model will need Line of Sight to the target in order to Cast a Magical Power upon them. The range of a Magical Power will be listed either in the model's profile, or sometimes in the description for the Magical Power itself. If the range is listed as 'self' then the Magical Power must target the caster themselves. Using Magical Powers
 
-***Example 81: Gandalf is trying to help***
-
-Thorin's Company escape from the pursuing Goblins, and attempts to Cast Transfix on Grinnah to stop him Charging Ori. Gandalf requires a Casting Test of 4+ and so rolls two dice, rolling a 1 and a 4, which is enough. Not wanting to be prevented from Activating, Grinnah decides to spend 1 Will Point to make a Resist Test, and rolls a 5 - which is enough to Resist Gandalf's Transfix. The Magical Power has been resisted and does not take effect.
+***Example 81:** Gandalf is trying to help Thorin's Company escape from the pursuing Goblins, and attempts to Cast Transfix on Grinnah to stop him Charging Ori. Gandalf requires a Casting Test of 4+ and so rolls two dice, rolling a 1 and a 4, which is enough. Not wanting to be prevented from Activating, Grinnah decides to spend 1 Will Point to make a Resist Test, and rolls a 5 - which is enough to Resist Gandalf's Transfix. The Magical Power has been resisted and does not take effect.*
 
 ![](../media/rules_manual/example_81.jpg)
 

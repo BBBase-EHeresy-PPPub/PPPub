@@ -14,27 +14,19 @@ The most common occurrences that cause a Courage Test to be taken are: Broken Ar
 
 If a model passes a Courage Test caused by a special rule or ability, it will automatically pass any other Courage Tests it is required to make for the same special rule or ability for the remainder of the turn, unless otherwise stated.
 
-***Example 45: Aragorn has Charged a***
-
-Ringwraith after passing his Courage Test due to the Ringwraith's Terror special rule. Aragorn declares a Heroic Combat (see page 81) and successfully slays the Nazgûl. Aragorn does not need to take a second Courage Test to Charge the second Ringwraith as he has already passed one Courage Test for the Terror special rule this turn.
+***Example 45:** Aragorn has Charged a Ringwraith after passing his Courage Test due to the Ringwraith's Terror special rule. Aragorn declares a Heroic Combat (see page 81) and successfully slays the Nazgûl. Aragorn does not need to take a second Courage Test to Charge the second Ringwraith as he has already passed one Courage Test for the Terror special rule this turn.*
 
 ![](../media/rules_manual/example_45.jpg)
 
-***Example 44: A lumbering Cave Troll has***
-
-Charged Frodo. Wishing to save their friend from this terrifying beast, Merry and Pippin both attempt to Charge the Troll. As the Cave Troll has the Terror special rule, both Merry and Pippin must take a Courage Test. Merry goes first and rolls a 3 and a 4 for a total of 7. As his Courage is 6+, Merry passes the Courage Test and may Charge. Next, Pippin takes his Courage Test and rolls a 1 and a 2 for a total of 3. As his Courage is also 6+, Pippin fails and so cannot Charge the Troll - or Move at all this Move Phase.
+***Example 44:** A lumbering Cave Troll has Charged Frodo. Wishing to save their friend from this terrifying beast, Merry and Pippin both attempt to Charge the Troll. As the Cave Troll has the Terror special rule, both Merry and Pippin must take a Courage Test. Merry goes first and rolls a 3 and a 4 for a total of 7. As his Courage is 6+, Merry passes the Courage Test and may Charge. Next, Pippin takes his Courage Test and rolls a 1 and a 2 for a total of 3. As his Courage is also 6+, Pippin fails and so cannot Charge the Troll - or Move at all this Move Phase.*
 
 ![](../media/rules_manual/example_44.jpg)
 
 ### COURAGE
 
-***Example 46: The army of Minas Tirith have***
+***Example 46:** The army of Minas Tirith have been frantically fending off the Mordor Orcs, killing as many as possible. At the start of the game there were 30 Orcs, but at the start of the tenth turn, 16 have been slain. As the Orcs had a Break Point of 15, they are now a Broken Army - they must now start taking Courage Tests at the start of each of their Activations.*
 
-been frantically fending off the Mordor Orcs, killing as many as possible. At the start of the game there were 30 Orcs, but at the start of the tenth turn, 16 have been slain. As the Orcs had a Break Point of 15, they are now a Broken Army - they must now start taking Courage Tests at the start of each of their Activations.
-
-***Example 47: Haleth's Army has***
-
-been Broken. At the start of his next Activation, Haleth takes his Courage Test and passes it. At the end of Haleth's Activation he calls Stand Fast, which has a range of 6". Warriors of Rohan A, B and C are all within range of Haleth's Stand Fast and can draw Line of Sight to him. Warrior of Rohan D is within range of Haleth's Stand Fast, but cannot draw Line of Sight to him - they must take their own Courage Test. Warrior of Rohan E is not within range of Haleth's Stand Fast, and so must also take a Courage Test.
+***Example 47:** Haleth's Army has been Broken. At the start of his next Activation, Haleth takes his Courage Test and passes it. At the end of Haleth's Activation he calls Stand Fast, which has a range of 6". Warriors of Rohan A, B and C are all within range of Haleth's Stand Fast and can draw Line of Sight to him. Warrior of Rohan D is within range of Haleth's Stand Fast, but cannot draw Line of Sight to him - they must take their own Courage Test. Warrior of Rohan E is not within range of Haleth's Stand Fast, and so must also take a Courage Test.*
 
 ![](../media/rules_manual/example_47.jpg)
 
@@ -56,14 +48,10 @@ If a model passes an Intelligence Test caused by a special rule or ability, it w
 
 ### INTELLIGENCE
 
-***Example 48: Thorin is trying to free a***
-
-relic from the ground and requires an Intelligence Test to do so. Thorin rolls a 1 and a 3 for his Intelligence Test, for a total of 4. As his Intelligence is 5+, Thorin fails to retrieve the relic which stays in the ground. The next turn, Thorin tries again. This time he rolls a 2 and a 6 for a total of 8 - a pass. Thorin retrieves the relic.
+***Example 48:** Thorin is trying to free a relic from the ground and requires an Intelligence Test to do so. Thorin rolls a 1 and a 3 for his Intelligence Test, for a total of 4. As his Intelligence is 5+, Thorin fails to retrieve the relic which stays in the ground. The next turn, Thorin tries again. This time he rolls a 2 and a 6 for a total of 8 - a pass. Thorin retrieves the relic.*
 
 ![](../media/rules_manual/example_48.jpg)
 
-***Example 49: Frodo has been targeted by***
-
-a Spectre's A Fell Light is in Them special rule, and must now take an Intelligence Test. Frodo has an Intelligence of 5+ and rolls a 4 and a 5 for his Intelligence Test for a total of 9 - a clear pass. A second Spectre then also targets Frodo with the A Fell Light is in Them special rule. However, as Frodo has already passed one Intelligence Test this turn due to this special rule, he will automatically pass the second test.
+***Example 49:** Frodo has been targeted by a Spectre's A Fell Light is in Them special rule, and must now take an Intelligence Test. Frodo has an Intelligence of 5+ and rolls a 4 and a 5 for his Intelligence Test for a total of 9 - a clear pass. A second Spectre then also targets Frodo with the A Fell Light is in Them special rule. However, as Frodo has already passed one Intelligence Test this turn due to this special rule, he will automatically pass the second test.*
 
 ![](../media/rules_manual/example_49.jpg)
