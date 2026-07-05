@@ -2,35 +2,39 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Dalamyr, Fleetmaster of Umbar: 100 points
+- **Dalamyr, Fleetmaster of Umbar**: 100 points
 
 **HEROES OF VALOUR**
 
-- Delgamar, Gatemaster of Umbar: 75 points
+- **Delgamar, Gatemaster of Umbar**: 75 points
 
 **HEROES OF FORTITUDE**
 
-- Corsair Bo'sun: 50 points
+- **Corsair Bo'sun**: 50 points
   - Exchange spear for crossbow: Free
-- Corsair Captain: 55 points
+- **Corsair Captain**: 55 points
   - Exchange two-handed weapon for crossbow: Free
-- Corsair Captain (General): 55 points
+- **Corsair Captain (General)**: 55 points
   - Exchange two-handed weapon for crossbow: Free
 
 **WARRIORS**
 
-- Corsair Crossbowman: 10 points
-- Corsair Reaver: 9 points
-- Corsair of Umbar: 8 points
+- **Corsair Crossbowman**: 10 points
+- **Corsair Reaver**: 9 points
+- **Corsair of Umbar**: 8 points
   - Bow: 1 point
   - Light shield and throwing weapons: 1 point
   - Spear: 1 point
 
 **SIEGE ENGINES**
 
-- Corsair Ballista: 70 points
+- **Corsair Ballista**: 70 points
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -602,11 +602,11 @@ Both sides must cause enough casualties to force the other to surrender. The gam
 
 * **The Bullroarer**
 
-Should Bandobras Took be slain, then at the start of each Hobbit model's Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+Should Bandobras Took be slain, then at the start of each Hobbit model's Move phase, it must take a Courage test. If the test is failed, the model has fled - remove the model as a casualty.
 
 * **Golfimbul**
 
-Should Golfimbul be slain, then at the start of each Orc model's Move phase, it must take a Courage test. If the test is failed, the model has fled – remove the model as a casualty.
+Should Golfimbul be slain, then at the start of each Orc model's Move phase, it must take a Courage test. If the test is failed, the model has fled - remove the model as a casualty.
 
 * **Surprise Volley**
 
@@ -692,7 +692,7 @@ From the second turn onwards, at the end of each Evil Move phase, the Evil playe
 
 **PARTICIPANTS**
 
-**Good:** Bilbo Baggins with Mithril Coat and Sting; Aragorn – Strider with bow; 3 Rangers of the North; 3 Wood Elf Warriors; 3 Wood Elf Warriors with Wood Elf spear; 3 Wood Elf Warriors with Elf bow.
+**Good:** Bilbo Baggins with Mithril Coat and Sting; Aragorn - Strider with bow; 3 Rangers of the North; 3 Wood Elf Warriors; 3 Wood Elf Warriors with Wood Elf spear; 3 Wood Elf Warriors with Elf bow.
 
 **Evil:** 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow; 4 Orc Warriors with shield; 4 Orc Warriors with spear; 2 Orc Warriors with two-handed weapon; 2 Orc Warriors with Orc bow.
 

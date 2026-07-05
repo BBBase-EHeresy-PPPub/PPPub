@@ -41,11 +41,18 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Nenya** `PASSIVE`
 
-- **Nenya** `PASSIVE` - Galadriel may re-roll any failed Fate rolls.
-- **The Lady of Lothlorien** `PASSIVE` - Galadriel gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
-- **Mirror of Galadriel** `PASSIVE` - Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of Galadriel. During Priority, if Galadriel or Celeborn are in base contact with it, the controlling player may add 1 to their Priority roll. Additionally, during the End phase of each turn, one friendly Hero within 6" of the Mirror may restore Fate points to their starting value.
+Galadriel may re-roll any failed Fate rolls.
+
+- **The Lady of Lothlorien** `PASSIVE`
+
+Galadriel gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
+
+- **Mirror of Galadriel** `PASSIVE`
+
+Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of Galadriel. During Priority, if Galadriel or Celeborn are in base contact with it, the controlling player may add 1 to their Priority roll. Additionally, during the End phase of each turn, one friendly Hero within 6" of the Mirror may restore Fate points to their starting value.
+
 
 </div>
 
@@ -77,11 +84,18 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Aiglos** `ACTIVE`
 
-- **Aiglos** `ACTIVE` - Elven spear, and a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
-- **High King of the Elves** `ACTIVE` - Gil-galad's Stand Fast is 12", and friendly Elf Hero models may also benefit from it.
-- **Lord of the West** `ACTIVE` - May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
+Elven spear, and a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
+
+- **High King of the Elves** `ACTIVE`
+
+Gil-galad's Stand Fast is 12", and friendly Elf Hero models may also benefit from it.
+
+- **Lord of the West** `ACTIVE`
+
+May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
+
 
 </div>
 
@@ -118,11 +132,18 @@
 - Leader (Palace Guard)
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Bladelord** `ACTIVE`
 
-- **Bladelord** `ACTIVE` - If Outnumbered in a Combat, Thranduil may re-roll To Wound Rolls of a natural 1 when making Strikes. If he has the Infantry keyword, Thranduil may instead re-roll all failed To Wound Rolls when making Strikes.
-- **Fury of the Elvenking** `PASSIVE` - If Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a Heroic Combat for free.
-- **"Do not talk to me of Dragon fire"** `ACTIVE` - At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains Terror. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
+If Outnumbered in a Combat, Thranduil may re-roll To Wound Rolls of a natural 1 when making Strikes. If he has the Infantry keyword, Thranduil may instead re-roll all failed To Wound Rolls when making Strikes.
+
+- **Fury of the Elvenking** `PASSIVE`
+
+If Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a Heroic Combat for free.
+
+- **"Do not talk to me of Dragon fire"** `ACTIVE`
+
+At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains Terror. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
+
 
 </div>
 
@@ -162,10 +183,14 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **The Lord of Lorien** `PASSIVE`
 
-- **The Lord of Lorien** `PASSIVE` - Celeborn gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
-- **Battle Wisdom** `PASSIVE` - Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To Wound when making Strikes.
+Celeborn gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
+
+- **Battle Wisdom** `PASSIVE`
+
+Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To Wound when making Strikes.
+
 
 </div>
 
@@ -211,12 +236,22 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Hadhafang** `ACTIVE`
 
-- **Hadhafang** `ACTIVE` - Elven hand-and-a-half weapon, Elrond gains a bonus of +1 To Wound when making Strikes again a Spirit model.
-- **Vilya** `PASSIVE` - Elrond may re-roll any failed Fate points.
-- **Lord of the West** `ACTIVE` - May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
-- **Foresight of the Eldar** `PASSIVE` - At the start of the game before deployment, Elrond gains D6 Foresight points. As long as he is alive, Elrond can spend these points to increase his controlling player's Priority roll by 1 for each point spent, to a maximum of 6.
+Elven hand-and-a-half weapon, Elrond gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+
+- **Vilya** `PASSIVE`
+
+Elrond may re-roll any failed Fate points.
+
+- **Lord of the West** `ACTIVE`
+
+May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
+
+- **Foresight of the Eldar** `PASSIVE`
+
+At the start of the game before deployment, Elrond gains D6 Foresight points. As long as he is alive, Elrond can spend these points to increase his controlling player's Priority roll by 1 for each point spent, to a maximum of 6.
+
 
 </div>
 
@@ -253,9 +288,10 @@
 - Sharpshooter
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **One Final Blow** `ACTIVE`
 
-- **One Final Blow** `ACTIVE` - When slain in Combat, Haldir can make a Strength 4 Strike against all enemy models he was in Combat with. He may also use Might to increase the To Wound rolls as normal.
+When slain in Combat, Haldir can make a Strength 4 Strike against all enemy models he was in Combat with. He may also use Might to increase the To Wound rolls as normal.
+
 
 </div>
 
@@ -292,11 +328,18 @@
 - Leader (Palace Guard)
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Orcrist** `ACTIVE`
 
-- **Orcrist** `ACTIVE` - Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
-- **Deadly Shot** `ACTIVE` - Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal)
-- **Pinpoint Shot** `ACTIVE` - Instead of shooting normally, Legolas can make a single shot against an enemy Engaged in Combat with himself or a friendly model. If the To Hit roll is successful, he doesn't need to make any In The Way rolls - the shot will automatically hit its target.
+Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+
+- **Deadly Shot** `ACTIVE`
+
+Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal)
+
+- **Pinpoint Shot** `ACTIVE`
+
+Instead of shooting normally, Legolas can make a single shot against an enemy Engaged in Combat with himself or a friendly model. If the To Hit roll is successful, he doesn't need to make any In The Way rolls - the shot will automatically hit its target.
+
 
 </div>
 
@@ -339,9 +382,10 @@
 - Woodland Creature
 - Expert Rider
 
-**ACTIVE/PASSIVE RULES**
+- **Hadhafang** `ACTIVE`
 
-- **Hadhafang** `ACTIVE` - Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+
 
 </div>
 
@@ -382,9 +426,10 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **The Shipwright's Power** `PASSIVE`
 
-- **The Shipwright's Power** `PASSIVE` - Cirdan gains a free Will point at the start of each turn. If it is not spent by the end of the turn, it is lost.
+Cirdan gains a free Will point at the start of each turn. If it is not spent by the end of the turn, it is lost.
+
 
 </div>
 
@@ -414,11 +459,18 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Unbreakable Bond** `ACTIVE`
 
-- **Unbreakable Bond** `ACTIVE` - If Elladan is slain, make a note of the model that killed him. Elrohir increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elladan. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
-- **Twin Elven Blades** `ACTIVE` - Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
-- **Strength of Brotherhood** `ACTIVE` - Whilst within 3" of Elladan, Elrohir gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+If Elladan is slain, make a note of the model that killed him. Elrohir increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elladan. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
+
+- **Twin Elven Blades** `ACTIVE`
+
+Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
+
+- **Strength of Brotherhood** `ACTIVE`
+
+Whilst within 3" of Elladan, Elrohir gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+
 
 </div>
 
@@ -448,11 +500,18 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Unbreakable Bond** `ACTIVE`
 
-- **Unbreakable Bond** `ACTIVE` - If Elrohir is slain, make a note of the model that killed him. Elladan increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elrohir. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
-- **Twin Elven Blades** `ACTIVE` - Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
-- **Strength of Brotherhood** `ACTIVE` - Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+If Elrohir is slain, make a note of the model that killed him. Elladan increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elrohir. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
+
+- **Twin Elven Blades** `ACTIVE`
+
+Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
+
+- **Strength of Brotherhood** `ACTIVE`
+
+Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+
 
 </div>
 
@@ -519,10 +578,14 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Song of Elbereth** `ACTIVE`
 
-- **Song of Elbereth** `ACTIVE` - All friendly Rivendell models within 3" of Lindir gain the Resistant to Magic special rule.
-- **Wise Council** `PASSIVE` - If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend a single point of Will each turn for free. If he does not use this point by the end of the turn, then it is lost.
+All friendly Rivendell models within 3" of Lindir gain the Resistant to Magic special rule.
+
+- **Wise Council** `PASSIVE`
+
+If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend a single point of Will each turn for free. If he does not use this point by the end of the turn, then it is lost.
+
 
 </div>
 
@@ -579,9 +642,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Elven Glaive** `ACTIVE`
 
-- **Elven Glaive** `ACTIVE` - Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+
 
 </div>
 
@@ -612,9 +676,10 @@
 - Sharpshooter
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Knife Fighters** `ACTIVE`
 
-- **Knife Fighters** `ACTIVE` - If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+
 
 </div>
 
@@ -643,9 +708,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Whirl of Blades** `ACTIVE`
 
-- **Whirl of Blades** `ACTIVE` - If Orophin rolls a natural 6 in the Duel roll, then he will make double the number of strikes he normally would when rolling To Wound. Note that if the model he is fighting is Trapped, these Strikes will not also gain the benefit for Striking a Trapped model.
+If Orophin rolls a natural 6 in the Duel roll, then he will make double the number of strikes he normally would when rolling To Wound. Note that if the model he is fighting is Trapped, these Strikes will not also gain the benefit for Striking a Trapped model.
+
 
 </div>
 
@@ -680,9 +746,10 @@
 - Leader (Palace Guard)
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **King's Guard** `PASSIVE`
 
-- **King's Guard** `PASSIVE` - Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
+Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
+
 
 </div>
 
@@ -744,9 +811,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Swift Parry** `ACTIVE`
 
-- **Swift Parry** `ACTIVE` - Rumil may force one enemy model involved in the same Combat as him to re-roll one D6 in their Duel roll. This must be done before all other re-rolls, and before any Might points are spent.
+Rumil may force one enemy model involved in the same Combat as him to re-roll one D6 in their Duel roll. This must be done before all other re-rolls, and before any Might points are spent.
+
 
 </div>
 
@@ -783,10 +851,14 @@
 - Sharpshooter
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Blade Mistress** `ACTIVE`
 
-- **Blade Mistress** `ACTIVE` - If Outnumbered in Combat, then before making her Duel roll, Tauriel gains +1 Attack for each model she is Engaged in Combat with, after the first. This bonus lasts until the end of the Combat.
-- **Vengeful Fury** `PASSIVE` - If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to Defence 4 for the remainder of the battle. Additionally, if Kili is killed, Tauriel must always Charge an enemy model when she Activates if possible.
+If Outnumbered in Combat, then before making her Duel roll, Tauriel gains +1 Attack for each model she is Engaged in Combat with, after the first. This bonus lasts until the end of the Combat.
+
+- **Vengeful Fury** `PASSIVE`
+
+If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to Defence 4 for the remainder of the battle. Additionally, if Kili is killed, Tauriel must always Charge an enemy model when she Activates if possible.
+
 
 </div>
 
@@ -877,9 +949,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Caras Galadhon Fighting Style** `ACTIVE`
 
-- **Caras Galadhon Fighting Style** `ACTIVE` - This model may use the Shielding rule with their Elven pike. The usual restrictions for Shielding still apply, chiefly that a model using the Shielding rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
+This model may use the Shielding rule with their Elven pike. The usual restrictions for Shielding still apply, chiefly that a model using the Shielding rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
+
 
 </div>
 
@@ -911,9 +984,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Wood Elf spear** `ACTIVE`
 
-- **Wood Elf spear** `ACTIVE` - An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
+An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
+
 
 </div>
 
@@ -940,9 +1014,10 @@
 - Expert Rider
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **King's Knights** `PASSIVE`
 
-- **King's Knights** `PASSIVE` - Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +1 Defence whilst within 6" of Thranduil.
+Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +1 Defence whilst within 6" of Thranduil.
+
 
 </div>
 
@@ -973,9 +1048,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Elven Glaive** `ACTIVE`
 
-- **Elven Glaive** `ACTIVE` - Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+
 
 </div>
 
@@ -1002,9 +1078,10 @@
 - Sharpshooter
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Knife Fighters** `ACTIVE`
 
-- **Knife Fighters** `ACTIVE` - If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+
 
 </div>
 
@@ -1036,9 +1113,10 @@
 - Bodyguard
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **King's Guard** `PASSIVE`
 
-- **King's Guard** `PASSIVE` - Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
+Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
+
 
 </div>
 
@@ -1126,12 +1204,13 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Enchanting Song** `ACTIVE`
 
-- **Enchanting Song** `ACTIVE` - During their Activation, a Sentinel may sing one of the following songs:
+During their Activation, a Sentinel may sing one of the following songs:
 The Hymn of Elbereth - Choose a friendly model within 12", who will automatically pass all Courage Tests until the End Phase of the turn.
 Eldamar Madrigal - Choose an enemy model within 12" who is not Engaged in Combat. They must take an Intelligence Test. If failed, you may immediately Move that model. However you cannot make them enter an enemy model's Control Zone, dismount, lie down, be forced to Climb, Jump, Leap or Swim, or Move in any way that would cause direct harm. The model affected by this song cannot be Activated later in the turn.
 The Lay of Gondolin - Sentinel and all friendly models within 3" gain Terror until the End Phase of the turn.
+
 
 </div>
 

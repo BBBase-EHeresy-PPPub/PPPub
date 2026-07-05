@@ -1,58 +1,107 @@
-﻿## ARMY COMPOSITION
+## ARMY COMPOSITION
 
-This army may include: Theoden, King of Rohan; Theodred, Heir of Rohan; Eomer, Marshal of the Riddermark; Eowyn, Shield Maiden of Rohan; Meriadoc Brandybuck, Knight of the Mark; Erkenbrand, Captain of Rohan; Gamling, Captain of Rohan; Hama, Captain of Rohan; Grimbold of Grimslade; Eorl the Young; Captains of Rohan; King's Huntsmen; Warriors of Rohan; Riders of Rohan; Rohan Royal Guard; Rohan Outriders; and Sons of Eorl.
-
-## ADDITIONAL RULES
-
-Riders of Rohan within this army list do not count towards your force's Bow Limit.
+This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred; Captain of Rohan; Deorwine; Elfhelm; Erkenbrand; Gamling; Grimbold; Hama; Dernhelm; Eowyn; King's Huntsman; Aldor; Haleth; Meriadoc Brandybuck; Rider of Rohan; Rohan Outrider; Rohan Royal Guard; Son of Eorl; Warrior of Rohan.
 
 ## ARMY BONUS
 
-**"Ride for Ruin and the World's Ending!"** - Friendly Rohan Cavalry models gain +1 Strength on a turn in which they Charge.
+**"Ride for Ruin and the World's Ending!"** - Friendly Rohan Cavalry models gain + 1 Strength on a turn in which they Charge.
+
 
 ## HEROES OF ROHAN
 
 <div class="unitCard" markdown>
 
-### THEODEN, KING OF ROHAN [75 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF LEGEND*
+### HELM HAMMERHAND [165 POINTS]
+*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 5 | 7 | 3 | 3 | 6 | 3 | 3 | 1 |
+
+**WARGEAR**
+
+- Heavy armour
+- two-handed sword
+- The Horn of the Hammerhand
+
+**HEROIC ACTIONS**
+
+- Heroic Resolve
+- Heroic Strike
+- Heroic Strength
+- Heroic Defence
+- Heroic Challenge
+
+**OPTIONS**
+
+- Horse: 10 points
+
+**SPECIAL RULES**
+
+- Burly
+- Expert Rider
+- Horse Lord
+
+- **The Horn of the Hammerhand** `ACTIVE`
+
+A War Horn, which causes Terror when he charges into combat.
+
+- **Inspiring Presence** `PASSIVE`
+
+Rohan Warrior models within 6" gain +1 Fight value.
+
+- **The Hammerhand** `PASSIVE`
+
+May choose to use his fists instead of his sword, in which case he may use Bash special strike, and never counts as unarmed.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### THEODEN [75 POINTS]
+*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 3 | 3 | 1 |
 
 **WARGEAR**
 
-* [Armour]
-* Herugrim
-* **Herugrim** `ACTIVE`
-
-Herugrim is a [sword]. Additionally, Theoden may use the Feint Special Strike even if his Fight value is lower than his opponent's.
+- Armour, Herugrim
 
 **HEROIC ACTIONS**
 
-- [Heroic March]
-- [Heroic Strike]
-- [Heroic Challenge]
+- Heroic March
+- Heroic Strike
+- Heroic Challenge
 
 **OPTIONS**
 
-- [Armoured horse]: 15 points
-- [Horse]: 10 points
-- [Heavy armour]: 5 points
-- [Shield]: 5 points
+- Armoured Horse: 15 points
+- Horse: 10 points
+- Heavy Armour: 5 points
+- Shield: 5 points
 
 **SPECIAL RULES**
 
-- [Expert Rider]
-- [Horse Lord]
-- **The Will of Men is Easily Corrupted** `PASSIVE`
+- Expert Rider
+- Horse Lord
 
-If Grima Wormtongue is within 6" of Theoden, King of Rohan, then Theoden is reduced to Fight value 3/4+ and 1 Attack. Additionally, he may not declare Heroic Actions and may not use Will points.
+- **Herugrim** `ACTIVE`
+
+Theoden may use the Feint Special Strike even if he has a lower Fight value than his opponent.
 
 - **Forth, and Fear no Darkness** `ACTIVE`
 
-Theoden's [Stand Fast!] is 12" rather than 6".
+Theoden's Stand Fast! Is 12" rather than 6".
+
+- **The Will of Men is Easily Corrupted** `PASSIVE`
+
+If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 Attack.
+
 
 </div>
 
@@ -60,286 +109,39 @@ Theoden's [Stand Fast!] is 12" rather than 6".
 
 <div class="unitCard" markdown>
 
-### THEODRED, HEIR OF ROHAN [80 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
-
-| Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/4+ | 4 | 6 | 3 | 2 | 5 |
-
-**WARGEAR**
-
-- [Heavy armour]
-- [Sword]
-
-**HEROIC ACTIONS**
-
-- [Heroic Strike]
-- [Heroic Challenge]
-
-**OPTIONS**
-
-- [Horse]: 10 points
-- [Shield]: 5 points
-- [Throwing spears][Throwing Weapon]: 5 points
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- [Horse Lord]
-- **Reckless Charge** `ACTIVE`
-
-Theodred must Charge an enemy model if he is able to do so. Additionally, on a turn in which he Charges, Theodred may re-roll any failed To Wound rolls during the Fight phase.
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### EOMER, MARSHAL OF THE RIDDERMARK [100 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
+### EOMER [100 POINTS]
+*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/4+ | 4 | 6 | 3 | 3 | 5 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- [Heavy armour]
-- [Sword]
+- Heavy armour
+- sword
 
 **HEROIC ACTIONS**
 
-- [Heroic Strike]
-- [Heroic Strength]
+- Heroic Strength
+- Heroic Strike
 
 **OPTIONS**
 
-- [Armoured horse]: 15 points
-- [Horse]: 10 points
-- [Shield]: 5 points
-- [Throwing spears][Throwing Weapon]: 5 points
+- Armoured Horse: 15 points
+- Horse: 10 points
+- Shield: 5 points
+- Throwing Spears: 5 points
 
 **SPECIAL RULES**
 
-- [Expert Rider]
-- [Horse Lord]
+- Expert Rider
+- Horse Lord
+
 - **The Price of Grief** `ACTIVE`
 
-If Theoden or Eowyn are in the same force as Eomer, and either (or both) are slain, for the remainder of the game Eomer adds +1 to all To Wound rolls during the Fight phase. Additionally, for the remainder of the game, Eomer must Charge if able to do so.
+If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on all To Wound rolls for the rest of the game, and he must charge if able to do so.
 
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### EOWYN, SHIELD MAIDEN OF ROHAN - 40 POINTS
-*WOMAN, ROHAN, INFANTRY, HERO - MINOR HERO*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 5/4+ | 3 | 3 | 2 | 2 | 5 | 2 | 2 | 2 |
-
-**WARGEAR**
-
-- [Sword]
-
-**HEROIC ACTIONS**
-
-- [Heroic Resolve]
-- [Heroic Strike]
-- [Heroic Strength]
-
-**OPTIONS**
-
-- [Horse]: 10 points
-- [Armour]: 5 points
-- [Shield]: 5 points
-- [Throwing spears][Throwing Weapon]: 5 points
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- [Horse Lord]
-- **I Shall Kill You if You Touch Him**
-
-If Theoden is in your force and is slain, place a 25mm marker where he fell. Eowyn must move directly towards this marker during each of her Move phases if she is able to. Once Eowyn has moved within 3" of this marker, she may not willingly move further than 3" away from it for any reason for the remainder of the game. Additionally, whilst within 3" of the marker Eowyn becomes [Fearless] and must re-roll any failed To Wound rolls. In addition, she also receives a bonus of +1 To Wound when making strikes against the model that slew Theoden.
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### MERIADOC BRANDYBUCK, KNIGHT OF THE MARK [25 POINTS]
-*HOBBIT, ROHAN, INFANTRY, HERO - INDEPENDENT HERO*
-
-| Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 4" | 3/3+ | 2 | 4 | 1 | 1 | 4 |
-
-**WARGEAR**
-
-- [Armour]
-- [Dagger]
-
-**HEROIC ACTIONS**
-
-- [Heroic Strike]
-
-**OPTIONS**
-
-- [Elven Cloak]: 5 points
-- [Pony]: 5 points
-- [Shield]: 5 points
-
-**SPECIAL RULES**
-
-- [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1)
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### ERKENBRAND, CAPTAIN OF ROHAN [75 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 5/4+ | 4 | 7 | 2 | 2 | 4 | 3 | 1 | 1 |
-
-**WARGEAR**
-
-- [Heavy armour]
-- [Sword]
-- [Shield]
-- The Horn of the Hammerhand
-
-- **The Horn of the Hammerhand** `ACTIVE`
-
-This is a war horn that adds +2 Courage rather than +1. However, this war horn only affects friendly Rohan models.
-
-**HEROIC ACTIONS**
-
-- [Heroic March]
-- [Heroic Strength]
-
-**OPTIONS**
-
-- [Horse]: 10 points
-
-If your army includes Erkenbrand, you can upgrade any number of Riders of Rohan in his warband to Westfold Redshields at a cost of+1 point per model. Westfold Redshields count as being in range of a banner if Erkenbrand is within 3".
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- [Horse Lord]
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### GAMLING, CAPTAIN OF ROHAN - 55 POINTS
-
-**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
-
-**WARGEAR**
-
-- [Heavy armour]
-- [Sword]
-
-**HEROIC ACTIONS**
-
-- [Heroic March]
-- [Heroic Defence]
-
-**OPTIONS**
-
-- Royal Standard of Rohan: 50 points
-- [Horse]: 10 points
-- **Royal Standard of Rohan** `PASSIVE`
-
-This precious heirloom is a [banner]. Additionally, any Rohan Hero models that are within 3" of the Royal Standard of Rohan at the start of any turn, and have no Might remaining, automatically add 1 point of Might to their store. This cannot take a Hero model's Might beyond its starting level. Gamling suffers no penalties for carrying the Royal Standard of Rohan.
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- [Horse Lord]
-- [Sworn Protector] (Theoden)
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### HAMA, CAPTAIN OF ROHAN [55 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
-
-**WARGEAR**
-
-- [Heavy armour]
-- [Sword]
-
-**HEROIC ACTIONS**
-
-- [Heroic Defence]
-
-**OPTIONS**
-
-- [Horse]: 10 points
-- [Shield]: 5 points
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- [Horse Lord]
-- [Sworn Protector] (Theoden)
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### GRIMBOLD OF GRIMSLADE [60 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
-
-**WARGEAR**
-
-- [Armour]
-- *[Two-handed]* [Axe]
-
-**HEROIC ACTIONS**
-
-- [Heroic Strength]
-
-**OPTIONS**
-
-If your army includes Grimbold, you may upgrade any number of Warriors of Rohan to Helmingas for a cost of + 1 point per model. Helmingas are Strength 4, rather than 3.
-
-**SPECIAL RULES**
-
-- [Mighty Blow]
 
 </div>
 
@@ -348,69 +150,75 @@ If your army includes Grimbold, you may upgrade any number of Warriors of Rohan 
 <div class="unitCard" markdown>
 
 ### EORL THE YOUNG [115 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR*
+*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 5/4+ | 4 | 7 | 3 | 3 | 4 | 3* | 2 | 2 |
-
-If your force contains Eorl the Young and any other named Hero models from the Rohan army list then it will automatically lose its Army Bonus.
-
-Also, if your army includes Eorl, then every alliance will be Impossible Allies. One exception would be Minas Tirith, so long as the Minas Tirith force also includes no named Hero models.
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 7 | 3 | 3 | 4 | 3 | 2 | 2 |
 
 **WARGEAR**
 
-- [Heavy armour]
-- [Sword]
-- [Shield]
-- [Throwing spears][Throwing Weapon]
+- Heavy armour
+- sword
+- shield
+- throwing spears
 - Felarof
-- **Felarof**
-
-Eorl's noble steed is an [armoured horse] with a Move of 12"
 
 **HEROIC ACTIONS**
 
-- [Heroic Resolve]
-- [Heroic Strike]
-- [Heroic Strength]
-- [Heroic Defence]
+- Heroic Resolve
+- Heroic Strength
+- Heroic Strike
+- Heroic Defence
 
 **SPECIAL RULES**
 
-- [Expert Rider]
-- [Horse Lord]
+- Expert Rider
+- Horse Lord
+
 - **Legendary Hero** `PASSIVE`
 
-The first time each turn that Eorl the Young expends a point of Might, roll a D6. On a 4+, the point of Might is free and does not reduce Eorl's store of Might.
+The first time each turn that Eorl the Young spends a Might point, roll a D6. On a 4+, the point of Might is free.
+
+
 </div>
 
 ---
 
 <div class="unitCard" markdown>
 
-### KING'S HUNTSMAN [50 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - MINOR HERO*
+### THEODRED [80 POINTS]
+*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 3/3+ | 4 | 5 | 1 | 2 | 4 | 2 | 1 | 1 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 6 | 3 | 2 | 5 | 3 | 3 | 1 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword]
-- [Longbow][Bow]
+- Heavy armour
+- sword
 
 **HEROIC ACTIONS**
 
-- [Heroic Accuracy]
+- Heroic Strike
+- Heroic Challenge
+
+**OPTIONS**
+
+- Horse: 10 points
+- Shield: 5 points
+- Throwing Spears: 5 points
 
 **SPECIAL RULES**
 
-- **Master Archer** `ACTIVE`
+- Expert Rider
+- Horse Lord
 
-King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, each time this model slays an enemy Hero or Monster model, restore the King's Huntsman's Might to its starting level.
+- **Reckless Charge** `ACTIVE`
+
+Theodred must Charge enemy models if able to so. Additionally, when he charges, re-roll any failed To Wound rolls in that fight.
+
 
 </div>
 
@@ -419,65 +227,498 @@ King's Huntsmen only fail In The Way rolls on the roll of a 1. Additionally, eac
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF ROHAN [45 POINTS]
-*MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword] or [Axe]
+- Armour
+- sword or axe
 
 **HEROIC ACTIONS**
 
-- [Heroic March]
+- Heroic March
 
 **OPTIONS**
 
-- [Horse]: 10 points
-- [Bow]: 5 points
-- [Heavy armour]: 5 points
-- [Shield]: 5 points
-- [Throwing spears][Throwing Weapon]: 5 points
+- Horse: 10 points
+- Bow: 5 points
+- Heavy Armour: 5 points
+- Shield: 5 points
+- Throwing Spears: 5 points
+- Swap Weapon: 5 points
 
 **SPECIAL RULES**
 
-- [Expert Rider]
-- [Horse Lord]
+- Expert Rider
+- Horse Lord
+
 - **Arise Riders of Theoden!** `ACTIVE`
 
-If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
-Charge.
+If within 12" of Theoden, and riding a horse, this model receives +1 bonus to their Fight value on a turn in which they Charge.
+
 
 </div>
 
 ---
+
+<div class="unitCard" markdown>
+
+### DEORWINE [75 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 7 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Heavy armour
+- sword
+- shield
+
+**HEROIC ACTIONS**
+
+- Heroic March
+- Heroic Strike
+
+**OPTIONS**
+
+- Horse: 10 points
+
+**SPECIAL RULES**
+
+- Expert Rider
+- Bodyguard
+- Horse Lord
+
+- **For Theoden** `ACTIVE`
+
+If Theoden is Engaged in a Fight within 12", Deorwine may call a Heroic Combat for free. If the action is successful, you must use the following move to join Theoden's combat, or get as close as possible to him.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ELFHELM [65 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/3+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Armour
+- sword
+- shield
+- throwing spears
+
+**HEROIC ACTIONS**
+
+- Heroic Accuracy
+- Heroic Defence
+
+**OPTIONS**
+
+- Horse: 10 points
+
+**SPECIAL RULES**
+
+- Expert Rider
+- Horse Lord
+
+- **Pinpoint Accuracy** `ACTIVE`
+
+Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing spear, and never suffers the -1 penalty when moving and shooting with a throwing spear.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ERKENBRAND [75 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 7 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Heavy armour
+- sword
+- shield
+- The Horn of the Hammerhand
+
+**HEROIC ACTIONS**
+
+- Heroic March
+- Heroic Strength
+
+**OPTIONS**
+
+- Horse: 10 points
+
+**SPECIAL RULES**
+
+- Expert Rider
+- Horse Lord
+
+- **The Horn of the Hammerhand** `ACTIVE`
+
+This is a war horn that adds +2 Courage rather than +1, but only affects friendly Rohan models.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### GAMLING [55 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Heavy armour
+- sword
+
+**HEROIC ACTIONS**
+
+- Heroic March
+- Heroic Defence
+
+**OPTIONS**
+
+- Royal Standard of Rohan: 50 points
+- Horse: 10 points
+
+**SPECIAL RULES**
+
+- Expert Rider
+- Horse Lord
+- Sworn Protector (Theoden)
+
+- **Royal Standard of Rohan** `PASSIVE`
+
+As well as being a banner, a single Rohan Hero model with no Might left and within 3" may regain 1 Might point. Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this banner.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### GRIMBOLD [60 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Armour
+- two-handed axe
+
+**HEROIC ACTIONS**
+
+- Heroic Strength
+
+**SPECIAL RULES**
+
+- Mighty Blow
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### HAMA [55 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Heavy armour
+- sword
+
+**HEROIC ACTIONS**
+
+- Heroic Defence
+
+**OPTIONS**
+
+- Horse: 10 points
+- Shield: 5 points
+
+**SPECIAL RULES**
+
+- Expert Rider
+- Horse Lord
+- Sworn Protector (Theoden)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### DERNHELM [75 POINTS]
+*MINOR HERO, UNIQUE, 6 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 3 | 5 | 3 | 2 | 5 | 2 | 2 | 2 |
+
+**WARGEAR**
+
+- Armour
+- shield
+- sword
+- Horse
+
+**HEROIC ACTIONS**
+
+- Heroic Resolve
+- Heroic Strike
+- Heroic Strength
+
+**OPTIONS**
+
+- Throwing Spears: 5 points
+
+**SPECIAL RULES**
+
+- Horse Lord
+- Expert Rider
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### EOWYN [40 POINTS]
+*MINOR HERO, UNIQUE, 6 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 3 | 3 | 2 | 2 | 5 | 2 | 2 | 2 |
+
+**WARGEAR**
+
+- Sword
+
+**HEROIC ACTIONS**
+
+- Heroic Resolve
+- Heroic Strike
+- Heroic Strength
+
+**OPTIONS**
+
+- Horse: 10 points
+- Armour: 5 points
+- Shield: 5 points
+- Throwing Spears: 5 points
+
+**SPECIAL RULES**
+
+- Horse Lord
+- Expert Rider
+
+- **I Shall Kill You if You Touch Him** `ACTIVE`
+
+If Theoden is slain, Eowyn must move towards the spot where he died if she can. Once she's within 3" of this spot, she must remain within 3" of it. Then for rest of the game, she becomes Fearless, re-rolls any failed To Wound rolls, and gains +1 To Wound when striking the model that slew Theoden.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### KING'S HUNTSMAN [50 POINTS]
+*MINOR HERO, 6 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/3+ | 4 | 5 | 1 | 2 | 4 | 2 | 1 | 1 |
+
+**WARGEAR**
+
+- Armour
+- sword
+- longbow
+
+**HEROIC ACTIONS**
+
+- Heroic Accuracy
+
+**OPTIONS**
+
+- Swap Weapon: 5 points
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ALDOR [20 POINTS]
+*INDEPENDENT HERO, UNIQUE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 4 | 1 | 1 | 1 |
+
+**WARGEAR**
+
+- Armour
+- sword
+- bow
+
+**HEROIC ACTIONS**
+
+- Heroic Accuracy
+
+**SPECIAL RULES**
+
+- **Unsteady nerves** `ACTIVE`
+
+Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are resolved.
+
+- **Lucky Shot** `ACTIVE`
+
+Aldor must re-roll failed To Hit and To Wound rolls with his bow.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### HALETH [30 POINTS]
+*INDEPENDENT HERO, UNIQUE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 4 | 1 | 2 | 5 | 1 | 1 | 2 |
+
+**WARGEAR**
+
+- Armour
+- sword
+- bow
+
+**HEROIC ACTIONS**
+
+- Heroic Defence
+
+**SPECIAL RULES**
+
+- **There is Always Hope** `ACTIVE`
+
+Haleth has an Attack value of 2 whilst within 6" of Aragorn.
+
+- **Fight to the Last** `PASSIVE`
+
+If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models within 6" gain +1 Fight value. This ends immediately if Haleth is slain.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### MERIADOC BRANDYBUCK [25 POINTS]
+*INDEPENDENT HERO, UNIQUE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4" | 3/3+ | 2 | 4 | 1 | 1 | 4 | 1 | 1 | 2 |
+
+**WARGEAR**
+
+- Armour
+- dagger
+
+**HEROIC ACTIONS**
+
+- Heroic Strike
+
+**OPTIONS**
+
+- Elven Cloak: 5 points
+- Pony: 5 points
+- Shield: 5 points
+
+**SPECIAL RULES**
+
+- Resistant to Magic
+- Throw Stones (range 8", Strength 1)
+
+</div>
+
+---
+
 
 ## WARRIORS OF ROHAN
 
 <div class="unitCard" markdown>
 
-### WARRIOR OF ROHAN [6 POINTS]
-*MAN, ROHAN, INFANTRY, WARRIOR*
+### RIDER OF ROHAN [14 POINTS]
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 3/4+ | 3 | 4 | 1 | 1 | 3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword] or [Axe]
+- Armour
+- sword or axe
+- shield
+- bow
+- Horse
 
 **OPTIONS**
 
-- [War horn]: 30 points
-- [Banner]: 25 points
-- [Throwing spears][Throwing Weapon]: 2 points
-- [Bow]: 1 point
-- [Shield]: 1 point
+- War Horn: 30 points
+- Banner: 25 points
+- Throwing Spears: 2 points
+- Westfold Redshield Upgrade: 1 point
+- Swap Weapon: 1 point
+
+**SPECIAL RULES**
+
+- Expert Rider
+
+- **Arise, Riders of Theoden!** `ACTIVE`
+
+If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
+
 
 </div>
 
@@ -485,34 +726,32 @@ Charge.
 
 <div class="unitCard" markdown>
 
-### RIDER OF ROHAN [14 POINTS]
-*MAN, ROHAN, CAVALRY, WARRIOR*
+### ROHAN OUTRIDER [8 POINTS]
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/3+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword] or [Axe]
-- [Shield]
-- [Bow]
-- [Horse]
+- Armour
+- sword
+- bow
 
 **OPTIONS**
 
-- [War horn]: 30 points
-- [Banner]: 25 points
-- [Throwing spears][Throwing Weapon]: 2 points
+- Horse: 5 points
+- Swap Weapon: 1 point
 
 **SPECIAL RULES**
 
-- [Expert Rider]
-- **Arise Riders of Theoden!** `ACTIVE`
+- Expert Rider
 
-If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
-Charge.
+- **Vanguard** `ACTIVE`
+
+Outriders may use friendly Hero model's Stand Fast, regardless of range.
+
 
 </div>
 
@@ -521,61 +760,34 @@ Charge.
 <div class="unitCard" markdown>
 
 ### ROHAN ROYAL GUARD [10 POINTS]
-*MAN, ROHAN, INFANTRY, WARRIOR*
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 3 | 6 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Heavy armour]
-- [Sword]
-- [Shield]
+- Heavy armour
+- sword
+- shield
 
 **OPTIONS**
 
-- [Horse]: 5 points
-- [Throwing spears][Throwing Weapon]: 2 points
-- [Banner]: 25 points
+- Banner: 25 points
+- Horse: 5 points
+- Throwing Spears: 2 points
+- Swap Weapon: 1 point
 
 **SPECIAL RULES**
 
-- [Bodyguard]
-- [Expert Rider]
-- **Arise Riders of Theoden!** `ACTIVE`
+- Bodyguard
+- Expert Rider
 
-If this model is within 12" of Theoden and has the Cavalry keyword, then a model with this special rule receives a +1 bonus to their Fight value on a turn in which they
-Charge.
-</div>
+- **Arise, Riders of Theoden!** `ACTIVE`
 
----
+If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
 
-<div class="unitCard" markdown>
-
-### ROHAN OUTRIDER [8 POINTS]
-*MAN, ROHAN, INFANTRY, WARRIOR*
-
-| Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 3/3+ | 3 | 4 | 1 | 1 | 3 |
-
-**WARGEAR**
-
-- [Armour]
-- [Sword]
-- [Bow]
-
-**OPTIONS**
-
-- [Horse]: 5 points
-
-**SPECIAL RULES**
-
-- [Expert Rider]
-- **Vanguard** `ACTIVE`
-
-Outriders may use a friendly Hero model's [Stand Fast!] regardless of range.
 
 </div>
 
@@ -584,26 +796,58 @@ Outriders may use a friendly Hero model's [Stand Fast!] regardless of range.
 <div class="unitCard" markdown>
 
 ### SON OF EORL [20 POINTS]
-*MAN, ROHAN, CAVALRY, WARRIOR*
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
 
-- [Heavy armour]
-- [Axe]
-- [Shield]
-- [Armoured horse].
+- Heavy armour
+- axe
+- shield
+- armoured horse
+
+**OPTIONS**
+
+- Swap Weapon: 1 point
 
 **SPECIAL RULES**
 
-- [Expert Rider]
+- Expert Rider
+
 - **Riders of Eorl** `ACTIVE`
 
-Whilst within 6" of Eorl the Young, Sons of Eorl gain a bonus of +1 to their Attack value.
+Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
+
 
 </div>
 
 ---
+
+<div class="unitCard" markdown>
+
+### WARRIOR OF ROHAN [6 POINTS]
+*WARRIOR*
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 4 | 1 | 1 | 3 |
+
+**WARGEAR**
+
+- Amour
+- sword or axe
+
+**OPTIONS**
+
+- War Horn: 30 points
+- Banner: 25 points
+- Throwing Spears: 2 points
+- Shield: 1 point
+- Helminga Upgrade: 1 point
+- Bow: 1 point
+- Swap Weapon: 1 point
+
+</div>

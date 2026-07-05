@@ -2,44 +2,48 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Theodred: 85 points
+- **Theodred**: 85 points
   - Brego: 20 points
   - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Captain of Rohan: 45 points
+- **Captain of Rohan**: 45 points
   - Horse: 20 points
   - Exchange armour for heavy armour: 5 points
   - Shield: 5 points
-- Elfhelm, Captain of Rohan: 60 points
+- **Elfhelm, Captain of Rohan**: 60 points
   - Horse: 20 points
-- Grimbold of Grimslade: 65 points
+- **Grimbold of Grimslade**: 65 points
 
 **MINOR HEROES**
 
-- King's Huntsman: 55 points
+- **King's Huntsman**: 55 points
 
 **WARRIORS**
 
-- Rider of Rohan: 14 points
+- **Rider of Rohan**: 14 points
   - Banner: 25 points
   - Throwing spears: 2 points
-- Rohan Outrider: 8 points
+- **Rohan Outrider**: 8 points
   - Horse: 5 points
-- Rohan Royal Guard: 11 points
+- **Rohan Royal Guard**: 11 points
   - Horse and throwing spears: 7 points
   - Horse: 5 points
   - Throwing spears: 2 points
-- Warrior of Rohan: 6 points
+- **Warrior of Rohan**: 6 points
   - War horn, shield, throwing spears: 28 points
   - Banner: 25 points
   - Shield and throwing spears: 3 points
   - Shield: 1 point
   - Bow: 1 point
   - Upgrade to Helmingas: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

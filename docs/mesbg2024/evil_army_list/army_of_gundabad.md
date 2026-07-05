@@ -2,42 +2,46 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Azog the Defiler: 175 points
+- **Azog the Defiler**: 175 points
   - Stone flail: 15 points
   - Heavy armour: 10 points
 
 **HEROES OF VALOUR**
 
-- Bolg, Spawn of Azog: 175 points
+- **Bolg, Spawn of Azog**: 175 points
   - Fell Warg: 20 points
   - Orc bow: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Goblin Mercenary Captain: 50 points
-- Gundabad Orc Captain: 60 points
+- **Goblin Mercenary Captain**: 50 points
+- **Gundabad Orc Captain**: 60 points
 
 **INDEPENDENT HEROES**
 
-- Gundabad Catapult Troll: 180 points
-- Troll Brute: 120 points
+- **Gundabad Catapult Troll**: 180 points
+- **Troll Brute**: 120 points
 
 **WARRIORS**
 
-- Goblin Mercenary: 6 points
-- Gundabad Berserker: 15 points
+- **Goblin Mercenary**: 6 points
+- **Gundabad Berserker**: 15 points
   - Two-handed weapon: 1 point
-- Gundabad Ogre: 60 points
-- Gundabad Orc Warrior: 9 points
+- **Gundabad Ogre**: 60 points
+- **Gundabad Orc Warrior**: 9 points
   - Banner and shield: 26 points
   - Banner: 25 points
   - Shield: 1 point
   - Spear: 1 point
-- Gundabad Troll: 120 points
+- **Gundabad Troll**: 120 points
   - Exchange club for Scythe Gauntlets: 10 points
-- War Bat: 25 points
+- **War Bat**: 25 points
+
+</div>
 
 ## SPECIAL RULES
 

@@ -9,16 +9,16 @@
 
 **ADVANCEMENTS**
 
-- Mordor Orc with shield – Morannon Orc with shield
-- Mordor Orc with spear – Morannon Orc with spear
-- Mordor Orc with two-handed weapon – Warg Rider
-- Mordor Orc with Orc bow – Orc Tracker
-- Mordor Uruk-hai – Black Guard of Barad-dûr
-- Black Númenórean – Morgul Knight
+- Mordor Orc with shield - Morannon Orc with shield
+- Mordor Orc with spear - Morannon Orc with spear
+- Mordor Orc with two-handed weapon - Warg Rider
+- Mordor Orc with Orc bow - Orc Tracker
+- Mordor Uruk-hai - Black Guard of Barad-dûr
+- Black Númenórean - Morgul Knight
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Orcish Brawler** – If this Hero is outnumbered during a Fight, then they gain a bonus of +1 to both their Fight and Attacks values.
+**Orcish Brawler** - If this Hero is outnumbered during a Fight, then they gain a bonus of +1 to both their Fight and Attacks values.
 
 **REINFORCEMENTS**
 
@@ -55,13 +55,13 @@
 
 **ADVANCEMENTS**
 
-- Mordor Orc with Orc bow – Orc Tracker
+- Mordor Orc with Orc bow - Orc Tracker
 
 **ARMY SPECIFIC HERO UPGRADES**
 
-**'We're in Charge!'** (Orcs and Uruk-hai only) – If the Hero is an Orc, they gain a bonus of +1 To Wound whilst within 2" of a friendly Uruk-hai. If the Hero is an Uruk-hai, they gain a bonus of +1 To Wound whilst within 2" of a friendly Orc.
+**'We're in Charge!'** (Orcs and Uruk-hai only) - If the Hero is an Orc, they gain a bonus of +1 To Wound whilst within 2" of a friendly Uruk-hai. If the Hero is an Uruk-hai, they gain a bonus of +1 To Wound whilst within 2" of a friendly Orc.
 
-**Bloated Creature** (Spider only) – Whenever this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored, exactly as if 1 point of Fate had been spent.
+**Bloated Creature** (Spider only) - Whenever this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored, exactly as if 1 point of Fate had been spent.
 
 **REINFORCEMENTS**
 
@@ -85,12 +85,12 @@
 
 **ADVANCEMENTS**
 
-- Mordor Orc with Orc bow – Orc Tracker
-- Black Númenórean – Morgul Knight
+- Mordor Orc with Orc bow - Orc Tracker
+- Black Númenórean - Morgul Knight
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Morgul Weaponry'** – The weapons forged within the citadel of Minas Morgul are infused with malice and dark sorcery, powerful enough to drain the living. Each time this Hero inflicts an unsaved Wound on an enemy model, roll a D6. On a 4+, that model suffers an additional Wound (Fate may still be used as normal).
+**'Morgul Weaponry'** - The weapons forged within the citadel of Minas Morgul are infused with malice and dark sorcery, powerful enough to drain the living. Each time this Hero inflicts an unsaved Wound on an enemy model, roll a D6. On a 4+, that model suffers an additional Wound (Fate may still be used as normal).
 
 **REINFORCEMENTS**
 
@@ -125,17 +125,17 @@ A Dead Marsh Spectre cannot gain Experience and therefore can never become a Her
 
 **ADVANCEMENTS**
 
-- Uruk-hai Scout with shield – Uruk-hai Warrior with shield
-- Uruk-hai Scout – Uruk-hai Warrior with pike
-- Uruk-hai Scout with Orc bow – Uruk-hai Warrior with crossbow
+- Uruk-hai Scout with shield - Uruk-hai Warrior with shield
+- Uruk-hai Scout - Uruk-hai Warrior with pike
+- Uruk-hai Scout with Orc bow - Uruk-hai Warrior with crossbow
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'You Shall Taste Man-flesh!'** – The hero's lust for flesh drives them into a bloodthirsty rage, spurring them forth into battle. This Hero receives a bonus of +1 To Wound when making Strikes against models with the Man keyword.
+**'You Shall Taste Man-flesh!'** - The hero's lust for flesh drives them into a bloodthirsty rage, spurring them forth into battle. This Hero receives a bonus of +1 To Wound when making Strikes against models with the Man keyword.
 
 **UNIQUE WARGEAR**
 
-Uruk-hai Grog – Small (2) (Hero only) – 4 Influence Points
+Uruk-hai Grog - Small (2) (Hero only) - 4 Influence Points
 
 - A Hero may elect to use their Uruk-hai Grog at the start of any game. If they do so, remove it from the Hero model's profile. Every model within the Hero model's Battle Company may re-roll a single D6 when making a Duel roll for the duration of that game.
 
@@ -171,11 +171,11 @@ Uruk-hai Grog – Small (2) (Hero only) – 4 Influence Points
 
 **ADVANCEMENTS**
 
-- Wild Warg – Warg Rider with choice of weapon
+- Wild Warg - Warg Rider with choice of weapon
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Vicious Battle Scars'** – The ferocity of the Warg is well-documented by the array of scars and flesh wounds it possesses. Such viciousness is enough to strike fear into the hearts of those that must face this fearsome creature.
+**'Vicious Battle Scars'** - The ferocity of the Warg is well-documented by the array of scars and flesh wounds it possesses. Such viciousness is enough to strike fear into the hearts of those that must face this fearsome creature.
 
 The Hero model's mount (or itself if the Hero is a Wild Warg) causes Terror.
 
@@ -203,11 +203,11 @@ The Hero model's mount (or itself if the Hero is a Wild Warg) causes Terror.
 
 **ADVANCEMENTS**
 
-- Wildman of Dunland – Dunlending Warrior with choice of weapon
+- Wildman of Dunland - Dunlending Warrior with choice of weapon
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Frenzied Fighter'** – Having been whipped into a maddened state by the words of the White Wizard, the Hero shrugs off all but the most grievous wounds in order to fight to the last. Roll a D6 each time the Hero suffers a Wound. On a 5+, the Wound is ignored.
+**'Frenzied Fighter'** - Having been whipped into a maddened state by the words of the White Wizard, the Hero shrugs off all but the most grievous wounds in order to fight to the last. Roll a D6 each time the Hero suffers a Wound. On a 5+, the Wound is ignored.
 
 **REINFORCEMENTS**
 
@@ -243,7 +243,7 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Strength in Numbers'** – The hero is no more than a bully, and is in their element when fighting with the odds in their favour.
+**'Strength in Numbers'** - The hero is no more than a bully, and is in their element when fighting with the odds in their favour.
 
 If the Hero is involved in a Fight where there are more friendly models than enemy models, the Hero gains a bonus of +1 when rolling To Wound.
 
@@ -272,13 +272,13 @@ A Moria Battle Company may hire a Cave Troll for 15 Influence Points. A Cave Tro
 
 **ADVANCEMENTS**
 
-- Moria Goblin with shield – Moria Blackshield
-- Moria Goblin with spear – Moria Blackshield with spear
-- Moria Goblin with Orc bow – Moria Goblin Prowler
+- Moria Goblin with shield - Moria Blackshield
+- Moria Goblin with spear - Moria Blackshield with spear
+- Moria Goblin with Orc bow - Moria Goblin Prowler
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Treacherous Leader'** – Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their 'allies' to see that they live to fight another day.
+**'Treacherous Leader'** - Cowardly leaders at the best of times, Goblin heroes will gladly sacrifice their 'allies' to see that they live to fight another day.
 
 Every time this Hero suffers a Wound in combat that would result in it being slain, after Fate points have been spent, roll a D6. On a 2+, the Hero may select another friendly model within 1" of itself; that model suffers the Wound instead of the Hero. Models that suffer Wounds in this way may still use Fate points as normal.
 
@@ -312,11 +312,11 @@ Every time this Hero suffers a Wound in combat that would result in it being sla
 
 **ADVANCEMENTS**
 
-- Goblin Warrior – Goblin Mercenary
+- Goblin Warrior - Goblin Mercenary
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Backstabber'** – When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away. 
+**'Backstabber'** - When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away. 
 
 The Hero gains the 'Backstabbers' special rule.
 
@@ -342,12 +342,12 @@ The Hero gains the 'Backstabbers' special rule.
 
 **ADVANCEMENTS**
 
-- Angmar Orc Warrior with two-handed weapon – Angmar Warg Rider  
-- Angmar Orc Warrior with Orc bow – Orc Tracker  
+- Angmar Orc Warrior with two-handed weapon - Angmar Warg Rider  
+- Angmar Orc Warrior with Orc bow - Orc Tracker  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Gaze of the Dead'** – During its Move phase, the Hero may target a single enemy model within 6". The target must then take a Courage test. If the test is passed, the target is unaffected. If the test is failed, the target may not move for the remainder of the turn.
+**'Gaze of the Dead'** - During its Move phase, the Hero may target a single enemy model within 6". The target must then take a Courage test. If the test is passed, the target is unaffected. If the test is failed, the target may not move for the remainder of the turn.
 
 **REINFORCEMENTS**
 
@@ -385,7 +385,7 @@ A Gundabad Battle Company may hire a Gundabad Ogre for 15 Influence Points. A Gu
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Devastating Strike'** – The hero composes themselves, raising their weapon high above their head in order to deliver a single bone-shattering blow. At the start of any Duel, before any dice are rolled, the Hero may choose to reduce their Attacks characteristic to 1. If they do so, they will gain an additional +1 to any To Wound rolls for the remainder of the Duel.
+**'Devastating Strike'** - The hero composes themselves, raising their weapon high above their head in order to deliver a single bone-shattering blow. At the start of any Duel, before any dice are rolled, the Hero may choose to reduce their Attacks characteristic to 1. If they do so, they will gain an additional +1 to any To Wound rolls for the remainder of the Duel.
 
 **REINFORCEMENTS**
 
@@ -420,12 +420,12 @@ A War Bat cannot gain Experience and therefore cannot become a Hero.
 
 **ADVANCEMENTS**
 
-- Hunter Orc – Hunter Orc riding Fell Warg with equivalent wargear
-- Fell Warg – Hunter Orc riding Fell Warg
+- Hunter Orc - Hunter Orc riding Fell Warg with equivalent wargear
+- Fell Warg - Hunter Orc riding Fell Warg
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Power of the Necromancer** – The hero has been infused with the dark sorcery of the Necromancer, prolonging its life beyond normal limits. Each time this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
+**Power of the Necromancer** - The hero has been infused with the dark sorcery of the Necromancer, prolonging its life beyond normal limits. Each time this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
 
 **REINFORCEMENTS**
 
@@ -449,9 +449,9 @@ A War Bat cannot gain Experience and therefore cannot become a Hero.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Ravenous Charge (Warg only)** – Within its state of constant hunger, the Warg hurls itself at its prey with force enough to send it sprawling to the floor. The Hero gains the Extra Attack and Knock to the Ground bonuses as if it were a Cavalry model.
+**Ravenous Charge (Warg only)** - Within its state of constant hunger, the Warg hurls itself at its prey with force enough to send it sprawling to the floor. The Hero gains the Extra Attack and Knock to the Ground bonuses as if it were a Cavalry model.
 
-**Bloated Creature (Spider only)** – Countless years spent feasting on the blood of its prey has made the frame of this creature swell beyond its natural size, causing all but the most precise blows to fall short of their mark. Whenever this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
+**Bloated Creature (Spider only)** - Countless years spent feasting on the blood of its prey has made the frame of this creature swell beyond its natural size, causing all but the most precise blows to fall short of their mark. Whenever this Hero suffers a Wound, roll a D6. On a 5+, the Wound is ignored exactly as if a point of Fate had been spent.
 
 **REINFORCEMENTS**
 
@@ -487,13 +487,13 @@ Unlike other Battle Companies, a Harad Battle Company may have up to 50% of its 
 
 **ADVANCEMENTS**
 
-- Haradrim Warrior with bow – Haradrim Raider with bow
-- Haradrim Warrior with spear – Haradrim Raider with war spear
-- Serpent Guard – Serpent Rider
+- Haradrim Warrior with bow - Haradrim Raider with bow
+- Haradrim Warrior with spear - Haradrim Raider with war spear
+- Serpent Guard - Serpent Rider
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Master of Poisons'** – The hero has mastered the study of the vile toxins of the Haradrim, and coats the blades of their weapons in the most potent of these. This Hero must re-roll all failed To Wound rolls.
+**'Master of Poisons'** - The hero has mastered the study of the vile toxins of the Haradrim, and coats the blades of their weapons in the most potent of these. This Hero must re-roll all failed To Wound rolls.
 
 **REINFORCEMENTS**
 
@@ -530,16 +530,16 @@ Unlike other Battle Companies, a Kârna Battle Company may have up to 50% of its
 
 **ADVANCEMENTS**
 
-- Haradrim Warrior with bow – Warrior of Kârna with bow
-- Haradrim Warrior with spear – Warrior of Kârna with spear
-- Warrior of Kârna with bow – Watcher of Kârna with bow
-- Warrior of Kârna with spear – Watcher of Kârna with twin blades
+- Haradrim Warrior with bow - Warrior of Kârna with bow
+- Haradrim Warrior with spear - Warrior of Kârna with spear
+- Warrior of Kârna with bow - Watcher of Kârna with bow
+- Warrior of Kârna with spear - Watcher of Kârna with twin blades
 
 A Warrior of Kârna has a Shoot value of 3+, instead of 4+.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Master of the Haunted City** – The hero has spent much time within the walls of Kârna, giving them a strange and mysterious aura about them. The Hero causes Terror.
+**Master of the Haunted City** - The hero has spent much time within the walls of Kârna, giving them a strange and mysterious aura about them. The Hero causes Terror.
 
 **REINFORCEMENTS**
 
@@ -573,19 +573,19 @@ A Spectral Warrior has the same profile as a Warrior of the Dead. However, they 
 
 **ADVANCEMENTS**
 
-- Mahûd Warrior – Mahûd Raider
-- Mahûd Warrior with blowpipe – Mahûd Raider with blowpipe
-- Mahûd Warrior with spear – Mahûd Raider with war spear
+- Mahûd Warrior - Mahûd Raider
+- Mahûd Warrior with blowpipe - Mahûd Raider with blowpipe
+- Mahûd Warrior with spear - Mahûd Raider with war spear
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Warrior Pride** – The sight of this hero relentlessly fighting their foes is enough to spur their tribal followers forward. If this Hero is Engaged in combat, then models from this Battle Company within 6" of the Hero will automatically pass all Courage tests they are required to make.
+**Warrior Pride** - The sight of this hero relentlessly fighting their foes is enough to spur their tribal followers forward. If this Hero is Engaged in combat, then models from this Battle Company within 6" of the Hero will automatically pass all Courage tests they are required to make.
 
 **UNIQUE WARGEAR**
 
-War Camel (6/10) – 3 Influence Points
+War Camel (6/10) - 3 Influence Points
 
-Blowpipe (1/5) – 1 Influence Point
+Blowpipe (1/5) - 1 Influence Point
 
 **REINFORCEMENTS**
 
@@ -618,15 +618,15 @@ Blowpipe (1/5) – 1 Influence Point
 
 **ADVANCEMENTS**
 
-- Corsair of Umbar with bow – Corsair Arbalester
+- Corsair of Umbar with bow - Corsair Arbalester
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Shadows of Umbar'** – The corrupt and shadowy streets of Umbar have taught the Hero how to conceal themselves to the untrained eye, making their sudden attacks all the more deadly. If the Hero is partially concealed from view, they cannot be seen at all at distances more than 6" – they appear to melt into the background. This means that enemies cannot Charge or shoot the Hero, nor target them with Magical Powers or special rules at distances greater than 6", unless they have a completely clear view of the Hero.
+**'Shadows of Umbar'** - The corrupt and shadowy streets of Umbar have taught the Hero how to conceal themselves to the untrained eye, making their sudden attacks all the more deadly. If the Hero is partially concealed from view, they cannot be seen at all at distances more than 6" - they appear to melt into the background. This means that enemies cannot Charge or shoot the Hero, nor target them with Magical Powers or special rules at distances greater than 6", unless they have a completely clear view of the Hero.
 
 **UNIQUE WARGEAR**
 
-Smoke Bombs (1/5) – 2 Influence Points – These are a throwing weapon with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a point of Will or be subjected to the effects of the Transfix Magical Power. Should this model ever roll a 1 To Hit with their Smoke Bombs, then their supply has run out and they cannot use them for the remainder of the game.
+Smoke Bombs (1/5) - 2 Influence Points - These are a throwing weapon with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a point of Will or be subjected to the effects of the Transfix Magical Power. Should this model ever roll a 1 To Hit with their Smoke Bombs, then their supply has run out and they cannot use them for the remainder of the game.
 
 **REINFORCEMENTS**
 
@@ -658,11 +658,11 @@ Smoke Bombs (1/5) – 2 Influence Points – These are a throwing weapon with a 
 
 **ADVANCEMENTS**
 
-- Easterling Warrior – Black Dragon with equivalent wargear  
+- Easterling Warrior - Black Dragon with equivalent wargear  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Skilled Duellist'** – When fighting an enemy Hero, this Hero may force their opponent to re-roll one of their dice in the Duel roll.
+**'Skilled Duellist'** - When fighting an enemy Hero, this Hero may force their opponent to re-roll one of their dice in the Duel roll.
 
 **REINFORCEMENTS**
 
@@ -695,15 +695,15 @@ A Rhûnish War Drake cannot gain experience and therefore cannot become a Hero.
 
 **ADVANCEMENTS**
 
-- Khandish Warrior – Khandish Horseman with equivalent wargear
+- Khandish Warrior - Khandish Horseman with equivalent wargear
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Master Skirmisher** – The horsemen of Khand are renowned for their skills as skirmishers, picking off the enemies from range or using their momentum to deliver a devastating axe-blow. If the Hero is mounted then they may still fire a bow even if they have moved over half their Move value this turn. Additionally, if the Hero is mounted, they do not suffer the -1 penalty for using a two-handed weapon in a turn in which they Charged.
+**Master Skirmisher** - The horsemen of Khand are renowned for their skills as skirmishers, picking off the enemies from range or using their momentum to deliver a devastating axe-blow. If the Hero is mounted then they may still fire a bow even if they have moved over half their Move value this turn. Additionally, if the Hero is mounted, they do not suffer the -1 penalty for using a two-handed weapon in a turn in which they Charged.
 
 **UNIQUE WARGEAR**
 
-Khandish Chariot (25/35) (leader only) – 10 Influence Points
+Khandish Chariot (25/35) (leader only) - 10 Influence Points
 
 **REINFORCEMENTS**
 
@@ -727,11 +727,11 @@ Khandish Chariot (25/35) (leader only) – 10 Influence Points
 
 **ADVANCEMENTS**
 
-- Wild Man of Dunland – Dunlending Warrior with choice of weapon
+- Wild Man of Dunland - Dunlending Warrior with choice of weapon
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Frenzied Fighter'** – Having been subjected to a maddened state by the words of the White Wizard, the hero shrugs off all but the most grievous wounds in order to fight to the last. 
+**'Frenzied Fighter'** - Having been subjected to a maddened state by the words of the White Wizard, the hero shrugs off all but the most grievous wounds in order to fight to the last. 
 
 Roll a D6 each time the Hero suffers a Wound; on a 5+ the Wound is ignored.
 
@@ -769,11 +769,11 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 **ADVANCEMENTS**
 
-- Black Dragon – Dragon Cult Acolyte  
+- Black Dragon - Dragon Cult Acolyte  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Skilled Duellist'** – When fighting an enemy Hero, this Hero may force their opponent to re-roll one of their dice in the Duel roll.
+**'Skilled Duellist'** - When fighting an enemy Hero, this Hero may force their opponent to re-roll one of their dice in the Duel roll.
 
 **REINFORCEMENTS**
 
@@ -805,11 +805,11 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 **ADVANCEMENTS**
 
-- Angmar Orc Warrior with Orc bow – Orc Tracker  
+- Angmar Orc Warrior with Orc bow - Orc Tracker  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Frenzied Fighter'** – If this Hero kills an enemy model in combat, then they may declare a Heroic Combat during the following turn without spending Might to do so.
+**'Frenzied Fighter'** - If this Hero kills an enemy model in combat, then they may declare a Heroic Combat during the following turn without spending Might to do so.
 
 **REINFORCEMENTS**
 

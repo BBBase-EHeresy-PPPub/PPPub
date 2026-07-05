@@ -1,58 +1,77 @@
-﻿## ARMY COMPOSITION
+## ARMY COMPOSITION
 
 <div class="unitCard" markdown>
 
-**FARAMIR, CAPTAIN OF GONDOR WITH BOW [85 points]**
+**FARAMIR [85 points]**
 
-• [Horse]: 10 points
+• Horse: 10 points  
+• Bow: 5 points  
 
-**MADRIL, CAPTAIN OF ITHILIEN [55 points]**
+**CAPTAIN OF MINAS TIRITH [50 points]**
 
-**DAMROD, RANGER OF ITHILIEN [25 points]**
+• Horse: 10 points  
+• Bow: 5 points  
+• Lance: 5 points  
+• Shield: 5 points  
+• Swap Weapon: 5 points  
 
-**FRODO BAGGINS WITH MITHRIL COAT, STING AND ELVEN CLOAK [85 points]**
+**FRODO BAGGINS [85 points]**
 
-**SAMWISE GAMGEE WITH ELVEN CLOAK [45 points]**
+• Mithril Coat: 15 points  
+• Sting: 5 points  
+• Elven Cloak: 5 points  
 
-**SMÉAGOL [30 points]**
+**MADRIL [55 points]**
 
-**CAPTAINS OF MINAS TIRITH [50 points]**
+**SAMWISE GAMGEE [45 points]**
 
-• [Horse]: 10 points  
-• [Bow]: 5 points  
-• [Lance]: 5 points  
-• [Shield]: 5 points
+• Elven Cloak: 5 points  
 
-**OSGILIATH VETERANS [8 points]**
+**ANBORN [35 points]**
 
-• [Bow]: 1 point  
-• [Shield]: 1 point  
-• [Spear]: 1 point
+**DAMROD [25 points]**
 
-**WARRIORS OF MINAS TIRITH [7 points]**
+**MABLUNG [35 points]**
 
-• [War horn]: 30 points  
-• [Banner]: 25 points  
-• [Bow]: 1 point  
-• [Shield]: 1 point  
-• [Spear]: 1 point
+**OSGILIATH VETERAN [8 points]**
 
-**RANGERS OF GONDOR [8 points]**
+• Bow: 1 point  
+• Shield: 1 point  
+• Spear: 1 point  
+• Swap Weapon: 1 point  
 
-• [Spear]: 1 point
+**RANGER OF GONDOR [8 points]**
+
+• Spear: 1 point  
+• Swap Weapon: 1 point  
+
+**RANGER OF GONDOR [8 points]**
+
+• Spear: 1 point  
+• Swap Weapon: 1 point  
+
+**WARRIOR OF MINAS TIRITH [7 points]**
+
+• War Horn: 30 points  
+• Banner: 25 points  
+• Bow: 1 point  
+• Shield: 1 point  
+• Spear: 1 point  
+• Swap Weapon: 1 point  
+
+**SMEAGOL [30 points]**
 
 </div>
 
 ## ADDITIONAL RULES
 
-- A Rangers of Ithilien force must always include Faramir, Captain of Gondor, who is always the army's leader.
-- Samwise Gamgee can only be included in your force if Frodo Baggins is also included. Sméagol may only be included in your force if both Frodo and Sam are included.
-- Frodo, Sam, and Sméagol may not lead Warrior models in this force.
+- A Rangers of Ithilien force must always include Faramir, Captain of Gondor, who is always the army's leader, as well as Frodo, Sam and Smeagol.
+- Frodo, Sam and Sméagol may not lead Warrior models in this force.
 
 ## SPECIAL RULES
 
-**Faramir's Rangers** – Faramir often leads Rangers to patrol the borders of their realm and protect it against intruders. Rangers of Gondor in warbands led by Faramir, Madril, or Damrod do not count towards this force's Bow Limit.
+**"Faramir's Rangers"** - Rangers of Gondor in warbands lead by Faramir, Madril or Damrod do not count toward this force's Bow Limit.
 
-**Captured by Gondor** – Although originally prisoners, Frodo and Sam will fight alongside Faramir if the need arises. Frodo, Sam, and Sméagol must either be deployed together as one warband, or included as part of Faramir's warband.
+**"Captured by Gondor"** - Frodo, Sam and Smeagol must either be deployed together as one warband, or included as part of Faramir's warband.
 
-**Experienced Trackers** – The Rangers under Faramir's command have become experts in traversing the thick undergrowth and forests that surround Ithilien as they track the servants of the Dark Lord that enter Gondor. Rangers of Gondor from this army list gain the Woodland Creature special rule.
+**"Experienced Trackers"** - Rangers of Gondor from this army list gain the Woodland Creature special rule.

@@ -30,9 +30,10 @@
 - General Hunter
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **The Usurper King** `ACTIVE`
 
-- **The Usurper King** `ACTIVE` - If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the Duel roll. Additionally, Wulf must re-roll To Wound rolls of a natural 1 when making Strikes against an enemy hero.
+If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the Duel roll. Additionally, Wulf must re-roll To Wound rolls of a natural 1 when making Strikes against an enemy hero.
+
 
 </div>
 
@@ -62,10 +63,14 @@
 
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **Dunlending Heritage** `PASSIVE`
 
-- **Dunlending Heritage** `PASSIVE` - Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their Fight value.
-- **Claim the Throne** `PASSIVE` - If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a banner with range 6".
+Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their Fight value.
+
+- **Claim the Throne** `PASSIVE`
+
+If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a banner with range 6".
+
 
 </div>
 
@@ -100,9 +105,10 @@
 - Master of Battle (4+)
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **Dunlending Commander** `PASSIVE`
 
-- **Dunlending Commander** `PASSIVE` - Whilst alive on the battlefield, if you win the Priority roll and give Priority to your opponent, then friendly Dunlending Warrior models within 6" of General Targg may re-roll To Wound rolls of a natural 1 when making Strikes, until the end of the turn.
+Whilst alive on the battlefield, if you win the Priority roll and give Priority to your opponent, then friendly Dunlending Warrior models within 6" of General Targg may re-roll To Wound rolls of a natural 1 when making Strikes, until the end of the turn.
+
 
 </div>
 
@@ -162,10 +168,14 @@
 
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **Traitor of Rohan** `PASSIVE`
 
-- **Traitor of Rohan** `PASSIVE` - Lord Thorne may only include Rohirrim Traitors in his Warband.
-- **Edoras Shall Fall** `PASSIVE` - During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain a bonus of +1 to their Fight value.
+Lord Thorne may only include Rohirrim Traitors in his Warband.
+
+- **Edoras Shall Fall** `PASSIVE`
+
+During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain a bonus of +1 to their Fight value.
+
 
 </div>
 
@@ -225,9 +235,10 @@
 
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **Flaming Brand** `PASSIVE`
 
-- **Flaming Brand** `PASSIVE` - A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
+A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
+
 
 </div>
 
@@ -260,9 +271,10 @@
 
 - Hatred (Rohan)
 
-**ACTIVE/PASSIVE RULES**
+- **Spear Mastery** `ACTIVE`
 
-- **Spear Mastery** `ACTIVE` - This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+
 
 </div>
 

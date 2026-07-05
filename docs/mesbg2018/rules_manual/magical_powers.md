@@ -95,7 +95,7 @@ Heroic Channelling is a Heroic Action (see page 68). When a **Hero** uses this H
 
 This power targets the caster themselves. While this power is in effect, the caster and all friendly models within 6" automatically pass any Courage tests they are required to make.
 
-**Channelled** – The range of this power is increased to 12".
+**Channelled** - The range of this power is increased to 12".
 
 ### AURA OF DISMAY
 

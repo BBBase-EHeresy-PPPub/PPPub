@@ -1,79 +1,55 @@
-﻿## ARMY COMPOSITION
+## ARMY COMPOSITION
 
-This army may include: Bard the Bowman; Percy; Alfrid the Councillor; Bain, Son of Bard; Sigrid & Tilda; Hilda Bianca; Gandalf the Grey; Bilbo Baggins, Master Burglar; Lake-town Militia Captains and Lake-town Militia.
-
-The profile for Alfrid the Councillor can be found on page 46. Alfrid the Councillor counts as an Independent Hero if taken as part of a Survivors of Lake-town army list.
-
-The profile for Gandalf the Grey can be found on page 16. Gandalf the Grey counts as a Hero of Valour if taken as part of a Survivors of Lake-town army list.
-
-### DESIGNER'S NOTE
-
-In the films, following Smaug's destruction of Lake-town, some former members of the Lake-town Guard survive and journey to Dale, joining the ranks of the Lake-town Militia. With this in mind, it is completely acceptable to use Lake-town Guard models in this army list as Lake-town Militia in order to add even more variety to your force.
+This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master Burglar; Hilda-Bianca; Lake-town Militia Captain; Percy; Bain, Son of Bard; Alfrid the Councillor; Lake-town Militia; Sigrid & Tilda.
 
 ## ARMY BONUS
 
-"Any man who wants to give their last, follow me!" – Bard the Bowman's [Stand Fast!] will affect other Laketown Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+**"Any man who wants to give their last, follow me!"** - Bard the Bowman's Stand Fast! will affect other Lake-town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
-## HEROES OF THE SURVIVORS OF LAKE-TOWN
+
+## HEROES OF SURVIVORS OF LAKE-TOWN
 
 <div class="unitCard" markdown>
 
 ### BARD THE BOWMAN [140 POINTS]
-*MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF LEGEND*
+*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/3+ | 4 | 4 | 3 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- [Sword]
-- [Great bow][Bow]
+- Sword
+- great bow
 
 **HEROIC ACTIONS**
 
-- [Heroic Resolve]
-- [Heroic Accuracy]
-- [Heroic Strike]
-- [Heroic Strength]
+- Heroic Resolve
+- Heroic Accuracy
+- Heroic Strike
+- Heroic Strength
 
 **OPTIONS**
 
 - Windlance: 75 points
-- [Horse]: 10 points
-- [Armour]: 5 points
+- Horse: 10 points
+- Armour: 5 points
 
 **SPECIAL RULES**
 
 - **Rapid Fire** `ACTIVE`
 
-If Bard the Bowman hits a target with his great bow, he may take another shot at a target within 3" of it (it may even be the same target). If that shot is also a hit, he may shoot again – to a maximum of three shots in total.
+If his great bow hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
 
 - **The Black Arrow** `ACTIVE`
 
-Once per game, Bard the Bowman can fire his Black Arrow instead of shooting the Windlance normally. If you choose to do so, declare that he is firing his Black Arrow before rolling To Hit. When shooting the Black Arrow, Bard the Bowman re-rolls a failed To Hit roll and any failed In The Way tests. Furthermore, do not roll on the Scatter table when firing the Black Arrow – a successful To Hit roll against a Battlefield target automatically counts as a Dead On! result.
+May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and In The Way rolls. A successful To Hit roll against a Battlefield target counts as an instant Dead On! result.
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard the Bowman's [Stand Fast!] rule has a range of 6". Furthermore, Bain, Son of Bard; Percy; Hilda Bianca; Lake-town Militia Captains and Lake-town Militia within 6" of Bard the Bowman receive a +1 bonus to their Fight value and count as being in range of a banner.
+Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
 
----
-
-**THE WINDLANCE**
-
-| Siege Engine | Strength | Defence | Wounds |
-|:--:|:--:|:-:|:--:|
-|Windlance | (10) | 10 | 3 |
-
-The Windlance follows all of the rules for a Siege Engine with the Superior Construction upgrade, as described in the main rules manual.
-
-The Windlance is a small Siege Engine and Bard the Bowman counts as the Siege Engine's only crew. Note that this means that he cannot move the Windlance, though unlike normal crew, he can choose to move more than 6" away from it even if it has not yet been destroyed.
-
-Provided that he is in base contact with the Windlance and is not Engaged in combat, Bard the Bowman can fire the Windlance every turn. Bard the Bowman may use his Might to influence To Hit, To Wound and Scatter table rolls made for the Windlance.
-
-**Accurate** – When firing the Windlance at a Battlefield target, the shot only scatters 3" rather than 6".
-
----
 
 </div>
 
@@ -81,97 +57,52 @@ Provided that he is in base contact with the Windlance and is not Engaged in com
 
 <div class="unitCard" markdown>
 
-### SIGRID & TILDA [30 POINTS FOR BOTH]
-*WOMEN, LAKE-TOWN, INFANTRY, HERO - INDEPENDENT HERO*
-
-Sigrid and Tilda are Bard's daughters. Young and unaccustomed to matters of warfare, they have no place on a battlefield. As the Battle of the Five Armies rages on, both are placed in great peril, their presence spurring on both Bard and Bain to acts of great heroism and courage in order to protect the two young girls from harm.
-
-**SIGRID**
+### GANDALF THE GREY [170 POINTS]
+*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 2/4+ | 2 | 2 | 1 | 1 | 4 | 0 | 1 | 2 |
-
-**TILDA**
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 1/4+ | 2 | 2 | 1 | 1 | 3 | 0 | 1 | 2 |
-
-**Deployment Notes**:
-
-Sigrid and Tilda may only be included in your army if it also includes Bard the Bowman or Bain, Son of Bard. Sigrid and Tilda may only be in either Bard the Bowman's or Bain, Son of Bard's warband, and not the warband of another Hero.
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/4+ | 4 | 5 | 1 | 3 | 7 | 3 | 6 | 3 |
 
 **WARGEAR**
 
-- [Unarmed]
-
-**SPECIAL RULES**
-
-- **"Da! Down Here!"** `PASSIVE`
-
-Bard the Bowman and Bain, Son of Bard receive a bonus of +1 to their Fight value if they are within 6" of either Sigrid or Tilda. If Bard the Bowman or Bain, Son of Bard are within 6" of both Sigrid and Tilda then Bard and/or Bain receive a bonus of +1 to their Fight value and may call a Heroic Combat each turn without spending Might.
-
-- **Something to Fight for** `ACTIVE`
-
-If either Sigrid or Tilda are slain, Bard the Bowman will automatically pass all Courage tests. Additionally, when Bard moves, he must Charge the model that killed his daughter if possible. If this is not possible, Bard must move as close as possible to the model that killed his daughter. Once the model that killed his daughter has been slain, Bard must move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
-
-It is possible for two models to be the target of Bard's rage if both Sigrid and Tilda have been slain. In this case, Bard will target the closest of these two models until it has been slain, following which he will immediately target the second model. Once both models have been slain, Bard must continue to move as fast as possible towards the nearest visible enemy model for the rest of the game, Charging if possible.
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
-### PERCY [50 POINTS]
-*MAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 3/3+ | 4 | 4 | 2 | 2 | 4 | 3 | 1 | 1 |
-
-**WARGEAR**
-
-- [Sword]
-- [Bow]
+- Staff of Power
+- Glamdring
+- Narya
 
 **HEROIC ACTIONS**
 
-- [Heroic Accuracy]
+- Heroic Resolve
+- Heroic Channelling
+- Heroic Strike
+
+**MAGICAL POWERS**
+
+| Power | Range | Casting Value |
+|:--|:--:|:--:|
+| Blinding Light | - | 2+ |
+| Immobilise | 12" | 3+ |
+| Terrifying Aura | - | 2+ |
+| Command | 12" | 4+ |
+| Protection of the Valar | 12" | 4+ |
+| Strengthen Will | 12" | 4+ |
+| Collapse Rocks | 6" | 5+ |
+| Sorcerous Blast | 12" | 5+ |
+
+**OPTIONS**
+
+- Horse: 10 points
 
 **SPECIAL RULES**
 
-- **"Archers, This Way!"** `PASSIVE`
+- **Glamdring** `ACTIVE`
 
-Percy, and Lake-town Militia within 6" of Percy, may re-roll 1s To Hit when making shooting attacks with a bow.
+Gandalf's strength is 5 when making strikes with Glamdring.
 
-</div>
+- **Narya** `PASSIVE`
 
----
+Gandalf may re-roll his dice when making fate rolls.
 
-<div class="unitCard" markdown>
-
-### HILDA-BIANCA [30 POINTS]
-*WOMAN, LAKE-TOWN, INFANTRY, HERO — HERO OF FORTITUDE*
-
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 2/4+ | 3 | 3 | 1 | 2 | 5 | 1 | 1 | 1 |
-
-**WARGEAR**
-
-- [Spear]
-
-**HEROIC ACTIONS**
-
-- [Heroic Strength]
-
-**SPECIAL RULES**
-
-- **Stand by our Men!** `PASSIVE`
-
-If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and Lake-town Militia within 3" of her gain a bonus of +1 To Wound if they charged that turn.
 
 </div>
 
@@ -180,38 +111,69 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, Hilda-Bianca and L
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS, MASTER BURGLAR [90 POINTS]
-*HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 4" | 3/3+ | 2 | 6 | 1 | 2 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
-- [The One Ring]
+- The One Ring
 - Mithril Coat
 - Sting
-- **Mithril Coat** `PASSIVE`
-
-Whilst wearing the Mithril Coat, a model adds +3 to their Defence (this is already included in Bilbo's profile above).
-
-- **Sting** `ACTIVE`
-
-Sting is an *[Elven-made]* [Dagger]. Additionally, whilst carrying Sting, a model adds +1 to their Strength when making Strikes.
 
 **HEROIC ACTIONS**
 
-- [Heroic Resolve]
-- [Heroic Strike]
-- [Heroic Defence]
+- Heroic Resolve
+- Heroic Strike
+- Heroic Defence
 
 **SPECIAL RULES**
 
-- [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Resistant to Magic
+- Throw Stones (range 8", Strength 1)
+
+- **Mithril Coat** `PASSIVE`
+
+Bilbo has +3 Defence value included in his profile.
+
+- **Sting** `ACTIVE`
+
+Elven-made dagger, add +1 Strength when making Strikes.
+
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo Baggins, Master Burglar ignores the Sauron's Will section of the One Ring's rules. Furthermore, if Bilbo is the only model left on the controlling player's side, and is wearing the Ring, he is not removed as a casualty, as would usually be the case.
+Bilbo ignores Sauron's Will section of the One Ring's rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### HILDA-BIANCA [30 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" 2/4+ | 2/4+ | 3 | 3 | 1 | 2 | 5 | 1 | 1 | 1 |
+
+**WARGEAR**
+
+- Spear
+
+**HEROIC ACTIONS**
+
+- Heroic Strength
+
+**SPECIAL RULES**
+
+- **Stand by our Men!** `PASSIVE`
+
+If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town Militia within 3" of her gain +1 To Wound bonus if they charged that turn.
+
 
 </div>
 
@@ -220,56 +182,165 @@ Bilbo Baggins, Master Burglar ignores the Sauron's Will section of the One Ring'
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN MILITIA CAPTAIN [40 POINTS]
-*MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- [Armour]
-- [Pick]
-- [Spear]
+- Armour
+- pick
+- spear
 
 **HEROIC ACTIONS**
 
-- [Heroic March]
+- Heroic March
 
 **OPTIONS**
 
-- [Shield]: 5 points
+- Swap Weapon: 5 points
+- Shield: 5 points
 
 </div>
 
 ---
 
-## WARRIORS OF THE SURVIVORS OF LAKE-TOWN
+<div class="unitCard" markdown>
+
+### PERCY [50 POINTS]
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/3+ | 4 | 4 | 2 | 2 | 4 | 3 | 1 | 1 |
+
+**WARGEAR**
+
+- Sword
+- bow
+
+**HEROIC ACTIONS**
+
+- Heroic Accuracy
+
+**SPECIAL RULES**
+
+- **Archers, This Way!** `PASSIVE`
+
+Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a bow.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### BAIN, SON OF BARD [40 POINTS]
+*MINOR HERO, UNIQUE, 6 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 3 | 1 | 2 | 4 | 1 | 3 | 2 |
+
+**WARGEAR**
+
+- Sword
+
+**HEROIC ACTIONS**
+
+- Heroic Strike
+
+**SPECIAL RULES**
+
+- **Family Bond** `PASSIVE`
+
+Bain gains +1 Courage whilst within 6" of Bard the Bowman.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### ALFRID THE COUNCILLOR [20 POINTS]
+*INDEPENDENT HERO, UNIQUE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 3 | 1 | 1 | 3 | 0 | 3 | 1 |
+
+**WARGEAR**
+
+- Unarmed
+
+**SPECIAL RULES**
+
+- **Dubious Counsel** `ACTIVE`
+
+Alfrid may spend any number of Will points at the start of the Priority phase. For each point, choose a friendly Lake-town Hero model within 6" and roll a D6. For each roll of a 2+, that model gains a point of Might. However, on a roll of 1, that model loses a point of Might and Afraid gains a point Might. Might gained in this way can take the chosen model's store of Might beyond its initial level.
+
+
+</div>
+
+---
+
+
+## WARRIORS OF SURVIVORS OF LAKE-TOWN
 
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN MILITIA [5 POINTS]
-*MAN, LAKE-TOWN, INFANTRY, WARRIOR*
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:----:|:----:|:---:|:---:|:---:|:---:|:---|
-| 6" | 2/4+| 3 | 4 | 1 | 1 | 3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 2/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword] or [Axe]
+- Armour
+- sword or axe
 
 **OPTIONS**
 
-- [Bow]: 1 point
-- [Shield]: 1 point
-- [Spear]: 1 point
+- Bow: 1 point
+- Shield: 1 point
+- Spear: 1 point
+- Swap Weapon: 1 point
 
 **SPECIAL RULES**
 
-- **Onwards, Men of Esgaroth** `PASSIVE`
+- **Onward, Men of Esgaroth** `PASSIVE`
 
 Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is in combat do not need to take Courage tests for being Broken.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### SIGRID & TILDA [30 POINTS]
+*INDEPENDENT HERO*, UNIQUE*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 2/4+ | 2 | 2 | 1 | 1 | 4 | 0 | 1 | 2 |
+
+**SPECIAL RULES**
+
+- **Da! Down Here!** `PASSIVE`
+
+Bard and Bain gain +1 Fight if they are within 6" of Sigrid or Tilda. If Bard or Bain are within 6" of both girls, then Bard and/or Bain also gain a free Heroic Combat each turn.
+
+- **Something to Fight for** `PASSIVE`
+
+If Sigrid or Tilda are slain, Bard automatically passes all Courage tests. He must also Charge the model that killed her if possible. If not possible, he must move as close to that model as he can. Once he kills the model, he must always move/Charge towards
+
 
 </div>

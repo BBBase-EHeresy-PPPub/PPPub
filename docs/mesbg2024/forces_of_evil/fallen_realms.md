@@ -27,10 +27,14 @@
 - Bane of Kings
 - Stalk Unseen
 
-**ACTIVE/PASSIVE RULES**
+- **Smoke Bombs** `ACTIVE`
 
-- **Smoke Bombs** `ACTIVE` - Throwing weapons with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the Transfix Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
-- **Preternatural Agility** `ACTIVE` - Dalamyr can never be Trapped whilst still standing.
+Throwing weapons with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the Transfix Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
+
+- **Preternatural Agility** `ACTIVE`
+
+Dalamyr can never be Trapped whilst still standing.
+
 
 </div>
 
@@ -59,11 +63,20 @@
 - Heroic Strength
 - Heroic Challenge
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Long-bladed Spear** `ACTIVE` - Can be a spear or a two-handed weapon.
-- **Imposing Presence** `PASSIVE` - Whilst mounted on the Royal War Mumak, the first time each turn an enemy model declares a Heroic move within 12", roll a D6. On a 4+, the action is cancelled and the Might point is lost. Measure the 12" range from the base of the Mumak.
-- **High King of the South** `PASSIVE` - The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
+- **Long-bladed Spear** `ACTIVE`
+
+Can be a spear or a two-handed weapon.
+
+- **Imposing Presence** `PASSIVE`
+
+Whilst mounted on the Royal War Mumak, the first time each turn an enemy model declares a Heroic move within 12", roll a D6. On a 4+, the action is cancelled and the Might point is lost. Measure the 12" range from the base of the Mumak.
+
+- **High King of the South** `PASSIVE`
+
+The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
+
 
 </div>
 
@@ -102,10 +115,14 @@
 - Poisoned Attacks
 - Leader (serpent Rider)
 
-**ACTIVE/PASSIVE RULES**
+- **The Serpent Banner** `ACTIVE`
 
-- **The Serpent Banner** `ACTIVE` - Banner with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst carrying it.
-- **Ascendant** `ACTIVE` - Suladan's Stand Fast! is 12" rather than 6".
+Banner with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst carrying it.
+
+- **Ascendant** `ACTIVE`
+
+Suladan's Stand Fast! is 12" rather than 6".
+
 
 </div>
 
@@ -135,12 +152,24 @@
 - Heroic Strength
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **The Emperor's Glaive** `ACTIVE` - Elven spear, may use Shielding rule despite not having a shield.. May not support whilst mounted on Palanquin.
-- **Emperor of the Easterlings** `ACTIVE` - The Dragon Emperor's Stand Fast! has unlimited range, and affects Easterling Hero models.
-- **Helm of the Dragon Emperor** `PASSIVE` - The Dragon Emperor gains the Resistant to Magic special rule.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+- **The Emperor's Glaive** `ACTIVE`
+
+Elven spear, may use Shielding rule despite not having a shield.. May not support whilst mounted on Palanquin.
+
+- **Emperor of the Easterlings** `ACTIVE`
+
+The Dragon Emperor's Stand Fast! has unlimited range, and affects Easterling Hero models.
+
+- **Helm of the Dragon Emperor** `PASSIVE`
+
+The Dragon Emperor gains the Resistant to Magic special rule.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
 
 </div>
 
@@ -175,13 +204,26 @@
 - General Hunter
 - Unyielding Combat Stance
 
-**ACTIVE/PASSIVE RULES**
+- **The Lord of Blades** `ACTIVE`
 
-- **The Lord of Blades** `ACTIVE` - If an enemy model in combat with Amdur declares a Heroic Strike, he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
-- **Herald of Victory** `PASSIVE` - Friendly Easterling models treat Amdur as a banner. If Amdur kills the enemy General, the range is increased to 6".
-- **Durtuz the Silver Falchion** `ACTIVE` - Elven hand-and-a-half weapon. When making Strikes against an enemy Hero model, rolls of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **The Gleaming Horde** `ACTIVE` - While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+If an enemy model in combat with Amdur declares a Heroic Strike, he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
+
+- **Herald of Victory** `PASSIVE`
+
+Friendly Easterling models treat Amdur as a banner. If Amdur kills the enemy General, the range is increased to 6".
+
+- **Durtuz the Silver Falchion** `ACTIVE`
+
+Elven hand-and-a-half weapon. When making Strikes against an enemy Hero model, rolls of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **The Gleaming Horde** `ACTIVE`
+
+While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+
 
 </div>
 
@@ -208,9 +250,12 @@
 
 - Heroic Strength
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Ruthless Commander** `ACTIVE` - Friendly Corsair Warrior models within 3" may re-roll a single dice during the Duel roll, after any other re-rolls from other sources have been used. However, if they use this bonus and still fail to win the Duel roll, they immediately suffer a Strength 2 hit. Only a single Corsair Warrior can use this special rule in each Combat.
+- **Ruthless Commander** `ACTIVE`
+
+Friendly Corsair Warrior models within 3" may re-roll a single dice during the Duel roll, after any other re-rolls from other sources have been used. However, if they use this bonus and still fail to win the Duel roll, they immediately suffer a Strength 2 hit. Only a single Corsair Warrior can use this special rule in each Combat.
+
 
 </div>
 
@@ -242,10 +287,14 @@
 - Master of Battle (3+)
 - Unyielding Combat Stance
 
-**ACTIVE/PASSIVE RULES**
+- **Phalanx** `ACTIVE`
 
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **Show No Mercy** `ACTIVE` - When making strikes against Trapped enemy models, you may re-roll failed To Wound rolls.
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **Show No Mercy** `ACTIVE`
+
+When making strikes against Trapped enemy models, you may re-roll failed To Wound rolls.
+
 
 </div>
 
@@ -279,10 +328,16 @@
 | Enchanted Blades | 12" | 4+ |
 | Tremor | Self | 5+ |
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Sorcerous Adept** `ACTIVE` - Each time Brorgir rolls one or more natural 6s when making a Casting Test, he will regain a single Will Point after resolving the effects of the Magical Power.
-- **Easterling Halberd** `ACTIVE` - This weapon can be used as either a pike or two-handed weapon.
+- **Sorcerous Adept** `ACTIVE`
+
+Each time Brorgir rolls one or more natural 6s when making a Casting Test, he will regain a single Will Point after resolving the effects of the Magical Power.
+
+- **Easterling Halberd** `ACTIVE`
+
+This weapon can be used as either a pike or two-handed weapon.
+
 
 </div>
 
@@ -313,9 +368,12 @@
 
 - Exchange spear for crossbow: Free
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Commanding Bellow** `ACTIVE` - Friendly Corsair models treat a Corsair Bo'sun as a banner.
+- **Commanding Bellow** `ACTIVE`
+
+Friendly Corsair models treat a Corsair Bo'sun as a banner.
+
 
 </div>
 
@@ -405,10 +463,16 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **The Gleaming Horde** `ACTIVE` - While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **The Gleaming Horde** `ACTIVE`
+
+While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+
 
 </div>
 
@@ -445,9 +509,12 @@
 
 - Armoured horse: 25 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Easterling Halberd** `ACTIVE` - This weapon can be used as either a pike or two-handed weapon.
+- **Easterling Halberd** `ACTIVE`
+
+This weapon can be used as either a pike or two-handed weapon.
+
 
 </div>
 
@@ -505,9 +572,12 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Whip of the Masters** `ACTIVE` - Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
+- **Whip of the Masters** `ACTIVE`
+
+Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
+
 
 </div>
 
@@ -541,9 +611,10 @@
 - Stalk Unseen
 - General Hunter
 
-**ACTIVE/PASSIVE RULES**
+- **Preternatural Agility** `ACTIVE`
 
-- **Preternatural Agility** `ACTIVE` - A Hasharin can never be Trapped while still standing.
+A Hasharin can never be Trapped while still standing.
+
 
 </div>
 
@@ -575,9 +646,10 @@
 - Leader (Serpent Guard)
 - Sworn Protector (Suladan)
 
-**ACTIVE/PASSIVE RULES**
+- **The Serpent's Weapon** `ACTIVE`
 
-- **The Serpent's Weapon** `ACTIVE` - At the start of the game, after both sides have deployed, secretly select one Hero model in the opponent's force to be Raza's target. If Raza is Engaged in Combat with this target, after any Heroic Actions have been resolved, reveal Raza's target. Raza gains a +2 bonus to his Fight value whilst Engaged in Combat with his target.
+At the start of the game, after both sides have deployed, secretly select one Hero model in the opponent's force to be Raza's target. If Raza is Engaged in Combat with this target, after any Heroic Actions have been resolved, reveal Raza's target. Raza gains a +2 bonus to his Fight value whilst Engaged in Combat with his target.
+
 
 </div>
 
@@ -613,10 +685,14 @@
 - Large Target
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Trample** `ACTIVE`
 
-- **Trample** `ACTIVE` - When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
-- **Awesome Presence** `PASSIVE` - Friendly models treat this model as a banner with a range of 6".
+When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
+
+- **Awesome Presence** `PASSIVE`
+
+Friendly models treat this model as a banner with a range of 6".
+
 
 **ADDITIONAL PROFILES**
 
@@ -659,12 +735,22 @@
 - General Hunter
 - Unyielding Combat Stance
 
-**ACTIVE/PASSIVE RULES**
+- **Shield of Blades** `ACTIVE`
 
-- **Shield of Blades** `ACTIVE` - can use the Shielding rule.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **The Gleaming Horde** `ACTIVE` - While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
-- **Knights of the Dragon Cult** `PASSIVE` - May only include Black Dragon Warrior models in his warband.
+can use the Shielding rule.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **The Gleaming Horde** `ACTIVE`
+
+While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+
+- **Knights of the Dragon Cult** `PASSIVE`
+
+May only include Black Dragon Warrior models in his warband.
+
 
 </div>
 
@@ -691,11 +777,20 @@
 - Exchange shield for banner: 25 points
 - Easterling Halberd: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Easterling Halberd** `ACTIVE` - This weapon can be used as either a pike or two-handed weapon.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **Warriors of the Dragon Cult** `PASSIVE` - This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+- **Easterling Halberd** `ACTIVE`
+
+This weapon can be used as either a pike or two-handed weapon.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **Warriors of the Dragon Cult** `PASSIVE`
+
+This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+
 
 </div>
 
@@ -717,9 +812,12 @@
 - crossbow
 - hand weapon
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Pavise** `PASSIVE` - A shield that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
+- **Pavise** `PASSIVE`
+
+A shield that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
+
 
 </div>
 
@@ -770,10 +868,14 @@
 
 - Unyielding Combat Stance
 
-**ACTIVE/PASSIVE RULES**
+- **Supreme Agility** `ACTIVE`
 
-- **Supreme Agility** `ACTIVE` - Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automatically passes all In The Way tests when striking a model defending a barrier or doorway.
-- **Warriors of the Dragon Cult** `PASSIVE` - This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automatically passes all In The Way tests when striking a model defending a barrier or doorway.
+
+- **Warriors of the Dragon Cult** `PASSIVE`
+
+This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+
 
 </div>
 
@@ -805,10 +907,16 @@
 - Banner: 25 points
 - Exchange shield for war drum (Easterling): 25 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-- **The Gleaming Horde** `ACTIVE` - While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **The Gleaming Horde** `ACTIVE`
+
+While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+
 
 </div>
 
@@ -942,9 +1050,10 @@
 - Terror
 - Venom
 
-**ACTIVE/PASSIVE RULES**
+- **Slow-acting Venom** `PASSIVE`
 
-- **Slow-acting Venom** `PASSIVE` - Any model that suffers a wound from a War Drake which isn't prevented, and is not slain, reduces their Fight and Attack value by 1 (to a minimum of 1) for the remainder of the game. This effect does not stack on the same model between wounds from different War Drakes.
+Any model that suffers a wound from a War Drake which isn't prevented, and is not slain, reduces their Fight and Attack value by 1 (to a minimum of 1) for the remainder of the game. This effect does not stack on the same model between wounds from different War Drakes.
+
 
 </div>
 
@@ -964,10 +1073,14 @@
 
 - Direct Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Piercing Shot**
 
-- **Piercing Shot** - A model that is hit by the shot of a Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
-- **Bladed Bolts** `ACTIVE` - A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
+A model that is hit by the shot of a Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
+
+- **Bladed Bolts** `ACTIVE`
+
+A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
+
 
 **ADDITIONAL PROFILES**
 

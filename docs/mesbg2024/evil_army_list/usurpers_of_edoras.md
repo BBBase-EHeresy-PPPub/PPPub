@@ -2,24 +2,26 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Freca: 80 points
-- Wulf: 110 points
+- **Freca**: 80 points
+- **Wulf**: 110 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- General Targg: 80 points
+- **General Targg**: 80 points
   - Horse: 20 points
-- Hill Tribes Chieftain: 40 points
+- **Hill Tribes Chieftain**: 40 points
   - Light shield: 5 points
   - Two-handed weapon: 5 points
-- Lord Thorne of the Wold: 70 points
+- **Lord Thorne of the Wold**: 70 points
 
 **MINOR HEROES**
 
-- War Mumak of Harad: 250 points
+- **War Mumak of Harad**: 250 points
   - Rocks: 20 points
   - Sigils of Defiance: 20 points
   - Tusk Weapons: 20 points
@@ -28,11 +30,11 @@
 
 **WARRIORS**
 
-- Crebain: 20 points
-- Haradrim Warrior: 6 points
+- **Crebain**: 20 points
+- **Haradrim Warrior**: 6 points
   - Bow: 1 point
   - Spear: 1 point
-- Hill Tribesman: 5 points
+- **Hill Tribesman**: 5 points
   - Banner and light shield: 26 points
   - War horn and light shield: 26 points
   - Banner: 25 points
@@ -43,12 +45,14 @@
   - Light shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Rohirrim Traitor: 6 points
+- **Rohirrim Traitor**: 6 points
   - War horn, shield, throwing spears: 28 points
   - Banner: 25 points
   - Shield and throwing spears: 3 points
   - Shield: 1 point
   - Bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

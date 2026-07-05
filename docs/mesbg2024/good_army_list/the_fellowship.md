@@ -2,32 +2,36 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Gandalf the Grey: 170 points
+- **Gandalf the Grey**: 170 points
 
 **HEROES OF VALOUR**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Bow: 5 points
-- Boromir of Gondor: 95 points
+- **Boromir of Gondor**: 95 points
   - Horse: 20 points
   - Shield: 5 points
-- Gimli: 100 points
-- Legolas: 100 points
+- **Gimli**: 100 points
+- **Legolas**: 100 points
 
 **HEROES OF FORTITUDE**
 
-- Frodo Baggins: 55 points
+- **Frodo Baggins**: 55 points
   - Mithril Coat: 15 points
   - Sting: 5 points
-- Samwise Gamgee: 40 points
+- **Samwise Gamgee**: 40 points
 
 **INDEPENDENT HEROES**
 
-- Bill the Pony: 25 points
-- Meriadoc Brandybuck: 10 points
-- Peregrin Took: 10 points
+- **Bill the Pony**: 25 points
+- **Meriadoc Brandybuck**: 10 points
+- **Peregrin Took**: 10 points
+
+</div>
 
 ## ADDITIONAL RULES
 

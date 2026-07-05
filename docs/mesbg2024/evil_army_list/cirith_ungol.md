@@ -2,39 +2,43 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Gorbag: 60 points
-- Shagrat: 110 points
+- **Gorbag**: 60 points
+- **Shagrat**: 110 points
 
 **HEROES OF FORTITUDE**
 
-- Mordor Orc Captain: 45 points
-- Mordor Orc Taskmaster: 45 points
-- Mordor Uruk-Hai Captain: 55 points
+- **Mordor Orc Captain**: 45 points
+- **Mordor Orc Taskmaster**: 45 points
+- **Mordor Uruk-Hai Captain**: 55 points
   - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
-- Mordor Orc Shaman: 50 points
+- **Mordor Orc Shaman**: 50 points
   - Warg: 20 points
 
 **INDEPENDENT HEROES**
 
-- Mordor Orc Drummer: 30 points
-- Shelob: 100 points
+- **Mordor Orc Drummer**: 30 points
+- **Shelob**: 100 points
 
 **WARRIORS**
 
-- Mordor Orc Warrior: 5 points
+- **Mordor Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Mordor Uruk-Hai: 8 points
+- **Mordor Uruk-Hai**: 8 points
   - Two-handed weapon: 1 point
-- Orc Tracker: 6 points
+- **Orc Tracker**: 6 points
+
+</div>
 
 ## ADDITIONAL RULES
 

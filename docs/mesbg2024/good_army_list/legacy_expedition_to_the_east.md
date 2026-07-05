@@ -2,37 +2,41 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF FORTITUDE**
 
-- Captain of Minas Tirith: 60 points
-- Cirion, Lieutenant of Amon Barad: 65 points
-- Drar: 70 points
-- Murin: 70 points
+- **Captain of Minas Tirith**: 60 points
+- **Cirion, Lieutenant of Amon Barad**: 65 points
+- **Drar**: 70 points
+- **Murin**: 70 points
 
 **WARRIORS**
 
-- Dwarf Ranger: 8 points
+- **Dwarf Ranger**: 8 points
   - Dwarf longbow: 1 point
   - Throwing weapons: 1 point
   - Two-handed weapon: 1 point
-- Dwarf Warrior: 8 points
+- **Dwarf Warrior**: 8 points
   - War horn: 25 points
   - Banner: 25 points
   - Dwarf bow: 1 point
   - Shield: 1 point
   - Two-handed weapon: 1 point
-- Knight of Minas Tirith: 15 points
+- **Knight of Minas Tirith**: 15 points
   - Exchange shield and lance for banner: 25 points
-- Ranger of Gondor: 8 points
+- **Ranger of Gondor**: 8 points
   - Banner: 25 points
   - War horn: 25 points
   - Spear: 1 point
-- Warrior of Minas Tirith: 8 points
+- **Warrior of Minas Tirith**: 8 points
   - War horn and shield: 26 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,39 +2,43 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Elendil: 175 points
-- Gil-Galad: 175 points
+- **Elendil**: 175 points
+- **Gil-Galad**: 175 points
 
 **HEROES OF VALOUR**
 
-- Elrond: 170 points
+- **Elrond**: 170 points
   - Horse: 20 points
-- Isildur: 130 points
+- **Isildur**: 130 points
   - Horse: 20 points
   - The One Ring: Free
 
 **HEROES OF FORTITUDE**
 
-- Captain of Numenor: 70 points
-- Erestor: 85 points
-- Rivendell Captain: 70 points
+- **Captain of Numenor**: 70 points
+- **Erestor**: 85 points
+- **Rivendell Captain**: 70 points
   - Horse, Elf bow and Elven lance: 30 points
   - Shield: 5 points
 
 **WARRIORS**
 
-- Rivendell Warrior: 9 points
+- **Rivendell Warrior**: 9 points
   - Banner: 25 points
   - Elf bow: 2 points
   - Shield and Elven spear: 2 points
   - Shield: 1 point
   - Upgrade to King's Guard: 1 point
-- Warrior of Numenor: 9 points
+- **Warrior of Numenor**: 9 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Longbow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

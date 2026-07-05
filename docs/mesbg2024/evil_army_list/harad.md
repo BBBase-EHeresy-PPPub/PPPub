@@ -2,24 +2,26 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Mumak War Leader: 400 points
+- **Mumak War Leader**: 400 points
 
 **HEROES OF VALOUR**
 
-- Haradrim King: 70 points
+- **Haradrim King**: 70 points
   - Horse: 20 points
-- The Betrayer: 130 points
+- **The Betrayer**: 130 points
   - Horse: 20 points
-- The Golden King of Abrakhan: 130 points
+- **The Golden King of Abrakhan**: 130 points
 
 **HEROES OF FORTITUDE**
 
-- Haradrim Chieftain: 50 points
+- **Haradrim Chieftain**: 50 points
   - Bow: 5 points
-- Haradrim Taskmaster: 45 points
-- War Mumak of Harad: 250 points
+- **Haradrim Taskmaster**: 45 points
+- **War Mumak of Harad**: 250 points
   - Gnarled Hide: 25 points
   - Mahud Beastmaster Chieftain: 25 points
   - Rocks: 20 points
@@ -30,20 +32,22 @@
 
 **WARRIORS**
 
-- Abrakhan Merchant Guard: 9 points
-- Haradrim Raider: 11 points
+- **Abrakhan Merchant Guard**: 9 points
+- **Haradrim Raider**: 11 points
   - Banner: 25 points
   - Bow & war spear: 2 points
   - Bow: 1 point
   - War spear: 1 point
-- Haradrim Warrior: 6 points
+- **Haradrim Warrior**: 6 points
   - War horn: 25 points
   - Banner: 25 points
   - Bow: 1 point
   - Spear: 1 point
-- Watcher of Karna: 9 points
+- **Watcher of Karna**: 9 points
   - Bow: 1 point
   - Twin Blades: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

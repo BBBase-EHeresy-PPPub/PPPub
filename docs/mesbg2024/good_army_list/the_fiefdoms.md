@@ -2,37 +2,41 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Prince Imrahil: 140 points
+- **Prince Imrahil**: 140 points
   - Armoured horse and lance: 30 points
 
 **HEROES OF VALOUR**
 
-- Angbor the Fearless: 70 points
-- Duinhir, Lord of the Blackroot Vale: 65 points
-- Forlong the Fat: 90 points
+- **Angbor the Fearless**: 70 points
+- **Duinhir, Lord of the Blackroot Vale**: 65 points
+- **Forlong the Fat**: 90 points
 
 **HEROES OF FORTITUDE**
 
-- Captain of Dol Amroth: 65 points
+- **Captain of Dol Amroth**: 65 points
   - Armoured horse and lance: 30 points
 
 **WARRIORS**
 
-- Axeman of Lossarnach: 9 points
-- Blackroot Vale Archer: 8 points
+- **Axeman of Lossarnach**: 9 points
+- **Blackroot Vale Archer**: 8 points
   - War horn: 25 points
   - Banner: 25 points
   - Spear: 1 point
-- Clansman of Lamedon: 8 points
-- Knight of Dol Amroth: 11 points
+- **Clansman of Lamedon**: 8 points
+- **Knight of Dol Amroth**: 11 points
   - Armoured horse and banner: 33 points
   - Armoured horse and war horn: 33 points
   - Banner: 25 points
   - War horn: 25 points
   - Armoured horse and lance: 9 points
-- Man-at-arms of Dol Amroth: 10 points
+- **Man-at-arms of Dol Amroth**: 10 points
+
+</div>
 
 ## ADDITIONAL RULES
 

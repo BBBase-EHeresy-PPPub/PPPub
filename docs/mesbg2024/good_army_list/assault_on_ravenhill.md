@@ -2,22 +2,26 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Thorin Oakenshield, King Under the Mountain: 130 points
+- **Thorin Oakenshield, King Under the Mountain**: 130 points
 
 **HEROES OF VALOUR**
 
-- Dwalin the Dwarf, Champion of Erebor: 110 points
-- Fili the Dwarf, Champion of Erebor: 70 points
-- Kili the Dwarf, Champion of Erebor: 70 points
-- Legolas Greenleaf, Prince of Mirkwood: 105 points
+- **Dwalin the Dwarf, Champion of Erebor**: 110 points
+- **Fili the Dwarf, Champion of Erebor**: 70 points
+- **Kili the Dwarf, Champion of Erebor**: 70 points
+- **Legolas Greenleaf, Prince of Mirkwood**: 105 points
   - Orcrist: Free
 
 **HEROES OF FORTITUDE**
 
-- Bilbo Baggins, Master Burglar: 75 points
-- Tauriel, Ranger of Mirkwood: 90 points
+- **Bilbo Baggins, Master Burglar**: 75 points
+- **Tauriel, Ranger of Mirkwood**: 90 points
+
+</div>
 
 ## ADDITIONAL RULES
 

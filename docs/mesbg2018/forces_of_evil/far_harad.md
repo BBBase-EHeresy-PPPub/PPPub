@@ -1,38 +1,84 @@
-﻿## ARMY COMPOSITION
+## ARMY COMPOSITION
 
-This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad; Mahud Warriors; Mahud Raiders; and Half Trolls.
+This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War Mumak of Far Harad; Half Troll; Mahud Raider; Mahud Warrior.
 
 ## ARMY BONUS
 
-**Warrior Pride** - Mahud Warrior models within 6" of a friendly Mahud Hero model engaged in combat automatically pass all Courage tests.
+**"Warrior Pride"** - Mahud Warrior models that are within 6" of a friendly Mahud Hero model that is engaged in combat automatically pass all Courage tests they are required to make.
+
 
 ## HEROES OF FAR HARAD
 
 <div class="unitCard" markdown>
 
-### MAHUD KING [70 POINTS]
-*MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE*
+### THE MUMAK WAR LEADER [400 POINTS]
+*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 | 2 | 2 | 2 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/3+ | 5 | 5 | 3 | 3 | 6 | 3 | 2 | 2 |
 
 **WARGEAR**
 
-- [Armour]
-- [Club]
+- Armour
+- long-bladed spear
+- Royal War Mumak
 
 **HEROIC ACTIONS**
 
-- [Heroic Strike]
-- [Heroic Strength]
+- Heroic March
+- Heroic Strike
+- Heroic Strength
+- Heroic Challenge
+
+**SPECIAL RULES**
+
+- **Long-bladed Spear** `ACTIVE`
+
+A spear and two-handed weapon.
+
+- **Royal War Mumak** `PASSIVE`
+
+A War Mumak with Gnarled Hide, Sigils of Defiance, Tusk Weapons and Fight 5.
+
+- **Imposing Presence** `PASSIVE`
+
+Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
+
+- **High King of the Mahud** `PASSIVE`
+
+Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and may be deployed outside of the Howdah.
+
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### MAHUD KING [70 POINTS]
+*HERO OF VALOUR, 15 WARBAND*
+
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 | 2 | 2 | 1 |
+
+**WARGEAR**
+
+- Armour
+- club
+
+**HEROIC ACTIONS**
+
+- Heroic Strike
+- Heroic Strength
 
 **OPTIONS**
 
-- War camel: 10 points
-- Blowpipe with poisoned darts: 5 points
-- [Shield]: 5 points
-- [War spear]: 5 points
+- War Camel: 10 points
+- Blowpipe with Poisoned Darts: 5 points
+- Shield: 5 points
+- War Spear: 5 points
 
 </div>
 
@@ -41,28 +87,29 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 <div class="unitCard" markdown>
 
 ### MAHUD TRIBESMASTER [50 POINTS]
-*MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 4/3+ | 5 | 5 | 2 | 2 | 3 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- [Armour]
-- [Club]
+- Armour
+- club
 
 **HEROIC ACTIONS**
 
-- [Heroic March]
-- [Heroic Strength]
+- Heroic March
+- Heroic Strength
 
 **OPTIONS**
 
-- War camel: 10 points
-- Blowpipe with poisoned darts: 5 points
-- [Shield]: 5 points
-- [War spear]: 5 points
+- War Camel: 10 points
+- Blowpipe with Poisoned Darts: 5 points
+- Shield: 5 points
+- War Spear: 5 points
+- Swap Weapon: 5 points
 
 </div>
 
@@ -71,13 +118,15 @@ This army may include: Mahud Kings; Mahud Tribesmasters; War Mumaks of Far Harad
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF FAR HARAD [300 POINTS]
-*MUMAK, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, 12 WARBAND*
 
-A War Mumak of Far Harad uses the same profile as the War Mumak of Harad in every way (see page 194), with the exception that it always has the Mahud Beastmaster Chieftain upgrade (see page 195). 
+| Mv | F | S | D | A | W | C | M | W | F |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8" | 4/5+ | 9 | 7 | 3 | 10 | 2 | 3 | 2 | 2 |
 
-A War Mumak of Far Harad is comprised of a Mahud Beastmaster Chieftain with armour and a club as the warband's captain and the Mumak itself.
+**HEROIC ACTIONS**
 
-A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models that may ride within the Howdah are Mahud Warriors and Half Trolls.
+- Heroic March
 
 **OPTIONS**
 
@@ -88,32 +137,48 @@ A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models t
 - Foul Temperament: 15 points
 - Rappelling Lines: 10 points
 
+**SPECIAL RULES**
+
+- Terror
+
+- **Awesome Presence** `PASSIVE`
+
+Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with Banner re-rolls.
+
+- **Trample**
+
+Inflicts three Strength 9 hits.
+
+
 </div>
 
 ---
+
 
 ## WARRIORS OF FAR HARAD
 
 <div class="unitCard" markdown>
 
-### MAHUD WARRIOR [8 POINTS]
-*MAN, MAHUD, INFANTRY, WARRIOR*
+### HALF TROLL [23 POINTS]
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 5/6+ | 5 | 6 | 2 | 2 | 2 |
 
 **WARGEAR**
 
-- [Armour]
-- [Club]
-- [Shield]
+- Armour
+- club
 
 **OPTIONS**
 
-- [Banner]: 25 points
-- Blowpipe with poisoned darts: 1 point
-- [Spear]: 1 point
+- Swap Weapon: 1 point
+- Two-Handed Club: 1 point
+
+**SPECIAL RULES**
+
+- Terror
 
 </div>
 
@@ -122,36 +187,25 @@ A War Mumak of Far Harad's Howdah has a capacity of 12 models. The only models t
 <div class="unitCard" markdown>
 
 ### MAHUD RAIDER [17 POINTS]
-**MAN, MAHUD, CAVALRY, WARRIOR**
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
 
-- [Armour]
-- [Club]
-- [Shield]
-- [War camel]
+- Armour
+- club
+- shield
+- War Camel
 
 **OPTIONS**
 
-- [Banner]: 25 points
-- Blowpipe with poisoned darts: 1 point
-- [War spear]: 1 point
-
----
-
-**WAR CAMEL**
-
-| Mv | F | S | D | A | W | C |
-|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10" | 0 | 4 | 4 | 0 | 1 | 2 |
-
-- **Impaler** `ACTIVE`
-
-Whenever a war camel charges into combat, it will inflict one Strength 4 hit upon one model it has charged (Cavalry models suffer the hits on both the mount and the rider). If after these hits the Raider is unengaged and has movement remaining, the Raider may complete its move in any way the controlling player wishes; stopping straight away, charging another target or anything in between.
+- Banner: 25 points
+- Blowpipe with Poisoned Darts: 1 point
+- Spear: 1 point
+- Swap Weapon: 1 point
 
 </div>
 
@@ -159,24 +213,24 @@ Whenever a war camel charges into combat, it will inflict one Strength 4 hit upo
 
 <div class="unitCard" markdown>
 
-### HALF TROLL [23 POINTS]
-*MAN, MAHUD, INFANTRY, WARRIOR*
+### MAHUD WARRIOR [8 POINTS]
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 5/6+ | 5 | 6 | 2 | 2 | 2 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/3+ | 4 | 5 | 1 | 1 | 2 |
 
 **WARGEAR**
 
-- [Armour]
-- [Club]
+- Armour
+- club
+- shield
 
 **OPTIONS**
 
-- *[Two-handed]* [club]: 1 point
-
-**SPECIAL RULES**
-
-- [Terror]
+- Banner: 25 points
+- Blowpipe with Poisoned Darts: 1 point
+- Spear: 1 point
+- Swap Weapon: 1 point
 
 </div>

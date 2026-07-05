@@ -2,41 +2,45 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Durin, King of Khazad-Dum: 170 points
+- **Durin, King of Khazad-Dum**: 170 points
 
 **HEROES OF VALOUR**
 
-- Dwarf King: 85 points
-- Mardin, The King's Ward: 80 points
+- **Dwarf King**: 85 points
+- **Mardin, The King's Ward**: 80 points
 
 **HEROES OF FORTITUDE**
 
-- Dwarf Captain: 65 points
-- Dwarf Shieldbearer: 60 points
-- King's Champion: 140 points
+- **Dwarf Captain**: 65 points
+- **Dwarf Shieldbearer**: 60 points
+- **King's Champion**: 140 points
 
 **WARRIORS**
 
-- Dwarf Ranger: 8 points
+- **Dwarf Ranger**: 8 points
   - Dwarf longbow: 1 point
   - Throwing weapons: 1 point
   - Two-handed weapon: 1 point
-- Dwarf Warrior: 8 points
+- **Dwarf Warrior**: 8 points
   - War horn: 25 points
   - Banner: 25 points
   - Dwarf bow: 1 point
   - Shield: 1 point
   - Two-handed weapon: 1 point
-- Iron Guard: 15 points
-- Khazad Guard: 12 points
+- **Iron Guard**: 15 points
+- **Khazad Guard**: 12 points
   - Hearthguard: 2 points
-- Vault Warden Team: 25 points
+- **Vault Warden Team**: 25 points
 
 **SIEGE ENGINES**
 
-- Dwarven Ballista: 70 points
+- **Dwarven Ballista**: 70 points
+
+</div>
 
 ## ADDITIONAL RULES
 

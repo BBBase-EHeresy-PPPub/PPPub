@@ -702,7 +702,7 @@ Each Good Hero model starts the game with one fewer Might point than usual.
 
 **LAYOUT**
 
-This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways, and, of course, plenty of towers to fire at the Dragon from. The center of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this – Dale's only hope at stopping the dreaded Smaug!
+This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways, and, of course, plenty of towers to fire at the Dragon from. The center of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this - Dale's only hope at stopping the dreaded Smaug!
 
 **STARTING POSITIONS**
 
@@ -778,7 +778,7 @@ Whenever Gandalf declares that he is casting a Magical Power, declare how many W
 
 **LAYOUT**
 
-The board represents the plains before Erebor – there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this scenario!). The eastern board edge represents the walls of Erebor, with the center marking the gates of Erebor.
+The board represents the plains before Erebor - there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this scenario!). The eastern board edge represents the walls of Erebor, with the center marking the gates of Erebor.
 
 **STARTING POSITIONS**
 

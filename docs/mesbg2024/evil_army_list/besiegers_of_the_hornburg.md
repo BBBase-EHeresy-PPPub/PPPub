@@ -2,27 +2,29 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Wulf: 110 points
+- **Wulf**: 110 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- General Targg: 80 points
+- **General Targg**: 80 points
   - Horse: 20 points
-- Hill Tribes Chieftain: 40 points
+- **Hill Tribes Chieftain**: 40 points
   - Light shield: 5 points
   - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
-- Shank & Wrot: 150 points
+- **Shank & Wrot**: 150 points
 
 **WARRIORS**
 
-- Crebain: 20 points
-- Hill Tribesman: 5 points
+- **Crebain**: 20 points
+- **Hill Tribesman**: 5 points
   - Banner and light shield: 26 points
   - War horn and light shield: 26 points
   - Banner: 25 points
@@ -33,6 +35,8 @@
   - Light shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

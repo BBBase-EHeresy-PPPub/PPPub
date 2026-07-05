@@ -2,30 +2,34 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Sharkey & Worm: 60 points
+- **Sharkey & Worm**: 60 points
 
 **HEROES OF VALOUR**
 
-- Sid Briarthorn: 50 points
+- **Sid Briarthorn**: 50 points
 
 **HEROES OF FORTITUDE**
 
-- Bill Ferny: 40 points
-- Lotho Sackville-Baggins: 30 points
-- Rowan Thistlewood: 45 points
-- Ruffian: 5 points
+- **Bill Ferny**: 40 points
+- **Lotho Sackville-Baggins**: 30 points
+- **Rowan Thistlewood**: 45 points
+- **Ruffian**: 5 points
   - Bow: 1 point
   - Whip: 1 point
-- Ted Sandyman: 30 points
+- **Ted Sandyman**: 30 points
 
 **WARRIORS**
 
-- Hobbit Militia: 4 points
-- Ruffian: 5 points
+- **Hobbit Militia**: 4 points
+- **Ruffian**: 5 points
   - Bow: 1 point
   - Whip: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,25 +2,29 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Khandish King: 100 points
+- **Khandish King**: 100 points
   - Khandish Chariot: 35 points
-- Khandish King: 100 points
+- **Khandish King**: 100 points
   - Khandish Chariot: 35 points
 
 **HEROES OF FORTITUDE**
 
-- Khandish Chieftain: 55 points
+- **Khandish Chieftain**: 55 points
   - Horse: 20 points
 
 **WARRIORS**
 
-- Khandish Charioteer: 40 points
+- **Khandish Charioteer**: 40 points
   - Exchange hand-and-a-half weapon for bow: Free
-- Khandish Horseman: 14 points
-- Khandish Warrior: 8 points
+- **Khandish Horseman**: 14 points
+- **Khandish Warrior**: 8 points
   - Exchange hand-and-a-half weapon for bow: Free
+
+</div>
 
 ## ADDITIONAL RULES
 

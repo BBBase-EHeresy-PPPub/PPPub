@@ -2,31 +2,35 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Lurtz: 100 points
+- **Lurtz**: 100 points
   - Shield: Free
 
 **HEROES OF FORTITUDE**
 
-- Mauhur: 65 points
-- Ugluk: 75 points
-- Uruk-Hai Scout Captain: 55 points
+- **Mauhur**: 65 points
+- **Ugluk**: 75 points
+- **Uruk-Hai Scout Captain**: 55 points
 
 **MINOR HEROES**
 
-- Uruk-Hai Shaman: 55 points
+- **Uruk-Hai Shaman**: 55 points
 
 **INDEPENDENT HEROES**
 
-- Uruk-Hai Drummer: 35 points
+- **Uruk-Hai Drummer**: 35 points
 
 **WARRIORS**
 
-- Uruk-Hai Scout: 8 points
+- **Uruk-Hai Scout**: 8 points
   - Banner: 25 points
   - Shield: 1 point
   - Uruk-hai bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

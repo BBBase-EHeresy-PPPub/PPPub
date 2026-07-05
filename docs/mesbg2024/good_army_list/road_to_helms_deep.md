@@ -2,43 +2,47 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Theoden: 75 points
+- **Theoden**: 75 points
   - Snowmane: 20 points
 
 **HEROES OF VALOUR**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Brego: 20 points
   - Bow: 5 points
   - Elven Cloak: 5 points
-- Gimli: 100 points
+- **Gimli**: 100 points
   - Elven Cloak: 5 points
-- Legolas: 100 points
+- **Legolas**: 100 points
   - Horse: 20 points
   - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Captain of Rohan: 45 points
+- **Captain of Rohan**: 45 points
   - Horse: 20 points
   - Exchange armour for heavy armour: 5 points
   - Shield: 5 points
-- Gamling: 55 points
+- **Gamling**: 55 points
   - Horse: 20 points
-- Hama, Captain of Rohan: 60 points
+- **Hama, Captain of Rohan**: 60 points
 
 **WARRIORS**
 
-- Rider of Rohan: 14 points
+- **Rider of Rohan**: 14 points
   - Banner: 25 points
   - Throwing spears: 2 points
-- Rohan Outrider: 8 points
+- **Rohan Outrider**: 8 points
   - Horse: 5 points
-- Rohan Royal Guard: 11 points
+- **Rohan Royal Guard**: 11 points
   - Horse: 5 points
   - Throwing spears: 2 points
+
+</div>
 
 ## ADDITIONAL RULES
 

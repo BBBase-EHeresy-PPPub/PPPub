@@ -2,43 +2,47 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Gulavhar, The Terror of Arnor: 200 points
+- **Gulavhar, The Terror of Arnor**: 200 points
 
 **HEROES OF VALOUR**
 
-- The Shadow of Rhudaur: 80 points
+- **The Shadow of Rhudaur**: 80 points
 
 **HEROES OF FORTITUDE**
 
-- Angmar Orc Captain: 45 points
-- Nazthak, Orc Captain: 50 points
-- Shade: 75 points
-- Wild Warg Chieftain: 80 points
+- **Angmar Orc Captain**: 45 points
+- **Nazthak, Orc Captain**: 50 points
+- **Shade**: 75 points
+- **Wild Warg Chieftain**: 80 points
 
 **MINOR HEROES**
 
-- Angmar Orc Shaman: 50 points
+- **Angmar Orc Shaman**: 50 points
   - Warg: 20 points
-- Barrow-wight: 50 points
+- **Barrow-wight**: 50 points
 
 **WARRIORS**
 
-- Angmar Orc Warrior: 5 points
+- **Angmar Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Angmar Warg Rider: 11 points
+- **Angmar Warg Rider**: 11 points
   - Shield and throwing spears: 2 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Throwing spears: 1 point
-- Spectre: 15 points
-- Werewolf: 25 points
-- Wild Warg: 7 points
+- **Spectre**: 15 points
+- **Werewolf**: 25 points
+- **Wild Warg**: 7 points
+
+</div>
 
 ## SPECIAL RULES
 

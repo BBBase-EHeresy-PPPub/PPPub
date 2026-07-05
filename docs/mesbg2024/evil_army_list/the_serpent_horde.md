@@ -2,25 +2,27 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Suladan, The Serpent Lord: 120 points
+- **Suladan, The Serpent Lord**: 120 points
   - Armoured horse: 25 points
 
 **HEROES OF VALOUR**
 
-- Haradrim King: 70 points
+- **Haradrim King**: 70 points
   - Horse: 20 points
-- The Betrayer: 130 points
+- **The Betrayer**: 130 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- Haradrim Chieftain: 50 points
+- **Haradrim Chieftain**: 50 points
   - Bow: 5 points
-- Haradrim Taskmaster: 45 points
-- Raza, Fang of the Serpent: 75 points
-- War Mumak of Harad: 250 points
+- **Haradrim Taskmaster**: 45 points
+- **Raza, Fang of the Serpent**: 75 points
+- **War Mumak of Harad**: 250 points
   - Gnarled Hide: 25 points
   - Mahud Beastmaster Chieftain: 25 points
   - Rocks: 20 points
@@ -31,18 +33,20 @@
 
 **WARRIORS**
 
-- Haradrim Raider: 11 points
+- **Haradrim Raider**: 11 points
   - Banner: 25 points
   - Bow & war spear: 2 points
   - Bow: 1 point
   - War spear: 1 point
-- Haradrim Warrior: 6 points
+- **Haradrim Warrior**: 6 points
   - War horn: 25 points
   - Banner: 25 points
   - Bow: 1 point
   - Spear: 1 point
-- Serpent Guard: 8 points
-- Serpent Rider: 14 points
+- **Serpent Guard**: 8 points
+- **Serpent Rider**: 14 points
+
+</div>
 
 ## ADDITIONAL RULES
 

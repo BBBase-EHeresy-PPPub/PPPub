@@ -2,20 +2,24 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Radagast the Brown: 145 points
+- **Radagast the Brown**: 145 points
   - Exchange Staff for Great Eagle: 55 points
 
 **HEROES OF VALOUR**
 
-- Beorn: 200 points
-- Gwaihir: 200 points
+- **Beorn**: 200 points
+- **Gwaihir**: 200 points
 
 **WARRIORS**
 
-- Fledgeling Great Eagle: 75 points
-- Great Eagle: 100 points
+- **Fledgeling Great Eagle**: 75 points
+- **Great Eagle**: 100 points
+
+</div>
 
 ## ADDITIONAL RULES
 

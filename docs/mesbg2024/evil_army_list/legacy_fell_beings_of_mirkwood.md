@@ -2,42 +2,46 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Razgush, War Leader of the North: 120 points
-- The Spider Queen: 120 points
+- **Razgush, War Leader of the North**: 120 points
+- **The Spider Queen**: 120 points
 
 **HEROES OF FORTITUDE**
 
-- Mordor Orc Captain: 45 points
-- Mordor Orc Taskmaster: 45 points
+- **Mordor Orc Captain**: 45 points
+- **Mordor Orc Taskmaster**: 45 points
 
 **MINOR HEROES**
 
-- Mordor Orc Shaman: 50 points
+- **Mordor Orc Shaman**: 50 points
 
 **INDEPENDENT HEROES**
 
-- Mordor Orc Drummer: 30 points
+- **Mordor Orc Drummer**: 30 points
 
 **WARRIORS**
 
-- Bat Swarm: 35 points
-- Fell Warg: 8 points
-- Mirkwood Giant Spider: 20 points
-- Mirkwood Hunting Spider: 20 points
-- Mordor Orc Warrior: 5 points
+- **Bat Swarm**: 35 points
+- **Fell Warg**: 8 points
+- **Mirkwood Giant Spider**: 20 points
+- **Mirkwood Hunting Spider**: 20 points
+- **Mordor Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Mordor Warg Rider: 11 points
+- **Mordor Warg Rider**: 11 points
   - Shield and throwing spears: 2 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Throwing spears: 1 point
-- Orc Tracker: 6 points
+- **Orc Tracker**: 6 points
+
+</div>
 
 ## ADDITIONAL RULES
 

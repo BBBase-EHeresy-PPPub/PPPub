@@ -26,11 +26,18 @@
 
 - Fearless
 
-**ACTIVE/PASSIVE RULES**
+- **Barazantathul** `ACTIVE`
 
-- **Barazantathul** `ACTIVE` - Master-forged two-handed weapon.
-- **King Under the Mountain** `ACTIVE` - Dain's Stand Fast will cover the entire battlefield, regardless of range. Additionally, friendly Erebor Dwarf Hero models may benefit from his Stand Fast.
-- **Venerable** `PASSIVE` - Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose the lowest result.
+Master-forged two-handed weapon.
+
+- **King Under the Mountain** `ACTIVE`
+
+Dain's Stand Fast will cover the entire battlefield, regardless of range. Additionally, friendly Erebor Dwarf Hero models may benefit from his Stand Fast.
+
+- **Venerable** `PASSIVE`
+
+Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose the lowest result.
+
 
 </div>
 
@@ -65,13 +72,26 @@
 - Fearless
 - Leader (Khazad Guard)
 
-**ACTIVE/PASSIVE RULES**
+- **Exquisite Mithril Armour** `PASSIVE`
 
-- **Exquisite Mithril Armour** `PASSIVE` - Mithril armour that adds 4 to Durin's Defence rather than the usual 3 (already included in his profile).
-- **Durin's axe** `ACTIVE` - Master-forged two-handed weapon. Durin may re-roll a single D6 when making a Duel roll.
-- **The Horn of Zirakzigil** `ACTIVE` - A war horn which also gives Durin the Terror special rule.
-- **The Ring of Durin** `PASSIVE` - Once per game during the Priority phase, after both sides have rolled their dice, you can re-roll your side's Priority roll.
-- **The Crown of Kings** `PASSIVE` - For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored.
+Mithril armour that adds 4 to Durin's Defence rather than the usual 3 (already included in his profile).
+
+- **Durin's axe** `ACTIVE`
+
+Master-forged two-handed weapon. Durin may re-roll a single D6 when making a Duel roll.
+
+- **The Horn of Zirakzigil** `ACTIVE`
+
+A war horn which also gives Durin the Terror special rule.
+
+- **The Ring of Durin** `PASSIVE`
+
+Once per game during the Priority phase, after both sides have rolled their dice, you can re-roll your side's Priority roll.
+
+- **The Crown of Kings** `PASSIVE`
+
+For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored.
+
 
 </div>
 
@@ -104,11 +124,18 @@
 - Fearless
 - Hatred (Gundabad)
 
-**ACTIVE/PASSIVE RULES**
+- **Orcrist** `ACTIVE`
 
-- **Orcrist** `ACTIVE` - Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
-- **Du Bekar** `PASSIVE` - Friendly Dwarf models treat Thorin as a banner.
-- **Ancestral Fury** `ACTIVE` - If Thorin Charges into Combat with the Infantry keyword, he may declare a free Heroic Combat in the Fight phase.
+Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+
+- **Du Bekar** `PASSIVE`
+
+Friendly Dwarf models treat Thorin as a banner.
+
+- **Ancestral Fury** `ACTIVE`
+
+If Thorin Charges into Combat with the Infantry keyword, he may declare a free Heroic Combat in the Fight phase.
+
 
 </div>
 
@@ -141,10 +168,14 @@
 
 - Ancient Enemies (Orc)
 
-**ACTIVE/PASSIVE RULES**
+- **Arkenstone** `PASSIVE`
 
-- **Arkenstone** `PASSIVE` - Thror passes Fate rolls on a 3+, rather than 4+. Also, if the result of a Fate roll is 4+, that roll is free, and does not cost a point of Fate.
-- **The Ring of Durin** `PASSIVE` - Once per game, after the Priority roll has taken place, you may re-roll the Priority roll.
+Thror passes Fate rolls on a 3+, rather than 4+. Also, if the result of a Fate roll is 4+, that roll is free, and does not cost a point of Fate.
+
+- **The Ring of Durin** `PASSIVE`
+
+Once per game, after the Priority roll has taken place, you may re-roll the Priority roll.
+
 
 </div>
 
@@ -170,9 +201,12 @@
 - Heroic Resolve
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Longbeard** `ACTIVE` - After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+- **Longbeard** `ACTIVE`
+
+After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+
 
 </div>
 
@@ -202,9 +236,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Longbeard** `ACTIVE`
 
-- **Longbeard** `ACTIVE` - After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+
 
 </div>
 
@@ -237,12 +272,22 @@
 - Burly
 - Fearless
 
-**ACTIVE/PASSIVE RULES**
+- **Lord of the Iron Hills** `PASSIVE`
 
-- **Lord of the Iron Hills** `PASSIVE` - Iron Hills models within 12" of Dain automatically pass all Courage tests they are required to take.
-- **Fiery Temper** `ACTIVE` - After killing his first enemy, Dain must always Charge if able to do so for the rest of the game.
-- **Fearsome Charge** `PASSIVE` - If Dain Charges into Combat, he gains Terror for the rest of that turn.
-- **Headbutt** `ACTIVE` - If Dain wins a Duel but fails to slay every enemy in his Combat, select one enemy 25mm model and roll a D6. On a 5+, that model is immediately knocked Prone.
+Iron Hills models within 12" of Dain automatically pass all Courage tests they are required to take.
+
+- **Fiery Temper** `ACTIVE`
+
+After killing his first enemy, Dain must always Charge if able to do so for the rest of the game.
+
+- **Fearsome Charge** `PASSIVE`
+
+If Dain Charges into Combat, he gains Terror for the rest of that turn.
+
+- **Headbutt** `ACTIVE`
+
+If Dain wins a Duel but fails to slay every enemy in his Combat, select one enemy 25mm model and roll a D6. On a 5+, that model is immediately knocked Prone.
+
 
 </div>
 
@@ -274,10 +319,14 @@
 - Burly
 - Fearless
 
-**ACTIVE/PASSIVE RULES**
+- **Grasper & Keeper** `ACTIVE`
 
-- **Grasper & Keeper** `ACTIVE` - Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
-- **Weapon Master** `ACTIVE` - Dwalin is never considered Unarmed.
+Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
+
+- **Weapon Master** `ACTIVE`
+
+Dwalin is never considered Unarmed.
+
 
 </div>
 
@@ -310,11 +359,18 @@
 - Fearless
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Grasper & Keeper** `ACTIVE`
 
-- **Grasper & Keeper** `ACTIVE` - Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
-- **Weapon Master** `ACTIVE` - Dwalin is never considered Unarmed.
-- **The King's Axemen** `ACTIVE` - At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his Strength by 1 when making Strikes should he win the Duel roll. However, if he loses the Duel roll, he will reduce his Defence by D3 until the end of the combat.
+Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
+
+- **Weapon Master** `ACTIVE`
+
+Dwalin is never considered Unarmed.
+
+- **The King's Axemen** `ACTIVE`
+
+At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his Strength by 1 when making Strikes should he win the Duel roll. However, if he loses the Duel roll, he will reduce his Defence by D3 until the end of the combat.
+
 
 </div>
 
@@ -340,9 +396,12 @@
 - Heroic March
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Dwarven Lords** `PASSIVE` - A Dwarf King will always have the Faction keyword of the most common type of Dwarf model in the same Army. They will gain a special rule depending on the keyword they have: Erebor - gains Ancient Enemies (Orc) Iron Hills - gains Fearless. Khazad-dum - gains throwing weapons.
+- **Dwarven Lords** `PASSIVE`
+
+A Dwarf King will always have the Faction keyword of the most common type of Dwarf model in the same Army. They will gain a special rule depending on the keyword they have: Erebor - gains Ancient Enemies (Orc) Iron Hills - gains Fearless. Khazad-dum - gains throwing weapons.
+
 
 </div>
 
@@ -372,9 +431,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Combat Synergy** `ACTIVE`
 
-- **Combat Synergy** `ACTIVE` - At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+
 
 </div>
 
@@ -420,10 +480,16 @@
 
 - Horse: 20 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Glamdring** `ACTIVE` - Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
-- **Narya** `PASSIVE` - Gandalf may re-roll any failed Fate rolls.
+- **Glamdring** `ACTIVE`
+
+Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+
+- **Narya** `PASSIVE`
+
+Gandalf may re-roll any failed Fate rolls.
+
 
 </div>
 
@@ -453,9 +519,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Combat Synergy** `ACTIVE`
 
-- **Combat Synergy** `ACTIVE` - At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+
 
 </div>
 
@@ -485,10 +552,14 @@
 
 - Sworn Protector (Durin)
 
-**ACTIVE/PASSIVE RULES**
+- **Torozul** `ACTIVE`
 
-- **Torozul** `ACTIVE` - This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
-- **Durin's Protector** `ACTIVE` - During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged in Combat within 6" of Mardin, then Mardin may declare a free Heroic Combat. If this is successful, Mardin must use the following Move to join Durin's Combat if able, or move as close as possible to him. Mardin cannot use this special rule if he is in the same Combat as Durin.
+This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
+
+- **Durin's Protector** `ACTIVE`
+
+During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged in Combat within 6" of Mardin, then Mardin may declare a free Heroic Combat. If this is successful, Mardin must use the following Move to join Durin's Combat if able, or move as close as possible to him. Mardin cannot use this special rule if he is in the same Combat as Durin.
+
 
 </div>
 
@@ -516,9 +587,12 @@
 - Heroic Strength
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Cold-headed** `ACTIVE` - Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free and no Might points are spent. Additionally, if he declares a Heroic Action and an enemy subsequently declares a Heroic Action as well, Thorin may change the action he has declared.
+- **Cold-headed** `ACTIVE`
+
+Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free and no Might points are spent. Additionally, if he declares a Heroic Action and an enemy subsequently declares a Heroic Action as well, Thorin may change the action he has declared.
+
 
 </div>
 
@@ -551,11 +625,20 @@
 - Orcrist: 10 points
 - The Oakenshield: 5 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Orcrist** `ACTIVE` - Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
-- **The Oakenshield** `ACTIVE` - If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
-- **"Loyalty, honour, a willing heart. I can ask no more than that"** `PASSIVE` - Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls on a natural 1 when making Strikes. Also, they may benefit from Thorin's Stand Fast.
+- **Orcrist** `ACTIVE`
+
+Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+
+- **The Oakenshield** `ACTIVE`
+
+If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
+
+- **"Loyalty, honour, a willing heart. I can ask no more than that"** `PASSIVE`
+
+Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls on a natural 1 when making Strikes. Also, they may benefit from Thorin's Stand Fast.
+
 
 </div>
 
@@ -585,10 +668,14 @@
 
 - Hatred (Gundabad)
 
-**ACTIVE/PASSIVE RULES**
+- **Durin's Heir** `PASSIVE`
 
-- **Durin's Heir** `PASSIVE` - Thrain's Stand Fast has a range of 12" and also affects friendly Dwarf Hero models.
-- **The Ring of Durin** `PASSIVE` - If Thrain carries the Ring of Durin, once per game after the Priority roll has taken place, you may re-roll the Priority roll.
+Thrain's Stand Fast has a range of 12" and also affects friendly Dwarf Hero models.
+
+- **The Ring of Durin** `PASSIVE`
+
+If Thrain carries the Ring of Durin, once per game after the Priority roll has taken place, you may re-roll the Priority roll.
+
 
 </div>
 
@@ -614,9 +701,12 @@
 - Heroic Defence
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Longbeard** `ACTIVE` - After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+- **Longbeard** `ACTIVE`
+
+After the Priority roll has taken place, Balin may spend a Will point to enable his controlling player to re-roll their D6 in the Priority roll.
+
 
 </div>
 
@@ -646,11 +736,18 @@
 
 - Fearless
 
-**ACTIVE/PASSIVE RULES**
+- **Grasper & Keeper** `ACTIVE`
 
-- **Grasper & Keeper** `ACTIVE` - Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
-- **Weapon Master** `ACTIVE` - Dwalin is never considered Unarmed.
-- **Dwarven Fury** `ACTIVE` - At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound rolls in that combat. However on a 1, Dwalin reduces his Fight value by D3 before the Duel roll takes place.
+Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and any To Wound rolls of a natural 6, and not prevented, will cause 2 Wounds rather than 1.
+
+- **Weapon Master** `ACTIVE`
+
+Dwalin is never considered Unarmed.
+
+- **Dwarven Fury** `ACTIVE`
+
+At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound rolls in that combat. However on a 1, Dwalin reduces his Fight value by D3 before the Duel roll takes place.
+
 
 </div>
 
@@ -679,10 +776,16 @@
 - Heroic Defence
 - Heroic Challenge
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **The Oakenshield** `ACTIVE` - If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
-- **To Arms!** `ACTIVE` - Once per game at the start of his Activation, this rule may be declared. All friendly Erebor models within 3" of Thorin gain +1 Strength until the end of that turn.
+- **The Oakenshield** `ACTIVE`
+
+If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
+
+- **To Arms!** `ACTIVE`
+
+Once per game at the start of his Activation, this rule may be declared. All friendly Erebor models within 3" of Thorin gain +1 Strength until the end of that turn.
+
 
 </div>
 
@@ -712,10 +815,14 @@
 
 - Throw Stones (range 8", Strength 2)
 
-**ACTIVE/PASSIVE RULES**
+- **Boar Spear** `ACTIVE`
 
-- **Boar Spear** `ACTIVE` - Can be used as a spear or two-handed weapon.
-- **Embedded Axe-blade** `ACTIVE` - If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+Can be used as a spear or two-handed weapon.
+
+- **Embedded Axe-blade** `ACTIVE`
+
+If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+
 
 </div>
 
@@ -745,9 +852,10 @@
 - Throw Stones (range 8", Strength 2)
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Embedded Axe-blade** `ACTIVE`
 
-- **Embedded Axe-blade** `ACTIVE` - If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+
 
 </div>
 
@@ -783,10 +891,14 @@
 - Resistant to Magic
 - Throw Stones (range 8", Strength 1)
 
-**ACTIVE/PASSIVE RULES**
+- **Sting** `ACTIVE`
 
-- **Sting** `ACTIVE` - Elven hand weapon. Bilbo gains a bonus of +1 to his Strength when making Strikes with Sting.
-- **It has not yet Awoken** `PASSIVE` - Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
+Elven hand weapon. Bilbo gains a bonus of +1 to his Strength when making Strikes with Sting.
+
+- **It has not yet Awoken** `PASSIVE`
+
+Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
+
 
 </div>
 
@@ -811,10 +923,16 @@
 
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Mattock** `ACTIVE` - Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
-- **Steadfast** `PASSIVE` - When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+- **Mattock** `ACTIVE`
+
+Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+
+- **Steadfast** `PASSIVE`
+
+When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+
 
 </div>
 
@@ -844,9 +962,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Steadfast** `ACTIVE`
 
-- **Steadfast** `ACTIVE` - When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+
 
 </div>
 
@@ -874,10 +993,14 @@
 
 - Dominant (2)
 
-**ACTIVE/PASSIVE RULES**
+- **Lumbering** `PASSIVE`
 
-- **Lumbering** `PASSIVE` - If Bombur rolls a natural 6 on a Jump, Climb, Leap or Swim test, he must re-roll the result. Additionally, he may not declare Heroic Moves.
-- **Raising Spirits** `ACTIVE` - Once per turn in his Activation, choose a friendly Thorin's Company model within 3" and roll a D6. On a 4+, they regain a lost Will point.
+If Bombur rolls a natural 6 on a Jump, Climb, Leap or Swim test, he must re-roll the result. Additionally, he may not declare Heroic Moves.
+
+- **Raising Spirits** `ACTIVE`
+
+Once per turn in his Activation, choose a friendly Thorin's Company model within 3" and roll a D6. On a 4+, they regain a lost Will point.
+
 
 </div>
 
@@ -907,11 +1030,18 @@
 - Dominant (2)
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Lumbering** `PASSIVE`
 
-- **Lumbering** `PASSIVE` - If Bombur rolls a natural 6 on a Jump, Climb, Leap or Swim test, he must re-roll the result. Additionally, he may not declare Heroic Moves.
-- **Raising Spirits** `ACTIVE` - Once per turn in his Activation, choose a friendly Thorin's Company model within 3" and roll a D6. On a 4+, they regain a lost Will point.
-- **Flail** `ACTIVE` - Hand-and-a-half weapon, if the bearer wins a Duel roll then they can either make Strikes as normal, or make a single Strike against each enemy model involved in the Combat.
+If Bombur rolls a natural 6 on a Jump, Climb, Leap or Swim test, he must re-roll the result. Additionally, he may not declare Heroic Moves.
+
+- **Raising Spirits** `ACTIVE`
+
+Once per turn in his Activation, choose a friendly Thorin's Company model within 3" and roll a D6. On a 4+, they regain a lost Will point.
+
+- **Flail** `ACTIVE`
+
+Hand-and-a-half weapon, if the bearer wins a Duel roll then they can either make Strikes as normal, or make a single Strike against each enemy model involved in the Combat.
+
 
 </div>
 
@@ -936,9 +1066,12 @@
 
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **A Good Sort** `PASSIVE` - Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may re-roll any rolls of a 1 in his Duel rolls.
+- **A Good Sort** `PASSIVE`
+
+Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may re-roll any rolls of a 1 in his Duel rolls.
+
 
 </div>
 
@@ -968,9 +1101,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **A Good Sort** `PASSIVE`
 
-- **A Good Sort** `PASSIVE` - Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may re-roll any rolls of a 1 in his Duel rolls.
+Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may re-roll any rolls of a 1 in his Duel rolls.
+
 
 </div>
 
@@ -1048,9 +1182,12 @@
 - Heroic Strike
 - Heroic Strength
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Combat Synergy** `ACTIVE` - At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+- **Combat Synergy** `ACTIVE`
+
+At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+
 
 </div>
 
@@ -1077,9 +1214,12 @@
 - Heroic Strike
 - Heroic Strength
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Axe Mastery** `ACTIVE` - If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of that combat.
+- **Axe Mastery** `ACTIVE`
+
+If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of that combat.
+
 
 </div>
 
@@ -1109,9 +1249,10 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Axe Mastery** `ACTIVE`
 
-- **Axe Mastery** `ACTIVE` - If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of that combat.
+If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of that combat.
+
 
 </div>
 
@@ -1141,9 +1282,10 @@
 
 - Ancient Enemies (Orc)
 
-**ACTIVE/PASSIVE RULES**
+- **Mattock** `ACTIVE`
 
-- **Mattock** `ACTIVE` - Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+
 
 </div>
 
@@ -1179,9 +1321,10 @@
 - Master of Battle (5+)
 - Shieldwall
 
-**ACTIVE/PASSIVE RULES**
+- **Mattock** `ACTIVE`
 
-- **Mattock** `ACTIVE` - Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+
 
 </div>
 
@@ -1208,9 +1351,12 @@
 - Heroic Strike
 - Heroic Accuracy
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Combat Synergy** `ACTIVE` - At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+- **Combat Synergy** `ACTIVE`
+
+At the start of any phase, before the Declare Heroic Actions step, if Kili and Fili are within 1" of each other, then they can swap places and not have it count as Moving. If they do this, then during the Fight phase of that turn they may re-roll a single D6 in the Duel roll.
+
 
 </div>
 
@@ -1236,10 +1382,16 @@
 
 - Heroic Strike
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Weapon Master** `ACTIVE` - Nori is never considered Unarmed.
-- **"Just a couple of keepsakes"** `ACTIVE` - When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wound rolls when making Strikes. However, he may never pass the Objective to a friendly model.
+- **Weapon Master** `ACTIVE`
+
+Nori is never considered Unarmed.
+
+- **"Just a couple of keepsakes"** `ACTIVE`
+
+When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wound rolls when making Strikes. However, he may never pass the Objective to a friendly model.
+
 
 </div>
 
@@ -1270,10 +1422,14 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Weapon Master** `ACTIVE`
 
-- **Weapon Master** `ACTIVE` - Nori is never considered Unarmed.
-- **"Just a couple of keepsakes"** `ACTIVE` - When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wound rolls when making Strikes. However, he may never pass the Objective to a friendly model.
+Nori is never considered Unarmed.
+
+- **"Just a couple of keepsakes"** `ACTIVE`
+
+When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wound rolls when making Strikes. However, he may never pass the Objective to a friendly model.
+
 
 </div>
 
@@ -1298,11 +1454,20 @@
 
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Healing Herbs** `ACTIVE` - At any point during his Activation, Oin can choose a friendly Thorin's Company model in base contact and roll a D6. On a 4+, they regain a lost Wound. Can only be used once per turn.
-- **Reading the Portents** `ACTIVE` - During the Fight phase, Oin can spend a Will point to enable a friendly model within 6" to re-roll one dice in their Duel roll. This may be used multiple times in the same Fight Phase.
-- **Hearing Trumpet** `ACTIVE` - When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+, Oin can declare it for free. However, on a natural 1, he loses a Will point. If he already has no Will points left, then he cannot Move during that turn.
+- **Healing Herbs** `ACTIVE`
+
+At any point during his Activation, Oin can choose a friendly Thorin's Company model in base contact and roll a D6. On a 4+, they regain a lost Wound. Can only be used once per turn.
+
+- **Reading the Portents** `ACTIVE`
+
+During the Fight phase, Oin can spend a Will point to enable a friendly model within 6" to re-roll one dice in their Duel roll. This may be used multiple times in the same Fight Phase.
+
+- **Hearing Trumpet** `ACTIVE`
+
+When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+, Oin can declare it for free. However, on a natural 1, he loses a Will point. If he already has no Will points left, then he cannot Move during that turn.
+
 
 </div>
 
@@ -1329,12 +1494,24 @@
 
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Healing Herbs** `ACTIVE` - At any point during his Activation, Oin can choose a friendly Thorin's Company model in base contact and roll a D6. On a 4+, they regain a lost Wound. Can only be used once per turn.
-- **Reading the Portents** `ACTIVE` - During the Fight phase, Oin can spend a Will point to enable a friendly model within 6" to re-roll one dice in their Duel roll. This may be used multiple times in the same Fight Phase.
-- **Hearing Trumpet** `ACTIVE` - When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+, Oin can declare it for free. However, on a natural 1, he loses a Will point. If he already has no Will points left, then he cannot Move during that turn.
-- **Sworn Protector** - (Thorin)
+- **Healing Herbs** `ACTIVE`
+
+At any point during his Activation, Oin can choose a friendly Thorin's Company model in base contact and roll a D6. On a 4+, they regain a lost Wound. Can only be used once per turn.
+
+- **Reading the Portents** `ACTIVE`
+
+During the Fight phase, Oin can spend a Will point to enable a friendly model within 6" to re-roll one dice in their Duel roll. This may be used multiple times in the same Fight Phase.
+
+- **Hearing Trumpet** `ACTIVE`
+
+When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+, Oin can declare it for free. However, on a natural 1, he loses a Will point. If he already has no Will points left, then he cannot Move during that turn.
+
+- **Sworn Protector**
+
+(Thorin)
+
 
 </div>
 
@@ -1363,10 +1540,14 @@
 
 - Sharpshooter
 
-**ACTIVE/PASSIVE RULES**
+- **Chronicler** `ACTIVE`
 
-- **Chronicler** `ACTIVE` - If a friendly Erebor Hero within 6" and Line of Sight of Ori slays an enemy Hero or Monster, that model may regain a lost point of either Might, Will or Fate. If all their point stores are already full, then Ori may choose a different friendly Erebor Hero within 6" and Line of Sight to regain it instead.
-- **Deadeye** `ACTIVE` - If Ori scores a 6 when rolling To Hit, the target immediately suffers a single Wound and Ori may ignore any In The Way tests.
+If a friendly Erebor Hero within 6" and Line of Sight of Ori slays an enemy Hero or Monster, that model may regain a lost point of either Might, Will or Fate. If all their point stores are already full, then Ori may choose a different friendly Erebor Hero within 6" and Line of Sight to regain it instead.
+
+- **Deadeye** `ACTIVE`
+
+If Ori scores a 6 when rolling To Hit, the target immediately suffers a single Wound and Ori may ignore any In The Way tests.
+
 
 </div>
 
@@ -1396,10 +1577,14 @@
 
 - Sworn Protector (Thorin)
 
-**ACTIVE/PASSIVE RULES**
+- **Chronicler** `ACTIVE`
 
-- **Chronicler** `ACTIVE` - If a friendly Erebor Hero within 6" and Line of Sight of Ori slays an enemy Hero or Monster, that model may regain a lost point of either Might, Will or Fate. If all their point stores are already full, then Ori may choose a different friendly Erebor Hero within 6" and Line of Sight to regain it instead.
-- **Protect the Young** `PASSIVE` - Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a two-handed weapon.
+If a friendly Erebor Hero within 6" and Line of Sight of Ori slays an enemy Hero or Monster, that model may regain a lost point of either Might, Will or Fate. If all their point stores are already full, then Ori may choose a different friendly Erebor Hero within 6" and Line of Sight to regain it instead.
+
+- **Protect the Young** `PASSIVE`
+
+Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a two-handed weapon.
+
 
 </div>
 
@@ -1430,9 +1615,10 @@
 
 - Mountain Dweller
 
-**ACTIVE/PASSIVE RULES**
+- **Mountain Fighters** `ACTIVE`
 
-- **Mountain Fighters** `ACTIVE` - This model gains a bonus of +1 To Wound when making Strikes against a model that is within a piece of difficult terrain, such as a piece of rocky terrain, or a ruin.
+This model gains a bonus of +1 To Wound when making Strikes against a model that is within a piece of difficult terrain, such as a piece of rocky terrain, or a ruin.
+
 
 </div>
 
@@ -1518,9 +1704,10 @@
 
 - Ancient Enemies (Orc)
 
-**ACTIVE/PASSIVE RULES**
+- **Mattock** `ACTIVE`
 
-- **Mattock** `ACTIVE` - Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+
 
 </div>
 
@@ -1570,11 +1757,18 @@
 
 - Dominant (4)
 
-**ACTIVE/PASSIVE RULES**
+- **Rapid-fire Bolt Thrower** `ACTIVE`
 
-- **Rapid-fire Bolt Thrower** `ACTIVE` - A crossbow that fires D6 shots per turn. Only has a limited field of fire 45 degrees to its left or right (can be measured by placing Chariot Pivot Template with the X over the bolt thrower and dotted line running down the wooden shaft connecting the goats). This chariot may move and shoot without any -1 penalty. Can also shoot when Engaged in Combat, with no In The Way tests for models it is in Combat with.
-- **Chariot Charge** `ACTIVE` - When moving via Chariot Charge, the Chariot will inflict 3 Strength 6 hits.
-- **Dwarven Crew** `ACTIVE` - Any Iron Hills Warrior that ends their Activation in base contact may join its crew. That Warrior is removed as a casualty and then the chariot immediately regains a Wound lost earlier in the battle.
+A crossbow that fires D6 shots per turn. Only has a limited field of fire 45 degrees to its left or right (can be measured by placing Chariot Pivot Template with the X over the bolt thrower and dotted line running down the wooden shaft connecting the goats). This chariot may move and shoot without any -1 penalty. Can also shoot when Engaged in Combat, with no In The Way tests for models it is in Combat with.
+
+- **Chariot Charge** `ACTIVE`
+
+When moving via Chariot Charge, the Chariot will inflict 3 Strength 6 hits.
+
+- **Dwarven Crew** `ACTIVE`
+
+Any Iron Hills Warrior that ends their Activation in base contact may join its crew. That Warrior is removed as a casualty and then the chariot immediately regains a Wound lost earlier in the battle.
+
 
 </div>
 
@@ -1632,9 +1826,10 @@
 
 - Shieldwall
 
-**ACTIVE/PASSIVE RULES**
+- **Mattock** `ACTIVE`
 
-- **Mattock** `ACTIVE` - Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+
 
 </div>
 
@@ -1703,10 +1898,14 @@
 
 - Direct Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Accurate** `ACTIVE`
 
-- **Accurate** `ACTIVE` - A Dwarven Ballista will only Scatter 3" rather than 6".
-- **Piercing Shot** `ACTIVE` - A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+A Dwarven Ballista will only Scatter 3" rather than 6".
+
+- **Piercing Shot** `ACTIVE`
+
+A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+
 
 **ADDITIONAL PROFILES**
 
@@ -1731,11 +1930,18 @@
 
 - Arcing Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Area Effect** `ACTIVE`
 
-- **Area Effect** `ACTIVE` - After rolling To Hit against the target, if the target was a Battlefield Target then all other models within 2" of them suffer a Strength 5 hit and, if they survive, will be knocked Prone.
-- **Accurate** `ACTIVE` - An Iron Hills Ballista will only Scatter 3" rather than 6"
-- **The Old Twirly Whirlies** `ACTIVE` - This ballista always counts as declaring a Heroic Shoot each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
+After rolling To Hit against the target, if the target was a Battlefield Target then all other models within 2" of them suffer a Strength 5 hit and, if they survive, will be knocked Prone.
+
+- **Accurate** `ACTIVE`
+
+An Iron Hills Ballista will only Scatter 3" rather than 6"
+
+- **The Old Twirly Whirlies** `ACTIVE`
+
+This ballista always counts as declaring a Heroic Shoot each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
+
 
 **ADDITIONAL PROFILES**
 

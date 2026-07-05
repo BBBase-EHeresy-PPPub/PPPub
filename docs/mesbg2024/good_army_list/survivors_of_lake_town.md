@@ -2,34 +2,38 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Bard the Bowman: 130 points
+- **Bard the Bowman**: 130 points
   - Armour and horse: 20 points
 
 **HEROES OF VALOUR**
 
-- Gandalf the Grey: 170 points
+- **Gandalf the Grey**: 170 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- Hilda-Bianca: 35 points
-- Lake-town Militia Captain: 50 points
-- Percy, Lake-town Archer: 50 points
+- **Hilda-Bianca**: 35 points
+- **Lake-town Militia Captain**: 50 points
+- **Percy, Lake-town Archer**: 50 points
 
 **INDEPENDENT HEROES**
 
-- Alfrid the Councillor: 30 points
-- Bard's Family: 60 points
-- Bilbo Baggins, Master Burglar: 75 points
+- **Alfrid the Councillor**: 30 points
+- **Bard's Family**: 60 points
+- **Bilbo Baggins, Master Burglar**: 75 points
 
 **WARRIORS**
 
-- Lake-town Militia: 5 points
+- **Lake-town Militia**: 5 points
   - Bow: 1 point
   - Light shield: 1 point
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

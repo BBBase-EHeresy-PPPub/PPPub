@@ -2,19 +2,23 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- The Witch-king of Angmar: 0 points
+- **The Witch-king of Angmar**: 0 points
   - 2A / 2M / 14W / 2F: 120 points
   - Horse: 20 points
   - Morgul Blade: 10 points
 
 **HEROES OF FORTITUDE**
 
-- Ringwraith: 0 points
+- **Ringwraith**: 0 points
   - 2A / 1M / 10W / 1F: 85 points
   - Horse: 20 points
   - Morgul Blade: 10 points
+
+</div>
 
 ## ADDITIONAL RULES
 

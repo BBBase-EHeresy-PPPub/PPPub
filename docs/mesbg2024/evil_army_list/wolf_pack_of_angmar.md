@@ -2,16 +2,20 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Wild Warg Chieftain: 80 points
-- Wild Warg Chieftain (General): 80 points
+- **Wild Warg Chieftain**: 80 points
+- **Wild Warg Chieftain (General)**: 80 points
 
 **WARRIORS**
 
-- Fell Warg: 8 points
-- Werewolf: 25 points
-- Wild Warg: 7 points
+- **Fell Warg**: 8 points
+- **Werewolf**: 25 points
+- **Wild Warg**: 7 points
+
+</div>
 
 ## ADDITIONAL RULES
 

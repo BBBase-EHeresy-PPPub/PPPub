@@ -2,43 +2,47 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Saruman: 170 points
+- **Saruman**: 170 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- Uruk-Hai Captain: 65 points
-- Uruk-Hai Scout Captain: 55 points
-- Vrasku: 70 points
+- **Uruk-Hai Captain**: 65 points
+- **Uruk-Hai Scout Captain**: 55 points
+- **Vrasku**: 70 points
 
 **MINOR HEROES**
 
-- Uruk-Hai Shaman: 55 points
+- **Uruk-Hai Shaman**: 55 points
   - Armour: 5 points
 
 **INDEPENDENT HEROES**
 
-- Grima: 25 points
-- Uruk-Hai Drummer: 35 points
+- **Grima**: 25 points
+- **Uruk-Hai Drummer**: 35 points
 
 **WARRIORS**
 
-- Feral Uruk-Hai: 13 points
-- Isengard Troll: 100 points
+- **Feral Uruk-Hai**: 13 points
+- **Isengard Troll**: 100 points
   - Swap shield for war drum (Isengard): 25 points
   - Spear: 5 points
-- Uruk-Hai Berserker: 15 points
-- Uruk-Hai Scout: 8 points
+- **Uruk-Hai Berserker**: 15 points
+- **Uruk-Hai Scout**: 8 points
   - Banner: 25 points
   - Shield: 1 point
   - Uruk-hai bow: 1 point
-- Uruk-Hai Warrior: 9 points
+- **Uruk-Hai Warrior**: 9 points
   - Banner: 25 points
   - Crossbow: 2 points
   - Pike: 1 point
   - Shield: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

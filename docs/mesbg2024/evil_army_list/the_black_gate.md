@@ -2,45 +2,49 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Mordor Troll Chieftain (General): 150 points
-- Mouth of Sauron: 75 points
+- **Mordor Troll Chieftain (General)**: 150 points
+- **Mouth of Sauron**: 75 points
   - Armoured horse: 25 points
 
 **HEROES OF FORTITUDE**
 
-- Morannon Orc Captain: 55 points
+- **Morannon Orc Captain**: 55 points
   - Shield: 5 points
   - Two-handed weapon: 5 points
-- Mordor Orc Captain: 45 points
-- Mordor Orc Taskmaster: 45 points
-- Mordor Troll Chieftain: 150 points
-- Ringwraith: 0 points
+- **Mordor Orc Captain**: 45 points
+- **Mordor Orc Taskmaster**: 45 points
+- **Mordor Troll Chieftain**: 150 points
+- **Ringwraith**: 0 points
   - 2A / 2M / 14W / 2F: 120 points
   - Fell Beast: 50 points
   - Morgul Blade: 10 points
 
 **MINOR HEROES**
 
-- Mordor Orc Shaman: 50 points
+- **Mordor Orc Shaman**: 50 points
   - Warg: 20 points
 
 **WARRIORS**
 
-- Morannon Orc Warrior: 8 points
+- **Morannon Orc Warrior**: 8 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Spear: 1 point
-- Mordor Orc Warrior: 5 points
+- **Mordor Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Mordor Troll: 90 points
+- **Mordor Troll**: 90 points
   - War drum (Mordor): 25 points
+
+</div>
 
 ## ADDITIONAL RULES
 

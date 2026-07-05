@@ -2,35 +2,39 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Arvedui, Last King of Arnor: 80 points
+- **Arvedui, Last King of Arnor**: 80 points
 
 **HEROES OF VALOUR**
 
-- Aranarth: 80 points
+- **Aranarth**: 80 points
 
 **HEROES OF FORTITUDE**
 
-- Argadir: 85 points
-- Captain of Arnor: 60 points
-- Malbeth the Seer: 80 points
+- **Argadir**: 85 points
+- **Captain of Arnor**: 60 points
+- **Malbeth the Seer**: 80 points
 
 **INDEPENDENT HEROES**
 
-- Ranger of the North: 25 points
+- **Ranger of the North**: 25 points
   - Armour: 5 points
   - Spear: 1 point
 
 **WARRIORS**
 
-- Knight of Arnor: 15 points
-- Ranger of Arnor: 8 points
+- **Knight of Arnor**: 15 points
+- **Ranger of Arnor**: 8 points
   - Banner: 25 points
   - War horn: 25 points
   - Spear: 1 point
-- Warrior of Arnor: 8 points
+- **Warrior of Arnor**: 8 points
   - Swap spear and shield for banner: 25 points
+
+</div>
 
 ## ADDITIONAL RULES
 

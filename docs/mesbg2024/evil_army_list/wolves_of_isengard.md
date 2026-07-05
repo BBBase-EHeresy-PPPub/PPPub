@@ -2,28 +2,32 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Sharku: 70 points
+- **Sharku**: 70 points
 
 **HEROES OF FORTITUDE**
 
-- Isengard Orc Captain: 45 points
+- **Isengard Orc Captain**: 45 points
   - Warg: 20 points
 
 **MINOR HEROES**
 
-- Isengard Orc Shaman: 50 points
+- **Isengard Orc Shaman**: 50 points
   - Warg: 20 points
 
 **WARRIORS**
 
-- Isengard Warg: 7 points
-- Isengard Warg Rider: 11 points
+- **Isengard Warg**: 7 points
+- **Isengard Warg Rider**: 11 points
   - Shield and throwing spears: 2 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Throwing spears: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

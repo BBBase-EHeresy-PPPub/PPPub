@@ -2,15 +2,17 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Dragon: 200 points
+- **Dragon**: 200 points
   - Breathe Fire: 50 points
   - Fly: 50 points
   - Superior Intellect: 50 points
   - Tough Hide: 50 points
   - Wyrm Magic: 50 points
-- Dragon: 200 points
+- **Dragon**: 200 points
   - Breathe Fire: 50 points
   - Fly: 50 points
   - Superior Intellect: 50 points
@@ -19,7 +21,9 @@
 
 **MINOR HEROES**
 
-- Cave Drake: 150 points
+- **Cave Drake**: 150 points
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,14 +2,18 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Bill the Troll: 150 points
+- **Bill the Troll**: 150 points
 
 **HEROES OF FORTITUDE**
 
-- Bert the Troll: 130 points
-- Tom the Troll: 120 points
+- **Bert the Troll**: 130 points
+- **Tom the Troll**: 120 points
+
+</div>
 
 ## ADDITIONAL RULES
 

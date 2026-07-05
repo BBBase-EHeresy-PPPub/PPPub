@@ -2,45 +2,49 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Gandalf the Grey: 170 points
+- **Gandalf the Grey**: 170 points
   - Gandalf's Cart: 25 points
 
 **HEROES OF FORTITUDE**
 
-- Bilbo Baggins, Ageing Hobbit: 45 points
+- **Bilbo Baggins, Ageing Hobbit**: 45 points
   - Mithril Coat: 15 points
   - Sting: 5 points
   - The One Ring: Free
-- Farmer Maggot: 50 points
-- Farmer Tolman Cotton: 35 points
-- Frodo Baggins: 55 points
-- Hamfast 'Gaffer' Gamgee: 35 points
-- Paladin Took, Thain of the Shire: 30 points
-- Samwise Gamgee: 40 points
-- Will Whitfoot, Mayor of Michel Delving: 40 points
+- **Farmer Maggot**: 50 points
+- **Farmer Tolman Cotton**: 35 points
+- **Frodo Baggins**: 55 points
+- **Hamfast 'Gaffer' Gamgee**: 35 points
+- **Paladin Took, Thain of the Shire**: 30 points
+- **Samwise Gamgee**: 40 points
+- **Will Whitfoot, Mayor of Michel Delving**: 40 points
 
 **MINOR HEROES**
 
-- Lotho Sackville-Baggins: 30 points
+- **Lotho Sackville-Baggins**: 30 points
 
 **INDEPENDENT HEROES**
 
-- Folco Boffin: 25 points
-- Fredegar 'Fatty' Bolger: 10 points
-- Lobelia Sackville-Baggins: 20 points
-- Meriadoc Brandybuck: 10 points
-- Peregrin Took: 10 points
-- Rosie Cotton: 20 points
+- **Folco Boffin**: 25 points
+- **Fredegar 'Fatty' Bolger**: 10 points
+- **Lobelia Sackville-Baggins**: 20 points
+- **Meriadoc Brandybuck**: 10 points
+- **Peregrin Took**: 10 points
+- **Rosie Cotton**: 20 points
 
 **WARRIORS**
 
-- Hobbit Archer: 5 points
+- **Hobbit Archer**: 5 points
   - War horn: 25 points
   - Tookish Hunters: 1 point
-- Hobbit Militia: 4 points
-- Hobbit Shirriff: 5 points
+- **Hobbit Militia**: 4 points
+- **Hobbit Shirriff**: 5 points
+
+</div>
 
 ## ADDITIONAL RULES
 

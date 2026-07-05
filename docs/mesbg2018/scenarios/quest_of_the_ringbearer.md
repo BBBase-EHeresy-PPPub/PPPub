@@ -646,7 +646,7 @@ At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn – Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
 
 All Good models have an Elven Cloak.
 

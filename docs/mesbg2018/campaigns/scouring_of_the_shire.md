@@ -123,7 +123,7 @@ Traps can be deployed anywhere on the board, although they must be deployed usin
 
 **TRIGGERING TRAPS**
 
-When Trap markers are deployed, they are always placed face-down so that the opposing player cannot tell what kind of Trap each Trap marker represents. When an enemy model moves within 1" of a Trap marker, they immediately stop moving – flip the Trap marker over and resolve the effects of the Trap that is revealed, as explained opposite. Models that reveal a Trap marker cannot continue moving after revealing the Trap; they have either fallen into the Trap or used the rest of their movement to avoid it.
+When Trap markers are deployed, they are always placed face-down so that the opposing player cannot tell what kind of Trap each Trap marker represents. When an enemy model moves within 1" of a Trap marker, they immediately stop moving - flip the Trap marker over and resolve the effects of the Trap that is revealed, as explained opposite. Models that reveal a Trap marker cannot continue moving after revealing the Trap; they have either fallen into the Trap or used the rest of their movement to avoid it.
 
 * **TRIPWIRE TRAP**
 

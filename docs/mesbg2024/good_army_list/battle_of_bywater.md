@@ -2,47 +2,51 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Meriadoc Brandybuck, Captain of the Shire: 60 points
+- **Meriadoc Brandybuck, Captain of the Shire**: 60 points
   - Elven cloak: 5 points
   - Shield: 5 points
-- Peregrin Took, Captain of the Shire: 60 points
+- **Peregrin Took, Captain of the Shire**: 60 points
   - Elven cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Baldo Tulpenny: 40 points
-- Farmer Maggot: 50 points
-- Farmer Tolman Cotton: 35 points
-- Frodo of the Nine Fingers: 70 points
+- **Baldo Tulpenny**: 40 points
+- **Farmer Maggot**: 50 points
+- **Farmer Tolman Cotton**: 35 points
+- **Frodo of the Nine Fingers**: 70 points
   - Elven Cloak: 5 points
-- Hamfast 'Gaffer' Gamgee: 35 points
-- Holfoot Bracegirdle, Shirriff-Leader: 40 points
-- Paladin Took, Thain of the Shire: 30 points
-- Robin Smallburrow, Hobbit Shirriff: 25 points
-- Samwise the Brave: 60 points
+- **Hamfast 'Gaffer' Gamgee**: 35 points
+- **Holfoot Bracegirdle, Shirriff-Leader**: 40 points
+- **Paladin Took, Thain of the Shire**: 30 points
+- **Robin Smallburrow, Hobbit Shirriff**: 25 points
+- **Samwise the Brave**: 60 points
   - Elven Cloak: 5 points
-- Will Whitfoot, Mayor of Michel Delving: 40 points
+- **Will Whitfoot, Mayor of Michel Delving**: 40 points
 
 **MINOR HEROES**
 
-- Fredegar 'Fatty' Bolger: 10 points
+- **Fredegar 'Fatty' Bolger**: 10 points
 
 **INDEPENDENT HEROES**
 
-- Folco Boffin: 25 points
-- Lobelia Sackville-Baggins: 20 points
-- Rosie Cotton: 20 points
+- **Folco Boffin**: 25 points
+- **Lobelia Sackville-Baggins**: 20 points
+- **Rosie Cotton**: 20 points
 
 **WARRIORS**
 
-- Hobbit Archer: 5 points
+- **Hobbit Archer**: 5 points
   - War horn: 25 points
   - Tookish Hunters: 1 point
-- Hobbit Militia: 4 points
+- **Hobbit Militia**: 4 points
   - Battlin' Brandybucks: 1 point
-- Hobbit Shirriff: 5 points
+- **Hobbit Shirriff**: 5 points
+
+</div>
 
 ## ADDITIONAL RULES
 

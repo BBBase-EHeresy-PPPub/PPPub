@@ -80,7 +80,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 ---
 
-## SCENARIO 3 – HOLD GROUND
+## SCENARIO 3 - HOLD GROUND
 
 **SCENARIO OUTLINE**
 
@@ -123,17 +123,17 @@ At the end of the game, the force that has scored the most Victory Points wins t
 | D6 | Result |
 |----|--------|
 | 1 | The warband does not arrive. |
-| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 4 | You choose a point on either the north or south board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 5 | You choose a point on either the east or west board edges at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
-| 6 | You choose a point on any board edge at least 6" from a corner – all models in the warband move onto the battlefield from this point. |
+| 2 | Your opponent chooses a point on either the north or south board edges at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
+| 3 | Your opponent chooses a point on either the east or west board edges at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
+| 4 | You choose a point on either the north or south board edges at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
+| 5 | You choose a point on either the east or west board edges at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
+| 6 | You choose a point on any board edge at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
 
 ![](../media/scenarios/matched_play_guide/scenario_hold_ground_matched.jpg)
 
 ---
 
-## SCENARIO 4 – LORDS OF BATTLE
+## SCENARIO 4 - LORDS OF BATTLE
 
 **SCENARIO OUTLINE**
 
@@ -179,7 +179,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 ---
 
-## SCENARIO 5 – RECONNOITRE
+## SCENARIO 5 - RECONNOITRE
 
 **SCENARIO OUTLINE**
 
@@ -235,7 +235,7 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 
 ---
 
-## SCENARIO 6 – A CLASH BY MOONLIGHT
+## SCENARIO 6 - A CLASH BY MOONLIGHT
 
 **SCENARIO OUTLINE**
 
@@ -327,7 +327,7 @@ Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Li
 
 ---
 
-## SCENARIO 8 – CONTEST OF CHAMPIONS
+## SCENARIO 8 - CONTEST OF CHAMPIONS
 
 **SCENARIO OUTLINE**
 
@@ -493,7 +493,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 ---
 
-## SCENARIO 11 – FOG OF WAR
+## SCENARIO 11 - FOG OF WAR
 
 **SCENARIO OUTLINE**
 

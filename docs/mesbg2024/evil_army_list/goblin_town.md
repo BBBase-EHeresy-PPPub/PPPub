@@ -2,24 +2,28 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- The Goblin King: 150 points
+- **The Goblin King**: 150 points
 
 **HEROES OF FORTITUDE**
 
-- Goblin Captain: 40 points
-- Grinnah, Goblin Jailer: 50 points
-- The Goblin Scribe: 50 points
+- **Goblin Captain**: 40 points
+- **Grinnah, Goblin Jailer**: 50 points
+- **The Goblin Scribe**: 50 points
 
 **INDEPENDENT HEROES**
 
-- Gollum: 40 points
+- **Gollum**: 40 points
 
 **WARRIORS**
 
-- Goblin Warrior: 5 points
+- **Goblin Warrior**: 5 points
   - Two-handed weapon: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

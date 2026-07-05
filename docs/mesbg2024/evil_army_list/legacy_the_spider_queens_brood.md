@@ -2,23 +2,27 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- The Spider Queen: 120 points
+- **The Spider Queen**: 120 points
 
 **HEROES OF FORTITUDE**
 
-- Bat Swarm: 35 points
-- Fell Warg: 8 points
-- Mirkwood Giant Spider: 20 points
-- Mirkwood Hunting Spider: 20 points
+- **Bat Swarm**: 35 points
+- **Fell Warg**: 8 points
+- **Mirkwood Giant Spider**: 20 points
+- **Mirkwood Hunting Spider**: 20 points
 
 **WARRIORS**
 
-- Bat Swarm: 35 points
-- Fell Warg: 8 points
-- Mirkwood Giant Spider: 20 points
-- Mirkwood Hunting Spider: 20 points
+- **Bat Swarm**: 35 points
+- **Fell Warg**: 8 points
+- **Mirkwood Giant Spider**: 20 points
+- **Mirkwood Hunting Spider**: 20 points
+
+</div>
 
 ## ADDITIONAL RULES
 

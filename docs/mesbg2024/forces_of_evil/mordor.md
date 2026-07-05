@@ -29,10 +29,14 @@
 
 - Master of Battle (2+)
 
-**ACTIVE/PASSIVE RULES**
+- **"The time of the Orc has come"** `ACTIVE`
 
-- **"The time of the Orc has come"** `ACTIVE` - Once per game, at the start of any Fight phase, all friendly Mordor Orc models within 12" may re-roll failed To Wound rolls when making Strikes.
-- **"The Age of Men is Over"** `PASSIVE` - Friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
+Once per game, at the start of any Fight phase, all friendly Mordor Orc models within 12" may re-roll failed To Wound rolls when making Strikes.
+
+- **"The Age of Men is Over"** `PASSIVE`
+
+Friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
+
 
 </div>
 
@@ -79,12 +83,22 @@
 - Resistant to Magic
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **The Lord of the Rings** `ACTIVE`
 
-- **The Lord of the Rings** `ACTIVE` - Free point of Will to be spent each turn.
-- **The One Ring** `PASSIVE` - Does not follow normal rules for the One Ring. Instead, roll a D6 each time Sauron loses his last Wound. On 2+, restore 1 Wound. May use Might to improve this roll
-- **Unstoppable!** `BRUTAL POWER ATTACK` - Can make one Strength 8 hit on all models involved in the Combat, including all supporting models.
-- **The Flames of Evil** `BRUTAL POWER ATTACK` - Can make a Strength 10 strike against one model. If they survive, they are Set Ablaze and knocked Prone.
+Free point of Will to be spent each turn.
+
+- **The One Ring** `PASSIVE`
+
+Does not follow normal rules for the One Ring. Instead, roll a D6 each time Sauron loses his last Wound. On 2+, restore 1 Wound. May use Might to improve this roll
+
+- **Unstoppable!** `BRUTAL POWER ATTACK`
+
+Can make one Strength 8 hit on all models involved in the Combat, including all supporting models.
+
+- **The Flames of Evil** `BRUTAL POWER ATTACK`
+
+Can make a Strength 10 strike against one model. If they survive, they are Set Ablaze and knocked Prone.
+
 
 </div>
 
@@ -141,10 +155,14 @@
 - Terror
 - Will of Evil
 
-**ACTIVE/PASSIVE RULES**
+- **Morgul Blade** `ACTIVE`
 
-- **Morgul Blade** `ACTIVE` - Once per game, direct all attacks against one model, and if they suffer at least one wound that is not prevented by Fate, they are instantly killed.
-- **Crown of Morgul** `PASSIVE` - Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for Heroic Resolve. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his hand weapon, and until the end of the turn, any model that suffers a Wound from the Witch-king is Set Ablaze.
+Once per game, direct all attacks against one model, and if they suffer at least one wound that is not prevented by Fate, they are instantly killed.
+
+- **Crown of Morgul** `PASSIVE`
+
+Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for Heroic Resolve. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his hand weapon, and until the end of the turn, any model that suffers a Wound from the Witch-king is Set Ablaze.
+
 
 </div>
 
@@ -218,9 +236,10 @@
 - Harbinger of Evil (6")
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Sense of Impending Doom** `PASSIVE`
 
-- **Sense of Impending Doom** `PASSIVE` - Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll, regardless of special rules that would normally allow them to do so.
+Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll, regardless of special rules that would normally allow them to do so.
+
 
 </div>
 
@@ -268,9 +287,10 @@
 - Terror
 - Will of Evil
 
-**ACTIVE/PASSIVE RULES**
+- **Morgul Blade** `ACTIVE`
 
-- **Morgul Blade** `ACTIVE` - Once per game, direct all attacks against one model, and if they suffer at least one wound that is not prevented by Fate, they are instantly killed.
+Once per game, direct all attacks against one model, and if they suffer at least one wound that is not prevented by Fate, they are instantly killed.
+
 
 </div>
 
@@ -301,9 +321,10 @@
 
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Visage of Terror** `PASSIVE`
 
-- **Visage of Terror** `PASSIVE` - If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+
 
 </div>
 
@@ -328,10 +349,16 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Easterling Halberd** `ACTIVE` - This weapon can be used as either a pike or two-handed weapon.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+- **Easterling Halberd** `ACTIVE`
+
+This weapon can be used as either a pike or two-handed weapon.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
 
 </div>
 
@@ -357,10 +384,16 @@
 - Heroic Strike
 - Heroic Challenge
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Orcish Brawler** `ACTIVE` - If outnumbered in a Combat, Gorbag gains +1 to his Attack value for the duration of the Combat.
-- **Adaptive Fighter** `ACTIVE` - If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat, and that model must back away in a direction chosen by Gorbag. For example, they may be forced to back away over the edge of cliff, and take fall damage. Other models then back away as normal and Strikes are resolved.
+- **Orcish Brawler** `ACTIVE`
+
+If outnumbered in a Combat, Gorbag gains +1 to his Attack value for the duration of the Combat.
+
+- **Adaptive Fighter** `ACTIVE`
+
+If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat, and that model must back away in a direction chosen by Gorbag. For example, they may be forced to back away over the edge of cliff, and take fall damage. Other models then back away as normal and Strikes are resolved.
+
 
 </div>
 
@@ -385,9 +418,12 @@
 
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Gothmog's Right Hand** `PASSIVE` - If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move or Heroic March, instead of spending his own Might points. Additionally, when Gothmog declares a Heroic March or Heroic Move within 3" of Gothmog's Enforcer, Gothmog can measure the range of the With Me or At the Double from Gothmog's Enforcer, rather than himself.
+- **Gothmog's Right Hand** `PASSIVE`
+
+If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move or Heroic March, instead of spending his own Might points. Additionally, when Gothmog declares a Heroic March or Heroic Move within 3" of Gothmog's Enforcer, Gothmog can measure the range of the With Me or At the Double from Gothmog's Enforcer, rather than himself.
+
 
 </div>
 
@@ -413,10 +449,16 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Master of Reserves** `PASSIVE` - In Scenarios where you roll for Warbands to arrive, even if Guritz is not on the battlefield, you may modify the roll for Guritz' Warband by +1 or -1. If he is already on the battlefield, you may modify the roll for other Warbands in your army.
-- **End the Race of Man** `ACTIVE` - Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his Fight value.
+- **Master of Reserves** `PASSIVE`
+
+In Scenarios where you roll for Warbands to arrive, even if Guritz is not on the battlefield, you may modify the roll for Guritz' Warband by +1 or -1. If he is already on the battlefield, you may modify the roll for other Warbands in your army.
+
+- **End the Race of Man** `ACTIVE`
+
+Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his Fight value.
+
 
 </div>
 
@@ -446,9 +488,12 @@
 - Shield: 5 points
 - Two-handed weapon: 5 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **End the Race of Man** `ACTIVE` - Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
+- **End the Race of Man** `ACTIVE`
+
+Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
+
 
 </div>
 
@@ -498,9 +543,12 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Whip of the Masters** `ACTIVE` - Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, that action is free for that Hero.
+- **Whip of the Masters** `ACTIVE`
+
+Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, that action is free for that Hero.
+
 
 </div>
 
@@ -559,9 +607,12 @@
 
 - Two-handed weapon: 5 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Cleaving Blow** `ACTIVE` - If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+- **Cleaving Blow** `ACTIVE`
+
+If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+
 
 </div>
 
@@ -592,10 +643,14 @@
 
 - General Hunter
 
-**ACTIVE/PASSIVE RULES**
+- **Hands off the shiny shirt, that's mine!** `ACTIVE`
 
-- **Hands off the shiny shirt, that's mine!** `ACTIVE` - During a Scenario that involves picking up and carrying Objectives, and during his Move, Shagrat can choose a friendly model within 3" who is carrying an Objective and take an Intelligence test. If passed, he gains possession of the Objective, even if not normally allowed to be passed. He can also carry multiple Objectives, even if the Scenario normally doesn't allow for it.
-- **Cleaving Blow** `ACTIVE` - If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+During a Scenario that involves picking up and carrying Objectives, and during his Move, Shagrat can choose a friendly model within 3" who is carrying an Objective and take an Intelligence test. If passed, he gains possession of the Objective, even if not normally allowed to be passed. He can also carry multiple Objectives, even if the Scenario normally doesn't allow for it.
+
+- **Cleaving Blow** `ACTIVE`
+
+If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+
 
 </div>
 
@@ -680,12 +735,22 @@
 - Terror
 - Venom
 
-**ACTIVE/PASSIVE RULES**
+- **Lone Hunter** `PASSIVE`
 
-- **Lone Hunter** `PASSIVE` - Shelob may never be taken as part of another model's Warband, or benefit from the Heroic Actions of other models.
-- **She is always hungry** `PASSIVE` - If not Engagement in Combat at the start of her Activation, Shelob can kill a friendly model within 1". If she does, until the end of that turn, she may re-roll one dice in any Duel roll.
-- **She hungers for sweeter meats** `PASSIVE` - Shelob gains +1 Attack whilst Engaged in Combat with an enemy Man, Elf Dwarf or Hobbit model.
-- **Caught in a Web** `BRUTAL POWER ATTACK` - Shelob can choose to direct a single strike at one model in the Combat. That model suffers one Strength 8 hit, and if it survives, the model is treated as being under the effect of the Paralyse magical power. The model will also not automatically recover if Shelob is slain, leaves the board, or reduced to zero Will points.
+Shelob may never be taken as part of another model's Warband, or benefit from the Heroic Actions of other models.
+
+- **She is always hungry** `PASSIVE`
+
+If not Engagement in Combat at the start of her Activation, Shelob can kill a friendly model within 1". If she does, until the end of that turn, she may re-roll one dice in any Duel roll.
+
+- **She hungers for sweeter meats** `PASSIVE`
+
+Shelob gains +1 Attack whilst Engaged in Combat with an enemy Man, Elf Dwarf or Hobbit model.
+
+- **Caught in a Web** `BRUTAL POWER ATTACK`
+
+Shelob can choose to direct a single strike at one model in the Combat. That model suffers one Strength 8 hit, and if it survives, the model is treated as being under the effect of the Paralyse magical power. The model will also not automatically recover if Shelob is slain, leaves the board, or reduced to zero Will points.
+
 
 </div>
 
@@ -718,9 +783,10 @@
 
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Visage of Terror** `PASSIVE`
 
-- **Visage of Terror** `PASSIVE` - If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+
 
 </div>
 
@@ -746,9 +812,10 @@
 
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Visage of Terror** `PASSIVE`
 
-- **Visage of Terror** `PASSIVE` - If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+
 
 </div>
 
@@ -776,10 +843,16 @@
 - Shield: 1 point
 - Bow: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Easterling Halberd** `ACTIVE` - This weapon can be used as either a pike or two-handed weapon.
-- **Phalanx** `ACTIVE` - Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+- **Easterling Halberd** `ACTIVE`
+
+This weapon can be used as either a pike or two-handed weapon.
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
 
 </div>
 
@@ -807,9 +880,12 @@
 - Shield: 1 point
 - Spear: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **End the Race of Man** `ACTIVE` - Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
+- **End the Race of Man** `ACTIVE`
+
+Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
+
 
 </div>
 
@@ -890,9 +966,12 @@
 
 - Two-handed weapon: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Cleaving Blow** `ACTIVE` - If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+- **Cleaving Blow** `ACTIVE`
+
+If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
+
 
 </div>
 
@@ -946,9 +1025,10 @@
 - Blades of the Dead
 - Spectral Walk
 
-**ACTIVE/PASSIVE RULES**
+- **A Fell Light is in Them** `ACTIVE`
 
-- **A Fell Light is in Them** `ACTIVE` - At the end of spectre's move, it can choose an enemy model within 12" and in Line of Sight. The model must pass an Intelligence test. If failed, you may move that model directly towards the spectre, up to its maximum Move value, even if it has already moved that turn. The model will stop moving if it would enter an enemy Control Zone (though they will never count as charging in this instance, and therefore cannot be involved in Combat with them), comes into contact with an Obstacle, impassable terrain, cliff edge, or another model. This cannot be used to move a model out of Combat, make them dismount, drop an item, or Lie Down. However this move can be used to make the model Charge the spectre. A model affected by this special rule cannot Move any further that turn, and may not use Active abilities.
+At the end of spectre's move, it can choose an enemy model within 12" and in Line of Sight. The model must pass an Intelligence test. If failed, you may move that model directly towards the spectre, up to its maximum Move value, even if it has already moved that turn. The model will stop moving if it would enter an enemy Control Zone (though they will never count as charging in this instance, and therefore cannot be involved in Combat with them), comes into contact with an Obstacle, impassable terrain, cliff edge, or another model. This cannot be used to move a model out of Combat, make them dismount, drop an item, or Lie Down. However this move can be used to make the model Charge the spectre. A model affected by this special rule cannot Move any further that turn, and may not use Active abilities.
+
 
 </div>
 
@@ -972,10 +1052,14 @@
 
 - Direct Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Accurate** `ACTIVE`
 
-- **Accurate** `ACTIVE` - A Mordor Siege Bow will only Scatter 3" rather than 6".
-- **Piercing Shot** `ACTIVE` - A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+A Mordor Siege Bow will only Scatter 3" rather than 6".
+
+- **Piercing Shot** `ACTIVE`
+
+A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+
 
 **ADDITIONAL PROFILES**
 
@@ -1005,11 +1089,18 @@
 
 - Arcing Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Troll Loader** `ACTIVE`
 
-- **Troll Loader** `ACTIVE` - May re-roll the To Hit roll if the Siege Troll is one of the models firing the catapult this turn.
-- **Area Effect** `ACTIVE` - After rolling To Hit against a Battlefield Target, all other models within 2" of them suffer a Strength 5 and will be knocked Prone.
-- **Wall-breaker** `ACTIVE` - When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+May re-roll the To Hit roll if the Siege Troll is one of the models firing the catapult this turn.
+
+- **Area Effect** `ACTIVE`
+
+After rolling To Hit against a Battlefield Target, all other models within 2" of them suffer a Strength 5 and will be knocked Prone.
+
+- **Wall-breaker** `ACTIVE`
+
+When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+
 
 **ADDITIONAL PROFILES**
 

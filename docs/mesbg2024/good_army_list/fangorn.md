@@ -2,25 +2,29 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Treebeard: 190 points
+- **Treebeard**: 190 points
   - Merry & Pippin: 10 points
   - Elven Cloak (Merry): 5 points
   - Elven Cloak (Pippin): 5 points
 
 **HEROES OF FORTITUDE**
 
-- Beechbone: 150 points
-- Birchseed: 150 points
+- **Beechbone**: 150 points
+- **Birchseed**: 150 points
 
 **WARRIORS**
 
-- Ent: 100 points
+- **Ent**: 100 points
   - Beech: Free
   - Oak: Free
   - Chestnut: Free
   - Ash: Free
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,39 +2,43 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- The Balrog: 350 points
+- **The Balrog**: 350 points
 
 **HEROES OF FORTITUDE**
 
-- Moria Blackshield Captain: 45 points
-- Moria Goblin Captain: 40 points
+- **Moria Blackshield Captain**: 45 points
+- **Moria Goblin Captain**: 40 points
   - Orc bow: 5 points
 
 **MINOR HEROES**
 
-- Moria Blackshield Shaman: 50 points
-- Moria Goblin Shaman: 45 points
+- **Moria Blackshield Shaman**: 50 points
+- **Moria Goblin Shaman**: 45 points
 
 **INDEPENDENT HEROES**
 
-- The Watcher in the Water: 200 points
+- **The Watcher in the Water**: 200 points
 
 **WARRIORS**
 
-- Cave Troll: 75 points
+- **Cave Troll**: 75 points
   - Hand-and-a-half weapon: 5 points
   - Troll Spear: 5 points
-- Moria Blackshield Drum: 75 points
-- Moria Blackshield Warrior: 8 points
+- **Moria Blackshield Drum**: 75 points
+- **Moria Blackshield Warrior**: 8 points
   - Spear: 1 point
-- Moria Goblin Drum: 75 points
-- Moria Goblin Prowler: 7 points
-- Moria Goblin Warrior: 4 points
+- **Moria Goblin Drum**: 75 points
+- **Moria Goblin Prowler**: 7 points
+- **Moria Goblin Warrior**: 4 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
+
+</div>
 
 ## SPECIAL RULES
 

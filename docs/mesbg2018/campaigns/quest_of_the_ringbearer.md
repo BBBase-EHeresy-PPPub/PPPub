@@ -8,7 +8,7 @@ You can play this campaign with as few as two people or, if you wish, different 
 
 **LINKING YOUR GAMES**
 
-Here we present rules on how to join your games together as you follow the journey to destroy the Ring. There are rules for what happens when members of the Fellowship are slain in battle, bonuses between Scenarios, and even how your Heroes regain their strength between games and recover their spent Might, Will, and Fate points – if they aren't too weary of course.
+Here we present rules on how to join your games together as you follow the journey to destroy the Ring. There are rules for what happens when members of the Fellowship are slain in battle, bonuses between Scenarios, and even how your Heroes regain their strength between games and recover their spent Might, Will, and Fate points - if they aren't too weary of course.
 
 **SURVIVING THE JOURNEY**
 
@@ -16,9 +16,9 @@ There is a very real likelihood that some members of the Fellowship or their all
 
 | D6  | Result |
 | --- | --- |
-| **1** | **Dead** – This Hero has been slain in battle. If Frodo is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
-| **2-3** | **Wounded** – This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
-| **4+** | **Recovered** – This Hero regains 1 Wound and then may recover as normal. |
+| **1** | **Dead** - This Hero has been slain in battle. If Frodo is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
+| **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
+| **4+** | **Recovered** - This Hero regains 1 Wound and then may recover as normal. |
 
 Additionally, if the **Good** player wins the Scenario, all their **Hero models** will gain a bonus of +1 to their rolls on the Campaign Injury table.
 
@@ -42,7 +42,7 @@ At certain points in the campaign Frodo and his companions will have the chance 
 
 **SCENARIO BONUSES**
 
-After each Scenario has been completed, it is important to note down which side won that Scenario, either **Good** or **Evil**. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in the next Scenario. For example, if the **Good** side is victorious in the *Short Cuts Make Long Delays* Scenario, the **Good** side will receive a bonus in the *Buckleberry Ferry* Scenario – the next Scenario in the campaign. These bonuses reflect the advantages of success and the edge it will give either side in a future Scenario in the campaign.
+After each Scenario has been completed, it is important to note down which side won that Scenario, either **Good** or **Evil**. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in the next Scenario. For example, if the **Good** side is victorious in the *Short Cuts Make Long Delays* Scenario, the **Good** side will receive a bonus in the *Buckleberry Ferry* Scenario - the next Scenario in the campaign. These bonuses reflect the advantages of success and the edge it will give either side in a future Scenario in the campaign.
 
 ---
 
@@ -64,7 +64,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In 'The Old Forest' Scenario, the Hobbits may only move half of their Move allowance during the first turn.
 
-### (*) CRICKHOLLOW – REST POINT
+### (*) CRICKHOLLOW - REST POINT
 
 ### (4) [THE OLD FOREST](../scenarios/quest_of_the_ringbearer.md#the-old-forest)
 
@@ -78,7 +78,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the 'Nazgûl in Bree' Scenario, Good models may only move half their normal Move allowance on the first turn.
 
-### (*) HOUSE OF TOM BOMBADIL – REST POINT
+### (*) HOUSE OF TOM BOMBADIL - REST POINT
 
 ### (6) [NAZGÛL IN BREE](../scenarios/quest_of_the_ringbearer.md#nazgul-in-bree)
 
@@ -98,7 +98,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the 'Pass of Caradhras' Scenario, the Evil player may bury one card from the western-most column before the first turn of the game.
 
-### (*) RIVENDELL – REST POINT
+### (*) RIVENDELL - REST POINT
 
 ### (9) [THE PASS OF CARADHRAS](../scenarios/quest_of_the_ringbearer.md#the-pass-of-caradhras)
 
@@ -142,7 +142,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the 'Aragorn's Stand' Scenario, the Good player subtracts 1 from the roll when determining if Legolas and Gimli have arrived.
 
-### (*) LOTHLÓRIEN – REST POINT
+### (*) LOTHLÓRIEN - REST POINT
 
 ### (16) [ARAGORN'S STAND](../scenarios/quest_of_the_ringbearer.md#aragorns-stand)
 
@@ -186,7 +186,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Evil Victory:** In the 'Osgiliath' Scenario, Evil reinforcements return to the board on a 3+ rather than a 4+.
 
-### (*) ITHILIEN – REST POINT
+### (*) ITHILIEN - REST POINT
 
 ### (23) [OSGILIATH](../scenarios/quest_of_the_ringbearer.md#osgiliath)
 
@@ -255,7 +255,7 @@ If Bilbo Baggins from the Thorin's Company army list is chosen then his Companio
 
 *STEP 3: THE REST OF YOUR FELLOWSHIP*
 
-With your Ringbearer and Companion now selected, it is time to choose the remaining members of your Fellowship to join them in their journey. Each chosen member will have to replace a certain character from the original Fellowship, and will replace that character in all the Scenarios that would have featured them along the way – so decide which of your chosen members replaces which original members wisely!
+With your Ringbearer and Companion now selected, it is time to choose the remaining members of your Fellowship to join them in their journey. Each chosen member will have to replace a certain character from the original Fellowship, and will replace that character in all the Scenarios that would have featured them along the way - so decide which of your chosen members replaces which original members wisely!
 
 Merry and Pippin may be replaced by any named Hero models in the game, however, neither may cost more than 50 points each, including any wargear purchased for them.
 
@@ -265,11 +265,11 @@ If Saruman the White is selected as your Wizard then you may select Gríma Wormt
 
 There are a few additional rules to take into account when selecting your Fantasy Fellowship, which are detailed below:
 
-* Naturally, all of your Hero models must be from the Good side – no Evil models here!
+* Naturally, all of your Hero models must be from the Good side - no Evil models here!
 
-* The total cost of your Fellowship may not exceed 750 points – so choose carefully!
+* The total cost of your Fellowship may not exceed 750 points - so choose carefully!
 
-* If you choose another character who can take The Ring, they do not get it in this campaign – you have already selected your Ringbearer after all!
+* If you choose another character who can take The Ring, they do not get it in this campaign - you have already selected your Ringbearer after all!
 
 * Models may purchase additional wargear from their profile. 
 
@@ -307,9 +307,9 @@ There is a very real likelihood that some members of your Fellowship will perish
 
 | D6  | Result |
 | --- | --- |
-| **1** | **Dead** – This Hero has been slain in battle. If your Ringbearer is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
-| **2-3** | **Wounded** – This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
-| **4+** | **Recovered** – This Hero regains 1 Wound and then may recover as normal. |
+| **1** | **Dead** - This Hero has been slain in battle. If your Ringbearer is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
+| **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
+| **4+** | **Recovered** - This Hero regains 1 Wound and then may recover as normal. |
 
 Additionally, if the Good player wins the Scenario, all their **Hero** models will gain a bonus of +1 to their rolls on the Campaign Injury Table.
 
@@ -341,7 +341,7 @@ For example, if you have chosen Éomer as part of your Fantasy Fellowship, then 
 
 ---
 
-### (*) HOUSE OF TOM BOMBADIL – REST POINT
+### (*) HOUSE OF TOM BOMBADIL - REST POINT
 
 ---
 
@@ -353,47 +353,47 @@ For example, if you have chosen Éomer as part of your Fantasy Fellowship, then 
 
 ### (3) [WEATHERTOP](../scenarios/quest_of_the_ringbearer.md#weathertop)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider
 
 ---
 
-### (*) RIVENDELL – REST POINT
+### (*) RIVENDELL - REST POINT
 
 ---
 
 ### (4) [WARGS IN THE NIGHT](../scenarios/quest_of_the_ringbearer.md#wargs-in-the-night)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
 
 ---
 
 ### (5) [BALIN'S TOMB](../scenarios/quest_of_the_ringbearer.md#balins-tomb)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
 
 ---
 
 ### (6) [ESCAPE FROM DWARROWDELF](../scenarios/quest_of_the_ringbearer.md#escape-from-dwarrowdelf)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
 
 ---
 
 ### (7) [THE BRIDGE OF KHAZAD-DÛM](../scenarios/quest_of_the_ringbearer.md#the-bridge-of-khazad-dum)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin; Gandalf the Grey; Boromir of Gondor
 
 In this Scenario, whichever Hero replaced Gandalf may cast the Sorcerous Blast Magical Power on the bridge for the purposes of the Scenario.
 
 ---
 
-### (*) LOTHLÓRIEN – REST POINT
+### (*) LOTHLÓRIEN - REST POINT
 
 ---
 
 ### (8) [AMBUSH AT AMON HEN](../scenarios/quest_of_the_ringbearer.md#ambush-at-amon-hen)
 
-**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor
+**Fellowship Members:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor
 
 ---
 
@@ -405,23 +405,23 @@ In this Scenario, whichever Hero replaced Gandalf may cast the Sorcerous Blast M
 
 ### (10) [WARG ATTACK](../scenarios/war_in_rohan.md#warg-attack)
 
-**Fellowship Members:** Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin
+**Fellowship Members:** Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin
 
 ---
 
-### (*) HELM'S DEEP – REST POINT FOR ARAGORN, LEGOLAS, AND GIMLI
+### (*) HELM'S DEEP - REST POINT FOR ARAGORN, LEGOLAS, AND GIMLI
 
 ---
 
 ### (11) [THE DEEPING WALL IS BREACHED](../scenarios/war_in_rohan.md#the-deeping-wall-is-breached)
 
-**Fellowship Members:** Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin
+**Fellowship Members:** Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin
 
 ---
 
 ### (12) [RIDE OUT](../scenarios/war_in_rohan.md#ride-out)
 
-**Fellowship Members:** Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin
+**Fellowship Members:** Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin
 
 ---
 
@@ -439,7 +439,7 @@ In this Scenario, whichever Hero replaced Gandalf may be mounted upon a horse, e
 
 ---
 
-### (*) ITHILIEN – REST POINT FOR FRODO AND SAM
+### (*) ITHILIEN - REST POINT FOR FRODO AND SAM
 
 ---
 
@@ -461,7 +461,7 @@ In this Scenario, whichever Hero replaced Gandalf may be mounted upon a horse, e
 
 ---
 
-### (*) MINAS TIRITH – REST POINT FOR GANDALF AND PIPPIN
+### (*) MINAS TIRITH - REST POINT FOR GANDALF AND PIPPIN
 
 ---
 
@@ -471,7 +471,7 @@ In this Scenario, whichever Hero replaced Gandalf may be mounted upon a horse, e
 
 ---
 
-### (*) EDORAS – REST POINT FOR MERRY
+### (*) EDORAS - REST POINT FOR MERRY
 
 ---
 
@@ -491,11 +491,11 @@ In this Scenario, whichever **Hero** replaced Merry starts the game as a passeng
 
 ### (21) [THE DOCKS OF HARLOND](../scenarios/gondor_at_war.md#the-docks-of-harlond)
 
-**Fellowship Members:** Aragorn – Strider; Legolas Greenleaf; Gimli, son of Glóin
+**Fellowship Members:** Aragorn - Strider; Legolas Greenleaf; Gimli, son of Glóin
 
 ---
 
-### MINAS TIRITH – REST POINT FOR ARAGORN, LEGOLAS, GIMLI, GANDALF, MERRY, AND PIPPIN
+### MINAS TIRITH - REST POINT FOR ARAGORN, LEGOLAS, GIMLI, GANDALF, MERRY, AND PIPPIN
 
 ---
 
@@ -536,19 +536,19 @@ Your Ringbearer gains both Sting and the Mithril Coat, unless your chosen Ringbe
 
 When the Fellowship reaches the woodland realm of Lothlórien, they are presented with a series of gifts by the Galadhrim. All surviving members of your Fellowship (except Gandalf) are given Elven Cloaks. Additionally, each member is given a specific gift depending on the character they are representing as listed here:
 
-**Frodo – Light of Eärendil** `ACTIVE` – Each turn Frodo may use a single 'free' Will point to attempt to cast the Blinding Light Magical Power. This is cast on a 3+ and cannot be Channelled. Frodo cannot use this if he is wearing the Ring.
+**Frodo - Light of Eärendil** `ACTIVE` - Each turn Frodo may use a single 'free' Will point to attempt to cast the Blinding Light Magical Power. This is cast on a 3+ and cannot be Channelled. Frodo cannot use this if he is wearing the Ring.
 
-**Sam – Elven Rope** `ACTIVE` – The bearer always counts as rolling a 6 for any Climb, Jump or Leap tests that he has to make.
+**Sam - Elven Rope** `ACTIVE` - The bearer always counts as rolling a 6 for any Climb, Jump or Leap tests that he has to make.
 
-**Merry & Pippin – Daggers of the Noldorin** `ACTIVE` – The bearer may re-roll any failed To Wound rolls in combat.
+**Merry & Pippin - Daggers of the Noldorin** `ACTIVE` - The bearer may re-roll any failed To Wound rolls in combat.
 
-**Aragorn – Elven Dagger** `ACTIVE` – This is an Elven-made dagger with the Uruk-haibane special rule.
+**Aragorn - Elven Dagger** `ACTIVE` - This is an Elven-made dagger with the Uruk-haibane special rule.
 
-**Legolas – Bow of the Galadhrim** `ACTIVE` – Whilst within 3" of a friendly model, the bearer may re-roll any failed To Hit rolls when shooting.
+**Legolas - Bow of the Galadhrim** `ACTIVE` - Whilst within 3" of a friendly model, the bearer may re-roll any failed To Hit rolls when shooting.
 
-**Gimli – Galadriel's Locks** `ACTIVE` – Gimli may re-roll all dice in a Duel roll. Gimli may only use this ability three times per game.
+**Gimli - Galadriel's Locks** `ACTIVE` - Gimli may re-roll all dice in a Duel roll. Gimli may only use this ability three times per game.
 
-**Boromir – Golden Belt** `ACTIVE` – The bearer gains the Woodland Creature special rule.
+**Boromir - Golden Belt** `ACTIVE` - The bearer gains the Woodland Creature special rule.
 
 **HELM'S DEEP**
 

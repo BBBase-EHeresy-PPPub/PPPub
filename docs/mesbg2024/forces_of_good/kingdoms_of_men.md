@@ -22,10 +22,16 @@
 - Heroic Resolve
 - Heroic Strength
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Lord of Dale** `ACTIVE` - Brand's Stand Fast! Is 12" rather than 6".
-- **Stoic Fighter** `ACTIVE` - At the start of any Combat involving Brand, if he would be Trapped upon losing the Duel roll, he may re-roll a single D6 in the Duel roll, and a single D6 when rolling To Wound.
+- **Lord of Dale** `ACTIVE`
+
+Brand's Stand Fast! Is 12" rather than 6".
+
+- **Stoic Fighter** `ACTIVE`
+
+At the start of any Combat involving Brand, if he would be Trapped upon losing the Duel roll, he may re-roll a single D6 in the Duel roll, and a single D6 when rolling To Wound.
+
 
 </div>
 
@@ -55,10 +61,14 @@
 
 - Hatred (Dragon)
 
-**ACTIVE/PASSIVE RULES**
+- **Windlance Trained** `PASSIVE`
 
-- **Windlance Trained** `PASSIVE` - If Girion takes a Windlance, he will be the only crew, but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
-- **Lord of Dale** `PASSIVE` - Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
+If Girion takes a Windlance, he will be the only crew, but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
+
+- **Lord of Dale** `PASSIVE`
+
+Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
+
 
 </div>
 
@@ -87,9 +97,12 @@
 - Heroic Resolve
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Wall of Blades** `ACTIVE` - This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+- **Wall of Blades** `ACTIVE`
+
+This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+
 
 </div>
 
@@ -117,11 +130,18 @@
 
 - Fearful
 
-**ACTIVE/PASSIVE RULES**
+- **Moneybags** `ACTIVE`
 
-- **Moneybags** `ACTIVE` - At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a banner until the end of the turn.
-- **Price of Greed** `PASSIVE` - At the beginning of the game, your opponent must choose one of their Hero models to be the bearer of a large sum of gold. If the chosen Hero model Moves into base contact with the Master of Lake-town, then the Master of Lake-town must immediately take a Courage Test. If the test is failed, then the Master of Lake-town immediately flees and is removed as a casualty.
-- **Save the Gold!** `PASSIVE` - Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as a casualty, the Master of Lake-town immediately regains a single Will Point spent earlier in the battle. Additionally, if the Master of Lake-town is in base contact with an Objective Marker during the End Phase of a turn, he may regain a single Will Point spent earlier in the battle.
+At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a banner until the end of the turn.
+
+- **Price of Greed** `PASSIVE`
+
+At the beginning of the game, your opponent must choose one of their Hero models to be the bearer of a large sum of gold. If the chosen Hero model Moves into base contact with the Master of Lake-town, then the Master of Lake-town must immediately take a Courage Test. If the test is failed, then the Master of Lake-town immediately flees and is removed as a casualty.
+
+- **Save the Gold!** `PASSIVE`
+
+Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as a casualty, the Master of Lake-town immediately regains a single Will Point spent earlier in the battle. Additionally, if the Master of Lake-town is in base contact with an Objective Marker during the End Phase of a turn, he may regain a single Will Point spent earlier in the battle.
+
 
 </div>
 
@@ -141,15 +161,18 @@
 
 - Unarmed
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Dubious Counsel** `ACTIVE` - At the start of his Activation, Alfrid may choose a single other friendly Lake-town Hero model within 6" of him. Roll a D6 and consult the table below to see what effect Alfrid's counsel has had. Alfrid may spend his Will Points to alter the score on the D6 either up or down by 1 for each Will Point spent in this manner.
+- **Dubious Counsel** `ACTIVE`
+
+At the start of his Activation, Alfrid may choose a single other friendly Lake-town Hero model within 6" of him. Roll a D6 and consult the table below to see what effect Alfrid's counsel has had. Alfrid may spend his Will Points to alter the score on the D6 either up or down by 1 for each Will Point spent in this manner.
 1. The chosen Hero loses a Might Point and Alfrid gains a Might Point. If the chosen Hero has no Might Points remaining, this has no effect.
 2. The chosen Hero immediately regains a single Will Point spent earlier in the battle.
 3. The chosen Hero may re-roll To Wound Rolls of a natural 1 when making Strikes until the end of the turn.
 4. The chosen Hero gains the Fearless special rule until the end of the turn.
 5. The chosen Hero increases their Fight Value by 1 until the end of the turn.
 6. The chosen Hero immediately regains a single Might Point spent earlier in the battle.
+
 
 </div>
 
@@ -188,12 +211,22 @@
 - Sworn Protector (Sigrid)
 - Sworn Protector (Tilda)
 
-**ACTIVE/PASSIVE RULES**
+- **Rapid Fire** `ACTIVE`
 
-- **Rapid Fire** `ACTIVE` - If Bard hits a target with his great bow, he may make another shooting attack with his great bow that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
-- **Swift Shot** `ACTIVE` - Never suffers -1 penalty for moving and shooting.
-- **The Black Arrow** `ACTIVE` - If Bard takes the Windlance, then once per game Bard can fire the Black Arrow. If he does, declare this before rolling To Hit. Bard may re-roll any failed To Hit and In The Way rolls. Furthermore, do not roll on the Scatter Table- a successful To Hit Roll against a Battlefield Target will always count as a Dead On result.
-- **Windlance Trained** `PASSIVE` - If Bard takes a Windlance, he will be the only crew. but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
+If Bard hits a target with his great bow, he may make another shooting attack with his great bow that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
+
+- **Swift Shot** `ACTIVE`
+
+Never suffers -1 penalty for moving and shooting.
+
+- **The Black Arrow** `ACTIVE`
+
+If Bard takes the Windlance, then once per game Bard can fire the Black Arrow. If he does, declare this before rolling To Hit. Bard may re-roll any failed To Hit and In The Way rolls. Furthermore, do not roll on the Scatter Table- a successful To Hit Roll against a Battlefield Target will always count as a Dead On result.
+
+- **Windlance Trained** `PASSIVE`
+
+If Bard takes a Windlance, he will be the only crew. but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
+
 
 </div>
 
@@ -226,11 +259,18 @@
 - Resistant to Magic
 - Throw Stones (range 8", Strength 1)
 
-**ACTIVE/PASSIVE RULES**
+- **Mithril Coat** `PASSIVE`
 
-- **Mithril Coat** `PASSIVE` - A piece of Mithril armour, additionally Bilbo may re-roll Fate rolls of a 1.
-- **Sting** `ACTIVE` - An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
-- **It has not yet Awoken** `PASSIVE` - Bilbo ignores the Sauron's Will section of the rules for the One Ring. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing the One Ring, he is not removed as a casualty as would usually be the case.
+A piece of Mithril armour, additionally Bilbo may re-roll Fate rolls of a 1.
+
+- **Sting** `ACTIVE`
+
+An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
+
+- **It has not yet Awoken** `PASSIVE`
+
+Bilbo ignores the Sauron's Will section of the rules for the One Ring. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing the One Ring, he is not removed as a casualty as would usually be the case.
+
 
 </div>
 
@@ -256,10 +296,16 @@
 - Heroic March
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **The Master's Puppet** `ACTIVE` - Whilst within 6" and Line of Sight of the Master of Lake-town, Braga automatically passes all Courage Tests he is required to take and may re-roll all failed To Wound Rolls when making Strikes. This special rule has no effect if the Master of Lake-town has no Will Points remaining.
-- **Captain of the Guard** `PASSIVE` - So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having Dominant (2).
+- **The Master's Puppet** `ACTIVE`
+
+Whilst within 6" and Line of Sight of the Master of Lake-town, Braga automatically passes all Courage Tests he is required to take and may re-roll all failed To Wound Rolls when making Strikes. This special rule has no effect if the Master of Lake-town has no Will Points remaining.
+
+- **Captain of the Guard** `PASSIVE`
+
+So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having Dominant (2).
+
 
 </div>
 
@@ -311,9 +357,12 @@
 
 - Heroic Strength
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **"Stand by our Men!"** `PASSIVE` - If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she and friendly Lake-town Warrior models within 3" of her gain a bonus of +1 To Wound when making Strikes.
+- **"Stand by our Men!"** `PASSIVE`
+
+If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she and friendly Lake-town Warrior models within 3" of her gain a bonus of +1 To Wound when making Strikes.
+
 
 </div>
 
@@ -338,9 +387,12 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Everyone has a Price** `PASSIVE` - Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+- **Everyone has a Price** `PASSIVE`
+
+Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+
 
 </div>
 
@@ -390,9 +442,12 @@
 
 - Heroic Accuracy
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Archers, This Way!** `PASSIVE` - friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To Hit results of a 1, when making shooting attacks.
+- **Archers, This Way!** `PASSIVE`
+
+friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To Hit results of a 1, when making shooting attacks.
+
 
 </div>
 
@@ -442,9 +497,12 @@
 - shield
 - spear
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Wall of Blades** `ACTIVE` - This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+- **Wall of Blades** `ACTIVE`
+
+This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+
 
 </div>
 
@@ -470,9 +528,12 @@
 - Bow: 1 point
 - Spear: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Everyone has a Price** `PASSIVE` - Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+- **Everyone has a Price** `PASSIVE`
+
+Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+
 
 </div>
 
@@ -499,9 +560,12 @@
 - Light shield: 1 point
 - Spear: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Onwards Men of Esgaroth** `PASSIVE` - Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is Engaged in Combat automatically pass any Courage tests they are required to make for being in a Broken army.
+- **Onwards Men of Esgaroth** `PASSIVE`
+
+Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is Engaged in Combat automatically pass any Courage tests they are required to make for being in a Broken army.
+
 
 </div>
 
@@ -557,10 +621,14 @@
 
 - Direct Shot
 
-**ACTIVE/PASSIVE RULES**
+- **Acurate** `ACTIVE`
 
-- **Acurate** `ACTIVE` - A Windlance will only scatter 3" rather than 6"
-- **Piercing Shot** `ACTIVE` - A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+A Windlance will only scatter 3" rather than 6"
+
+- **Piercing Shot** `ACTIVE`
+
+A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+
 
 **ADDITIONAL PROFILES**
 

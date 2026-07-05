@@ -2,24 +2,26 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF FORTITUDE**
 
-- Uruk-Hai Captain: 65 points
-- Uruk-Hai Captain (General): 65 points
+- **Uruk-Hai Captain**: 65 points
+- **Uruk-Hai Captain (General)**: 65 points
 
 **MINOR HEROES**
 
-- Uruk-Hai Shaman: 55 points
+- **Uruk-Hai Shaman**: 55 points
   - Armour: 5 points
 
 **WARRIORS**
 
-- Isengard Troll: 100 points
+- **Isengard Troll**: 100 points
   - Swap shield for war drum (Isengard): 25 points
   - Spear: 5 points
-- Uruk-Hai Berserker: 15 points
-- Uruk-Hai Demolition Team: 80 points
-- Uruk-Hai Warrior: 9 points
+- **Uruk-Hai Berserker**: 15 points
+- **Uruk-Hai Demolition Team**: 80 points
+- **Uruk-Hai Warrior**: 9 points
   - Banner: 25 points
   - Crossbow: 2 points
   - Pike: 1 point
@@ -27,7 +29,9 @@
 
 **SIEGE ENGINES**
 
-- Isengard Assault Ballista: 75 points
+- **Isengard Assault Ballista**: 75 points
+
+</div>
 
 ## ADDITIONAL RULES
 

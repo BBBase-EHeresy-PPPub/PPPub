@@ -1,51 +1,54 @@
-﻿## ARMY COMPOSITION
+## ARMY COMPOSITION
 
-This army may include: Elendil, High King of Gondor and Arnor; Isildur; Captains of Numenor, and Warriors of Numenor.
+This army may include: Elendil; Isildur; Captain of Numenor; Warrior of Numenor.
 
 ## ARMY BONUS
 
-**"One by one the Free Lands of Middle-earth fell to the Power of the Ring. But there were some who resisted"** - Friendly Numenor models from this army list increase their Courage value by 1.
+**"One by One the Free Lands of Middle-Earth fell to the Power of the Ring. But there were some who resisted."** - Friendly Numenor models from this army list increase their Courage value by 1.
+
 
 ## HEROES OF NUMENOR
 
 <div class="unitCard" markdown>
 
-### ELENDIL, HIGH KING OF GONDOR AND ARNOR [185 POINTS]
-*MAN, NUMENOR, INFANTRY, HERO - HERO OF LEGEND*
+### ELENDIL [185 POINTS]
+*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 7/4+ | 5 | 7 | 3 | 3 | 6 | 3 | 3 | 1 |
 
 **WARGEAR**
 
-- [Heavy armour]
+- Heavy armour
 - Narsil
-- **Narsil** `ACTIVE`
-
-Narsil is a *[Master-Forged]* *[hand-and-a-half]* [Sword]. Additionally, Elendil may call a [Heroic Combat] each turn without expending Might.
 
 **HEROIC ACTIONS**
 
-- [Heroic Strike]
-- [Heroic Strength]
-- [Heroic Defence]
-- [Heroic Challenge]
-
-**SPECIAL RULES**
-
-- **High King of Gondor and Arnor** `ACTIVE`
-
-The range of Elendil's [Stand Fast!] is 12" rather than 6".
-
-- **Unbending Resolve** `PASSIVE`
-
-Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon him. This is always in effect, even if his Will is reduced to 0.
+- Heroic Strike
+- Heroic Strength
+- Heroic Defence
+- Heroic Challenge
 
 **OPTIONS**
 
-- [Horse]: 10 points
-- [Shield]: 5 points
+- Horse: 10 points
+- Shield: 5 points
+
+**SPECIAL RULES**
+
+- **Unbending Resolve** `PASSIVE`
+
+Elendil permanently has Fortify Spirit cast upon him.
+
+- **Narsil** `ACTIVE`
+
+A Master-forged hand-and-a-half sword, and may call a Heroic Combat each turn for free.
+
+- **High King of Gondor and Arnor** `ACTIVE`
+
+Elendil's Stand Fast! Is 12" rather than 6".
+
 
 </div>
 
@@ -54,36 +57,40 @@ Elendil always counts as having had the [Fortify Spirit] Magical Power cast upon
 <div class="unitCard" markdown>
 
 ### ISILDUR [120 POINTS]
-*MAN, NUMENOR, INFANTRY, HERO - HERO OF VALOUR*
+*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/4+ | 5 | 7 | 3 | 3 | 6 | 3 | 2 | 2 |
 
 **WARGEAR**
 
-- [Heavy Armour]
-- *[Hand-and-a-Half]* [Sword]
+- Heavy armour
+- hand-and-a-half sword
 
 **HEROIC ACTIONS**
 
-- [Heroic Strike]
-- [Heroic Strength]
+- Heroic Strike
+- Heroic Strength
 
 **OPTIONS**
 
-- [Horse]: 10 points
-- [Shield]: 5 points
-- The Ring: Free
-- **The Ring**
-
-As long as your force does not contain either Elendil or Andrion, then Isildur may carry The Ring.
+- Horse: 10 points
+- Shield: 5 points
+- The Ring: 0 points
 
 **SPECIAL RULES**
 
+- Resistant to Magic
+
 - **Blood of Numenor** `PASSIVE`
 
-A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
+This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+
+- **The Ring** `PASSIVE`
+
+If your force does not contain Elendil or Anarion, Isildur may carry The Ring
+
 
 </div>
 
@@ -92,66 +99,71 @@ A model with this special rule gains the [Resistant to Magic] special rule whils
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF NUMENOR [50 POINTS]
-*MAN, NUMENOR, INFANTRY, HERO - HERO OF FORTITUDE*
+*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword]
+- Armour
+- sword
 
 **HEROIC ACTIONS**
 
-- [Heroic March]
+- Heroic March
 
 **OPTIONS**
 
-- [Horse]: 10 points
-- [Bow]: 5 points
-- [Heavy armour]: 5 points
-- [Lance]: 5 points
-- [Shield]: 5 points
+- Horse: 10 points
+- Bow: 5 points
+- Heavy Armour: 5 points
+- Lance: 5 points
+- Shield: 5 points
+- Swap Weapon: 5 points
 
 **SPECIAL RULES**
 
 - **Blood of Numenor** `PASSIVE`
 
-A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
+This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+
 
 </div>
 
 ---
+
 
 ## WARRIORS OF NUMENOR
 
 <div class="unitCard" markdown>
 
 ### WARRIOR OF NUMENOR [8 POINTS]
-*MAN, NUMENOR, INFANTRY, WARRIOR*
+*WARRIOR*
 
 | Mv | F | S | D | A | W | C |
-|:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 6' | 4/4+ | 4 | 4 | 1 | 1 | 3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
-- [Armour]
-- [Sword]
+- Armour
+- sword
 
 **OPTIONS**
 
-- [Banner]: 25 points
-- [Bow]: 1 point
-- [Shield]: 1 point
-- [Spear]: 1 point
+- Banner: 25 points
+- Bow: 1 point
+- Shield: 1 point
+- Spear: 1 point
+- Swap Weapon: 1 point
 
 **SPECIAL RULES**
 
 - **Blood of Numenor** `PASSIVE`
 
-A model with this special rule gains the [Resistant to Magic] special rule whilst they are within 6" of Elendil, Isildur or Anarion.
+This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+
 
 </div>

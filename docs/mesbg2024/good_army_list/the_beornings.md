@@ -2,18 +2,22 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Beorn: 200 points
+- **Beorn**: 200 points
 
 **HEROES OF VALOUR**
 
-- Grimbeorn: 200 points
+- **Grimbeorn**: 200 points
 
 **WARRIORS**
 
-- Beorning: 20 points
+- **Beorning**: 20 points
   - Swap hand-and-a-half weapon for great bow: Free
+
+</div>
 
 ## SPECIAL RULES
 

@@ -2,33 +2,37 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Elven Cloak: 5 points
   - Anduril, Flame of the West: Free
 
 **HEROES OF VALOUR**
 
-- Gimli: 100 points
+- **Gimli**: 100 points
   - Elven Cloak: 5 points
-- King of the Dead: 100 points
-- Legolas: 100 points
+- **King of the Dead**: 100 points
+- **Legolas**: 100 points
   - Armour: 5 points
   - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Herald of the Dead: 70 points
+- **Herald of the Dead**: 70 points
 
 **WARRIORS**
 
-- Rider of the Dead: 25 points
-- Warrior of the Dead: 14 points
+- **Rider of the Dead**: 25 points
+- **Warrior of the Dead**: 14 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

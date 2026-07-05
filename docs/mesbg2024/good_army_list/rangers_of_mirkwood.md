@@ -2,38 +2,42 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Balin the Dwarf: 40 points
-- Dwalin the Dwarf: 95 points
-- Fili the Dwarf: 50 points
-- Kili the Dwarf: 50 points
-- Legolas Greenleaf, Prince of Mirkwood: 105 points
+- **Balin the Dwarf**: 40 points
+- **Dwalin the Dwarf**: 95 points
+- **Fili the Dwarf**: 50 points
+- **Kili the Dwarf**: 50 points
+- **Legolas Greenleaf, Prince of Mirkwood**: 105 points
   - Elven cloak: 5 points
-- Tauriel, Ranger of Mirkwood: 90 points
+- **Tauriel, Ranger of Mirkwood**: 90 points
   - Elf bow: 5 points
-- Thorin Oakenshield: 100 points
+- **Thorin Oakenshield**: 100 points
   - Orcrist: 10 points
   - The Oakenshield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Bifur the Dwarf: 45 points
-- Bilbo Baggins: 55 points
+- **Bifur the Dwarf**: 45 points
+- **Bilbo Baggins**: 55 points
   - Sting: 5 points
   - The One Ring: Free
-- Bofur the Dwarf: 45 points
-- Bombur the Dwarf: 45 points
-- Dori the Dwarf: 55 points
-- Gloin the Dwarf: 85 points
-- Mirkwood Ranger Captain: 75 points
-- Nori the Dwarf: 55 points
-- Oin the Dwarf: 50 points
-- Ori the Dwarf: 40 points
+- **Bofur the Dwarf**: 45 points
+- **Bombur the Dwarf**: 45 points
+- **Dori the Dwarf**: 55 points
+- **Gloin the Dwarf**: 85 points
+- **Mirkwood Ranger Captain**: 75 points
+- **Nori the Dwarf**: 55 points
+- **Oin the Dwarf**: 50 points
+- **Ori the Dwarf**: 40 points
 
 **WARRIORS**
 
-- Mirkwood Ranger: 14 points
+- **Mirkwood Ranger**: 14 points
+
+</div>
 
 ## ADDITIONAL RULES
 

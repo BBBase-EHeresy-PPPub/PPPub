@@ -169,4 +169,4 @@ spear.
 
 ---
 
-Following The Dead Arrive Scenario, the campaign progresses to The Black Gate. You may have noticed that we provide players with two different ways to play this Scenario, either following the movies or the books. When you get to this stage, simply decide among the players which of these versions you would like to play. Once you have played one version, why not give the other one a try – both are great fun and have their own series of challenges!
+Following The Dead Arrive Scenario, the campaign progresses to The Black Gate. You may have noticed that we provide players with two different ways to play this Scenario, either following the movies or the books. When you get to this stage, simply decide among the players which of these versions you would like to play. Once you have played one version, why not give the other one a try - both are great fun and have their own series of challenges!

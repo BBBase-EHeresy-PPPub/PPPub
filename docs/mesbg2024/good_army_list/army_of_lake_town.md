@@ -2,33 +2,37 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- The Master of Lake-town: 70 points
+- **The Master of Lake-town**: 70 points
 
 **HEROES OF FORTITUDE**
 
-- Alfrid the Councillor: 30 points
-- Bard the Bowman: 130 points
+- **Alfrid the Councillor**: 30 points
+- **Bard the Bowman**: 130 points
   - Windlance: 50 points
-- Bofur the Dwarf: 45 points
-- Braga, Captain of the Guard: 55 points
-- Fili the Dwarf: 50 points
-- Kili the Dwarf: 50 points
-- Lake-town Guard Captain: 45 points
-- Oin the Dwarf: 50 points
-- Tauriel, Ranger of Mirkwood: 90 points
+- **Bofur the Dwarf**: 45 points
+- **Braga, Captain of the Guard**: 55 points
+- **Fili the Dwarf**: 50 points
+- **Kili the Dwarf**: 50 points
+- **Lake-town Guard Captain**: 45 points
+- **Oin the Dwarf**: 50 points
+- **Tauriel, Ranger of Mirkwood**: 90 points
   - Elf bow: 5 points
 
 **INDEPENDENT HEROES**
 
-- Bard's Family: 60 points
+- **Bard's Family**: 60 points
 
 **WARRIORS**
 
-- Lake-town Guard: 7 points
+- **Lake-town Guard**: 7 points
   - Bow: 1 point
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

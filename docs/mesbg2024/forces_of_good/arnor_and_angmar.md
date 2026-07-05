@@ -25,9 +25,10 @@
 
 - Hatred (Angmar)
 
-**ACTIVE/PASSIVE RULES**
+- **The King in the North** `ACTIVE`
 
-- **The King in the North** `ACTIVE` - The range of Arvedui's Stand Fast is 12", rather than 6"
+The range of Arvedui's Stand Fast is 12", rather than 6"
+
 
 </div>
 
@@ -59,10 +60,16 @@
 
 - Armoured horse and lance: 30 points
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **A Fool's Challenge** `ACTIVE` - Earnur must always Charge an enemy Hero if he able to do so when he Activates. Additionally, he may never decline a Heroic Challenge under any circumstances.
-- **Master Duellist** `ACTIVE` - At the start of a Combat involving Earnur, before Heroic Strikes are resolved, Earnur may increase his Fight value to match that of a single enemy he is Engaged in Combat with. Additionally, Earnur can never have his Fight Value modified by enemy special rules or Magical Powers.
+- **A Fool's Challenge** `ACTIVE`
+
+Earnur must always Charge an enemy Hero if he able to do so when he Activates. Additionally, he may never decline a Heroic Challenge under any circumstances.
+
+- **Master Duellist** `ACTIVE`
+
+At the start of a Combat involving Earnur, before Heroic Strikes are resolved, Earnur may increase his Fight value to match that of a single enemy he is Engaged in Combat with. Additionally, Earnur can never have his Fight Value modified by enemy special rules or Magical Powers.
+
 
 </div>
 
@@ -102,11 +109,18 @@
 - Terror
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Armour of Gondolin** `ACTIVE`
 
-- **Armour of Gondolin** `ACTIVE` - Whilst Glorfindel is wearing the Armour of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
-- **Hero of the Elves** `ACTIVE` - Glorfindel gains a bonus of +1 To Wound when making Strikes against Monster models.
-- **Lord of the West** `ACTIVE` - This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
+Whilst Glorfindel is wearing the Armour of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
+
+- **Hero of the Elves** `ACTIVE`
+
+Glorfindel gains a bonus of +1 To Wound when making Strikes against Monster models.
+
+- **Lord of the West** `ACTIVE`
+
+This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
+
 
 </div>
 
@@ -141,10 +155,14 @@
 - Resistant to Magic
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Strength of Body, Strength of Will** `PASSIVE`
 
-- **Strength of Body, Strength of Will** `PASSIVE` - Gulavhar's Attacks are always equal to its remaining Wounds. Additionally, for each Wound Gulavhar has lost, worsen Gulavhar's Courage value by 1 (this will improve again should Gulavhar regain a lost Wound via the Immortal Hunger special rule below).
-- **Immortal Hunger** `ACTIVE` - Each time Gulavhar slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. Gulavhar can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
+Gulavhar's Attacks are always equal to its remaining Wounds. Additionally, for each Wound Gulavhar has lost, worsen Gulavhar's Courage value by 1 (this will improve again should Gulavhar regain a lost Wound via the Immortal Hunger special rule below).
+
+- **Immortal Hunger** `ACTIVE`
+
+Each time Gulavhar slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. Gulavhar can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
+
 
 </div>
 
@@ -176,10 +194,14 @@
 
 - Mighty Blow
 
-**ACTIVE/PASSIVE RULES**
+- **Warlord of Carn Dum** `PASSIVE`
 
-- **Warlord of Carn Dum** `PASSIVE` - Friendly Carn Dum models within 6" of Aldrac must re-roll failed Courage Tests.
-- **Battle Frenzy** `ACTIVE` - If Aldrac slays an enemy model that he was Engaged in Combat with, then in the following turn Aldrac may declare a Heroic Combat for free.
+Friendly Carn Dum models within 6" of Aldrac must re-roll failed Courage Tests.
+
+- **Battle Frenzy** `ACTIVE`
+
+If Aldrac slays an enemy model that he was Engaged in Combat with, then in the following turn Aldrac may declare a Heroic Combat for free.
+
 
 </div>
 
@@ -212,9 +234,10 @@
 - Hatred (Angmar)
 - Sharpshooter
 
-**ACTIVE/PASSIVE RULES**
+- **Remnants of Arnor** `PASSIVE`
 
-- **Remnants of Arnor** `PASSIVE` - Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
+Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
+
 
 </div>
 
@@ -245,9 +268,10 @@
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Chieftain of the Dunedain** `ACTIVE`
 
-- **Chieftain of the Dunedain** `ACTIVE` - Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
+Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
+
 
 </div>
 
@@ -280,10 +304,14 @@
 - Terror
 - Throw Stones (range 12", Strength 8)
 
-**ACTIVE/PASSIVE RULES**
+- **Lead by Example** `ACTIVE`
 
-- **Lead by Example** `ACTIVE` - If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner. If Buhrdur has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner with a range of 6" instead.
-- **Brutish Cunning** `ACTIVE` - This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
+If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner. If Buhrdur has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner with a range of 6" instead.
+
+- **Brutish Cunning** `ACTIVE`
+
+This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
+
 
 </div>
 
@@ -323,10 +351,14 @@
 - Terror
 - Spectral Walk
 
-**ACTIVE/PASSIVE RULES**
+- **Herald of Doom** `PASSIVE`
 
-- **Herald of Doom** `PASSIVE` - At the beginning of the game, after both sides have been deployed, choose one Hero model in your opponent's Army. Whilst the Shadow of Rhudaur is within 6" of the chosen Hero, that Hero suffers a -1 penalty to their Fate Rolls and a -1 penalty to any Courage Tests they are required to take.
-- **Powers of Angmar** `ACTIVE` - If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the target model cannot spend Will Points to attempt to Resist the Magical Power.
+At the beginning of the game, after both sides have been deployed, choose one Hero model in your opponent's Army. Whilst the Shadow of Rhudaur is within 6" of the chosen Hero, that Hero suffers a -1 penalty to their Fate Rolls and a -1 penalty to any Courage Tests they are required to take.
+
+- **Powers of Angmar** `ACTIVE`
+
+If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the target model cannot spend Will Points to attempt to Resist the Magical Power.
+
 
 </div>
 
@@ -355,9 +387,10 @@
 
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Packlord** `ACTIVE`
 
-- **Packlord** `ACTIVE` - Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+
 
 </div>
 
@@ -468,9 +501,12 @@
 
 - Heroic March
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Glory Seekers** `ACTIVE` - If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
+- **Glory Seekers** `ACTIVE`
+
+If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
+
 
 </div>
 
@@ -496,12 +532,15 @@
 
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Incantations of Power** `ACTIVE` - After rolling for Priority, Fraecht can spend a point of Will to have one of the following incantations take effect for the rest of the turn.
+- **Incantations of Power** `ACTIVE`
+
+After rolling for Priority, Fraecht can spend a point of Will to have one of the following incantations take effect for the rest of the turn.
 Strength - Friendly Carn Dum models within 6" of Fraecht must re-roll To Wound rolls of a natural 1 when making Strikes.
 Endurance - Whenever a Friendly Carn Dum model within 6" of Fraecht suffers a Wound, roll a D6. On a 5+, that Wound is ignored.
 Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht are not slowed by difficult terrain (except for water features).
+
 
 </div>
 
@@ -532,9 +571,10 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 - Woodland Creature
 
-**ACTIVE/PASSIVE RULES**
+- **Banner of Arwen Evenstar** `PASSIVE`
 
-- **Banner of Arwen Evenstar** `PASSIVE` - This is a banner with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a banner. Additionally, friendly models within 6" and Line of Sight of the Banner of Arwen Evenstar automatically pass any Courage Tests they are required to take.
+This is a banner with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a banner. Additionally, friendly models within 6" and Line of Sight of the Banner of Arwen Evenstar automatically pass any Courage Tests they are required to take.
+
 
 </div>
 
@@ -558,10 +598,16 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 - Heroic Resolve
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Gift of Foresight** `ACTIVE` - Every time a friendly Arnor model suffers a Wound within 6" and Line of Sight of Malbeth, roll a D6. On a 5+, the Wound is prevented. If failed, Hero models may still use Fate points as normal.
-- **Foresight of the Eldar** `ACTIVE` - At the start of the game, before either side deploys, roll a D6 and make a note of the result - this is the number of Foresight Points that Malbeth has for the battle. During the roll for Priority, so long as he is alive and on the battlefield, Malbeth can spend these Foresight Points to increase the roll on his controlling player's roll for Priority. For each Foresight Point spent, increase the dice roll by 1, to a maximum of 6.
+- **Gift of Foresight** `ACTIVE`
+
+Every time a friendly Arnor model suffers a Wound within 6" and Line of Sight of Malbeth, roll a D6. On a 5+, the Wound is prevented. If failed, Hero models may still use Fate points as normal.
+
+- **Foresight of the Eldar** `ACTIVE`
+
+At the start of the game, before either side deploys, roll a D6 and make a note of the result - this is the number of Foresight Points that Malbeth has for the battle. During the roll for Priority, so long as he is alive and on the battlefield, Malbeth can spend these Foresight Points to increase the roll on his controlling player's roll for Priority. For each Foresight Point spent, increase the dice roll by 1, to a maximum of 6.
+
 
 </div>
 
@@ -586,9 +632,12 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 - Heroic Defence
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Scavenge** `ACTIVE` - Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of armour, living creatures, the One Ring, or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
+- **Scavenge** `ACTIVE`
+
+Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of armour, living creatures, the One Ring, or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
+
 
 </div>
 
@@ -615,11 +664,18 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 - Terror
 - Blades of the Dead
 
-**ACTIVE/PASSIVE RULES**
+- **Conduit of Angmar** `PASSIVE`
 
-- **Conduit of Angmar** `PASSIVE` - If a Ringwraith model is within 6" of a friendly Shade, they may use the Shade to determine range and Line of Sight for a Magical Power. Additionally, after making a Casting Roll within 6" of a friendly Shade, a Ringwraith can choose to deal a single Wound to the Shade to add 1 to the Casting Roll.
-- **Swirling Mists** `ACTIVE` - At the start of the Shoot Phase, before the Declare Heroic Actions step, a Shade may spend a Will Point to use this ability. If it does, then for the remainder of the turn, enemy models will suffer a -1 penalty To Hit when making a shooting attack that targets a friendly model within 6" of the Shade. If the enemy model making the shooting attack is also within 12" of the Shade, they will suffer a -2 penalty To Hit instead
-- **Ghostly Resolve** `PASSIVE` - Friendly Angmar Orc models within 12" of one or more models with this special rule gain a bonus of +1 to any Courage Tests they are required to take.
+If a Ringwraith model is within 6" of a friendly Shade, they may use the Shade to determine range and Line of Sight for a Magical Power. Additionally, after making a Casting Roll within 6" of a friendly Shade, a Ringwraith can choose to deal a single Wound to the Shade to add 1 to the Casting Roll.
+
+- **Swirling Mists** `ACTIVE`
+
+At the start of the Shoot Phase, before the Declare Heroic Actions step, a Shade may spend a Will Point to use this ability. If it does, then for the remainder of the turn, enemy models will suffer a -1 penalty To Hit when making a shooting attack that targets a friendly model within 6" of the Shade. If the enemy model making the shooting attack is also within 12" of the Shade, they will suffer a -2 penalty To Hit instead
+
+- **Ghostly Resolve** `PASSIVE`
+
+Friendly Angmar Orc models within 12" of one or more models with this special rule gain a bonus of +1 to any Courage Tests they are required to take.
+
 
 </div>
 
@@ -648,9 +704,10 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Packlord** `ACTIVE`
 
-- **Packlord** `ACTIVE` - Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+
 
 </div>
 
@@ -829,9 +886,10 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 - Terror
 - Throw Stones (range 12", Strength 8)
 
-**ACTIVE/PASSIVE RULES**
+- **Brutish Cunning** `ACTIVE`
 
-- **Brutish Cunning** `ACTIVE` - This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
+This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
+
 
 </div>
 
@@ -971,9 +1029,12 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 - Banner: 25 points
 - Spear: 1 point
 
-**ACTIVE/PASSIVE RULES**
+**SPECIAL RULES**
 
-- **Glory Seekers** `ACTIVE` - If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
+- **Glory Seekers** `ACTIVE`
+
+If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
+
 
 </div>
 
@@ -998,9 +1059,10 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 - Fell Sight
 - Terror
 
-**ACTIVE/PASSIVE RULES**
+- **Feral Charge** `ACTIVE`
 
-- **Feral Charge** `ACTIVE` - When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Ground bonus as if they were Cavalry. This bonus is lost if they are subsequently charged by an enemy Cavalry model.
+When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Ground bonus as if they were Cavalry. This bonus is lost if they are subsequently charged by an enemy Cavalry model.
+
 
 </div>
 

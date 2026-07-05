@@ -2,48 +2,52 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Bow: 5 points
   - Elven cloak: Free
 
 **HEROES OF VALOUR**
 
-- Boromir of Gondor: 95 points
+- **Boromir of Gondor**: 95 points
   - Shield: 5 points
   - Elven cloak: Free
-- Gimli: 100 points
+- **Gimli**: 100 points
   - Elven cloak: Free
-- Haldir, Galadhrim Captain: 70 points
+- **Haldir, Galadhrim Captain**: 70 points
   - Elf bow: 5 points
   - Elven cloak: Free
-- Legolas: 100 points
+- **Legolas**: 100 points
   - Elven cloak: Free
 
 **HEROES OF FORTITUDE**
 
-- Frodo Baggins: 55 points
+- **Frodo Baggins**: 55 points
   - Mithril Coat: 15 points
   - Sting: 5 points
   - Elven cloak: Free
-- Samwise Gamgee: 40 points
+- **Samwise Gamgee**: 40 points
   - Elven cloak: Free
 
 **INDEPENDENT HEROES**
 
-- Meriadoc Brandybuck: 10 points
+- **Meriadoc Brandybuck**: 10 points
   - Elven cloak: Free
-- Peregrin Took: 10 points
+- **Peregrin Took**: 10 points
   - Elven cloak: Free
 
 **WARRIORS**
 
-- Lothlorien Warrior: 8 points
+- **Lothlorien Warrior**: 8 points
   - Banner: 25 points
   - Elf bow: 2 points
   - Elven throwing weapons: 2 points
   - Wood Elf spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

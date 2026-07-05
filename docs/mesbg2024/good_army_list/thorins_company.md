@@ -2,40 +2,44 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Thorin Oakenshield: 100 points
+- **Thorin Oakenshield**: 100 points
   - Orcrist: 10 points
   - The Oakenshield: 5 points
 
 **HEROES OF VALOUR**
 
-- Balin the Dwarf: 40 points
-- Dwalin the Dwarf: 95 points
-- Fili the Dwarf: 50 points
-- Gandalf the Grey: 170 points
-- Gwaihir: 200 points
-- Kili the Dwarf: 50 points
-- Radagast the Brown: 145 points
+- **Balin the Dwarf**: 40 points
+- **Dwalin the Dwarf**: 95 points
+- **Fili the Dwarf**: 50 points
+- **Gandalf the Grey**: 170 points
+- **Gwaihir**: 200 points
+- **Kili the Dwarf**: 50 points
+- **Radagast the Brown**: 145 points
   - Radagast's Sleigh: 35 points
 
 **HEROES OF FORTITUDE**
 
-- Bifur the Dwarf: 45 points
-- Bilbo Baggins: 55 points
+- **Bifur the Dwarf**: 45 points
+- **Bilbo Baggins**: 55 points
   - Sting: 5 points
   - The One Ring: Free
-- Bofur the Dwarf: 45 points
-- Bombur the Dwarf: 45 points
-- Dori the Dwarf: 55 points
-- Gloin the Dwarf: 85 points
-- Nori the Dwarf: 55 points
-- Oin the Dwarf: 50 points
-- Ori the Dwarf: 40 points
+- **Bofur the Dwarf**: 45 points
+- **Bombur the Dwarf**: 45 points
+- **Dori the Dwarf**: 55 points
+- **Gloin the Dwarf**: 85 points
+- **Nori the Dwarf**: 55 points
+- **Oin the Dwarf**: 50 points
+- **Ori the Dwarf**: 40 points
 
 **WARRIORS**
 
-- Great Eagle: 100 points
+- **Great Eagle**: 100 points
+
+</div>
 
 ## ADDITIONAL RULES
 

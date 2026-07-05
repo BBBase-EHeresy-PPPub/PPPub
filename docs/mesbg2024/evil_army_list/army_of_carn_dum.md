@@ -2,34 +2,38 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Aldrac, Warlord of Carn Dum: 120 points
+- **Aldrac, Warlord of Carn Dum**: 120 points
 
 **HEROES OF FORTITUDE**
 
-- Angmar Orc Captain: 45 points
-- Captain of Carn Dum: 55 points
-- Fraecht, Vassal of the Witch-king: 65 points
+- **Angmar Orc Captain**: 45 points
+- **Captain of Carn Dum**: 55 points
+- **Fraecht, Vassal of the Witch-king**: 65 points
 
 **WARRIORS**
 
-- Angmar Orc Warrior: 5 points
+- **Angmar Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Angmar Warg Rider: 11 points
+- **Angmar Warg Rider**: 11 points
   - Shield and throwing spears: 2 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Throwing spears: 1 point
-- Hill Troll: 75 points
-- Orc Tracker: 6 points
-- Warrior of Carn Dum: 9 points
+- **Hill Troll**: 75 points
+- **Orc Tracker**: 6 points
+- **Warrior of Carn Dum**: 9 points
   - Banner: 25 points
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

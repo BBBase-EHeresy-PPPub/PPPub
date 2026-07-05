@@ -2,68 +2,72 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Aragorn, King Elessar: 225 points
+- **Aragorn, King Elessar**: 225 points
   - Armoured horse: 25 points
-- Gwaihir: 200 points
-- Prince Imrahil: 140 points
+- **Gwaihir**: 200 points
+- **Prince Imrahil**: 140 points
 
 **HEROES OF VALOUR**
 
-- Eomer: 110 points
+- **Eomer**: 110 points
   - Firefoot with armour: 25 points
   - Firefoot: 20 points
   - Shield: 5 points
   - Throwing spears: 5 points
-- Gandalf the White: 200 points
+- **Gandalf the White**: 200 points
   - Pippin: 25 points
   - Shadowfax: 25 points
-- Gimli: 100 points
+- **Gimli**: 100 points
   - Elven Cloak: 5 points
-- Legolas: 100 points
+- **Legolas**: 100 points
   - Horse: 20 points
   - Armour: 5 points
   - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Beregond, Guard of the Citadel: 65 points
-- Captain of Dol Amroth: 65 points
-- Captain of Minas Tirith: 60 points
-- Captain of Rohan: 45 points
+- **Beregond, Guard of the Citadel**: 65 points
+- **Captain of Dol Amroth**: 65 points
+- **Captain of Minas Tirith**: 60 points
+- **Captain of Rohan**: 45 points
   - Exchange armour for heavy armour: 5 points
   - Shield: 5 points
-- Elladan: 80 points
-- Elrohir: 80 points
+- **Elladan**: 80 points
+- **Elrohir**: 80 points
 
 **INDEPENDENT HEROES**
 
-- Meriadoc Brandybuck: 25 points
+- **Meriadoc Brandybuck**: 25 points
   - Elven Cloak: 5 points
   - Shield: 5 points
-- Peregrin Took: 25 points
+- **Peregrin Took**: 25 points
   - Elven Cloak: 5 points
 
 **WARRIORS**
 
-- Great Eagle: 100 points
-- Knight of Dol Amroth: 11 points
+- **Great Eagle**: 100 points
+- **Knight of Dol Amroth**: 11 points
   - Banner: 25 points
   - War horn: 25 points
-- Man-at-arms of Dol Amroth: 10 points
-- Warrior of Minas Tirith: 8 points
+- **Man-at-arms of Dol Amroth**: 10 points
+- **Warrior of Minas Tirith**: 8 points
   - War horn and shield: 26 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Bow: 1 point
-- Warrior of Rohan: 6 points
+- **Warrior of Rohan**: 6 points
   - War horn, shield, throwing spears: 28 points
   - Banner: 25 points
   - Shield and throwing spears: 3 points
   - Shield: 1 point
   - Bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,39 +2,43 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Ugluk: 75 points
+- **Ugluk**: 75 points
 
 **HEROES OF FORTITUDE**
 
-- Grishnakh: 55 points
-- Isengard Orc Captain: 45 points
-- Mauhur: 65 points
-- Snaga: 50 points
-- Uruk-Hai Scout Captain: 55 points
+- **Grishnakh**: 55 points
+- **Isengard Orc Captain**: 45 points
+- **Mauhur**: 65 points
+- **Snaga**: 50 points
+- **Uruk-Hai Scout Captain**: 55 points
 
 **MINOR HEROES**
 
-- Isengard Orc Shaman: 50 points
-- Uruk-Hai Shaman: 55 points
+- **Isengard Orc Shaman**: 50 points
+- **Uruk-Hai Shaman**: 55 points
 
 **INDEPENDENT HEROES**
 
-- Uruk-Hai Drummer: 35 points
+- **Uruk-Hai Drummer**: 35 points
 
 **WARRIORS**
 
-- Isengard Orc Warrior: 5 points
+- **Isengard Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Uruk-Hai Scout: 8 points
+- **Uruk-Hai Scout**: 8 points
   - Banner: 25 points
   - Shield: 1 point
   - Uruk-hai bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

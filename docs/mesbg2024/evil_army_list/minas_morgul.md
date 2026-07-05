@@ -2,9 +2,11 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- The Witch-king of Angmar: 0 points
+- **The Witch-king of Angmar**: 0 points
   - 3A / 3M / 18W / 3F: 150 points
   - Armoured Fell Beast: 70 points
   - Fell Beast: 50 points
@@ -15,7 +17,7 @@
 
 **HEROES OF VALOUR**
 
-- Ringwraith: 0 points
+- **Ringwraith**: 0 points
   - 2A / 1M / 10W / 1F: 90 points
   - Fell Beast: 50 points
   - Horse: 20 points
@@ -23,40 +25,42 @@
 
 **HEROES OF FORTITUDE**
 
-- Kardush the Firecaller: 65 points
-- Morannon Orc Captain: 55 points
+- **Kardush the Firecaller**: 65 points
+- **Morannon Orc Captain**: 55 points
   - Shield: 5 points
   - Two-handed weapon: 5 points
-- Mordor Orc Captain: 45 points
-- Mordor Orc Taskmaster: 45 points
+- **Mordor Orc Captain**: 45 points
+- **Mordor Orc Taskmaster**: 45 points
 
 **MINOR HEROES**
 
-- Mordor Orc Shaman: 50 points
+- **Mordor Orc Shaman**: 50 points
   - Warg: 20 points
 
 **INDEPENDENT HEROES**
 
-- Mordor Orc Drummer: 30 points
+- **Mordor Orc Drummer**: 30 points
 
 **WARRIORS**
 
-- Morannon Orc Warrior: 8 points
+- **Morannon Orc Warrior**: 8 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Spear: 1 point
-- Mordor Orc Warrior: 5 points
+- **Mordor Orc Warrior**: 5 points
   - Banner: 25 points
   - Orc bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
   - Two-handed weapon: 1 point
-- Mordor Troll: 90 points
+- **Mordor Troll**: 90 points
   - War drum (Mordor): 25 points
-- Morgul Stalker: 10 points
-- Orc Tracker: 6 points
-- Spectre: 15 points
+- **Morgul Stalker**: 10 points
+- **Orc Tracker**: 6 points
+- **Spectre**: 15 points
+
+</div>
 
 ## ADDITIONAL RULES
 

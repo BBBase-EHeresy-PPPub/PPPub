@@ -2,37 +2,39 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Boromir, Captain of the White Tower: 160 points
+- **Boromir, Captain of the White Tower**: 160 points
   - Horse: 20 points
   - Shield: 5 points
-- Denethor: 50 points
-- Faramir: 100 points
+- **Denethor**: 50 points
+- **Faramir**: 100 points
   - Horse: 20 points
   - Shield: 5 points
   - Exchange armour and bow for heavy armour: Free
-- Hurin the Tall, Warden of the Keys: 80 points
+- **Hurin the Tall, Warden of the Keys**: 80 points
   - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- Beregond, Guard of the Citadel: 65 points
-- Captain of Minas Tirith: 60 points
-- Cirion, Lieutenant of Amon Barad: 65 points
-- Ingold, Warden of The Rammas Echor: 70 points
-- Irolas: 65 points
-- Knight of the White Tower: 75 points
+- **Beregond, Guard of the Citadel**: 65 points
+- **Captain of Minas Tirith**: 60 points
+- **Cirion, Lieutenant of Amon Barad**: 65 points
+- **Ingold, Warden of The Rammas Echor**: 70 points
+- **Irolas**: 65 points
+- **Knight of the White Tower**: 75 points
 
 **WARRIORS**
 
-- Citadel Guard: 8 points
+- **Citadel Guard**: 8 points
   - Longbow: 1 point
   - Spear: 1 point
-- Guard of the Fountain Court: 10 points
-- Knight of Minas Tirith: 15 points
+- **Guard of the Fountain Court**: 10 points
+- **Knight of Minas Tirith**: 15 points
   - Exchange shield and lance for banner: 25 points
-- Warrior of Minas Tirith: 8 points
+- **Warrior of Minas Tirith**: 8 points
   - War horn and shield: 26 points
   - Banner: 25 points
   - Shield and spear: 2 points
@@ -41,8 +43,10 @@
 
 **SIEGE ENGINES**
 
-- Gondor Avenger Bolt Thrower: 60 points
+- **Gondor Avenger Bolt Thrower**: 60 points
   - Swift Reload: 20 points
+
+</div>
 
 ## ADDITIONAL RULES
 

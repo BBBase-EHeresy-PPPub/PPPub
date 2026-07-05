@@ -2,9 +2,11 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- The Witch-king of Angmar: 0 points
+- **The Witch-king of Angmar**: 0 points
   - 2A / 2M / 14W / 2F: 120 points
   - Fell Beast: 50 points
   - Crown of Morgul: 25 points
@@ -13,11 +15,13 @@
 
 **HEROES OF FORTITUDE**
 
-- Ringwraith: 0 points
+- **Ringwraith**: 0 points
   - 2A / 2M / 14W / 2F: 120 points
   - Fell Beast: 50 points
   - Upgrade to Armoured Fell Beast: 20 points
   - Morgul Blade: 10 points
+
+</div>
 
 ## ADDITIONAL RULES
 

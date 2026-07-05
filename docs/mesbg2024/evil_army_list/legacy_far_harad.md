@@ -2,14 +2,16 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Mahud King: 70 points
+- **Mahud King**: 70 points
   - War Camel: 25 points
 
 **HEROES OF FORTITUDE**
 
-- Mahud Tribesmaster: 55 points
+- **Mahud Tribesmaster**: 55 points
   - War Camel: 25 points
   - Blowpipe: 5 points
   - Shield: 5 points
@@ -17,14 +19,16 @@
 
 **WARRIORS**
 
-- Half Troll: 25 points
+- **Half Troll**: 25 points
   - Exchange hand weapon for two-handed weapon: Free
-- Mahud Raider: 17 points
+- **Mahud Raider**: 17 points
   - Blowpipe: 1 point
   - Spear: 1 point
-- Mahud Warrior: 8 points
+- **Mahud Warrior**: 8 points
   - Blowpipe: 1 point
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

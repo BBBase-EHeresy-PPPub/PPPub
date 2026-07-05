@@ -2,62 +2,66 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Theoden: 75 points
+- **Theoden**: 75 points
   - Exchange armour for heavy armour: 5 points
   - Shield: 5 points
 
 **HEROES OF VALOUR**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Armour: 5 points
-- Gimli: 100 points
+- **Gimli**: 100 points
   - Elven Cloak: 5 points
-- Haldir, Galadhrim Captain: 70 points
+- **Haldir, Galadhrim Captain**: 70 points
   - Heavy armour: 10 points
   - Elf bow: 5 points
   - Elven cloak: 5 points
-- Legolas: 100 points
+- **Legolas**: 100 points
   - Armour: 5 points
   - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- Captain of Rohan: 45 points
+- **Captain of Rohan**: 45 points
   - Exchange armour for heavy armour: 5 points
   - Shield: 5 points
-- Galadhrim Captain: 70 points
+- **Galadhrim Captain**: 70 points
   - Elf bow: 5 points
-- Gamling: 55 points
+- **Gamling**: 55 points
   - Royal Standard of Rohan: 40 points
 
 **MINOR HEROES**
 
-- King's Huntsman: 55 points
+- **King's Huntsman**: 55 points
 
 **INDEPENDENT HEROES**
 
-- Aldor: 20 points
-- Haleth, Son of Hama: 30 points
+- **Aldor**: 20 points
+- **Haleth, Son of Hama**: 30 points
 
 **WARRIORS**
 
-- Galadhrim Warrior: 9 points
+- **Galadhrim Warrior**: 9 points
   - War horn and Elf bow: 27 points
   - Banner: 25 points
   - Elf bow: 2 points
   - Shield and Elven spear: 2 points
   - Elven spear: 1 point
   - Shield: 1 point
-- Rohan Royal Guard: 11 points
+- **Rohan Royal Guard**: 11 points
   - Throwing spears: 2 points
-- Warrior of Rohan: 6 points
+- **Warrior of Rohan**: 6 points
   - War horn, shield, throwing spears: 28 points
   - Banner: 25 points
   - Shield and throwing spears: 3 points
   - Shield: 1 point
   - Bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

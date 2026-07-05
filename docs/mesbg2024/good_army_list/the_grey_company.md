@@ -2,30 +2,34 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Aragorn, Strider: 160 points
+- **Aragorn, Strider**: 160 points
   - Bow: 5 points
   - Elven Cloak: 5 points
   - Anduril, Flame of the West: Free
 
 **HEROES OF VALOUR**
 
-- Elladan: 80 points
-- Elrohir: 80 points
-- Gimli: 100 points
+- **Elladan**: 80 points
+- **Elrohir**: 80 points
+- **Gimli**: 100 points
   - Elven Cloak: 5 points
-- Halbarad: 70 points
+- **Halbarad**: 70 points
   - Banner of Arwen Evenstar: 40 points
-- Legolas: 100 points
+- **Legolas**: 100 points
   - Armour: 5 points
   - Elven Cloak: 5 points
 
 **INDEPENDENT HEROES**
 
-- Ranger of the North: 25 points
+- **Ranger of the North**: 25 points
   - Armour: 5 points
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

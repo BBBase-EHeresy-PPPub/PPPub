@@ -2,29 +2,31 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Dain Ironfoot, Lord of the Iron Hills: 160 points
+- **Dain Ironfoot, Lord of the Iron Hills**: 160 points
   - War Boar: 25 points
 
 **HEROES OF VALOUR**
 
-- Dwarf King: 85 points
+- **Dwarf King**: 85 points
 
 **HEROES OF FORTITUDE**
 
-- Drar: 70 points
-- Iron Hills Captain: 80 points
+- **Drar**: 70 points
+- **Iron Hills Captain**: 80 points
   - Iron Hills Chariot: 170 points
   - Exchange shield and spear for Mattock: Free
-- Murin: 70 points
+- **Murin**: 70 points
 
 **WARRIORS**
 
-- Iron Hills Chariot: 170 points
-- Iron Hills Goat Rider: 20 points
+- **Iron Hills Chariot**: 170 points
+- **Iron Hills Goat Rider**: 20 points
   - Exchange war spear for Mattock: Free
-- Iron Hills Warrior: 10 points
+- **Iron Hills Warrior**: 10 points
   - Banner and shield: 26 points
   - Banner: 25 points
   - Shield and spear: 2 points
@@ -33,7 +35,9 @@
 
 **SIEGE ENGINES**
 
-- Iron Hills Ballista: 130 points
+- **Iron Hills Ballista**: 130 points
+
+</div>
 
 ## ADDITIONAL RULES
 

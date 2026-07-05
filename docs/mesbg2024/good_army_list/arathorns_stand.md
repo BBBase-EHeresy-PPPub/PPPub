@@ -2,19 +2,23 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF VALOUR**
 
-- Arathorn, Chieftain of the Dunedain: 80 points
+- **Arathorn, Chieftain of the Dunedain**: 80 points
 
 **HEROES OF FORTITUDE**
 
-- Halbarad: 70 points
+- **Halbarad**: 70 points
 
 **INDEPENDENT HEROES**
 
-- Ranger of the North: 25 points
+- **Ranger of the North**: 25 points
   - Armour: 5 points
   - Spear: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

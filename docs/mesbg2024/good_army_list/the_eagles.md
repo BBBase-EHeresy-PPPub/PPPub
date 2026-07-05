@@ -2,14 +2,18 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Gwaihir: 200 points
+- **Gwaihir**: 200 points
 
 **WARRIORS**
 
-- Fledgeling Great Eagle: 75 points
-- Great Eagle: 100 points
+- **Fledgeling Great Eagle**: 75 points
+- **Great Eagle**: 100 points
+
+</div>
 
 ## ADDITIONAL RULES
 

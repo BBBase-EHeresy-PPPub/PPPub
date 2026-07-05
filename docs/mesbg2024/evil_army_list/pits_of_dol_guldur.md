@@ -2,43 +2,47 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Azog the Defiler: 175 points
+- **Azog the Defiler**: 175 points
   - The White Warg: 50 points
 
 **HEROES OF VALOUR**
 
-- The Keeper of the Dungeons: 80 points
+- **The Keeper of the Dungeons**: 80 points
 
 **HEROES OF FORTITUDE**
 
-- Gundabad Orc Captain: 60 points
-- Hunter Orc Captain: 45 points
+- **Gundabad Orc Captain**: 60 points
+- **Hunter Orc Captain**: 45 points
   - Fell Warg: 20 points
   - Orc bow: 5 points
   - Two-handed weapon: 5 points
 
 **INDEPENDENT HEROES**
 
-- Thrain the Broken: 10 points
+- **Thrain the Broken**: 10 points
 
 **WARRIORS**
 
-- Fell Warg: 8 points
-- Gundabad Orc Warrior: 9 points
+- **Fell Warg**: 8 points
+- **Gundabad Orc Warrior**: 9 points
   - Banner and shield: 26 points
   - Banner: 25 points
   - Shield: 1 point
   - Spear: 1 point
-- Hunter Orc Warg Rider: 15 points
+- **Hunter Orc Warg Rider**: 15 points
   - Orc bow: 1 point
   - Two-handed weapon: 1 point
-- Hunter Orc Warrior: 8 points
+- **Hunter Orc Warrior**: 8 points
   - Orc bow: 1 point
   - Two-handed weapon: 1 point
-- Mirkwood Giant Spider: 20 points
-- Mirkwood Hunting Spider: 20 points
+- **Mirkwood Giant Spider**: 20 points
+- **Mirkwood Hunting Spider**: 20 points
+
+</div>
 
 ## ADDITIONAL RULES
 

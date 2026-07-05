@@ -2,9 +2,13 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Smaug: 700 points
+- **Smaug**: 700 points
+
+</div>
 
 ## ADDITIONAL RULES
 

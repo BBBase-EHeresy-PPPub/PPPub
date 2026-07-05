@@ -2,21 +2,25 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Elrond: 170 points
-- Saruman: 170 points
+- **Elrond**: 170 points
+- **Saruman**: 170 points
 
 **HEROES OF VALOUR**
 
-- Galadriel, Lady of Light: 125 points
-- Gandalf the Grey: 170 points
-- Radagast the Brown: 145 points
+- **Galadriel, Lady of Light**: 125 points
+- **Gandalf the Grey**: 170 points
+- **Radagast the Brown**: 145 points
   - Radagast's Sleigh: 35 points
 
 **INDEPENDENT HEROES**
 
-- Thrain the Broken: 10 points
+- **Thrain the Broken**: 10 points
+
+</div>
 
 ## ADDITIONAL RULES
 

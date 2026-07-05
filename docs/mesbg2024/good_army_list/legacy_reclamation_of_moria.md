@@ -2,40 +2,44 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Balin the Dwarf, King of Moria: 110 points
+- **Balin the Dwarf, King of Moria**: 110 points
 
 **HEROES OF VALOUR**
 
-- Dwarf King: 85 points
+- **Dwarf King**: 85 points
 
 **HEROES OF FORTITUDE**
 
-- Dwarf Captain: 65 points
-- Floi Stonehand: 75 points
-- King's Champion: 140 points
-- Oin the Dwarf, Champion of Erebor: 60 points
-- Ori the Dwarf, Champion of Erebor: 50 points
+- **Dwarf Captain**: 65 points
+- **Floi Stonehand**: 75 points
+- **King's Champion**: 140 points
+- **Oin the Dwarf, Champion of Erebor**: 60 points
+- **Ori the Dwarf, Champion of Erebor**: 50 points
 
 **MINOR HEROES**
 
-- Dwarf Shieldbearer: 60 points
+- **Dwarf Shieldbearer**: 60 points
 
 **WARRIORS**
 
-- Dwarf Ranger: 8 points
+- **Dwarf Ranger**: 8 points
   - Dwarf longbow: 1 point
   - Throwing weapons: 1 point
   - Two-handed weapon: 1 point
-- Dwarf Warrior: 8 points
+- **Dwarf Warrior**: 8 points
   - War horn: 25 points
   - Banner: 25 points
   - Dwarf bow: 1 point
   - Shield: 1 point
   - Two-handed weapon: 1 point
-- Iron Guard: 15 points
-- Khazad Guard: 12 points
+- **Iron Guard**: 15 points
+- **Khazad Guard**: 12 points
+
+</div>
 
 ## ADDITIONAL RULES
 

@@ -2,40 +2,44 @@
 
 ## ARMY COMPOSITION
 
+<div class="unitCard" markdown>
+
 **HEROES OF LEGEND**
 
-- Boromir, Captain of the White Tower: 160 points
+- **Boromir, Captain of the White Tower**: 160 points
   - The Banner of Minas Tirith: 40 points
   - Horse: 20 points
   - Shield: 5 points
 
 **HEROES OF VALOUR**
 
-- Faramir: 100 points
+- **Faramir**: 100 points
 
 **HEROES OF FORTITUDE**
 
-- Captain of Minas Tirith: 60 points
-- Madril: 60 points
+- **Captain of Minas Tirith**: 60 points
+- **Madril**: 60 points
 
 **WARRIORS**
 
-- Knight of Minas Tirith: 15 points
+- **Knight of Minas Tirith**: 15 points
   - Exchange shield and lance for banner: 25 points
-- Osgiliath Veteran: 9 points
+- **Osgiliath Veteran**: 9 points
   - Bow: 1 point
   - Shield: 1 point
   - Spear: 1 point
-- Ranger of Gondor: 8 points
+- **Ranger of Gondor**: 8 points
   - Banner: 25 points
   - War horn: 25 points
   - Spear: 1 point
-- Warrior of Minas Tirith: 8 points
+- **Warrior of Minas Tirith**: 8 points
   - War horn and shield: 26 points
   - Banner: 25 points
   - Shield and spear: 2 points
   - Shield: 1 point
   - Bow: 1 point
+
+</div>
 
 ## ADDITIONAL RULES
 

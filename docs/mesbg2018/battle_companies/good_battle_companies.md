@@ -8,13 +8,13 @@
 
 **ADVANCEMENTS**
 
-- Warrior of Minas Tirith with shield – Knight of Minas Tirith with shield
-- Warrior of Minas Tirith with spear & shield – Citadel Guard with spear
-- Warrior of Minas Tirith with bow – Ranger of Gondor
+- Warrior of Minas Tirith with shield - Knight of Minas Tirith with shield
+- Warrior of Minas Tirith with spear & shield - Citadel Guard with spear
+- Warrior of Minas Tirith with bow - Ranger of Gondor
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'For the White City!'** – With a rousing cry, the hero plunges themselves into the fray in defence of Minas Tirith.
+**'For the White City!'** - With a rousing cry, the hero plunges themselves into the fray in defence of Minas Tirith.
 
 This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
@@ -52,13 +52,13 @@ This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
 **ADVANCEMENTS**
 
-- Warrior of Minas Tirith with shield – Osgiliath Veteran with shield
-- Warrior of Minas Tirith with spear & shield – Osgiliath Veteran with spear & shield
-- Warrior of Minas Tirith with bow – Osgiliath Veteran with bow
+- Warrior of Minas Tirith with shield - Osgiliath Veteran with shield
+- Warrior of Minas Tirith with spear & shield - Osgiliath Veteran with spear & shield
+- Warrior of Minas Tirith with bow - Osgiliath Veteran with bow
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Sure-footed"** – Osgiliath is in ruins, and those that fight there have become masters of navigating its difficult and crumbling battlefields.
+**"Sure-footed"** - Osgiliath is in ruins, and those that fight there have become masters of navigating its difficult and crumbling battlefields.
 
 This model is never slowed by difficult terrain.
 
@@ -94,12 +94,12 @@ Osgiliath Veterans in this Battle Company treat the company's leader in the same
 
 **ADVANCEMENTS**
 
-- Man-at-arms of Dol Amroth – Knight of Dol Amroth
-- Knight of Dol Amroth – Knight of Dol Amroth on armoured horse
+- Man-at-arms of Dol Amroth - Knight of Dol Amroth
+- Knight of Dol Amroth - Knight of Dol Amroth on armoured horse
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'For the White City!'** – With a rousing cry, the hero plunges into the fray in defense of Minas Tirith. 
+**'For the White City!'** - With a rousing cry, the hero plunges into the fray in defense of Minas Tirith. 
 
 This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
@@ -128,14 +128,14 @@ All Hero models gain the Horse Lord special rule.
 
 **ADVANCEMENTS**
 
-- Warrior of Rohan with shield – Rohan Royal Guard with shield
-- Warrior of Rohan with throwing spear & shield – Rider of Rohan with throwing spear & shield
-- Warrior of Rohan with bow – Rider of Rohan
-- Rider of Rohan – Rohan Outrider on horse
+- Warrior of Rohan with shield - Rohan Royal Guard with shield
+- Warrior of Rohan with throwing spear & shield - Rider of Rohan with throwing spear & shield
+- Warrior of Rohan with bow - Rider of Rohan
+- Rider of Rohan - Rohan Outrider on horse
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Forth Eorlingas!'** – Upon their steed, the hero charges into the enemy with as much might as they can muster.
+**'Forth Eorlingas!'** - Upon their steed, the hero charges into the enemy with as much might as they can muster.
 
 Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Charges.
 
@@ -175,16 +175,16 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 **ADVANCEMENTS**
 
-- Warrior of Rohan with shield – Rohan Royal Guard with shield
-- Warrior of Rohan with throwing spear & shield – Rider of Rohan with throwing spear & shield
-- Warrior of Rohan with bow – Rider of Rohan
-- Man-at-arms of Dol Amroth – Knight of Dol Amroth
-- Knight of Dol Amroth – Knight of Dol Amroth on armoured horse
-- Warrior of Minas Tirith – Knight of Minas Tirith with shield
+- Warrior of Rohan with shield - Rohan Royal Guard with shield
+- Warrior of Rohan with throwing spear & shield - Rider of Rohan with throwing spear & shield
+- Warrior of Rohan with bow - Rider of Rohan
+- Man-at-arms of Dol Amroth - Knight of Dol Amroth
+- Knight of Dol Amroth - Knight of Dol Amroth on armoured horse
+- Warrior of Minas Tirith - Knight of Minas Tirith with shield
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Stand, Men of the West** – Standing side-by-side, the Men of the West fight to defend Middle-earth against the threat of Mordor. If the Hero has the Gondor keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Rohan model within 3". If the Hero has the Rohan keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Gondor model within 3".
+**Stand, Men of the West** - Standing side-by-side, the Men of the West fight to defend Middle-earth against the threat of Mordor. If the Hero has the Gondor keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Rohan model within 3". If the Hero has the Rohan keyword, they gain a bonus of +1 to their Duel rolls if there is a friendly Gondor model within 3".
 
 **REINFORCEMENTS**
 
@@ -208,13 +208,13 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Touch of the Dead"** – Such is the fear that these spectral beings instill into their foes, that an encounter with one can leave an enemy almost paralysed in terror. 
+**"Touch of the Dead"** - Such is the fear that these spectral beings instill into their foes, that an encounter with one can leave an enemy almost paralysed in terror. 
 
 If the Hero makes one or more Strikes against an enemy model, and that model is not slain, the model must take a Courage test. If the test is failed, then in the following turn the model is treated as being under the effects of the Transfix Magical Power.
 
 **UNIQUE WARGEAR**
 
-Spectral Steed (5/10) – 3 Influence Points
+Spectral Steed (5/10) - 3 Influence Points
 
 **REINFORCEMENTS**
 
@@ -238,11 +238,11 @@ Spectral Steed (5/10) – 3 Influence Points
 
 **ADVANCEMENTS**
 
-- Warrior of Arnor – Knight of Arnor  
+- Warrior of Arnor - Knight of Arnor  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Defend the North!'** – The Hero will automatically pass the first Courage test it must take for their force being Broken.
+**'Defend the North!'** - The Hero will automatically pass the first Courage test it must take for their force being Broken.
 
 **ARNOR BATTLE COMPANY SPECIAL RULE**
 
@@ -274,7 +274,7 @@ A Rangers of the North Battle Company may have 100% of its models armed with a b
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Dangerous Folk** – The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills. 
+**Dangerous Folk** - The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills. 
 
 This model gains the Woodland Creature special rule. Additionally, whilst on foot, this model adds 1 to their Attacks characteristic.
 
@@ -304,13 +304,13 @@ Only Lake-town Guard may be selected as Hero models when you start your Battle C
 
 **ADVANCEMENTS**
 
-- Lake-town Militia with shield – Lake-town Guard
-- Lake-town Militia with spear – Lake-town Guard with spear
-- Lake-town Militia with bow – Lake-town Guard with bow
+- Lake-town Militia with shield - Lake-town Guard
+- Lake-town Militia with spear - Lake-town Guard with spear
+- Lake-town Militia with bow - Lake-town Guard with bow
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"The Master's Purse Strings"** – The Hero is under the employment of the Master of Lake-town and can use their employer's influence to rouse their followers into action. At the start of the Fight phase, before any Heroic Actions are declared, the Hero can spend 1 point of Might. If they do so, the Fight value of all friendly models within 6" is increased by 1 until the End phase of the turn.
+**"The Master's Purse Strings"** - The Hero is under the employment of the Master of Lake-town and can use their employer's influence to rouse their followers into action. At the start of the Fight phase, before any Heroic Actions are declared, the Hero can spend 1 point of Might. If they do so, the Fight value of all friendly models within 6" is increased by 1 until the End phase of the turn.
 
 **REINFORCEMENTS**
 
@@ -335,7 +335,7 @@ Only Lake-town Guard may be selected as Hero models when you start your Battle C
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Unrivalled Alliance"** – The alliance forged between Men and Elves has brought out the best in both races as they fight against the Dark Lord.
+**"Unrivalled Alliance"** - The alliance forged between Men and Elves has brought out the best in both races as they fight against the Dark Lord.
 
 If the Hero is a Man, they gain a bonus of +1 to their Duel rolls if there is a friendly Elf within 3".
 
@@ -366,12 +366,12 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **ADVANCEMENTS**
 
-- Warrior of Erebor – Grim Hammer  
-- Warrior of Dale with spear and shield – Knight of Dale  
+- Warrior of Erebor - Grim Hammer  
+- Warrior of Dale with spear and shield - Knight of Dale  
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Skilled Training'** – The Hero may re-roll results of a 1 when making a Duel roll.  
+**'Skilled Training'** - The Hero may re-roll results of a 1 when making a Duel roll.  
 
 **REINFORCEMENTS**
 
@@ -404,16 +404,16 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **ADVANCEMENTS**
 
-- Wood Elf Warrior – Galadhrim Warrior
-- Wood Elf Warrior with Wood Elf spear – Galadhrim Warrior with spear & shield
-- Wood Elf Warrior with Elf bow – Galadhrim Warrior with Elf bow
-- Galadhrim Warrior – Galadhrim Knight with shield
-- Galadhrim Warrior with Elf bow – Galadhrim Knight with Elf bow
-- Galadhrim Warrior with spear & shield – Guard of the Galadhrim Court
+- Wood Elf Warrior - Galadhrim Warrior
+- Wood Elf Warrior with Wood Elf spear - Galadhrim Warrior with spear & shield
+- Wood Elf Warrior with Elf bow - Galadhrim Warrior with Elf bow
+- Galadhrim Warrior - Galadhrim Knight with shield
+- Galadhrim Warrior with Elf bow - Galadhrim Knight with Elf bow
+- Galadhrim Warrior with spear & shield - Guard of the Galadhrim Court
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Blessing of the Golden Wood"** – Through the blessing of Galadriel, fortune smiles upon the hero, keeping them from harm. Each time this Hero suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if 1 point of Fate had been spent.
+**"Blessing of the Golden Wood"** - Through the blessing of Galadriel, fortune smiles upon the hero, keeping them from harm. Each time this Hero suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if 1 point of Fate had been spent.
 
 **REINFORCEMENTS**
 
@@ -446,7 +446,7 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Noldorin Fighting Style"** – A warrior skilled from many wars across the ages can wield their blade with incredible dexterity. 
+**"Noldorin Fighting Style"** - A warrior skilled from many wars across the ages can wield their blade with incredible dexterity. 
 
 This hero does not suffer the -1 penalty to their Duel rolls for using their Elven-made hand-and-a-half weapon as a two-handed weapon.
 
@@ -474,19 +474,19 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 
 **ADVANCEMENTS**
 
-- Mirkwood Elf with shield – Palace Guard with shield
-- Mirkwood Elf with Elven-made glaive – Palace Guard with spear
-- Mirkwood Elf with Elf bow – Mirkwood Ranger
+- Mirkwood Elf with shield - Palace Guard with shield
+- Mirkwood Elf with Elven-made glaive - Palace Guard with spear
+- Mirkwood Elf with Elf bow - Mirkwood Ranger
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Protect Our Borders"** – This hero has spent many years traversing the thick woodland terrain of Mirkwood, learning how to climb its boughs and move through seemingly impossible undergrowth with ease. 
+**"Protect Our Borders"** - This hero has spent many years traversing the thick woodland terrain of Mirkwood, learning how to climb its boughs and move through seemingly impossible undergrowth with ease. 
 
 This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 
 **UNIQUE WARGEAR**
 
-**Elven-made glaive (2/5)** – Costs 2 Influence Points.
+**Elven-made glaive (2/5)** - Costs 2 Influence Points.
 
 **REINFORCEMENTS**
 
@@ -519,7 +519,7 @@ This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Baruk Khazâd!'** – With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
+**'Baruk Khazâd!'** - With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
 
 This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc models, Goblin models, or Uruk-hai models.
 
@@ -553,14 +553,14 @@ This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 **ADVANCEMENTS**
 
-- Dwarf Warrior with shield – Khazâd Guard
-- Dwarf Warrior with two-handed axe – Khazâd Guard
+- Dwarf Warrior with shield - Khazâd Guard
+- Dwarf Warrior with two-handed axe - Khazâd Guard
 
-Dwarf Warrior with Dwarf bow – Dwarf Ranger with Dwarf Longbow
+Dwarf Warrior with Dwarf bow - Dwarf Ranger with Dwarf Longbow
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Baruk Khazâd!'** – With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
+**'Baruk Khazâd!'** - With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
 
 This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc models, Goblin models, or Uruk-hai models.
 
@@ -598,16 +598,16 @@ This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 **ADVANCEMENTS**
 
-- Dwarf Warrior with shield – Iron Guard
-- Dwarf Warrior with two-handed axe – Iron Guard
-- Dwarf Warrior with Dwarf bow – Dwarf Ranger with Dwarf Longbow
-- Dwarf Ranger – Moria Expeditionary* with equivalent wargear
+- Dwarf Warrior with shield - Iron Guard
+- Dwarf Warrior with two-handed axe - Iron Guard
+- Dwarf Warrior with Dwarf bow - Dwarf Ranger with Dwarf Longbow
+- Dwarf Ranger - Moria Expeditionary* with equivalent wargear
 
 *A Moria Expeditionary is a Dwarf Ranger that does not suffer the -1 To Hit for moving half its Move allowance and shooting.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Baruk Khazâd!'** – With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
+**'Baruk Khazâd!'** - With a fury as hot as the iron forges of the Dwarves, the hero lunges at their foe in defence of the folk of Durin.
 
 This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc models, Goblin models or Uruk-hai models.
 
@@ -643,16 +643,16 @@ A Shire Battle Company may have up to 25 models rather than 15.
 
 **ADVANCEMENTS**
 
-- Hobbit Militia – Battlin' Brandybuck
-- Hobbit Archer – Tookish Hunter
+- Hobbit Militia - Battlin' Brandybuck
+- Hobbit Archer - Tookish Hunter
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'For the Shire!'** – With a hearty and rousing cry, the hero leads the Hobbits of the Shire in defence of their peaceful land. The Hero, and all models from their Battle Company within 6", may re-roll failed Courage tests.
+**'For the Shire!'** - With a hearty and rousing cry, the hero leads the Hobbits of the Shire in defence of their peaceful land. The Hero, and all models from their Battle Company within 6", may re-roll failed Courage tests.
 
 **UNIQUE WARGEAR**
 
-(Leader only): Pony (2/5) – 2 Influence Points
+(Leader only): Pony (2/5) - 2 Influence Points
 
 **REINFORCEMENTS**
 
@@ -682,7 +682,7 @@ A Wanderers in the Wild Battle Company may have up to 50% of their models armed 
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Away from prying eyes'** – The Hero's time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *Stalk Unseen* special rule.
+**'Away from prying eyes'** - The Hero's time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *Stalk Unseen* special rule.
 
 **REINFORCEMENTS**
 
