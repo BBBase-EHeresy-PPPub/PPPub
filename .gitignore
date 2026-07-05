@@ -1,3 +1,5 @@
 source/
 site/
+tools/
+tmp/
 .vscode/

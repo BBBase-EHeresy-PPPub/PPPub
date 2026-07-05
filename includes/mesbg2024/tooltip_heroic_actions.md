@@ -1,1 +1,11 @@
-<!-- Placeholder tooltip heroic actions definitions for MESBG second edition. -->
+[Heroic Move]: ../rules_manual/heroes.md#heroic-move-move-phase-63
+[Heroic Shoot]: ../rules_manual/heroes.md#heroic-shoot-shoot-phase
+[Heroic Combat]: ../rules_manual/heroes.md#heroic-combat-fight-phase-64
+[Heroic Channelling]: ../rules_manual/heroes.md#heroic-channelling-move-phase
+[Heroic March]: ../rules_manual/heroes.md#heroic-march-move-phase-65
+[Heroic Resolve]: ../rules_manual/heroes.md#heroic-resolve-move-phase-66
+[Heroic Accuracy]: ../rules_manual/heroes.md#heroic-accuracy-shoot-phase-67
+[Heroic Challenge]: ../rules_manual/heroes.md#heroic-challenge-fight-phase-68-69
+[Heroic Defence]: ../rules_manual/heroes.md#heroic-defence-fight-phase
+[Heroic Strength]: ../rules_manual/heroes.md#heroic-strength-fight-phase
+[Heroic Strike]: ../rules_manual/heroes.md#heroic-strike-fight-phase

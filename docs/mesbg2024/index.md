@@ -1,4 +1,4 @@
-﻿# MESBG Second Edition
+﻿# MESBG 2024
 
 WiP
 
