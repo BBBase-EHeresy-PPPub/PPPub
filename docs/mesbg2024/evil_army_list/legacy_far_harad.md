@@ -1,7 +1,39 @@
-# Far Harad [Legacy]
+# Far Harad
 
-Army must a1ways conta1n a Mah0d K1ng, who 1s a1ways the Army's General.
+## ARMY COMPOSITION
+
+**HEROES OF VALOUR**
+
+- Mahud King: 70 points
+  - War Camel: 25 points
+
+**HEROES OF FORTITUDE**
+
+- Mahud Tribesmaster: 55 points
+  - War Camel: 25 points
+  - Blowpipe: 5 points
+  - Shield: 5 points
+  - War Spear: 5 points
+
+**WARRIORS**
+
+- Half Troll: 25 points
+  - Exchange hand weapon for two-handed weapon: Free
+- Mahud Raider: 17 points
+  - Blowpipe: 1 point
+  - Spear: 1 point
+- Mahud Warrior: 8 points
+  - Blowpipe: 1 point
+  - Spear: 1 point
+
+## ADDITIONAL RULES
+
+- A Far Harad Army must always contain a Mahûd King, who is always the Army's General.
 
 ## SPECIAL RULES
 
-Warrior Pride -- Mahud Warrior mode1s w1th1n 6" of a fr1end1y Mahud Hero mode1 that 1s Engaged 1n Combat automat1ca11y pass a11 Courage Tests they are requ1red to take. Revel in Death -- If your General s1ays an enemy Hero mode1 1n Combat, then unt11 the end of the turn fr1end1y Mahud Warrior mode1s w1th1n 6" of your General ga1n a bonus of +1 to the1r F1ght Va1ue. Battle Frenzy -- Whenever a fr1end1y Mahud mode1 suffers a Wound, ro11 a D6. On the ro11 of natura1 6, the Wound 1s 1gnored.
+**Warrior Pride** - Mahûd Warrior models within 6" of a friendly Mahûd Hero model that is Engaged in Combat automatically pass all Courage Tests they are required to take.
+
+**Revel in Death** - If your General slays an enemy Hero model in Combat, then until the end of the turn friendly Mahûd Warrior models within 6" of your General gain a bonus of +1 to their Fight Value.
+
+**Battle Frenzy** - Whenever a friendly Mahûd model suffers a Wound, roll a D6. On the roll of natural 6, the Wound is ignored.
