@@ -183,7 +183,7 @@ A War Mumak of Harad is comprised of a Haradrim Commander with armour and a war 
 
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 4/4+ | 4 | 5 | 2 | 2 | 4 |  2 | 1  | 1  |
+| 8" | 4/5+ | 9 | 7 | 3 | 10 | 2 | 2 | 1 | 1 |
 
 **HEROIC ACTIONS**
 
@@ -257,7 +257,6 @@ When a War Mumak of Harad tramples, it will inflict three Strength 9 hits.
 - **Awesome Presence** `PASSIVE`
 
 Friendly Haradrim and Mahud models within 3" of this model may re-roll a single D6 when making a Duel roll. This is cumulative with the effects of a banner, however, each D6 may only be re-rolled once. 
-
 </div>
 
 ---

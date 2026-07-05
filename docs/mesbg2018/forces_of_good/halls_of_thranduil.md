@@ -300,7 +300,7 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
-| 10"| 5/3+| 3 | 5 | 1 | 1 | 5 |
+| 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
@@ -320,7 +320,6 @@ Whilst within 3" of Thranduil, King of the Woodland Realm, Palace Guard receive 
 - **King's Knights** `PASSIVE`
 
 Whilst mounted, Mirkwood Cavalry models count as being in range of a banner if they are within 6" of Thranduil, King of the Woodland Realm.
-
 </div>
 
 ---

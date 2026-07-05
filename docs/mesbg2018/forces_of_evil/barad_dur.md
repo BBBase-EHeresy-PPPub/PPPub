@@ -441,7 +441,7 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 10" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 
@@ -455,7 +455,6 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 - [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
 - [Throwing spears][Throwing Weapon][Throwing weapon]: 1 point
-
 </div>
 
 ---
@@ -495,7 +494,7 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 10" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
+| 6" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
 
@@ -513,7 +512,6 @@ Each time a friendly Hero model within 6" of the Taskmaster from the same army l
 **SPECIAL RULES**
 
 - [Terror]
-
 </div>
 
 ---
@@ -560,7 +558,7 @@ A Mordor Siege Bow is a small Siege Engine and is crewed by three Orc Warriors w
 
 | Mv | F | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6' | 3/5+ | 3 | 4 | 1 | 1 | 2 |
+| - | - | 9 | 10 | - | 3 | - |
 
 **OPTIONS**
 
@@ -577,7 +575,6 @@ If a shot from a Mordor Siege Bow hits a Batdefield target, then they will suffe
 - **Accurate**
 
 A Mordor Siege Bow will only scatter 3" rather than 6".
-
 </div>
 
 ---
@@ -599,7 +596,7 @@ A Mordor War Catapult is a large Siege Engine and is crewed by three Orc Warrior
 
 | Mv | F | S | D | A | W | C |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 3/4+ | 3 | 4 | 1 | 1 | 3 |
+| - | - | 10 | 10 | - | 4 | - |
 
 **TROLL**
 
@@ -629,5 +626,4 @@ If a Catapult scores a hit against a Battlefield target, all models within 2" of
 When a Catapult rolls To Wound against a Siege target, the controlling player may roll two dice and pick the highest.
 
 - **Troll** - See page 119 of the Middle-earth Strategy Battle Game rales manual.
-
 </div>

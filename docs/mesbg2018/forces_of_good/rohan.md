@@ -352,7 +352,7 @@ If your army includes Grimbold, you may upgrade any number of Warriors of Rohan 
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 6" | 5/4+ | 4 | 7 | 3 | 3 | 5 | 3* | 2 | 2 |
+| 6" | 5/4+ | 4 | 7 | 3 | 3 | 4 | 3* | 2 | 2 |
 
 If your force contains Eorl the Young and any other named Hero models from the Rohan army list then it will automatically lose its Army Bonus.
 
@@ -383,7 +383,6 @@ Eorl's noble steed is an [armoured horse] with a Move of 12"
 - **Legendary Hero** `PASSIVE`
 
 The first time each turn that Eorl the Young expends a point of Might, roll a D6. On a 4+, the point of Might is free and does not reduce Eorl's store of Might.
-
 </div>
 
 ---

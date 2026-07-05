@@ -290,7 +290,7 @@ If Denethor is part of the same army as Faramir, then Faramir will automatically
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 4/3+ | 4 | 5 | 1 | 1 | 4 | 3 | 1 | 1 |
+| 6" | 4/3+ | 4 | 5 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR**
 
@@ -309,7 +309,6 @@ If Denethor is part of the same army as Faramir, then Faramir will automatically
 - **Master of Ambush** `PASSIVE`
 
 In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcements rule), you may modify the Reinforcements roll for Madril's warband by +1 or -1. If Madril is already on the board, then all warbands from this army list may also modify their Reinforcements roll by +1 or -1. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1.
-
 </div>
 
 ---
@@ -321,7 +320,7 @@ In Scenarios where you roll for additional forces to arrive (such as those that 
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6" | 4/3+ | 3 | 4 | 1 | 1 | 3 | 1 | 1 | 1 |
+| 6" | 4/3+ | 4 | 5 | 1 | 1 | 4 | 1 | 1 | 1 |
 
 **WARGEAR**
 
@@ -336,7 +335,6 @@ In Scenarios where you roll for additional forces to arrive (such as those that 
 **SPECIAL RULES**
 
 - [Woodland Creature]
-
 </div>
 
 ---
@@ -505,7 +503,7 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 10" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
+| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -522,7 +520,6 @@ If a Knight of the White Tower scores a natural roll of a 6 in a Duel roll, he d
 **SPECIAL RULES**
 
 - [Shieldwall]
-
 </div>
 
 ---
@@ -651,7 +648,7 @@ A Battlecry Trebuchet is a large Siege Engine and crewed by three Warriors of Mi
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
+| - | - | 10 | 10 | - | 3 | - |
 
 **OPTIONS**
 
@@ -672,7 +669,6 @@ If a Trebuchet scores a hit against a Battlefield target, all models within 2" o
 - **Wall-breaker**
 
 When a Trebuchet rolls To Wound against a Siege target, the controlling player may roll two dice and pick the highest.
-
 </div>
 
 ---
@@ -692,7 +688,7 @@ An Avenger Bolt Thrower is a small Siege Engine and is crewed by two Warriors of
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
+| - | - | 7 | 10 | - | 3 | - |
 
 **OPTIONS**
 
@@ -709,5 +705,4 @@ An Avenger Bolt Thrower only fires 24" rather than 48".
 - **Rapid Fire**
 
 An Avenger Bolt Thrower fire D6 shots each turn rather than one. Each shot is resolved in the same way as a shooting attack rather than a Siege Engine. This means that no scatter is rolled for an Avenger Bolt Thrower - it will either hit or miss. Resolve each shot individually, rolling To Hit and To Wound, before moving onto the next shot. Shots fired from an Avenger Bolt Thrower do not kill targets outright nor do they knock them to the ground.
-
 </div>

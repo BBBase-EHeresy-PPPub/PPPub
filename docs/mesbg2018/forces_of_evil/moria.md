@@ -109,12 +109,12 @@ At the start of each Fight phase, before Heroic Actions are declared, roll a D6.
 
 <div class="unitCard" markdown>
 
-### DRUZHAG THE BEASTCALLER [50 POINTS]
+### DRUZHAG THE BEASTCALLER [90 POINTS]
 *GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:| :-: | :-: | :-: |
-| 5" | 3/5+ | 3 | 4 | 2 | 2 | 4 | 2 | 5 | 2 |
+| 5" | 3/5+ | 3 | 4 | 1 | 2 | 4 | 2 | 5 | 2 |
 
 **WARGEAR**
 
@@ -138,7 +138,6 @@ Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his 
 |----------------|-------|---------|
 | [Enrage Beast]  | 12" |  3+  |
 | [Fury] (*)    | - |  3+  |
-
 </div>
 
 ---
@@ -417,7 +416,7 @@ Fate rolls may be made against this Brutal Power Attack as if it has caused a Wo
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:| :-: | :-: | :-: |
-| 4" | 6/3+ | 6 | 6 | 6 | 6 | 3 | 1 | 5 | 1 |
+| 4" | 6/3+ | 6 | 6 | 6 | 3 | 3 | 1 | 5 | 1 |
 
 **WARGEAR**
 
@@ -453,7 +452,6 @@ The Watcher is not slowed when entering a water feature. In fact, whilst within 
 - **Dragged to the Depth (BRUTAL POWER ATTACK)**
 
 Instead of striking normally, if the Watcher in the Water is within a water feature it can select a single Man-sized or smaller model involved in the same fight, and then roll a D6. On a 3+, that model suffers a Wound (Fate rolls can be made as usual). If the Wound is not saved, the model is dragged to the depths and immediately slain. The Watcher is then removed from the board and its controlling player will start to roll for the Watcher to re-arrive as described in the From the Deep special rule on this page.
-
 </div>
 
 ---
@@ -467,7 +465,7 @@ Instead of striking normally, if the Watcher in the Water is within a water feat
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:-:|:-:|:-:|:-:|
-| 5" | 1/5+ | 3 | 4 | 1 | 1 | 2 |
+| 5" | 2/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **WARGEAR**
 
@@ -483,7 +481,6 @@ Instead of striking normally, if the Watcher in the Water is within a water feat
 **SPECIAL RULES**
 
 - [Cave Dweller]
-
 </div>
 
 ---

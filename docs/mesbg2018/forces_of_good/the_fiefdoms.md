@@ -203,7 +203,7 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 
 <div class="unitCard" markdown>
 
-### MAN-AT-ARMS OF DOL AMROTH [11 POINTS]
+### MAN-AT-ARMS OF DOL AMROTH [9 POINTS]
 *MAN, GONDOR, INFANTRY, WARRIOR*
 
 | Mv | F | S | D | A | W | C |
@@ -225,7 +225,6 @@ A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth
 - **Pride of Dol Amroth** `ACTIVE`
 
 A model with this special mle, that is within 3" of Prince Imrahil of Dol Amroth, adds +1 to their Fight value.
-
 </div>
 
 ---

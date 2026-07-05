@@ -278,7 +278,7 @@ If the King's Champion is wounded, either Herald may expend their own Fate point
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 5" | 5/4+ | 4 | 8 | 2 | 2 | 6 | 1 | 0 | 0 |
+| 5" | 5/4+ | 4 | 8 | 2 | 2 | 4 | 1 | 0 | 0 |
 
 **WARGEAR**
 
@@ -295,7 +295,6 @@ At the start of the game, nominate a single Dwarf Hero model with the highest He
 - **Lead by Example** `PASSIVE`
 
 Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage tests.
-
 </div>
 
 ---
@@ -330,7 +329,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 
 <div class="unitCard" markdown>
 
-### KHAZAD GUARD [15 POINTS]
+### KHAZAD GUARD [11 POINTS]
 *DWARF, KHAZAD-DUM, INFANTRY, WARRIOR*
 
 | Mv | F | S | D | A | W | C |
@@ -346,7 +345,6 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 **SPECIAL RULES**
 
 - [Bodyguard]
-
 </div>
 
 ---
@@ -407,7 +405,7 @@ Friendly Dwarf models within 12" of a Shieldbearer may re-roll failed Courage te
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 5" | 4/4+ | 4 | 9 | 1 | 1 | 4 |
+| - | - | - | - | - | - | - |
 
 **WARGEAR**
 
@@ -439,7 +437,6 @@ Unless supported by a model with a foe spear, a model with an Iron Shield applie
 - **Foe Spear** `ACTIVE`
 
 This is a spear that when supporting a model with an Iron Shield receives a bonus of + 1 when rolling To Wound Monsters.
-
 </div>
 
 ---
@@ -459,7 +456,7 @@ A Dwarf Ballista is a small Siege Engine and is crewed by two Dwarf Warriors wit
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 5" | 4/4+ | 3 | 6 | 1 | 1 | 3 |
+| - | - | 9 | 10 | - | 3 | - |
 
 **WARGEAR**
 
@@ -481,5 +478,4 @@ If a shot from a Dwarf Ballista hits a Battlefield target, then they will suffer
 - **Accurate**
 
 A Dwarf Ballista will only scatter 3" rather than 6".
-
 </div>

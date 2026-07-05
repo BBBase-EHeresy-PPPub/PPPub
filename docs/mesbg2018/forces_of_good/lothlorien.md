@@ -235,7 +235,7 @@ If Haldir is slain in close combat, he may immediately make one Strength 4 Strik
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 6" | 5/3+ | 3 | 3 | 1 | 2 | 5 | 2 | 1 | 1 |
+| 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -258,7 +258,6 @@ In addition to the normal rules for spears, a model armed with a Wood Elf spear 
 **SPECIAL RULES**
 
 - [Woodland Creature]
-
 </div>
 
 ---
@@ -342,7 +341,7 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 
 | Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 10" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
+| 6" | 5/3+ | 3 | 5 | 1 | 1 | 5 |
 
 **WARGEAR**
 
@@ -362,7 +361,6 @@ If, when a Casting test is made, the Stormcaller rolls a natural 6 on one or mor
 - [Expert Rider]
 - [Fleetfoot]
 - [Woodland Creature]
-
 </div>
 
 ---

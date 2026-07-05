@@ -226,7 +226,7 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 5/3+ | 5 | 5 | 2 | 2 | 4 |  2 | 1  | 1  |
+| 8" | 5/3+ | 5 | 5 | 3 | 2 | 4 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -241,7 +241,6 @@ The curious blade Sharku carries into battle complements his gritty, vicious fig
 **OPTIONS**
 
 - If your army includes Mauhur, any number of Uruk-hai Scouts in his warband can be upgraded to become Marauders at a cost of +1 point per model. Marauders have a Move of 8".
-
 </div>
 
 ---
@@ -421,7 +420,7 @@ The range of Thrydan's [Stand Fast!] is 12".
 
 | Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6* | 4/4+ | 4 | 4 | 1 | 1 | 3 |
+| 6" | 4/4+ | 4 | 4 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -433,14 +432,13 @@ The range of Thrydan's [Stand Fast!] is 12".
 - [Banner]: 25 points
 - [Uruk-hai bow][Bow]: 1 point
 - [Shield]: 1 point
-
 </div>
 
 ---
 
 <div class="unitCard" markdown>
 
-### ISENGARD TROLL [9 POINTS]
+### ISENGARD TROLL [110 POINTS]
 *TROLL, ISENGARD, MONSTER, INFANTRY, WARRIOR*
 
 | Mv | F  | S | D | A | W | C |
@@ -462,7 +460,6 @@ The range of Thrydan's [Stand Fast!] is 12".
 
 - [Terror]
 - [Throw Stones] (range 12", Strength 8)
-
 </div>
 
 ---
@@ -474,7 +471,7 @@ The range of Thrydan's [Stand Fast!] is 12".
 
 | Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6* | 4/4+ | 4 | 5 | 2 | 1 | 7 |
+| 6" | 4/4+ | 4 | 5 | 2 | 1 | 7 |
 
 **WARGEAR**
 
@@ -492,7 +489,6 @@ Every time an Uruk-hai Berserker suffers a Wound, roll a D6. On the roll of a 6,
 - **Impervious to Bow-fire** `PASSIVE`
 
 Uruk-hai Berserkers count their Defence characteristic as 6 when an enemy model makes a shooting attack against them.
-
 </div>
 
 ---
@@ -642,7 +638,7 @@ An Isengard Assault Ballista is a large Siege Engine and is crewed by three Uruk
 
 | Mv | F  | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 4/4+ | 4 | 5 | 1 | 1 | 3 |
+| - | - | 9 | 10 | - | 4 | - |
 
 **OPTIONS**
 
@@ -663,5 +659,4 @@ The Assault Ballista can attempt to raise a ladder to the enemy battlements in t
 - **Accurate**
 
 An Isengard Assault Ballista will only scatter 3" rather than 6".
-
 </div>

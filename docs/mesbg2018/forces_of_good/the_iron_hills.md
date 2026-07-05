@@ -198,7 +198,7 @@ A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [
 
 | Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/4+ | 4 | 7 | 1 | 1 | 4 |
+| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **WARGEAR**
 
@@ -233,14 +233,13 @@ A mattock is a *[Two-handed]* weapon that can either use the [Bash][Hammer] or [
 When this model Charges into combat against one or more Man-sized (or smaller) models, roll a D6 for each. On a 5+, that model is immediately Knocked to the Ground.
 
 ---
-
 </div>
 
 ---
 
 <div class="unitCard" markdown>
 
-### IRON HILLS BALLISTA [90 POINTS]
+### IRON HILLS BALLISTA [125 POINTS]
 *SIEGE WEAPON, IRON HILLS*
 
 | Siege Engine | Strength | Defence | Wounds |
@@ -253,7 +252,7 @@ An Iron Hills Ballista is a large Siege Engine and is crewed by four Iron Hills 
 
 | Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
+| - | - | 8 | 10 | - | 4 | - |
 
 **OPTIONS**
 
@@ -274,7 +273,6 @@ The Iron Hills Ballista always counts as declaring a Heroic Shoot – there is n
 - **Tremendous Impact** `ACTIVE` –
 
 If an Iron Hills Ballista scores a hit against a Battlefield Target, all Man-sized (or smaller) models within 2" are Knocked to the Ground. Cavalry models within 2" must take a Thrown Rider test. Additionally, any model within 2" also suffers a Strength 4 hit.
-
 </div>
 
 ---
@@ -288,7 +286,7 @@ If an Iron Hills Ballista scores a hit against a Battlefield Target, all Man-siz
 
 | Mv | F | S | D | A | W | C |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
+| 8" | 4/4+ | 4 | 8 | 2 | 5 | 3 |
 
 **IRON HILLS CHARIOT**
 
@@ -399,5 +397,4 @@ To use this template, place the corner marked X over the centre of the rapid fir
 When pivoting the Chariot, keep the template still and pivot the Chariot about point X so that the pole is now facing up to 45º to either the left or the right, as shown by the template.
 
 When firing the rapid fire bolt thrower, place the template as described above. This is the rapid fire bolt thrower's field of fire.
-
 </div>

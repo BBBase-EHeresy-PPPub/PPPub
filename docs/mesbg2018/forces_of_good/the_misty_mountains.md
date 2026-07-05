@@ -15,7 +15,7 @@ This army may include: Gwaihir and Great Eagles.
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:-:|:-:|:-:|
-| 3" | 8/4+ | 6 | 8 | 2 | 3 | 6 | 3 | 3 | 3 |
+| 3" | 8/3+ | 6 | 8 | 2 | 3 | 6 | 3 | 3 | 3 |
 
 **WARGEAR**
 
@@ -35,7 +35,6 @@ This army may include: Gwaihir and Great Eagles.
 - **Lord of the Eagles** `ACTIVE`
 
 Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit from his Heroic Actions.
-
 </div>
 
 ---
@@ -49,7 +48,7 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| 3" | 7/4+ | 6 | 8 | 2 | 3 | 6 |
+| 3" | 7/3+ | 6 | 8 | 2 | 3 | 6 |
 
 **WARGEAR**
 
@@ -60,5 +59,4 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 - [Fly]
 - [Monstrous Charge]
 - [Terror]
-
 </div>

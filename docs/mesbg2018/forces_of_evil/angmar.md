@@ -182,12 +182,12 @@ In a turn in which Buhrdur slays an enemy Hero or Monster model in combat, all f
 
 <div class="unitCard" markdown>
 
-### SHADE [100 POINTS]
+### SHADE [75 POINTS]
 *SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE*
 
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 1/4+ | 1 | 8 | 1 | 3 | 1 | 0  | 8  |  0 |
+| 6" | 1/6+ | 1 | 8 | 2 | 3 | 5 | 0 | 8 | 0 |
 
 **WARGEAR**
 
@@ -200,7 +200,6 @@ Whilst a Shade has no specific weapons, it is a twisted mass of undead beings co
 - Chill Aura (PASSIVE)
 
 At the start of the Fight phase, before Heroic Actions are declared, a Shade may expend a Will point to activate this ability. Any enemy model within 6" of one or more Shades suffers a -1 penalty on its Duel roll. This is cumulative with other such penalties, such as for wielding a two-handed weapon.
-
 </div>
 
 ---

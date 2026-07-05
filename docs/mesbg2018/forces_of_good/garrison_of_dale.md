@@ -53,7 +53,7 @@ If Girion, Lord of Dale hits a target with his great bow, he may take another sh
 
 | Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---|
-| 6" | 5/4+| 4 | 5 | 2 | 2 | 3 |
+| 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 |
 
 **WARGEAR**
 
@@ -68,7 +68,6 @@ If Girion, Lord of Dale hits a target with his great bow, he may take another sh
 
 - [Esgaroth bow][Bow]: 5 points
 - [Shield]: 5 points
-
 </div>
 
 ---

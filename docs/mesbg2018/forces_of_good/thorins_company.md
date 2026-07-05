@@ -120,7 +120,7 @@ If they are in base contact, Fíli the Dwarf and Kíli the Dwarf may choose to s
 
 <div class="unitCard" markdown>
 
-### BALIN THE DWARF [55 POINTS]
+### BALIN THE DWARF [40 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -150,7 +150,6 @@ This weapon may use the Feint or Bash Special Strikes.
 - **Longbeard** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
-
 </div>
 
 ---
@@ -267,12 +266,12 @@ Whenever Bofur is targeted by a Magical Power or special rule, he may try to ign
 
 <div class="unitCard" markdown>
 
-### BOMBUR THE DWARF [40 POINTS]
+### BOMBUR THE DWARF [45 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF FORTITUDE*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/3+ | 4 | 4 | 2 | 3 | 5 | 2 | 1 | 1 |
+| 5" | 4/4+ | 4 | 4 | 2 | 3 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -299,7 +298,6 @@ When making Jump or Climb tests, Bombur the Dwarf must re-roll results of 6. Add
 - **Raising Spirits** `ACTIVE`
 
 Once each turn, at any point in Bombur's Move phase, choose a friendly model in base contact with Bombur the Dwarf and roll a D6. On a 4+, the chosen model regains a point of Will spent earlier in the battle (or campaign).
-
 </div>
 
 ---
@@ -343,7 +341,7 @@ If Ori scores a 6 when rolling To Hit, do not take any In The Way tests, and do 
 
 <div class="unitCard" markdown>
 
-### NORI THE DWARF [50 POINTS]
+### NORI THE DWARF [55 POINTS]
 *DWARF, INFANTRY, HERO — HERO OF VALOUR*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -369,7 +367,6 @@ If Ori scores a 6 when rolling To Hit, do not take any In The Way tests, and do 
 - **Weapon Master** `ACTIVE`
 
 Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penalty to the Duel roll for fighting with a two-handed weapon.
-
 </div>
 
 ---
@@ -381,7 +378,7 @@ Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penal
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 1 | 1 |
+| 5" | 5/4+ | 4 | 5 | 3 | 2 | 5 | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -402,7 +399,6 @@ Nori the Dwarf is never considered unarmed, and never suffers the usual -1 penal
 - **A Good Sort Really** `PASSIVE`
 
 If Bilbo Baggins is within 3" of Dori the Dwarf, he may spend Dori's Might, Will, and Fate points as if they were his own.
-
 </div>
 
 ---
@@ -414,7 +410,7 @@ If Bilbo Baggins is within 3" of Dori the Dwarf, he may spend Dori's Might, Will
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 5" | 4/4+ | 4 | 4 | 1 | 2 | 6 | 1 | 4 | 1 |
+| 5" | 4/4+ | 4 | 4 | 1 | 2 | 5 | 1 | 4 | 1 |
 
 **WARGEAR**
 
@@ -437,7 +433,6 @@ In the Move phase, instead of moving, Óin the Dwarf may attempt to heal a frien
 - **Prognostication** `ACTIVE`
 
 Once per Fight phase, Óin the Dwarf can expend a Will point to enable a friendly model within 3" to re-roll a single dice when making a Duel roll.
-
 </div>
 
 ---
@@ -484,7 +479,7 @@ Glóin the Dwarf must re-roll scores of 1 To Wound in combat.
 
 | Mv | F | S | D | A | W | C | M | W | F |
 | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 4" | 3/3+ | 2 | 3 | 1 | 2 | 6 | 3 | 6* | 3 |
+| 6" | 5/4+ | 4 | 5 | 1 | 3 | 7 | 3 | 6* | 3 |
 
 **WARGEAR**
 
@@ -521,7 +516,6 @@ Gandalf may re-roll his dice when making Fate rolls.
 | [Strengthen Will] | 12" | 4+  |
 | [Collapse Rocks] | 6" | 5+  |
 | [Sorcerous Blast]| 12" | 5+  |
-
 </div>
 
 ---

@@ -323,7 +323,7 @@ Every time a Gundabad Berserker suffers a Wound, roll a D6. On a roll of a 6 (or
 
 <div class="unitCard" markdown>
 
-### GUNDABAD TROLL [85 POINTS]
+### GUNDABAD TROLL [120 POINTS]
 *TROLL, GUNDABAD, MONSTER, INFANTRY*
 
 | Mv | F | S | D | A | W | C |
@@ -348,7 +348,6 @@ Wounds caused by Strikes from Gundabad Trolls armed with a crushing club cause n
 - **Scythe Gauntlets** `ACTIVE`
 
 A Gundabad Troll armed with a pair of scythe gauntlets receives a +1 bonus to its Strikes when rolling To Wound.
-
 </div>
 
 ---
@@ -395,7 +394,7 @@ Catapult Trolls never count as being unarmed. Furthermore, count their Strength 
 
 <div class="unitCard" markdown>
 
-### TROLL BRUTE [75 POINTS]
+### TROLL BRUTE [100 POINTS]
 *TROLL, GUNDABAD, MONSTER, INFANTRY*
 
 | Mv | F | S | D | A | W | C |
@@ -413,7 +412,6 @@ Catapult Trolls never count as being unarmed. Furthermore, count their Strength 
 - **Crushing Blow** `ACTIVE`
 
 Each time a Troll Brute moves into base contact with another model, it must inflict a single Strength 10 hit upon that model. Cavalry models suffer these hits on both the rider and the mount. If the model is slain, then the Troll Brute may continue its move. If it is not slain, then the Troll Brute stops (exactly like a charging model would) and, if the model is an enemy, will fight it as normal in the Fight phase.
-
 </div>
 
 ---

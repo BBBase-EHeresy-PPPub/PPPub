@@ -646,7 +646,7 @@ A Great Beast of Gorgoroth comprises an Orc Commander with armour and a spear as
 
 | Mv | F  | S | D | A | W | C | M | W | F |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6" | 4/5+ | 4 | 5 | 2 | 2 | 4 |   |   |   |
+| 8" | 4/4+ | 6 | 7 | 3 | 5 | 2 |  |  |  |
 
 **GREAT BEAST**
 
@@ -672,7 +672,6 @@ When a Great Beast Tramples, it will inflict two Strength 6 hits.
 - **Battle Platform** `PASSIVE`
 
 Models within the Great Beasts' Howdah do not count towards your force's Bow Limit.
-
 </div>
 
 ---
@@ -732,7 +731,7 @@ Models within the Great Beasts' Howdah do not count towards your force's Bow Lim
 
 | Mv | F | S | D | A | W | C |
 |:--:|:--:|:-:|:--:|:-:|:-:|:-:|
-| 6" | 4/4+ | 5 | 6 | 1 | 3 | 3 |
+| 6" | 4/4+ | 5 | 6 | 1 | 1 | 3 |
 
 **WARGEAR**
 
@@ -762,7 +761,6 @@ Models within the Great Beasts' Howdah do not count towards your force's Bow Lim
 - [Orc bow][Bow]: 1 point
 - [Shield]: 1 point
 - *[Two-handed]* [mace]: 1 point
-
 </div>
 
 ---
