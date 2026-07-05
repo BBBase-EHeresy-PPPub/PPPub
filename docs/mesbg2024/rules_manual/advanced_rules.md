@@ -1,8 +1,6 @@
-# ADVANCED RULES
-
 know, will only come up in certain situations or in specific Scenarios. Here we will cover the likes of water features, carrying objects, models riding a mount as a passenger, and more. There will also be a few sections afterwards that will go into the detail surrounding sieges and how to use the likes of siege engines in your games.This section of the Rules Manual will cover a number of different aspects of the game that, whilst all important to Some of these rules will also be great for adding variety to your games, or when you create your own Scenarios or battles. For example, having a raging river across the board can completely change the way a battle is played. Some of these rules will be used solely in Narrative Play games, but are covered here for ease.
 
-### WATER FEATURES
+## WATER FEATURES
 
 From fast flowing rivers to shallow fords and pools of still water, there are numerous areas of Middle-earth where water can be found either on or around a battlefield - these are all referred to as water features. Before you start a game, if there are any water features on the battlefield, you should discuss with your opponent whether they are classed as Shallow Water or Deep Water for the duration of the game. A model cannot choose to Lie Down in a water feature.
 
@@ -20,7 +18,7 @@ Any stretch of water that is deep enough that a model could not stand with its f
 
 1 2-5 6 Result Sink: The model is overcome by the weight of its wargear (or its complete inability to swim) and drowns. Remove the model as a casualty. Swim: The model may Move up to half its remaining Move Value through the water. Swim Strongly: The model may Move all its remaining Move Value through the water. Water Features The following circumstances will modify the result of a Swim Test. All modifiers are cumulative: If the model is a Cavalry model, apply a +1 modifier. If the model is equipped with heavy armour or heavy Dwarf armour, apply a -1 modifier. If the model is carrying a shield (but not a light shield), apply a -1 modifier. If the model is carrying a banner, apply a -1 modifier.
 
-### CARRYING OBJECTS
+## CARRYING OBJECTS
 
 There will be many situations where a model will be able to carry objects around the battlefield, and these can come in all shapes and sizes, from small trinkets and items used as objectives to the likes of large, weighty demolition charges and siege ladders, and even, in some instances, other models. The heavier an item is, the harder it will be to carry it round the battlefield. Objects that can be carried fall into one of three categories: Light Objects, Heavy Objects and other models.
 
@@ -36,7 +34,7 @@ Items that are especially large or cumbersome are considered to be Heavy Objects
 
 In Narrative Play, there may be situations where models need to carry a fallen ally or prisoner - when this is the case it will be stated in the special rules for that Scenario. The weight of the model being carried, compared to how strong the carrying model is, will determine how the carried model is treated. A model is treated as a Light Object if its Defence characteristic is half, or less, of the carrying model's Strength. A model is treated as a Heavy Object if its Defence characteristic is greater than half of the carrying model's Strength. Carrying Objects
 
-### PASSENGERS
+## PASSENGERS
 
 Passenger is the term used for a model that is also mounted upon a steed, but is not the rider of a Cavalry model - they are essentially carried into battle by their ally. The Passenger rules are more commonly seen in Narrative Play games, though there are some aspects that can also be used in a Matched Play game as well. If the Passenger rules are in play for a Narrative Play game, it will say as such in the Scenario special rules. The Passenger rules are only in use in Matched Play if explicitly stated as such in a model's profile. In these instances, the Mounting rules are never used - only the rules for Dismounting and Hitting Passengers. A Passenger is still a model in its own right, and will count as a separate model for the purpose of working out how many models an Army has, how many casualties an Army has suffered, and when calculating the number of models in a specific area. Whilst mounted upon a Cavalry model, a Passenger cannot Activate, make Shooting Attacks, or contribute to a Combat in any way (unless otherwise specified). If a rule states it would affect both the rider and the Mount, then it will also affect any Passengers.
 
@@ -52,12 +50,12 @@ Whilst they are a Passenger, a model may be struck by enemy models. If a Shootin
 
 In specific Narrative Scenarios, models may be able to Mount a Cavalry model and become a Passenger. To do this, the model must Move into base contact with the Cavalry model and roll a D6. On a 1, the model fails to Mount and neither model may Move any further that turn. On a 2-5, the model successfully Mounts, though neither model may Move any further that turn. On a 6, the model successfully Mounts and the Cavalry model can still Activate if it hasn't already done so that turn. Passengers
 
-### SENTRIES SENTRY CHART
+## SENTRIES SENTRY CHART
 
 Some Narrative Scenarios will use Sentries - models that are simply on patrol and unaware of an enemy sneaking around and therefore cannot engage them directly until they are discovered. If a player has any Sentries, they must always be the first models that Activate during their Move Phase. Before each Sentry Activates, their controlling player rolls a D6 and consults the Sentry Chart that follows to see how they act.
 
 1 2-3 4-5 6 Result The Sentry is distracted and searching around its vicinity. It may not Move this turn. The Sentry has heard a noise elsewhere. The opposing player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. The Sentry is suspicious of intruders. Their controlling player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. The Sentry is convinced they spotted something lurking in the dark. Their controlling player may Move the Sentry as normal. Until the alarm is raised, Sentries cannot make Shooting Attacks, or use Magical Powers or special rules that need to target enemy models. If during the End Phase of a turn a Sentry is within 3" of an enemy model and can draw Line of Sight to them, then the alarm will be raised. If a Sentry was hit by a Shooting Attack and was not slain, and has not been removed as a casualty (or otherwise incapacitated), then during the End Phase of that turn they will raise the alarm. Once the alarm has been raised, Sentries will act normally from that point onwards. Sentries
 
-### FIGHTING AT NIGHT
+## FIGHTING AT NIGHT
 
 Some Scenarios take place at night, which will have an impact on the battle and the fighters waging war in the darkness. In Scenarios that take place at night, models can only see a distance of 12". This means that they cannot target enemy models with Shooting Attacks, Magical Powers or special abilities over 12" away. As it is much harder to avoid a shot in the dark, all Shooting Attacks gain a bonus of +1 To Wound if they target a model in the dark. Siege Engine models may still target enemy models more than 12" away - however, in this situation they will only ever hit on the roll of a 6. Wounds done by the Area Effect of a Siege Engine do not gain this +1 To Wound. Models that have been illuminated by a special rule or Magical Power (such as the Blinding Light Magical Power), can be targeted by Shooting Attacks, Magical Powers and special rules from distances greater than 12" away. Shooting Attacks will not gain the bonus of +1 when rolling To Wound when Shooting at illuminated models. Models with the Cave Dweller special rule can see in the dark normally, and therefore may target models from greater than 12" away with Shooting Attacks, Magical Powers and special rules. Additionally, Shooting Attacks that target a model with the Cave Dweller special rule will not gain the bonus of +1 when rolling To Wound. Fighting at Night

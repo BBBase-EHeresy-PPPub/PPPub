@@ -1,5 +1,3 @@
-# SIEGE ENGINES
-
 Throughout the storied history of Middle-earth, there have been numerous cities that have been put under siege by grand hosts or seemingly endless tides of enemies. Such battles are a different beast to those that take place upon open fields or traversable terrain where armies can engage one another, and as such require vastly different tactics. To this end, armies will often employ the use of siege engines, great weapons of war that are designed to smash down fortress walls or to blow great holes in the ranks of the attackers. Whatever form they take, siege engines pose a serious threat to any army and can vastly change the flow of a battle. In this section, we present the rules for using a Siege Engine in your games. Every Siege Engine will have its own profile which will differ to a standard profile as a number of characteristics simply aren't relevant to an inanimate lump of wood and metal! A Siege Engine profile only contains four characteristics: Range, Strength, Defence and Wounds - as shown in the example below: Range Strength Defence Wounds Gondor Battlecry Trebuchet 12" - 96" 10 10 3 A Siege Engine does not Activate. Additionally, a Siege Engine will always be defined as either Large or Small, which will have an impact on how easy it will be to Move or Shoot. This will be covered later on.
 
 ### SIEGE CREW
@@ -10,11 +8,11 @@ A Siege Engine will also have a number of crew listed in its profile; these are 
 
 Additionally, one of the crew members is always a Siege Veteran. A Siege Veteran has exactly the same profile as the normal crew, with the exception that they exchange the Warrior keyword for the Hero keyword, and have a single point each of Might, Will and Fate. A Siege Veteran may use their Might Point to improve the To Hit, Scatter or To Wound Roll of the Siege Engine. A Siege Veteran is a Minor Hero; however, their Warband can only ever include the Siege Engine and the crew. A Siege Engine never counts as a model for the purpose of holding objectives or areas of the battlefield when working out how many models are in your Army or when working out your Army's Break Point.
 
-### DEPLOYING A SIEGE ENGINE
+## DEPLOYING A SIEGE ENGINE
 
 In a Matched Play game, a Siege Engine does not follow the usual rules for deployment. Instead, all Siege Engine models are deployed before any other models, starting with the player who is deploying the first Warband and then alternating from there. A Siege Engine must always be deployed wholly within its player's deployment zone, and wholly within 6" of a table edge. In Scenarios where players don't have a deployment zone (such as those that use Maelstrom of Battle), all Siege Engine models are deployed before the first turn of the game. As players don't have a deployment zone in these Scenarios, both players roll off before the game begins, with the player that rolls highest choosing one table edge to deploy their Siege Engine models wholly within 6" of. Their opponent then deploys their Siege Engine models wholly within 6" of the opposite table edge. If only one player has Siege Engine models, they are automatically counted as winning this roll-off. A Siege Engine that deploys in this manner does not count as having Moved on the first turn. Deploying a Siege Engine
 
-### SIEGE ENGINES AND MOVING
+## SIEGE ENGINES AND MOVING
 
 As you may have guessed, a Siege Engine Moves in a very different way to other models, and in some instances they cannot Move at all. The way the crew of a Siege Engine Moves also differs slightly, and we will cover all of that here.
 
@@ -28,7 +26,7 @@ The crew Move in the same way as normal models. However, crew cannot Move furthe
 
 ### TARGET TYPES
 
-### SIEGE ENGINES AND SHOOTING
+## SIEGE ENGINES AND SHOOTING
 
 Siege Engine models may Shoot in the Shoot Phase like any other model following all of the usual steps, provided it has not been Moved during the preceding Move Phase and has enough crew in base contact with it who are not Engaged in Combat. A Large Siege Engine requires two unengaged crew members, whilst a Small Siege Engine only requires one.
 
@@ -64,6 +62,6 @@ Other friendly models may need to help a Siege Engine Shoot should the crew be s
 
 Once a Siege Engine has made a Shooting Attack, and the actual target has been determined, then a To Wound Roll needs to be made in the same way as normal, using the Strength of the Siege Engine. A Siege Target that is wounded will suffer 1 Wound. A Battlefield Target that is hit is immediately knocked Prone. Additionally, a Battlefield Target that is the actual target and is wounded will be instantly slain and removed as a casualty, unless they are able to prevent the Wound (such as by using Fate). Models hit by the area of effect of a Siege Engine (if applicable) will not be automatically slain in this manner. The only exceptions to this auto-slain rule are if the actual target has a Defence or Wounds characteristic of 10 or more. In these instances, a successful Wound will deal a number of Wounds equal to half the actual target's starting Wounds characteristic instead. If a Cavalry model is hit by a Siege Engine, then all parts of the model (rider, Mount and any passengers) will all be hit individually - make a To Wound Roll for each of them as described above.
 
-### ATTACKING A SIEGE ENGINE
+## ATTACKING A SIEGE ENGINE
 
 A Siege Engine can be shot at in the same manner as other models. A Siege Engine can also be the target of a Magical Power or special rule, but will ignore all effects of any Magical Power or special rule with the exception of damage. If, during the End Phase of a turn, a model is in base contact with an enemy Siege Engine, that model hasn't done anything during that turn except Move (i.e., has not made a Shooting Attack, Cast a Magical Power, been Engaged in Combat), and that model was not affected by a Magical Power that turn, then it can disable the Siege Engine. A Siege Engine that is disabled immediately reduces its remaining Wounds to 0. When a Siege Engine is reduced to 0 Wounds for any reason, remove it from play. Remember that a Siege Engine never counts as a model in regards to the total number of models in the Army, or towards an Army's Break Point. A Siege Engine does not have a Control Zone, cannot be Engaged in Combat, and cannot be knocked Prone for any reason. A Siege Engine counts as having a Strength of 6 for the purpose of rules that refer to a model's Strength. Attacking a Siege Engine

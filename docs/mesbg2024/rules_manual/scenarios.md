@@ -1,6 +1,4 @@
-# SCENARIOS
-
-### SCENARIO 1 DOMINATION
+## SCENARIO 1 DOMINATION
 
 achieved by forcing the enemy back and securing the key points on the battlefield. Failure will not be permitted!This battlefield will provide a distinct tactical advantage for whoever holds it for many years to come. Victory can be
 
@@ -28,7 +26,7 @@ Both players roll a D6. The player who rolls highest chooses who has Priority in
 
 For each Objective Marker, you score 1 Victory Point if you have more models within 3" than your opponent. If you have at least twice as many models as your opponent within 3", you instead score 2 Victory Points. If you are the only player to have models within 3", you instead score 3 Victory Points. You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points. You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
-### SCENARIO 2 TO THE DEATH!
+## SCENARIO 2 TO THE DEATH!
 
 be slain. No quarter shall be asked and none shall be given. Only the Valar know who will win the day!Once again, fate has pitted the forces of Good and Evil against each other, and no matter the cost, the enemy must
 
@@ -44,7 +42,7 @@ Both players roll a D6. The player who rolls highest chooses who has Priority in
 
 You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General has been wounded, and only has 1 Wound remaining, then you instead score 3 Victory Points. If the enemy General was removed as a casualty, you instead score 5 Victory Points. You score 3 Victory Points if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 5 Victory Points. You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this). You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score 2 Victory Points. You score 3 Victory Points if the enemy Army has been reduced to 25% of its starting models at the end of the game. You score 1 Victory Point for each enemy Hero model that has been removed as a casualty, up to a maximum of 3 Victory Points.
 
-### SCENARIO 3 HOLD GROUND
+## SCENARIO 3 HOLD GROUND
 
 the victory of both sides. Both forces surge towards this new tactical advantage, desperate to control it.In the swirl of battle it becomes apparent that a certain, usually insignificant, area of the battlefield has become vital to
 
@@ -76,7 +74,7 @@ Maelstrom of Battle - At the end of your Move Phase, roll a D6 for each of your 
 
 ### B
 
-### SCENARIO 4 DESTROY THE SUPPLIES
+## SCENARIO 4 DESTROY THE SUPPLIES
 
 y destroying the supplies and rations of their enemy, one force can gain an immediate upper hand in the battles between the two armies.
 
@@ -96,7 +94,7 @@ You score 3 Victory Points for each enemy Supply Marker that has been destroyed.
 
 Supply Markers - The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not Cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
 
-### SCENARIO 5 RECONNOITRE
+## SCENARIO 5 RECONNOITRE
 
 attempting to sneak past the enemy whilst simultaneously preventing their foes from doing the same.Scouts have been sent out by both forces in order to gather vital information from behind enemy lines. Each force is
 
@@ -118,7 +116,7 @@ Reinforcements - At the end of your Activation Phase, roll a D6 for each of your
 
 1-3 4-6 Result The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. Designer's Note: Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.
 
-### SCENARIO 6 FOG OF WAR
+## SCENARIO 6 FOG OF WAR
 
 plans constantly change and the two generals become locked in a battle of wits, both trying to work out their adversary's aims.Amidst the maelstrom of the battle that rages, the two forces clash in an endless swirl of shields and swords. Battle
 

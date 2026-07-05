@@ -1,12 +1,10 @@
-# PRIORITY PHASE
-
 To determine which player will act first in the subsequent phases, you will need to work out who has Priority for the duration of the turn. Priority represents one force acting swiftly to get the jump on the enemy, or biding their time and waiting for the most opportune moment to strike. Deciding whether to take or relinquish Priority presents a range of tactical opportunities and challenges for a player to consider throughout the turn that follows.
 
 The Priority Phase can be broken down into a number of steps as shown below:
 
 **Start of Priority Phase** - Any special rules that come into play at the start of the Priority Phase are resolved here.
 
-### ROLL FOR PRIORITY
+## ROLL FOR PRIORITY
 
 The players will roll for Priority. After Priority has been determined, any special rules that come into play during the Priority Phase are resolved here.
 

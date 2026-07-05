@@ -1,8 +1,6 @@
-# MAGIC
-
 Certain individuals within Middle-earth have the ability to harness magic, utilising all manner of arcane powers to subtly affect those around them and have an impact on the course of a battle. From cunning weaves designed to manipulate a foe, noble powers used to protect allies from harm, to dark sorceries that are used maliciously to weaken and cripple a target, and perhaps even inflicting death, magic has countless forms. Those that can conjure such magic can be a valuable ally - or a terrible foe to be on the wrong side of… A number of models in the Strategy Battle Game can utilise Magical Powers, providing them with an alternative way of being effective on the battlefield. Though magic may not be a dominant force, bringing ruin upon an army in a fiery cataclysm (magic in Middle-earth is typically a subtle affair), the use of a well-timed power can be crucial in altering the outcome of a battle. It is folly to underestimate the power of a Wizard or a servant of the Dark Lord, and those that do may often find themselves confounded by illusion or on the wrong end of a magical barrage.
 
-### USING MAGICAL POWERS
+## USING MAGICAL POWERS
 
 Models that can use Magical Powers will have a section in their profile listing the Magical Powers they have the ability to Cast. Casting Magical Powers requires a model to spend Will Points and so, typically speaking, a model must have Will Points remaining in order to Cast a Magical Power. A model with no Will Points remaining cannot Cast a Magical Power. A Prone model cannot Cast a Magical Power.
 
@@ -21,6 +19,8 @@ A model will need Line of Sight to the target in order to Cast a Magical Power u
 ***Example 81: Gandalf is trying to help***
 
 Thorin's Company escape from the pursuing Goblins, and attempts to Cast Transfix on Grinnah to stop him Charging Ori. Gandalf requires a Casting Test of 4+ and so rolls two dice, rolling a 1 and a 4, which is enough. Not wanting to be prevented from Activating, Grinnah decides to spend 1 Will Point to make a Resist Test, and rolls a 5 - which is enough to Resist Gandalf's Transfix. The Magical Power has been resisted and does not take effect.
+
+![](../media/rules_manual/example_81.jpg)
 
 ### MAKING A CASTING ROLL (81)
 
@@ -54,7 +54,7 @@ These Magical Powers last until the End Phase of the turn they were Cast in, at 
 
 These Magical Powers remain in play until the caster reaches 0 Will Points remaining, at which point they immediately end.
 
-### MAGICAL POWERS LIST
+## MAGICAL POWERS LIST
 
 ### AURA OF COMMAND
 

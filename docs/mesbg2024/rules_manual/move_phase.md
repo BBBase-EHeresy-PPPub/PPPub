@@ -1,5 +1,3 @@
-# MOVE PHASE
-
 Success in battle will often be achieved by the general who most effectively commands their followers around the battlefield; outflanking their enemy, controlling key areas and seizing critical positions from the grasp of their foes. Whether the goal is to assail the city of Edoras, infiltrate the tower of Cirith Ungol or flee the spider-infested forest of Mirkwood, a firm grasp of the Move Phase will be required to secure victory.
 
 The Move Phase can be broken down into a number of steps as shown below:
@@ -14,7 +12,7 @@ The Move Phase can be broken down into a number of steps as shown below:
 
 **End of Move Phase** - Any special rules that come into play at the end of the Move Phase are resolved here.
 
-### ACTIVATION PHASE
+## ACTIVATION PHASE
 
 When it is time for a player's Activation Phase, they get the chance to Activate each of their models in an order of their choosing. When a model is chosen to Activate, they follow the steps below: Start of Activation Any special rules that come into play at the start of a model's Activation are resolved here. Start of Move Any special rules that come into play at the start of a model's Move are resolved here, before the model Moves. Move Model The model may Move as described on page 26. Any special rules that come into play during a model's Move are resolved here, at any point during the model's Move. End of Move Any special rules that come into play at the end of a model's Move are resolved here, after the model has finished Moving. End of Activation Any special rules that come into play at the end of a model's Activation are resolved here. Once a model has been Activated and started their Activation, they must complete their Activation before another model can be Activated. You cannot Activate a different model during another model's Activation. You must Activate every model you control during your turn if able, though you do not have to do everything above with a model when they are Activated - they can essentially be Activated and do nothing, then you can move on to your next model. There will be situations where models you control cannot be Activated, in which case they do not follow any of the steps above. Once each model has Activated (if able), your Activation Phase ends.
 
@@ -22,15 +20,21 @@ When it is time for a player's Activation Phase, they get the chance to Activate
 
 with the rest of the Fellowship. A ruler is placed next to Frodo to measure his Move Value of 4". It's important not to exceed a model's Move Value (frankly, that's cheating!). With the distance determined, Frodo Moves level with the 4" mark.
 
+![](../media/rules_manual/example_01.jpg)
+
 ***Example 2: The wall shown here is in***
 
 Frodo's path. Frodo's player measures around it to work out where the Hobbit's Move will end.
+
+![](../media/rules_manual/example_02.jpg)
 
 ***Example 3: With the other members of***
 
 the Fellowship blocking his way, Frodo can only fit his base through the gap in between Sam and Gimli - note how this is the only gap big enough to fit Frodo's base through.
 
-### MOVING MODELS
+![](../media/rules_manual/example_03.jpg)
+
+## MOVING MODELS
 
 ### MOVING MODELS (1, 2, 3)
 
@@ -44,7 +48,7 @@ Models may only Move off the board in Scenarios that specifically allow it, or i
 
 Sometimes a model will be unable to Move for one reason or another, and when this is the case it will be made clear in the rules. Some examples of this are when a model has lost their Activation, such as when they have been Charged or affected by a specific Magical Power, or have been rendered unable to Move due to failing a Courage Test when attempting to Charge an enemy with the Terror special rule.
 
-### CONTROL ZONES (4)
+## CONTROL ZONES (4)
 
 Every model has a Control Zone - an imaginary 1" ring around the model that extends out from their base. No model may enter the Control Zone of an enemy model unless they are Charging the model in question. There may be instances where a model is forced to enter an enemy model's Control Zone, such as being forced to Back Away after losing a Combat or failing a Jump Test and landing in another model's Control Zone. In these situations, a model may enter the enemy model's Control Zone making sure there is still a small gap between models. Note: A model still cannot choose to enter an enemy model's Control Zone without Charging - it can only happen when they are forced to. A model's Control Zone will stop at the point where it comes into contact with an Obstacle or piece of impassable terrain. Control Zones can be a very useful tool, allowing you to keep enemy models out of a specific area of the battlefield, or being used to protect a particular model from attack.
 
@@ -58,15 +62,21 @@ If a model starts its Move within the Control Zone of an enemy model, then it ha
 
 against two Uruk-hai Scouts. Due to Boromir's Control Zone, the Uruk- hai cannot go within 1" of him unless they are Charging.
 
+![](../media/rules_manual/example_04.jpg)
+
 ***Example 5: Gimli has Charged this Uruk-***
 
 hai Scout. Because it is now Engaged in Combat, the Uruk-hai has lost its Control Zone and cannot be Activated during its player's Activation Phase, and therefore may not Move.
+
+![](../media/rules_manual/example_05.jpg)
 
 ***Example 6: Aragorn Charges the nearest***
 
 Uruk-hai - entering its Control Zone first. As soon as he enters the Control Zone of the first Uruk-hai, Aragorn is free to Move within that Control Zone, so long as he ends up Charging the Uruk- hai whose Control Zone he entered first.
 
-### CHARGING ENEMIES
+![](../media/rules_manual/example_06.jpg)
+
+## CHARGING ENEMIES
 
 ### CHARGING ENEMIES (5)
 
@@ -80,13 +90,21 @@ There are a few rules regarding Control Zones that are important to note when Ch
 
 and Boromir which the Uruk-hai would like to Move through in order to Charge Pippin. However, because of the Control Zones of Aragorn and Boromir, the Uruk-hai cannot pass through without Charging one of the two Men.
 
+![](../media/rules_manual/example_07_1.jpg)
+![](../media/rules_manual/example_07_2.jpg)
+
 ***Example 8: Here, the Uruk-hai nearest***
 
 to the Fellowship are all Engaged in Combat with either Legolas or Gimli and therefore have no Control Zones. Aragorn wishes to Charge the Uruk-hai nearest to him, however, he would be entering the Control Zones of the Uruk- hai behind their Engaged allies in order to do so. As there is no way of Aragorn Charging the model whose Control Zone he would be entering, he may ignore it and simply Charge the Uruk-hai he is nearest to. Here, Aragorn wishes to Charge the Morannon Orc straight in front of him. As that Morannon Orc is already Engaged in Combat with Gimli, and therefore has no Control Zone, it may seem at first glance that the Control Zone of the Morannon Orc with spear behind the target of Aragorn's Charge is preventing him from Charging. Luckily for Aragorn, as there is no physical way for him to Charge this Morannon Orc with spear as it is blocked off by the Orcs Engaged in Combat with Gimli and Legolas respectively, Aragorn can ignore their Control Zone and Charge his target freely. To avoid this, the Evil player has two other Uruk- hai Charge Aragorn and Boromir. Now that they are Engaged in Combat, Aragorn and Boromir have no Control Zones and so the Uruk-hai is free to Charge Pippin.
 
+![](../media/rules_manual/example_08_1.jpg)
+![](../media/rules_manual/example_08_2.jpg)
+
 ***Example 9: Boromir wants to Charge***
 
 two Uruk-hai at once. After entering the Control Zone of the first Uruk-hai, he continues to Move within its Control Zone in order to Move into base contact with two Uruk-hai and therefore Charge both of them.
+
+![](../media/rules_manual/example_09.jpg)
 
 ### CHARGING MULTIPLE ENEMIES (9)
 
@@ -96,7 +114,7 @@ Models may Charge multiple enemy models should they wish. To do this, the model 
 
 Sometimes a model may wish to Charge an enemy model that is on the other side of a wall, hedge or other Barrier. The rules for this are fully detailed in the Fight Phase section (see page 54).
 
-### TERRAIN
+## TERRAIN
 
 Middle-earth is filled with all manner of exciting and vibrant places, all of which have their own specific terrain; from the rolling green hills of the Shire, to the rickety wooden walkways of Goblin-town, and the dense overgrown woodland of Mirkwood. It is often the battlefields that we play on that make our games feel so enjoyable and immersive, but to ensure that the games run smoothly we need a couple of rules to help govern the types of terrain.
 
@@ -116,11 +134,16 @@ Obstacles are any manner of linear object on the battlefield that impede a model
 
 the thick undergrowth to rescue Merry and Pippin. As this is Difficult Terrain, every 1" Boromir Moves will count as 2". Boromir has a Move Value of 6", allowing him to Move 3" through the Difficult Terrain. Here, Boromir Moves across 2" of Open Ground before he reaches Difficult Terrain. Since he only has 4" of his Move Value remaining, Boromir can only Move 2" into the Difficult Terrain.
 
+![](../media/rules_manual/example_10_1.jpg)
+![](../media/rules_manual/example_10_2.jpg)
+
 ***Example 11: Aragorn wishes to Move***
 
 over this low wall. As the wall is less than half of Aragorn's height, he may simply Move over it with no penalty.
 
-### JUMPING (12)
+![](../media/rules_manual/example_11.jpg)
+
+## JUMPING (12)
 
 From fallen trees to low walls, a battlefield will likely have a
 
@@ -132,9 +155,12 @@ D6 Result number of Obstacles that will impede a model's Movement and will need 
 
 Frodo goes first, Moves into base contact with the wall and makes his Jump Test. He rolls a 3, and Moves over the wall to the other side. His Move then ends. Pippin goes second and also takes a Jump Test, rolling a 6. Not only does Pippin cross the wall, but he may continue to Move if he wishes. Merry goes next and takes his Jump Test, rolling a 4 and Moves across to the other side. As this puts Merry into the Control Zone of an enemy model, he must Move the minimum distance possible to Charge if he wishes. Finally, seeing his friends clamber over the wall, Sam tries to do the same. Unfortunately, Sam rolls a 1 for his Jump Test and so fails to cross the wall and his Activation immediately ends - leaving him at the mercy of the Nazgûl.
 
+![](../media/rules_manual/example_12_1.jpg)
+![](../media/rules_manual/example_12_2.jpg)
+
 ### JUMPING
 
-### LEAPING (13, 14)
+## LEAPING (13, 14)
 
 The likes of rickety walkways, yawning chasms and other such terrain provide plenty of opportunities for models to Leap across gaps. Any such attempt must be resolved with a Leap Test. For a model to be able to attempt to Leap over a gap, the gap cannot be wider than twice the height of the model (compare the model and the gap in question if you are unsure) and they must have enough Move Value to be able to fully reach the other side - otherwise it is just too far to Leap across. A model may also attempt a Leap Test to try to Leap over a river in the same manner. To make a Leap Test, the model Moves to the edge of the gap it wishes to Leap over and rolls a D6, consulting the Leap Table to find out how successful the attempt has been.
 
@@ -146,17 +172,23 @@ D6 Result
 
 two Moria Goblins and wishes to put some distance between them by Leaping over a chasm to safety. Gimli Moves to the edge of the gap and takes a Leap Test. Rolling a 4, Gimli successfully Leaps the gap and is placed on the other side. His Move then immediately ends. 1 2-5 6 Stumbles and Fails: The attempt to Leap has gone wrong. The model falls to the bottom of the gap halfway between where they leapt from and where they were leaping to, suffers Falling Damage (see page 35) and becomes Prone. The model's Activation immediately ends. Success: The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. If the model is now within the Control Zone of an enemy model it must Move the minimum distance required in order to Charge that model, so long as it doesn't exceed its Move Value. Otherwise, the model's Move immediately ends, even if within the Control Zone of an enemy model. If the model lands in the Control Zones of multiple enemy models, it will Charge the closest one as described above. Effortlessly Bounds Across: The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. It may then continue its Activation as normal.
 
+![](../media/rules_manual/example_13.jpg)
+
 ### LEAPING
 
 ***Example 14: The Balrog is hot on the***
 
 heels of the Fellowship and they must do all they can to escape. Aragorn decides to Move over a small fallen pillar - he must take a Jump Test. Boromir wants to put some height between himself and the fiery demon, and so chooses to scramble up a rocky cliff - he must take a Climb Test.
 
+![](../media/rules_manual/example_14.jpg)
+
 ***Example 15: Aragorn, Legolas and Gimli***
 
 are cut off from their allies at Helm's Deep and need to Climb the scaffolding to reach them. Aragorn spends 1" of his Move Value to reach the scaffolding and then takes a Climb Test. Rolling a 4, Aragorn is successful and Moves to the top. Legolas follows suit and rolls a 6 for his Climb Test. He Moves up the scaffold and then spends his remaining Move Value (note that, as Climbing is considered to be done in Difficult Terrain, he has precious little left!). Finally, Gimli reaches the bottom of the scaffold but rolls a 1 for his Climb Test. He fails and becomes Prone. A Prone Marker is placed next to him and his Activation immediately ends.
 
-### CLIMBING (14, 15)
+![](../media/rules_manual/example_15.jpg)
+
+## CLIMBING (14, 15)
 
 In order to climb Obstacles that are greater than a model's height, such as tall walls, scaffolding or rock faces, a model will be required to take a Climb Test. It is also important to note that for a model to attempt a Climb Test there must be some way for them to scale the surface, such as handholds, jutting rocks, wooden crosspieces, etc. To make a Climb Test, the model Moves to the bottom of the surface they wish to Climb and rolls a D6, consulting the Climb Table to find out how successful the attempt has been. Cavalry models may not take Climb Tests. Models must Climb directly upwards, and the vertical distance a model Moves as part of a Climb Test is counted towards the distance a model can Move during their Activation. Climbing counts as Moving through Difficult Terrain.
 
@@ -190,15 +222,21 @@ A model that falls in any situation will become Prone at the bottom of whatever 
 
 Climbing this rockface and so finds a ladder to use instead. The ladder is 3" high, and so he Moves up it at the cost of 3" of his Move Value.
 
+![](../media/rules_manual/example_16.jpg)
+
 ***Example 17: Gimli has tried to Climb***
 
 down this rockface to aid his allies. However, Gimli has rolled a 1 for his Climb Test and so falls to the ground at the bottom of the rockface and, as the distance he fell was greater than his own height he will suffer Falling Damage. The distance Gimli fell was two full inches taller than his height, and so he will suffer three Strength 3 hits - one for the Falling Damage, and a further two for the extra distance he has fallen.
+
+![](../media/rules_manual/example_17.jpg)
 
 ***Example 18: Frodo is currently Prone***
 
 and wishes to Crawl during his Move. Frodo Crawls 1" and then Stands Up, which because he Crawled is all the Moving he can do during his Move. As Frodo has now stood up, the Prone Marker is removed and he is free to use his full Move Value next turn.
 
-### PRONE MODELS
+![](../media/rules_manual/example_18.jpg)
+
+## PRONE MODELS
 
 During a game, there will likely be times where models will find themselves Prone. Whether this is as a result of a failed Climb Test, being on the receiving end of a Cavalry Charge or some other effect, it is important to understand how Prone models interact with the game. If a model is ever Knocked to the Ground, then they will immediately become Prone and a Prone Marker should be placed next to them as a reminder.
 
@@ -224,7 +262,7 @@ Prone models can be Charged as normal. As they have no Control Zone, enemy model
 
 Models may attempt to Jump Over Prone models exactly as if they were an Obstacle, with the following exceptions: A model that wishes to Jump Over an enemy model that is less than half its height must still take a Jump Test. If a model attempts to Jump Over an enemy model and rolls a 1, they do not Jump Over the enemy model and instead must Charge them at the point in which they tried to Jump Over them. If a model attempts to Jump Over an enemy model and rolls a 2-5, they will Jump Over the enemy model as normal and may choose to either Charge the model they Jumped Over after doing so, or instead be separated slightly from the enemy model and end their Move. If a model attempts to Jump Over an enemy model and rolls a 6, they will Jump Over the enemy model and may continue their Move as normal.
 
-### REINFORCEMENTS (20)
+## REINFORCEMENTS (20)
 
 Sometimes models may be kept aside to enter the battle later on. When they do, they will typically enter via the rules for Reinforcements. When Reinforcements enter the battlefield, they will do so during their player's Activation Phase of the Move Phase, after all of that player's models on the board have Activated (if able). When models Move onto the board in this manner, a point is chosen on a specified board edge and the model will Move onto the board from that point following all the usual rules for Moving, with the exception that they may not Charge for any reason (including the effects of an enemy rule). In Matched Play games, when a Warband is chosen to Move onto the board via the rules for Reinforcements, the whole Warband will move on together. When the point at which the Warband will enter from has been chosen, the Warband's Captain must enter first from that point. Then, any Followers from that Warband may enter the board from any point within 3" of the initial chosen point. The player who chooses where the Warband will enter the board must choose a place where the whole Warband can physically make it onto the board and be deployed. If this is not possible for whatever reason, then the Warband will enter on the next turn instead, where they will roll again with a +1 bonus to the roll to determine which part of the board they enter from.
 
@@ -234,6 +272,10 @@ Sometimes models may be kept aside to enter the battle later on. When they do, t
 
 and Gimli wishes to Jump Over it, and so must make a Jump Test. Rolling a 5, Gimli successfully Jumps Over the Goblin and is placed on the other side of it, slightly separated from being in base contact. Gimli then has two choices: either to end his Move where he is, or to Move into base contact with the Goblin and Charge him - Gimli chooses the latter.
 
+![](../media/rules_manual/example_19.jpg)
+
 ***Example 20: Haleth's Warband has***
 
 arrived via the rules for Reinforcements. First, Haleth Moves onto the board from the chosen point. After this, all of Haleth's Followers may Move onto the board from any point within 3" of the chosen point, one by one.
+
+![](../media/rules_manual/example_20.jpg)

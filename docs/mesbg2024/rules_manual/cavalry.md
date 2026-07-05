@@ -1,8 +1,6 @@
-# CAVALRY
-
 Many of the most feared and formidable armies in the history of Middle-earth have utilised cavalry to devastating effect. Whether from the back of a horse, Warg or some other mount, an impactful cavalry charge is enough to scatter even the most steadfast battleline; and those that try to stand against such a charge often find themselves trampled into the ground. There are a number of different cavalry options available to the armies of Middle- earth, each of which are capable of unleashing untold devastation upon the ranks of their enemies.
 
-### WHAT IS A CAVALRY MODEL?
+## WHAT IS A CAVALRY MODEL?
 
 A Cavalry model consists of two parts: the rider on top, and the Mount being ridden. Riders that are separated from their Mount will immediately replace their Cavalry keyword with the Infantry keyword. Additionally, an Infantry model that purchases a Mount will replace their Infantry keyword with the Cavalry keyword. A model may only ever purchase a single Mount.
 
@@ -14,13 +12,13 @@ The only models that can ride a Mount are those who either start with the Cavalr
 
 To determine whether or not a Cavalry model has Line of Sight to another model, always check Line of Sight from the rider and not the Mount.
 
-### CHARACTERISTICS FOR CAVALRY MODELS
+## CHARACTERISTICS FOR CAVALRY MODELS
 
 A Cavalry model has two sets of characteristics: one for the rider and one for the Mount.
 
 ### MORDOR WARG RIDER
 
-### CAVALRY AND MOVEMENT
+## CAVALRY AND MOVEMENT
 
 A Cavalry model moves in the same way as an Infantry model, with the exception that it cannot take a Climb Test, Lie Down, Crawl or use the likes of ladders, ropes or similar. Cavalry models must also use the Move Value of the Mount when they Move. When comparing the height of the Cavalry model to an Obstacle or gap, use the height of the full model from the top of the rider's head to the feet of the Mount. If the Cavalry model is in an unusual pose - such as rearing up or hunched down low - remember to use the model's true height.
 
@@ -90,9 +88,13 @@ What is a Cavalry Model? Characteristics For Cavalry Models Cavalry and Movement
 
 Pelennor Fields, however she needs to pass through a rocky outcrop on her way. A horse can move 10" in total: Éowyn spends 2" of her Move Value moving up to the Difficult Terrain, leaving her with 8" remaining. This is enough to allow Éowyn to Move 2" through the rocky outcrop this turn.
 
+![](../media/rules_manual/example_50.jpg)
+
 ***Example 51: Wulf is on his horse and***
 
 wishes to Descend from atop this large boulder. Because the drop is taller than the model, there is a chance that it will be injured. The horse suffers one Strength 3 hit. If it survives, it may continue to Move as normal.
+
+![](../media/rules_manual/example_51.jpg)
 
 ### CAVALRY AND DIFFICULT TERRAIN (50)
 
@@ -138,15 +140,21 @@ The rider of a Cavalry model may Dismount from their steed at any point during t
 
 under a low arch whilst mounted. However, the arch is too low for Wulf and his horse together, and so he must Dismount and continue on foot, or find an alternative route.
 
+![](../media/rules_manual/example_52.jpg)
+
 ***Example 53: Aragorn and Legolas are***
 
 chasing down Gothmog, who has moved through a gap too small for a Cavalry model to fit through. As he is further away, Legolas has to Move 8" to get close to Gothmog and Dismount; though as he has now Moved over the 6" he can Move on foot, Legolas cannot Move any further. Aragorn Moves 3" before Dismounting, which then gives him 3" of his Move Value remaining - enough to Charge Gothmog.
+
+![](../media/rules_manual/example_53.jpg)
 
 ***Example 54: Kíli is Shooting at the***
 
 Hunter Orc on Fell Warg, targeting the rider. After successfully rolling To Hit, Kíli must now take a special In The Way Test to see whether he hits the Mount (on a 1-3) or the rider (on a 4+). Rolling a 5, Kíli's shot hits the rider and he must now roll To Wound.
 
-### CAVALRY AND SHOOTING
+![](../media/rules_manual/example_54.jpg)
+
+## CAVALRY AND SHOOTING
 
 Cavalry models Shoot in the same way as other models, measuring Line of Sight from the point of view of the rider.
 
@@ -168,7 +176,7 @@ There are various steeds that can be ridden by Cavalry models. The most unusual 
 
 ### HORSE - 40MM
 
-### CAVALRY AND COMBAT
+## CAVALRY AND COMBAT
 
 Cavalry models fight as one during a Combat, and must always use the highest Fight Value, Attacks and Strength available between the rider and Mount - even if that means using some from one and some from the other. Whilst when a Cavalry model fights it may combine the characteristics of both rider and Mount, it is always the rider that is considered to be fighting, and so will use any special rules or abilities, or apply any modifiers (such as fighting with a two-handed weapon) associated with the rider fighting in Combat. To illustrate the point, let's compare the characteristics of a Rider of Rohan with those of a Warg Rider: Race
 
@@ -230,9 +238,13 @@ Fell Sight
 
 of Morannon Orcs. As they are both Infantry, Théoden will get the Extra Attack and Knock to the Ground bonuses. Théoden rolls three dice for his Duel Roll (2 for his Attacks +1 for Extra Attack) and wins the roll, knocking both Morannon Orcs Prone. Théoden then gets to make three Strikes, and may choose how to assign them. As his Strikes are being made against Prone enemies, Théoden will roll two dice rather than one and apply both results. He assigns the first Strike to the first Orc, rolls two dice, and then checks the results before deciding which Orc to assign the next Strike to.
 
+![](../media/rules_manual/example_55.jpg)
+
 ***Example 56: Théoden has Charged***
 
 another Morannon Orc. However, this time a Warg Rider has subsequently Charged Théoden as well. Since Théoden is no longer fighting solely against Infantry models, he no longer gains the Extra Attack and Knock to the Ground bonuses he would normally get. This means that Théoden will only roll two dice (the number of Attacks on his profile) when making his Duel Roll.
+
+![](../media/rules_manual/example_56.jpg)
 
 ### CAVALRY CHARGE (55, 56)
 
@@ -254,18 +266,20 @@ If a model wins a Duel Roll against a Cavalry model, then it may choose to make 
 
 Cavalry models can defend Barriers in the same way as Infantry models. If a Cavalry model Charges a model that is defending a Barrier, then they do not get either the Extra Attack or Knock to the Ground bonuses. Remember though, that the Barrier must be at least half as tall as the attacker (in this case the Cavalry model) in order for it to count as a Barrier that can be defended.
 
-### CAVALRY AND SPECIAL RULES
+## CAVALRY AND SPECIAL RULES
 
 If a special rule states it affects a model, or all models within a certain range or specification, then both the rider and the Mount of a Cavalry model will be affected unless otherwise stated.
 
-### CAVALRY AND MAGIC (57)
+## CAVALRY AND MAGIC (57)
 
 If a model uses a Magical Power that targets a Cavalry model, then the whole model (both rider and Mount) is considered to be the target of the Magical Power, and both will feel the effects. Some Magical Powers may state that if it targets a Cavalry model then they must choose whether the rider or Mount is affected, in which case only the chosen part of the Cavalry model will be affected if the Magical Power succeeds (see page 112).
 
-### CAVALRY AND BREAK POINTS
+## CAVALRY AND BREAK POINTS
 
 As a Cavalry model contains two parts - the rider and the Mount - it can be confusing trying to understand if and when slain Cavalry models count as a casualty in regards to working out if an Army has been Broken. A Cavalry model will count as a casualty in regards to working out whether an Army is Broken (or reduced to 25%) as soon as the rider is slain, regardless as to whether the Mount stays or flees. If the Mount is slain, either before the rider or after the rider has been slain themselves, then this will not count as a casualty towards an Army's Break Point. Cavalry and Special Rules Cavalry and Magic Cavalry and Break Points
 
 ***Example 57: Gandalf is mounted***
 
 upon Shadowfax and is the target of Saruman's Flameburst Magical Power. As this is a Cavalry model, both Gandalf and his Mount, Shadowfax, will feel the effects.
+
+![](../media/rules_manual/example_57.jpg)

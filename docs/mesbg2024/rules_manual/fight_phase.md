@@ -1,5 +1,3 @@
-# FIGHT PHASE
-
 Battles are won and lost in the chaos of hand-to-hand combat, where warriors meet each other face-to-face in an epic clash of steel. Skill with a blade, a stout heart and no small amount of luck are required to achieve victory when the fighting gets up close and personal. In order to emerge victorious, a general will need to amass their forces and use them to great effect on the battlefield, crushing their foes in combat.
 
 During the Fight Phase, models will battle for their lives in a series of Combats. A Combat is essentially a duel between two or more enemy models that are Engaged in Combat with each other. Remember, enemy models can only be placed in base contact with each other if one of the models has Charged the other, and all enemy models in base contact (and therefore Engaged in Combat) must fight - there is no standing idly by! Every Combat must be resolved during the Fight Phase; you cannot choose not to resolve some of them.
@@ -16,11 +14,11 @@ The Fight Phase can be broken down into a number of steps as shown below:
 
 **End of Fight Phase** - Any special rules that come into play at the end of the Fight Phase are resolved here.
 
-### PAIRING OFF COMBATS (29)
+## PAIRING OFF COMBATS (29)
 
 At the start of the Fight Phase, the very first thing that needs to be done is to work out which models are Engaged in Combat with one another. Any models that are Engaged in Combat with an enemy model will need Pairing Off into Combats. By the end of the Pairing Off Combats step, you will need to reach a situation where all models that were Engaged in Combat are assigned to a Combat, and that no Combat has multiple models from both sides involved in the Combat - i.e., you cannot have a Combat with two (or more) models from each side. When it comes to Pairing Off Combats, there are a few rules that govern how it works. The first is that all models Engaged in Combat with an enemy model must be Paired Off into a Combat - they cannot be Paired Off in a way that would stop them being Engaged in Combat. Models can only be Paired Off into a Combat with a model they are in base contact with. Secondly, if a model could be Paired Off into multiple different Combats, then the player with Priority may decide which Combat the model is Paired Off into. These do not need to be done equally, so long as every model that was Engaged in Combat has been Paired Off into a Combat.
 
-### WHEN TO FIGHT
+## WHEN TO FIGHT
 
 In practice, it is often a good idea for players to look over the Combats at the start of the Fight Phase and split them, with the player with Priority deciding on any where there are multiple options. It can be a good idea whilst you are learning to separate the Combats slightly so that there is a small gap between them. However, this should only be done for clarity and not to gain an advantage in-game by moving a model into or out of range of an ability. If models are moved in this way for the sake of clarity, they will still count as being in base contact with what they were with beforehand. Sometimes there may be a situation where a rule will target or affect a model in a Combat which could cause multiple other models to be affected as well - such as a Shooting Attack, Magical Power or an ability that could Move a model out of Combat before the Fight Phase. When this would be the case, the game should be temporarily paused and the player with Priority should decide how the affected Combats should be Paired Off for the purpose of the rule or ability in question. Once this has been done, the rule is resolved as normal and play continues. When it gets to the Fight Phase, the player with Priority will then Pair Off the Combats again as normal.
 
@@ -28,7 +26,9 @@ In practice, it is often a good idea for players to look over the Combats at the
 
 A. As it's clear who Frodo is fighting, and there are no other models in the Combat, no Pairing Off is required. Sam is in base contact with Moria Goblins B and C. Merry is also in base contact with Moria Goblin C, and so Merry is Paired Off against Moria Goblin C, leaving Sam to be Paired Off against Moria Goblin B. Finally, and most complex of all, Pippin is in base contact with Moria Goblins D, E and F,whilst Aragorn is in base contact with Moria Goblins F and G. It is clear that Pippin is fighting Moria Goblins D and E, and that Aragorn is fighting Moria Goblin G. However, as Moria Goblin F could be fighting either Pippin or Aragorn, and both are already in a Combat it is up to the player with Priority to decide which Combat it will be Paired Off into. As the Evil player has Priority, they choose to Pair Off Moria Goblin F into Pippin's Combat - bad news for the Hobbit! Combats are resolved one at a time in an order chosen by the player with Priority. Players use dice to determine the outcome of a Combat and whether any casualties are caused. Once a Combat has been resolved, the player with Priority chooses another Combat to resolve, and so on until all Combats have been resolved. The order that Combats are resolved in is often of little consequence, and so it is usually best to work them out in an arbitrary manner such as left to right or saving the most interesting ones until last. However, sometimes the order in which you resolve Combats can make a big difference - models might be Trapped, banners may be in jeopardy, and so on. Because of this it is always worth the player with Priority taking a look at how best they can pick the order of Combats to work in their favour.
 
-### RESOLVING A COMBAT
+![](../media/rules_manual/example_29.jpg)
+
+## RESOLVING A COMBAT
 
 Resolving a Combat is simple, especially once you have done it a few times. A Combat is broken down into four steps as shown below:
 
@@ -60,21 +60,31 @@ There may be instances where models on both sides have the chance to use a re-ro
 
 this Moria Goblin. They need to make a Duel Roll, and both roll a dice to see who wins. Frodo rolls a 5, whilst the Moria Goblin rolls a 2. With the highest result, Frodo wins the Duel Roll and the Moria Goblin must Back Away.
 
+![](../media/rules_manual/example_30.jpg)
+
 ***Example 31: Here, Aragorn is fighting an Uruk-hai.***
 
 As a skilled combatant, Aragorn has 3 Attacks on his profile. This allows him to roll three dice for his Duel Roll, compared to the Uruk-hai's 1, and pick the highest result.
+
+![](../media/rules_manual/example_31.jpg)
 
 ***Example 32: Frodo is fighting yet another Moria***
 
 Goblin. Making a Duel Roll, both Frodo and the Moria Goblin roll a 3 - a tie. Comparing their Fight Values, we see that Frodo has a Fight Value of 3, whilst the Moria Goblin has a Fight Value of 2, meaning that Frodo wins the Duel Roll and the Moria Goblin must Back Away. Frodo will then have the opportunity to make a Strike.
 
+![](../media/rules_manual/example_32.jpg)
+
 ***Example 33: Haleth has beaten Wulf in a Duel Roll,***
 
 and so Wulf must now Back Away 1". The direction in which Wulf Backs Away is up to his controlling player, as long as he Moves the full 1" away from Haleth. As Wulf retreats backwards, Haleth readies his weapon to make Strikes.
 
+![](../media/rules_manual/example_33.jpg)
+
 ***Example 34: Bombur has lost a Duel Roll and finds***
 
 himself pinned in place by two Goblins with his back to a sheer drop. As he must Back Away, Bombur is forced over the edge! First the Goblins resolve their Strikes as normal and then, assuming Bombur survives, he will fall and suffer Falling Damage.
+
+![](../media/rules_manual/example_34.jpg)
 
 ### DRAWN COMBAT (32)
 
@@ -100,6 +110,8 @@ Whilst a Prone model cannot Charge an enemy, they can still be Charged as normal
 
 the Witch-king, and finds himself Trapped by Éowyn and Merry. Not wanting Théoden to take double Strikes from the Lord of the Nazgûl, the Good player has Merry Make Way to allow Théoden the space he needs to Back Away.
 
+![](../media/rules_manual/example_35.jpg)
+
 Once the Duel Roll has been resolved and the loser has Backed Away, the winner gets the chance to make Strikes against their enemy. To make a Strike, roll To Wound by comparing the model's Strength against the target's Defence on the To Wound Chart in the same manner as Shooting (see page 44). If the To Wound Roll is successful, the target suffers a Wound; reduce their remaining Wounds by 1. If this reduces a model's Wounds characteristic to 0, they are slain and removed as a casualty. If the To Wound Roll fails, nothing happens.
 
 ### MULTIPLE ATTACKS
@@ -115,6 +127,8 @@ Any model that is reduced to 0 Wounds is immediately slain and removed as a casu
 ***Example 36: Gandalf has forced this Moria Goblin***
 
 against a rocky wall, trapping it. The Wizard wins the Duel Roll, causing the Moria Goblin to be Trapped. Gandalf makes a Strike against the Moria Goblin and rolls two To Wound Rolls against his Trapped foe, applying both results.
+
+![](../media/rules_manual/example_36.jpg)
 
 ### MULTIPLE COMBATS
 
@@ -136,6 +150,8 @@ If a model with multiple Attacks wins a Duel Roll against multiple enemy models,
 
 Trapped against a rocky wall, and another that has Charged in against him. Aragorn wins the Duel Roll and now gets to resolve his Strikes. He chooses to use his first Strike against the Trapped Uruk-hai and makes two To Wound Rolls simultaneously as it is Trapped. If the Uruk-hai survives, Aragorn can direct another Strike at it (for a further two To Wound Rolls) or he can choose to use his Strikes against the other Uruk-hai, which will only make a single To Wound Roll each as the other Uruk-hai is not Trapped.
 
+![](../media/rules_manual/example_37.jpg)
+
 ### OUTNUMBERED IN A COMBAT
 
 Some special rules will come into effect when a certain model is outnumbered in a Combat, i.e., if the model is on its own and fighting multiple opponents - such as if it is two-on-one. It is important to note that Supporting models (see page 104) never count towards working out if a model is outnumbered in a Combat.
@@ -144,7 +160,9 @@ Some special rules will come into effect when a certain model is outnumbered in 
 
 wall and is therefore defending it, with his Control Zone extending over it. No enemy model may cross the wall within Haleth's Control Zone unless they first Charge and slay him. The Hill Tribesman must decide whether to cross the wall further away from Haleth, or whether to risk taking on a skilled fighter behind the barricade.
 
-### DEFENDED POSITIONS
+![](../media/rules_manual/example_38.jpg)
+
+## DEFENDED POSITIONS
 
 Certain areas of the battlefield are ideally suited as defensive positions, giving fighters a chance to use their surroundings to their advantage. From walls and hedges to the likes of Doorways and Elevated Positions, these defensible positions can see a warrior hold out far longer than they normally could.
 
@@ -176,13 +194,19 @@ Should a model defending a Barrier also be Charged by an enemy model on the same
 
 fighting over a Barrier with Haleth as the defender. Haleth wins the Duel Roll and makes his Strikes against General Targg without needing to make an In The Way Test for each Strike. If General Targg had won, he would have needed to take an In The Way Test for each of his Strikes.
 
+![](../media/rules_manual/example_39.jpg)
+
 ***Example 40: Haleth is still defending the low wall***
 
 against General Targg but now a Hill Tribesman has arrived. Because the Hill Tribesman is on the same side of the Barrier as him, Haleth will receive no protection from the Barrier. Should Haleth lose the Duel Roll, General Targg and his ally will be able to make Strikes against Haleth without needing to take an In The Way Test for each Strike.
 
+![](../media/rules_manual/example_40.jpg)
+
 ***Example 41: Here, Gothmog is blocking a Doorway he***
 
 is standing in. Because Aragorn cannot Move through the Doorway without Moving into base contact with Gothmog, the sneaky Orc gets the advantage of defending the Doorway.
+
+![](../media/rules_manual/example_41.jpg)
 
 ### DOORWAYS (41)
 
@@ -196,6 +220,10 @@ Models positioned on higher ground can also defend it in the same manner as a Ba
 
 a tide of Goblins. Because their Elevated Position is higher than half the height of the Goblins, both brothers will receive the bonuses for defending a Barrier.
 
+![](../media/rules_manual/example_42.jpg)
+
 ***Example 43: The Mordor Troll has Charged the***
 
 Warrior of Minas Tirith which is atop this ruin. As the ruin is taller than half the height of the Troll, but not taller than it, the Warrior of Minas Tirith will count as defending a Barrier. If the ruin had been less than half the height of the Troll, then it would have provided no benefit to the Warrior of Minas Tirith and the Combat would have been resolved as normal.
+
+![](../media/rules_manual/example_43.jpg)

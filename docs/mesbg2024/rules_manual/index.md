@@ -4,7 +4,7 @@ Welcome to the Middle-earth Strategy Battle Game, the hobby of collecting, paint
 
 Chances are that many of you reading this will have never played a tabletop wargame before, and so the tome you are holding may seem a little daunting at first glance to newer players. But fear not, within the pages of the Middle-earth Strategy Battle Game Rules Manual you will be guided upon your journey into the fantastic realm of tabletop wargaming, with all of the rules laid out for you in a clear and easy to follow manner, complete with examples that will help explain everything to you and clear up any questions you may have. There is also a handy index at the back of this manual, which will help you find any rules you need to reference quickly and easily.
 
-### MIDDLE-EARTH IN MINIATURE
+## MIDDLE-EARTH IN MINIATURE
 
 Many of us who have followed the stories set in Middle-earth - whether *The Lord of the Rings*™, *The Hobbit*™ or *The War of the Rohirrim*™ - have at some point dreamt of being part of the action; striding into battle alongside our favourite characters, going on adventures within the epic landscapes, or simply just strolling along the paths of the Shire. The Middle-earth Strategy Battle Game allows you to recreate your favourite moments, transporting you to Middle-earth and letting your imagination run wild.
 
@@ -12,7 +12,7 @@ If you are reading this, then there is a good chance that you have already seen 
 
 This Rules Manual is here to guide you on your journey through collecting and gaming with your own collection of finely detailed Middle-earth miniatures, so that you can get the most fun and enjoyment out of them. Whether you simply want to collect your favourite heroes, villains and creatures from Middle-earth, or you wish to gather a mighty army of Men, Elves, Orcs or another army of your choosing and do battle with your friends, this Rules Manual is here to guide you every step of the way.
 
-### HOW TO USE THIS RULES MANUAL
+## HOW TO USE THIS RULES MANUAL
 
 The Middle-earth Strategy Battle Game Rules Manual contains within its pages all of the information that you will need to organise your collection and play exciting games set in the world of Middle-earth. The game allows you to faithfully recreate your favourite battles and scenes from *The Lord of the Rings*™: Motion Picture Trilogy, *The Hobbit*™: Motion Picture Trilogy and *The War of the Rohirrim*™.
 
@@ -22,7 +22,7 @@ This Rules Manual also contains a selection of specially written Matched Play Sc
 
 The profiles for all your favourite heroes, warriors and creatures can be found within the relevant army supplement: *Armies of The Lord of the Rings*™, *Armies of The Hobbit*™ or *Armies of Middle-earth*™.
 
-### PLAYING THE GAME
+## PLAYING THE GAME
 
 Those of you who have never played a tabletop wargame before may be wondering how it all works; after all, it can seem quite strange to you if you don't know what's going on! Over the next few pages, we will look at how you go about setting up and getting started with your first game of the Middle-earth Strategy Battle Game.
 
@@ -34,7 +34,7 @@ The first thing you need, and possibly the most important, is a friend to play y
 
 Of course, there is nothing stopping you from playing the Middle-earth Strategy Battle Game in your own way; playing games with your own rules, creating unique alliances and scenarios, and simply just playing the game in whatever manner suits you best - that is all part of the fun of the game!
 
-### SETTING UP THE BATTLEFIELD
+## SETTING UP THE BATTLEFIELD
 
 Most Narrative Play and Matched Play games will have instructions and ideas on how to set up the battlefield ready for your game, including maps and even photos to help guide you. In addition, in each Scenario there will be an idea given of what the terrain should be.
 

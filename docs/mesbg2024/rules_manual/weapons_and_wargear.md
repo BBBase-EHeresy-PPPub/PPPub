@@ -1,12 +1,10 @@
-# WEAPONS AND WARGEAR
-
 crafted and finely balanced blades of the Elves to the hardened axes of the Dwarves wrought out of steel and iron, and the crude and wicked weapons of the Orcs: weapons can take all kinds of forms. There are even some weapons that have, through their valorous use in battle and their wielder's epic deeds, themselves been forged into legend.The weapons used in warfare within Middle-earth come in all manner of types, shapes and sizes. From the elegantly Up until now, we have made no distinction as to what a model is armed with, what type of armour it may be wearing or any other wargear they may be carrying, such as banners or war horns. The Strategy Battle Game has a variety of different weapons and wargear that models can use in battle, many of which will have a massive impact on their effectiveness, and in this section we are going to cover what these all do. In each model's profile it will state all the pieces of wargear they carry, such as weapons, armour, equipment and sometimes pieces of wargear unique to them (which will be detailed in their profile). Some profiles will also have a section stating any additional wargear the model can purchase. This section is split into two sections: Weapons and Wargear.
 
-### WEAPONS
+## WEAPONS
 
 Weapons are what models use to try to cause damage, and can be split into Melee Weapons and Missile Weapons.
 
-### MELEE WEAPONS
+## MELEE WEAPONS
 
 Melee Weapons are used by models in Combat during the Fight Phase in order to try to wound each other. There may be cases where a model may be armed with multiple types of Melee Weapon. In these instances, the model's controlling player must decide which Melee Weapon is being used before the Duel Roll is made. Here we will explain the various types of Melee Weapons and what they do.
 
@@ -30,9 +28,13 @@ Some models don't carry any weapons at all; such models are said to be Unarmed. 
 
 of Warriors of Rohan, and so a Hill Tribesman with a spear has come to aid him. Because the Hill Tribesman is in base contact with Wulf, they can Support. In the Duel Roll, the controlling player will roll three dice for Wulf as usual, and one extra dice for the Hill Tribesman.
 
+![](../media/rules_manual/example_78.jpg)
+
 ***Example 79: This Uruk-hai Captain***
 
 is holding the centre of a battleline. Because the Uruk-hai Captain is Supported by two Uruk-hai Warriors with pike, in addition to its own 2 Attacks, the controlling player will roll an additional two dice in the Duel Roll - one for each Supporting Uruk-hai with pike.
+
+![](../media/rules_manual/example_79.jpg)
 
 ### SPEAR (78)
 
@@ -70,7 +72,7 @@ Some weapons may be classed as Master-forged. A model using a Master-forged weap
 
 Some weapons, special rules, or even Magical Powers will say they are fire-based attacks. This has no inherent effect, though some models may be immune to fire- based attacks. A weapon, special rule, Magical Power, etc., is only a fire-based attack if it specifically states so in its profile.
 
-### MISSILE WEAPONS
+## MISSILE WEAPONS
 
 Missile Weapons are used during the Shoot Phase to make Shooting Attacks, and come in all shapes and sizes. If a model has a Missile Weapon it will be listed in their profile; some models may be able to purchase Missile Weapons. In some cases, a model may be armed with multiple Missile Weapons. In these instances, their controlling player must decide which Missile Weapon is being used to make the Shooting Attack before rolling To Hit - they cannot use both. All Missile Weapons have a range and a Strength, which are used when measuring the range of the Shooting Attack and when making any To Wound Rolls for successful hits caused by the Missile Weapon.
 
@@ -102,11 +104,11 @@ Name Blowpipe Bow Crossbow Dwarf bow Dwarf longbow Elf bow Esgaroth bow Great bo
 
 2 2 4 3 3 3 3 4 3 2 2 1 3 3 3
 
-### WARGEAR
+## WARGEAR
 
 Wargear can be loosely described as the items that models use during a fight that aren't used as weapons. Wargear can be split into two types: equipment and armour. There is also a section for the most powerful piece of wargear of all - the One Ring.
 
-### EQUIPMENT
+## EQUIPMENT
 
 Equipment are the kinds of wargear that are commonly seen on the battlefield, and are all used to gain some form of advantage during the course of a battle. From banners that fly the colours of their lord to inspire their followers, to the likes of horns and drums used to rouse warriors to march in quick time or steel themselves against foreboding odds - equipment can take many forms.
 
@@ -117,6 +119,8 @@ A banner has a 3" area of effect that extends out from the model carrying the ba
 ***Example 80: Here a Warrior of Minas***
 
 Tirith carrying a banner is within 3" of four different Combats: A, B, C and D. The Warrior of Minas Tirith in Combat A is within 3" of the banner bearer, and so may benefit. Combat B may benefit as it has one friendly model within 3" of the banner, allowing either model to re-roll even if they are not in range of the banner themselves. Combat C may also benefit from the banner as it has a Supporting model within 3" of the banner. Combat D may not benefit as, even though it is within 3" of the banner, only enemy models are in range. Wargear Equipment
+
+![](../media/rules_manual/example_80.jpg)
 
 ### ELVEN CLOAK
 
@@ -130,7 +134,7 @@ A model with a war drum may use it during the Declare Heroic Actions step of eac
 
 Models within 24" of a friendly model with a war horn gain a bonus of +1 to any Courage Tests they take. Additionally, a model with a war horn gains the Dominant (2) special rule and can use it once per game to increase the range of a friendly Hero model's Stand Fast by 3", so long as the model with the war horn is in range of the Hero model's Stand Fast before this increase. If a Hero model has a war horn themselves, they may use it to increase the range of their own Stand Fast by 3" instead. A war horn is treated as an Active ability (see page 123).
 
-### ARMOUR
+## ARMOUR
 
 Armour is designed to protect the wearer from harm, deflecting blows or stopping otherwise wounding attacks from injuring its wearer. Armour provides a bonus to the wearer's Defence characteristic. Where a model is listed as having a type of armour in its profile, then the improvement in its Defence characteristic will already have been included in their profile. If a model has the opportunity to upgrade one type of armour to another, then they will replace one with the other - they will not get the Defence benefits of both. Shields are also covered in this section; however, they are not considered to be a type of armour and so any rules that affect armour will not affect a shield.
 
@@ -152,7 +156,7 @@ A model wearing heavy Dwarf armour will add 3 to their Defence characteristic.
 
 A model wearing Mithril armour will add 3 to their Defence characteristic. Additionally, Monster models cannot use the Rend Brutal Power Attack against a model wearing Mithril armour. Armour Shields
 
-### SHIELDS
+## SHIELDS
 
 A model carrying a shield adds 1 to their Defence characteristic. Where a model is listed as carrying a shield in its profile, then the improvement in its Defence characteristic will already have been included in their profile. A shield is cumbersome, and so a model carrying a shield that wishes to use their hand-and-a-half weapon as a two-handed weapon during a Combat cannot gain the Defence bonus for carrying a shield during that Combat. Additionally, a model carrying a shield does not gain the Defence bonus if it also carries a type of bow, crossbow, two-handed weapon or pike. A model with a shield can also use the Shielding special rule:
 
@@ -164,7 +168,7 @@ A model carrying a shield may declare they are Shielding at the start of a Comba
 
 A model with a light shield does not gain a bonus to its Defence. However, it may use the Shielding special rule as described above.
 
-### THE ONE RING
+## THE ONE RING
 
 Forged in the fires of Mount Doom by the Dark Lord himself, the One Ring contains great power that can be used to devastating effect, yet may corrupt those who wear it for too long. A model who carries the One Ring is referred to as the Ringbearer.
 

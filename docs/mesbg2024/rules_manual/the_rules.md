@@ -1,12 +1,12 @@
 ## THE MOST IMPORTANT RULE
 
-*The Middle-earth Strategy Battle Game is designed to be exactly that – a game. One played between players who seek to have a good time rolling dice, moving miniatures and recreating the epic tales of The Lord of the Rings™ and The Hobbit™. As such, players are expected to show good sportsmanship and fair play at all times; we are all here to enjoy ourselves, after all!*
+*The Middle-earth Strategy Battle Game is designed to be exactly that - a game. One played between players who seek to have a good time rolling dice, moving miniatures and recreating the epic tales of The Lord of the Rings™ and The Hobbit™. As such, players are expected to show good sportsmanship and fair play at all times; we are all here to enjoy ourselves, after all!*
 
 In a game filled with so many unique and exciting characters, there may be situations which arise during your games that may not seem to be fully covered by the rules presented in this Rules Manual. For example, you may not be able to find the exact place where a rule is to work out your situation, or there is a disagreement between the players on the interpretation of the rules.
 
 Because wasting time arguing is not fun for either player (and, more importantly, is eating into the time that you could be using to have an awesome game instead), often it is good practice to interpret the rule in a way that suits both players equally at that point in time. This game is designed to be played in a generous spirit, in a manner befitting the gentlest and noblest of Hobbits, and you’ll find that if you keep that spirit of kindness and fair play in mind, you can resolve almost every instance of disagreement.
 
-If you find that you and your opponent still cannot agree upon the application of the rules, or another situation, simply roll a dice to see whose interpretation you will use for the rest of the game – on a 1-3, the Evil player gets to decide, on a 4-6, the Good player gets to decide. Then you can put the disagreement behind you and return to the much more important matter of the battle at hand. Once the game is over, you can continue the discussion (preferably over a mug of tea and a seed cake) and arrive at a consensus for future games.
+If you find that you and your opponent still cannot agree upon the application of the rules, or another situation, simply roll a dice to see whose interpretation you will use for the rest of the game - on a 1-3, the Evil player gets to decide, on a 4-6, the Good player gets to decide. Then you can put the disagreement behind you and return to the much more important matter of the battle at hand. Once the game is over, you can continue the discussion (preferably over a mug of tea and a seed cake) and arrive at a consensus for future games.
 
 ## CODE OF CONDUCT
 
@@ -76,23 +76,23 @@ If a rule says to roll a D6, this means an ordinary six-sided dice where the num
 
 If a rule says to roll a D3, this means to roll a six-sided dice and halve the number shown (rounding up). So, a roll of 1-2 would be a result of 1, a roll of 3-4 would be a result of 2, and a roll of 5-6 would be a result of 3. This will always give a result of either 1, 2 or 3, hence the expression D3.
 
-Finally, if a rule says to roll 2D6, this means to roll two six-sided dice and add the numbers together – this will give a result of between 2 and 12.
+Finally, if a rule says to roll 2D6, this means to roll two six-sided dice and add the numbers together - this will give a result of between 2 and 12.
 
 ### DICE MODIFIERS
 
 Sometimes a rule may apply a modifier to a particular dice roll either to benefit or penalise a certain situation (such as a +1 or -1 modifier). For example, Goblins are particularly skilled at climbing up surfaces, and so receive a +1 modifier to any Climb Test they take.
 
-In any situation, a modifier to a dice roll will change the result of that roll – so a dice roll of a 4 with a +1 modifier on it would be a 5. Some players find it easier to actually change the dice rolls themselves to help show this. Regardless of the number of modifiers applied to a roll, the result of a single dice roll cannot be modified to lower than 1 or higher than 6 – they are the limits of any dice roll.
+In any situation, a modifier to a dice roll will change the result of that roll - so a dice roll of a 4 with a +1 modifier on it would be a 5. Some players find it easier to actually change the dice rolls themselves to help show this. Regardless of the number of modifiers applied to a roll, the result of a single dice roll cannot be modified to lower than 1 or higher than 6 - they are the limits of any dice roll.
 
 ### RE-ROLLS
 
-Some rules will allow for a dice to be re-rolled. In these situations the second result will always stand, even if it is worse than the first. If a rule allows for a model to re-roll multiple dice, then they must re-roll all of these together – they cannot re-roll some, see the result and then re-roll the rest.
+Some rules will allow for a dice to be re-rolled. In these situations the second result will always stand, even if it is worse than the first. If a rule allows for a model to re-roll multiple dice, then they must re-roll all of these together - they cannot re-roll some, see the result and then re-roll the rest.
 
 If a model is able to re-roll dice from multiple special rules, then they may resolve the result of one special rule before declaring whether to re-roll for another.
 
 However, once a specific dice has been re-rolled once, it cannot be re-rolled again under any circumstances, regardless of the number of special rules that might give another re-roll. The only exception to this is if the dice is deemed to be ‘cocked’.
 
-If a roll requires a second dice to be rolled if the first roll scores a certain result (such as To Wound Rolls that require a 6+/4+, 6+/5+ or 6+/6+), then any rules that allow a model to re-roll will allow either or both of these rolls to be re-rolled – so long as each individual roll isn’t re-rolled more than once.
+If a roll requires a second dice to be rolled if the first roll scores a certain result (such as To Wound Rolls that require a 6+/4+, 6+/5+ or 6+/6+), then any rules that allow a model to re-roll will allow either or both of these rolls to be re-rolled - so long as each individual roll isn’t re-rolled more than once.
 
 ### NATURAL ROLLS
 
@@ -108,25 +108,25 @@ If a rule tells you to halve a characteristic for whatever reason, characteristi
 
 ### LINE OF SIGHT
 
-At many points during the course of a game, you will need to work out if a particular model can see a target – this is called Line of Sight. The best way to do this is to get down to the ‘model’s eye view’ and see if you can see the target – this is the model’s Line of Sight. If, for whatever reason, you cannot get down to the model’s eye view, trace a 1mm straight line between the model’s head and its target using a tape measure instead. A model’s Line of Sight is worked out from the head of the model, and a model is always assumed to have a 360° Line of Sight.
+At many points during the course of a game, you will need to work out if a particular model can see a target - this is called Line of Sight. The best way to do this is to get down to the ‘model’s eye view’ and see if you can see the target - this is the model’s Line of Sight. If, for whatever reason, you cannot get down to the model’s eye view, trace a 1mm straight line between the model’s head and its target using a tape measure instead. A model’s Line of Sight is worked out from the head of the model, and a model is always assumed to have a 360° Line of Sight.
 
 Whilst in reality our models are static, we imagine they are much more dynamic, swirling through the maelstrom of battle to slay their foes. Because of this we don’t penalise a model for the wargear they are carrying or a dynamic pose they happen to be in. As a result, a model only has Line of Sight to another model if it can see any part of the model’s head, body, arms or legs. If a model can only see the likes of banners, weapons, wings, tails or other wargear, then they do not have Line of Sight. A model always has Line of Sight to itself.
 
-Some models have terrain modelled onto the base. In these instances, the terrain is never considered to block Line of Sight to the model or to other models. If you are unsure whether a model has Line of Sight to a target, it is good practice to ask your opponent for their opinion and agree together – and don’t forget to play in a generous spirit!
+Some models have terrain modelled onto the base. In these instances, the terrain is never considered to block Line of Sight to the model or to other models. If you are unsure whether a model has Line of Sight to a target, it is good practice to ask your opponent for their opinion and agree together - and don’t forget to play in a generous spirit!
 
-Should a player place their models on a taller base (or convert them so that they are lower down than the original model), this additional height is not taken into account when working out Line of Sight to or from the model – use their ‘true height’ instead. Essentially, a model can never gain an advantage (or disadvantage) by being modelled to be higher or lower than they should be.
+Should a player place their models on a taller base (or convert them so that they are lower down than the original model), this additional height is not taken into account when working out Line of Sight to or from the model - use their ‘true height’ instead. Essentially, a model can never gain an advantage (or disadvantage) by being modelled to be higher or lower than they should be.
 
 ### MEASURING
 
 Throughout a game you will often need to measure distances, and all distances are measured in inches. Players are always allowed to measure any distance at any time, as often as they wish.
 
-To measure between models, always measure between the two closest parts of the base – ignore any overlapping elements such as wings, tails or weapons.
+To measure between models, always measure between the two closest parts of the base - ignore any overlapping elements such as wings, tails or weapons.
 
 ### WITHIN AND WHOLLY WITHIN
 
 Some rules will require models to be ‘within’ or ‘wholly within’ something else in order to apply an effect. Though they may seem the same, there is an important difference between the two.
 
-A model is said to be within range of something if any part of its base is within the stated range. A model is said to be wholly within range of something if every part of its base is within the stated range – if any part of the model’s base is outside the given range, then it is not wholly within.
+A model is said to be within range of something if any part of its base is within the stated range. A model is said to be wholly within range of something if every part of its base is within the stated range - if any part of the model’s base is outside the given range, then it is not wholly within.
 
 A model is always wholly within range of itself.
 
@@ -148,7 +148,7 @@ It is important to note that for models made up of more than one part, such as *
 
 ### MODELS AND BASES
 
-Every profile is represented in-game by a model, and each model is mounted on a base allowing it to be easily moved around the battlefield during the course of a game. The size of the base represents the amount of space that character takes up, which will vary from model to model. Each profile will state the size of base the model must be placed on for a game, with the size given in millimetres. A **Cavalry** model will have their base size listed for the rider, but when mounted, they will use the base size of the **Mount**, which will be listed in the profile for that **Mount** – either found in the **Cavalry** section or in the model’s profile.
+Every profile is represented in-game by a model, and each model is mounted on a base allowing it to be easily moved around the battlefield during the course of a game. The size of the base represents the amount of space that character takes up, which will vary from model to model. Each profile will state the size of base the model must be placed on for a game, with the size given in millimetres. A **Cavalry** model will have their base size listed for the rider, but when mounted, they will use the base size of the **Mount**, which will be listed in the profile for that **Mount** - either found in the **Cavalry** section or in the model’s profile.
 
 Bases cannot overlap each other during the course of a game and cannot be piled on top of one another. If a model’s base is touching something else, whether this is terrain or another model’s base, then it is said to be in base contact with it.
 
@@ -156,7 +156,7 @@ When measuring from one model to another (or to a point on the battlefield), alw
 
 #### WHAT IS A MODEL?
 
-A model is anything on its own base, such as any **Infantry**, **Monster**, **Chariot**, etc. Whilst a **Cavalry** model contains two parts – the rider and the Mount – it will still count as a single model. However, should it subsequently become separated and the **Mount** stays on the board, they will both then count as individual models.
+A model is anything on its own base, such as any **Infantry**, **Monster**, **Chariot**, etc. Whilst a **Cavalry** model contains two parts - the rider and the Mount - it will still count as a single model. However, should it subsequently become separated and the **Mount** stays on the board, they will both then count as individual models.
 
 ### DIRECTLY TOWARDS/AWAY
 

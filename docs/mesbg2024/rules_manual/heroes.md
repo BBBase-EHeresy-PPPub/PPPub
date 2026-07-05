@@ -1,8 +1,6 @@
-# HEROES
-
 Throughout its extensive history, Middle-earth has had numerous exceptional individuals that have left their mark on the world and changed the course of history, either for good or for ill. Such entities can loosely be referred to as heroes - although villains is perhaps a more suitable term for the followers of the Dark Lord. Regardless, these are the famous characters that make up the forefront of the greatest stories in Middle-earth, and who are sung about in legend or spoken of in hushed tones across the lands. From noble kings such as Aragorn, mighty warriors such as Boromir, fearsome servants of Sauron such as Azog, or even the humble Hobbits of the Shire who gave their all to see to the destruction of the One Ring, Heroes come in all shapes and sizes. Models that are heroes will have the Hero keyword, and have an important role to play in any battle. Hero models have a number of special abilities that distinguish them from the rank and file Warrior models that make up the bulk of any Army. These are covered in this section and, as you will soon realise, make Hero models an absolutely crucial part of any game you play.
 
-### MIGHT, WILL AND FATE
+## MIGHT, WILL AND FATE
 
 The most obvious difference between a Hero and a Warrior is that a Hero will have three additional characteristics: Might, Will and Fate. These characteristics do a great deal to separate a Hero from ordinary folk, and allow them to pull off extraordinary feats of heroism on the battlefield. Unlike other characteristics, Might, Will and Fate act as a finite resource, and once you spend these points your store of them is reduced - so use them wisely! Players will need to look for the most opportune moments to use their Might, Will and Fate Points during the course of a game, and will need to carefully keep track of how many each of their Hero models has spent so they know exactly how many more they have remaining. Once a Hero has spent all of their Might, Will or Fate Points they can spend no more, unless they are able to regain them in some way during the battle. If a special rule allows a Hero to regain a Might, Will or Fate Point, this may not take that Hero above their starting number, unless specifically stated otherwise. If a special rule allows for a Hero to do something that would usually cost a Might, Will or Fate Point without spending that Might, Will or Fate Point, then the Hero can still do this even if they have no Might, Will or Fate remaining - it is free. All Hero models have an extra section to their characteristics that looks like this, which shows how many Might, Will and Fate Points they have at their disposal. 3 2 1 Haleth has 3 Might Points, 2 Will Points and 1 Fate Point.
 
@@ -14,11 +12,15 @@ In rare situations, a Mount may also have the Hero keyword and have its own stor
 
 Tribesman and scores a hit. There is a wall In The Way, however, so Háma must pass an In The Way Test in order to hit the Hill Tribesman. Háma rolls a D6 and scores a 3, which will mean the arrow hits the wall. If Háma wants to hit the Hill Tribesman, he will need to spend 1 Might Point to make the In The Way Test successful.
 
+![](../media/rules_manual/example_58.jpg)
+
 ***Example 59: Jay and Rob are both using***
 
 Hero models in a Combat. Rob is using Gothmog (Fight Value 5 and 3 Might) and Jay is using Éomer (Fight Value 6 and 3 Might). Rob rolls his dice for the Duel Roll and scores a 1 and a 3, whilst Jay scores a 2, 3 and a 4. As Rob is currently losing, he has the first opportunity to spend Might. Rob chooses to spend Might, though as Gothmog has a lower Fight Value than Éomer, Rob must spend 2 Might Points to improve his 3 to a 5 in order to be winning the Combat. As Rob is now winning, Jay can now spend Might and chooses to spend 1 Might Point to improve his 4 to a 5, meaning that Éomer is now winning thanks to his higher Fight Value. Rob then chooses to spend his last Might Point to improve his 5 to a 6 and be winning once more, and so then Jay chooses to do the same and wins the Combat. As both players are now at a 6, no more Might can be used and Éomer wins the Combat. Might
 
-### MIGHT
+![](../media/rules_manual/example_59.jpg)
+
+## MIGHT
 
 Arguably the single most valuable characteristic available to a Hero, Might Points represent the ability of a Hero to seize the initiative, act faster than their foes, fight off seemingly impossible odds, and summon strength they may not even know they possessed in order to win the day. Might Points are a reserve of resolve and heroism, and spending a Might Point is often a sign that something truly heroic is afoot. Might Points can be spent in one of two ways: to modify dice rolls or to declare Heroic Actions.
 
@@ -34,6 +36,8 @@ Might can only be used in certain situations, and only to alter certain dice rol
 
 against Bolg. Looking at their Duel Roll, Beorn has scored a 1, 3 and 4, whilst Bolg has rolled a 2, 5 and 6. Beorn must now decide whether he loses the Combat, or whether he spends 2 Might Points in order to boost his 4 to a 6 - and with the higher Fight Value, that may well be a very sensible thing to do!
 
+![](../media/rules_manual/example_60.jpg)
+
 ***Example 61: During the Move Phase, it***
 
 is Jay's Priority and so Rob has the first opportunity to declare a Heroic Action and chooses to declare a Heroic Move. Jay then also declares a Heroic Move in response. Rob decides to pass, and Jay then does the same. As both players have passed in succession, the sequence ends and the Heroic Moves are resolved.
@@ -42,11 +46,11 @@ is Jay's Priority and so Rob has the first opportunity to declare a Heroic Actio
 
 same turn, Rob has the first opportunity and declares a Heroic Combat. Jay elects to pass, and then Rob declares a Heroic Strike with a different Hero. Jay now decides to declare a Heroic Strike of his own, and Rob decides to pass as he has no more Hero models that can declare a Heroic Action. Jay then declares a Heroic Defence, Rob passes and then Jay also passes. The sequence then ends.
 
-### HEROIC ACTIONS (61, 62)
+## HEROIC ACTIONS (61, 62)
 
 The other way that Hero models can spend Might Points is through the use of Heroic Actions. These are spectacular deeds that have the potential to alter the course of a battle and swing victory in your favour when used. Each of the major phases of the game (Move, Shoot and Fight) have a Declare Heroic Actions step in them, and this is where players get the opportunity to declare the use of any Heroic Actions they wish their Hero models to perform. A Hero may only declare a single Heroic Action in each phase, though they can declare multiple Heroic Actions in the same turn provided they are in different phases. Each Heroic Action has the phase it can be declared in shown in brackets after its name. When a Hero declares a Heroic Action, the player states which Heroic Action is being declared and by which Hero; they then expend a Might Point and mark it down in some manner. A Hero cannot declare a Heroic Action if they have 0 Might Points remaining, unless they have a special rule that gives them a free Might Point, or a special rule that allows them to declare a free Heroic Action in certain situations. A Hero cannot declare a Heroic Action if they are not on the board. During the Declare Heroic Actions step of each phase, players take it in turn to declare a Heroic Action starting with the player without Priority. A player may choose to either declare a Heroic Action as above, or to 'pass'; after which the player with Priority then does the same. This continues back and forth until both players pass in succession or are satisfied with the Heroic Actions they have declared - essentially it means that you always have the opportunity to declare a Heroic Action if your opponent does so. If a player decides to pass and their opponent then declares a Heroic Action, when the opportunity comes back to the player who passed, they do not have to pass again and can now decide to declare a Heroic Action if they wish. It is important to note that once a Hero has declared a Heroic Action, they cannot take it back and cannot change their declared Heroic Action for a different one. Heroic Actions Some Heroic Actions (Heroic Move and Heroic Combat) interfere with the order in which a particular phase is conducted. For instance, a Hero who declared a Heroic Combat will resolve their Combat first. If two or more Hero models from the same side wish to perform such a Heroic Action, then their controlling player simply decides the order in which they are resolved. However, if Hero models from opposing sides wish to perform such Heroic Actions, then follow the system below to determine the order in which they are resolved: Players nominate which Hero models are declaring Heroic Actions as described previously, and make a note that those Hero models have expended a Might Point. The player with Priority rolls a D6. On a 1-3, the Evil player chooses one of their Hero models to perform the first Heroic Action. On a 4+, the Good player chooses one of their Hero models to perform the first Heroic Action. The other player (the one who lost the roll-off) then chooses one of their Hero models to perform their Heroic Action. Note that as a result of the opposing Hero model's Heroic Action, this may no longer be possible. In which case the Heroic Action is cancelled and the Might Point spent is lost. Players alternate performing Heroic Actions in this manner until none are left. A model may only ever benefit from a single Heroic Action of each type during the course of a turn - a model could only benefit from one Heroic Move or Heroic March for example. The only exception to this is in the case of a Heroic Combat - a model that takes part in a successful Heroic Combat and then joins a second Combat, that is also a Heroic Combat, may still fight again as normal. However, in this situation, the model may not Move and fight again should the second Heroic Combat also be successful.
 
-### UNIVERSAL HEROIC ACTIONS
+## UNIVERSAL HEROIC ACTIONS
 
 Some Heroic Actions can be used by any Hero in the game, regardless of who (or what) they are - so long as they have Might Points remaining, of course! Every Hero can use the following three Heroic Actions:
 
@@ -57,6 +61,8 @@ A Heroic Move enables a Hero to Activate before other models - essentially defyi
 ***Example 63: The Evil side has Priority, and Tom the***
 
 Troll is closer to Thorin's Company than they would like! Bilbo Baggins uses 1 Might Point to declare a Heroic Move, enabling him (and any friendly models within 6" if he shouts With Me) to Activate first, outside the normal order of Priority. If Tom decided to also spend 1 Might Point to declare a Heroic Move, then the player with Priority (the Evil player) would roll a D6 to see whose Heroic Move takes place first. Universal Heroic Actions
+
+![](../media/rules_manual/example_63.jpg)
 
 ### WITH ME
 
@@ -78,13 +84,17 @@ When a Hero declares a Heroic Combat, their Combat is resolved first before any 
 
 a Combat he is very likely to win. Because of this, Haleth has declared a Heroic Combat and spends 1 Might Point. Haleth wins the Duel Roll and slays the Hill Tribesman, allowing him to Move again and even Charge if he wishes. Haleth uses this extra Move to Charge the other Hill Tribesman, and will fight it during the normal order of Combats.
 
-### SPECIALISED HEROIC ACTIONS
+![](../media/rules_manual/example_64.jpg)
+
+## SPECIALISED HEROIC ACTIONS
 
 Some Heroic Actions can only be declared by certain Hero models. In each Hero model's profile there will be a section listing the additional Heroic Actions that Hero can declare. These Heroic Actions are described here:
 
 ***Example 65: The Goblins are trying to***
 
 catch the fleeing Thorin's Company, and so the Goblin Captain declares a Heroic March. When they Move as part of their Activation, the Goblin Captain and friendly models within 6" of it will be able to Move 5" (as per their Move Value) plus an additional 3" for the Heroic March; though they must finish their Move within 6" of the Goblin Captain.
+
+![](../media/rules_manual/example_65.jpg)
 
 ### HEROIC CHANNELLING (MOVE PHASE)
 
@@ -114,17 +124,25 @@ A Hero who is performing a Heroic Accuracy may choose to shout "Take Aim". The H
 
 has been Broken and he has declared a Heroic Resolve. Friendly models within 6" of Gandalf gain an additional free dice to any Resist Tests they take this turn. During the Move Phase, Gandalf has been Charged by the Witch-king before he can Activate. Normally, this would mean that Gandalf could not provide a Stand Fast to keep his allies fighting; however, as he declared a Heroic Resolve, Gandalf will automatically pass his Courage Test for being Broken, and may still provide his Stand Fast even though he is Engaged in Combat.
 
+![](../media/rules_manual/example_66.jpg)
+
 ***Example 67: Tauriel and her Mirkwood***
 
 Rangers are about to loose arrows at some Hunter Orcs. Because the Orcs are protected by some terrain, Tauriel spends 1 Might Point to declare a Heroic Accuracy. Tauriel gains the Sharpshooter special rule, and when she or any friendly models within 6" of her Shoot this turn, they may re-roll any failed In The Way Tests.
+
+![](../media/rules_manual/example_67.jpg)
 
 ***Example 68: Thorin has declared a***
 
 Heroic Challenge against Azog, who is within 6" of him. Azog decides to accept Thorin's challenge. Until one of them is slain, both Thorin and Azog must Charge each other if possible and both will gain a bonus of +1 Attack when fighting against each other and +1 To Wound when making Strikes against the other. Whoever slays their opponent will gain 1 Might Point.
 
+![](../media/rules_manual/example_68.jpg)
+
 ***Example 69: Haleth has declared a***
 
 Heroic Challenge against Wulf, who is within 6" of him. Wulf doesn't want to fight Haleth and so chooses to decline. If Haleth gets into a Combat with Wulf, then he will still gain the +1 Attack and +1 To Wound when making Strikes against Wulf; however, as he chose to decline, Wulf doesn't gain any of the benefits himself though he isn't required to Charge Haleth. If Haleth slays Wulf, he will gain 1 Might Point.
+
+![](../media/rules_manual/example_69.jpg)
 
 ### HEROIC CHALLENGE (FIGHT PHASE) (68, 69)
 
@@ -146,7 +164,9 @@ A Hero that declares a Heroic Strike will add D3 to their Fight Value for the du
 
 and must take a Courage Test to do so due to the Terror special rule. Bofur has a Courage characteristic of 5+, however, he has rolled a 1 and a 3 for his Courage Test for a total of 4 - a fail. Bofur decides to spend 1 Will Point to improve his Courage Test by one, to 5. Bofur has now passed his Courage Test and can Charge the Goblin King. Will
 
-### WILL
+![](../media/rules_manual/example_70.jpg)
+
+## WILL
 
 Many characters in Middle-earth possess an indomitable strength of will; an iron resolve that allows them to carry on the fight even in the face of seemingly insurmountable odds. This heroic willpower can manifest as steely bravery and enable the hero to set aside their fears and charge headlong into battle for glory. Many inhabitants of Middle-earth also harbour some innate form of magic, allowing them to invoke subtle magical powers upon their foes or allies. The act of using, and attempting to shrug off such powers, both require a sufficient reserve of will. Hero models may expend Will Points in one of three ways:
 
@@ -162,7 +182,7 @@ A Hero who has Magical Powers in their profile can spend Will Points in order to
 
 A Hero who has been targeted by a Magical Power can spend Will Points in order to try to Resist the effects. For each Will Point spent, the Hero may add one D6 to their Resist Test. Resisting Magical Powers is covered fully on page 114.
 
-### FATE (71, 72, 73)
+## FATE (71, 72, 73)
 
 The greatest in Middle-earth seem to be able to cheat death, avoiding wounds that would otherwise slay a lesser being and surviving injuries that by all accounts should see them perish. Whether this is down to some divine favour, or perhaps some darker power, is a mystery, though what is certain is that fate has a plan for these heroes. To represent this in our games, Hero models have a store of Fate Points which can prevent Wounds. Whenever a model with Fate Points suffers a Wound, their controlling player may choose to spend a Fate Point in order to attempt to prevent that Wound. When a Hero spends a Fate Point, mark down that they have spent it, and then roll a D6. On a 4+ the Wound is prevented and has no effect - do not reduce the Hero model's remaining Wounds. If the Fate Roll is unsuccessful, and the Hero has more Fate Points remaining, they may spend another one in the same manner. Fate Points must be rolled one at a time and fully resolved before spending another Fate Point. If a model wishes to spend Might to increase their Fate Roll, then they must choose to do so before spending another Fate Point. So, if a Fate Roll comes up with a 3, you must decide if you wish to Might it to a 4 before making another Fate Roll - if the next roll is worse, you can't go back! Some special rules may allow a model to do multiple Wounds from a single Strike if the To Wound Roll is successful, or even kill a model outright. In these instances, the effect will only be resolved if the Wound is successful (i.e., it will reduce the target model's remaining Wounds), so a single successful Fate Roll will prevent all of the damage the Strike would cause. Whilst Fate can prevent any manner of Wound dealt to a Hero, it cannot save them from fleeing the board as a result of a failed Courage Test and being removed from the board as a casualty. In these instances the Hero has shown a craven heart and fate has clearly abandoned them!
 
@@ -170,10 +190,16 @@ The greatest in Middle-earth seem to be able to cheat death, avoiding wounds tha
 
 inflicted 2 Wounds upon the Goblin. Orcrist has the Goblinbane special rule, which will mean that each successful Wound will do D3 Wounds instead. Grinnah spends his 1 Fate Point to try to prevent the first Wound, rolling a 5 and preventing the Wound, which will therefore not become D3 Wounds. However, as he has no Fate remaining, the other Wound is successful and will then become D3 Wounds. Thorin rolls a 6, dealing 3 Wounds and cleaving the Goblin's head right off! Fate
 
+![](../media/rules_manual/example_72.jpg)
+
 ***Example 71: Éowyn has been wounded***
 
 by Gothmog and decides to spend 1 Fate Point. Unfortunately, she only rolls a 1 and the Wound is not prevented. Éowyn then decides to spend a second Fate Point, and this time rolls a 5 - preventing the Wound entirely.
 
+![](../media/rules_manual/example_71.jpg)
+
 ***Example 73: Háma has been shot by a***
 
 Hill Tribesman and suffered a Wound. Háma spends 1 Fate Point and rolls a 3, which is not enough to prevent the Wound. Háma decides to spend 1 Might Point to improve his Fate Roll to a 4, meaning the roll is successful and the Wound is ignored.
+
+![](../media/rules_manual/example_73.jpg)

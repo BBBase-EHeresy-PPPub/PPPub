@@ -1,12 +1,10 @@
-# MONSTERS
-
 There are all manner of different creatures that reside across Middle-earth, all of them varying in size, strength, ferocity and even allegiance. Some such creatures, like the swift Great Eagles of the Misty Mountains, are noble beasts that trouble themselves little with the goings-on of the world, whilst others are vicious, bloodthirsty creatures that stalk dark places or are bred solely for the purpose of war. Regardless, these mighty beings can all be described as monsters, and the presence of one or more on the battlefield can shift the tide of a battle in one fell swoop. Generally speaking, Monster models follow the same rules as all other models in the game. However, because Monster models are so powerful, there are a few special rules that set them apart from the standard Infantry and Cavalry models within the game - all of which we will cover here.
 
-### MONSTERS AND CAVALRY
+## MONSTERS AND CAVALRY
 
 Cavalry models will still gain the Extra Attack bonuses when they Charge against Monster models - so long as the Monster also has the Infantry keyword. Cavalry models will still get the bonus for a lance when Charging against a Monster. A Monster that has a rider is also a Mount. In these situations, when a model hits a Monster that is also a Cavalry model with a Shooting Attack, when it makes the In The Way Test to see if it hits the rider or the Mount, a roll of a 1-4 will hit the Mount, whilst a roll of a 5+ will hit the rider.
 
-### MONSTERS IN COMBAT (74)
+## MONSTERS IN COMBAT (74)
 
 Monster models excel in a fight, and are often able to cause significant damage to enemy lines and even smash right through them. Whenever a Monster model makes a Strike against an enemy model that it is Engaged in Combat with and slays them, they may immediately make a single additional Strike against each model that was Supporting the slain model. This cannot be used if the Monster model kills an enemy with a Brutal Power Attack, only when they make a Strike. Monsters and Cavalry Monsters in Combat
 
@@ -14,11 +12,15 @@ Monster models excel in a fight, and are often able to cause significant damage 
 
 the Combat against the Warriors of Minas Tirith. It makes its first Strike against Warrior A, killing it. It then makes its second Strike against Warrior B, killing them as well. As Warrior C was Supporting Warrior B, the Troll may now make a free Strike against Warrior C; however, it doesn't kill them in this instance. As that was a free Strike, the Troll still has one remaining and chooses to Strike Warrior D, killing them as well. As Warrior E was Supporting Warrior D, the Troll may now make a free Strike against them as well, and this time the Troll successfully kills its victim!
 
+![](../media/rules_manual/example_74.jpg)
+
 ***Example 75: The Goblin King has beaten***
 
 Thorin in a Combat, and has elected to use the Rend Brutal Power Attack. The Goblin King will make three To Wound Rolls (as his Attacks characteristic is 3) against Thorin, though instead of using Thorin's Defence of 7 the Goblin King will compare his Strength of 5 with Thorin's Strength of 4. Looking at the To Wound Chart, these To Wound Rolls will succeed on a 4+ - Thorin is in serious trouble! Brutal Power Attacks
 
-### BRUTAL POWER ATTACKS
+![](../media/rules_manual/example_75.jpg)
+
+## BRUTAL POWER ATTACKS
 
 If a Monster wins a Combat, its controlling player may decide for the Monster to not make Strikes and instead use a Brutal Power Attack. There are three Brutal Power Attacks that can be used by any Monster, though some may have their own unique ones in their profile. It's worth pointing out that Brutal Power Attacks are not Strikes, and therefore are not affected by any special rules, Heroic Actions or other rules that will affect a model's Strikes (e.g., Heroic Strength, a model being Trapped, a Morgul blade, Venom, etc.). Monster models that are Supporting cannot make Brutal Power Attacks. A Monster model can only ever make a single Brutal Power Attack per turn, and should a Monster wish to use a Brutal Power Attack then it must do so before any other models in the Combat resolve any Strikes. In the situation where there are multiple Monster models on the same side in the same Combat, and both wish to use a Brutal Power Attack, then the order in which these are resolved is chosen by their controlling player. However, there may be situations where as a result of a Brutal Power Attack, the other Monster will find themselves unable to use one of their own - these situations will be described where relevant.
 
@@ -37,3 +39,5 @@ When a Monster wishes to use this Brutal Power Attack, it must nominate a single
 ***Example 76: Beorn has won a Combat***
 
 against the Gundabad Orc and elects to Hurl them. He rolls a D3 and scores a 4 - a D3 result of a 2. Beorn has a Strength of 8, whilst the Gundabad Orc has a Strength of 4 - a difference of 4. This means that the Hurl Distance is 6"; 2 for the D3 roll, plus 4 for the difference in Strength. Beorn then chooses an enemy model within the Hurl Distance to throw the Orc at, and selects Azog. The Hurled model suffers two Strength 6 hits, which they luckily survive in this instance. The Hurled model is then placed in base contact with Azog, as close to the Monster as possible. As there is another Orc in this position, the Hurled model is placed slightly further around Azog's base as shown in the diagram, and is then knocked Prone. Azog is then also knocked Prone and suffers one Strength 6 hit, which also wounds the Pale Orc in this instance.
+
+![](../media/rules_manual/example_76.jpg)
