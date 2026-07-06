@@ -16,10 +16,10 @@ If a player achieves double or more Victory Points than their opponent, and scor
 
 If a tournament uses this system, then it should change the Tournament Points scored as provided on page 56 to the following:
 
-**Major Victory** - 6 Tournament Points  
-**Minor Victory** - 5 Tournament Points  
-**Draw** - 2 Tournament Points  
-**Minor Loss** - 1 Tournament Point  
+**Major Victory** - 6 Tournament Points
+**Minor Victory** - 5 Tournament Points
+**Draw** - 2 Tournament Points
+**Minor Loss** - 1 Tournament Point
 **Major Loss** - 0 Tournament Points
 
 ### SWITCHING TIEBREAKERS
@@ -38,9 +38,9 @@ The style of event that is being run will often dictate the Tiebreakers used. In
 
 ### ESCALATION EVENTS
 
-Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small Army, then add more and more to their Army following each game – though they cannot remove anything from their Army after it has been added in.
+Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small Army, then add more and more to their Army following each game - though they cannot remove anything from their Army after it has been added in.
 
-This means that players’ armies will evolve from game to game, providing a fresh challenge each round for all the players at the event.
+This means that players' armies will evolve from game to game, providing a fresh challenge each round for all the players at the event.
 
 *For example: In a two-day event, players may start off with 500 points for the first two games, then increase to 600 points for the second two games. On the second day they play the first two games at 750 points, before playing the final game at 1,000 points.*
 
@@ -52,15 +52,15 @@ One extra rule that can be a lot of fun at events is the use of Secret Objective
 
 There are a total of 12 different Secret Objectives that can be used, provided over the following pages. At the start of the game, each player should select three of the Secret Objectives to put forward on separate pieces of paper without making them known to their opponent. Their opponent will then roll a D3 to determine which of the three will then be used during the game.
 
-Once a Secret Objective has been selected to be used in a game, it then cannot be put forward again for the remainder of the event. Players should write down the Secret Objective they are trying to achieve on a piece of paper and place it at the edge of the board. They should also submit which Secret Objective they’ve used, and whether they were successful in achieving it, to the Tournament Organiser at the end of the game.
+Once a Secret Objective has been selected to be used in a game, it then cannot be put forward again for the remainder of the event. Players should write down the Secret Objective they are trying to achieve on a piece of paper and place it at the edge of the board. They should also submit which Secret Objective they've used, and whether they were successful in achieving it, to the Tournament Organiser at the end of the game.
 
-It is important to note that not all Secret Objectives will be achievable in every game. For example, if your opponent has no Monster models in their Army, then you won’t be able to score the Bring them Down! Secret Objective as there will be no Monster models to kill.
+It is important to note that not all Secret Objectives will be achievable in every game. For example, if your opponent has no Monster models in their Army, then you won't be able to score the Bring them Down! Secret Objective as there will be no Monster models to kill.
 
-**1. BRING THEM DOWN!** - Have all Monster models in your opponent’s Army be removed as a casualty by the end of the game.
+**1. BRING THEM DOWN!** - Have all Monster models in your opponent's Army be removed as a casualty by the end of the game.
 
 **2. DUEL TO THE DEATH** - Have your General kill the enemy General in Combat. Your General must cause every Wound to the enemy General to score this Secret Objective.
 
-**3. SENDING A MESSAGE** - Have the most expensive Hero model, including wargear in their points cost, in your opponent’s force be removed as a casualty. If the most expensive Hero is part of two Hero models bought together, e.g., Shank & Wrot, Orc Scavengers, then both must have been removed as a casualty to score this Secret Objective.
+**3. SENDING A MESSAGE** - Have the most expensive Hero model, including wargear in their points cost, in your opponent's force be removed as a casualty. If the most expensive Hero is part of two Hero models bought together, e.g., Shank & Wrot, Orc Scavengers, then both must have been removed as a casualty to score this Secret Objective.
 
 **4. MINIMISE CASUALTIES** - Have at least 75% of your starting number still alive at the end of the game.
 

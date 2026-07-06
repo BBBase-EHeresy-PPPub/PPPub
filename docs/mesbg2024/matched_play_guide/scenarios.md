@@ -14,8 +14,8 @@
 
 - If an Army suffers enough casualties that at the start of the next turn they would be considered Broken, but the game ends before the next turn can start, they will still count as being Broken for the purpose of scoring Victory Points.
 
-- In Scenarios where models can exit the board, only part of the model’s base needs to exit the board to allow them to move off the board.
+- In Scenarios where models can exit the board, only part of the model's base needs to exit the board to allow them to move off the board.
 
-- When deploying models within 6" of their Warband’s Captain, they must still be within 6" of the Warband’s Captain’s base if they deploy on an elevated position.
+- When deploying models within 6" of their Warband's Captain, they must still be within 6" of the Warband's Captain's base if they deploy on an elevated position.
 
 - When playing on a 6'x4' board (typically in 1,000 point games), players must choose one of the long board edges as their board edge as shown in the maps. When playing on a 4'x4' board, players may choose any board edge as their board edge as they are all the same length.

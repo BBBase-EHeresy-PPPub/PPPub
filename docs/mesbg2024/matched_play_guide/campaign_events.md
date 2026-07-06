@@ -20,7 +20,7 @@ A Campaign event should have a total of six rounds, each one played in one of th
 
 After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 24 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on page 10.
 
-To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again — its fate will already have been decided. This way, each Region will be fought over once in an event.
+To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again - its fate will already have been decided. This way, each Region will be fought over once in an event.
 
 | D6 | Result |
 | --- | --- |
@@ -75,7 +75,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **SPECIAL RULE**
 
-**Eye of Sauron:** Whilst fighting a battle in Mordor, the Eye of Sauron will be watching. At the start of the game, place a 25mm marker in the centre of the board — this is where the Eye of Sauron is focused. During the Priority Phase, after Priority has been determined, the player with Priority may move the marker up to 6". Good models within 3" of the marker suffer a -1 penalty to any Courage Tests they are required to take. Evil models within 3" of the marker may re-roll To Wound rolls of a natural 1 when making Strikes.
+**Eye of Sauron:** Whilst fighting a battle in Mordor, the Eye of Sauron will be watching. At the start of the game, place a 25mm marker in the centre of the board - this is where the Eye of Sauron is focused. During the Priority Phase, after Priority has been determined, the player with Priority may move the marker up to 6". Good models within 3" of the marker suffer a -1 penalty to any Courage Tests they are required to take. Evil models within 3" of the marker may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 **Campaign Bonus:** If your faction controls Mordor, then Hero models in your Army gain the Terror special rule.
 

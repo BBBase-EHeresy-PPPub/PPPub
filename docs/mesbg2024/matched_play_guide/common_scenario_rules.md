@@ -2,20 +2,20 @@ Some of the Scenarios presented in the Matched Play Guide share a variety of com
 
 ### MAELSTROM OF BATTLE
 
-At the beginning of the game, players must determine which direction is north – this is important for determining where and when Reinforcements arrive from. At the end of your Move Phase, roll a D6 for each of your Warbands not on the battlefield and consult the chart below (the Warband’s Captain can use Might to increase this roll). Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your Army is Broken.
+At the beginning of the game, players must determine which direction is north - this is important for determining where and when Reinforcements arrive from. At the end of your Move Phase, roll a D6 for each of your Warbands not on the battlefield and consult the chart below (the Warband's Captain can use Might to increase this roll). Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your Army is Broken.
 
 | D6 | Result |
 | --- | --- |
 | 1 | The Warband does not arrive. |
-| 2 | Your opponent chooses a point on either the north or south board edge at least 6" from a corner – the Warband arrives from this point via the rules for Reinforcements. |
-| 3 | Your opponent chooses a point on either the east or west board edge at least 6" from a corner – the Warband arrives from this point via the rules for Reinforcements. |
-| 4 | You choose a point on either the north or south board edge at least 6" from a corner – the Warband arrives from this point via the rules for Reinforcements. |
-| 5 | You choose a point on either the east or west board edge at least 6" from a corner – the Warband arrives from this point via the rules for Reinforcements. |
-| 6 | You choose a point on any board edge at least 6" from a corner – the Warband arrives from this point via the rules for Reinforcements. |
+| 2 | Your opponent chooses a point on either the north or south board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 3 | Your opponent chooses a point on either the east or west board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 4 | You choose a point on either the north or south board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 5 | You choose a point on either the east or west board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 6 | You choose a point on any board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
 ### DARK OF NIGHT
 
-Scenarios with this special rule take place at night, and therefore use the rules for ‘fighting at Night’ found on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Scenarios with this special rule take place at night, and therefore use the rules for 'fighting at Night' found on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 ### A TIME OF HEROES
 
@@ -23,7 +23,7 @@ Each time your Army kills an enemy Hero in a Fight, you may choose one of your H
 
 ### HEIRLOOM OF POWER
 
-An Heirloom is treated as a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). However, the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, a model carrying an Heirloom may not drop it or pass it on to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6 for each Heirloom that is being held. On a 1, the model holding the Heirloom is Transfixed as described on page 119 of the *Middle-earth Strategy Battle Game Rules Manual*. As the Heirlooms possess such great power, obtaining more than one of these items takes immense fortitude – in Scenarios where there are multiple Heirlooms, Warrior models may only hold one Heirloom, whereas Hero models may hold any number of Heirlooms.
+An Heirloom is treated as a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). However, the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, a model carrying an Heirloom may not drop it or pass it on to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6 for each Heirloom that is being held. On a 1, the model holding the Heirloom is Transfixed as described on page 119 of the *Middle-earth Strategy Battle Game Rules Manual*. As the Heirlooms possess such great power, obtaining more than one of these items takes immense fortitude - in Scenarios where there are multiple Heirlooms, Warrior models may only hold one Heirloom, whereas Hero models may hold any number of Heirlooms.
 
 ### UNCOVERING ARTEFACTS
 

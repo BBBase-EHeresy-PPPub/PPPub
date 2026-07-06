@@ -10,7 +10,7 @@ Whilst this system is essentially about randomly choosing Scenarios from the 24 
 
 Additionally, each pool will always have at least one Scenario that has the random game length stipulation. This means that you may not play any of these Scenarios across an event, or you might play six!
 
-What this system tries to do is ensure that there is always a balanced spread of Scenarios across a tournament, so that a tournament isn’t won by the fact that the Scenarios simply favoured one style of Army. This will help to provide all players with a better all-round experience.
+What this system tries to do is ensure that there is always a balanced spread of Scenarios across a tournament, so that a tournament isn't won by the fact that the Scenarios simply favoured one style of Army. This will help to provide all players with a better all-round experience.
 
 There are other ways that Organisers can use the Scenario Pool system if they wish:
 
@@ -36,7 +36,6 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 4. STAKE A CLAIM
 
-
 ### POOL 2
 
 **KILL THE ENEMY SCENARIOS**
@@ -48,7 +47,6 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 3. ASSASSINATION
 
 4. CONTEST OF CHAMPIONS
-
 
 ### POOL 3
 
@@ -62,7 +60,6 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 4. COMMAND THE BATTLEFIELD
 
-
 ### POOL 4
 
 **OBJECT SCENARIOS**
@@ -75,7 +72,6 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 4. TREASURE HOARD
 
-
 ### POOL 5
 
 **MANOEUVRING SCENARIOS**
@@ -87,7 +83,6 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 3. DIVIDE & CONQUER
 
 4. ESCORT THE WOUNDED
-
 
 ### POOL 6
 
