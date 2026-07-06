@@ -57,16 +57,19 @@ nav:
       - Scenarios: 'rules_manual/scenarios.md'
   - Matched Play Guide:
       - Matched Play Guide: 'matched_play_guide/index.md'
-      - Additional Rules: 'matched_play_guide/additional_rules.md'
-      - Campaign Events: 'matched_play_guide/campaign_events.md'
-      - Common Scenario Rules: 'matched_play_guide/common_scenario_rules.md'
-      - Doubles Events: 'matched_play_guide/doubles_events.md'
       - Introduction: 'matched_play_guide/introduction.md'
       - Recommended Tournament Style: 'matched_play_guide/recommended_tournament_style.md'
       - Results Sheet: 'matched_play_guide/results_sheet.md'
       - Scenario Pool System: 'matched_play_guide/scenario_pool_system.md'
+      - Common Scenario Rules: 'matched_play_guide/common_scenario_rules.md'
       - Scenarios: 'matched_play_guide/scenarios.md'
+      - Doubles Events: 'matched_play_guide/doubles_events.md'
+      - Campaign Events: 'matched_play_guide/campaign_events.md'
       - Team Events: 'matched_play_guide/team_events.md'
+      - Additional Rules: 'matched_play_guide/additional_rules.md'
+  - Campaigns:
+      - Campaigns: 'campaigns/index.md'
+      - War of the Rohirrim: 'campaigns/war_of_the_rohirrim.md'
   - Forces of Good:
       - Forces of Good: 'forces_of_good/index.md'
       - "Arnor & Angmar": 'forces_of_good/arnor_and_angmar.md'
@@ -203,4 +206,5 @@ nav:
       - Matched Play Guide: 'scenarios/matched_play_guide.md'
       - Doubles Events: 'scenarios/doubles_events.md'
       - WarCom Narrative Scenarios: 'scenarios/warcom_narrative_scenarios.md'
+      - War of the Rohirrim: 'scenarios/war_of_the_rohirrim.md'
   - "[ MESBG 2018 ]": /mesbg2018/
