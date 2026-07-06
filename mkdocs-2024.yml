@@ -57,7 +57,6 @@ nav:
       - Scenarios: 'rules_manual/scenarios.md'
   - Matched Play Guide:
       - Matched Play Guide: 'matched_play_guide/index.md'
-      - Introduction: 'matched_play_guide/introduction.md'
       - Recommended Tournament Style: 'matched_play_guide/recommended_tournament_style.md'
       - Results Sheet: 'matched_play_guide/results_sheet.md'
       - Scenario Pool System: 'matched_play_guide/scenario_pool_system.md'
