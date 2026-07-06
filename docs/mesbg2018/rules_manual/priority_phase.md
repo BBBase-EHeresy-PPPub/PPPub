@@ -1,8 +1,8 @@
-﻿Priority is how we determine which player acts first in the subsequent phases of a turn. It represents one force acting swiftly (or the other biding its time) and can present a range of tactical opportunities and consequences throughout the turn that follows.
+Priority is how we determine which player acts first in the subsequent phases of a turn. It represents one force acting swiftly (or the other biding its time) and can present a range of tactical opportunities and consequences throughout the turn that follows.
 
 In Narrative Play, Priority will always go to the Good player on the first turn, unless the Scenario specifically states otherwise.
 
-In Matched Play and Open Play games, it is common for both players to roll for Priority in the first turn — re-rolling any ties.
+In Matched Play and Open Play games, it is common for both players to roll for Priority in the first turn - re-rolling any ties.
 
 Regardless of what type of game you are playing, from the second turn onwards both players will roll a D6 in the Priority phase to see which player has Priority for the subsequent turn. The player who rolls highest has Priority. In the event of a tie, Priority passes to the player who did not have it in the previous turn. For this reason (and indeed, for reminding yourself who has Priority throughout the turn), it is a good idea to have a suitable counter or token so that it is easy for both players to see who currently has Priority, and to pass it between players as and when Priority changes during the course of the game.
 

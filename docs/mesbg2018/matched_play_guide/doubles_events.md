@@ -1,4 +1,4 @@
-﻿Doubles events have always been a popular way to play the Middle-earth Strategy Battle Game; there is just something about teaming up with a friend to do battle against another team that most hobbyists get a real kick out of. Being able to team up and use your collective gaming experience and knowledge to play a game, and no doubt have a friendly rivalry along the way about whosepart of the army can kill the most, are just some of the reasons that Doubles games will often stick in the minds of those who play them for many years.
+Doubles events have always been a popular way to play the Middle-earth Strategy Battle Game; there is just something about teaming up with a friend to do battle against another team that most hobbyists get a real kick out of. Being able to team up and use your collective gaming experience and knowledge to play a game, and no doubt have a friendly rivalry along the way about whosepart of the army can kill the most, are just some of the reasons that Doubles games will often stick in the minds of those who play them for many years.
 
 Over the next few pages, we are going to present some additional rules for playing Doubles events, as well as six brand new Scenarios specially written for Doubles games for Tournament Organisers to use at their events. Each Scenario is balanced in the same way as the standard Matched Play Scenarios so that they can be used in Doubles tournaments, and will provide a new fun twist on playing Doubles games.
 
@@ -25,7 +25,7 @@ If players wish then they may elect to play using a Legendary Legion. In this si
 
 *For example: Jay and Rob have decided to use the Return of the King Legendary Legion. Jay chooses to have Aragorn in his list, whilst Rob takes the King of the Dead. This way, as a team they have fulfilled the criteria for the Legendary Legion (having to take Aragorn and the King of the Dead) even though each individual force may not.*
 
-If a Legendary Legion states that a specific Hero is always the army leader, then whichever force the model is in will automatically be the Primary Force for each game — there is no need to roll.
+If a Legendary Legion states that a specific Hero is always the army leader, then whichever force the model is in will automatically be the Primary Force for each game - there is no need to roll.
 
 ## THE LEADER
 
@@ -36,4 +36,3 @@ game.
 
 For Doubles games, the Break Point is worked out across the entire army rather than each individual
 force.
-

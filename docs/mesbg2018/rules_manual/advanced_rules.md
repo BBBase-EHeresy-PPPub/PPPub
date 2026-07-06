@@ -1,4 +1,4 @@
-﻿This section is given over to those rules which, while important to the game, will only appear in certain Scenarios or unusual circumstances. If you are creating your own adventures, or recreating other scenes from the history of Middle-earth, you may find these quite handy.
+This section is given over to those rules which, while important to the game, will only appear in certain Scenarios or unusual circumstances. If you are creating your own adventures, or recreating other scenes from the history of Middle-earth, you may find these quite handy.
 
 ## WATER FEATURES
 
@@ -17,7 +17,7 @@ Deep water is any stretch of water that is deep enough that a model could not st
 | D6 | RESULT                 |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **Sink.** The model is overcome by the weight of its wargear (or complete inability to swim) and drowns. Remove the model as a casualty. |
-| 2‑5 | **Swim.** The model may move up to half its remaining Move allowance through the water.       |
+| 2-5 | **Swim.** The model may move up to half its remaining Move allowance through the water.       |
 | 6  | **Swim Strongly.** The model may move its remaining Move allowance through the water.       |
 
 Note: Models that are heavily laden may fall foul of their burdens in deep water. All of the following modifiers which are applicable must be applied when taking a Swim test:
@@ -44,10 +44,10 @@ Throughout their quests and battles, our adventurers and fighters encounter doze
 
 ### LIGHT OBJECTS
 
-Light Objects are small things that are not models in their own right — the likes of keys, rings, healing draughts or even weapons. When a Scenario calls for you to keep track of such an item, it will be clearly listed in the special rules — you can do this by placing a token, coin or counter of some description on the
+Light Objects are small things that are not models in their own right - the likes of keys, rings, healing draughts or even weapons. When a Scenario calls for you to keep track of such an item, it will be clearly listed in the special rules - you can do this by placing a token, coin or counter of some description on the
 tabletop.
 
-A model can pick up such an item by moving into base contact with it. The object can be passed from one model to another; just move the bearer into base contact with the new model and declare who now carries the item. A Light Object may only be moved once and passed once in each Move phase — so it's not possible to do 'relay race' style antics with them.
+A model can pick up such an item by moving into base contact with it. The object can be passed from one model to another; just move the bearer into base contact with the new model and declare who now carries the item. A Light Object may only be moved once and passed once in each Move phase - so it's not possible to do 'relay race' style antics with them.
 
 A model may only pass or drop a Light Object (both willingly or otherwise) if it is not already Engaged in combat. Note that if the item is on the floor, **Cavalry** models must dismount before picking it up, unless they have the Expert Rider special rule.
 
@@ -65,7 +65,7 @@ Models carrying a Heavy Object must drop it before charging. If a model carrying
 
 ### CARRYING OTHER MODELS (PRISONERS, UNCONSCIOUS ALLIES AND CORPSES...)
 
-There are times when a model will need to carry a fallen ally or a prisoner — this is typically only done in Narrative Play, in which case the models that are eligible to carry are clearly explained in the Scenario special rules. The weight of the model being carried (in relation to the bearer's brawniness) will determine how the burden is treated.
+There are times when a model will need to carry a fallen ally or a prisoner - this is typically only done in Narrative Play, in which case the models that are eligible to carry are clearly explained in the Scenario special rules. The weight of the model being carried (in relation to the bearer's brawniness) will determine how the burden is treated.
 
 A model is a Light Object if its Defence value is half of the Strength of the bearer, or less. A model is a Heavy Object if its Defence value is greater than half of the Strength of the bearer.
 
@@ -73,7 +73,7 @@ A model is a Light Object if its Defence value is half of the Strength of the be
 
 ![](../media/rules_manual/carrying_other_models_1.jpg)
 
-*Frodo has fallen foul of Shelob's stinger, and as such has fallen unconscious — he will need to be carried. Sam wishes to carry his friend to safety, but as Frodo's Defence is more than half of Sam's Strength, he will count as a Heavy Object. Sam moves 2" so that he is in base contact with his friend who he then picks up. Sam then carries on with his movement, halving his remaining Move allowance of 2", and moves a further 1" whilst carrying Frodo.*
+*Frodo has fallen foul of Shelob's stinger, and as such has fallen unconscious - he will need to be carried. Sam wishes to carry his friend to safety, but as Frodo's Defence is more than half of Sam's Strength, he will count as a Heavy Object. Sam moves 2" so that he is in base contact with his friend who he then picks up. Sam then carries on with his movement, halving his remaining Move allowance of 2", and moves a further 1" whilst carrying Frodo.*
 
 ## PASSENGERS
 
@@ -85,23 +85,23 @@ In Scenarios that call for a model to travel as a passenger alongside a **Cavalr
 
 ### MOUNTING
 
-A model can mount up as a passenger by moving into base contact with a **Cavalry** model (or if a **Cavalry** model moves into base contact with it) and taking a Jump test. On a 1, the model fails to mount up and neither model can move further that turn. On a 2‑5, the model successfully mounts up, but neither model may move any further that turn. On a 6, the model successfully mounts up and the **Cavalry** model may continue to move, deducting any distance moved that turn by the passenger from its maximum Move distance.
+A model can mount up as a passenger by moving into base contact with a **Cavalry** model (or if a **Cavalry** model moves into base contact with it) and taking a Jump test. On a 1, the model fails to mount up and neither model can move further that turn. On a 2-5, the model successfully mounts up, but neither model may move any further that turn. On a 6, the model successfully mounts up and the **Cavalry** model may continue to move, deducting any distance moved that turn by the passenger from its maximum Move distance.
 
 ### DISMOUNTING
 
-A passenger can dismount at any point in the **Cavalry** model's move — simply place the model on foot in base contact, and then continue to move the **Cavalry** model if you wish. Note, however, that a passenger that dismounts in this way may not move any further that turn.
+A passenger can dismount at any point in the **Cavalry** model's move - simply place the model on foot in base contact, and then continue to move the **Cavalry** model if you wish. Note, however, that a passenger that dismounts in this way may not move any further that turn.
 
 ### HITTING PASSENGERS
 
-While they are a passenger, a model cannot shoot or fight in close combat — although they may be struck by enemies.
+While they are a passenger, a model cannot shoot or fight in close combat - although they may be struck by enemies.
 
-When shooting at **Cavalry** models carrying passengers, any shots that would hit the rider may hit the passenger instead — roll a D6. On a 1-3, they hit the passenger, on a 4-6, the rider. Strikes in close combat may be targeted upon either model at the Attacker's discretion.
+When shooting at **Cavalry** models carrying passengers, any shots that would hit the rider may hit the passenger instead - roll a D6. On a 1-3, they hit the passenger, on a 4-6, the rider. Strikes in close combat may be targeted upon either model at the Attacker's discretion.
 
 Should the rider be thrown from their horse, be killed or dismount, the passenger is automatically thrown, and must immediately roll on the Thrown Rider table ([see page 61]).
 
 ## SENTRIES
 
-Some Scenarios will require the use of Sentries — these are models that are unaware of the enemy sneaking around and therefore cannot engage them directly until they are discovered.
+Some Scenarios will require the use of Sentries - these are models that are unaware of the enemy sneaking around and therefore cannot engage them directly until they are discovered.
 
 Before each Sentry takes their Move phase, their controlling player must roll on the chart below to see how they get to move this turn.
 
@@ -109,9 +109,9 @@ SENTRY CHART
 
 | D6 | Result                |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------|
-| 1  | The Sentry is searching around in its vicinity — it may not Move this turn.       |
+| 1  | The Sentry is searching around in its vicinity - it may not Move this turn.       |
 | 2-3 | The Sentry has been distracted by a noise elsewhere on the board. The opposing player may move the model up to half of its Move allowance in any direction. |
-| 4-5 | The Sentry walks carefully to where they believe an intruder to be — the controlling player may move the model up to 3" in any direction. |
+| 4-5 | The Sentry walks carefully to where they believe an intruder to be - the controlling player may move the model up to 3" in any direction. |
 | 6  | The Sentry is convinced they have spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
 
 If during the End phase of any turn there is an unengaged Sentry within 3" and Line of Sight of an enemy model, then the alarm has been raised. Once the alarm has been raised, all Sentries revert back to the normal rules for movement for the remainder of the game.

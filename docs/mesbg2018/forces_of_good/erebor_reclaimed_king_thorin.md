@@ -8,7 +8,6 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 
 **"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
-
 ## HEROES OF EREBOR RECLAIMED (KING THORIN)
 
 <div class="unitCard" markdown>
@@ -51,7 +50,6 @@ Must re-roll all failed To Wound rolls against Azog.
 
 May call a free Heroic Combat every Fight phase.
 
-
 </div>
 
 ---
@@ -82,7 +80,6 @@ May call a free Heroic Combat every Fight phase.
 - **Longbeard** `ACTIVE`
 
 In Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority Roll.
-
 
 </div>
 
@@ -135,7 +132,6 @@ When Dain Charges, he causes Terror for the rest of that turn.
 
 If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (or smaller) model and roll a D6. On a 5+, that model is Knocked to the Ground.
 
-
 </div>
 
 ---
@@ -177,7 +173,6 @@ Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Du
 - **The King's Axeman** `ACTIVE`
 
 Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an axe in each hand for 4 Attacks, or his two-handed axe for 3 Attacks.
-
 
 </div>
 
@@ -229,7 +224,6 @@ See page 33 of Hobbit Armies book
 
 See page 34 of Hobbit Armies book
 
-
 </div>
 
 ---
@@ -259,7 +253,6 @@ See page 34 of Hobbit Armies book
 - **Embedded Axe-blade** `ACTIVE`
 
 If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
-
 
 </div>
 
@@ -291,7 +284,6 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 - **Steadfast** `PASSIVE`
 
 When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, its effects are ignored. Can be modified with Might. Bofur may only try to Resist a Magical Power before making his Steadfast roll.
-
 
 </div>
 
@@ -331,7 +323,6 @@ When making Jump or Climb tests, Bombur must re-roll results of 6. Additionally,
 
 Once each turn in his Move phase, choose a friendly model in base contact and roll a D6. On a 4+, they regain a lost Will point.
 
-
 </div>
 
 ---
@@ -366,7 +357,6 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 - **Weapon Master** `ACTIVE`
 
 Dori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
-
 
 </div>
 
@@ -407,7 +397,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
-
 </div>
 
 ---
@@ -442,7 +431,6 @@ Gloin must re-roll scores of 1 To Wound in combat.
 - **Weapon Master** `ACTIVE`
 
 Gloin is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
-
 
 </div>
 
@@ -519,7 +507,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
-
 </div>
 
 ---
@@ -556,7 +543,6 @@ Nori is never considered unarmed, and does not suffer the -1 penalty during Duel
 
 Nori may re-roll one dice in the Duel roll and may re-roll one dice when making Strikes.
 
-
 </div>
 
 ---
@@ -592,7 +578,6 @@ Instead of moving in the Move phase, Oin may attempt to heal a friendly model he
 
 Once per Fight phase, Oin can use a Will point to enable a friendly model within 3" to re-roll one dice in their Duel roll.
 
-
 </div>
 
 ---
@@ -623,11 +608,9 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 
 If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori, that member may regain a lost point of either Might, Will or Fate.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF EREBOR RECLAIMED (KING THORIN)
 
@@ -662,7 +645,6 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
 
-
 </div>
 
 ---
@@ -694,6 +676,5 @@ Two-handed weapon that can use either the Bash or Piercing Strike Special Strike
 - **Mattock** `ACTIVE`
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
-
 
 </div>

@@ -1,4 +1,4 @@
-﻿Whilst the rules we have presented in this supplement are all players need to run their own tournaments and gaming weekends, this doesn't mean they are the only rules that can be used in such events. In fact, many tournaments will use their own additional rules to add extra flavour to their event to make it that little bit more unique.
+Whilst the rules we have presented in this supplement are all players need to run their own tournaments and gaming weekends, this doesn't mean they are the only rules that can be used in such events. In fact, many tournaments will use their own additional rules to add extra flavour to their event to make it that little bit more unique.
 
 Over the next few pages we are going to present you with a selection of additional rules that Tournament Organisers can make use of when putting together their own event. These can be used at the discretion of the Tournament Organiser, who may decide to implement one, or more, of these additional rules at their own events.
 
@@ -41,7 +41,7 @@ The style of event that is being run will often dictate the tiebreakers used. In
 
 ## ESCALATION EVENTS
 
-Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small army, then add more and more to their army following each game — though they cannot remove anything from their army after it has been added
+Some events like to use what is known as an Escalation format for the armies that the players will use. What this means is that players will start with a small army, then add more and more to their army following each game - though they cannot remove anything from their army after it has been added
 in.
 
 What this results in is the constantly changing state of an army, one where players can grow their force over the course of the event.

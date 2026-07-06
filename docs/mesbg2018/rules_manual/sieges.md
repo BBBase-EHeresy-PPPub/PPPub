@@ -1,12 +1,12 @@
-﻿Throughout the history of Middle-earth, many sieges have taken place. From the siege of Helm's Deep where the valiant Men of Rohan desperately defended their people from the onslaught of Saruman's Uruk-hai, to the Battle of Pelennor Fields where arguably the greatest army of the Third Age attempted to breach the walls of Minas Tirith and bring the realm of Gondor to its knees. Siege battles have been commonplace in Middle-earth's history. On the following pages you will find the basic rules for fighting your own siege battles — more in-depth rules for siege battles will be made available in future publications.
+Throughout the history of Middle-earth, many sieges have taken place. From the siege of Helm's Deep where the valiant Men of Rohan desperately defended their people from the onslaught of Saruman's Uruk-hai, to the Battle of Pelennor Fields where arguably the greatest army of the Third Age attempted to breach the walls of Minas Tirith and bring the realm of Gondor to its knees. Siege battles have been commonplace in Middle-earth's history. On the following pages you will find the basic rules for fighting your own siege battles - more in-depth rules for siege battles will be made available in future publications.
 
 ## CASTLES AND FORTRESSES
 
 These rules are designed to help you fight battles across purpose-built fortifications, recreating the danger and thrill of laying siege to a castle or defending the walls against a determined attacker. A castle or fortress is made up of two main elements: the walls, and the gates and doors.
 
-**Walls** — Purpose-built defensive walls that are taller than a model cannot be climbed, except by models with the Swift Movement special rule. To assault defenders atop a wall, models will need a siege ladder. This restriction includes wooden palisades, stone walls and similar. We don't make allowances for smashing walls down — it's impossible to predict what kind of fortress you might have in your collection, and in our experience things in a siege get quite complicated enough without this.
+**Walls** - Purpose-built defensive walls that are taller than a model cannot be climbed, except by models with the Swift Movement special rule. To assault defenders atop a wall, models will need a siege ladder. This restriction includes wooden palisades, stone walls and similar. We don't make allowances for smashing walls down - it's impossible to predict what kind of fortress you might have in your collection, and in our experience things in a siege get quite complicated enough without this.
 
-**Gates, doors and hatches** — Fortresses and castles invariably have gates and doorways. These tend to be the weakest points of the construction and can all be moved through and destroyed.
+**Gates, doors and hatches** - Fortresses and castles invariably have gates and doorways. These tend to be the weakest points of the construction and can all be moved through and destroyed.
 
 ### MOVING AROUND THE FORTRESS
 
@@ -31,7 +31,7 @@ Depending on the configuration of your fortress, there may be doorways and trapd
 ### STAIRS
 
 Models can move up and down staircases without movement penalties. If a staircase is shallow enough, even **Cavalry** models may move up and down
-them — both players should discuss this before the game begins.
+them - both players should discuss this before the game begins.
 
 ### FIGHTING ON STAIRS
 
@@ -45,11 +45,11 @@ Haldir *is fighting an Uruk-hai on a staircase within Helm's Deep. As the Uruk-h
 
 ## ASSAULTING THE FORTRESS
 
-Generally speaking, one player's army will be outside the fortress and the other within. Attacking a fortress is easy in principle but hard in practice — the attacker must simply breach the gates or scale the walls!
+Generally speaking, one player's army will be outside the fortress and the other within. Attacking a fortress is easy in principle but hard in practice - the attacker must simply breach the gates or scale the walls!
 
 ### ATTACKING GATES (AND DOORS)
 
-A model in base contact with a gate or doorway may attack it in the Fight phase as if it were an enemy model. The Attacker automatically wins the Fight and so rolls To Wound against the Defence of the door. Each successful Strike causes one Wound. Shooting attacks with a Strength of 5 or greater may also damage doors — shooting attacks with a Strength of 4 or less cannot damage doors.
+A model in base contact with a gate or doorway may attack it in the Fight phase as if it were an enemy model. The Attacker automatically wins the Fight and so rolls To Wound against the Defence of the door. Each successful Strike causes one Wound. Shooting attacks with a Strength of 5 or greater may also damage doors - shooting attacks with a Strength of 4 or less cannot damage doors.
 
 ### MAKING AN ESCALADE
 
@@ -59,7 +59,7 @@ A fancy term for trying to storm the battlements of a castle or fortress, the es
 
 Siege ladders are Heavy Objects ([see page 110]). If uncarried, siege ladders can be attacked; they have a Defence of 8, 2 Wounds and automatically lose Duel rolls. If models carrying a siege ladder move into base contact with a wall, the ladder is automatically raised. Place it in position against the wall. Defending models can smash down a siege ladder if they are in contact with it (see Pushing Down Siege Ladders below).
 
-### FIGHTING UP LADDERS 
+### FIGHTING UP LADDERS
 
 Models may climb siege ladders in the same way as any other ladder [(see page 30]). A model may even Charge up a ladder against a defender on the wall, in which case the Fight will be resolved in the same manner as a Fight across a Barrier [(see page 48]).
 

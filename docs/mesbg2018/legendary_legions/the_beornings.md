@@ -8,8 +8,8 @@
 
 **BEORNING [20 points]**
 
-• Swap Weapon: 1 point  
-• Swap Hand-and-a-Half Axe for Great Bow: 0 points  
+• Swap Weapon: 1 point
+• Swap Hand-and-a-Half Axe for Great Bow: 0 points
 
 </div>
 

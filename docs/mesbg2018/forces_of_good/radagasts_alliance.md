@@ -6,7 +6,6 @@ This army may include: Radagast the Brown; Beorn; Gwaihir; Great Eagle.
 
 **"The Eagles are coming!"** - Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
 
-
 ## HEROES OF RADAGAST'S ALLIANCE
 
 <div class="unitCard" markdown>
@@ -60,7 +59,6 @@ Radagast always has Line of Sight to any point on the battlefield. Eagle models 
 
 Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move through difficult terrain without penalty.
 
-
 </div>
 
 ---
@@ -95,7 +93,6 @@ Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move thr
 
 To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+, Beorn transforms into a bear. Might may be used to influence this roll. Beorn may then continue his move as normal, including making Charges. Beorn cannot change form if an enemy model is in base contact with him.
 
-
 </div>
 
 ---
@@ -129,11 +126,9 @@ To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+,
 
 Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit from his Heroic Actions.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF RADAGAST'S ALLIANCE
 

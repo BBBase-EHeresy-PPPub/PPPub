@@ -39,7 +39,6 @@ To change Grimbeorn's form, you may roll a D6 at the start of Beorn's Move. On a
 
 Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or Stand Fast!
 
-
 </div>
 
 ---
@@ -85,7 +84,6 @@ May include Bill the Pony as part of Barliman's warband, even if your force does
 
 During his Move, if Barliman Butterbur is in base contact with a friendly Hero, he may spend a point of Will to roll a D6. On a 5+ (or a 4+ for Hero models from The Fellowship) the Hero regains a lost Wound.
 
-
 </div>
 
 ---
@@ -115,7 +113,6 @@ The area within 12" of Harry is illuminated. Models within this area can be seen
 - **Gatekeeper** `ACTIVE`
 
 After Priority has been rolled, Harry may spent a point of Will and choose one enemy Infantry model within 6" and in LoS of Harry, and roll a D6. On a 3+, that model cannot move that turn, but may perform any other action as normal.
-
 
 </div>
 
@@ -150,7 +147,6 @@ Automatically passes all Swim tests. Goldberry cannot be targeted by Abilities, 
 
 Goldberry loses a point of Will at the end of any turn where she participated in a Fight. If she is reduced to 0 Will, or there are no other friendly models besides herself and Tom Bombadil, she wanders back off to her home and is removed as a casualty.
 
-
 </div>
 
 ---
@@ -173,7 +169,6 @@ Goldberry loses a point of Will at the end of any turn where she participated in
 - **Shattered Spirit** `PASSIVE`
 
 At the start of every Priority phase before rolling, Thrain must take an unmodified Courage test (he can never be forced to automatically pass it). If passed, he acts normally. If it is passed on a double, Thrain adds +2 to his Fight, Strength, Attack and Courage value, until the end of the turn. If the test is failed, the opposing player controls Thrain. If Thrain is being used as a Good model, then Good models cannot target him with shooting, Magical Powers, or Strikes if they win fights against him.
-
 
 </div>
 
@@ -209,11 +204,9 @@ Treat all difficult terrain as open, and always counts as having rolled a 6 on J
 
 Tom loses a point of Will at the end of any turn where he participated in a Fight. If he is reduced to 0 Will, or there are no other friendly models besides himself and Goldberry, he wanders back off to his homestead and is removed as a casualty.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF WANDERERS IN THE WILD (GOOD)
 
@@ -245,7 +238,6 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 This model counts as being in range of a banner if they are within 6" of a friendly Bear model.
 
-
 </div>
 
 ---
@@ -276,6 +268,5 @@ Each turn, one Fellowship model in base contact with Bill can roll a D6. On a 5+
 - **Only a Pony** `PASSIVE`
 
 May never charge, and no other models can benefit from his Stand Fast!. However, he can benefit from any Hobbit hero's Stand Fast!
-
 
 </div>

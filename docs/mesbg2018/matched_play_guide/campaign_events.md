@@ -1,4 +1,4 @@
-﻿Not every gaming event has to be a winner-takes-all tournament, pitting players against one another in order to find out which of them is the best on that particular day. Sometimes, it is nice to run a different type of event where players can try out new armies or play as part of a larger team.
+Not every gaming event has to be a winner-takes-all tournament, pitting players against one another in order to find out which of them is the best on that particular day. Sometimes, it is nice to run a different type of event where players can try out new armies or play as part of a larger team.
 
 Campaign events are another way for a group of gamers to play games together over a weekend, and have always proved to be pretty popular among fans of the Middle-earth Strategy Battle Game. Grouping players into factions allows them to battle over key areas of Middle-earth in order to try to conquer it for their faction, adding that extra layer of depth to your weekend as it is not just your results that matter, but those of your entire team.
 
@@ -22,7 +22,7 @@ A Campaign event should have a total of six rounds, each one played in one of th
 
 After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 18 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on page 8.
 
-To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again — its fate will already have been decided. This way, each Region will be fought over once in an event.
+To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again - its fate will already have been decided. This way, each Region will be fought over once in an event.
 
 | D6| Result |
 |-----------|------------|

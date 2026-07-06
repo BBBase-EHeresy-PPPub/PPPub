@@ -6,7 +6,6 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 
 **"The Khandish Hosts"** - Khandish Horsemen and Khandish Charioteers do not count towards the force's Bow Limit.
 
-
 ## HEROES OF VARIAGS OF KHAND
 
 <div class="unitCard" markdown>
@@ -41,7 +40,6 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 
 Friendly Khandish models within 6" of a Khandish King count as being in range of a banner.
 
-
 </div>
 
 ---
@@ -75,7 +73,6 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 </div>
 
 ---
-
 
 ## WARRIORS OF VARIAGS OF KHAND
 
@@ -117,7 +114,6 @@ See page 189 of Armies of LOTR.
 - **Chariot Charge** `PASSIVE`
 
 See page 189 of Armies of LOTR.
-
 
 </div>
 

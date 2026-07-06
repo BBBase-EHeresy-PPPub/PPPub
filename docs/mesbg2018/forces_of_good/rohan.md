@@ -6,7 +6,6 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 
 **"Ride for Ruin and the World's Ending!"** - Friendly Rohan Cavalry models gain + 1 Strength on a turn in which they Charge.
 
-
 ## HEROES OF ROHAN
 
 <div class="unitCard" markdown>
@@ -53,7 +52,6 @@ Rohan Warrior models within 6" gain +1 Fight value.
 - **The Hammerhand** `PASSIVE`
 
 May choose to use his fists instead of his sword, in which case he may use Bash special strike, and never counts as unarmed.
-
 
 </div>
 
@@ -102,7 +100,6 @@ Theoden's Stand Fast! Is 12" rather than 6".
 
 If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 Attack.
 
-
 </div>
 
 ---
@@ -142,7 +139,6 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 
 If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on all To Wound rolls for the rest of the game, and he must charge if able to do so.
 
-
 </div>
 
 ---
@@ -179,7 +175,6 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 - **Legendary Hero** `PASSIVE`
 
 The first time each turn that Eorl the Young spends a Might point, roll a D6. On a 4+, the point of Might is free.
-
 
 </div>
 
@@ -218,7 +213,6 @@ The first time each turn that Eorl the Young spends a Might point, roll a D6. On
 - **Reckless Charge** `ACTIVE`
 
 Theodred must Charge enemy models if able to so. Additionally, when he charges, re-roll any failed To Wound rolls in that fight.
-
 
 </div>
 
@@ -260,7 +254,6 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 If within 12" of Theoden, and riding a horse, this model receives +1 bonus to their Fight value on a turn in which they Charge.
 
-
 </div>
 
 ---
@@ -298,7 +291,6 @@ If within 12" of Theoden, and riding a horse, this model receives +1 bonus to th
 - **For Theoden** `ACTIVE`
 
 If Theoden is Engaged in a Fight within 12", Deorwine may call a Heroic Combat for free. If the action is successful, you must use the following move to join Theoden's combat, or get as close as possible to him.
-
 
 </div>
 
@@ -338,7 +330,6 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a Heroic Combat f
 
 Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing spear, and never suffers the -1 penalty when moving and shooting with a throwing spear.
 
-
 </div>
 
 ---
@@ -377,7 +368,6 @@ Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing s
 
 This is a war horn that adds +2 Courage rather than +1, but only affects friendly Rohan models.
 
-
 </div>
 
 ---
@@ -415,7 +405,6 @@ This is a war horn that adds +2 Courage rather than +1, but only affects friendl
 - **Royal Standard of Rohan** `PASSIVE`
 
 As well as being a banner, a single Rohan Hero model with no Might left and within 3" may regain 1 Might point. Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this banner.
-
 
 </div>
 
@@ -550,7 +539,6 @@ As well as being a banner, a single Rohan Hero model with no Might left and with
 
 If Theoden is slain, Eowyn must move towards the spot where he died if she can. Once she's within 3" of this spot, she must remain within 3" of it. Then for rest of the game, she becomes Fearless, re-rolls any failed To Wound rolls, and gains +1 To Wound when striking the model that slew Theoden.
 
-
 </div>
 
 ---
@@ -611,7 +599,6 @@ Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are 
 
 Aldor must re-roll failed To Hit and To Wound rolls with his bow.
 
-
 </div>
 
 ---
@@ -644,7 +631,6 @@ Haleth has an Attack value of 2 whilst within 6" of Aragorn.
 - **Fight to the Last** `PASSIVE`
 
 If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models within 6" gain +1 Fight value. This ends immediately if Haleth is slain.
-
 
 </div>
 
@@ -683,7 +669,6 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 ---
 
-
 ## WARRIORS OF ROHAN
 
 <div class="unitCard" markdown>
@@ -719,7 +704,6 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
 
-
 </div>
 
 ---
@@ -751,7 +735,6 @@ If this model is within 12" of Theoden and on a horse, it receives +1 bonus to i
 - **Vanguard** `ACTIVE`
 
 Outriders may use friendly Hero model's Stand Fast, regardless of range.
-
 
 </div>
 
@@ -788,7 +771,6 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
 
-
 </div>
 
 ---
@@ -820,7 +802,6 @@ If this model is within 12" of Theoden and on a horse, it receives +1 bonus to i
 - **Riders of Eorl** `ACTIVE`
 
 Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
-
 
 </div>
 

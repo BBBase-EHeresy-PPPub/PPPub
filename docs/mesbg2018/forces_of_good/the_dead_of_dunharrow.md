@@ -6,7 +6,6 @@ This army may include: The King of the Dead; Herald of the Dead; Rider of the De
 
 **"The Dead do not suffer the Living to pass"** - The King of the Dead gains the Harbinger of Evil special rule. Additionally, warbands from this army that contain eight or more models, do not need a Hero to be the Captain of the Warband. Instead, one of the Warrior models within the warband takes on the role of the warband's Captain for the purpose of deployment. A Dead of Dunharrow army list is automatically Impossible Allies with any force that doesn't also include Aragorn.
 
-
 ## HEROES OF THE DEAD OF DUNHARROW
 
 <div class="unitCard" markdown>
@@ -44,7 +43,6 @@ Only Warriors/Riders/Heralds of the Dead may use the King of the Dead's Stand Fa
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
-
 
 </div>
 
@@ -87,7 +85,6 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 
 This model may move over water features as normal ground.
 
-
 </div>
 
 ---
@@ -120,7 +117,6 @@ This model may move over water features as normal ground.
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
-
 
 </div>
 
@@ -156,11 +152,9 @@ This model may move over water features as normal ground.
 
 This model may move over water features as normal ground.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE DEAD OF DUNHARROW
 
@@ -192,7 +186,6 @@ This model may move over water features as normal ground.
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
-
 
 </div>
 
@@ -227,6 +220,5 @@ This model may move over water features as normal ground.
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
-
 
 </div>

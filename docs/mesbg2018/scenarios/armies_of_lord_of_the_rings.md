@@ -1,4 +1,4 @@
-﻿## THE LAST ALLIANCE
+## THE LAST ALLIANCE
 
 **LAYOUT**
 
@@ -100,7 +100,7 @@ The Evil player wins immediately if both Arvedui and Malbeth are slain. The Good
 
 Whenever Arvedui suffers a Wound within 6 " of Malbeth, he will ignore the Wound on a 4+ rather than a 5+.
 
-* **Arvedui's Last Stand** 
+* **Arvedui's Last Stand**
 
 Arvedui has the Fearless special rule.
 
@@ -308,7 +308,7 @@ Evil models may not move at all on the first turn of the game.
 
 **PARTICIPANTS**
 
-**Good:** Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with throwing spear); Ghan-buri-Ghan; 9 Woses. 
+**Good:** Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with throwing spear); Ghan-buri-Ghan; 9 Woses.
 
 All Rohan models must be mounted and may have armour and shields if they are able.
 
@@ -402,7 +402,7 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age, and as su
 
 **PARTICIPANTS**
 
-**GOOD** 
+**GOOD**
 
 **Minas Tirith**
 
@@ -418,7 +418,7 @@ All Rohan models must be mounted and may have armour and shields if they are abl
 
 Aragorn - Strider with Anduril; Legolas with armour; Gimli, son of Gloin; Halbarad with the Banner of Arwen Evenstar; Elladan and Elrohir with heavy armour; The King of the Dead; Angbor the Fearless; Duinhir; 12 Rangers of the North; 12 Blackroot Vale Archers; 12 Clansmen of Lamedon; 10 Warriors of the Dead.
 
-**EVIL** 
+**EVIL**
 
 **Mordor**
 

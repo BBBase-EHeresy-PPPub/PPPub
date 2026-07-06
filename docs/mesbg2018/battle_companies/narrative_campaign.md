@@ -1,4 +1,4 @@
-﻿Over the course of the next few pages, we are going to present you with a Narrative Campaign to use with your Battle Company. This follows a similar principle to previous Battle Companies campaigns, so those of you that have played through other campaigns will have some idea as to how the campaign will work.
+Over the course of the next few pages, we are going to present you with a Narrative Campaign to use with your Battle Company. This follows a similar principle to previous Battle Companies campaigns, so those of you that have played through other campaigns will have some idea as to how the campaign will work.
 
 This campaign is designed for you to take a starting Battle Company and embark on a narratively driven story, where your company will grow and improve as they face all manner of foes. In the Narrative Scenarios, your Battle Company will face a pre-determined force that will provide the essence of the campaign, and each one will be slightly harder than the last to ensure that your company is always challenged, even as they progress.
 
@@ -8,7 +8,7 @@ Once you have gathered together your group of friends to play the campaign, and 
 
 Each player should play this as their first game to give everyone the same opportunities to gather extra Equipment for their company. It is also a good idea to get another player to use the opposing force in each of the Narrative Scenarios, which will make the games far more interesting. The best way to go about this is for everyone to pair up with a partner and play two games; one player using the company whilst the other uses the opposing force, and then swapping over.
 
-After this we recommend playing at least one, but up to three, Battle Companies games between the members of your group before moving on to the second Narrative Scenario. As the Narrative Scenarios get progressively harder, this will allow you to progress the members of your company enough to successfully undertake each Scenario in turn — and as the Scenarios do get harder, this is rather sensible to do! This will mean that by the time you have reached the final Narrative Scenario, you will have played four other narrative Scenarios and as many as 12 other games of Battle Companies as shown in the chart below:
+After this we recommend playing at least one, but up to three, Battle Companies games between the members of your group before moving on to the second Narrative Scenario. As the Narrative Scenarios get progressively harder, this will allow you to progress the members of your company enough to successfully undertake each Scenario in turn - and as the Scenarios do get harder, this is rather sensible to do! This will mean that by the time you have reached the final Narrative Scenario, you will have played four other narrative Scenarios and as many as 12 other games of Battle Companies as shown in the chart below:
 
 ---
 
@@ -32,7 +32,7 @@ After this we recommend playing at least one, but up to three, Battle Companies 
 
 ---
 
-Each of these scenarios features a special Rewards table that Battle Companies may roll on if they are victorious in the Scenario in question. These feature a selection of interesting and unusual rewards that cannot usually be obtained — and many are entirely unique to the campaign. Should your company be victorious in the final Scenario, the Drake's Treasure, the rewards will be substantially better!
+Each of these scenarios features a special Rewards table that Battle Companies may roll on if they are victorious in the Scenario in question. These feature a selection of interesting and unusual rewards that cannot usually be obtained - and many are entirely unique to the campaign. Should your company be victorious in the final Scenario, the Drake's Treasure, the rewards will be substantially better!
 
 ## JOURNEY TO THE BLUE MOUNTAINS
 
@@ -45,4 +45,3 @@ Each of these scenarios features a special Rewards table that Battle Companies m
 *With stories of treasure at the forefront of his mind, the company's leader gathers his companions, informing them of what he has just learned from the mysterious old man. The company engages in much discussion about the likelihood of this story being true, and if so, what they should do. In the end, they decide that if the treasure is even half of what the tales say, then it is simply too much to ignore and leave in the northern mountains. They decide to venture north and lay claim to the treasure for their masters, and the glories that go with it.*
 
 *Sending a message home to their lord, the company orders another round of ale, from a now very tired Barliman Butterbur, and begin laying the plans for their long journey to the very north of the Blue Mountains...*
-

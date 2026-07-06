@@ -6,7 +6,6 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 **"The Wealth of Moria lay not in Gold or Jewels, but in Mithril"** - Friendly Dwarf models with either the Khazad-Dum or Moria keyword may re-roll To Wound rolls of a 1 when fighting in close combat.
 
-
 ## HEROES OF THE KINGDOM OF KHAZAD-DUM
 
 <div class="unitCard" markdown>
@@ -48,7 +47,6 @@ Once per game, you may re-roll a single Priority roll.
 - **The Crown of Kings** `PASSIVE`
 
 For each wound he suffers, roll a D6. On a 6, the wound is ignored.
-
 
 </div>
 
@@ -136,7 +134,6 @@ At the start of his move, he can spend a point of Will to cancel an enemy Active
 
 Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enemy Hero or Monster model.
 
-
 </div>
 
 ---
@@ -170,7 +167,6 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 
 When two Heralds, or a Herald and the King's Champion are in base contact, both receive +1 to their Defence. If both Heralds and the Kings Champion are in all in base contact, they receive +2 instead.
 
-
 </div>
 
 ---
@@ -200,7 +196,6 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 - **Torozul** `ACTIVE`
 
 This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
-
 
 </div>
 
@@ -236,11 +231,9 @@ At the start of the game, nominate a single Dwarf Hero model with the highest He
 
 Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE KINGDOM OF KHAZAD-DUM
 
@@ -364,7 +357,6 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 ---
 
-
 ## SIEGE ENGINES OF THE KINGDOM OF KHAZAD-DUM
 
 <div class="unitCard" markdown>
@@ -394,6 +386,5 @@ A Dwarf Ballista will only scatter 3" rather than 6"
 - **Piercing Shot**
 
 If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Ballista. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
-
 
 </div>

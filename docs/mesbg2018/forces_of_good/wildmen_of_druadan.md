@@ -6,7 +6,6 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 
 **"Wild men have Long Ears and Long Eyes; know all Paths"** - Models from this army list gain the Mountain Dweller special rule. Additionally, enemy models do not gain any benefits from the Stalk Unseen special rule, or any suchs special rules thatg ive similar benefits, against models from this army list. Additionally, warbands from this army list, that contain between 9 and 12 models, do not need a Hero to be the captain of the warband. Instead, one of the Warrior models within the warband takes on the role of the warband's captain for the purpose of deployment.
 
-
 ## HEROES OF WILDMEN OF DRUADAN
 
 <div class="unitCard" markdown>
@@ -73,7 +72,6 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 </div>
 
 ---
-
 
 ## WARRIORS OF WILDMEN OF DRUADAN
 

@@ -1,12 +1,12 @@
-﻿Whilst the Journey to the Blue Mountains Narrative Campaign takes your Battle Company on a specific journey with an end goal, a map-based campaign is a whole different experience entirely. Battle Companies spend huge amounts of time travelling across Middle-earth, traversing all kinds of various terrain as they set about accomplishing whatever tasks they have been set; and a map-based campaign allows you and a group of friends to fight over all of Middle-earth as your companies vie for control of it.
+Whilst the Journey to the Blue Mountains Narrative Campaign takes your Battle Company on a specific journey with an end goal, a map-based campaign is a whole different experience entirely. Battle Companies spend huge amounts of time travelling across Middle-earth, traversing all kinds of various terrain as they set about accomplishing whatever tasks they have been set; and a map-based campaign allows you and a group of friends to fight over all of Middle-earth as your companies vie for control of it.
 
-Over the next few pages we are going to present to you a simple and fun map-based Battle Companies campaign that's ideal for 4-10 players — although you can have more if you don't mind it getting a tad hectic!
+Over the next few pages we are going to present to you a simple and fun map-based Battle Companies campaign that's ideal for 4-10 players - although you can have more if you don't mind it getting a tad hectic!
 
 ### HOW DOES IT WORK?
 
-The first thing you will need to do is gather a group of players for your campaign, and then get them all to gather together their starting Battle Company — an even number works much better for this, so if you have an odd number try to encourage another player to join! Players are free to use any Battle Company they wish, though we feel the campaign works best when each player uses a different company; that way each player is representing a different faction or region, which adds to the excitement of the campaign.
+The first thing you will need to do is gather a group of players for your campaign, and then get them all to gather together their starting Battle Company - an even number works much better for this, so if you have an odd number try to encourage another player to join! Players are free to use any Battle Company they wish, though we feel the campaign works best when each player uses a different company; that way each player is representing a different faction or region, which adds to the excitement of the campaign.
 
-We recommend between 4-10 players for this campaign, as that way the map does not get too crowded and each faction has room to expand their own territories. However, this is by no means a hard and fast rule, and if you want to have more players in the campaign, that is absolutely fine — just be prepared for some companies to be right on top of each other from the start!
+We recommend between 4-10 players for this campaign, as that way the map does not get too crowded and each faction has room to expand their own territories. However, this is by no means a hard and fast rule, and if you want to have more players in the campaign, that is absolutely fine - just be prepared for some companies to be right on top of each other from the start!
 
 Once you have gathered your players and they have chosen their Battle Companies, each player will need to choose their starting location. These are all spaces in the wilderness of Middle-earth where your Battle Company currently resides, and are denoted on the map by the shaded yellow hexes and the ![](../media/battle_companies/starting_symbol.jpg) symbol. As there are only 10 of these starting locations on the map, if you have more than 10 players in your campaign, you will have to agree on some other starting locations for the extra players.
 
@@ -32,7 +32,7 @@ An unoccupied territory is any hex that is not controlled by any player. A hex c
 
 ### BATTLEPHASE
 
-Once each player has completed the Expansion phase, it is time to organise some games. There is no set rule for how to pair players up for the games; anyone can play against anyone else regardless of how far apart they are on the map. There are many ways you can arrange who plays who, either by having players challenge each other, drawing names out of a hat, oragnising a round robin style 'fixture' list so that players will play their games in a set order — the choice is really up to you, and there are many ways you can do this. If certain players are battling over specific territories, and both of them wish to fight each other, this can be a good reason to have them fighting — just be careful not just to do this every turn, as doing so will mean they only ever play each other rather than the rest of the group.
+Once each player has completed the Expansion phase, it is time to organise some games. There is no set rule for how to pair players up for the games; anyone can play against anyone else regardless of how far apart they are on the map. There are many ways you can arrange who plays who, either by having players challenge each other, drawing names out of a hat, oragnising a round robin style 'fixture' list so that players will play their games in a set order - the choice is really up to you, and there are many ways you can do this. If certain players are battling over specific territories, and both of them wish to fight each other, this can be a good reason to have them fighting - just be careful not just to do this every turn, as doing so will mean they only ever play each other rather than the rest of the group.
 
 The most important thing is to ensure that every player has a game, that way one player doesn't just race off and play everyone first so that their Battle Company becomes far more experienced than everyone else's. Making sure players all play the same number of games keeps it fair for everyone!
 
@@ -52,7 +52,7 @@ The losing player does not get to take a territory; however, as their company is
 
 If a player lost their previous game then they may choose whether they are the Attacker or Defender in the next scenario (if this is relevant). If there is no Attacker or Defender in
 
-the next scenario, they may choose their deployment zone instead. If both players in a game lost their previous battle, neither player gains these benefits — the planning and efforts of both Battle Companies cancel each other out.
+the next scenario, they may choose their deployment zone instead. If both players in a game lost their previous battle, neither player gains these benefits - the planning and efforts of both Battle Companies cancel each other out.
 
 In this campaign, turns don't take very long at all, probably no more than an hour each. This means that you can get a good few turns of the campaign in each time you meet up with your gaming group and the campaign will progress at a very reasonable pace.
 
@@ -88,21 +88,21 @@ There are two types of territories: Wilderness Territories and Special Territori
 
 **Wilderness Territories** are quite simply any hex that is not a Special Territory; this includes the starting locations. Wilderness Territories are worth one Campaign Point.
 
-**Special Territories** are those areas of Middle-earth that have a much greater significance than the others — they are determined on the map by the shaded red hexes. Special Territories are worth 5 Campaign Points. Additionally, each Special Territory has a unique special rule associated with it depending on what the territory represents. As long as a Battle Company holds a Special Territory, they gain the associated benefit. The list of Special Territories and their associated benefits are listed over the next few pages.
+**Special Territories** are those areas of Middle-earth that have a much greater significance than the others - they are determined on the map by the shaded red hexes. Special Territories are worth 5 Campaign Points. Additionally, each Special Territory has a unique special rule associated with it depending on what the territory represents. As long as a Battle Company holds a Special Territory, they gain the associated benefit. The list of Special Territories and their associated benefits are listed over the next few pages.
 
 Each Special Territory will also have its own symbol on the map, making it easy to locate each at a glance.
 
 ### SPECIAL TERRITORIES
 
-As mentioned previously, dotted around the campaign map is a selection of 30 Special Territories. These are not only worth significantly more Campaign Points, but each one also has a special rule associated with it — making them well worth fighting over, as they can very easily be the deciding factor in a campaign!
+As mentioned previously, dotted around the campaign map is a selection of 30 Special Territories. These are not only worth significantly more Campaign Points, but each one also has a special rule associated with it - making them well worth fighting over, as they can very easily be the deciding factor in a campaign!
 
 Over the next three pages we will highlight each of these Special Territories and the special rules associated with them. The special rule for each of these applies as soon as a Battle & Company takes control of the territory, but is also lost as soon as a company loses control of the territory.
 
-![](../media/battle_companies/abrakhan_symbol.jpg) **ABRAKHÂN** 
+![](../media/battle_companies/abrakhan_symbol.jpg) **ABRAKHAN**
 
 At the end of each Battle phase, a Battle Company that controls Abrakhân gains an additional 1 Influence Point.
 
-![](../media/battle_companies/blue_mountains_symbol.jpg) **BLUE MOUNTAINS** 
+![](../media/battle_companies/blue_mountains_symbol.jpg) **BLUE MOUNTAINS**
 
 A Battle Company that controls the Blue Mountains may swap their hand weapons for another type for free rather than having to pay an Influence Point to do so.
 
@@ -162,7 +162,7 @@ All models in a Battle Company that controls the Iron Hills gain the Mountain Dw
 
 Once per game, a Battle Company that controls Isengard can choose to have Priority rather than either player rolling as normal. This must be done before either player rolls their dice.
 
-![](../media/battle_companies/karna_symbol.jpg) **KÂRNA**
+![](../media/battle_companies/karna_symbol.jpg) **KARNA**
 
 Models in a Battle Company that controls Kârna gain a bonus of +1 to their Courage value.
 
@@ -208,7 +208,7 @@ All models in a Battle Company that controls Rhosgobel gain the Resistant to Mag
 
 ![](../media/battle_companies/the_shire_symbol.jpg) **THE SHIRE**
 
-Models from a Battle Company that controls the Shire gain a bonus of +1 when making Injury rolls. This bonus is ignored if the model rolls the Dead result — they are beyond saving.
+Models from a Battle Company that controls the Shire gain a bonus of +1 when making Injury rolls. This bonus is ignored if the model rolls the Dead result - they are beyond saving.
 
 ![](../media/battle_companies/umbar_symbol.jpg) **UMBAR**
 

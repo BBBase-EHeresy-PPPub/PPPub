@@ -4,16 +4,16 @@
 
 **GRISHNAK [50 points]**
 
-• Shield: 5 points  
+• Shield: 5 points
 
 **MAUHUR [60 points]**
 
 **ORC CAPTAIN [40 points]**
 
-• Warg: 10 points  
-• Orc Bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Orc Bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **SNAGA [50 points]**
 
@@ -21,31 +21,31 @@
 
 **URUK-HAI SCOUT CAPTAIN [55 points]**
 
-• Uruk-Hai Bow: 5 points  
-• Shield: 5 points  
-• Two-Handed Weapon: 5 points  
-• Swap Weapon: 5 points  
+• Uruk-Hai Bow: 5 points
+• Shield: 5 points
+• Two-Handed Weapon: 5 points
+• Swap Weapon: 5 points
 
 **URUK-HAI DRUMMER [35 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **ORC WARRIOR [5 points]**
 
-• Banner: 25 points  
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Two-Handed Weapon: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc Bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Two-Handed Weapon: 1 point
+• Swap Weapon: 1 point
 
 **URUK-HAI SCOUT [8 points]**
 
-• Banner: 25 points  
-• Shield: 1 point  
-• Uruk-Hai Bow: 1 point  
-• Swap Weapon: 1 point  
-• Marauder Upgrade - FREE: 0 points  
+• Banner: 25 points
+• Shield: 1 point
+• Uruk-Hai Bow: 1 point
+• Swap Weapon: 1 point
+• Marauder Upgrade - FREE: 0 points
 
 </div>
 

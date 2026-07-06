@@ -1,4 +1,4 @@
-﻿### MORDOR
+### MORDOR
 
 **STARTING BATTLECOMPANY**
 
@@ -316,7 +316,7 @@ Every time this Hero suffers a Wound in combat that would result in it being sla
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Backstabber'** - When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away. 
+**'Backstabber'** - When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away.
 
 The Hero gains the 'Backstabbers' special rule.
 
@@ -335,15 +335,15 @@ The Hero gains the 'Backstabbers' special rule.
 
 **STARTING BATTLE COMPANY**
 
-- 3x Angmar Orc Warriors with shield  
-- 2x Angmar Orc Warriors with spear  
-- 2x Angmar Orc Warriors with two-handed weapon  
-- 2x Angmar Orc Warriors with Orc bow  
+- 3x Angmar Orc Warriors with shield
+- 2x Angmar Orc Warriors with spear
+- 2x Angmar Orc Warriors with two-handed weapon
+- 2x Angmar Orc Warriors with Orc bow
 
 **ADVANCEMENTS**
 
-- Angmar Orc Warrior with two-handed weapon - Angmar Warg Rider  
-- Angmar Orc Warrior with Orc bow - Orc Tracker  
+- Angmar Orc Warrior with two-handed weapon - Angmar Warg Rider
+- Angmar Orc Warrior with Orc bow - Orc Tracker
 
 **ARMY SPECIFIC HERO UPGRADE**
 
@@ -517,7 +517,7 @@ Unlike other Battle Companies, a Harad Battle Company may have up to 50% of its 
 
 ---
 
-### KÂRNA
+### Karna
 
 **STARTING BATTLECOMPANY**
 
@@ -652,13 +652,13 @@ Smoke Bombs (1/5) - 2 Influence Points - These are a throwing weapon with a Stre
 
 **STARTING BATTLECOMPANY**
 
-- 2x Easterling Warriors with shield  
-- 2x Easterling Warriors with pike and shield  
-- 2x Easterling Warriors with bow  
+- 2x Easterling Warriors with shield
+- 2x Easterling Warriors with pike and shield
+- 2x Easterling Warriors with bow
 
 **ADVANCEMENTS**
 
-- Easterling Warrior - Black Dragon with equivalent wargear  
+- Easterling Warrior - Black Dragon with equivalent wargear
 
 **ARMY SPECIFIC HERO UPGRADE**
 
@@ -731,7 +731,7 @@ Khandish Chariot (25/35) (leader only) - 10 Influence Points
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Frenzied Fighter'** - Having been subjected to a maddened state by the words of the White Wizard, the hero shrugs off all but the most grievous wounds in order to fight to the last. 
+**'Frenzied Fighter'** - Having been subjected to a maddened state by the words of the White Wizard, the hero shrugs off all but the most grievous wounds in order to fight to the last.
 
 Roll a D6 each time the Hero suffers a Wound; on a 5+ the Wound is ignored.
 
@@ -762,14 +762,14 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 **STARTING BATTLECOMPANY**
 
-- 1x Dragon Cult Acolyte  
-- 2x Black Dragons with shield  
-- 1x Black Dragon with pike and shield  
-- 1x Black Dragon with bow  
+- 1x Dragon Cult Acolyte
+- 2x Black Dragons with shield
+- 1x Black Dragon with pike and shield
+- 1x Black Dragon with bow
 
 **ADVANCEMENTS**
 
-- Black Dragon - Dragon Cult Acolyte  
+- Black Dragon - Dragon Cult Acolyte
 
 **ARMY SPECIFIC HERO UPGRADE**
 
@@ -795,17 +795,17 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 ---
 
-### CARN DÛM 
+### CARN DÛM
 
 **STARTING BATTLE COMPANY**
 
-- 2x Warriors of Carn Dûm  
-- 2x Warriors of Carn Dûm with spear  
-- 2x Angmar Orc Warriors with Orc bow  
+- 2x Warriors of Carn Dûm
+- 2x Warriors of Carn Dûm with spear
+- 2x Angmar Orc Warriors with Orc bow
 
 **ADVANCEMENTS**
 
-- Angmar Orc Warrior with Orc bow - Orc Tracker  
+- Angmar Orc Warrior with Orc bow - Orc Tracker
 
 **ARMY SPECIFIC HERO UPGRADE**
 

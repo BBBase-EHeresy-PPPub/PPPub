@@ -6,7 +6,6 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 
 **"Any man who wants to give their last, follow me!"** - Bard the Bowman's Stand Fast! will affect other Lake-town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
-
 ## HEROES OF SURVIVORS OF LAKE-TOWN
 
 <div class="unitCard" markdown>
@@ -49,7 +48,6 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 - **Saviour of Lake-town** `PASSIVE`
 
 Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
-
 
 </div>
 
@@ -103,7 +101,6 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
-
 </div>
 
 ---
@@ -146,7 +143,6 @@ Elven-made dagger, add +1 Strength when making Strikes.
 
 Bilbo ignores Sauron's Will section of the One Ring's rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
 
-
 </div>
 
 ---
@@ -173,7 +169,6 @@ Bilbo ignores Sauron's Will section of the One Ring's rules. If Bilbo is the las
 - **Stand by our Men!** `PASSIVE`
 
 If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town Militia within 3" of her gain +1 To Wound bonus if they charged that turn.
-
 
 </div>
 
@@ -231,7 +226,6 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 
 Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a bow.
 
-
 </div>
 
 ---
@@ -259,7 +253,6 @@ Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, 
 
 Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 
-
 </div>
 
 ---
@@ -283,11 +276,9 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 
 Alfrid may spend any number of Will points at the start of the Priority phase. For each point, choose a friendly Lake-town Hero model within 6" and roll a D6. For each roll of a 2+, that model gains a point of Might. However, on a roll of 1, that model loses a point of Might and Afraid gains a point Might. Might gained in this way can take the chosen model's store of Might beyond its initial level.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF SURVIVORS OF LAKE-TOWN
 
@@ -318,7 +309,6 @@ Alfrid may spend any number of Will points at the start of the Priority phase. F
 
 Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is in combat do not need to take Courage tests for being Broken.
 
-
 </div>
 
 ---
@@ -341,6 +331,5 @@ Bard and Bain gain +1 Fight if they are within 6" of Sigrid or Tilda. If Bard or
 - **Something to Fight for** `PASSIVE`
 
 If Sigrid or Tilda are slain, Bard automatically passes all Courage tests. He must also Charge the model that killed her if possible. If not possible, he must move as close to that model as he can. Once he kills the model, he must always move/Charge towards
-
 
 </div>

@@ -6,7 +6,6 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 
 **"Beasts of Mirkwood"** - So long as your army includes the Spider Queen, warbands composed entirely of Warg models do not need a Hero to lead them if they number six or more models; warbands composed entirely of Spider models do not need a Hero to lead them if they number two or more models; and warbands composed of a mixture of models do not need a Hero to lead them if they number ten or more models. Instead, one Warrior within the warband takes on the role of the warband's captain for the purpose of deployment.
 
-
 ## HEROES OF DARK DENIZENS OF MIRKWOOD
 
 <div class="unitCard" markdown>
@@ -38,7 +37,6 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 
 During any point of her Move phase, the Spider Queen may spend any number of Will points to summon a Broodling. For each Will point spent, place a Broodling anywhere within 3" of her, but not in base contact with any enemy models. Broodlings may Move and Charge on a turn in which they were summoned. Broodlings are not counted when working out if a force is Broken.
 
-
 </div>
 
 ---
@@ -63,7 +61,6 @@ During any point of her Move phase, the Spider Queen may spend any number of Wil
 - **Blinding Swarm** `PASSIVE`
 
 The Fight value of any enemy model engaged in combat with a Bat Swarm is halved (rounding down).
-
 
 </div>
 
@@ -136,11 +133,9 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF DARK DENIZENS OF MIRKWOOD
 
@@ -165,7 +160,6 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 The Fight value of any enemy model engaged in combat with a Bat Swarm is halved (rounding down).
 
-
 </div>
 
 ---
@@ -236,6 +230,5 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
-
 
 </div>

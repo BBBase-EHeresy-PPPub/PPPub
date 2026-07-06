@@ -6,7 +6,6 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous"** - Mirkwood Rangers from this force do not count towards the army's Bow Limit. Additionally, whilst they are within 3" of Thranduil, all Palace Guard Captains, Mirkwood Elf Captains, Palace Guard, Mirkwood Cavalry and Mirkwood Elves will also gain +1 to their To Wound rolls when making Strikes.
 
-
 ## HEROES OF HALLS OF THRANDUIL
 
 <div class="unitCard" markdown>
@@ -57,7 +56,6 @@ Thranduil gets Attack 3, Fight 7, and gains *Bladelord.
 
 If he has Infantry keyword, gain +1 Attack. Receive additional attack for each enemy model engaged with him after the first.
 
-
 </div>
 
 ---
@@ -100,7 +98,6 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
 
-
 </div>
 
 ---
@@ -134,7 +131,6 @@ Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, T
 - **Glaive** `ACTIVE`
 
 A glaive can be used as either a spear or hand-and-a-half sword. Alternatively the bearer of the glaive can use the Shielding rule.
-
 
 </div>
 
@@ -171,7 +167,6 @@ A glaive can be used as either a spear or hand-and-a-half sword. Alternatively t
 
 Mirkwood rangers receive an additional Attack for each enemy model they engaged with after the first (max. of 3 bonus Attacks).
 
-
 </div>
 
 ---
@@ -207,7 +202,6 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 - **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model receives +1 Fight value.
-
 
 </div>
 
@@ -249,11 +243,9 @@ Tauriel gains an additional Attack for each enemy she is engaged with after the 
 
 If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains Strength 5 and is reduced to Defence 4 for the remainder of the game.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF HALLS OF THRANDUIL
 
@@ -286,7 +278,6 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 - **King's Knights** `PASSIVE`
 
 Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are within 6" of Thranduil.
-
 
 </div>
 
@@ -322,7 +313,6 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are
 
 A glaive can be used as either a spear or hand-and-a-half sword. Alternatively the bearer of the glaive can use the Shielding rule.
 
-
 </div>
 
 ---
@@ -354,7 +344,6 @@ A glaive can be used as either a spear or hand-and-a-half sword. Alternatively t
 - **Knife Fighters** `ACTIVE`
 
 Mirkwood rangers receive an additional Attack for each enemy model they engaged with after the first (max. of 3 bonus Attacks).
-
 
 </div>
 
@@ -390,7 +379,6 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 - **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model receives +1 Fight value.
-
 
 </div>
 
@@ -434,6 +422,5 @@ Target enemy model must take a Courage test. If failed, you can move the model i
 - **The Lay of Gondolin (Song)**
 
 Sentinel gains Terror for rest of the turn.
-
 
 </div>

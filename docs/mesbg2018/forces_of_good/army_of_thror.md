@@ -6,7 +6,6 @@ This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebo
 
 **"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a banner if Thror is within 6".
 
-
 ## HEROES OF ARMY OF THROR
 
 <div class="unitCard" markdown>
@@ -40,7 +39,6 @@ Thror passes Fate rolls on a 3+. Also, if the result of a Fate roll is 4+, that 
 - **The Ring of Durin** `PASSIVE`
 
 Once per game, you may re-roll a single Priority roll.
-
 
 </div>
 
@@ -78,7 +76,6 @@ Once per game, you may re-roll a single Priority roll.
 - **Blood Feud** `ACTIVE`
 
 Thrain re-rolls all failed To Wound rolls against Azog, and any model in the same army as Azog.
-
 
 </div>
 
@@ -118,7 +115,6 @@ If Thorin uses Shielding in a Fight and wins, he may make a single Strike at his
 - **To Arms!** `ACTIVE`
 
 Once per game when moving Thorin, this rule may be declared. All friendly Erebor Dwarf models within 3" of Thorin gain +1 Strength in the Fight phase for that turn.
-
 
 </div>
 
@@ -180,7 +176,6 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special Strikes.
 
-
 </div>
 
 ---
@@ -212,7 +207,6 @@ This weapon may use Feint or Bash Special Strikes.
 - **The Young Sage** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority roll.
-
 
 </div>
 
@@ -249,11 +243,9 @@ Dwalin is never considered unarmed, and never suffers the -1 penalty in Duel rol
 
 Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he does so, Dwalin may re-roll all failed To Wounds rolls in the following fight.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF ARMY OF THROR
 
@@ -284,7 +276,6 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 - **Pick-hammer** `ACTIVE`
 
 Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special Strikes.
-
 
 </div>
 

@@ -6,7 +6,6 @@ This army may include: Prince Imrahil; Angbor the Fearless; Duinhir; Forlong the
 
 **"For the White City!"** - Special rules marked with an '*' affect all models from this army list, not just the ones listed.
 
-
 ## HEROES OF THE FIEFDOMS
 
 <div class="unitCard" markdown>
@@ -46,7 +45,6 @@ Imrahil's Stand Fast! Is 12" rather than 6".
 
 Friendly Fiefdom models within 12" of Imrahil count as being in range of a banner.
 
-
 </div>
 
 ---
@@ -80,7 +78,6 @@ Two handed sword, and if they roll a natural 6 in the Duel roll, this model does
 - ***Chief of Lamedon** `PASSIVE`
 
 Clansmen of Lamedon within 6" of Angbor gain the Fearless special rule.
-
 
 </div>
 
@@ -119,7 +116,6 @@ Duinhir can re-roll failed To Wound rolls when shooting. Also, wounds against Mo
 
 Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as long as they didn't move during the Move phase.
 
-
 </div>
 
 ---
@@ -153,7 +149,6 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 - ***The Lord of Lossarnach** `PASSIVE`
 
 Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound during the Fight phase.
-
 
 </div>
 
@@ -190,11 +185,9 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 
 Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE FIEFDOMS
 
@@ -223,7 +216,6 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 - **Axe of Lossarnach** `ACTIVE`
 
 This weapon can be used as either a spear or two-handed axe.
-
 
 </div>
 
@@ -259,7 +251,6 @@ This weapon can be used as either a spear or two-handed axe.
 
 When benefiting from a Heroic Shoot, this model may re-roll failed To Wound rolls when making shooting attacks.
 
-
 </div>
 
 ---
@@ -291,7 +282,6 @@ Two handed sword, and if they roll a natural 6 in the Duel roll, this model does
 - **The Honour of Lamedon** `PASSIVE`
 
 Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of a banner.
-
 
 </div>
 
@@ -326,7 +316,6 @@ Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of 
 
 Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 
-
 </div>
 
 ---
@@ -356,6 +345,5 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 - **Pride of Dol Amroth** `ACTIVE`
 
 Whilst within 3" of Prince Imrahil, add +1 to Fight value.
-
 
 </div>

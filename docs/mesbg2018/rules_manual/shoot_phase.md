@@ -1,30 +1,30 @@
-﻿Many armies will employ the use of archers, crossbows or some other form of ranged weaponry, tasked with raining down death from afar. These weapons vary in all manner of size and ways of use, from the traditional bow and arrow used by the Warriors of Minas Tirith, to the deadly crossbows wielded by the fearsome Uruk-hai and the finely balanced throwing spears the Riders of Rohan plunge into their enemies. Though these weapons are all different, they are all used to fulfill the same task — namely to fell their enemies before they can reach the fight.
+Many armies will employ the use of archers, crossbows or some other form of ranged weaponry, tasked with raining down death from afar. These weapons vary in all manner of size and ways of use, from the traditional bow and arrow used by the Warriors of Minas Tirith, to the deadly crossbows wielded by the fearsome Uruk-hai and the finely balanced throwing spears the Riders of Rohan plunge into their enemies. Though these weapons are all different, they are all used to fulfill the same task - namely to fell their enemies before they can reach the fight.
 
 During the Shoot phase, each player's eligible models can make a shooting attack with their missile weapons. To make a shooting attack, they must first pick a target, roll To Hit and then roll To Wound.
 
 ## PRIORITY
 
-The player with Priority shoots first. They select one of their models and resolve its shooting attack. Once they are finished, they select another of their models and resolve its shooting attack — repeating this process until they have made all of the shooting attacks that they wish to. Once the player with Priority has resolved all of their shooting attacks, the other player may then do likewise.
+The player with Priority shoots first. They select one of their models and resolve its shooting attack. Once they are finished, they select another of their models and resolve its shooting attack - repeating this process until they have made all of the shooting attacks that they wish to. Once the player with Priority has resolved all of their shooting attacks, the other player may then do likewise.
 
 ## HOW TO SHOOT
 
 Shooting is a fairly simple practice, especially after you have done it a few times. Here are the steps you need to take to make a shooting attack:
 
-1. Check Line of Sight to your intended target — Make sure that the model can actually see part of the model that they wish to shoot at.
+1. Check Line of Sight to your intended target - Make sure that the model can actually see part of the model that they wish to shoot at.
 
-2. Work out the number of models or Obstacles that are In The Way — If the Line of Sight to the target is obscured, you will need to know what it is that blocks this Line of Sight as this may affect whether the model may shoot or not.
+2. Work out the number of models or Obstacles that are In The Way - If the Line of Sight to the target is obscured, you will need to know what it is that blocks this Line of Sight as this may affect whether the model may shoot or not.
 
-3. Roll To Hit — Roll a D6 to see if your model has hit its target based on their Shoot value.
+3. Roll To Hit - Roll a D6 to see if your model has hit its target based on their Shoot value.
 
-4. Make any In The Way rolls — If there are models/terrain along the path to the target, you will need to roll to see if the shot hits something along the path, or hits its intended target.
+4. Make any In The Way rolls - If there are models/terrain along the path to the target, you will need to roll to see if the shot hits something along the path, or hits its intended target.
 
-5. Roll To Wound — If the shot hits a model, you'll need to make another roll to see if the hit has caused a serious wound.
+5. Roll To Wound - If the shot hits a model, you'll need to make another roll to see if the hit has caused a serious wound.
 
-6. Remove Casualties — Any model that was slain is removed from the battlefield.
+6. Remove Casualties - Any model that was slain is removed from the battlefield.
 
 **FINDING THE SHOOT VALUE**
 
-All models have a Shoot value listed in their profile — it is the second number beneath the Fight characteristic (and is always followed by a plus sign). Here you can see Legolas has a Shoot value of 3+.
+All models have a Shoot value listed in their profile - it is the second number beneath the Fight characteristic (and is always followed by a plus sign). Here you can see Legolas has a Shoot value of 3+.
 
 ![](../media/rules_manual/legolas.jpg)
 
@@ -36,7 +36,7 @@ There are a variety of factors that determine whether or not a model is eligible
 
 ### MISSILE WEAPONS
 
-In order to shoot, a model must be equipped with a missile weapon (for example, a bow, crossbow, etc), many of which are described on [page 88]. 
+In order to shoot, a model must be equipped with a missile weapon (for example, a bow, crossbow, etc), many of which are described on [page 88].
 
 ### PICKING A TARGET
 
@@ -50,7 +50,7 @@ When you select a model to make a shot, you need to check if they have any enemy
 
 ![](../media/rules_manual/line_of_sight_1.jpg)
 
-*Legolas is readying himself to make a shot and there are four Hunter Orcs (A, B, C, D) before him. Hunter Orc A is in the open, and therefore is an eligible target. Hunter Orc B is partially concealed by the tree trunk, but is still a viable target. Hunter Orc C is almost completely concealed, but Legolas can see some of his face, so he is still a legitimate target. Hunter Orc D, on the other hand, is completely concealed except for his hand and a waving weapon — he cannot be targeted.*
+*Legolas is readying himself to make a shot and there are four Hunter Orcs (A, B, C, D) before him. Hunter Orc A is in the open, and therefore is an eligible target. Hunter Orc B is partially concealed by the tree trunk, but is still a viable target. Hunter Orc C is almost completely concealed, but Legolas can see some of his face, so he is still a legitimate target. Hunter Orc D, on the other hand, is completely concealed except for his hand and a waving weapon - he cannot be targeted.*
 
 ### MEASURE RANGE
 
@@ -77,7 +77,7 @@ halving it again if they wish to shoot).
 
 Once a target has been chosen, you will need to see if they are hit. Not all fighters have an equal skill when shooting. Some, like Legolas Greenleaf, are expert archers with finely wrought bows, whilst others are clumsy or make crude shots with poorly made weapons. However, when shooting at the foe, there is always a chance (however small) that the shot will hit.
 
-We represent this by making a dice roll and comparing it to the firer's Shoot value — this is called a Shoot roll. A model's Shoot value is the score it needs to equal or beat for the shot to hit its target. To see if your shot hits, roll a D6 — if the score is equal to or higher than the target number, you have hit!
+We represent this by making a dice roll and comparing it to the firer's Shoot value - this is called a Shoot roll. A model's Shoot value is the score it needs to equal or beat for the shot to hit its target. To see if your shot hits, roll a D6 - if the score is equal to or higher than the target number, you have hit!
 
 If the score rolled is not high enough, the shot misses its target and causes no harm, probably clattering to rest somewhere nearby or sticking harmlessly into a piece of scenery.
 
@@ -85,7 +85,7 @@ If the score rolled is not high enough, the shot misses its target and causes no
 
 Often, you will find that there are objects (or even other models) obscuring the shots you wish to make. When you are taking a look to see if your model can see its target, keep an eye out for any obstructions such as these. If you pass your Shoot roll, you will need to take an In The Way test for each obstruction.
 
-Taking an In The Way test is simple — roll a D6 and compare the result to the In The Way chart below. If the result equals or beats the number given by the In The Way chart, the shot continues on its way to the target. Should you fail, the shot hits the obstruction instead. If the obstruction in question is another model, the shot may even result in some damage ([see page 40]).
+Taking an In The Way test is simple - roll a D6 and compare the result to the In The Way chart below. If the result equals or beats the number given by the In The Way chart, the shot continues on its way to the target. Should you fail, the shot hits the obstruction instead. If the obstruction in question is another model, the shot may even result in some damage ([see page 40]).
 
 Depending on what is between your model and their target, the roll will be easier or harder. If two or more obstructions stand In The Way of your shot, you will need to take an In The Way test for each of them, starting with the obstruction closest to the shooter.
 
@@ -104,11 +104,11 @@ models still cannot shoot at enemy models that are obscured by friendly models.
 
 ![](../media/rules_manual/terrain_in_the_way_1.jpg)
 
-*Here,* Bard *wants to shoot at the Hunter Orc scout bearing down upon* Bain. *However, Bard cannot see the whole Hunter Orc model. Some of it is being blocked by a house, so the house is In The Way. Bard rolls To Hit, scoring a 5 — a hit! He must then make his In The Way roll for the house, needing a 4+ to succeed. Bard rolls a 2 and his arrow sticks firmly in the wooden house — bad news for* Bain!
+*Here,* Bard *wants to shoot at the Hunter Orc scout bearing down upon* Bain. *However, Bard cannot see the whole Hunter Orc model. Some of it is being blocked by a house, so the house is In The Way. Bard rolls To Hit, scoring a 5 - a hit! He must then make his In The Way roll for the house, needing a 4+ to succeed. Bard rolls a 2 and his arrow sticks firmly in the wooden house - bad news for* Bain!
 
 ### MODELS IN THE WAY
 
-Sometimes, when you are taking shots with your models, you will find that other models partially obscure your original target. This is a slightly more complicated situation than when scenery is In The Way of a shot. 
+Sometimes, when you are taking shots with your models, you will find that other models partially obscure your original target. This is a slightly more complicated situation than when scenery is In The Way of a shot.
 
 Firstly, Good models may not take shots where there is any risk of striking another Good model. Evil models don't care for the lives of their 'friends' and can make shots regardless of what (or who) is In The Way.
 
@@ -118,7 +118,7 @@ The shooter must still be able to see their target; if the intervening model blo
 
 ![](../media/rules_manual/models_in_the_way_1.jpg)
 
-*Adam wants his* Narzug *to shoot at Jay's* Beorn *with his Orc bow. However, there are two Hunter Orcs In The Way of Beorn to the right, and *Radagast *is In The Way of Beorn to the left. Adam and Jay have differing ideas as to which is the correct path for the shots to take, so to speed things up Adam (as Narzug's controlling player) rolls a D6 — and rolls a 2 meaning that the shot will pass through the two Hunter Orcs. Adam now has to decide whether he wants to risk hitting his own warriors or whether to look for another target.*
+*Adam wants his* Narzug *to shoot at Jay's* Beorn *with his Orc bow. However, there are two Hunter Orcs In The Way of Beorn to the right, and *Radagast *is In The Way of Beorn to the left. Adam and Jay have differing ideas as to which is the correct path for the shots to take, so to speed things up Adam (as Narzug's controlling player) rolls a D6 - and rolls a 2 meaning that the shot will pass through the two Hunter Orcs. Adam now has to decide whether he wants to risk hitting his own warriors or whether to look for another target.*
 
 ***MODELS IN THE WAY 2***
 
@@ -196,7 +196,7 @@ First, compare the Strength of the weapon to the Defence of your target on the T
 
 When a model suffers a Wound, check against its profile to see how many Wounds it has. A model that has a Wound characteristic of 1 is slain as soon as it suffers its first Wound. A model that has two Wounds must be wounded twice before it is killed, and so on. For models with multiple Wounds, it helps to place a counter beside the model (or make a note on a piece of paper) to remind you how many Wounds the model has remaining.
 
-When a model loses its last Wound, simply remove it from the game as a casualty — pick it up and place it carefully to one side.
+When a model loses its last Wound, simply remove it from the game as a casualty - pick it up and place it carefully to one side.
 
 ## TAKING SHOTS TOGETHER
 
@@ -212,4 +212,4 @@ If you have multiple models shooting at multiple targets, it is best to break th
 
 ![](../media/rules_manual/taking_shots_together.jpg)
 
-Bilbo Baggins *is in trouble — five Hunter Orcs are lining up to take shots at him. Two of the Hunter Orcs will need to take an In The Way test for a low wall, however (indicated by the red lines). To keep track of these and to make rolling all of the dice quicker, the dice can be rolled in two batches: the three shots that are unobstructed, and the two shots that will require In The Way rolls. Once it is clear which shots have hit, all of the To Wound rolls can be made at once.*
+Bilbo Baggins *is in trouble - five Hunter Orcs are lining up to take shots at him. Two of the Hunter Orcs will need to take an In The Way test for a low wall, however (indicated by the red lines). To keep track of these and to make rolling all of the dice quicker, the dice can be rolled in two batches: the three shots that are unobstructed, and the two shots that will require In The Way rolls. Once it is clear which shots have hit, all of the To Wound rolls can be made at once.*

@@ -18,9 +18,9 @@
 
 **CAPTAIN OF DALE [50 points]**
 
-• Esgaroth Bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Esgaroth Bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **DORI THE DWARF, CHAMPION OF EREBOR [75 points]**
 
@@ -28,36 +28,36 @@
 
 **IRON HILLS CAPTAIN [80 points]**
 
-• War Goat: 10 points  
-• Swap Weapon: 5 points  
-• Swap War Spear and Shield for Mattock: 0 points  
+• War Goat: 10 points
+• Swap Weapon: 5 points
+• Swap War Spear and Shield for Mattock: 0 points
 
 **NORI THE DWARF, CHAMPION OF EREBOR [80 points]**
 
 **IRON HILLS DWARF [11 points]**
 
-• Banner: 25 points  
-• Spear: 1 point  
-• Swap Shield for Crossbow: 1 point  
-• Swap Weapon: 1 point  
-• Swap Shield for Mattock: 0 points  
+• Banner: 25 points
+• Spear: 1 point
+• Swap Shield for Crossbow: 1 point
+• Swap Weapon: 1 point
+• Swap Shield for Mattock: 0 points
 
 **IRON HILLS GOAT RIDER [20 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **KNIGHT OF DALE [11 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **WARRIOR OF DALE [7 points]**
 
-• War Horn: 30 points  
-• Banner: 25 points  
-• Esgaroth Bow: 2 points  
-• Shield: 1 point  
-• Spear: 1 point  
-• Swap Weapon: 1 point  
+• War Horn: 30 points
+• Banner: 25 points
+• Esgaroth Bow: 2 points
+• Shield: 1 point
+• Spear: 1 point
+• Swap Weapon: 1 point
 
 </div>
 

@@ -10,7 +10,6 @@ Any model in this list which has the Erebor or Khazad-Dum keyword will instead b
 
 **"The Wealth of Moria lay not in Gold or Jewels, but in Mithril"** - Friendly Dwarf models with either the Khazad-Dum or Moria keyword may re-roll To Wound rolls of a 1 when fighting in close combat.
 
-
 ## HEROES OF THE KINGDOM OF MORIA
 
 <div class="unitCard" markdown>
@@ -43,7 +42,6 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 - **Durin's axe** `ACTIVE`
 
 Master-forged two-handed axe, re-roll a single dice in duel rolls.
-
 
 </div>
 
@@ -113,7 +111,6 @@ At the beginning of a fight, you can choose his two-handed axe, or an axe in eac
 
 If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
-
 </div>
 
 ---
@@ -171,7 +168,6 @@ At the start of his move, he can spend a point of Will to cancel an enemy Active
 
 Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enemy Hero or Monster model.
 
-
 </div>
 
 ---
@@ -204,7 +200,6 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 - **The Herald's Duty** `ACTIVE`
 
 When two Heralds, or a Herald and the King's Champion are in base contact, both receive +1 to their Defence. If both Heralds and the Kings Champion are in all in base contact, they receive +2 instead.
-
 
 </div>
 
@@ -241,7 +236,6 @@ Instead of moving in the Move phase, Oin may attempt to heal a friendly model he
 
 Once per Fight phase, Oin can use a Will point to enable a friendly model within 3" to re-roll one dice in their Duel roll.
 
-
 </div>
 
 ---
@@ -271,7 +265,6 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 - **Chronicler** `ACTIVE`
 
 If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori, that member may regain a lost point of either Might, Will or Fate.
-
 
 </div>
 
@@ -307,11 +300,9 @@ At the start of the game, nominate a single Dwarf Hero model with the highest He
 
 Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE KINGDOM OF MORIA
 
@@ -434,7 +425,6 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 ---
 
-
 ## SIEGE ENGINES OF THE KINGDOM OF MORIA
 
 <div class="unitCard" markdown>
@@ -464,6 +454,5 @@ A Dwarf Ballista will only scatter 3" rather than 6"
 - **Piercing Shot**
 
 If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Ballista. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
-
 
 </div>

@@ -6,7 +6,6 @@ This army may include: Bard the Bowman; Master of Lake-town; Alfrid the Councill
 
 **"The Master's Purse-strings"** - The Master of Lake-town's Moneybags special rule has a range of 12" rather than 6".
 
-
 ## HEROES OF ARMY OF LAKE-TOWN
 
 <div class="unitCard" markdown>
@@ -50,7 +49,6 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
 
-
 </div>
 
 ---
@@ -86,7 +84,6 @@ At the start of the game, your opponent may choose one of their Hero models to h
 
 If your army contains the Master of Lake-town, then he must be your leader, regardless of other models in your army. Additionally if you are including an Army of Lake-town allied contingent as part of a Convenient Alliance or Impossible Alliance, then the Master counts as a Hero of Fortitude.
 
-
 </div>
 
 ---
@@ -109,7 +106,6 @@ If your army contains the Master of Lake-town, then he must be your leader, rega
 - **Dubious Counsel** `ACTIVE`
 
 Alfrid may spend any number of Will points at the start of the Priority phase. For each point, choose a friendly Lake-town Hero model within 6" and roll a D6. For each roll of a 2+, that model gains a point of Might. However, on a roll of 1, that model loses a point of Might and Afraid gains a point Might. Might gained in this way can take the chosen model's store of Might beyond its initial level.
-
 
 </div>
 
@@ -143,7 +139,6 @@ As long as the Master has Will points remaining, if Braga declares a Heroic Acti
 - **Air of Self-importance** `PASSIVE`
 
 Braga, any Lake-town Guard Captains or Lake-town Guards within 3" of him may not take part in Heroic Actions called by Bard, Bain, Sigrid or Tilda.
-
 
 </div>
 
@@ -198,11 +193,9 @@ Braga, any Lake-town Guard Captains or Lake-town Guards within 3" of him may not
 
 Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF ARMY OF LAKE-TOWN
 
@@ -248,6 +241,5 @@ Bard and Bain gain +1 Fight if they are within 6" of Sigrid or Tilda. If Bard or
 - **Something to Fight for** `PASSIVE`
 
 If Sigrid or Tilda are slain, Bard automatically passes all Courage tests. He must also Charge the model that killed her if possible. If not possible, he must move as close to that model as he can. Once he kills the model, he must always move/Charge towards
-
 
 </div>

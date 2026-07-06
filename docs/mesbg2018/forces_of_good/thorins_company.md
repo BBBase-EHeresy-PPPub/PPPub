@@ -10,7 +10,6 @@ A Thorin's Company warband is always a single warband made up entirely of Heroes
 
 **"I would take each and every one of these Dwarves over an army from the Iron Hills, for when I called upon them, they answered"** - Models from this army list may re-roll To Wound rolls of a 1 whilst within 3" of Thorin Oakenshield.
 
-
 ## HEROES OF THORIN'S COMPANY
 
 <div class="unitCard" markdown>
@@ -61,7 +60,6 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
-
 </div>
 
 ---
@@ -101,7 +99,6 @@ Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, T
 
 If Thorin uses Shielding in a Fight and wins, he may make a single Strike at his Strength (but no bonuses from any weapons).
 
-
 </div>
 
 ---
@@ -138,7 +135,6 @@ This weapon may use the Feint or Bash Special Strikes.
 - **Longbeard** `ACTIVE`
 
 In the Priority phase, Balin may spend a Will point to enable his side to re-roll their D6 in the Priority Roll.
-
 
 </div>
 
@@ -178,7 +174,6 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Duel rolls for fighting with a two-handed weapon.
 
-
 </div>
 
 ---
@@ -217,7 +212,6 @@ This weapon can be used as either a spear or two-handed weapon.
 - **Embedded Axe-blade** `ACTIVE`
 
 If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
-
 
 </div>
 
@@ -261,7 +255,6 @@ Elven-made dagger, gain +1 Strength when making strikes.
 
 Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
 
-
 </div>
 
 ---
@@ -297,7 +290,6 @@ Two-handed weapon, which can use either Bash or Piercing Strike Special Strikes.
 - **Steadfast** `PASSIVE`
 
 When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, its effects are ignored. Can be modified with Might. Bofur may only try to Resist a Magical Power before making his Steadfast roll.
-
 
 </div>
 
@@ -338,7 +330,6 @@ When making Jump or Climb tests, Bombur must re-roll results of 6. Additionally,
 
 Once each turn in his Move phase, choose a friendly model in base contact and roll a D6. On a 4+, they regain a lost Will point.
 
-
 </div>
 
 ---
@@ -371,7 +362,6 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 - **A Good Sort Really** `PASSIVE`
 
 If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points as if they were his own.
-
 
 </div>
 
@@ -407,7 +397,6 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 If in base contact, Kili and Fili may swap places at the start of any phase, and does not count as moving.
 
-
 </div>
 
 ---
@@ -441,7 +430,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 - **A Warrior Born** `ACTIVE`
 
 Gloin must re-roll scores of 1 To Wound in combat.
-
 
 </div>
 
@@ -477,7 +465,6 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 If in base contact, Kili and Fili may swap places at the start of any phase, and does not count as moving.
 
-
 </div>
 
 ---
@@ -510,7 +497,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 - **Weapon Master** `ACTIVE`
 
 Nori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
-
 
 </div>
 
@@ -547,7 +533,6 @@ Instead of moving in the Move phase, Oin may attempt to heal a friendly model he
 
 Once per Fight phase, Oin can use a Will point to enable a friendly model within 3" to re-roll one dice in their Duel roll.
 
-
 </div>
 
 ---
@@ -583,6 +568,5 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 - **Deadeye** `ACTIVE`
 
 If Ori scores a 6 when rolling To Hit, the target immediately suffers a single Wound and ignore any In The Way tests.
-
 
 </div>

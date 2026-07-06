@@ -1,4 +1,4 @@
-﻿## THE FOUNDING OF DOL GULDUR
+## THE FOUNDING OF DOL GULDUR
 
 **LAYOUT**
 
@@ -232,7 +232,7 @@ Good models may re-roll failed To Hit rolls when making shooting attacks if they
 
 **LAYOUT**
 
-The board represents an area of Mirkwood where there is a large Spider Nest. In the center of the board, there should be the Spider Nest — which has a diameter of 3". The rest of the board should be densely packed with trees, bushes, and other undergrowth.
+The board represents an area of Mirkwood where there is a large Spider Nest. In the center of the board, there should be the Spider Nest - which has a diameter of 3". The rest of the board should be densely packed with trees, bushes, and other undergrowth.
 
 **STARTING POSITIONS**
 
@@ -322,7 +322,7 @@ The game continues until one player has completed their objective. The Good play
 
 * **Investigating Statues**
 
-If Radagast ends his movement in base contact with a statue, he may investigate it. Roll a D6 — on a 1-5, it is just a statue and nothing happens. On a 6, Radagast locates the evidence he needs — this is a Light Object. Each statue can only be investigated once.
+If Radagast ends his movement in base contact with a statue, he may investigate it. Roll a D6 - on a 1-5, it is just a statue and nothing happens. On a 6, Radagast locates the evidence he needs - this is a Light Object. Each statue can only be investigated once.
 
 * **The Witch-king**
 
@@ -443,7 +443,7 @@ If your roll on the chart exceeds the number of models remaining to enter the bo
 
 * **Bring the Bridge Crashing Down**
 
-During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 — on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a Jump test.
+During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 - on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a Jump test.
 
 **PARTICIPANTS**
 
@@ -451,7 +451,7 @@ During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. 
 
 **Evil:** The Necromancer of Dol Guldur; Azog; 6 Hunter Orcs on Fell Wargs; 12 Hunter Orcs.
 
-**Designer's Notes:** *Winning this Scenario is very hard for the Good side — but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
+**Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
 ![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg)
 

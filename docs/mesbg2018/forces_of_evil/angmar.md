@@ -6,7 +6,6 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 
 **"If that fell Kingdom should rise again, Rivendell, Lorien, The Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the Terror special rule.
 
-
 ## HEROES OF ANGMAR
 
 <div class="unitCard" markdown>
@@ -69,7 +68,6 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 
 Attack value increased to 3. You can re-roll one dice when rolling for Casting or Resist tests.
 
-
 </div>
 
 ---
@@ -106,7 +104,6 @@ Friendly Carn Dum models within 6" re-roll failed Courage tests.
 
 If Aldrac slays an enemy model in combat, then he may declare a free Heroic Combat in the following turn.
 
-
 </div>
 
 ---
@@ -138,7 +135,6 @@ If Aldrac slays an enemy model in combat, then he may declare a free Heroic Comb
 - **Lead by Example** `ACTIVE`
 
 In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a banner.
-
 
 </div>
 
@@ -177,7 +173,6 @@ Regains a single Wound for each model slain. Rend is the only Brutal Power Attac
 - ***Strength of Body, Strength of Will** `PASSIVE`
 
 Attack and Courage value are equal to remaining wounds.
-
 
 </div>
 
@@ -228,7 +223,6 @@ Attack and Courage value are equal to remaining wounds.
 - **Sap Fortitude** `PASSIVE`
 
 Spend a point of Will each time an enemy Hero within 6" spends a point of Might, Will or Fate. Roll a D6, and on a 4+, the enemy Hero must spend an extra point for that action or it will be cancelled.
-
 
 </div>
 
@@ -283,7 +277,6 @@ At the start of the Move phase, spend 1 point of Will to negate the effects of S
 - **Seeping Decay** `PASSIVE`
 
 Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enemies in base contact. On a 6, they suffer a wound.
-
 
 </div>
 
@@ -380,7 +373,6 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 If this model is in combat with an enemy hero model (but not if they are supporting) then this model gets +1 To Wound when making strikes against that enemy hero.
 
-
 </div>
 
 ---
@@ -437,7 +429,6 @@ If this model is in combat with an enemy hero model (but not if they are support
 
 When Golfimbul suffers a wound, roll a D6. On a 5+, the Wound is ignored. This cannot be used for Wounds caused by Magical Powers.
 
-
 </div>
 
 ---
@@ -465,7 +456,6 @@ When Golfimbul suffers a wound, roll a D6. On a 5+, the Wound is ignored. This c
 - **Scavenge** `ACTIVE`
 
 Whenever Nazthak kills an enemy model in combat (except for Monsters), he may scavenge a single piece of wargear carried by that model, except for a mount, the One Ring, or integral items to the model (such as claws and teeth). This happens before any effects that allow the enemy model to pass on that wargear. That item becomes part of Nazthak's wargear, with any of it's benefits. He may choose to discard any scavenged wargear at any time, but it cannot be reclaimed once done so.
-
 
 </div>
 
@@ -504,7 +494,6 @@ At the start of a Shoot phase before Heroics are declared, a Shade may spend a p
 - **Ghostly Resolve** `PASSIVE`
 
 Friendly Angmar Orc models within 12" of one or more friendly Shades add +1 to their Courage value.
-
 
 </div>
 
@@ -550,7 +539,6 @@ At the start of the game, select one enemy hero model. While The Shadow of Rhuda
 
 If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled version of that magical power will be used if it is not resisted.
 
-
 </div>
 
 ---
@@ -580,7 +568,6 @@ If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled ver
 - **Packlord** `ACTIVE`
 
 Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And Heroic Actions.
-
 
 </div>
 
@@ -620,7 +607,6 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 </div>
 
 ---
-
 
 ## WARRIORS OF ANGMAR
 
@@ -707,7 +693,6 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 
 A throwing weapon with range 3" and Strength 5.
 
-
 </div>
 
 ---
@@ -738,7 +723,6 @@ A throwing weapon with range 3" and Strength 5.
 - **A Fell Light is in Them** `ACTIVE`
 
 During its move, a spectre can choose an enemy model within 12" and in Line of Sight. The model must pass a courage test or make a full move under the spectre's control, even if it has already moved, and then it cannot move any further that turn.
-
 
 </div>
 
@@ -774,7 +758,6 @@ At the start of a game, if you have any Hill Trolls in your force, you may selec
 
 May re-roll a single D6 in the Duel roll when fighting solely against infantry models (but not Monsters). Burdhur also gains this rule for the rest of the game if he is in your force.
 
-
 </div>
 
 ---
@@ -806,7 +789,6 @@ May re-roll a single D6 in the Duel roll when fighting solely against infantry m
 
 If this model is in combat with an enemy hero model (but not if they are supporting) then this model gets +1 To Wound when making strikes against that enemy hero.
 
-
 </div>
 
 ---
@@ -832,7 +814,6 @@ If this model is in combat with an enemy hero model (but not if they are support
 - **Feral Charge** `ACTIVE`
 
 When a werewolf charges an enemy Infantry model, they gain the Knock to Ground special rule, as if they were a cavalry model. This bonus is lost if they are subsequently charged by an enemy Cavalry model.
-
 
 </div>
 

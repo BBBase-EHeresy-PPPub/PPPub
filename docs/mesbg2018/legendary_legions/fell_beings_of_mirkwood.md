@@ -8,23 +8,23 @@
 
 **ORC CAPTAIN [40 points]**
 
-• Warg: 10 points  
-• Orc Bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Orc Bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **ORC TASKMASTER [50 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **ORC SHAMAN [50 points]**
 
-• Warg: 10 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Swap Weapon: 5 points
 
 **ORC DRUMMER [30 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **BAT SWARM [35 points]**
 
@@ -36,25 +36,25 @@
 
 **ORC TRACKER [5 points]**
 
-• Warg: 7 points  
-• Swap Weapon: 1 point  
+• Warg: 7 points
+• Swap Weapon: 1 point
 
 **ORC WARRIOR [5 points]**
 
-• Banner: 25 points  
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Two-Handed Weapon: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc Bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Two-Handed Weapon: 1 point
+• Swap Weapon: 1 point
 
 **WARG RIDER [11 points]**
 
-• Banner: 25 points  
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Throwing Spears: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc Bow: 1 point
+• Shield: 1 point
+• Throwing Spears: 1 point
+• Swap Weapon: 1 point
 
 </div>
 

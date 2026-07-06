@@ -1,4 +1,4 @@
-﻿## DEFENCE OF THE NORTH CAMPAIGN
+## DEFENCE OF THE NORTH CAMPAIGN
 
 *Here we present you with the Defence of the North campaign, a system for linking your games together in such a way that the results of one game can impact your next game or even one much later on! This will join together the already dynamic Narrative Play Scenarios in such a way that it will feel as if you are playing through the scenes directly from the books and the movies.*
 

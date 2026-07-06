@@ -6,7 +6,6 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 
 **"Fear! Fire! Foes!"** - Hobbit models from this army list gain the Woodland Creature Special Rule.
 
-
 ## HEROES OF THE SHIRE
 
 <div class="unitCard" markdown>
@@ -86,7 +85,6 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
-
 </div>
 
 ---
@@ -127,7 +125,6 @@ Gandalf may re-roll his dice when making fate rolls.
 
 Whilst carrying the horn, all Hobbit models gain +1 Courage. If Merry is slain, the horn is lost.
 
-
 </div>
 
 ---
@@ -167,7 +164,6 @@ Whilst carrying the horn, all Hobbit models gain +1 Courage. If Merry is slain, 
 
 Pippin may re-roll any failed To Wound rolls when striking against Monster or Hero models.
 
-
 </div>
 
 ---
@@ -201,7 +197,6 @@ Baldo may re-roll failed To Hit rolls on stone throws. If Baldo rolls a 6 on his
 - **Master of Traps** `PASSIVE`
 
 At the start of the game, Baldo may place eight 25mm Trap markers on the board. These traps are described on page 64 of the Scouring of the Shire supplement book.
-
 
 </div>
 
@@ -262,7 +257,6 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf are automatically the first three members of Farmer Maggot's warband. They will always use his Courage value while he is alive.
 
-
 </div>
 
 ---
@@ -297,7 +291,6 @@ Hand-and-a-half weapon that may use the Stab Special Strike, and may support as 
 - **"This is our Country"** `PASSIVE`
 
 Farmer Cotton and Hobbit models within 3" may re-roll 1s when rolling to win a Duel roll.
-
 
 </div>
 
@@ -343,7 +336,6 @@ Frodo never charge enemies, and makes no strikes in a Fight.
 
 All Hobbit models within 6" count as being in range of a banner
 
-
 </div>
 
 ---
@@ -369,7 +361,6 @@ All Hobbit models within 6" count as being in range of a banner
 - **Leave my Flowers Alone!** `PASSIVE`
 
 At the start of the game after deployments, Hamfast may place three 25mm Flower markers anywhere on the board. Any Hobbit model within 3" of Hamfast may re-roll stone throws or Strikes against enemies within 4" of a Flower. Enemy models may remove a Flower in the End phase if in base contact with it and did not Fight that turn. If they do so, Hamfast re-rolls failed To Wound rolls against that model for rest of the game.
-
 
 </div>
 
@@ -400,7 +391,6 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 - **Head Shirriff** `PASSIVE`
 
 Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as two-handed weapons.
-
 
 </div>
 
@@ -442,7 +432,6 @@ Lotho may spend his Will points to pay off models around him, in the following t
 
 Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
-
 </div>
 
 ---
@@ -473,7 +462,6 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 Paladin's Stand Fast! Only affects Hobbit models and has a range of 12".
 
-
 </div>
 
 ---
@@ -503,7 +491,6 @@ Paladin's Stand Fast! Only affects Hobbit models and has a range of 12".
 - **A Nose for Shortcuts** `PASSIVE`
 
 When rolling for Reinforcements, you may modify the roll for Robin's warband by +1 or -1. When rolling for where Robin's warband deploys on the board, you may modify the dice roll by +1 or -1.
-
 
 </div>
 
@@ -541,7 +528,6 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 Elven-made dagger, adds +1 to Strength when making Strikes with Sting.
 
-
 </div>
 
 ---
@@ -571,7 +557,6 @@ Elven-made dagger, adds +1 to Strength when making Strikes with Sting.
 - **Mayor of Hobbiton** `ACTIVE`
 
 At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a banner.
-
 
 </div>
 
@@ -626,7 +611,6 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 
 If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Folco's Will points to declare a Heroic Move, instead of using his own Might points.
 
-
 </div>
 
 ---
@@ -679,7 +663,6 @@ No Warrior models from either player's army may benefit from a Hero model's Stan
 
 Lobelia will never make Strikes if she wins a Fight.
 
-
 </div>
 
 ---
@@ -706,11 +689,9 @@ Lobelia will never make Strikes if she wins a Fight.
 
 Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 4" of Sam, he may declare free Heroic Combats. If Rosie is engaged in a Fight, Sam must use this Heroic Combat to join her fight afterwards if possible, or move closer to her.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE SHIRE
 

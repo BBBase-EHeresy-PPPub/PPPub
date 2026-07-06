@@ -1,4 +1,4 @@
-﻿### MINAS TIRITH
+### MINAS TIRITH
 
 **STARTING BATTLECOMPANY**
 
@@ -99,7 +99,7 @@ Osgiliath Veterans in this Battle Company treat the company's leader in the same
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'For the White City!'** - With a rousing cry, the hero plunges into the fray in defense of Minas Tirith. 
+**'For the White City!'** - With a rousing cry, the hero plunges into the fray in defense of Minas Tirith.
 
 This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
@@ -208,7 +208,7 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Touch of the Dead"** - Such is the fear that these spectral beings instill into their foes, that an encounter with one can leave an enemy almost paralysed in terror. 
+**"Touch of the Dead"** - Such is the fear that these spectral beings instill into their foes, that an encounter with one can leave an enemy almost paralysed in terror.
 
 If the Hero makes one or more Strikes against an enemy model, and that model is not slain, the model must take a Courage test. If the test is failed, then in the following turn the model is treated as being under the effects of the Transfix Magical Power.
 
@@ -233,12 +233,12 @@ Spectral Steed (5/10) - 3 Influence Points
 
 **STARTING BATTLE COMPANY**
 
-- 5x Warriors of Arnor  
-- 2x Rangers of Arnor  
+- 5x Warriors of Arnor
+- 2x Rangers of Arnor
 
 **ADVANCEMENTS**
 
-- Warrior of Arnor - Knight of Arnor  
+- Warrior of Arnor - Knight of Arnor
 
 **ARMY SPECIFIC HERO UPGRADE**
 
@@ -274,7 +274,7 @@ A Rangers of the North Battle Company may have 100% of its models armed with a b
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Dangerous Folk** - The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills. 
+**Dangerous Folk** - The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills.
 
 This model gains the Woodland Creature special rule. Additionally, whilst on foot, this model adds 1 to their Attacks characteristic.
 
@@ -358,20 +358,20 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **STARTING BATTLE COMPANY**
 
-- 2x Warriors of Erebor with shield  
-- 1x Warrior of Erebor with spear  
-- 1x Warrior of Dale with shield  
-- 1x Warrior of Dale with shield and spear  
-- 1x Warrior of Dale with Esgaroth bow  
+- 2x Warriors of Erebor with shield
+- 1x Warrior of Erebor with spear
+- 1x Warrior of Dale with shield
+- 1x Warrior of Dale with shield and spear
+- 1x Warrior of Dale with Esgaroth bow
 
 **ADVANCEMENTS**
 
-- Warrior of Erebor - Grim Hammer  
-- Warrior of Dale with spear and shield - Knight of Dale  
+- Warrior of Erebor - Grim Hammer
+- Warrior of Dale with spear and shield - Knight of Dale
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Skilled Training'** - The Hero may re-roll results of a 1 when making a Duel roll.  
+**'Skilled Training'** - The Hero may re-roll results of a 1 when making a Duel roll.
 
 **REINFORCEMENTS**
 
@@ -446,7 +446,7 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Noldorin Fighting Style"** - A warrior skilled from many wars across the ages can wield their blade with incredible dexterity. 
+**"Noldorin Fighting Style"** - A warrior skilled from many wars across the ages can wield their blade with incredible dexterity.
 
 This hero does not suffer the -1 penalty to their Duel rolls for using their Elven-made hand-and-a-half weapon as a two-handed weapon.
 
@@ -480,7 +480,7 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**"Protect Our Borders"** - This hero has spent many years traversing the thick woodland terrain of Mirkwood, learning how to climb its boughs and move through seemingly impossible undergrowth with ease. 
+**"Protect Our Borders"** - This hero has spent many years traversing the thick woodland terrain of Mirkwood, learning how to climb its boughs and move through seemingly impossible undergrowth with ease.
 
 This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 

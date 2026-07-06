@@ -6,7 +6,6 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 
 **"Our Enemy is Ready, His full Strength gathered"** - Whilst you have more models on the board than your opponent, friendly Mordor Warrior models gain + 1 Courage and may re-roll 1s To Wound when making Strikes.
 
-
 ## HEROES OF MORDOR
 
 <div class="unitCard" markdown>
@@ -69,7 +68,6 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 
 Attack value increased to 3. You can re-roll one dice when rolling for Casting or Resist tests.
 
-
 </div>
 
 ---
@@ -110,7 +108,6 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 - **The Age of Men is Over** `PASSIVE`
 
 Gothmog and all friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
-
 
 </div>
 
@@ -163,7 +160,6 @@ Gothmog and all friendly Mordor Orc models within 3" gain the Hatred (Man) speci
 - **Essence Leech** `ACTIVE`
 
 Khamul regains one point of Will for each wound he causes with his strikes. He cannot exceed the 12 points of Will he starts with. At the start of a fight phase, he may choose to spend one point of Will to increase either his Fight, Strength or Attack by 1, for the remainder of that fight.
-
 
 </div>
 
@@ -245,7 +241,6 @@ Orc Captains in the same army may lead Bat Swarms, Mirkwood Spiders, Giant Spide
 
 Razgush's warband may only include Orc Warriors, Warg Riders, Bat Swarms, Mirkwood Spiders, Giant Spiders and Fell Wargs. Orc Captains, Orc Warriors and Warg Riders also gain Hatred (Elf).
 
-
 </div>
 
 ---
@@ -295,7 +290,6 @@ Razgush's warband may only include Orc Warriors, Warg Riders, Bat Swarms, Mirkwo
 - **Master of Poisons** `PASSIVE`
 
 At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with Poisoned Weapons rule may re-roll failed To Wound rolls made with those weapons.
-
 
 </div>
 
@@ -347,7 +341,6 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 At the start of a fight phase, he may choose to spend one point of Will to turn himself into a banner for all friendly Warrior models within 6", for the rest of that turn.
 
-
 </div>
 
 ---
@@ -397,7 +390,6 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 - **Sap Fortitude** `PASSIVE`
 
 Spend a point of Will each time an enemy Hero within 6" spends a point of Might, Will or Fate. Roll a D6, and on a 4+, the enemy Hero must spend an extra point for that action or it will be cancelled.
-
 
 </div>
 
@@ -452,7 +444,6 @@ Only loses a point of Will if he loses the Duel roll in a Fight.
 
 At the start of a fight phase, he may choose to spend one point of Will to use the Fight, Strength and/or Attack of his opponent. He does not need to adopt all three characteristics.
 
-
 </div>
 
 ---
@@ -501,7 +492,6 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 - **Pall of Darkness** `PASSIVE`
 
 At the start of the Move phase, he may choose to spend one point of Will to activate this ability. For the rest of this turn, all shots against himself or any friendly models within 6" will only hit on a 6.
-
 
 </div>
 
@@ -557,7 +547,6 @@ At the start of the Move phase, spend 1 point of Will to negate the effects of S
 
 Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enemies in base contact. On a 6, they suffer a wound.
 
-
 </div>
 
 ---
@@ -610,7 +599,6 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 - **Eternal Willpower** `PASSIVE`
 
 The Undying may spend Will points for Fate rolls.
-
 
 </div>
 
@@ -679,7 +667,6 @@ The Undying may spend Will points for Fate rolls.
 
 While at least one friendly Ringwraith model is on the battlefield, the Black Guard's Courage value is 6.
 
-
 </div>
 
 ---
@@ -713,7 +700,6 @@ While at least one friendly Ringwraith model is on the battlefield, the Black Gu
 
 If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. Supporting models do not count towards being outnumbered.
 
-
 </div>
 
 ---
@@ -744,7 +730,6 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 
 If Goroth suffers a Wound that would slay him (after all Fate points are spent), he may roll a D6. On a 2+, he may select a friendly Mordor Orc model within 1" to take the Wound instead.
 
-
 </div>
 
 ---
@@ -773,7 +758,6 @@ If Goroth suffers a Wound that would slay him (after all Fate points are spent),
 
 If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move, instead of spending his own Might points.
 
-
 </div>
 
 ---
@@ -798,7 +782,6 @@ When the Great Beast Tramples, it will inflict two S6 hits.
 - **Battle Platform** `PASSIVE`
 
 Models within the Howdah do not count towards your Bow Limit.
-
 
 </div>
 
@@ -859,7 +842,6 @@ Models within the Howdah do not count towards your Bow Limit.
 
 When rolling for Reinforcements, you may modify the roll for Guritz' warband by +1 or -1. If he is already on the board, you may modify any warband's Reinforcement roll in the same army. When rolling for where warbands deploy on the board, you may modify the dice roll by +1 or -1.
 
-
 </div>
 
 ---
@@ -898,7 +880,6 @@ At the start of the priority phase, before any dice are rolled, Kardush can kill
 - **Shadow Pawn** `PASSIVE`
 
 At the start of the priority phase, before any dice are rolled, Kardush can be sacrificed and allow a single friendly Ringwraith within 6" to regain D6 Will points. Cannot take their Will points above their starting level.
-
 
 </div>
 
@@ -1027,7 +1008,6 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 Muzgur regains one Will Point each time he slays an enemy model in combat.
 
-
 </div>
 
 ---
@@ -1090,7 +1070,6 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 
 Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, that action is free.
 
-
 </div>
 
 ---
@@ -1145,7 +1124,6 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 
 There can only be a maximum of nine Ringwraith models in your force (including any named Ringwraiths).
 
-
 </div>
 
 ---
@@ -1183,7 +1161,6 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary model.
 
-
 </div>
 
 ---
@@ -1212,7 +1189,6 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 - **Reckless Fighter** `ACTIVE`
 
 At the start of his Fight before any dice are rolled, Zagdush may choose to increase his Strength by 1 but decrease his Defence by 1, until the end of the Fight.
-
 
 </div>
 
@@ -1328,11 +1304,9 @@ Shelob may never be taken as part of another model's warband.
 
 Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the Paralyse magical power.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF MORDOR
 
@@ -1356,7 +1330,6 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - **Blinding Swarm** `PASSIVE`
 
 The Fight value of any enemy model engaged in combat with a Bat Swarm is halved (rounding down).
-
 
 </div>
 
@@ -1481,7 +1454,6 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
-
 
 </div>
 
@@ -1700,7 +1672,6 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 ---
 
-
 ## SIEGE ENGINES OF MORDOR
 
 <div class="unitCard" markdown>
@@ -1729,7 +1700,6 @@ A Mordor Siege Bow will only scatter 3" rather than 6".
 - **Piercing Shot**
 
 If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege Bow. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
-
 
 </div>
 
@@ -1768,6 +1738,5 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 - **Wall-breaker**
 
 When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
-
 
 </div>

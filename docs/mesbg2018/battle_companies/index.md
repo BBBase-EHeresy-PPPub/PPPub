@@ -1,4 +1,4 @@
-﻿![](../media/battle_companies/cover.jpg)
+![](../media/battle_companies/cover.jpg)
 
 The stories of *The Lord of the Rings* and *The Hobbit* are ones of heroic deeds, boundless courage and daring adventure that have captured the hearts and minds of millions of people worldwide. These stories are often focused around a small group of unlikely heroes embarking on seemingly impossible quests and adventures as they strive to overcome the evil that stands in front of them. Thorin's Company numbered just 15 when they set out from Bag End to try to reclaim their homeland of Erebor from the clutches of Smaug; and the Fellowship of the Ring consisted of only nine heroes from across the races of the Free Peoples of Middle-earth, yet were able to endure great hardship and overthrow the Dark Lord Sauron.
 

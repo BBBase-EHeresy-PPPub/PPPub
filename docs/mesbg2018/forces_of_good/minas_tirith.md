@@ -6,7 +6,6 @@ This army may include: Aragorn, King Elessar; Boromir; Denethor; Earnur; Faramir
 
 **"You are Men of Gondor. Whatever comes throught that Gate, you will stand your Ground!"** - Friendly Gondor models from this army list increase their Courage value by 1.
 
-
 ## HEROES OF MINAS TIRITH
 
 <div class="unitCard" markdown>
@@ -48,7 +47,6 @@ Never requires more than a 4 for To Wound rolls.
 - **Stand Men of the West!** `PASSIVE`
 
 Friendly models within 6" count as being in range of a banner.
-
 
 </div>
 
@@ -92,7 +90,6 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 
 This is a banner with a range of 6". Boromir and all Gondor Warriors within 6" gain +1 Fight value. Boromir does not suffer the -1 penalty for using a banner in the Duel Roll. Additionally, he may not carry this banner if he is also carrying a lance.
 
-
 </div>
 
 ---
@@ -120,7 +117,6 @@ Denethor must be your leader, unless your army contains Aragorn, King Elessar.
 - **Broken Mind** `PASSIVE`
 
 At the start of every turn, take a courage test. If failed, Denethor is controlled by the opposing player for that turn. Friendly models cannot target him with shooting or magic, and cannot make strikes if they win a duel against him. Denethor will automatically pass this test if Boromir is in your army and alive. If Boromir is slain, Denethor will automatically fail the next test he must take for this rule.
-
 
 </div>
 
@@ -161,7 +157,6 @@ Earnur must always charge an enemy hero if he able to do so. Additionally, he ma
 - **Master Duelist** `ACTIVE`
 
 At the start of a fight involving Earnur, after resolving any special rules that affect an enemy model's Fight value, but before Heroic Strikes are resolved, Earnur may increase his Fight value to match that of a single non-monster enemy he is engaged with.
-
 
 </div>
 
@@ -204,7 +199,6 @@ At the start of a fight involving Earnur, after resolving any special rules that
 - **Is there a Captain here who still has the courage to do his Lord's will?** `PASSIVE`
 
 If Denethor is alive and in the same army, Faramir passes all courage tests and must always charge an enemy if he is able to do so.
-
 
 </div>
 
@@ -259,7 +253,6 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
-
 </div>
 
 ---
@@ -301,7 +294,6 @@ Whilst within 3" of Denethor or Aragorn, King Elessar, Hurin gains Fearless and 
 - **Lines of Command** `PASSIVE`
 
 Your opponent cannot score Victory Points for slaying the enemy leader if Hurin is alive and your leader is a Gondor Hero.
-
 
 </div>
 
@@ -399,7 +391,6 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 
 Receives a +2 bonus to his Courage when charging a model with the Terror special rule. Also receives this bonus when a model with the Blades of the Dead special rule makes strikes against him.
 
-
 </div>
 
 ---
@@ -432,7 +423,6 @@ Receives a +2 bonus to his Courage when charging a model with the Terror special
 
 Ingold and friendly Gondor Warrior models within 3" do not Back Away if they lose a fight - your opponent must back away instead.
 
-
 </div>
 
 ---
@@ -463,7 +453,6 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 - **Defend the White City** `ACTIVE`
 
 Irolas may use the Shielding special rule, even without a shield. If he wins a Duel whilst Shielding, he may make a single Strength 4 Strike against one enemy model from the same fight.
-
 
 </div>
 
@@ -502,7 +491,6 @@ This is a two handed sword, and strikes made with this sword also have the Might
 
 If a natural 6 is rolled in a duel, do not apply the penalty for using a two-handed weapon.
 
-
 </div>
 
 ---
@@ -535,7 +523,6 @@ If a natural 6 is rolled in a duel, do not apply the penalty for using a two-han
 
 When rolling for Reinforcements, you may modify the roll for Madril's warband by +1 or -1. If he is already on the board, you may modify any warband's Reinforcement roll in the same army. When rolling for where warbands deploy on the board, you may modify the dice roll by +1 or -1.
 
-
 </div>
 
 ---
@@ -566,7 +553,6 @@ When rolling for Reinforcements, you may modify the roll for Madril's warband by
 - **Lethal Aim** `ACTIVE`
 
 Each turn, Anborn may spend a point of Might without reducing his store (even with no Might remaining) to modify either a To Hit, In the Way or To Wound roll.
-
 
 </div>
 
@@ -657,7 +643,6 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 
 Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6" gain Stalk Unseen. Additionally, enemy models targeted with a shooting attack by Mablung or any Rangers do not benefit from Stalk Unseen, if they have it.
 
-
 </div>
 
 ---
@@ -692,7 +677,6 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 </div>
 
 ---
-
 
 ## WARRIORS OF MINAS TIRITH
 
@@ -811,7 +795,6 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
-
 </div>
 
 ---
@@ -871,7 +854,6 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
 ---
 
-
 ## SIEGE ENGINES OF MINAS TIRITH
 
 <div class="unitCard" markdown>
@@ -900,7 +882,6 @@ The Avenger Bolt Thrower has a range of 24".
 - **Rapid Fire**
 
 Can perform D6 shooting attacks each turn.
-
 
 </div>
 
@@ -936,6 +917,5 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 - **Wall-breaker**
 
 When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
-
 
 </div>

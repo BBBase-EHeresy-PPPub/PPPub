@@ -1,4 +1,4 @@
-﻿## SKIRMISH IN BREE
+## SKIRMISH IN BREE
 
 **LAYOUT**
 
@@ -154,7 +154,7 @@ The board represents the pathway leading towards Bag End. Across the center of t
 
 **STARTING POSITIONS**
 
-The Good player deploys Will Whitfoot in the center of the board, then the rest of their force within 3" of Will. The Evil player deploys Sid Briarthorn in the center of the southern board edge. They then split the rest of their force into three equal parts and deploy each part anywhere within 3" of the center of a different board edge — either southern, eastern, or western.
+The Good player deploys Will Whitfoot in the center of the board, then the rest of their force within 3" of Will. The Evil player deploys Sid Briarthorn in the center of the southern board edge. They then split the rest of their force into three equal parts and deploy each part anywhere within 3" of the center of a different board edge - either southern, eastern, or western.
 
 **OBJECTIVES**
 
@@ -204,11 +204,11 @@ Any other result is a draw.
 
 * **Worm**
 
-Worm doesn't deploy as normal in this Scenario. Instead, the Evil player deploys four 25mm markers on the board at the start of the game, one in the center of each board edge. These markers cannot be Charged, targeted by shooting, and do not block movement or Line of Sight. They move 6", do not have a Control Zone, and can move through other models and their Control Zones, and other models may move through them. These markers may only Charge Lotho Sackville-Baggins, and when a marker Charges Lotho, roll a D6. On a 1-4, it was not Worm — remove the marker from play. On a 5+, it is Worm — replace the marker with Worm and remove the others from play. If the first three markers turn out not to be Worm, replace the final marker with Worm — Lotho has spotted him! Lotho may not use his Considerable Wealth special rule to prevent Worm or a marker from Charging him.
+Worm doesn't deploy as normal in this Scenario. Instead, the Evil player deploys four 25mm markers on the board at the start of the game, one in the center of each board edge. These markers cannot be Charged, targeted by shooting, and do not block movement or Line of Sight. They move 6", do not have a Control Zone, and can move through other models and their Control Zones, and other models may move through them. These markers may only Charge Lotho Sackville-Baggins, and when a marker Charges Lotho, roll a D6. On a 1-4, it was not Worm - remove the marker from play. On a 5+, it is Worm - replace the marker with Worm and remove the others from play. If the first three markers turn out not to be Worm, replace the final marker with Worm - Lotho has spotted him! Lotho may not use his Considerable Wealth special rule to prevent Worm or a marker from Charging him.
 
 * **Shadowed Figure**
 
-Worm gains the Stalk Unseen special rule and always counts as being concealed by a piece of terrain — even when he is in open ground.
+Worm gains the Stalk Unseen special rule and always counts as being concealed by a piece of terrain - even when he is in open ground.
 
 * **Protect the Boss!**
 
@@ -318,7 +318,7 @@ The game lasts until Folco Boffin leaves the board. The Good side wins if Folco 
 
 * **The Shirriffs**
 
-Whenever an 'Evil' model wins a Fight against a Good model, they will not make Strikes against them. Instead, when an 'Evil' model wins a fight, they will roll a single D6. On a 4+, they arrest the model they fought. Arrested models count as being affected by the Paralyse Magical Power and count as Heavy Objects if carried. If Folco is arrested, he may spend his Fate point to attempt to resist the effects of being Paralysed. Roll a D6. On a 4+, Folco is not arrested — this time...
+Whenever an 'Evil' model wins a Fight against a Good model, they will not make Strikes against them. Instead, when an 'Evil' model wins a fight, they will roll a single D6. On a 4+, they arrest the model they fought. Arrested models count as being affected by the Paralyse Magical Power and count as Heavy Objects if carried. If Folco is arrested, he may spend his Fate point to attempt to resist the effects of being Paralysed. Roll a D6. On a 4+, Folco is not arrested - this time...
 
 * **Friends at Heart**
 
@@ -362,7 +362,7 @@ When setting up Baldo Tulpenny's Traps, no Trap marker may be placed within 6" o
 
 * **Thieves in the Night**
 
-Any Hobbit that is in base contact with the storehouse during the End phase of any turn automatically gains a Supply counter — this is a Light Object. Additionally, any Ruffian model that suffers its final Wound in combat with a Hobbit will not be slain but is instead knocked unconscious; they count as being under the effect of the Paralyse Magical Power.
+Any Hobbit that is in base contact with the storehouse during the End phase of any turn automatically gains a Supply counter - this is a Light Object. Additionally, any Ruffian model that suffers its final Wound in combat with a Hobbit will not be slain but is instead knocked unconscious; they count as being under the effect of the Paralyse Magical Power.
 
 * **Ill Met by Moonlight**
 
@@ -618,7 +618,7 @@ The Rangers may not willingly move beyond the tree-line. Should they find themse
 
 **PARTICIPANTS**
 
-**Good:** Bandobras Took; 3 Rangers of the North; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs.  
+**Good:** Bandobras Took; 3 Rangers of the North; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs.
 
 **Evil:** Golfimbul, Orc Chieftain, on Warg; 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow.
 
@@ -656,7 +656,7 @@ The Evil player has Priority in the first turn.
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs. Note that Gandalf does not have Glamdring in this Scenario, instead he has a normal hand-and-a-half sword.  
+**Good:** Gandalf the Grey; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs. Note that Gandalf does not have Glamdring in this Scenario, instead he has a normal hand-and-a-half sword.
 
 **Evil:** Wild Warg Chieftain; 8 Wild Wargs.
 
@@ -682,7 +682,7 @@ Bilbo must reach the safety of Rivendell before the Orcs can catch up with him. 
 
 * **Wanderers in the Wild**
 
-From the second turn onwards, at the end of each Good Move phase, the Good player rolls a D6. On a 2+, one of the Rangers of the North may enter the board. Once all of the Rangers have entered play, the next model to arrive is Aragorn. To determine where the model enters play, roll a further D6. On a 1-2, the model enters play from any point on the northern board edge. On a 3-4, the model enters play from the southern board edge. On a 5, the model enters play from the eastern board edge. On a 6, the model enters play from the western board edge.  
+From the second turn onwards, at the end of each Good Move phase, the Good player rolls a D6. On a 2+, one of the Rangers of the North may enter the board. Once all of the Rangers have entered play, the next model to arrive is Aragorn. To determine where the model enters play, roll a further D6. On a 1-2, the model enters play from any point on the northern board edge. On a 3-4, the model enters play from the southern board edge. On a 5, the model enters play from the eastern board edge. On a 6, the model enters play from the western board edge.
 
 Models enter the board via the rules for Reinforcements.
 

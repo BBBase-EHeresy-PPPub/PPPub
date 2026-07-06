@@ -4,38 +4,38 @@
 
 **ARAGORN, STRIDER [160 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 **BOROMIR OF GONDOR [95 points]**
 
-• Shield: 5 points  
-• Elven Cloak - FREE: 0 points  
+• Shield: 5 points
+• Elven Cloak - FREE: 0 points
 
 **GIMLI [100 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 **LEGOLAS [100 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 **FRODO BAGGINS [80 points]**
 
-• Mithril Coat: 15 points  
-• Sting: 5 points  
-• Elven Cloak - FREE: 0 points  
+• Mithril Coat: 15 points
+• Sting: 5 points
+• Elven Cloak - FREE: 0 points
 
 **SAMWISE GAMGEE [40 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 **MERIADOC BRANDYBUCK [10 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 **PEREGRIN TOOK [10 points]**
 
-• Elven Cloak - FREE: 0 points  
+• Elven Cloak - FREE: 0 points
 
 </div>
 
@@ -48,8 +48,6 @@
 **"Blessing of Galadriel"** - Friendly models always count as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if their Will points have been reduced to 0.
 
 **"Gifts of Galadriel"** - Each member of the Fellowship will gain the item listed below:
-
-
 
 Frodo - Light of Erendil: Each turn Frodo may use a single "Free" Will point to attempt to cast the Blinding Light Magical Power. This is cast on a 3+ and cannot be Channelled. Frodo cannot use this if he is wearing the Ring.
 

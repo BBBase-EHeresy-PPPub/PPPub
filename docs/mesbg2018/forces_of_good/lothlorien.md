@@ -6,7 +6,6 @@ This army may include: Galadriel; Celeborn; Haldir; Galadhrim Captain; Orophin; 
 
 **"They say a great Sorceress lives in these woods..."** - Friendly Lorien models gain the Resistant to Magic special rule.
 
-
 ## HEROES OF LOTHLORIEN
 
 <div class="unitCard" markdown>
@@ -58,7 +57,6 @@ She may spend a free point of Will each turn.
 
 Heavy object with Defence 8 and 3 Wounds. At the end of each phase, one hero model within 6" may restore all their Fate points.
 
-
 </div>
 
 ---
@@ -105,7 +103,6 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 Celeborn's Stand Fast! Is 12" rather than 6".
 
-
 </div>
 
 ---
@@ -147,7 +144,6 @@ When within 12" of either Aragorn or Theoden, Haldir counts as being in range of
 - **One Final Blow** `ACTIVE`
 
 When slain in close combat, Haldir can make a Strength 4 strike against all enemy models engaged with him.
-
 
 </div>
 
@@ -214,7 +210,6 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 If Orophin rolls one or more natural 6s in the Duel roll, then any dice that roll a natural 6 will make double the number of strikes when rolling To Wound. Note that any strikes doubled in this way will not double again if the model Orophin is fighting is Trapped.
 
-
 </div>
 
 ---
@@ -249,7 +244,6 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 - **Swift Parry** `ACTIVE`
 
 May force opponent to re-roll one dice in their duel roll. Must be done before any might points are used.
-
 
 </div>
 
@@ -287,7 +281,6 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 - **Wood Elf spear** `ACTIVE`
 
 This spear may also parry, which uses the rules for Shielding.
-
 
 </div>
 
@@ -327,11 +320,9 @@ This spear may also parry, which uses the rules for Shielding.
 
 If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points spent in that roll.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF LOTHLORIEN
 
@@ -426,7 +417,6 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 In addition to the normal rules for pikes, they may also use the rules for shielding. The usual restrictions for shielding still apply, chiefly that a Guard of the Galadhrim Court that is shielding cannot be supported by another model, not even by another Guard of the Galadhrim Court.
 
-
 </div>
 
 ---
@@ -470,7 +460,6 @@ Target enemy model must take a Courage test. If failed, you can move the model i
 
 Sentinel gains Terror for rest of the turn.
 
-
 </div>
 
 ---
@@ -504,6 +493,5 @@ Sentinel gains Terror for rest of the turn.
 - **Wood Elf spear** `ACTIVE`
 
 This spear may also parry, which uses the rules for Shielding.
-
 
 </div>

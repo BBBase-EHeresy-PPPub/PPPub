@@ -66,5 +66,4 @@ If a model rolls a natural 6 on a To Hit roll against Smaug, and the subsequent 
 
 If he Charges and wins the Fight, all opponents are Knocked to Ground (except War Mumaks of Harad, Iron Hills Chariot, or any model that cannot be knocked Prone). If Smaug uses the Barge Brutal Power Attack, all models that Back Away suffer a Strength 9 hit.
 
-
 </div>

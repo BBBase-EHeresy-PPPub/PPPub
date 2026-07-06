@@ -6,7 +6,6 @@ This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of 
 
 **"Girion, lord of the city, rallied his bowmen to fire upon the beast"** - Captains of Dale and Warriors of Dale have their Shoot value improved to 3+.
 
-
 ## HEROES OF GARRISON OF DALE (BRAND)
 
 <div class="unitCard" markdown>
@@ -40,7 +39,6 @@ Brand's Stand Fast! Is 12" rather than 6".
 
 At the start of a Fight involving Brand, if he would be Trapped by losing the Duel roll, he may re-roll a single D6 in the Duel roll, and a single D6 when rolling To Wound.
 
-
 </div>
 
 ---
@@ -72,7 +70,6 @@ At the start of a Fight involving Brand, if he would be Trapped by losing the Du
 - **Wall of Blades** `ACTIVE`
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
-
 
 </div>
 
@@ -106,7 +103,6 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 ---
 
-
 ## WARRIORS OF GARRISON OF DALE (BRAND)
 
 <div class="unitCard" markdown>
@@ -134,7 +130,6 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 - **Wall of Blades** `ACTIVE`
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
-
 
 </div>
 
@@ -169,11 +164,9 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
 
-
 </div>
 
 ---
-
 
 ## SIEGE ENGINES OF GARRISON OF DALE (BRAND)
 
@@ -202,6 +195,5 @@ A Windlance will only scatter 3" rather than 6".
 - **Superior Construction**
 
 Maximum range increased by 12".
-
 
 </div>

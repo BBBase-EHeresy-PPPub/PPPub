@@ -1,8 +1,8 @@
-﻿## DESTRUCTION OF DALE
+## DESTRUCTION OF DALE
 
 **LAYOUT**
 
-This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this — Dale's only hope at stopping the dreaded Smaug!
+This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this - Dale's only hope at stopping the dreaded Smaug!
 
 **STARTING POSITIONS**
 
@@ -48,7 +48,7 @@ The Good player deploys their army anywhere within 12" of the eastern board edge
 
 **OBJECTIVES**
 
-The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler — to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
+The Dwarves are fighting to reclaim Moria and rid the lands of the Orc's leader, Azog. However, Azog's mission is far simpler - to end the line of Durin. The Good player wins if, at the end of any turn, Azog has been slain and there are at least twelve Good models within 6" of the Dimrill Gate. The Evil player wins immediately if all of the Good Heroes have been slain.
 
 **SPECIAL RULES**
 
@@ -148,7 +148,7 @@ The Good player has Priority in the first two turns of this Scenario.
 
 **LAYOUT**
 
-This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start — the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
+This Scenario takes place upon the rickety walkways that make up the vile dwelling of Goblin-town, deep within The Misty Mountains. The board should be covered with various walkways of all different shapes and sizes. There should be a large platform near the centre of the board where the Goblin King's throne sits and the Dwarves will start - the weapons pile will be located next to the Goblin King's throne. It is important to have multiple walkways on each board edge that leave the board in all directions to give Thorin's Company a selection of ways to escape Goblin-town.
 
 **STARTING POSITIONS**
 
@@ -164,7 +164,7 @@ At the start of the game, the Evil player nominates any board edge; this is the 
 
 * **Take up arms**
 
-The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons — at which point they are no longer considered to be unarmed.
+The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons - at which point they are no longer considered to be unarmed.
 
 * **A Wizard is never late**
 
@@ -306,7 +306,7 @@ Any model that has been Set Ablaze that moves into the waters of the Long Lake w
 
 * **The Defence of Lake-town**
 
-Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit — this is cumulative with other such penalties, such as moving and shooting.
+Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit - this is cumulative with other such penalties, such as moving and shooting.
 
 **PARTICIPANTS**
 
@@ -372,7 +372,7 @@ At the end of the ninth game turn, the Evil player places the Necromancer touchi
 
 **LAYOUT**
 
-The board represents the plains before Erebor — there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
+The board represents the plains before Erebor - there should be a few scattered rocks and scrubland dotted around (not too much as there are a lot of models in this Scenario!). The eastern board edge represents the walls of Erebor, the centre of which marks the gates of Erebor.
 
 **STARTING POSITIONS**
 

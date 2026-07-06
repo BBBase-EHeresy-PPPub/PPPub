@@ -1,4 +1,4 @@
-﻿Weapons in Middle-earth come in a wide variety of shapes and sizes; from the beautifully elegant blades crafted with the skill of the Elves, to the hardened axes wrought from iron and steel by the expert smiths of the Dwarf holds, or the crude and wicked weapons wielded by the Orcs of Sauron's armies. There are even some weapons that have, through the valourous deeds their wielder's performed in battle, carved themselves into legend.
+Weapons in Middle-earth come in a wide variety of shapes and sizes; from the beautifully elegant blades crafted with the skill of the Elves, to the hardened axes wrought from iron and steel by the expert smiths of the Dwarf holds, or the crude and wicked weapons wielded by the Orcs of Sauron's armies. There are even some weapons that have, through the valourous deeds their wielder's performed in battle, carved themselves into legend.
 
 Up until now we have made no distinction in how a model is armed or what kind of armour it may have, nor have we discussed any specific kinds of wargear, such as banners or war horns. There is a huge variety of different weapons, armour and equipment that are available to your models, many of which can have a massive impact on their effectiveness, from how deadly they are in combat, to how well protected they will be.
 
@@ -38,7 +38,7 @@ Many different types of single-handed weapons, hand-and-a-half weapons and two-h
 
 ### UNARMED MODELS
 
-*Most fighters are armed with some form of weapon, and even those who cannot carry swords or shields are often equipped with natural 'weaponry' such as fangs or claws. There are some, however, who carry no weapons at all — usually peaceable types who would rather not raise their hands in violence.*
+*Most fighters are armed with some form of weapon, and even those who cannot carry swords or shields are often equipped with natural 'weaponry' such as fangs or claws. There are some, however, who carry no weapons at all - usually peaceable types who would rather not raise their hands in violence.*
 
 A model is only Unarmed if they are clearly labelled as such in the Wargear section of their profile. An Unarmed model suffers -1 to their Duel rolls and -1 to their To Wound rolls.
 
@@ -102,7 +102,7 @@ Models using a Master-forged weapon do not suffer the -1 penalty to the Duel rol
 
 *Lances are used by charging cavalrymen. In the hands of a skilled rider they can deliver a powerful blow, made all the more deadly by the mount's momentum.*
 
-A **Cavalry** model using a lance receives a bonus when making Strikes in a turn that they have Charged; add 1 to their roll To Wound — thus, a score of 2 becomes 3, 4 becomes 5 and so on. Note, in cases where two rolls are required (e.g., 6/4+), this will affect both rolls. A **Cavalry** model using a lance even gets this bonus against other **Cavalry** models, as long as it has Charged, although not if it is within difficult terrain.
+A **Cavalry** model using a lance receives a bonus when making Strikes in a turn that they have Charged; add 1 to their roll To Wound - thus, a score of 2 becomes 3, 4 becomes 5 and so on. Note, in cases where two rolls are required (e.g., 6/4+), this will affect both rolls. A **Cavalry** model using a lance even gets this bonus against other **Cavalry** models, as long as it has Charged, although not if it is within difficult terrain.
 
 If a **Cavalry** model with a lance dismounts, or their steed is slain, they will ordinarily abandon their lance, resorting to using another hand weapon.
 
@@ -128,9 +128,9 @@ Axe, club, dagger, flail, hammer, mace, maul, pick, staff or sword.
 
 Note: You may only swap a weapon for one of the same class, ie, a single- handed sword for a single-handed mace, and not a hand-and-a-half or a two-handed weapon.
 
-*For example, a Warrior of Minas Tirith is listed as being armed with a sword and costs 7 points — a Warrior of Minas Tirith that has been modelled with a flail will instead cost 8 points.*
+*For example, a Warrior of Minas Tirith is listed as being armed with a sword and costs 7 points - a Warrior of Minas Tirith that has been modelled with a flail will instead cost 8 points.*
 
-*A High Elf Warrior is listed as being armed with an Elven-made hand-and-a-half sword and costs 9 points — a High Elf Warrior that has been modelled with an axe will instead cost 10 points.*
+*A High Elf Warrior is listed as being armed with an Elven-made hand-and-a-half sword and costs 9 points - a High Elf Warrior that has been modelled with an axe will instead cost 10 points.*
 
 Models that have been converted to wield more than one different type of weapon must decide which type they will be using before the game starts.
 
@@ -156,7 +156,7 @@ A model armed with a dagger or sword, who has a lower Fight value at the start o
 
 ![](../media/rules_manual/feint_or_stab_1.jpg)
 
-*Aragorn is fighting against* Lurtz *upon Amon Hen, and they both decide that they wish to use a Special Strike with their sword. As Aragorn has the higher Fight value of 6 he elects to Feint, reducing his Fight value by D3. Rolling a 3, Aragorn reduces his Fight value by 2 and is now Fight 4. As Lurtz started the Fight with the lower Fight value (Fight 5), he may only elect to Stab — even though Aragorn has Feinted and is now Fight 4.*
+*Aragorn is fighting against* Lurtz *upon Amon Hen, and they both decide that they wish to use a Special Strike with their sword. As Aragorn has the higher Fight value of 6 he elects to Feint, reducing his Fight value by D3. Rolling a 3, Aragorn reduces his Fight value by 2 and is now Fight 4. As Lurtz started the Fight with the lower Fight value (Fight 5), he may only elect to Stab - even though Aragorn has Feinted and is now Fight 4.*
 
 ![](../media/rules_manual/feint_or_stab_2.jpg)
 
@@ -196,7 +196,7 @@ The term bow covers a wide range of weapons including bows, Elf bows, Dwarf bows
 
 A model with a crossbow may not fire it in the same turn that it has moved.
 
-### MISSILE WEAPON CHART 
+### MISSILE WEAPON CHART
 
 | Name  | Range | Strength |
 |-----------------|-------|----------|
@@ -224,7 +224,7 @@ A model with a crossbow may not fire it in the same turn that it has moved.
 
 A throwing weapon can be used as its bearer Charges into combat. The player moves the model as if it were going to Charge the enemy, but instead of moving into base contact with their foe, they stop 1" away. They then throw the weapon at the enemy they are about to Charge. This shot is resolved using the rules for shooting, even though it takes place in the Move phase. Throwing weapons thrown as a model Charges into combat do not suffer the -1 penalty for moving and shooting.
 
-If the target is not slain, the charger then moves into base contact with the same enemy model. If the original target is slain, the charger may complete their move in any way the controlling player wishes — stopping straight away, charging another target or anything in between.
+If the target is not slain, the charger then moves into base contact with the same enemy model. If the original target is slain, the charger may complete their move in any way the controlling player wishes - stopping straight away, charging another target or anything in between.
 
 Throwing Weapons do not count towards an army's bow limit.
 
@@ -254,7 +254,7 @@ A banner provides a single re-roll to friendly models who are involved in a Figh
 
 It makes perfect sense that a banner must be flying in order for its bearer's allies to gain the benefits of it being near, and as such a banner bearer must be standing for the effects of a banner to count. Models cannot benefit from the effects of a banner if the bearer is Prone.
 
-It is possible that one player may re-roll a dice and find themselves winning the Fight — in which case their opponent may wish to use a banner of their own. Remember, a banner only provides one re-roll to each Duel roll.
+It is possible that one player may re-roll a dice and find themselves winning the Fight - in which case their opponent may wish to use a banner of their own. Remember, a banner only provides one re-roll to each Duel roll.
 
 Any model carrying a banner is encumbered by its weight, and suffers a -1 penalty to their Duel rolls.
 
@@ -288,7 +288,7 @@ The model with the *Ring* (the *Ringbearer*) can put it on at any time during th
 
 ### INVISIBLE
 
-Whilst they wear the Ring, the Ringbearer cannot be directly targeted by Magical Powers or shooting attacks (and does not count as In The Way). The Ringbearer has no Control Zone while invisible and enemy models may even move 'through' the Ringbearer. If an enemy model wishes to end its movement on the space the Ringbearer is taking up, move the Ringbearer the minimum distance to place them out of the way — this could involve hopping low walls, moving through foes or being shoved off a cliff!
+Whilst they wear the Ring, the Ringbearer cannot be directly targeted by Magical Powers or shooting attacks (and does not count as In The Way). The Ringbearer has no Control Zone while invisible and enemy models may even move 'through' the Ringbearer. If an enemy model wishes to end its movement on the space the Ringbearer is taking up, move the Ringbearer the minimum distance to place them out of the way - this could involve hopping low walls, moving through foes or being shoved off a cliff!
 
 If an enemy wishes to Charge the Ringbearer while they wear the Ring, it must pass a Courage test, applying a penalty of -1 to the roll for every 1" the Ringbearer is away from the foe. Models that automatically pass Courage tests still need to make this test, as it represents them being able to see the Ringbearer, not how terrifying the Ringbearer is. During the Fight phase, any enemy model Engaged in combat with an invisible Ringbearer halves its Fight value for the duration of the duel.
 
@@ -300,11 +300,11 @@ If the controlling player wishes the Ringbearer to take off the Ring, they need 
 
 ### SAURON'S WILL
 
-If the Ring is already being worn, then the controlling player must test to see if the Ringbearer can overcome Sauron's will. To do so, they must roll a dice immediately before they move the Ringbearer in the Move phase. If the player does not wish to move the Ringbearer, they must still roll a dice — but can do so at any time during their Move phase. The roll is made on behalf of the Ringbearer themself, so we allow the controlling player to use the Ringbearer's Might points to modify this dice roll if they wish to do so. On a 3+, the controlling player moves the Ringbearer as usual. On a 1 or 2, the opposing player moves the Ringbearer instead of the controlling player. Regardless of which side moves the Ringbearer, they are still part of the controlling player's side and all other actions, such as shooting and fighting, remain under the control of the controlling player. This means that when the opposing player moves the Ringbearer, all they can do is move the model, including Charging (in this case, the Ringbearer does not need to take Courage tests to Charge terrifying foes). They cannot perform Heroic Actions and cannot pick up or put down other items. They cannot be forced to perform actions that would cause direct harm to the model (such as jumping down a cliff...) or be moved off the table (if the Scenario allows). This represents the struggle between the Ringbearer and the will of Sauron.
+If the Ring is already being worn, then the controlling player must test to see if the Ringbearer can overcome Sauron's will. To do so, they must roll a dice immediately before they move the Ringbearer in the Move phase. If the player does not wish to move the Ringbearer, they must still roll a dice - but can do so at any time during their Move phase. The roll is made on behalf of the Ringbearer themself, so we allow the controlling player to use the Ringbearer's Might points to modify this dice roll if they wish to do so. On a 3+, the controlling player moves the Ringbearer as usual. On a 1 or 2, the opposing player moves the Ringbearer instead of the controlling player. Regardless of which side moves the Ringbearer, they are still part of the controlling player's side and all other actions, such as shooting and fighting, remain under the control of the controlling player. This means that when the opposing player moves the Ringbearer, all they can do is move the model, including Charging (in this case, the Ringbearer does not need to take Courage tests to Charge terrifying foes). They cannot perform Heroic Actions and cannot pick up or put down other items. They cannot be forced to perform actions that would cause direct harm to the model (such as jumping down a cliff...) or be moved off the table (if the Scenario allows). This represents the struggle between the Ringbearer and the will of Sauron.
 
 ### MY PRECIOUS!
 
-During Matched Play and Open Play games, if the Ringbearer is the only model left on the controlling player's side and is wearing the Ring, they count as a casualty — their mind has been taken over by its power. As Scenarios may depend on them surviving, this is very important! If the opposing side's objective is to kill the Ringbearer, this is achieved if they are the only model remaining on the table from the controlling player's side and they are wearing the Ring.
+During Matched Play and Open Play games, if the Ringbearer is the only model left on the controlling player's side and is wearing the Ring, they count as a casualty - their mind has been taken over by its power. As Scenarios may depend on them surviving, this is very important! If the opposing side's objective is to kill the Ringbearer, this is achieved if they are the only model remaining on the table from the controlling player's side and they are wearing the Ring.
 
 There may be the odd occasions in Matched Play and Open Play games where there is more than one model on the board with The One Ring. As The One Ring is the only one of its kind (the clue is in the name), we have created a hierarchy of who carries the Ring when this occurs. The model closest to the top of the hierarchy table will get the Ring.
 
@@ -320,7 +320,7 @@ There may be the odd occasions in Matched Play and Open Play games where there i
 
 6. *Gollum*
 
-In the rare situation where both players control models that have the Ring, and both models are the same on the hierarchy table, both players may use the Ring — although one is clearly a fake and only the winner of the battle can claim that theirs was the real one.
+In the rare situation where both players control models that have the Ring, and both models are the same on the hierarchy table, both players may use the Ring - although one is clearly a fake and only the winner of the battle can claim that theirs was the real one.
 
 ## ARMOUR
 

@@ -1,16 +1,16 @@
-﻿Battles are won and lost in the maelstrom of close combat,where warriors fight face-to-face with the enemy in a clash of steel and battle of wits. Skill with a blade, a stout heart and no small amount of luck are required to achieve victory when the fighting gets up close and personal. Victory will go to the general who can best control the forces they command, not always to the one who has the most warriors.
+Battles are won and lost in the maelstrom of close combat,where warriors fight face-to-face with the enemy in a clash of steel and battle of wits. Skill with a blade, a stout heart and no small amount of luck are required to achieve victory when the fighting gets up close and personal. Victory will go to the general who can best control the forces they command, not always to the one who has the most warriors.
 
-In the Fight phase, both Good and Evil combatants battle for their lives in a series of Fights — a Fight is the Duel between two or more enemy models that are Engaged in combat.
+In the Fight phase, both Good and Evil combatants battle for their lives in a series of Fights - a Fight is the Duel between two or more enemy models that are Engaged in combat.
 
 Remember, enemy models are only able to be placed in base contact with
-one another if one of the models has charged, and all enemy models in base contact (and thus Engaged in combat) must fight — there
-is no standing idly by. You must resolve every fight — you cannot choose not to resolve some of them!
+one another if one of the models has charged, and all enemy models in base contact (and thus Engaged in combat) must fight - there
+is no standing idly by. You must resolve every fight - you cannot choose not to resolve some of them!
 
 ## WHEN TO FIGHT
 
 Fights are resolved one at a time. The player with Priority picks a Fight that is yet to be resolved, and players use dice to determine who wins and whether any casualties are caused. Once the Fight is completely resolved, the player with Priority chooses another to resolve, repeating the process and continuing until all the Fights have been dealt with.
 
-Note that the order that Fights are resolved in is often of little consequence, so it is usually best to work out the Fights in an arbitrary manner (left to right, or by saving whichever looks the most exciting until last, etc.). Sometimes, however, the order in which you conduct the Fights will make a big difference to the outcome of the battle — models might be trapped, banners might be in jeopardy, and so on. Because of situations such as these, it is well worth the player with Priority taking a look at how they can best play the Fights out in their favour!
+Note that the order that Fights are resolved in is often of little consequence, so it is usually best to work out the Fights in an arbitrary manner (left to right, or by saving whichever looks the most exciting until last, etc.). Sometimes, however, the order in which you conduct the Fights will make a big difference to the outcome of the battle - models might be trapped, banners might be in jeopardy, and so on. Because of situations such as these, it is well worth the player with Priority taking a look at how they can best play the Fights out in their favour!
 
 ## RESOLVING A FIGHT
 
@@ -25,11 +25,11 @@ Players roll a number of dice equal to the number of their Attacks to see who wi
 The losing model (or models) must Back Away 1".
 
 **3. WINNER MAKES STRIKES**
- 
+
 The winner (or winners) of the Duel roll now roll to see whether their Attacks cause any Wounds.
 
 **4. REMOVE CASUALTIES**
- 
+
 Any models slain by the winners' Attacks are removed from play as casualties.
 
 ### DUEL ROLL
@@ -62,7 +62,7 @@ To see who wins a Fight, you must make a Duel roll. To make a Duel roll, each pl
 
 ### DRAWN COMBATS
 
-Quite often, the highest score that both players get in the Duel roll will be tied. When this is the case, compare the Fight value of the models — the model with the highest Fight value wins.
+Quite often, the highest score that both players get in the Duel roll will be tied. When this is the case, compare the Fight value of the models - the model with the highest Fight value wins.
 
 If the Fight values of the models are also drawn, then the player with Priority rolls a D6 to see who wins. On a 1-3, the Evil side wins the Fight, while on a 4-6, the Good side is victorious.
 
@@ -70,7 +70,7 @@ If the Fight values of the models are also drawn, then the player with Priority 
 
 ![](../media/rules_manual/drawn_combats_1.jpg)
 
-*Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin — a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*[see page 46]*) against the unfortunate cave dweller.*
+*Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin - a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*[see page 46]*) against the unfortunate cave dweller.*
 
 ### MULTIPLE ATTACKS
 
@@ -110,9 +110,9 @@ It is important for any surviving models to be separated once the Fight has been
 
 ### PRONE MODELS
 
-Sometimes, models that are lying down will find themselves Engaged in a Fight — this can be a very dangerous predicament for the unfortunate model on the ground.
+Sometimes, models that are lying down will find themselves Engaged in a Fight - this can be a very dangerous predicament for the unfortunate model on the ground.
 
-Whilst Prone, models may never Charge an enemy, if a Prone model is charged, they fight as normal — with one exception. If the Prone model wins the Fight, they will make no Strikes against their enemies ([see page 46)], but may immediately stand up instead if they wish.
+Whilst Prone, models may never Charge an enemy, if a Prone model is charged, they fight as normal - with one exception. If the Prone model wins the Fight, they will make no Strikes against their enemies ([see page 46)], but may immediately stand up instead if they wish.
 
 If the Prone model loses the Duel roll, they will Back Away as normal, moving 1" whilst remaining Prone. Backing away cannot be used to stand a model up. When resolving Strikes against a Prone model, they are always considered to be Trapped.
 
@@ -123,11 +123,11 @@ still pushed 1" away.
 
 Sometimes, a defeated model will find themselves Trapped because a friendly model is blocking their path of retreat. In these situations, it is possible for the friendly model to make a special Make Way move of up to 1" to clear a path for their ally to Back Away through. Simply move the ally the shortest distance possible to enable their comrade to escape being Trapped. The friendly model's Make Way move is not slowed by difficult terrain and it can Make Way even if it is Prone.
 
-Models that are Engaged in combat may not Make Way for their friends — they are too busy fighting for their lives.
+Models that are Engaged in combat may not Make Way for their friends - they are too busy fighting for their lives.
 
 Making way for a friend may take a model into an enemy's Control Zone, but not into base contact with an enemy model. Making way cannot be used to cross Obstacles or to take Jump, Leap or Climb tests or to move off of a cliff or anything else that would cause falling damage. A model may Make Way into a water feature.
 
-Finally, only one model may Make Way for a defeated friend — if one model making way is not enough to prevent a model from being Trapped, then no Make Way move is made and the model is still Trapped.
+Finally, only one model may Make Way for a defeated friend - if one model making way is not enough to prevent a model from being Trapped, then no Make Way move is made and the model is still Trapped.
 
 What this means is that large mobs of troops will often find themselves in situations where the models at the front are Trapped by the weight of numbers pressing up behind them!
 
@@ -139,17 +139,17 @@ Théoden *has lost a Duel roll to* The Witch-king*, and finds himself Trapped by
 
 ### WINNER MAKES STRIKES
 
-Once the loser has backed away, the winner of the Duel roll must Strike against their opponent. To make a Strike, roll To Wound, comparing the Strength of the winner against the loser's Defence to find the target number, in the same way as rolling To Wound when shooting ([see page 40]). If the target is wounded, reduce its remaining Wounds by 1 — if this reduces the model's Wounds total to 0, remove it as a casualty. If the To Wound roll is failed, there is no effect except a bruised ego (and possibly a few real bruises too!).
+Once the loser has backed away, the winner of the Duel roll must Strike against their opponent. To make a Strike, roll To Wound, comparing the Strength of the winner against the loser's Defence to find the target number, in the same way as rolling To Wound when shooting ([see page 40]). If the target is wounded, reduce its remaining Wounds by 1 - if this reduces the model's Wounds total to 0, remove it as a casualty. If the To Wound roll is failed, there is no effect except a bruised ego (and possibly a few real bruises too!).
 
 ### MULTIPLE ATTACKS
 
-If a model with multiple Attacks wins a Fight, they make one Strike for each Attack on their profile when striking their victim. You may choose to fully resolve these Strikes one at a time (including using any Might — [see page 66]) or all together if you wish, so long as both players understand exactly what is happening. For more on resolving multiple Attacks, [see page 47].
+If a model with multiple Attacks wins a Fight, they make one Strike for each Attack on their profile when striking their victim. You may choose to fully resolve these Strikes one at a time (including using any Might - [see page 66]) or all together if you wish, so long as both players understand exactly what is happening. For more on resolving multiple Attacks, [see page 47].
 
 ### STRIKING A TRAPPED MODEL
 
 Each Attack that is directed against a Trapped model becomes a set of two Strikes rather than one. Thus, a model with one Attack would deal a set of two Strikes against their Trapped victim, a model with two Attacks would deal two sets of two Strikes, and so on. When making Strikes in this way, nominate the target of the first Attack and roll both Strikes for that Attack at the same time. Then nominate the target of the second Attack and do the same. Repeat this process until all Attacks have been allocated or there are no more enemies to allocate Attacks to.
 
-Note that you cannot split these sets of Strikes — you get a set of two Strikes for each Attack you direct against a Trapped model, but both Strikes must be directed against the same target.
+Note that you cannot split these sets of Strikes - you get a set of two Strikes for each Attack you direct against a Trapped model, but both Strikes must be directed against the same target.
 
 If a Trapped model was unable to Back Away, and survives the Strikes made against it, then their Attackers must Back Away just enough to separate the models instead of them, so that they are no longer in base contact.
 
@@ -157,7 +157,7 @@ If a Trapped model was unable to Back Away, and survives the Strikes made agains
 
 ![](../media/rules_manual/striking_a_trapped_model_1.jpg)
 
-*In a frantic fight,* Gandalf the Grey *has forced this Moria Goblin against a rocky wall, trapping it. The Wizard wins the Fight and rolls To Wound — as the Goblin is Trapped, Gandalf the Grey's one Attack becomes two Strikes.*
+*In a frantic fight,* Gandalf the Grey *has forced this Moria Goblin against a rocky wall, trapping it. The Wizard wins the Fight and rolls To Wound - as the Goblin is Trapped, Gandalf the Grey's one Attack becomes two Strikes.*
 
 ### REMOVE CASUALTIES
 
@@ -211,11 +211,11 @@ Barriers offer no protection against models that are more than twice the height 
 
 ### CHARGING A MODEL BEHIND A BARRIER
 
-To Charge a model that is defending a Barrier, simply move the charging model into base contact with the opposite side of the Barrier and within 1" of the Defender — we assume they are fighting across the Barrier, even though they are not actually in base contact.
+To Charge a model that is defending a Barrier, simply move the charging model into base contact with the opposite side of the Barrier and within 1" of the Defender - we assume they are fighting across the Barrier, even though they are not actually in base contact.
 
-An exception to the normal Control Zone rules exists in this situation. A defending model's Control Zone is not cancelled by enemies fighting it across the Barrier — only by a model that moves into base contact with it. Thus, a defending model's Control Zone could hamper several foes at once — even once they are Engaged in combat.
+An exception to the normal Control Zone rules exists in this situation. A defending model's Control Zone is not cancelled by enemies fighting it across the Barrier - only by a model that moves into base contact with it. Thus, a defending model's Control Zone could hamper several foes at once - even once they are Engaged in combat.
 
-As a note, a model that is on the same side of the Barrier as a defending model will be able to Charge them as normal — the Barrier only offers protection from models charging the Defender from the other side of the Barrier. Similarly, a model could simply cross the Barrier away from the Defender's Control Zone, and then Charge them — should they be able to.
+As a note, a model that is on the same side of the Barrier as a defending model will be able to Charge them as normal - the Barrier only offers protection from models charging the Defender from the other side of the Barrier. Similarly, a model could simply cross the Barrier away from the Defender's Control Zone, and then Charge them - should they be able to.
 
 ***DEFENDED POSITION***
 
@@ -243,11 +243,11 @@ If the Defender wins the Duel roll and the Attacker survives, the Attacker must 
 
 If the Defender loses the Duel roll, but is not slain by the Attacker's Strikes, they do not Back Away, as is usual in a Fight. Instead, the Attacker must Back Away! If, for some reason, the Attacker cannot Back Away a full 1", separate them enough to make it clear that they are no longer Engaged in combat.
 
-## FIGHTING MULTIPLE OPPONENTS OVER A BARRIER 
+## FIGHTING MULTIPLE OPPONENTS OVER A BARRIER
 
-Multiple Combats involving models who are defending a Barrier work differently to 'normal' combats. If two or more Attackers fight a single Defender, then the Attackers must fight the Defender one at a time. The attacking player can choose the order in which the Fights are resolved, potentially meaning that a single Defender will fight several times in a single Fight phase. 
+Multiple Combats involving models who are defending a Barrier work differently to 'normal' combats. If two or more Attackers fight a single Defender, then the Attackers must fight the Defender one at a time. The attacking player can choose the order in which the Fights are resolved, potentially meaning that a single Defender will fight several times in a single Fight phase.
 
-Since each Fight is resolved one-on-one, if the Defender is not slain, then the Attacker must Back Away. If any of the attacking models are victorious in the Fight, and slay the Defender, then that model, and any other Attackers yet to fight that Defender, can immediately move across the Barrier as if they had rolled a 2‑5 result on a Jump test (providing there is space for them to do so). If there is no space, the models must remain where they are.
+Since each Fight is resolved one-on-one, if the Defender is not slain, then the Attacker must Back Away. If any of the attacking models are victorious in the Fight, and slay the Defender, then that model, and any other Attackers yet to fight that Defender, can immediately move across the Barrier as if they had rolled a 2-5 result on a Jump test (providing there is space for them to do so). If there is no space, the models must remain where they are.
 
 If a single Attacker is in the Control Zones of two or more Defenders, they must fight them all at once as they would for a normal Multiple Combat. If they win the Fight and succeed in slaying one or more Defenders, then the Attacker can cross the Barrier, taking the place of one of the slain Defenders; move the other Defenders aside so that there is a gap between the Attacker's and Defenders' bases.
 
@@ -267,7 +267,7 @@ In situations where several models on both sides of a Barrier are in combat, the
 
 ### ATTACKED FROM BOTH SIDES
 
-Should a Defender also be charged by a model on their own side of the Barrier, then they lose any protection from the Barrier and the Fight becomes a normal Multiple Combat — all models ignore the Barrier when Striking. If the Attackers slay the Defender, they can immediately move across the Barrier as if they had rolled a 2‑5 result on a Jump test (providing there is space for them to do so). If there is no space, the models must remain where they are.
+Should a Defender also be charged by a model on their own side of the Barrier, then they lose any protection from the Barrier and the Fight becomes a normal Multiple Combat - all models ignore the Barrier when Striking. If the Attackers slay the Defender, they can immediately move across the Barrier as if they had rolled a 2-5 result on a Jump test (providing there is space for them to do so). If there is no space, the models must remain where they are.
 
 In an alternative situation, where an Attacker is charged by another model from the Defender's force, the Fight is resolved as a normal Multiple Combat, ignoring the Barrier. Note that in this case, the Attacker cannot cross the Barrier, even if they slay the Defender behind it.
 
@@ -285,7 +285,7 @@ A model in a doorway counts as defending a Barrier if they are charged, provided
 
 ![](../media/rules_manual/defended_doorway_1.jpg)
 
-*Here Gothmog is blocking a doorway by standing in it. Because Aragorn cannot move through the doorway without first touching Gothmog, the sneaky Orc gets the advantage of defending the doorway — and he will need all the advantages he can get if he is to defeat the heir of Isildur!*
+*Here Gothmog is blocking a doorway by standing in it. Because Aragorn cannot move through the doorway without first touching Gothmog, the sneaky Orc gets the advantage of defending the doorway - and he will need all the advantages he can get if he is to defeat the heir of Isildur!*
 
 ### DEFENDING ELEVATED POSITIONS
 

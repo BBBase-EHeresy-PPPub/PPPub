@@ -6,7 +6,6 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 
 **"The Corsairs are upon us! It is the last Stroke of Doom!"** - Corsair models gain the Backstabbers special rule.
 
-
 ## HEROES OF CORSAIRS OF UMBAR
 
 <div class="unitCard" markdown>
@@ -42,7 +41,6 @@ Throwing weapon with Strength 1. Any target hit but not slain but spend a point 
 
 Dalamyr can never be Trapped whilst still standing.
 
-
 </div>
 
 ---
@@ -72,7 +70,6 @@ Dalamyr can never be Trapped whilst still standing.
 - **Ruthless Commander** `ACTIVE`
 
 Friendly Corsair Warrior models within 3" may re-roll a single dice during the Duel roll. However if they use this bonus and still fail to win the Duel roll, they immediately suffer a Strength 2 hit.
-
 
 </div>
 
@@ -110,7 +107,6 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 - **Preternatural Agility** `ACTIVE`
 
 A Hasharin can never be trapped while still standing.
-
 
 </div>
 
@@ -164,7 +160,6 @@ Only loses a point of Will if he loses the Duel roll in a Fight.
 - **Combat Mimicry** `ACTIVE`
 
 At the start of a fight phase, he may choose to spend one point of Will to use the Fight, Strength and/or Attack of his opponent. He does not need to adopt all three characteristics.
-
 
 </div>
 
@@ -237,7 +232,6 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 Friendly Corsair models within 3" of the Bo'sun count as being in range of a banner.
 
-
 </div>
 
 ---
@@ -271,7 +265,6 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a ban
 </div>
 
 ---
-
 
 ## WARRIORS OF CORSAIRS OF UMBAR
 
@@ -329,7 +322,6 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a ban
 
 Giant wooden shield that provides +3 Defence, so long as the model is not engaged in a Fight. May use the same rules for shielding, but does not gain the +1 Defence bonus due to also carrying a crossbow.
 
-
 </div>
 
 ---
@@ -356,7 +348,6 @@ Giant wooden shield that provides +3 Defence, so long as the model is not engage
 - **Mindless Killers** `ACTIVE`
 
 If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must take a Courage test. If failed, it must charge the nearest enemy. If no enemies are in range, it must charge the nearest friendly model. If no friendlies are in range, it must move 6" towards the nearest enemy. Whilst in this rampage, the reaver also gains +1 in To Wound rolls and does not take Courage tests for charging Terror-causing models.
-
 
 </div>
 

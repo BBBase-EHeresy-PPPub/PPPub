@@ -6,7 +6,6 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 
 **"The Scorpion's Sting"** - A serpent Horde army may have 50% of its warriors armed with bows. Additionally, all Haradrim Warriors and Raiders may apply the Poisoned Weapons special rule to all of their weapons.
 
-
 ## HEROES OF THE SERPENT HORDE
 
 <div class="unitCard" markdown>
@@ -47,7 +46,6 @@ Banner with 6" range, and Suladan never suffers -1 penalty to duel rolls whilst 
 - **Ascendant** `ACTIVE`
 
 Suladan's Stand Fast! is 12" rather than 6".
-
 
 </div>
 
@@ -133,7 +131,6 @@ Suladan's Stand Fast! is 12" rather than 6".
 
 At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with Poisoned Weapons rule may re-roll failed To Wound rolls made with those weapons.
 
-
 </div>
 
 ---
@@ -167,7 +164,6 @@ When an enemy hero model within 12" takes a courage test, the Golden King may re
 - **The Golden Throne** `PASSIVE`
 
 This throne is a banner, and the King does not suffer the normal -1 penalty in Duel rolls.
-
 
 </div>
 
@@ -235,7 +231,6 @@ This throne is a banner, and the King does not suffer the normal -1 penalty in D
 
 Each time a friendly Hero model within 6" (including himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, they may call that action for free.
 
-
 </div>
 
 ---
@@ -273,7 +268,6 @@ Each time a friendly Hero model within 6" (including himself) attempts a Heroic 
 
 A Hasharin can never be trapped while still standing.
 
-
 </div>
 
 ---
@@ -305,7 +299,6 @@ A Hasharin can never be trapped while still standing.
 - **The Serpent's Weapon** `ACTIVE`
 
 At the start of the game, secretly select one Hero model in the opponent's force to be Raza's target. If Raza is Engaged in a Fight with this target, his Fight value is increased by 2.
-
 
 </div>
 
@@ -346,11 +339,9 @@ Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel
 
 Inflicts three Strength 9 hits.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE SERPENT HORDE
 
@@ -515,6 +506,5 @@ Watcher of Karna gains Attack 2.
 - **Steely Nerve** `ACTIVE`
 
 Gain a +2 bonus to any Courage test when charging an enemy with Terror. Also gain +2 bonus to the Watcher's Courage when an enemy model with Blades of the Dead makes strikes against the Watcher.
-
 
 </div>

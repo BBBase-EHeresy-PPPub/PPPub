@@ -6,13 +6,13 @@
 
 **ELROND [180 points]**
 
-• Heavy Armour: 10 points  
+• Heavy Armour: 10 points
 
 **GANDALF THE GREY [170 points]**
 
 **RADAGAST THE BROWN [150 points]**
 
-• Sleigh: 45 points  
+• Sleigh: 45 points
 
 **GALADRIEL, LADY OF LIGHT [130 points]**
 

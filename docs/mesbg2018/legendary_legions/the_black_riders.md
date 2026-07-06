@@ -4,19 +4,19 @@
 
 **WITCH KING [80 points]**
 
-• Horse: 10 points  
-• Morgul Blade: 10 points  
-• Might: 5 points  
-• Will: 5 points  
-• Fate: 5 points  
+• Horse: 10 points
+• Morgul Blade: 10 points
+• Might: 5 points
+• Will: 5 points
+• Fate: 5 points
 
 **RINGWRAITH [65 points]**
 
-• Horse: 10 points  
-• Might: 5 points  
-• Will: 5 points  
-• Fate: 5 points  
-• Swap Weapon: 5 points  
+• Horse: 10 points
+• Might: 5 points
+• Will: 5 points
+• Fate: 5 points
+• Swap Weapon: 5 points
 
 </div>
 

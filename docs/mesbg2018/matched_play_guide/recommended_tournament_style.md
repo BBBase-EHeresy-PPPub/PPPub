@@ -1,4 +1,4 @@
-﻿Here we present you with our recommended tournament style, one that we believe will give all players the best experience. It covers things such as roles and responsibilities, scoring, tiebreakers, tournament rules and more.
+Here we present you with our recommended tournament style, one that we believe will give all players the best experience. It covers things such as roles and responsibilities, scoring, tiebreakers, tournament rules and more.
 
 ## ROLES AND RESPONSIBILITIES
 
@@ -6,7 +6,7 @@ Depending on how formal you wish your event to be, it's always a good idea to ma
 
 ## ORGANISER
 
-Every event will need a single Organiser, who will be responsible for all aspects of running the tournament. It will be their job to think about such things as gaming space and equipment for the players, appointing any Referees and Scorekeepers, and generally being easily accessible on the day to ensure everything goes according to plan. The Organiser is essentially in charge on the day, and all participants must accept that the Organiser has the authority to expel or disqualify anyone for breaking the rules of the event — although this should, hopefully, never have to happen. It is also the Organiser's job to check everyone's Army Lists. The Organiser can also be the Referee and/or Scorekeeper if they wish; though in larger events it may be best to share these responsibilities around. We recommend that the Organiser does not participate in the actual tournament so that they are always easy to get hold of.
+Every event will need a single Organiser, who will be responsible for all aspects of running the tournament. It will be their job to think about such things as gaming space and equipment for the players, appointing any Referees and Scorekeepers, and generally being easily accessible on the day to ensure everything goes according to plan. The Organiser is essentially in charge on the day, and all participants must accept that the Organiser has the authority to expel or disqualify anyone for breaking the rules of the event - although this should, hopefully, never have to happen. It is also the Organiser's job to check everyone's Army Lists. The Organiser can also be the Referee and/or Scorekeeper if they wish; though in larger events it may be best to share these responsibilities around. We recommend that the Organiser does not participate in the actual tournament so that they are always easy to get hold of.
 
 ## REFEREE
 
@@ -18,7 +18,7 @@ Every event will need a Scorekeeper, which again is often the Organiser in small
 
 ## SPARE PLAYER
 
-Often tournaments will have an odd number of players, and that would mean that in each round there would be one player without an opponent. Whilst this player could be given a Bye (covered on page 6), it is much more satisfying if they have a game to play — after all that is why they are at the event! Because of this we recommend organising a Spare Player for the event. This should be someone who knows how to play the game, and will provide their opponent with a fun and enthusiastic game, so they are not sat around waiting for the round to finish. The Spare Player should not be trying to win the event, cannot win any awards, and should play each game in an appropriate manner. We recommend that the Spare Player is someone different to the Organiser, Referee and Scorekeeper.
+Often tournaments will have an odd number of players, and that would mean that in each round there would be one player without an opponent. Whilst this player could be given a Bye (covered on page 6), it is much more satisfying if they have a game to play - after all that is why they are at the event! Because of this we recommend organising a Spare Player for the event. This should be someone who knows how to play the game, and will provide their opponent with a fun and enthusiastic game, so they are not sat around waiting for the round to finish. The Spare Player should not be trying to win the event, cannot win any awards, and should play each game in an appropriate manner. We recommend that the Spare Player is someone different to the Organiser, Referee and Scorekeeper.
 
 ## PLAYER
 
@@ -96,7 +96,7 @@ The player who is highest in the rankings will play the player who is second in 
 
 ![](../media/matched_play_guide/subsequent_rounds.jpg)
 
-*Here we can see the draw for the next round of an event. Keith and Gavin have already played each other in a previous round and so cannot play again as this is not the final round. As Gavin is currently the lower ranked of the two players he will swap with the highest ranked player on the table below — in this case Rob.*
+*Here we can see the draw for the next round of an event. Keith and Gavin have already played each other in a previous round and so cannot play again as this is not the final round. As Gavin is currently the lower ranked of the two players he will swap with the highest ranked player on the table below - in this case Rob.*
 
 This system is used for all rounds after the first, including the final round with one small adjustment. In the final round players will not swap opponents if they draw a player they have already faced; the two are clearly equally matched and will face off one last time!
 

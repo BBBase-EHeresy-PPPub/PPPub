@@ -6,7 +6,6 @@ This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Mo
 
 **"We cannot get out, they are coming"** - Friendly Moria Goblin models involved in a Fight where their opponent is Trapped receive a bonus of +1 to their Fight value.
 
-
 ## HEROES OF MORIA
 
 <div class="unitCard" markdown>
@@ -45,7 +44,6 @@ If an enemy is Wounded, roll D6. On 6, the model is Set Ablaze.
 - **Demon of the Ancient World** `PASSIVE`
 
 May call a free Heroic Combat each turn.
-
 
 </div>
 
@@ -125,7 +123,6 @@ May call a free Heroic Combat each turn.
 
 Durburz's Stand Fast! has a range of 12"
 
-
 </div>
 
 ---
@@ -171,7 +168,6 @@ May include Giant Spiders in his warband. Giant Spiders in the same force can be
 
 Only Spider models may benefit from Ashrak's Stand Fast!, Heroic Actions, and Shroud of Shadows magical power.
 
-
 </div>
 
 ---
@@ -210,7 +206,6 @@ Only Spider models may benefit from Ashrak's Stand Fast!, Heroic Actions, and Sh
 
 Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his warband. All friendly Bat, Warg and Spider models within 12" may use Druzhag's Courage value instead of their own. Additionally, his Fury power will affect himself and any model that is a Bat, Warg or Spider.
 
-
 </div>
 
 ---
@@ -242,7 +237,6 @@ Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his 
 - **Mithril Crown** `PASSIVE`
 
 At the start of the Fight phase, before Heroic Actions are declared, roll a D6. On a 4+, all Moria Goblins within 3" gain +1 Fight value for the rest of that turn.
-
 
 </div>
 
@@ -343,7 +337,6 @@ At the start of the game, place a 25mm Nest marker. Whilst within 3" of the Nest
 - **Gaping Maw** `BRUTAL POWER ATTACK`
 
 Instead of striking as normal, select a single Man-sized (or smaller model) and roll a D6. On a 3+, the model is swallowed whole and slain. The enemy model can still use Fate to prevent the attack and not be slain.
-
 
 </div>
 
@@ -458,11 +451,9 @@ Whilst within water, The Watcher's Move distance is doubled, and gains the Monst
 
 Whilst within water, The Watcher can choose a single Man-sized (or smaller) model and instantly slay them unless saved with Fate. The Watcher is removed from the board and needs to re-arrive as per the From the Deep special rule.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF MORIA
 
@@ -486,7 +477,6 @@ Whilst within water, The Watcher can choose a single Man-sized (or smaller) mode
 - **Blinding Swarm** `PASSIVE`
 
 The Fight value of any enemy model engaged in combat with a Bat Swarm is halved (rounding down).
-
 
 </div>
 
@@ -521,7 +511,6 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 A throwing weapon with range 3" and Strength 5.
 
-
 </div>
 
 ---
@@ -547,7 +536,6 @@ A throwing weapon with range 3" and Strength 5.
 - **Murderous Power** `ACTIVE`
 
 Whenever a Dweller in the Dark slays an enemy model in combat, it regains a single Wound lost earlier in the battle. Rend is the only Brutal Power Attack that this effect also applies to.
-
 
 </div>
 
@@ -645,7 +633,6 @@ If Drummer and Bearer are in base contact, the drum is playing.
 
 Drum effects found on page 161 of Armies of LOTR book.
 
-
 </div>
 
 ---
@@ -676,7 +663,6 @@ If a Drummer is slain, they may pass on their wargear to any unengaged Moria Gob
 - **Drums in the Deep** `ACTIVE`
 
 A Drummer must be in contact with the drum, and not Engaged. Drum effects found on page 161 of Armies of LOTR book.
-
 
 </div>
 
@@ -765,7 +751,6 @@ Whilst Goblins remain mounted, entire model gains Terror, and +1 Courage. In com
 - **On the Hunt** `ACTIVE`
 
 Goblins mounted with Orc bows can still fire even after the Warg Marauder has moved its full distance.
-
 
 </div>
 

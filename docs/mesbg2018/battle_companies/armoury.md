@@ -1,4 +1,4 @@
-﻿Earlier, we touched on the fact that your Battle Company will earn Influence Points and these can be spent on a variety of wargear, Equipment and other items from the Armoury. The Armoury has four sections: Wargear, Equipment, Wanderers and Creatures, each with their own set of rules and restrictions. Over the next few pages, we will explain how this all works, and the rules associated with each item your Battle Company can purchase.
+Earlier, we touched on the fact that your Battle Company will earn Influence Points and these can be spent on a variety of wargear, Equipment and other items from the Armoury. The Armoury has four sections: Wargear, Equipment, Wanderers and Creatures, each with their own set of rules and restrictions. Over the next few pages, we will explain how this all works, and the rules associated with each item your Battle Company can purchase.
 
 ## WARGEAR
 
@@ -38,13 +38,13 @@ Next to each wargear entry are two numbers in brackets separated by a slash. The
 - **SHIELD** (1/5) [*1 Influence Point*]
 - **SHORT BOW** (1/5) [*1 Influence Point*]
 - **SPEAR** (1/5) [*1 Influence Point*]
-- **SWAP HAND WEAPON FOR ANOTHER TYPE** (1/5) [*1 Influence Point*] 
+- **SWAP HAND WEAPON FOR ANOTHER TYPE** (1/5) [*1 Influence Point*]
 
 Any model may change the type of hand weapon they possess for any of the following: axe, club, dagger, flail, hammer, mace, maul, pick, scourge, staff, or sword. Warrior models that exchange their type of hand weapon will cost an additional 1 point when working out your Battle Company Rating.
 
 - **THROWING WEAPONS** (1/5) [*1 Influence Point*]
 - **THROWING SPEARS** (2/5) [*1 Influence Point*]
-- **TWO-HANDED WEAPONS** (1/5) [*1 Influence Point*] 
+- **TWO-HANDED WEAPONS** (1/5) [*1 Influence Point*]
 
 This weapon can be of any type the player chooses.
 
@@ -55,7 +55,7 @@ This weapon can be of any type the player chooses.
 
 ## EQUIPMENT
 
-As a Battle Company journeys across Middle-earth, they will often accumulate a variety of different pieces of Equipment that will aid them in their adventures. Ranging from cloaks that can help to protect the wearer from unfriendly eyes to a comforting brew that can lift the spirits of even the most timid, these pieces of Equipment come in all shapes and sizes. Alongside each of the entries given in this section is a picture that provides an example or idea of how you can choose to represent the Equipment on your models. 
+As a Battle Company journeys across Middle-earth, they will often accumulate a variety of different pieces of Equipment that will aid them in their adventures. Ranging from cloaks that can help to protect the wearer from unfriendly eyes to a comforting brew that can lift the spirits of even the most timid, these pieces of Equipment come in all shapes and sizes. Alongside each of the entries given in this section is a picture that provides an example or idea of how you can choose to represent the Equipment on your models.
 
 Additionally, each piece of Equipment will be categorised as either Large or Small. A model may only carry one Large and one Small piece of Equipment at a time; there are only so many things a model can carry!
 
@@ -232,8 +232,8 @@ cannot be bought any additional wargear or Equipment from the Armoury.
 - **LOCAL SCOUT** 4 POINTS  [*4 Influence Points*]
 
 *Battle Companies will often hire the services of the locals of an area, for their knowledge about the lay of the land can prove extremely valuable as the Battle Company traverses Middle-earth*
-  
-If a Battle Company hires a Local Scout, they will count as a **Warrior** that cannot be promoted and cannot gain Experience Points — although they will still roll on the Warrior Injury chart as normal. A Local Scout can be bought a bow at the cost of 1 Influence Point. A Local Scout has the following profile and has the **Man**, **Infantry **and **Warrior** keywords.
+
+If a Battle Company hires a Local Scout, they will count as a **Warrior** that cannot be promoted and cannot gain Experience Points - although they will still roll on the Warrior Injury chart as normal. A Local Scout can be bought a bow at the cost of 1 Influence Point. A Local Scout has the following profile and has the **Man**, **Infantry **and **Warrior** keywords.
 
 |  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
@@ -241,13 +241,13 @@ If a Battle Company hires a Local Scout, they will count as a **Warrior** that c
 
 **Wargear:** Dagger, bow (optional).
 
-**Local Knowledge** — After players have determined their table edges, but before deployment has begun, a player with a Local Scout can move a single piece of terrain up to D6" in any direction. If both players have a Local Scout then the player who chose their board edge may move a terrain piece first. The other player may not move the same one.
+**Local Knowledge** - After players have determined their table edges, but before deployment has begun, a player with a Local Scout can move a single piece of terrain up to D6" in any direction. If both players have a Local Scout then the player who chose their board edge may move a terrain piece first. The other player may not move the same one.
 
 ---
 
 - **MERCENARY FIGHTER** 40 POINTS   [*8 Influence Points*]
 
-*Mercenaries often wander the paths of Middle-earth in search of riches and personal glory. These sellswords will pledge their services to the highest bidder, and it is not unheard of for them to side with a Battle Company — so long as the coin keeps being paid\...*
+*Mercenaries often wander the paths of Middle-earth in search of riches and personal glory. These sellswords will pledge their services to the highest bidder, and it is not unheard of for them to side with a Battle Company - so long as the coin keeps being paid\...*
 
 A Mercenary Fighter is a **Hero** that cannot gain Experience Points, and will roll on the Hero Injury chart as normal. A Mercenary Fighter has the following profile and has the **Man**, **Infantry **and **Hero** keywords.
 
@@ -257,9 +257,9 @@ A Mercenary Fighter is a **Hero** that cannot gain Experience Points, and will r
 
 **Wargear:** Hand weapon (of the player's choice), armour. A Mercenary Fighter can be given a shield for +5 points, and +[*1 Influence Point*].
 
-If you wish, you can change the race of your Mercenary Fighter to fit a certain theme. In this case, change the **Man** keyword to the relevant one (either **Elf**, **Dwarf**, **Hobbit**, **Orc**, **Goblin** or **Uruk- hai**), though most of their characteristics remain the same. The Mercenary Fighter's Move value will change depending on their race. A **Dwarf** or **Goblin** will reduce their Move value to 5", whilst a **Hobbit** will reduce their Move value to 4" — all other races' Move values remain at 6".
+If you wish, you can change the race of your Mercenary Fighter to fit a certain theme. In this case, change the **Man** keyword to the relevant one (either **Elf**, **Dwarf**, **Hobbit**, **Orc**, **Goblin** or **Uruk- hai**), though most of their characteristics remain the same. The Mercenary Fighter's Move value will change depending on their race. A **Dwarf** or **Goblin** will reduce their Move value to 5", whilst a **Hobbit** will reduce their Move value to 4" - all other races' Move values remain at 6".
 
-**Loyalty is Fleeting** — At the end of each game, after Influence Points have been spent, your Battle Company must pay a Mercenary Fighter to retain their services. In order to keep a Mercenary Fighter, your Company must spend 2 Influence Points; if this cannot be done then the Mercenary Fighter leaves — remove them from your roster.
+**Loyalty is Fleeting** - At the end of each game, after Influence Points have been spent, your Battle Company must pay a Mercenary Fighter to retain their services. In order to keep a Mercenary Fighter, your Company must spend 2 Influence Points; if this cannot be done then the Mercenary Fighter leaves - remove them from your roster.
 
 ---
 
@@ -327,7 +327,7 @@ A Vagabond is a **Warrior** that cannot gain Experience Points or become a **Her
 
 **Wargear:** Dagger.
 
-**Hardy** — *Years of wandering the wilderness has made this Vagabond used to the hardships of travel, and has given them knowledge of the terrain around them, which they will readily share with their new companions.*
+**Hardy** - *Years of wandering the wilderness has made this Vagabond used to the hardships of travel, and has given them knowledge of the terrain around them, which they will readily share with their new companions.*
 
 A Vagabond, and any friendly models within 6" of them, does not suffer any penalties for moving through difficult terrain.
 
@@ -337,7 +337,7 @@ A Vagabond, and any friendly models within 6" of them, does not suffer any penal
 
 *Dwarves commonly wander Middle-earth for many reasons; to venture out from their homesteads in search of fortune, to hone their skills in the wilds, or simply to hunt down the foes of their people. It is not uncommon for these Dwarves to come across a company of travelers that share their own ambitions.*
 
-If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that cannot gain Experience Points — although they will still roll on the Hero Injury chart as normal. A Wandering Dwarf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from its Heroic Actions. Only Good Battle Companies may hire a Wandering Dwarf. A Wandering Dwarf has the following profile and has the **Dwarf**, **Infantry** and **Hero** keywords.
+If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Dwarf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from its Heroic Actions. Only Good Battle Companies may hire a Wandering Dwarf. A Wandering Dwarf has the following profile and has the **Dwarf**, **Infantry** and **Hero** keywords.
 
 |  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -353,7 +353,7 @@ If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that 
 
 *Throughout Middle-earth's rich history, many Elves have been known to wander its paths for reasons known only unto them. Sometimes they will offer help to those in need and accompany a band of travelers on their journey.*
 
-If a Battle Company hires a Wandering Elf, they will count as a **Hero** that cannot gain Experience Points — although they will still roll on the Hero Injury chart as normal. A Wandering Elf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from their Heroic Actions. Only Good Battle Companies may hire a Wandering Elf. A Wandering Elf has the following profile and has the **Elf**, **Infantry **and **Hero** keywords.
+If a Battle Company hires a Wandering Elf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Elf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from their Heroic Actions. Only Good Battle Companies may hire a Wandering Elf. A Wandering Elf has the following profile and has the **Elf**, **Infantry **and **Hero** keywords.
 
 |  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -369,9 +369,9 @@ If a Battle Company hires a Wandering Elf, they will count as a **Hero** that ca
 
 *Battle Companies will often utilise a series of creatures to aid them in their travels. From humble packhorses loaded with provisions, equipment and bedding, to vicious beasts that can be set upon any who attempt to attack the company, there are numerous different creatures from all over Middle-earth that provide a certain use to a Battle Company.*
 
-Here we present a series of Creatures that can be included in your Battle Company, each with their own effects. When a Creature is purchased, it must be attached to your leader or one of their Sergeants — as such it does not take up a space on your Battle Company roster. Each **Hero** may only ever have a single Creature. As a Battle Company can only ever have a maximum of one leader and two Sergeants, there can only ever be a maximum of three Creatures in your Battle Company at any one time.
+Here we present a series of Creatures that can be included in your Battle Company, each with their own effects. When a Creature is purchased, it must be attached to your leader or one of their Sergeants - as such it does not take up a space on your Battle Company roster. Each **Hero** may only ever have a single Creature. As a Battle Company can only ever have a maximum of one leader and two Sergeants, there can only ever be a maximum of three Creatures in your Battle Company at any one time.
 
-Creatures can never gain Experience Points, cannot be bought wargear or Equipment, and can never be promoted; they will roll on the Warrior Injury chart if slain. If the **Hero** that owns the Creature is slain, the Creature is considered to have perished or fled from the battlefield — remove it from your roster.
+Creatures can never gain Experience Points, cannot be bought wargear or Equipment, and can never be promoted; they will roll on the Warrior Injury chart if slain. If the **Hero** that owns the Creature is slain, the Creature is considered to have perished or fled from the battlefield - remove it from your roster.
 
 ---
 
@@ -385,9 +385,9 @@ Creatures can never gain Experience Points, cannot be bought wargear or Equipmen
 
 - **Special Rules:** Fly
 
-- **Keen Sight** — Enemy models within 12" of a Falcon that is separate from its **Hero** may not benefit from the Stalk Unseen special rule.
+- **Keen Sight** - Enemy models within 12" of a Falcon that is separate from its **Hero** may not benefit from the Stalk Unseen special rule.
 
-A Falcon starts the game upon the arm of its master rather than on the board. At the start of any turn in which the Falcon is on their **Hero** model's arm, the **Hero** may release the Falcon — place it anywhere within 3" of the **Hero**. Whilst separate from its **Hero**, the Falcon may move independently. If, during the End phase of any turn, a Falcon is within 3" of their **Hero**, it may choose to land back on their **Hero** model's arm. Remove the Falcon from the board. Whilst upon the **Hero** model's arm, the Falcon cannot be targeted, attacked or hit with shooting attacks, and will not provide an In The Way roll for their **Hero**.
+A Falcon starts the game upon the arm of its master rather than on the board. At the start of any turn in which the Falcon is on their **Hero** model's arm, the **Hero** may release the Falcon - place it anywhere within 3" of the **Hero**. Whilst separate from its **Hero**, the Falcon may move independently. If, during the End phase of any turn, a Falcon is within 3" of their **Hero**, it may choose to land back on their **Hero** model's arm. Remove the Falcon from the board. Whilst upon the **Hero** model's arm, the Falcon cannot be targeted, attacked or hit with shooting attacks, and will not provide an In The Way roll for their **Hero**.
 
 - Only **Hero** models that have the **Man** or **Elf **keyword may take a Falcon.
 
@@ -401,7 +401,7 @@ A Falcon starts the game upon the arm of its master rather than on the board. At
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 |  10" | 2/6+ |  3  |  4  |  1  |  1  |  3  |
 
-**Laden with baggage** — A Packhorse may carry up to 15 Small pieces of Equipment, weapons or additional wargear on its back — these still need to be paid for in your Battle Company's cost. Whilst these pieces are on the Packhorse, the company gains no benefit from them. However, any member of a Battle Company that begins its turn in base contact with the Packhorse may swap one of its pieces of wargear, Equipment or weapons for an equivalent piece from the Packhorse. Note that no matter how many bows of any kind are carried by the Packhorse, your Battle Company must still abide by their Bow Limit and may never be carrying more bows of any kind than they could normally at any one time.
+**Laden with baggage** - A Packhorse may carry up to 15 Small pieces of Equipment, weapons or additional wargear on its back - these still need to be paid for in your Battle Company's cost. Whilst these pieces are on the Packhorse, the company gains no benefit from them. However, any member of a Battle Company that begins its turn in base contact with the Packhorse may swap one of its pieces of wargear, Equipment or weapons for an equivalent piece from the Packhorse. Note that no matter how many bows of any kind are carried by the Packhorse, your Battle Company must still abide by their Bow Limit and may never be carrying more bows of any kind than they could normally at any one time.
 
 ---
 
@@ -429,9 +429,9 @@ Only **Hero** models that have the **Man** or **Hobbit **keyword may take a Hunt
 
 **Special Rules:** Fly
 
-**Herald of Durin** — Friendly **Dwarf** models within 6" of a Raven that is separate from its **Hero**, that can draw Line of Sight to it, count as being in range of a banner.
+**Herald of Durin** - Friendly **Dwarf** models within 6" of a Raven that is separate from its **Hero**, that can draw Line of Sight to it, count as being in range of a banner.
 
-A Raven starts the game upon the arm of its master rather than on the board. At the start of any turn in which the Raven is on their **Hero** model's arm, the **Hero** may release the Raven — place it anywhere within 3" of the **Hero**. Whilst separate from its **Hero**, the Raven may move independently. If, during the End phase of any turn, a Raven is within 3" of their **Hero**, it may choose to land back on their Hero model's arm. Remove the Raven from the board. Whilst upon the **Hero** model's arm, the Raven cannot be targeted, attacked or hit with shooting attacks, and will not provide an In The Way roll for their **Hero**.
+A Raven starts the game upon the arm of its master rather than on the board. At the start of any turn in which the Raven is on their **Hero** model's arm, the **Hero** may release the Raven - place it anywhere within 3" of the **Hero**. Whilst separate from its **Hero**, the Raven may move independently. If, during the End phase of any turn, a Raven is within 3" of their **Hero**, it may choose to land back on their Hero model's arm. Remove the Raven from the board. Whilst upon the **Hero** model's arm, the Raven cannot be targeted, attacked or hit with shooting attacks, and will not provide an In The Way roll for their **Hero**.
 
 Only **Hero** models that have the **Dwarf** keyword may take a Raven.
 
@@ -447,7 +447,7 @@ Only **Hero** models that have the **Dwarf** keyword may take a Raven.
 
 **Special Rules:** Venom
 
-**Slow-acting Venom** — Any model that suffers a Wound from a Rhûnish Drake, but is not slain, reduces their Fight value and Attacks by 1 (to a minimum of 1) for the remainder of the game.
+**Slow-acting Venom** - Any model that suffers a Wound from a Rhûnish Drake, but is not slain, reduces their Fight value and Attacks by 1 (to a minimum of 1) for the remainder of the game.
 
 Only a Battle Company leader may take a Rhûnish Drake.
 

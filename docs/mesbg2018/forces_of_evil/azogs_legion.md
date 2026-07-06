@@ -6,7 +6,6 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 **"Let the Legions Come Forth!"** - If either Azog or Bolg is the leader of your force then they gain the Master of Battle special rule.
 
-
 ## HEROES OF AZOG'S LEGION
 
 <div class="unitCard" markdown>
@@ -53,7 +52,6 @@ Stand Fast! has a range of 12", and affects Orc Hero models.
 
 Never requires more than 3+ for To Wound against Hero models.
 
-
 </div>
 
 ---
@@ -98,7 +96,6 @@ After Bolg has killed two enemy models, he causes Terror. After five or more kil
 
 Any model that suffers a Wound from this model's shooting attack, and isn't slain, must roll a D6 at the start of each subsequent turn. On a roll of a 1, that model suffers a Wound.
 
-
 </div>
 
 ---
@@ -137,7 +134,6 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 Warbands that contain solely Goblin Mercenaries do not have to deploy at the start of the game. From turn 2 onwards, the Captain may take a Courage in controlling player's Move phase. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully played within a terrain piece. If not possible, they may arrive from a board edge of the controlling player's choice instead.
 
-
 </div>
 
 ---
@@ -174,7 +170,6 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 ---
 
-
 ## WARRIORS OF AZOG'S LEGION
 
 <div class="unitCard" markdown>
@@ -207,7 +202,6 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 Warbands that contain solely Goblin Mercenaries do not have to deploy at the start of the game. From turn 2 onwards, the Captain may take a Courage in controlling player's Move phase. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully played within a terrain piece. If not possible, they may arrive from a board edge of the controlling player's choice instead.
 
-
 </div>
 
 ---
@@ -239,7 +233,6 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 - **Oblivious to Pain** `PASSIVE`
 
 Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the Banner of Angmar is manned on Azog's Signal Tower) the Wound is ignored. This is not cumulative with other special rules.
-
 
 </div>
 
@@ -308,7 +301,6 @@ Wounds caused by this weapon cause D3 Wounds instead. Determine the number of Wo
 
 If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls when making strikes.
 
-
 </div>
 
 ---
@@ -333,7 +325,6 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 - **Relentless Advance** `ACTIVE`
 
 When charging into combat, ogres can pass through friendly Orc, Goblin and Bat models, but each model they pass suffers a Strength 3 hit. A model that they end their move on is automatically removed as a casualty. The ogre cannot be Compelled/Commanded over friendly models if it is forced to Charge as part of that Magical Power.
-
 
 </div>
 
@@ -360,7 +351,6 @@ When charging into combat, ogres can pass through friendly Orc, Goblin and Bat m
 - **Crushing Blow** `ACTIVE`
 
 Each time a Troll Brute moves into base contact with another model, it must inflict a Strength 10 hit on that model. Cavalry models suffer this on both the mount and rider. If the model is slain, the Troll Brute may continue its move. If not slain, the Troll Brute must stop, and if the model is an enemy, it will fight that model in the Fight phase as normal.
-
 
 </div>
 
@@ -391,11 +381,9 @@ When a War Bat charges, the Defence of the charged model and any models that sub
 
 At the end of the War Bat's move, pick an unengaged man-sized (or smaller) enemy that it moved over, and roll a D6. On a 4+, they suffer a Strength 4 hit. If it survives, roll another D6. On a 4+, that model is Knocked to the Ground.
 
-
 </div>
 
 ---
-
 
 ## SIEGE ENGINES OF AZOG'S LEGION
 
@@ -432,6 +420,5 @@ A large Siege Engine that follows the rules for Volley Fire, with range 12" - 96
 - **Area Effect**
 
 If the catapult hits a Battlefield target, all man-sized (or smaller) models within 2" are Knocked to Ground. Cavalry models within 2" must take a Thrown Rider test. Additionally, all models within 2" suffer a Strength 6 hit.
-
 
 </div>

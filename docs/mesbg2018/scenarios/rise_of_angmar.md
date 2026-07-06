@@ -472,7 +472,7 @@ The Good player deploys all of their models anywhere within 6" of the center of 
 
 The forces of Angmar have been given a single task: to wipe out the royal lineage of Arnor and claim Fornost for the Witch-king. Arvedui must survive this onslaught if his line is to endure, for a much larger army of fouler creatures draws ever nearer.
 
-The Evil player wins immediately if all of Arvedui, Aranarth, and Malbeth are slain. The Good player wins if the Evil force is wiped out before this can happen. Alternatively, the game is a draw if Arvedui abandons Fornost and manages to escape the board via any board edge — and if the battle is going ill, this may be a good idea!
+The Evil player wins immediately if all of Arvedui, Aranarth, and Malbeth are slain. The Good player wins if the Evil force is wiped out before this can happen. Alternatively, the game is a draw if Arvedui abandons Fornost and manages to escape the board via any board edge - and if the battle is going ill, this may be a good idea!
 
 **SPECIAL RULES**
 
@@ -600,7 +600,7 @@ If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the boar
 
 **GOOD**
 
-**Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;  
+**Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;
 25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, 1 with banner; 6 Knights of Minas Tirith with shield.
 
 **Rivendell:** Glorfindel, Lord of the West, with Asfaloth and Armour of Gondolin; Círdan; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
@@ -687,10 +687,10 @@ Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch
 
 **Good:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
 
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;  
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;
 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
 
-***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain — it will be an epic conclusion!*
+***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
 
 ![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg)
 

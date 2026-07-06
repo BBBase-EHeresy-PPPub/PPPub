@@ -8,7 +8,6 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 **"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Dain Ironfoot, King Under the Mountain.
 
-
 ## HEROES OF EREBOR RECLAIMED (KING DAIN)
 
 <div class="unitCard" markdown>
@@ -46,7 +45,6 @@ Friendly Erebor Dwarf models, including Hero models, benefit from Dain's Stand F
 - **Venerable** `PASSIVE`
 
 Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and pick the lowest result.
-
 
 </div>
 
@@ -86,7 +84,6 @@ Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Du
 
 Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an axe in each hand for 4 Attacks, or his two-handed axe for 3 Attacks.
 
-
 </div>
 
 ---
@@ -117,7 +114,6 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 - **Cold-headed** `ACTIVE`
 
 Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free. Additionally, if he declares a Heroic Action and an enemy subsequently declares a Heroic Action as well, Thorin may change the action he has declared.
-
 
 </div>
 
@@ -150,7 +146,6 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 
 If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
 
-
 </div>
 
 ---
@@ -180,7 +175,6 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 - **Steadfast** `PASSIVE`
 
 When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, its effects are ignored. Can be modified with Might. Bofur may only try to Resist a Magical Power before making his Steadfast roll.
-
 
 </div>
 
@@ -217,7 +211,6 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 Dori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
 
-
 </div>
 
 ---
@@ -252,7 +245,6 @@ Gloin must re-roll scores of 1 To Wound in combat.
 - **Weapon Master** `ACTIVE`
 
 Gloin is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
-
 
 </div>
 
@@ -325,11 +317,9 @@ Nori is never considered unarmed, and does not suffer the -1 penalty during Duel
 
 Nori may re-roll one dice in the Duel roll and may re-roll one dice when making Strikes.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF EREBOR RECLAIMED (KING DAIN)
 
@@ -364,7 +354,6 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
 
-
 </div>
 
 ---
@@ -396,6 +385,5 @@ Two-handed weapon that can use either the Bash or Piercing Strike Special Strike
 - **Mattock** `ACTIVE`
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
-
 
 </div>

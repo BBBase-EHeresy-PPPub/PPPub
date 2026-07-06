@@ -1,4 +1,4 @@
-﻿As a battle rages on, warriors become surrounded by death, destruction and the horrors of warfare. Surrounded by such peril, the mettle of even the most valiant of warriors will be pushed to breaking point. As the tide of the battle shifts, a warrior's resilience can begin to fade; their will to continue on in this fight ebbing away.
+As a battle rages on, warriors become surrounded by death, destruction and the horrors of warfare. Surrounded by such peril, the mettle of even the most valiant of warriors will be pushed to breaking point. As the tide of the battle shifts, a warrior's resilience can begin to fade; their will to continue on in this fight ebbing away.
 
 ## TAKING COURAGE TESTS
 
@@ -22,7 +22,7 @@ There are other situations that require a model to take a Courage test. When the
 
 ![](../media/rules_manual/taking_courage_tests_1.jpg)
 
-*A lumbering* Cave Troll *has charged Frodo. Wishing to save their friend from this terrifying beast, Merry and Pippin both attempt to Charge the Troll. As the Cave Troll has the Terror special rule, both Merry and Pippin must take a Courage test. Merry goes first and rolls a 3 and a 4. After adding these together, then adding his Courage value of 4, Merry scores a total of 11 and may immediately Charge the Troll. Next, Pippin makes his Courage test. However, Pippin only rolls a 1 and a 2. After adding his Courage value of 4, Pippin only scores a total of 7 and so cannot Charge the Troll — or move at all this turn.*
+*A lumbering* Cave Troll *has charged Frodo. Wishing to save their friend from this terrifying beast, Merry and Pippin both attempt to Charge the Troll. As the Cave Troll has the Terror special rule, both Merry and Pippin must take a Courage test. Merry goes first and rolls a 3 and a 4. After adding these together, then adding his Courage value of 4, Merry scores a total of 11 and may immediately Charge the Troll. Next, Pippin makes his Courage test. However, Pippin only rolls a 1 and a 2. After adding his Courage value of 4, Pippin only scores a total of 7 and so cannot Charge the Troll - or move at all this turn.*
 
 ### TAKING MULTIPLE COURAGE TESTS
 
@@ -32,7 +32,7 @@ If a model passes a Courage test caused by a special rule or ability, it automat
 
 ![](../media/rules_manual/taking_multiple_courage_tests_1.jpg)
 
-*Frodo has been targeted by a Spectre's A Fell Light is in Them special rule, and must now make a Courage test. Rolling a 5 and a 4, Frodo adds his Courage value of 6 and scores a total of 15 — a clear pass. A second Spectre then also targets Frodo with the A Fell Light Is in Them special rule. However, as Frodo has already passed one Courage test this turn due to the A Fell Light is in Them special rule, he will automatically pass the second test.*
+*Frodo has been targeted by a Spectre's A Fell Light is in Them special rule, and must now make a Courage test. Rolling a 5 and a 4, Frodo adds his Courage value of 6 and scores a total of 15 - a clear pass. A second Spectre then also targets Frodo with the A Fell Light Is in Them special rule. However, as Frodo has already passed one Courage test this turn due to the A Fell Light is in Them special rule, he will automatically pass the second test.*
 
 **TAKING MULTIPLE COURAGE TESTS 2**
 
@@ -54,7 +54,7 @@ If the test is passed, the model stays in the fight. Complete its move before pr
 
 ***BROKEN FORCE***
 
-*The Fellowship has been frantically fending off the Uruk-hai Scouts, felling as many as possible. At the start of the game there were 30 Uruk-hai Scouts, but at the start of the 10th turn, 16 of them have been slain. As the Uruk-hai Scouts had a Break Point of 15, they have started the turn having exceeded their Break Point and so are now considered to be Broken — they must now start taking Courage tests.*
+*The Fellowship has been frantically fending off the Uruk-hai Scouts, felling as many as possible. At the start of the game there were 30 Uruk-hai Scouts, but at the start of the 10th turn, 16 of them have been slain. As the Uruk-hai Scouts had a Break Point of 15, they have started the turn having exceeded their Break Point and so are now considered to be Broken - they must now start taking Courage tests.*
 
 ### STAND FAST!
 

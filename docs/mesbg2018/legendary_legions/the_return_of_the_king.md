@@ -4,35 +4,35 @@
 
 **ARAGORN, STRIDER [160 points]**
 
-• Elven Cloak: 5 points  
-• Anduril Flame of the West - FREE: 0 points  
+• Elven Cloak: 5 points
+• Anduril Flame of the West - FREE: 0 points
 
 **GIMLI [100 points]**
 
-• Elven Cloak: 5 points  
+• Elven Cloak: 5 points
 
 **LEGOLAS [100 points]**
 
-• Armour: 5 points  
-• Elven Cloak: 5 points  
+• Armour: 5 points
+• Elven Cloak: 5 points
 
 **THE KING OF THE DEAD [100 points]**
 
 **HERALD OF THE DEAD [70 points]**
 
-• Swap Weapon: 5 points  
-• Shield: 5 points  
+• Swap Weapon: 5 points
+• Shield: 5 points
 
 **RIDER OF THE DEAD [24 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **WARRIOR OF THE DEAD [14 points]**
 
-• Banner: 25 points  
-• Shield: 1 point  
-• Spear: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Shield: 1 point
+• Spear: 1 point
+• Swap Weapon: 1 point
 
 </div>
 

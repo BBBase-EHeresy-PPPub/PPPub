@@ -11,7 +11,7 @@
 
 **WARGEAR**
 
-* Heavy armour 
+* Heavy armour
 * Sword
 
 Eomer may also take the following options:
@@ -62,7 +62,7 @@ One of the following options:
 
 * Armour
 * Sword or Axe
-* Shield 
+* Shield
 * Bow
 
 Riders of Rohan may also take the following options:

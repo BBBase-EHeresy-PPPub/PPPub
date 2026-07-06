@@ -1,4 +1,4 @@
-﻿At the start of each round of a tournament, you will need to decide which of the 18 Scenarios everyone will be playing.
+At the start of each round of a tournament, you will need to decide which of the 18 Scenarios everyone will be playing.
 
 Whilst the Tournament Organiser can decide to simply choose which Scenario is played, or randomly draw any of the Scenarios out of a hat, we would recommend using the following Scenario Pool system to choose the Scenario.
 
@@ -6,7 +6,7 @@ The 18 Scenarios are grouped into six pools of three Scenarios, where each pool 
 
 At the start of each round, the Tournament Organiser will roll for which of the pools will be in use for that game. They will then roll for which of the three Scenarios from that pool will be played. Once a pool has been selected for a round, it cannot be selected again unless all other pools have already been selected once (in events that have more than six games for example), in which case the process begins again making sure that the same Scenario is not played twice.
 
-Whilst this system is essentially about randomly choosing Scenarios from the 18 available, it ensures that players will only ever play one Scenario from each pool across the event, and prevents the Scenarios that are randomly determined favouring one style of army over another. 
+Whilst this system is essentially about randomly choosing Scenarios from the 18 available, it ensures that players will only ever play one Scenario from each pool across the event, and prevents the Scenarios that are randomly determined favouring one style of army over another.
 
 *For example: In the first round of an event, Pool 4 is rolled. Then the Organiser rolls a D3 to determine which of the three Scenarios from that pool will be played. After rolling, it is determined that Lords of Battle is the Scenario for round 1, and this means that players will now not play either To the Death! or Contest of Champions as Pool 4 has already been selected during this event.*
 
@@ -37,7 +37,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 COMMAND THE BATTLEFIELD
 
-### POOL 2 
+### POOL 2
 
 **HOLD OBJECTIVE SCENARIOS**
 
@@ -47,7 +47,7 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 BREAKTHROUGH
 
-### POOL 3 
+### POOL 3
 
 **OBJECT SCENARIOS**
 
@@ -57,27 +57,27 @@ At the start of each round, roll a D6 to determine which of the pools will be us
 
 5-6 RETRIEVAL
 
-### POOL 4 
+### POOL 4
 
 **KILL THE ENEMY SCENARIOS**
 
 1-2 LORDS OF BATTLE
 
-3-4 CONTEST OF CHAMPIONS 
+3-4 CONTEST OF CHAMPIONS
 
 5-6 TO THE DEATH!
 
-### POOL 5 
+### POOL 5
 
 **MANOEUVRING SCENARIOS**
 
 1-2 STORM THE CAMP
 
-3-4 RECONNOITRE 
+3-4 RECONNOITRE
 
 5-6 DIVIDE & CONQUER
 
-### POOL 6 
+### POOL 6
 
 **UNIQUE SCENARIOS**
 

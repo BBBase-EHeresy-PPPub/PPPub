@@ -4,67 +4,67 @@
 
 **WITCH KING [70 points]**
 
-• Armoured Horse: 15 points  
-• Horse: 10 points  
-• Morgul Blade: 10 points  
-• Might: 5 points  
-• Will: 5 points  
-• Fate: 5 points  
+• Armoured Horse: 15 points
+• Horse: 10 points
+• Morgul Blade: 10 points
+• Might: 5 points
+• Will: 5 points
+• Fate: 5 points
 
 **THE DWIMMERLAIK [120 points]**
 
-• Armoured Horse: 15 points  
-• Horse: 10 points  
+• Armoured Horse: 15 points
+• Horse: 10 points
 
 **THE TAINTED [120 points]**
 
-• Armoured Horse: 15 points  
-• Horse: 10 points  
+• Armoured Horse: 15 points
+• Horse: 10 points
 
 **ANGMAR ORC CAPTAIN [40 points]**
 
-• Warg: 10 points  
-• Orc bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Orc bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **BARROW-WIGHT [50 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **NAZTHAK [50 points]**
 
 **SHADE [75 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **THE SHADOW OF RHUDAUR [80 points]**
 
 **ANGMAR ORC SHAMAN [50 points]**
 
-• Warg: 10 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Swap Weapon: 5 points
 
 **ANGMAR ORC WARRIOR [5 points]**
 
-• Banner: 25 points  
-• Orc bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Two-Handed Weapon: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Two-Handed Weapon: 1 point
+• Swap Weapon: 1 point
 
 **ANGMAR WARG RIDER [11 points]**
 
-• Banner: 25 points  
-• Orc bow: 1 point  
-• Shield: 1 point  
-• Throwing Spears: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc bow: 1 point
+• Shield: 1 point
+• Throwing Spears: 1 point
+• Swap Weapon: 1 point
 
 **DEAD MARSH SPECTRE [15 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 </div>
 

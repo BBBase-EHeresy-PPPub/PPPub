@@ -6,7 +6,6 @@ This army may include: The Goblin King; Goblin Captain; Goblin Mercenary Captain
 
 **"Down down down in Goblin-town"** - Each Goblin Hero model may increase their maximum warband size by six models.
 
-
 ## HEROES OF GOBLIN-TOWN
 
 <div class="unitCard" markdown>
@@ -47,7 +46,6 @@ In the Shoot phase, if a friendly Goblin model is in base contact with him, and 
 
 Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it was caused by a Magic Power or Elven-made weapon.
 
-
 </div>
 
 ---
@@ -81,7 +79,6 @@ Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it wa
 - **Chittering Hordes** `ACTIVE`
 
 This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
-
 
 </div>
 
@@ -121,7 +118,6 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 Warbands that contain solely Goblin Mercenaries do not have to deploy at the start of the game. From turn 2 onwards, the Captain may take a Courage in controlling player's Move phase. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully played within a terrain piece. If not possible, they may arrive from a board edge of the controlling player's choice instead.
 
-
 </div>
 
 ---
@@ -160,7 +156,6 @@ A Special Heroic Action for the start of any phase. Grinnah can swap places with
 
 This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
 
-
 </div>
 
 ---
@@ -187,7 +182,6 @@ At the end of his Move phase, he may take a Courage test. If passed, you may mov
 - **Immobile** `PASSIVE`
 
 The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phase, friendly models may move him, as if he were considered to be a Heavy Object.
-
 
 </div>
 
@@ -222,11 +216,9 @@ Unless there is another Ringbearer in play, Gollum has the Ring. If the Ringbear
 
 Gollum is never considered to be unarmed.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF GOBLIN-TOWN
 
@@ -260,7 +252,6 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 Warbands that contain solely Goblin Mercenaries do not have to deploy at the start of the game. From turn 2 onwards, the Captain may take a Courage in controlling player's Move phase. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully played within a terrain piece. If not possible, they may arrive from a board edge of the controlling player's choice instead.
 
-
 </div>
 
 ---
@@ -292,6 +283,5 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 - **Chittering Hordes** `ACTIVE`
 
 This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
-
 
 </div>

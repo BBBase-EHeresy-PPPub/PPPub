@@ -6,7 +6,6 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 
 **"They Strike in the Wee Small Hours When Everyone's Asleep"** - The Azog's Hunters army list may include 50% bows rather than 33%. Additionally, all models in the Azog's Hunters army list have their Shoot value improved by 1.
 
-
 ## HEROES OF AZOG'S HUNTERS
 
 <div class="unitCard" markdown>
@@ -49,7 +48,6 @@ Stand Fast! has a range of 12", and affects Orc Hero models.
 - **I am the Master** `ACTIVE`
 
 Never requires more than 3+ for To Wound against Hero models.
-
 
 </div>
 
@@ -95,7 +93,6 @@ After Bolg has killed two enemy models, he causes Terror. After five or more kil
 
 Any model that suffers a Wound from this model's shooting attack, and isn't slain, must roll a D6 at the start of each subsequent turn. On a roll of a 1, that model suffers a Wound.
 
-
 </div>
 
 ---
@@ -126,7 +123,6 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 - **Hunt Master** `ACTIVE`
 
 When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to move in difficult terrain - this also enables him to gain the bonuses for charging.
-
 
 </div>
 
@@ -162,7 +158,6 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 - **Many Blades** `ACTIVE`
 
 Whilst they have the Infantry keyword, a model with this special rule gains +1 Attack.
-
 
 </div>
 
@@ -203,7 +198,6 @@ Each turn, Narzug gets a free point of Might (even with no Might remaining) to m
 
 Any model that suffers a Wound from this model's shooting attack, and isn't slain, must roll a D6 at the start of each subsequent turn. On a roll of a 1, that model suffers a Wound.
 
-
 </div>
 
 ---
@@ -239,11 +233,9 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling dice for Courage tests when your force is Broken, you may remove Yazneg from play. If you do so, Azog automatically passes his Courage test, and his Stand Fast! Will affect the entire battlefield. Additionally if you do so, whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF AZOG'S HUNTERS
 
@@ -296,6 +288,5 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 - **Many Blades** `ACTIVE`
 
 Whilst they have the Infantry keyword, a model with this special rule gains +1 Attack.
-
 
 </div>

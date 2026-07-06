@@ -6,7 +6,6 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 
 **"Tangado Haid, leithio i philinn!"** - While within 6" of the army's leader, friendly Rivendell models may re-roll failed To Hit rolls when making shooting attacks in a turn in which they do not move. If your army contains Elrond, then Rivendell Knights do not count towards your Bow Limit.
 
-
 ## HEROES OF RIVENDELL
 
 <div class="unitCard" markdown>
@@ -63,7 +62,6 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 
 D6 Foresight points, each point can alter opponents priority by +1/-1.
 
-
 </div>
 
 ---
@@ -113,7 +111,6 @@ His Stand Fast! is 12", and includes friendly Elf Hero models.
 
 May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
-
 </div>
 
 ---
@@ -161,7 +158,6 @@ Glorfindel permanently has the Fortify Spirit spell cast upon him.
 - **Lord of the West** `ACTIVE`
 
 Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
-
 
 </div>
 
@@ -213,7 +209,6 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 - **Noldorin Daggers** `ACTIVE`
 
 Elven-made daggers, may be used as Throwing weapons. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
-
 
 </div>
 
@@ -320,7 +315,6 @@ All friendly Rivendell models within 6" of Lindir gain the Resistant to Magic sp
 
 If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will each turn for free, even if he has none remaining.
 
-
 </div>
 
 ---
@@ -398,7 +392,6 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 Cirdan may spend a single point of Will each turn for free.
 
-
 </div>
 
 ---
@@ -437,7 +430,6 @@ Cirdan may spend a single point of Will each turn for free.
 
 If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points spent in that roll.
 
-
 </div>
 
 ---
@@ -473,7 +465,6 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 </div>
 
 ---
-
 
 ## WARRIORS OF RIVENDELL
 
@@ -572,6 +563,5 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - **Wood Elf spear** `ACTIVE`
 
 This spear may also parry, which uses the rules for Shielding.
-
 
 </div>

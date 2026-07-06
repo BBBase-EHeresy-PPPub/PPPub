@@ -6,7 +6,6 @@ This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Wa
 
 **"Girion, lord of the city, rallied his bowmen to fire upon the beast"** - Captains of Dale and Warriors of Dale have their Shoot value improved to 3+.
 
-
 ## HEROES OF GARRISON OF DALE (GIRION)
 
 <div class="unitCard" markdown>
@@ -43,7 +42,6 @@ A Windlance is a small Siege Engine with Superior Construction. Girion is the on
 
 If Girion hits a target with his great bow, he may shoot at another target within 3" of them, or the same target. If that shot is also a hit, he may shoot again - to a maximum of three shots in total.
 
-
 </div>
 
 ---
@@ -76,7 +74,6 @@ If Girion hits a target with his great bow, he may shoot at another target withi
 
 ---
 
-
 ## WARRIORS OF GARRISON OF DALE (GIRION)
 
 <div class="unitCard" markdown>
@@ -104,7 +101,6 @@ If Girion hits a target with his great bow, he may shoot at another target withi
 - **Wall of Blades** `ACTIVE`
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
-
 
 </div>
 
@@ -137,7 +133,6 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 ---
 
-
 ## SIEGE ENGINES OF GARRISON OF DALE (GIRION)
 
 <div class="unitCard" markdown>
@@ -165,6 +160,5 @@ A Windlance will only scatter 3" rather than 6".
 - **Superior Construction**
 
 Maximum range increased by 12".
-
 
 </div>

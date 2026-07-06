@@ -1,10 +1,10 @@
-﻿Following each game of Battle Companies, both sides will have a few things to work out. You will have to see if those that fell in battle recover, become injured, or perhaps even perish; as well as working out the amount of Experience that each model gains, and if this allows them the chance to promote or potentially become a Hero in their own right. You will also have a chance to spend your hard earned Influence Points on Reinforcements, wargear or other items from the Armoury should you wish. Finally, after all of this has been completed, you will need to work out your new Battle Company Rating ahead of your next game.
+Following each game of Battle Companies, both sides will have a few things to work out. You will have to see if those that fell in battle recover, become injured, or perhaps even perish; as well as working out the amount of Experience that each model gains, and if this allows them the chance to promote or potentially become a Hero in their own right. You will also have a chance to spend your hard earned Influence Points on Reinforcements, wargear or other items from the Armoury should you wish. Finally, after all of this has been completed, you will need to work out your new Battle Company Rating ahead of your next game.
 
-Whilst at first this may seem a little daunting, trust us, it is very easy once you get the hang of it. It is also a good idea to go through this with your opponent so that you can both see how each other has progressed, and chat about the game you just had over a nice cup of tea and a cake! 
+Whilst at first this may seem a little daunting, trust us, it is very easy once you get the hang of it. It is also a good idea to go through this with your opponent so that you can both see how each other has progressed, and chat about the game you just had over a nice cup of tea and a cake!
 
-### STEP 1 — INJURIES
+### STEP 1 - INJURIES
 
-After your battle has reached its natural conclusion, it is time to work out what Injuries, if any, your Battle Company has sustained following their encounter. This is a very important part of maintaining your Battle Company and should be the first thing you do after the battle is finished — ideally while the kettle
+After your battle has reached its natural conclusion, it is time to work out what Injuries, if any, your Battle Company has sustained following their encounter. This is a very important part of maintaining your Battle Company and should be the first thing you do after the battle is finished - ideally while the kettle
 is boiling in the background!
 
 Every model in your Battle Company that was removed from the board as a casualty (with the exception of models that fled the board) must roll to see how their wounds have affected them. Some may make a full recovery, shaking off their injuries and soldiering on; some may be permanently hurt and suffer long-term wounds that may affect them in the future; and others may simply succumb to their wounds and perish upon the field of
@@ -12,11 +12,11 @@ battle.
 
 Warrior models must roll on the Warrior Injury chart, whilst Hero models must roll on the Hero Injury chart if they are removed as a casualty; both of these can be found on pages 10-11. You may have noticed that Warriors are more likely to die than Heroes; this is to reflect the heroic nature of Middle-earth, and also helps to streamline the game, allowing you to focus on the stories and deeds of your Heroes, and prevent too much  bookkeeping getting in the way of having some fun games. Injury rolls should always be done with your opponent present.
 
-Models that fled the board as a result of a failed Courage test do not roll on their respective Injury chart — they only ran away after all. They are assumed to have made a Full Recovery; however, they will not heal any previous wounds as a result of having made a Full Recovery.
+Models that fled the board as a result of a failed Courage test do not roll on their respective Injury chart - they only ran away after all. They are assumed to have made a Full Recovery; however, they will not heal any previous wounds as a result of having made a Full Recovery.
 
-If any model suffers the Dead result when rolling on their respective Injury chart, remove them from your Battle Company Roster — their adventure has come to an abrupt and untimely end. All of their Equipment is lost and cannot be given to another member of the company. If a model's mount fled or was killed during the course of game, do not roll on the Injury chart for it. Instead, it is assumed that they simply get a new mount in time for the next battle, or are reunited with their four-legged friend as they regroup. The only way that a mount can be permanently lost is if the model riding it dies, in which case it is removed from your Battle Company along with all of their other wargear and possessions. 
+If any model suffers the Dead result when rolling on their respective Injury chart, remove them from your Battle Company Roster - their adventure has come to an abrupt and untimely end. All of their Equipment is lost and cannot be given to another member of the company. If a model's mount fled or was killed during the course of game, do not roll on the Injury chart for it. Instead, it is assumed that they simply get a new mount in time for the next battle, or are reunited with their four-legged friend as they regroup. The only way that a mount can be permanently lost is if the model riding it dies, in which case it is removed from your Battle Company along with all of their other wargear and possessions.
 
-### STEP 2 — EXPERIENCE
+### STEP 2 - EXPERIENCE
 
 Once you have resolved all of the Injuries that your Battle Company has suffered, it is time to work out how many Experience Points the members of your Battle Company have earned, and if any of them have gained enough to potentially progress and improve their skills. Experience is gained in a variety of ways, the most common of which are listed below, and is used to calculate when the members of your Battle Company are ready to improve.
 
@@ -42,7 +42,7 @@ Warrior models gain Experience Points in the following ways:
 
 Whenever a Warrior gains 5 Experience Points, they may roll on the Warrior Progression chart found on page 12.
 
-No member of a Battle Company may have more than 105 Experience Points. Should a model reach this lofty total, they cannot increase any further — they have got as good as they can get!
+No member of a Battle Company may have more than 105 Experience Points. Should a model reach this lofty total, they cannot increase any further - they have got as good as they can get!
 
 Some Scenarios may have extra ways to generate Experience during the game. Where this is the case, it will be clearly listed in the Scenario.
 
@@ -50,15 +50,15 @@ If, during a battle, two or more models win a Duel roll and the number of Wounds
 
 ---
 
-*For example: Two Orc Warriors are in combat with a Warrior of Minas Tirith. They win the Duel roll and both score a Wound. As the Warrior of Minas Tirith only has 1 Wound, only one of the Wounds inflicted can count for the purposes of gaining Experience. The player controlling the Orcs chooses which of the Orc Warriors (it cannot be both) has slain the Warrior of Minas Tirith.* 
+*For example: Two Orc Warriors are in combat with a Warrior of Minas Tirith. They win the Duel roll and both score a Wound. As the Warrior of Minas Tirith only has 1 Wound, only one of the Wounds inflicted can count for the purposes of gaining Experience. The player controlling the Orcs chooses which of the Orc Warriors (it cannot be both) has slain the Warrior of Minas Tirith.*
 
 ![](../media/battle_companies/warrior_experience_example.jpg)
 
 ---
 
-### STEP 3 — INFLUENCE
+### STEP 3 - INFLUENCE
 
-Now that you have sorted out your Injuries and Experience, it is time to move onto Influence. This represents the allies of a Battle Company providing them with aid; whether it is Lord Denethor sending reinforcements to a Gondor company embroiled in battle, The Elvenking providing extra provisions to a band of Elves as they roam the pathways of Mirkwood, or Sauron bolstering his forces in Mordor — it is Influence that we use to represent this. The more victories the Battle Company earns, the more resources their allies will send to them in the form of Influence.
+Now that you have sorted out your Injuries and Experience, it is time to move onto Influence. This represents the allies of a Battle Company providing them with aid; whether it is Lord Denethor sending reinforcements to a Gondor company embroiled in battle, The Elvenking providing extra provisions to a band of Elves as they roam the pathways of Mirkwood, or Sauron bolstering his forces in Mordor - it is Influence that we use to represent this. The more victories the Battle Company earns, the more resources their allies will send to them in the form of Influence.
 
 A Battle Company will always gain 2 Influence Points for participating in a Scenario. Additionally, players receive the following:
 
@@ -91,11 +91,11 @@ Unlike wargear, Equipment is not as restricted as to which members of your Battl
 
 Models in your Battle Company cannot swap wargear between each other. However, any model may freely discard any wargear they are currently equipped with.
 
-### STEP 4 — CALCULATE YOUR BATTLECOMPANY'S RATING
+### STEP 4 - CALCULATE YOUR BATTLECOMPANY'S RATING
 
 After you have sorted out all of your Injuries, Experience and Influence, and the effects that has on your Battle Company, it is then time to work out your Battle Company Rating. This is a very important step as, when you play a game, the difference in Battle Company Ratings can have significant impacts on the outcome of that battle.
 
-Whilst at first it may seem tricky, working out your Battle Company Rating is easy, and won't take you very long following your battle — leaving even more time for another exciting encounter!
+Whilst at first it may seem tricky, working out your Battle Company Rating is easy, and won't take you very long following your battle - leaving even more time for another exciting encounter!
 
 **WARRIORS**
 
@@ -118,9 +118,9 @@ below:
 
 - For each special rule that the Hero has gained, add 5 points.
 
-Now that you have worked out the points cost of your Hero, you will need to work out the value of their wargear. The cost of the Hero model's wargear is dependent on the number of Attacks and Wounds the Hero has on their profile. If the number of Attacks and Wounds a Hero has adds up to a total of three or more, they will pay more for their wargear. In the Wargear section of the Armoury (page 18), every piece of wargear will be followed by a set of brackets containing two numbers separated by a slash — e.g., shield (1/5). The first number is the points cost of the piece of wargear if the Attacks and Wounds of the Hero total two or less, whilst the second number is the points cost of the piece of wargear if the Attacks and Wounds of the Hero total three or greater.
+Now that you have worked out the points cost of your Hero, you will need to work out the value of their wargear. The cost of the Hero model's wargear is dependent on the number of Attacks and Wounds the Hero has on their profile. If the number of Attacks and Wounds a Hero has adds up to a total of three or more, they will pay more for their wargear. In the Wargear section of the Armoury (page 18), every piece of wargear will be followed by a set of brackets containing two numbers separated by a slash - e.g., shield (1/5). The first number is the points cost of the piece of wargear if the Attacks and Wounds of the Hero total two or less, whilst the second number is the points cost of the piece of wargear if the Attacks and Wounds of the Hero total three or greater.
 
-Another important thing to note is that a Hero will not pay any points on any wargear that was built into their profile as a Warrior — that cost has already been taken into account.
+Another important thing to note is that a Hero will not pay any points on any wargear that was built into their profile as a Warrior - that cost has already been taken into account.
 
 ---
 

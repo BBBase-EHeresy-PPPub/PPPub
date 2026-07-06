@@ -1,4 +1,4 @@
-﻿Asa battle rages on, warriors become locked in a desperate fight for survival as they clash weapons with their enemies. Arrows rain down upon the battlefield, and mighty heroes lead their followers forward to glory.
+Asa battle rages on, warriors become locked in a desperate fight for survival as they clash weapons with their enemies. Arrows rain down upon the battlefield, and mighty heroes lead their followers forward to glory.
 
 To bring order to this swirling maelstrom of action, the game is divided into a series of turns. Depending on the Scenario, a game could consist of any number of turns. Sometimes, a Scenario will call for the battle to last for a fixed amount of time, whilst on other occasions specific conditions need to be met in order to end the game. These could range from wiping out the opposing side to capturing a relic or a significant area of the battlefield.
 

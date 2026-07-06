@@ -6,7 +6,6 @@ This army may include: Elendil; Isildur; Captain of Numenor; Warrior of Numenor.
 
 **"One by One the Free Lands of Middle-Earth fell to the Power of the Ring. But there were some who resisted."** - Friendly Numenor models from this army list increase their Courage value by 1.
 
-
 ## HEROES OF NUMENOR
 
 <div class="unitCard" markdown>
@@ -49,7 +48,6 @@ A Master-forged hand-and-a-half sword, and may call a Heroic Combat each turn fo
 
 Elendil's Stand Fast! Is 12" rather than 6".
 
-
 </div>
 
 ---
@@ -91,7 +89,6 @@ This model gains the Resistant to Magic special rule whilst within 6" of Elendil
 
 If your force does not contain Elendil or Anarion, Isildur may carry The Ring
 
-
 </div>
 
 ---
@@ -129,11 +126,9 @@ If your force does not contain Elendil or Anarion, Isildur may carry The Ring
 
 This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF NUMENOR
 
@@ -164,6 +159,5 @@ This model gains the Resistant to Magic special rule whilst within 6" of Elendil
 - **Blood of Numenor** `PASSIVE`
 
 This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
-
 
 </div>

@@ -14,15 +14,15 @@
 
 **ORC CAPTAIN [40 points]**
 
-• Warg: 10 points  
-• Orc Bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Orc Bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **ORC SHAMAN [50 points]**
 
-• Warg: 10 points  
-• Swap Weapon: 5 points  
+• Warg: 10 points
+• Swap Weapon: 5 points
 
 **WILD WARG CHIEFTAIN [80 points]**
 
@@ -32,44 +32,44 @@
 
 **GIANT SPIDER [20 points]**
 
-• Venom-back Spider: 0 points  
+• Venom-back Spider: 0 points
 
 **MORIA GOBLIN PROWLER [7 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **MORIA GOBLIN WARRIOR [4 points]**
 
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Swap Weapon: 1 point  
+• Orc Bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Swap Weapon: 1 point
 
 **ORC TRACKER [5 points]**
 
-• Warg: 7 points  
-• Swap Weapon: 1 point  
+• Warg: 7 points
+• Swap Weapon: 1 point
 
 **ORC WARRIOR [5 points]**
 
-• Banner: 25 points  
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Two-Handed Weapon: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc Bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Two-Handed Weapon: 1 point
+• Swap Weapon: 1 point
 
 **WARG MARAUDER [30 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **WARG RIDER [11 points]**
 
-• Banner: 25 points  
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Throwing Spears: 1 point  
-• Swap Weapon: 1 point  
+• Banner: 25 points
+• Orc Bow: 1 point
+• Shield: 1 point
+• Throwing Spears: 1 point
+• Swap Weapon: 1 point
 
 **WILD WARG [7 points]**
 

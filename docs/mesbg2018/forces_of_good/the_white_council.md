@@ -10,7 +10,6 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 **"Are you in need of assistance?"** - A member of the White Council from this army list adds +1 to the dice roll when attempting to Resist magic, so long as there is another member of the White Council from this army list within 6".
 
-
 ## HEROES OF THE WHITE COUNCIL
 
 <div class="unitCard" markdown>
@@ -58,7 +57,6 @@ Saruman's Stand Fast! Range is 12", and affects hero models.
 - **Lord of the Istari** `PASSIVE`
 
 Can re-roll one dice when making Casting or Resist tests.
-
 
 </div>
 
@@ -109,7 +107,6 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 - **Lord of Lorien** `ACTIVE`
 
 Celeborn's Stand Fast! Is 12" rather than 6".
-
 
 </div>
 
@@ -169,7 +166,6 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 
 D6 Foresight points, each point can alter opponents priority by +1/-1.
 
-
 </div>
 
 ---
@@ -222,7 +218,6 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
-
 </div>
 
 ---
@@ -270,7 +265,6 @@ Glorfindel permanently has the Fortify Spirit spell cast upon him.
 - **Lord of the West** `ACTIVE`
 
 Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
-
 
 </div>
 
@@ -327,7 +321,6 @@ Radagast always has Line of Sight to any point on the battlefield. Eagle models 
 
 Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move through difficult terrain without penalty.
 
-
 </div>
 
 ---
@@ -379,6 +372,5 @@ Galadriel can spend a single point of Will each turn for free.
 - **War Aspect** `PASSIVE`
 
 All enemies within 6" suffer -1 Courage, never counts as unarmed.
-
 
 </div>

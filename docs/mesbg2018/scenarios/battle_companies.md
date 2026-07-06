@@ -10,11 +10,11 @@ Both sides must claim as many key areas of the battlefield as possible. Victory 
 
 An objective will only be considered claimed if there are only friendly models within 3" of it. If there are both friendly and enemy models within 3", then it is unclaimed.
 
-Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends — otherwise, the battle continues for another turn!
+Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends - otherwise, the battle continues for another turn!
 
-- **Victory** — Your Battle Company has claimed more objectives than your opponent's. 
-- **Defeat** — Your Opponent's Battle Company has claimed more objectives than yours. 
-- **Draw** — Both Battle Companies have claimed the same number of
+- **Victory** - Your Battle Company has claimed more objectives than your opponent's.
+- **Defeat** - Your Opponent's Battle Company has claimed more objectives than yours.
+- **Draw** - Both Battle Companies have claimed the same number of
 objectives.
 
 ![](../media/scenarios/battle_companies/seize_ground.jpg)
@@ -31,15 +31,15 @@ Place an Objective marker in the centre of the board; this is what both sides ar
 
 Both sides are seeking to lay claim to the objective, and must not only fight their way to it, but also defend it once there.
 
-Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends — otherwise, the battle continues for another turn!
+Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends - otherwise, the battle continues for another turn!
 
-- **Victory** — Your Battle Company has at least twice as many models within 3" of the objective than your opponent's.
-- **Defeat** — Your opponent's Battle Company has at least twice as many models within 3" of the objective than yours.
-- **Draw** — Any other situation.
+- **Victory** - Your Battle Company has at least twice as many models within 3" of the objective than your opponent's.
+- **Defeat** - Your opponent's Battle Company has at least twice as many models within 3" of the objective than yours.
+- **Draw** - Any other situation.
 
 **SPECIAL RULES**
 
-* **Wild Search** 
+* **Wild Search**
 
 At the end of your Move phase, roll a D6 for each of your models not on the battlefield and consult the chart below (**Hero** models can use Might to alter the roll either up or down). Models can't Charge in the turn that they arrive but otherwise act normally. Roll for each model separately, deploy the model, then roll for the next. Models yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
@@ -70,11 +70,11 @@ Whichever leader can slay the most will be the victor. Note that if your leader 
 
 The game lasts until the end of a turn in which one Battle Company has been reduced to 25% of its starting models.
 
-- **Victory** — Your leader has killed more models than your opponent's.
+- **Victory** - Your leader has killed more models than your opponent's.
 
-- **Defeat** — Your opponent's leader has killed more models than yours.
+- **Defeat** - Your opponent's leader has killed more models than yours.
 
-- **Draw** — Both leaders have killed the same number of models.
+- **Draw** - Both leaders have killed the same number of models.
 
 ![](../media/scenarios/battle_companies/a_show_of_strength.jpg)
 
@@ -94,9 +94,9 @@ Whichever Battle Company can hold the most objectives will be the winner.
 
 The game lasts until the end of a turn in which one Battle Company has been reduced to 25% of its starting models.
 
-- **Victory** — Your Battle Company holds more objectives than your opponent's. 
-- **Defeat** — Your opponent's Battle Company holds more objectives than yours. 
-- **Draw** — Both Battle Companies hold the same number of objectives.
+- **Victory** - Your Battle Company holds more objectives than your opponent's.
+- **Defeat** - Your opponent's Battle Company holds more objectives than yours.
+- **Draw** - Both Battle Companies hold the same number of objectives.
 
 **SPECIAL RULES**
 
@@ -120,9 +120,9 @@ The defending player must try to defend the gate by having their Battle Company 
 
 Once one Battle Company is reduced to less than 50% of its starting numbers, the game may suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2 the game ends, otherwise it continues for another turn.
 
-- **Attacker Victory** — The Attacker has more models within 6" of the gate. 
-- **Defender Victory** — The Defender has more models within 6" of the gate. 
-- **Draw** — Any other result.
+- **Attacker Victory** - The Attacker has more models within 6" of the gate.
+- **Defender Victory** - The Defender has more models within 6" of the gate.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -148,9 +148,9 @@ The Battle Companies are searching for the relic, and once it is found, they mus
 
 The game lasts until either the relic has been moved off of one board edge, or there are no models left on the battlefield.
 
-- **Victory** — Your Battle Company has moved the relic off of your opponent's table edge. 
-- **Defeat** — Your opponent's Battle Company has moved the relic off your table edge. 
-- **Draw** — Neither Battle Company recovers the relic.
+- **Victory** - Your Battle Company has moved the relic off of your opponent's table edge.
+- **Defeat** - Your opponent's Battle Company has moved the relic off your table edge.
+- **Draw** - Neither Battle Company recovers the relic.
 
 **SPECIAL RULES**
 
@@ -180,9 +180,9 @@ The leaders of both Battle Companies are looking for a quick victory, without ta
 
 The game lasts until the end of a turn in which one Battle Company has been reduced to 25% of its starting models.
 
-- **Victory** — Your opponent's Battle Company has been reduced to 25% of its starting models and yours has not. 
-- **Defeat** — Your Battle Company has been reduced to 25% of its starting models and your opponent's has not.
-- **Draw** — Both Battle Companies have been reduced to 25% in the same turn.
+- **Victory** - Your opponent's Battle Company has been reduced to 25% of its starting models and yours has not.
+- **Defeat** - Your Battle Company has been reduced to 25% of its starting models and your opponent's has not.
+- **Draw** - Both Battle Companies have been reduced to 25% in the same turn.
 
 ![](../media/scenarios/battle_companies/chance_encounter.jpg)
 
@@ -202,15 +202,15 @@ Both Battle Companies need to find their enemy's messenger and slay them, but en
 
 The game lasts until the end of a turn in which one Battle Company has been reduced to 25% of its starting models.
 
-- **Victory** — Your Battle Company has slain the enemy messenger and yours is alive. 
-- **Defeat** — Your opponent's Battle Company has slain your messenger and their messenger is alive. 
-- **Draw** — Both messengers are either alive or have been slain.
+- **Victory** - Your Battle Company has slain the enemy messenger and yours is alive.
+- **Defeat** - Your opponent's Battle Company has slain your messenger and their messenger is alive.
+- **Draw** - Both messengers are either alive or have been slain.
 
 **SPECIAL RULES**
 
 * **The Messenger**
 
-At the start of the game, secretly note down which of your models is the messenger (this may not be a **Hero**) — they must survive the game. It is important to not reveal if your opponent has killed your messenger during the game, so as not to hand the advantage over to your opponent. The idea of this Scenario is to try to bluff your opponent into thinking that someone who is not your messenger is, so that they kill them instead of the real messenger.
+At the start of the game, secretly note down which of your models is the messenger (this may not be a **Hero**) - they must survive the game. It is important to not reveal if your opponent has killed your messenger during the game, so as not to hand the advantage over to your opponent. The idea of this Scenario is to try to bluff your opponent into thinking that someone who is not your messenger is, so that they kill them instead of the real messenger.
 
 ![](../media/scenarios/battle_companies/kill_the_messenger.jpg)
 
@@ -230,9 +230,9 @@ Both Battle Companies are fighting for survival against the oncoming Wargs, yet 
 
 The game lasts until either all the Fell Wargs have been slain, or both Battle Companies have been wiped out.
 
-- **Victory** — Your Battle Company has models alive and has killed more Fell Wargs than the opposing company. 
-- **Defeat** — Your opponent's Battle Company has models alive and has killed more Fell Wargs than your company. 
-- **Draw** — Any other result.
+- **Victory** - Your Battle Company has models alive and has killed more Fell Wargs than the opposing company.
+- **Defeat** - Your opponent's Battle Company has models alive and has killed more Fell Wargs than your company.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -262,9 +262,9 @@ Both companies are trying to capture the outpost for themselves.
 
 Once the outpost's defenders have been reduced to 50% or less of their starting numbers, the game may suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2 the game ends, otherwise it continues for another turn.
 
-- **Victory** — Your Battle Company has the most models within the outpost. 
-- **Defeat** — Your Opponent's Battle Company has the most models within the outpost. 
-- **Draw** — Any other result.
+- **Victory** - Your Battle Company has the most models within the outpost.
+- **Defeat** - Your Opponent's Battle Company has the most models within the outpost.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -292,9 +292,9 @@ Both companies have made it their mission to slay the Troll, whichever is succes
 
 The game continues until either the Troll has been slain, or no other models remain on the board.
 
-- **Victory** — Your Battle Company has slain the Troll. 
-- **Defeat** — Your Opponent's Battle Company has slain the Troll. 
-- **Draw** — Neither Battle Company has slain the Troll.
+- **Victory** - Your Battle Company has slain the Troll.
+- **Defeat** - Your Opponent's Battle Company has slain the Troll.
+- **Draw** - Neither Battle Company has slain the Troll.
 
 **SPECIAL RULES**
 
@@ -322,9 +322,9 @@ The attacking Battle Company must have as many of their models escape the board 
 
 The game lasts until the Attacker has no more models left on the battlefield.
 
-- **Attacker Victory** — At least 33% of the Attacker's Battle Company escaped the board via the northern board edge. 
-- **Defender Victory** — Less than 33% of the Attacker's Battle Company escaped the board via the northern board edge 
-- **Draw** — This Scenario cannot be drawn.
+- **Attacker Victory** - At least 33% of the Attacker's Battle Company escaped the board via the northern board edge.
+- **Defender Victory** - Less than 33% of the Attacker's Battle Company escaped the board via the northern board edge
+- **Draw** - This Scenario cannot be drawn.
 
 **SPECIAL RULES**
 
@@ -348,9 +348,9 @@ The Defender has been tasked with keeping the hill at all costs, whilst the Atta
 
 The game lasts until the end of a turn in which one Battle Company has been reduced to 25% of its starting models.
 
-- **Attacker Victory** — The Attacker has more models on the hill. 
-- **Defender Victory** — The Defender has more models on the hill. 
-- **Draw** — Both Battle Companies have the same number of models on the hill.
+- **Attacker Victory** - The Attacker has more models on the hill.
+- **Defender Victory** - The Defender has more models on the hill.
+- **Draw** - Both Battle Companies have the same number of models on the hill.
 
 **SPECIAL RULES**
 
@@ -374,9 +374,9 @@ The defending player must try to save their **Hero** whilst trying to fend off t
 
 The game ends when either the target **Hero** is slain, or the Attacker's Battle Company is reduced to less than 50% of its starting numbers.
 
-- **Attacker Victory** — The Defender's **Hero** has been slain. 
-- **Defender Victory** — The Attacker's Battle Company has been reduced to less than 50% of its starting models. 
-- **Draw** — Both sides achieve their objective in the same turn.
+- **Attacker Victory** - The Defender's **Hero** has been slain.
+- **Defender Victory** - The Attacker's Battle Company has been reduced to less than 50% of its starting models.
+- **Draw** - Both sides achieve their objective in the same turn.
 
 **SPECIAL RULES**
 
@@ -406,11 +406,11 @@ The board will require a camp. This should be the area within 6" of the centre o
 
 The Attacker must set the objectives alight, destroying the Defender's provisions and equipment, and rendering them all but helpless.
 
-Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends — otherwise, the battle continues for another turn!
+Once one Battle Company has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends - otherwise, the battle continues for another turn!
 
-- **Attacker Victory** — At least four objectives have been set alight. 
-- **Defender Victory** — No more than two objectives have been set alight. 
-- **Draw** — Three objectives have been set alight.
+- **Attacker Victory** - At least four objectives have been set alight.
+- **Defender Victory** - No more than two objectives have been set alight.
+- **Draw** - Three objectives have been set alight.
 
 **SPECIAL RULES**
 
@@ -444,9 +444,9 @@ The Attacker is trying to rescue their **Hero** from enemy hands, whilst the Def
 
 The game lasts until either the captured **Hero** escapes the board or is slain.
 
-- **Attacker Victory** — The captured **Hero** moves off the board via any table edge. 
-- **Defender Victory** — The captured **Hero** is slain. 
-- **Draw** — Any other result.
+- **Attacker Victory** - The captured **Hero** moves off the board via any table edge.
+- **Defender Victory** - The captured **Hero** is slain.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -456,7 +456,7 @@ The captured **Hero** is still a member of the Attacker's Battle Company, and wi
 
 * **Shackled by the Enemy**
 
-The prisoner has had their hands bound by their captors and their weapons and other wargear taken from them. The **Hero** counts as unarmed and is without any wargear such as shields, bows or other equipment (though they do still keep their armour). Whilst bound, the prisoner may only ever make a single Attack and may not declare Heroic Actions. An Attacker's model may free the prisoner from their bonds during the End phase of any turn in which they are in base contact with the prisoner and did not participate in a Fight in the preceding Fight phase. Once the prisoner has been freed, they no longer count as being unarmed — they count as being armed with a dagger for the remainder of the Scenario.
+The prisoner has had their hands bound by their captors and their weapons and other wargear taken from them. The **Hero** counts as unarmed and is without any wargear such as shields, bows or other equipment (though they do still keep their armour). Whilst bound, the prisoner may only ever make a single Attack and may not declare Heroic Actions. An Attacker's model may free the prisoner from their bonds during the End phase of any turn in which they are in base contact with the prisoner and did not participate in a Fight in the preceding Fight phase. Once the prisoner has been freed, they no longer count as being unarmed - they count as being armed with a dagger for the remainder of the Scenario.
 
 ![](../media/scenarios/battle_companies/a_daring_rescue.jpg)
 
@@ -476,9 +476,9 @@ The Defender is trying to escape to safety with as many of their Baggage Ponies 
 
 The game lasts until either Battle Company has been reduced to 25% of their starting number.
 
-- **Attacker Victory** — At least three pieces of cargo and at least one model that is not a Baggage Pony have escaped the board via the northern board edge. 
-- **Defender Victory** — The Defender has at least three pieces of cargo in their possession at the end of the game. 
-- **Draw** — Any other result.
+- **Attacker Victory** - At least three pieces of cargo and at least one model that is not a Baggage Pony have escaped the board via the northern board edge.
+- **Defender Victory** - The Defender has at least three pieces of cargo in their possession at the end of the game.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -504,7 +504,7 @@ If a Baggage Pony is slain or flees the battlefield, place a 25mm Cargo marker w
 
 **STARTING POSITIONS**
 
-The board will require a camp. This should be the area within 6" of the centre of the board marked with fences, hedges or other similar features. The camp should contain a few tents, huts or similar. Both players roll a D6, with the lowest scoring player becoming the Defender. The Defender deploys their Battle Company anywhere within the camp with their leader (or most expensive **Hero** if their leader is missing the game) in the middle of the board. The Attacker may then deploy their Battle Company anywhere at least 6" away from the camp. 
+The board will require a camp. This should be the area within 6" of the centre of the board marked with fences, hedges or other similar features. The camp should contain a few tents, huts or similar. Both players roll a D6, with the lowest scoring player becoming the Defender. The Defender deploys their Battle Company anywhere within the camp with their leader (or most expensive **Hero** if their leader is missing the game) in the middle of the board. The Attacker may then deploy their Battle Company anywhere at least 6" away from the camp.
 
 **OBJECTIVES**
 
@@ -512,9 +512,9 @@ The Attacker must try to slay the enemy leader without suffering too many casual
 
 The game ends when either the Defender's **Hero** is slain, or the Attacker's Battle Company is reduced to less than 50% of its starting numbers.
 
-- **Attacker Victory** — The Defender's **Hero** has been slain. 
-- **Defender Victory** — The Attacker's warband has been reduced to less than 50% of its starting models. 
-- **Draw** — Both objectives have been completed in the same turn.
+- **Attacker Victory** - The Defender's **Hero** has been slain.
+- **Defender Victory** - The Attacker's warband has been reduced to less than 50% of its starting models.
+- **Draw** - Both objectives have been completed in the same turn.
 
 **SPECIAL RULES**
 
@@ -551,15 +551,15 @@ The board represents the village of Bree, and as such should have plenty of hous
 
 **STARTING POSITIONS**
 
-The Battle Company deploys within 3" of the front door of the Prancing Pony. The Ruffians then deploy anywhere at least 12" away from any member of the Battle Company — it is a good idea to spread them out so that they can cover all routes of escape.
+The Battle Company deploys within 3" of the front door of the Prancing Pony. The Ruffians then deploy anywhere at least 12" away from any member of the Battle Company - it is a good idea to spread them out so that they can cover all routes of escape.
 
 **OBJECTIVES**
 
 Your company must evade the clutches of the Ruffians and escape the village of Bree unscathed. The Ruffians are trying to beat down the company in order to claim whatever riches they can. The game lasts until there are no models from the Battle Company left on the board.
 
-- **Victory** — At least 50% of your Battle Company escape the board via the required board edge. 
-- **Defeat** — Less than 25% of your Battle Company escape the board via the required board edge.
-- **Draw** — Any other result.
+- **Victory** - At least 50% of your Battle Company escape the board via the required board edge.
+- **Defeat** - Less than 25% of your Battle Company escape the board via the required board edge.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -580,7 +580,7 @@ At the start of the game, after both forces have been deployed, roll a D6 to fin
 
 * **A Petty Squabble**
 
-Ruffians may not use their bows in the Shoot phase.  Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.  
+Ruffians may not use their bows in the Shoot phase.  Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.
 
 * **Important Knowledge**
 
@@ -629,9 +629,9 @@ The company must clear the ruins of their foes, before they are themselves force
 
 The game lasts until the end of a turn in which one force has completed their objective.
 
-- **Victory** — The Barrow-wight has been slain. 
-- **Defeat** — Your Battle Company has been wiped out. 
-- **Draw** — Both sides complete their objective in the same turn.
+- **Victory** - The Barrow-wight has been slain.
+- **Defeat** - Your Battle Company has been wiped out.
+- **Draw** - Both sides complete their objective in the same turn.
 
 **SPECIAL RULES**
 
@@ -658,11 +658,11 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | D6 | Result                                                                                                                                                                    |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Your Battle Company gains an additional 1 Influence Point.                              |
-| 2  | Do not make any Injury rolls for the members of your company — they all count as making a Full Recovery. |
+| 2  | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. |
 | 3  | One **Hero** in your company may have this Ancient Dagger. This is a dagger. Additionally, when making Strikes with the Ancient Dagger, the bearer never needs more than a 5+ To Wound an enemy. |
 | 4  | Your leader gains the Healing Herbs piece of equipment. |
 | 5  | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the Bane of Kings special rule. |
-| 6  | One Hero in your company may have this stone shard — this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
+| 6  | One Hero in your company may have this stone shard - this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -684,11 +684,11 @@ Your Battle Company deploys within 3" of the campfire. The Wargs then deploy any
 
 **OBJECTIVES**
 
-Your company must fend off the Wargs quickly, before their howls draw even more to your camp. Should your company manage to fell the pack's leader, the other Wargs may begin to flee. Once the Warg force has been Broken, the game may suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends — otherwise, the battle continues for another turn!
+Your company must fend off the Wargs quickly, before their howls draw even more to your camp. Should your company manage to fell the pack's leader, the other Wargs may begin to flee. Once the Warg force has been Broken, the game may suddenly end. At the end of each turn after this condition has been met, roll a D6. On the result of 1-2, the game ends - otherwise, the battle continues for another turn!
 
-- **Victory** — Your Battle Company is unbroken. 
-- **Defeat** — Your Battle Company has been wiped out. 
-- **Draw** — Any other result.
+- **Victory** - Your Battle Company is unbroken.
+- **Defeat** - Your Battle Company has been wiped out.
+- **Draw** - Any other result.
 
 **SPECIAL RULES**
 
@@ -749,9 +749,9 @@ Your Battle Company deploys anywhere within 12" of the south-east corner of the 
 
 The company must reach the relative safety of the banks of the Icebay before they suffer too many casualties. The game lasts until the end of a turn in which one force completes their objective.
 
-- **Victory** — All surviving members of your Battle Company are wholly within the banks of the Icebay during the End phase of a turn. 
-- **Defeat** — Your Battle Company has been reduced to 25% of its starting numbers.
-- **Draw** — Both sides complete their objective in the same turn.
+- **Victory** - All surviving members of your Battle Company are wholly within the banks of the Icebay during the End phase of a turn.
+- **Defeat** - Your Battle Company has been reduced to 25% of its starting numbers.
+- **Draw** - Both sides complete their objective in the same turn.
 
 **SPECIAL RULES**
 
@@ -761,7 +761,7 @@ The ice follows the same rules for Slippery Walkways, as presented on **page 87*
 
 * **Breaking the Ice**
 
-At the end of each model's Movement where they are at least partially on the ice, roll a D6. On a 2+ everything is fine. On the roll of a 1, they slip — roll a further D6. On a 6, the model keeps their footing, however, they may only move half their Move allowance next turn. On a 2-5, the model is knocked Prone. On the roll of a 1, the ice breaks and the model falls into the freezing waters of Forochel — remove the model as a casualty. Any model from your Battle Company removed in this way suffers a -1 penalty when making their Injury roll.
+At the end of each model's Movement where they are at least partially on the ice, roll a D6. On a 2+ everything is fine. On the roll of a 1, they slip - roll a further D6. On a 6, the model keeps their footing, however, they may only move half their Move allowance next turn. On a 2-5, the model is knocked Prone. On the roll of a 1, the ice breaks and the model falls into the freezing waters of Forochel - remove the model as a casualty. Any model from your Battle Company removed in this way suffers a -1 penalty when making their Injury roll.
 
 **PARTICIPANTS**
 
@@ -780,7 +780,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | D6 | Result                                                                                                                                                                        |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Your Battle Company gains an additional 1 Influence Point.                                       |
-| 2  | Do not make any Injury rolls for the members of your company — they all count as making a Full Recovery. However, models that were removed as a casualty by falling through the ice must still roll as normal. |
+| 2  | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. However, models that were removed as a casualty by falling through the ice must still roll as normal. |
 | 3  | Permanently add one Tribesfolk to your company. The Tribesfolk follows the profile for a Dunlending Warrior. |
 | 4  | Permanently add a Sage to your Battle Company. |
 | 5  | One **Hero** in your Battle Company may have this amulet. Whenever a friendly model within 6" of the bearer suffers a wound, roll a D6. On the roll of a Natural 6 the wound is ignored. |
@@ -806,15 +806,15 @@ The Cave Drake is deployed 12" from the centre of the northern board edge, as sh
 
 **OBJECTIVES**
 
-This is a fight to the death; the company must slay the Cave Drake and the Goblins, or die in the attempt. The Scenario continues until once force is wiped out — it's do or die!
+This is a fight to the death; the company must slay the Cave Drake and the Goblins, or die in the attempt. The Scenario continues until once force is wiped out - it's do or die!
 
-- **Victory** — The Cave Drake and all Goblins have been slain. 
-- **Defeat** — The Battle Company has been wiped out. 
-- **Draw** — Both forces are wiped out in the same turn.
+- **Victory** - The Cave Drake and all Goblins have been slain.
+- **Defeat** - The Battle Company has been wiped out.
+- **Draw** - Both forces are wiped out in the same turn.
 
 **SPECIAL RULES**
 
-* **The Last Stand** 
+* **The Last Stand**
 
 The company knows that this is their final test, and they will not back down under any circumstances. Neither side will Break in this Scenario, they will simply fight until one side has been wiped out!
 
@@ -836,12 +836,12 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 | D6 | Result                                                                                                                                                                          |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Every **Hero** in your Battle Company gains a single Point of either Might, Will or Fate — this can even be used to take your **Hero** above the usual maximum of 3/3/3. |
-| 2  | **Armour of Arthedain** — A single **Hero** in your Battle Company may be given the Armour of Arthedain. This is heavy armour. Additionally, a model wearing this armour will only ever suffer a wound on the roll of a natural 6. |
-| 3  | **Circlet of Annúminas** — A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
-| 4  | **Shield of Arnor** — A single **Hero** in your Battle Company may be given the Shield of Arnor. This is a shield. Additionally, each time an enemy model makes a Strike against a model with the Shield of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
-| 5  | **Daggers of Gondolin** — A single **Hero** in your Battle Company may be given the Daggers of Gondolin. These are a pair of Elven-made daggers. Additionally, the bearer of these daggers adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these daggers may not use a shield or missile weapon when they fight with them. |
-| 6  | **Axe of the Blue Mountains** — A single **Hero** in your Battle Company may be given the Axe of the Blue Mountains. This is a Master-forged two-handed axe. Additionally, each wound dealt by this weapon is subject to the Mighty Blow special rule. |
+| 1  | Every **Hero** in your Battle Company gains a single Point of either Might, Will or Fate - this can even be used to take your **Hero** above the usual maximum of 3/3/3. |
+| 2  | **Armour of Arthedain** - A single **Hero** in your Battle Company may be given the Armour of Arthedain. This is heavy armour. Additionally, a model wearing this armour will only ever suffer a wound on the roll of a natural 6. |
+| 3  | **Circlet of Annúminas** - A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
+| 4  | **Shield of Arnor** - A single **Hero** in your Battle Company may be given the Shield of Arnor. This is a shield. Additionally, each time an enemy model makes a Strike against a model with the Shield of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
+| 5  | **Daggers of Gondolin** - A single **Hero** in your Battle Company may be given the Daggers of Gondolin. These are a pair of Elven-made daggers. Additionally, the bearer of these daggers adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these daggers may not use a shield or missile weapon when they fight with them. |
+| 6  | **Axe of the Blue Mountains** - A single **Hero** in your Battle Company may be given the Axe of the Blue Mountains. This is a Master-forged two-handed axe. Additionally, each wound dealt by this weapon is subject to the Mighty Blow special rule. |
 
 Results 2-6 will add an extra 30 points to the value of whichever model is carrying the item they have gained when working out your Battle Company's Rating.
 
@@ -909,15 +909,15 @@ Set up terrain as described in the main rules manual.
 
 **STARTING POSITIONS**
 
-Both players roll a D6 — the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
+Both players roll a D6 - the player with the highest result chooses one of the deployment zones. They then select a warband in their force to deploy within 24" of their board edge. Models may not be deployed further than 6" from the captain of their warband.
 
 When this has been done, the opposing player chooses one of their warbands and deploys it within 24" of their board edge as described above. Players then alternate until all warbands have been placed.
 
-Both players' Battle Companies are kept to one side — these will be available later in the game.
+Both players' Battle Companies are kept to one side - these will be available later in the game.
 
 **INITIAL PRIORITY**
 
-Both players roll a D6. The player with the highest score has Priority in the first turn.   
+Both players roll a D6. The player with the highest score has Priority in the first turn.
 
 **OBJECTIVES**
 

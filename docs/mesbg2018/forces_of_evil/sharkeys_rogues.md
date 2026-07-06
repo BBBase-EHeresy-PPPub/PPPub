@@ -6,7 +6,6 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 **"You do what Sharkey says!"** - Sharkey's Stand Fast! affects the entire battlefield. Additionally, a force (or allied contingent) that contains models solely from the Sharkey's Rogues list may include warbands of 10-12 Ruffians without the need for a Hero to lead them. In these warbands, nominate a single Warrior model within the warband as the captain for the purposes of deployment, etc.
 
-
 ## HEROES OF SHARKEY'S ROGUES
 
 <div class="unitCard" markdown>
@@ -57,7 +56,6 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 Never counts as being unarmed.
 
-
 </div>
 
 ---
@@ -88,7 +86,6 @@ At the start of the game, Bill may choose an enemy warband to spy on. In Scenari
 
 Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
 
-
 </div>
 
 ---
@@ -118,7 +115,6 @@ The area within 12" of Harry is illuminated. Models within this area can be seen
 - **Gatekeeper** `ACTIVE`
 
 After Priority has been rolled, Harry may spent a point of Will and choose one enemy Infantry model within 6" and in LoS of Harry, and roll a D6. On a 3+, that model cannot move that turn, but may perform any other action as normal.
-
 
 </div>
 
@@ -160,7 +156,6 @@ Lotho may spend his Will points to pay off models around him, in the following t
 
 Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
-
 </div>
 
 ---
@@ -193,7 +188,6 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+, it is set on fire. Any model touching it must roll a D6. On 4+, they are Set Ablaze.
 
-
 </div>
 
 ---
@@ -223,7 +217,6 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 
 A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
 
-
 </div>
 
 ---
@@ -250,11 +243,9 @@ A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 
 
 Ted may include only include Hobbit models in his warband, and may include Hobbit Militia as if they were from Sharkey's Rogues army list.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF SHARKEY'S ROGUES
 
@@ -309,6 +300,5 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 - **At 'em Lads!** `ACTIVE`
 
 A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
-
 
 </div>

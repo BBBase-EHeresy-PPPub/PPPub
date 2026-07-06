@@ -1,4 +1,4 @@
-﻿## DEFENCE OF OSGILIATH
+## DEFENCE OF OSGILIATH
 
 **LAYOUT**
 
@@ -881,23 +881,23 @@ For this mini-game, we will not be using the normal Strategy Battle Game rules, 
 
 At the start of each turn, each model is allocated the number of APs that is stated in their statline - this is all that they will get for that turn. Starting with the Good player, both players take turns activating a model that has APs remaining (a model that has no APs cannot be selected) until both players have used up all of the APs their side has been allocated.
 
-During a model's activation, it may spend any number of APs available to that model to make any of the Basic Actions that follow. 
+During a model's activation, it may spend any number of APs available to that model to make any of the Basic Actions that follow.
 
 A model that is activated must spend at least one AP during its activation, but does not have to spend all of its APs if it has more than one - this may mean that a model can activate multiple times over the course of a turn.
 
-Once both players have spent all of their APs, the turn ends and a new one begins. APs are re-allocated to the models and play resumes with the Good player once more. 
+Once both players have spent all of their APs, the turn ends and a new one begins. APs are re-allocated to the models and play resumes with the Good player once more.
 
 **BASIC ACTIONS**
 
-**Moving:** Cost - 1 AP  
+**Moving:** Cost - 1 AP
 
 Any model may move during its turn by spending any amount of APs it has available. For each AP spent in this way, the model may move 1" or move up or down a level in the Howdah. When moving up or down a level, simply place the model in the nearest space available in the level they wish to move to, as close to where they started their move as possible.
 
-**Shooting:** Cost - 1 AP  
+**Shooting:** Cost - 1 AP
 
 Any model armed with a ranged weapon may fire it at an enemy model that it can see. For each AP spent, the model declares which ranged weapon they are using and rolls a D6. If the result of this roll is equal to or greater than the model's Shoot value, then a hit is scored. For each hit that is scored, you will need to roll To Wound. Each ranged weapon will state what D6 score is required to cause a Wound, and for each roll of a D6 that matches or exceeds this roll, the target suffers a Wound. A model may shoot at a target that is on the same level or the one below without penalty. However, if a model shoots at a target that is on a higher level and causes a Wound, the Wound will be ignored on a D6 roll of a 4+.
 
-**Fighting:** Cost - 1 AP  
+**Fighting:** Cost - 1 AP
 
 Any model may fight an enemy that is within 1" and on the same level of the Howdah. For each AP spent, the model declares which combat weapon they are using and rolls a number of D6 equal to their Combat value. Each weapon will state what D6 score is required to cause a Wound, and for each roll of a D6 that matches this roll, the target suffers a Wound.
 
@@ -907,15 +907,15 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 | --- | --- | ---| ---|
 | 6   | 3+  | 2  | 3  |
 
-**RANGED WEAPON:**  
+**RANGED WEAPON:**
 
 **Elf Bow**: Score to Wound - 3+
 
-**COMBAT WEAPON:**  
+**COMBAT WEAPON:**
 
 **Daggers**: Score to Wound - 4+
 
-**ABILITIES:**  
+**ABILITIES:**
 
 **Elven Agility:** Each time Legolas suffers a wound, he may spend 1 AP to use this ability. Roll a D6. On a 2+, the wound is ignored.
 
@@ -925,15 +925,15 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 | --- | --- | ---| ---|
 | 1   | 4+  | 1  | 1  |
 
-**RANGED WEAPON:**  
+**RANGED WEAPON:**
 
 **Bow**: Score to Wound - 5+
 
-**COMBAT WEAPON:**  
+**COMBAT WEAPON:**
 
 **Dagger**: Score to Wound - 6+
 
-**ABILITIES:**  
+**ABILITIES:**
 
 **Poisoned Bow:** This model may re-roll To Wound rolls of a 1 when shooting.
 
@@ -943,15 +943,15 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 | --- | --- | ---| ---|
 | 1   | -   | 1  | 1  |
 
-**RANGED WEAPON:**  
+**RANGED WEAPON:**
 
 None
 
-**COMBAT WEAPON:** 
+**COMBAT WEAPON:**
 
 Spear: Score to Wound - 5+
 
-**ABILITIES:**  
+**ABILITIES:**
 
 **Poisoned Spear:** This model may re-roll To Wound rolls of a 1 when fighting.
 
@@ -961,15 +961,15 @@ Spear: Score to Wound - 5+
 | --- | --- | ---| ---|
 | 3   | -   | 2  | 2  |
 
-**RANGED WEAPON:**  
+**RANGED WEAPON:**
 
 None
 
-**COMBAT WEAPON:**  
+**COMBAT WEAPON:**
 
 Spear: Score to Wound - 5+
 
-**ABILITIES:**  
+**ABILITIES:**
 
 **Lethal Poison:** This model may re-roll all To Wound rolls when fighting.
 
@@ -1041,11 +1041,11 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age and has ma
 
 Any Rohan model that charged in the Move phase may declare a Heroic Combat in the ensuing Fight phase without spending Might. This may be done by both Warrior models and Hero models.
 
-* **Dol Amroth for Gondor!** 
+* **Dol Amroth for Gondor!**
 
 At the end of the first Good Move phase, the Good player moves the Gondor force onto the board, via the Gates of Minas Tirith.
 
-* **Men from the South** 
+* **Men from the South**
 
 At the end of the Evil player's fifth Move phase, the Evil player moves the Harad force onto the board, via the southern board edge.
 

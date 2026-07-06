@@ -1,4 +1,4 @@
-﻿## FARMER MAGGOT'S CROP
+## FARMER MAGGOT'S CROP
 
 **LAYOUT**
 
@@ -18,7 +18,7 @@ The 'Evil' side wins immediately if they can gather five Plunder Tokens at the S
 
 * **Definitely not Life or Death**
 
-In this Scenario, the Hobbits are wounded in a special way. Frodo, Sam, Merry, and Pippin have 3 Wounds each, but no Might, Will, or Fate. If one of the Hobbits suffers 3 Wounds, the amount of dog bites and bruises they have gathered is enough to make them flee — remove them from the board. Frodo may not use the Ring in this Scenario.
+In this Scenario, the Hobbits are wounded in a special way. Frodo, Sam, Merry, and Pippin have 3 Wounds each, but no Might, Will, or Fate. If one of the Hobbits suffers 3 Wounds, the amount of dog bites and bruises they have gathered is enough to make them flee - remove them from the board. Frodo may not use the Ring in this Scenario.
 
 * **Farmer Maggot**
 
@@ -30,7 +30,7 @@ No Hobbit may make Strikes against Farmer Maggot or target him with stones. The 
 
 * **Loot and Plunder**
 
-If, during the End phase of any turn, any of the Hobbits are within Maggot's field and did not fight or shoot that turn, they immediately gain a Plunder Token — this is a Light Object.
+If, during the End phase of any turn, any of the Hobbits are within Maggot's field and did not fight or shoot that turn, they immediately gain a Plunder Token - this is a Light Object.
 
 If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately drop the token within 1" of itself. Hobbits may only carry one Plunder Token at a time and may only voluntarily drop them when in base contact with the Stash Marker.
 
@@ -258,7 +258,7 @@ If he passes, everything is fine; however, if he fails, he must put the Ring on.
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn — Strider; Barliman Butterbur; Harry Goatleaf.
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Barliman Butterbur; Harry Goatleaf.
 
 **Evil:** 4 Ringwraiths on horse with no additional Might, Will, or Fate.
 
@@ -300,7 +300,7 @@ Until the end of the turn, all Good models reduce their Courage value by 3. If t
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn — Strider.
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider.
 
 **Evil:** The Witch-king of Angmar with Morgul Blade; 4 Ringwraiths, each with no additional Might, Will, or Fate.
 
@@ -342,7 +342,7 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn — Strider; Arwen Undómiel on Asfaloth.
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Arwen Undómiel on Asfaloth.
 
 **Evil:** The Witch-king of Angmar on horse, and 8 Ringwraiths on horse, each with no additional Might, Will, or Fate.
 
@@ -356,7 +356,7 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 
 **SET-UP**
 
-For this mini-game, you will need a pack of ordinary playing cards. Separate the cards into suits; shuffle the hearts and diamonds together and deal them face-down as shown above — this is the Pass of Caradhras. Give the spades and clubs to the Evil player, which makes up their hand.
+For this mini-game, you will need a pack of ordinary playing cards. Separate the cards into suits; shuffle the hearts and diamonds together and deal them face-down as shown above - this is the Pass of Caradhras. Give the spades and clubs to the Evil player, which makes up their hand.
 
 **STARTING POSITIONS**
 
@@ -368,7 +368,7 @@ The Fellowship are trying to cross the Misty Mountains on the way to Mordor. How
 
 **GAME TURN**
 
-At the beginning of each turn, the Evil player places one card from their hand face-down — this is where Saruman is trying to bring down the mountain. The Good player then moves each member of the Fellowship to another card in any direction. Members of the Fellowship each move one space, except Legolas, who may move two.
+At the beginning of each turn, the Evil player places one card from their hand face-down - this is where Saruman is trying to bring down the mountain. The Good player then moves each member of the Fellowship to another card in any direction. Members of the Fellowship each move one space, except Legolas, who may move two.
 
 The Evil player then reveals their card. Any member of the Fellowship on a card with the same number as the one played, including picture cards, suffers a Wound; the card is then discarded. The Hobbits have two Wounds each; all other members of the Fellowship have three Wounds. Once a model is reduced to zero Wounds, they have been buried in the snow and are removed from the game.
 
@@ -380,7 +380,7 @@ At the end of each turn, the Evil player can play a card from their hand to brin
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
 
 **Evil:** None!
 
@@ -418,7 +418,7 @@ All Evil models gain the Fearless special rule.
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Bill the Pony.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Bill the Pony.
 
 **Evil:** Wild Warg Chieftain; 18 Wild Wargs.
 
@@ -456,7 +456,7 @@ The Pool is shallow water. However, each time a Good model starts its Move withi
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
 
 **Evil:** The Watcher in the Water.
 
@@ -492,7 +492,7 @@ During the Evil player's fourth Move phase, the Cave Troll may enter the board f
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
 
 **Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
 
@@ -528,7 +528,7 @@ The game lasts until one force achieves their objective. The Good player wins if
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
 
 **Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
 
@@ -722,7 +722,7 @@ Once per game, Lurtz can choose to use his shield as a throwing weapon. This has
 
 **PARTICIPANTS**
 
-**Good:** Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+**Good:** Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
 
 All Good models have an Elven Cloak.
 
@@ -758,7 +758,7 @@ The Evil player can claim a draw even if Frodo escapes the board, so long as the
 
 * **Find the Halflings!**
 
-Should a Hobbit suffer their final Wound, instead of being slain they will recover a single Wound and be knocked out instead — treat them as being subject to the *Paralyse* Magical Power. Any Evil model may carry a knocked-out Hobbit as if he were a Heavy Object (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its move in base contact with a knocked-out Hobbit, they will automatically revive them and they may act as normal, although they will start their move in the Prone position. Should any Evil model leave any table edge while carrying a knocked-out Hobbit, with the exception of the western edge, the Evil player is considered to have captured that Hobbit.
+Should a Hobbit suffer their final Wound, instead of being slain they will recover a single Wound and be knocked out instead - treat them as being subject to the *Paralyse* Magical Power. Any Evil model may carry a knocked-out Hobbit as if he were a Heavy Object (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its move in base contact with a knocked-out Hobbit, they will automatically revive them and they may act as normal, although they will start their move in the Prone position. Should any Evil model leave any table edge while carrying a knocked-out Hobbit, with the exception of the western edge, the Evil player is considered to have captured that Hobbit.
 
 * **The Legions of Isengard**
 
@@ -766,7 +766,7 @@ At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has pre
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn — Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
 
 All Good models have an Elven Cloak.
 
@@ -865,7 +865,7 @@ There should be lots of hedges, trees, and bushes dotted around the board, altho
 
 **STARTING POSITIONS**
 
-The Evil player deploys the two Mûmakil touching the western board edge as shown. They may then deploy their remaining models anywhere within 6" of either Mûmak. The Good player may then split their force in half — one half containing 12 Rangers and Faramir, and the remaining models in the other half. The Good player then deploys Faramir's half anywhere within 6" of the southern board edge, and then their remaining models within 6" of the northern board edge.
+The Evil player deploys the two Mûmakil touching the western board edge as shown. They may then deploy their remaining models anywhere within 6" of either Mûmak. The Good player may then split their force in half - one half containing 12 Rangers and Faramir, and the remaining models in the other half. The Good player then deploys Faramir's half anywhere within 6" of the southern board edge, and then their remaining models within 6" of the northern board edge.
 
 **OBJECTIVES**
 
@@ -937,7 +937,7 @@ Sméagol is under the control of the Good player; however, Good models may not b
 
 **SET-UP**
 
-For this mini-game, you will need a pack of ordinary playing cards. Separate the hearts from the rest of the deck and shuffle them. Lay them out face-down in a single line as shown — this is the Path.
+For this mini-game, you will need a pack of ordinary playing cards. Separate the hearts from the rest of the deck and shuffle them. Lay them out face-down in a single line as shown - this is the Path.
 
 Next, shuffle the remaining three suits together to form the playing deck, and then deal a hand of five cards to each player.
 
@@ -955,19 +955,19 @@ To decide who goes first, both players roll-off, re-rolling any ties, with whoev
 
 On a player's turn, they may do one of three things:
 
-* **Attempt to Move:**  
+* **Attempt to Move:**
 
-When a player attempts to move their character, they will try to move one card along the Path closer to Frodo. They play a card from their hand face-up. Then, making sure they don't see it themselves, they show their opponent the card they are trying to move to. 
+When a player attempts to move their character, they will try to move one card along the Path closer to Frodo. They play a card from their hand face-up. Then, making sure they don't see it themselves, they show their opponent the card they are trying to move to.
 
 Their opponent must then say if the card played is higher or lower than the card they are trying to move to. If the card they played is equal to or higher than the card shown, they flip it face-up and move their character onto it; they then take another go. If the card they played is lower than the card shown, they place it back face-down without looking, do not move, and their turn immediately ends.
 
 It is important to be completely honest when playing this game, for the benefit of both players.
 
-* **Discard Hand:** 
+* **Discard Hand:**
 
 If a player wishes, they can discard all of the cards in their hand and then draw a fresh hand of five cards from the playing deck. Their turn then ends.
 
-* **Draw New Hand:** 
+* **Draw New Hand:**
 
 If a player has no cards in their hand, they may then draw a new hand of five cards. Their turn then ends.
 
@@ -1155,11 +1155,11 @@ Frodo may not put on the Ring in this Scenario.
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try to slow Frodo down and corrupt him. To use one of these powers, the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, they may use the power:
 
-**Exhaustion (3+)** — During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.
+**Exhaustion (3+)** - During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.
 
-**Corruption (4+)** — The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game ends.
+**Corruption (4+)** - The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game ends.
 
-**Lure of the Ring (5+)** — The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
+**Lure of the Ring (5+)** - The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
 
 * **Destroying the Ring**
 

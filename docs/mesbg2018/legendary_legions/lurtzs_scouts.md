@@ -4,7 +4,7 @@
 
 **LURTZ [90 points]**
 
-• Shield: 0 points  
+• Shield: 0 points
 
 **MAUHUR [60 points]**
 
@@ -12,22 +12,22 @@
 
 **URUK-HAI SCOUT CAPTAIN [55 points]**
 
-• Uruk-Hai Bow: 5 points  
-• Shield: 5 points  
-• Two-Handed Weapon: 5 points  
-• Swap Weapon: 5 points  
+• Uruk-Hai Bow: 5 points
+• Shield: 5 points
+• Two-Handed Weapon: 5 points
+• Swap Weapon: 5 points
 
 **URUK-HAI DRUMMER [35 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **URUK-HAI SCOUT [8 points]**
 
-• Banner: 25 points  
-• Shield: 1 point  
-• Uruk-Hai Bow: 1 point  
-• Swap Weapon: 1 point  
-• Marauder Upgrade - FREE: 0 points  
+• Banner: 25 points
+• Shield: 1 point
+• Uruk-Hai Bow: 1 point
+• Swap Weapon: 1 point
+• Marauder Upgrade - FREE: 0 points
 
 </div>
 

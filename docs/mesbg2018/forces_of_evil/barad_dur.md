@@ -6,7 +6,6 @@ This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Tro
 
 **"The Power of the Ring Could not be Undone"** - Sauron's warband size is increased to 24. Additionally, a force that contains solely of models from the Barad-dûr army list will never be considered Broken if Sauron has 3 or more Wounds remaining. Should Sauron have 2 or fewer Wounds remaining, the army will break as normal. Should Sauron be slain, the army will immediately count as being Broken.
 
-
 ## HEROES OF BARAD-DUR
 
 <div class="unitCard" markdown>
@@ -67,7 +66,6 @@ Can make one Strength 8 hit on all in the fight, including supports.
 - **The Flames of Evil** `BRUTAL POWER ATTACK`
 
 Single strike against one model. If they survive, they are Set Ablaze.
-
 
 </div>
 
@@ -132,7 +130,6 @@ Single strike against one model. If they survive, they are Set Ablaze.
 - **Crown of Morgul** `PASSIVE`
 
 Attack value increased to 3. You can re-roll one dice when rolling for Casting or Resist tests.
-
 
 </div>
 
@@ -262,7 +259,6 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, that action is free.
 
-
 </div>
 
 ---
@@ -316,7 +312,6 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 - **One of Nine** `PASSIVE`
 
 There can only be a maximum of nine Ringwraith models in your force (including any named Ringwraiths).
-
 
 </div>
 
@@ -409,11 +404,9 @@ Shelob may never be taken as part of another model's warband.
 
 Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the Paralyse magical power.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF BARAD-DUR
 
@@ -582,7 +575,6 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 ---
 
-
 ## SIEGE ENGINES OF BARAD-DUR
 
 <div class="unitCard" markdown>
@@ -611,7 +603,6 @@ A Mordor Siege Bow will only scatter 3" rather than 6".
 - **Piercing Shot**
 
 If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege Bow. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
-
 
 </div>
 
@@ -650,6 +641,5 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 - **Wall-breaker**
 
 When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
-
 
 </div>

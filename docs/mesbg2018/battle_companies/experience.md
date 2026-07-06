@@ -1,6 +1,6 @@
-﻿So far we have only touched on what happens when the models in your Battle Company gain Experience, but we have not actually presented you with the various rules, charts, and anything else that they will require in order to progress and improve.
+So far we have only touched on what happens when the models in your Battle Company gain Experience, but we have not actually presented you with the various rules, charts, and anything else that they will require in order to progress and improve.
 
-As stated previously, every time a model gains 5 Experience Points, they may roll on the relevant Progression chart (more on these later). These Experience Points are cumulative, so whenever a model in your Battle Company reaches a multiple of 5 Experience Points (5, 10, 15, etc.), they may roll on their Progression chart — even if they gained less than 5 in their previous game.
+As stated previously, every time a model gains 5 Experience Points, they may roll on the relevant Progression chart (more on these later). These Experience Points are cumulative, so whenever a model in your Battle Company reaches a multiple of 5 Experience Points (5, 10, 15, etc.), they may roll on their Progression chart - even if they gained less than 5 in their previous game.
 
 Warrior and Hero models work very differently when they progress. Warrior models roll on the chart below, whilst the progression for Hero models is explained over the next few pages.
 
@@ -10,9 +10,9 @@ Whenever a Warrior model gains enough Experience Points, they will roll on the W
 
 | D6  | Result |
 |-----|--------|
-| 1‑3 | No Effect — *Whilst the warrior's efforts have been valiant and noteworthy, they have not quite been enough to earn them a promotion in the eyes of their masters.* The Warrior does not gain a promotion. |
-| 4‑5 | Promoted — *The warrior's actions over the company's adventures have been exceptional, and have not gone unnoticed.* The Warrior has been granted a promotion by the leader of the company, or the lord they serve, should they be able to receive one. Check the Advancements table on your Battle Company's page to see if they are eligible for a promotion, and if so, promote them to the new profile exchanging all wargear for the wargear of the new profile (any Equipment that was purchased can be carried over). If the Warrior is not eligible for a promotion, treat the result as No Effect instead. |
-| 6   | A Hero in the Making — *The warrior's valorous deeds have resulted in the Warrior becoming a Hero in their own right.* From this point onwards, the Warrior is treated as a Hero and immediately gains 1 Fate point. They retain the Experience Points gained so far and will advance like a Hero from the next game on. |
+| 1-3 | No Effect - *Whilst the warrior's efforts have been valiant and noteworthy, they have not quite been enough to earn them a promotion in the eyes of their masters.* The Warrior does not gain a promotion. |
+| 4-5 | Promoted - *The warrior's actions over the company's adventures have been exceptional, and have not gone unnoticed.* The Warrior has been granted a promotion by the leader of the company, or the lord they serve, should they be able to receive one. Check the Advancements table on your Battle Company's page to see if they are eligible for a promotion, and if so, promote them to the new profile exchanging all wargear for the wargear of the new profile (any Equipment that was purchased can be carried over). If the Warrior is not eligible for a promotion, treat the result as No Effect instead. |
+| 6   | A Hero in the Making - *The warrior's valorous deeds have resulted in the Warrior becoming a Hero in their own right.* From this point onwards, the Warrior is treated as a Hero and immediately gains 1 Fate point. They retain the Experience Points gained so far and will advance like a Hero from the next game on. |
 
 Hero models, on the other hand, progress in a very different and much more varied way. This allows you to shape your Heroes into what you want them to be, and provides endless combinations and styles for you.
 
@@ -33,17 +33,17 @@ Any Hero may embark on the Path of the Warrior.
 
 | 2D6 | Result |
 |-----|--------|
-| 2   | **Parry** — The Hero may force their opponent to re-roll a single D6 when making a Duel roll against this Hero. |
-| 3   | **Hero Slayer** — This Hero gains a bonus of +1 when rolling To Wound against Hero models. |
-| 4   | **Deadly Strength** — This Hero gains the Burly special rule. Additionally, the Hero may now purchase a two-handed weapon from the Armoury even if they could not previously. |
-| 5   | **Courage** — The Hero increases their Courage value by 1 to a maximum of 5. |
-| 6   | **Attack/Wound** — The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
-| 7   | **Fight** — The Hero may increase their Fight value by 1, up to a maximum value of 6. |
-| 8   | **Strength/Defence** — The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
-| 9   | **Blade Master** — The Hero may re-roll a single D6 when making a Duel roll. |
-| 10  | **Might/Will** — The Hero may either gain +1 Might point (to a maximum of 3), or +1 Will point (to a maximum of 1). |
-| 11  | **Heroic Strike** — The Hero may now use the Heroic Strike Heroic Action in addition to any others they have access to. |
-| 12  | **Heroic Presence** — The Hero may declare a Heroic Combat each turn without expending Might to do so. |
+| 2   | **Parry** - The Hero may force their opponent to re-roll a single D6 when making a Duel roll against this Hero. |
+| 3   | **Hero Slayer** - This Hero gains a bonus of +1 when rolling To Wound against Hero models. |
+| 4   | **Deadly Strength** - This Hero gains the Burly special rule. Additionally, the Hero may now purchase a two-handed weapon from the Armoury even if they could not previously. |
+| 5   | **Courage** - The Hero increases their Courage value by 1 to a maximum of 5. |
+| 6   | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
+| 7   | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 6. |
+| 8   | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
+| 9   | **Blade Master** - The Hero may re-roll a single D6 when making a Duel roll. |
+| 10  | **Might/Will** - The Hero may either gain +1 Might point (to a maximum of 3), or +1 Will point (to a maximum of 1). |
+| 11  | **Heroic Strike** - The Hero may now use the Heroic Strike Heroic Action in addition to any others they have access to. |
+| 12  | **Heroic Presence** - The Hero may declare a Heroic Combat each turn without expending Might to do so. |
 
 ### PATH OF THE RANGER
 
@@ -145,7 +145,7 @@ Any Hero may embark on the Path of the Adventurer.
 | 11  | **Master of Terrain** - The Hero is not slowed by difficult terrain of any type. |
 | 12  | **Hardy Warrior** - The Hero may re-roll failed Fate rolls. |
 
-### PATH OF THE SORCERER 
+### PATH OF THE SORCERER
 
 The Hero has become attuned to the ways of magic, either through a blessing from the Valar or some other, darker, power.
 

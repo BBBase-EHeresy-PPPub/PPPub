@@ -6,7 +6,6 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 **"Hold his toes over the fire, make him squeal"** - You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a banner in addition to all other effects it would usually provide.
 
-
 ## HEROES OF THE TROLLS
 
 <div class="unitCard" markdown>
@@ -48,7 +47,6 @@ After forces are deployed, place the Campfire anywhere on the board, outside of 
 
 If he wins a Fight, choose one enemy model in the Fight. Both they and Bill roll a D6, and add their Strength values. If Bill's roll is higher, the victim suffers Wounds equal to the difference. Fate points may still be used to prevent each Wound. The victim still Backs Away, even if they win this roll.
 
-
 </div>
 
 ---
@@ -83,7 +81,6 @@ If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Repl
 - **Roast 'em Slowly** `BRUTAL POWER ATTACK`
 
 If he wins a Fight, he may perform this attack as long as he is within 6" of a fire. Choose an enemy model involved in the Fight and place it is base contact with the fire. The model is immediately Set Ablaze.
-
 
 </div>
 
@@ -122,6 +119,5 @@ During a Fight that involves Tom, and before making a Duel roll, Tom may spend a
 - **Squash 'em to Jelly** `BRUTAL POWER ATTACK`
 
 If he wins a Fight, he use this attack instead of normal Strikes. Every enemy model involved in the same Fight (not counting Supporting models) suffers a Strength 6 hit. Any who survive are also knocked Prone.
-
 
 </div>

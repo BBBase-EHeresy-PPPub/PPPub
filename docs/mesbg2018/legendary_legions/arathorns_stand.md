@@ -6,18 +6,18 @@
 
 **HALBARAD [70 points]**
 
-• Horse: 10 points  
+• Horse: 10 points
 
 **DUNEDAIN [25 points]**
 
-• Swap Weapon: 5 points  
-• Spear: 1 point  
+• Swap Weapon: 5 points
+• Spear: 1 point
 
 **RANGER OF THE NORTH [30 points]**
 
-• Horse: 10 points  
-• Swap Weapon: 5 points  
-• Spear: 1 point  
+• Horse: 10 points
+• Swap Weapon: 5 points
+• Spear: 1 point
 
 </div>
 

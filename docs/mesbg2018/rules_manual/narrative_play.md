@@ -1,10 +1,10 @@
-﻿Narrative Play games allow you to recreate all of your favourite battles and scenes from both the books and the films using your collection of Citadel and Forge World models and the Scenarios laid out in these publications. There are no points values in Narrative Play, and often the forces may seem unbalanced. However, each Scenario has a selection of special rules that help to both balance the gameplay and to capture the feel of the scenes from the films and books.
+Narrative Play games allow you to recreate all of your favourite battles and scenes from both the books and the films using your collection of Citadel and Forge World models and the Scenarios laid out in these publications. There are no points values in Narrative Play, and often the forces may seem unbalanced. However, each Scenario has a selection of special rules that help to both balance the gameplay and to capture the feel of the scenes from the films and books.
 
 Narrative Play Scenarios are great to play as a campaign, where you can re-enact a chain of events, such as following the journeys of The Fellowship from the Hobbits leaving The Shire to Frodo casting The One Ring into the fires of Mount Doom. Some Scenarios provide short and fast paced play with only a few models, and can be accomplished in a short period of time. Other Scenarios, such as Pelennor Fields, can take a whole day and a vast collection of miniatures. Within the pages of *The Armies of The Lord of the Rings™* and *The Armies of The Hobbit™* are a selection of exciting Narrative Play Scenarios for you to play through with your friends, and over the next few years, we'll be releasing many more for you to sink your teeth into.
 
 ## PARTICIPANTS
 
-The forces of the greatest battles of Middle-earth are woven into the fabric of history, and the great deeds done by heroes and warriors alike are forged into legend. The participants of these battles are very much set in stone — we all know that Aragorn, Legolas and Gimli were present at the Battle of Pelennor Fields but that The Dark Lord Sauron most definitely was not.
+The forces of the greatest battles of Middle-earth are woven into the fabric of history, and the great deeds done by heroes and warriors alike are forged into legend. The participants of these battles are very much set in stone - we all know that Aragorn, Legolas and Gimli were present at the Battle of Pelennor Fields but that The Dark Lord Sauron most definitely was not.
 
 Narrative Play Scenarios will have a list of which models both Good and Evil forces will use to recreate the battles of Middle-earth. These are not necessarily designed to be balanced forces in their own right, but to faithfully capture the feel of the forces present at that point in time. When we present the forces for a specific Scenario, bear in mind that these are the exact same ones we have used when designing and playing them.
 
@@ -18,7 +18,7 @@ The real flavour of Narrative Play Scenarios comes from the special rules they e
 
 It is these special rules that balance Narrative Play Scenarios, and provide players with a truly unique gaming experience that allows them to relive their favourite scenes from both the books and the films.
 
-It is also important to note that unlike in Matched Play games, neither force will Break if enough models would be slain that would cause one force to exceed its Break Point. There is no fleeing in Narrative Play — it's do or die!
+It is also important to note that unlike in Matched Play games, neither force will Break if enough models would be slain that would cause one force to exceed its Break Point. There is no fleeing in Narrative Play - it's do or die!
 
 ## OBJECTIVES
 

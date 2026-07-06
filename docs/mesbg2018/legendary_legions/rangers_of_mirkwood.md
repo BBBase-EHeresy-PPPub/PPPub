@@ -4,24 +4,24 @@
 
 **LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [95 points]**
 
-• Elven Cloak: 5 points  
+• Elven Cloak: 5 points
 
 **MIRKWOOD RANGER CAPTAIN [75 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **TAURIEL [90 points]**
 
-• Elf Bow: 5 points  
+• Elf Bow: 5 points
 
 **MIRKWOOD RANGER [14 points]**
 
-• War Horn: 30 points  
-• Swap Weapon: 1 point  
+• War Horn: 30 points
+• Swap Weapon: 1 point
 
 **WOOD ELF SENTINEL [25 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 </div>
 

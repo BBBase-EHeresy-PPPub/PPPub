@@ -1,4 +1,4 @@
-﻿## THE JOURNEY OF THE RINGBEARER CAMPAIGN
+## THE JOURNEY OF THE RINGBEARER CAMPAIGN
 
 *Here we present you with the Journey of the Ringbearer campaign, a system of linking your games together in such a way that the results of one game can impact your next game or even one much later on! This will connect together the already dynamic Narrative Play Scenarios in such a way that it will feel as if you are playing through the scenes directly from the books and the movies.*
 
@@ -28,11 +28,11 @@ As our Heroes battle their way through Middle-earth, they will become weary and 
 
 To do this, follow the steps on this page, starting with the **Bravest Companion**, then **Fellow Adventurer** and finally **Fool of a Took!**
 
-**Bravest Companion** - After the game, both players should discuss which of the **Good Hero** models has performed above and beyond the call of duty. Perhaps they fended off many enemies, or sacrificed themselves for the good of the Ringbearer. This model may regain **D6 Might, Will, Fate or Wounds** of the controlling player's choice (this may be a mix of any) up to the value of the model's characteristics. If the Hero survived the previous battle, they may re-roll the D6 if they choose but the second result will stand even if it is worse than the first. 
+**Bravest Companion** - After the game, both players should discuss which of the **Good Hero** models has performed above and beyond the call of duty. Perhaps they fended off many enemies, or sacrificed themselves for the good of the Ringbearer. This model may regain **D6 Might, Will, Fate or Wounds** of the controlling player's choice (this may be a mix of any) up to the value of the model's characteristics. If the Hero survived the previous battle, they may re-roll the D6 if they choose but the second result will stand even if it is worse than the first.
 
 It is important for both players to be honest when making the decision of which model is awarded the Bravest Companion as it makes for the campaign to be much more interesting.
 
-**Fellow Adventurer** - All other **Hero models** may regain **D3 Might, Will, Fate or Wounds** of the controlling player's choice (this may be a mix of any) up to the value of the model's characteristics. If the Hero survived the previous battle, they may re-roll the D3 if they choose but the second result will stand even if it is worse than the first. The only exception to this is if a model is chosen as…
+**Fellow Adventurer** - All other **Hero models** may regain **D3 Might, Will, Fate or Wounds** of the controlling player's choice (this may be a mix of any) up to the value of the model's characteristics. If the Hero survived the previous battle, they may re-roll the D3 if they choose but the second result will stand even if it is worse than the first. The only exception to this is if a model is chosen as...
 
 **Fool of a Took!** - After the game, both players should discuss which of the **Good Hero** models, if any, has performed poorly in the previous game. This model gains no bonus whatsoever. This doesn't have to be awarded if both players agree that all the **Good Hero** models pulled their weight fairly. It is important for both players to be honest when making the decision as to which model is awarded the **Fool of a Took!** as it makes for the campaign to be much more interesting.
 
@@ -247,9 +247,9 @@ If your chosen Ringbearer is Sméagol then he gains The Ring. Additionally, he i
 
 *STEP 2: COMPANION*
 
-The second most important member of your Fellowship, every Ringbearer will need a loyal friend to aid them on their journey. This is the character that will keep your Ringbearer on track, regardless of whatever hardships and perils lie in front of them. 
+The second most important member of your Fellowship, every Ringbearer will need a loyal friend to aid them on their journey. This is the character that will keep your Ringbearer on track, regardless of whatever hardships and perils lie in front of them.
 
-Your Ringbearer's Companion can be any Hobbit Hero that has not already been chosen as your Ringbearer, with the exception of the four Travellers: Frodo of the Nine Fingers; Samwise the Brave; Meriadoc, Captain of the Shire, and Peregrin, Captain of the Shire. 
+Your Ringbearer's Companion can be any Hobbit Hero that has not already been chosen as your Ringbearer, with the exception of the four Travellers: Frodo of the Nine Fingers; Samwise the Brave; Meriadoc, Captain of the Shire, and Peregrin, Captain of the Shire.
 
 If Bilbo Baggins from the Thorin's Company army list is chosen then his Companion may instead be any other member of Thorin's Company under 60 points if you wish.
 
@@ -261,7 +261,7 @@ Merry and Pippin may be replaced by any named Hero models in the game, however, 
 
 Gandalf the Grey must be replaced by a Hero model from the following list, all of which can utilise a variety of different Magical Powers to their advantage: Gandalf the Grey; Saruman the White; Radagast the Brown; Galadriel; Elrond, Master of Rivendell; Celeborn; Círdan; Arwen Undómiel; Gildor Inglorion; Thranduil, King of the Woodland Realm.
 
-If Saruman the White is selected as your Wizard then you may select Gríma Wormtongue as a member of your Fellowship. The remaining members of your Fellowship (Aragorn, Legolas, Gimli and Boromir) can be replaced by any other named Hero models you choose. Remember that whoever you choose to replace certain characters will take on their role. So, if you choose Prince Imrahil as your replacement for Aragorn, it will be Prince Imrahil that fights at Helm's Deep. It is also important to remember that Boromir is doomed to die, so whoever you choose to replace Boromir will also be doomed to die! 
+If Saruman the White is selected as your Wizard then you may select Gríma Wormtongue as a member of your Fellowship. The remaining members of your Fellowship (Aragorn, Legolas, Gimli and Boromir) can be replaced by any other named Hero models you choose. Remember that whoever you choose to replace certain characters will take on their role. So, if you choose Prince Imrahil as your replacement for Aragorn, it will be Prince Imrahil that fights at Helm's Deep. It is also important to remember that Boromir is doomed to die, so whoever you choose to replace Boromir will also be doomed to die!
 
 There are a few additional rules to take into account when selecting your Fantasy Fellowship, which are detailed below:
 
@@ -271,7 +271,7 @@ There are a few additional rules to take into account when selecting your Fantas
 
 * If you choose another character who can take The Ring, they do not get it in this campaign - you have already selected your Ringbearer after all!
 
-* Models may purchase additional wargear from their profile. 
+* Models may purchase additional wargear from their profile.
 
 * Heroes that are bought as a pair, such as Elladan & Elrohir or Múrin & Drár, will take up two slots in your Fellowship.
 
@@ -329,7 +329,7 @@ At certain points in the campaign, your Fellowship will have the chance to rest.
 
 **SCENARIOS**
 
-Here we present the Scenarios that should be played as part of a Fantasy Fellowship campaign, along with the Heroes that would normally play that Scenario for you to replace with members of your own Fellowship, and where you can find that Scenario. If you wish, you can add more Scenarios to this list if you want to play through every single aspect of the story. 
+Here we present the Scenarios that should be played as part of a Fantasy Fellowship campaign, along with the Heroes that would normally play that Scenario for you to replace with members of your own Fellowship, and where you can find that Scenario. If you wish, you can add more Scenarios to this list if you want to play through every single aspect of the story.
 
 If a Scenario lists a Hero in its Participants that you have in your Fellowship, other than the ones that are replaced by your Fantasy Fellowship then replace that model with a suitable Captain to represent them in that Scenario.
 
@@ -517,9 +517,9 @@ During your Fellowship's journey to Mordor, they will gain benefits along the wa
 
 **THE WHITE WIZARD**
 
-Following The Bridge of Khazad-dûm Scenario, Gandalf the Grey falls into the depths of Moria and no longer participates in the campaign. However, Gandalf is reborn as Gandalf the White for the Éomer's Return Scenario, and will be restored to his starting values of Might, Will, Fate and Wounds.  
+Following The Bridge of Khazad-dûm Scenario, Gandalf the Grey falls into the depths of Moria and no longer participates in the campaign. However, Gandalf is reborn as Gandalf the White for the Éomer's Return Scenario, and will be restored to his starting values of Might, Will, Fate and Wounds.
 
-If you replaced Gandalf then whoever represents him in your Fellowship will fall at The Bridge of Khazad-dûm and come back for Éomer's Return in the same manner. To represent them coming back more powerful, your member of the Fellowship will improve all their Casting values by 1 (to a maximum of 2+) and may increase their Attacks characteristic by 1 (to a maximum of 2).  
+If you replaced Gandalf then whoever represents him in your Fellowship will fall at The Bridge of Khazad-dûm and come back for Éomer's Return in the same manner. To represent them coming back more powerful, your member of the Fellowship will improve all their Casting values by 1 (to a maximum of 2+) and may increase their Attacks characteristic by 1 (to a maximum of 2).
 
 If you replaced Gandalf with Galadriel then instead of following the rules above, she will be replaced by the Galadriel, Lady of Light profile.
 
@@ -529,7 +529,7 @@ Boromir is slain at the hands of Lurtz at Amon Hen. Following this Scenario, who
 
 **RIVENDELL**
 
-Upon reaching Elrond's household, Frodo is reunited with Bilbo who gifts him both Sting and the Mithril Coat.  
+Upon reaching Elrond's household, Frodo is reunited with Bilbo who gifts him both Sting and the Mithril Coat.
 Your Ringbearer gains both Sting and the Mithril Coat, unless your chosen Ringbearer is Sméagol. If Sméagol is your Ringbearer then he will instead gain an additional point of Might and Fate.
 
 **LOTHLÓRIEN**

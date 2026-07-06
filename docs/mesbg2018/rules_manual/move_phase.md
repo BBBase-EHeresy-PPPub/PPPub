@@ -1,4 +1,4 @@
-﻿As battle rages on, success often goes to those who gain control of the field of battle and seize critical positions. Whether the goal is to carefully infiltrate the ruins of *Osgiliath* or to flee the rampaging *Morannon* Orc hordes that burst forth from the *Anduin*, a firm grasp of the Move rules is required to achieve victory.
+As battle rages on, success often goes to those who gain control of the field of battle and seize critical positions. Whether the goal is to carefully infiltrate the ruins of *Osgiliath* or to flee the rampaging *Morannon* Orc hordes that burst forth from the *Anduin*, a firm grasp of the Move rules is required to achieve victory.
 
 ## PRIORITY
 
@@ -6,14 +6,14 @@ In the Move phase, the player with Priority moves first. They may move all, some
 
 ## MOVING MODELS
 
-Ordinarily, you can move each of your models in the Move phase. You can move your models in any order that you choose — as long as you complete
+Ordinarily, you can move each of your models in the Move phase. You can move your models in any order that you choose - as long as you complete
 the move of one model before starting the move of a different one.
 
 A model can move a distance up to its Move characteristic in inches ("), as listed in each model's profile. This is referred to as the model's 'maximum Move distance' or its 'Move allowance'.
 
-To move a model, measure how far it can travel and then move it along the correct amount. Models are not required to move only in straight lines — in fact you will often need them to move around corners, obstacles, other models and even traverse complicated battlefields. A model may move in any direction it wishes, as long as it does not exceed its Move characteristic.
+To move a model, measure how far it can travel and then move it along the correct amount. Models are not required to move only in straight lines - in fact you will often need them to move around corners, obstacles, other models and even traverse complicated battlefields. A model may move in any direction it wishes, as long as it does not exceed its Move characteristic.
 
-Terrain has a big impact on the game, with models constantly having to traverse many different styles of battlefield. There may be some instances whereby a model will be faced with a piece of terrain that it could in theory fit through, however, its base will not fit (such as a **Cavalry** model moving through a gate). In these situations, if it is obvious that a model would be able to move through the gap, even though its base would not allow it, then you and your opponent are free to agree that it is possible — in fact, we would encourage that you do this.
+Terrain has a big impact on the game, with models constantly having to traverse many different styles of battlefield. There may be some instances whereby a model will be faced with a piece of terrain that it could in theory fit through, however, its base will not fit (such as a **Cavalry** model moving through a gate). In these situations, if it is obvious that a model would be able to move through the gap, even though its base would not allow it, then you and your opponent are free to agree that it is possible - in fact, we would encourage that you do this.
 
 Models may not move 'through' other models. Indeed, for a model to move past or between other models, there must be enough space for its base to be able to pass through without disrupting another model's base. If there is not enough room to pass through, then the model will have to go around or wait.
 
@@ -43,13 +43,13 @@ Frodo Baggins *is trying to keep up with the rest of The Fellowship. A ruler is 
 
 ![](../media/rules_manual/movement_3.jpg)
 
-*With other members of The Fellowship blocking the way, Frodo Baggins can only just squeeze his base through the gap between their bases — note how the gap between* Gimli *and* Sam *is just wide enough for him to pass through.*
+*With other members of The Fellowship blocking the way, Frodo Baggins can only just squeeze his base through the gap between their bases - note how the gap between* Gimli *and* Sam *is just wide enough for him to pass through.*
 
 ## CONTROL ZONES
 
-Although all of the models are immobile, we imagine that they are, in fact, quite dynamic, ready to fight in the swirling maelstrom of battle. To represent this, every model has a Control Zone — a 1" imaginary ring that extends out from the edge of the model's base. No model may enter the Control Zone of an enemy unless they are charging the model in question (we will cover the rules for charging in a moment).
+Although all of the models are immobile, we imagine that they are, in fact, quite dynamic, ready to fight in the swirling maelstrom of battle. To represent this, every model has a Control Zone - a 1" imaginary ring that extends out from the edge of the model's base. No model may enter the Control Zone of an enemy unless they are charging the model in question (we will cover the rules for charging in a moment).
 
-There may be occasions when a model is forced into an enemy model's Control Zone due to some other rule, such as being forced to Back Away after losing a Fight ([see page 44]) or failing a Jump test or Climb test. In these instances, it is acceptable to move the model into the Control Zone, making sure that a small distance still separates the models' bases. Note that a model cannot choose to enter an enemy's Control Zone without charging — it can only happen when another rule forces it to.
+There may be occasions when a model is forced into an enemy model's Control Zone due to some other rule, such as being forced to Back Away after losing a Fight ([see page 44]) or failing a Jump test or Climb test. In these instances, it is acceptable to move the model into the Control Zone, making sure that a small distance still separates the models' bases. Note that a model cannot choose to enter an enemy's Control Zone without charging - it can only happen when another rule forces it to.
 
 Control Zones can be a very useful tool, allowing you to keep your enemies out of a certain area of the battlefield. This can be particularly handy for protecting an objective, or an individual, from attack.
 
@@ -73,7 +73,7 @@ Across Middle-earth, there are many great fighters who possess an exceptional sk
 
 Charging is a special type of move that allows your model to end its move in base contact with an enemy model. The main rule that governs whether or not a model may Charge is that it must have Line of Sight to its intended target before it starts its Move. If the model has Line of Sight to its intended target, proceed as follows. If the model does not have Line of Sight, try looking for a different target, moving another model first or moving to a better spot for the next turn.
 
-Making a Charge is simple — measure the distance as you would for making any other move and, if you have enough movement to reach your target, move your model into base contact with the target.
+Making a Charge is simple - measure the distance as you would for making any other move and, if you have enough movement to reach your target, move your model into base contact with the target.
 
 Once a model has charged into an enemy and is in base contact with it, they are both Engaged in combat and cannot move any further in the Move phase.
 
@@ -113,7 +113,7 @@ Sometimes, a model will wish to Charge a model that is on the other side of a wa
 
 ![](../media/rules_manual/charging_2_1.jpg)
 
-Aragorn *charges the nearest Uruk-hai — entering its Control Zone first. As soon as he enters the Control Zone of the first model, he is free to continue moving within that Control Zone, so long as he ends up charging the model whose Control Zone he entered first.*
+Aragorn *charges the nearest Uruk-hai - entering its Control Zone first. As soon as he enters the Control Zone of the first model, he is free to continue moving within that Control Zone, so long as he ends up charging the model whose Control Zone he entered first.*
 
 ![](../media/rules_manual/charging_2_2.jpg)
 
@@ -141,7 +141,7 @@ First, all models in base contact with an enemy must fight, so make sure all mod
 
 Second, if a model could be involved in more than one Fight, the player with Priority may choose which of the possible combats they are assigned to.
 
-In practice, it is usually a good idea for both players to look over all of the potential combats at the end of the Move phase and split them into their Fights — with the player with Priority deciding on any where there are multiple options. It can be a good idea to separate the combats slightly, so the Fights actually have a little distance between them. However, this should only ever be done for the sake of clarity, not to gain a benefit in-game. It's probably not a good idea to do this if it would have an effect on the models — such as moving a model out of proximity with a banner, or moving models out of their Shieldwall formation. In any case, if models are separated for the sake of clarity, they will still count as being in base contact with what they were beforehand.
+In practice, it is usually a good idea for both players to look over all of the potential combats at the end of the Move phase and split them into their Fights - with the player with Priority deciding on any where there are multiple options. It can be a good idea to separate the combats slightly, so the Fights actually have a little distance between them. However, this should only ever be done for the sake of clarity, not to gain a benefit in-game. It's probably not a good idea to do this if it would have an effect on the models - such as moving a model out of proximity with a banner, or moving models out of their Shieldwall formation. In any case, if models are separated for the sake of clarity, they will still count as being in base contact with what they were beforehand.
 
 Sometimes, there will be situations whereby a rule will target or affect a model in a Fight which could cause multiple other models to be affected as well; this could be a throwing weapon, a Magical Power (such as Sorcerous Blast) or a special rule. This can cause some issues as models are not divided into Fights until the end of the Move phase, so players may be unsure of who is actually involved in the Fight. If this situation arises, the player with Priority may decide how the Fights are split before the end of the Move phase so as to make resolving the effects of the rule easier and simple to understand.
 
@@ -185,7 +185,7 @@ Barricades, broken walls, fallen trees, hedges and piles of rocks are scattered 
 
 The term Obstacle describes linear objects on the battlefield that impede movement, but can still be crossed, such as low walls, fences and so on. A model's ability to cross any such Obstacle is determined by comparing the height of the model and the Obstacle in question.
 
-Any model can automatically cross an Obstacle that is less than half its height, without penalty — simply move the model over the Obstacle, imagining that it is stepping over it. This means that a Man will be able to stride effortlessly over an Obstacle that a Hobbit or Dwarf might struggle — with while this may seem unfair, it is true that little folk would find some obstacles to be much more difficult than big folk might.
+Any model can automatically cross an Obstacle that is less than half its height, without penalty - simply move the model over the Obstacle, imagining that it is stepping over it. This means that a Man will be able to stride effortlessly over an Obstacle that a Hobbit or Dwarf might struggle - with while this may seem unfair, it is true that little folk would find some obstacles to be much more difficult than big folk might.
 
 A model can attempt to cross an Obstacle that is greater than half its height, but must take a Jump test or Climb test to do so ([see pages 28 and 30] respectively). Usually, you can tell whether a model can cross an Obstacle without a test just by looking at it. In those rare situations where you must know exactly, measure the model from the top of its head to the bottom of its feet. Be sure to work out the model's 'true height', not the height of it in a strange pose (crouching low or perched on something, for example), and be sure to agree with your opponent. Once you have determined the height of the model, compare it to the height of the Obstacle to see if a test is needed.
 
@@ -204,7 +204,7 @@ The horizontal movement your model makes when it jumps an Obstacle still counts 
 | D6 | RESULT                              |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | **STUMBLES AND FAILS** The model does not cross the Obstacle, but instead ends its movement for the turn.                |
-| 2‑5 | **SUCCESS** The model successfully clambers over the Obstacle and reaches the other side. Place your model on the other side of the Obstacle, with its base touching it. The model may move no further this Move phase.   |
+| 2-5 | **SUCCESS** The model successfully clambers over the Obstacle and reaches the other side. Place your model on the other side of the Obstacle, with its base touching it. The model may move no further this Move phase.   |
 | 6 | **EFFORTLESSLY BOUNDS ACROSS** The model vaults across the Obstacle with ease, and may even complete its movement up to its maximum Move distance (minus the distance it already used getting up to and across the Obstacle, of course). |
 
 ***JUMPING***
@@ -232,7 +232,7 @@ Making a Leap test is simple. Move your model up to the gap that you wish it to 
 | D6 | RESULT             |
 |-----------|--------------------------------------------------------------------------------------------------------------|
 | 1  | **STUMBLES AND FAILS** The attempt to leap the gap has gone wrong. The model falls to the bottom of the gap, suffering falling damage as described on page 31 and is knocked Prone. |
-| 2‑5 | **SUCCESS** The model manages to leap across safely. Place the model on the other side of the gap, with its base touching it. The model may move no further this Move phase. |
+| 2-5 | **SUCCESS** The model manages to leap across safely. Place the model on the other side of the gap, with its base touching it. The model may move no further this Move phase. |
 | 6  | **EFFORTLESSLY BOUNDS ACROSS** The model leaps across without missing a step. Place it on the other side; it may even complete its movement up to its maximum Move allowance. |
 
 ***LEAPING***
@@ -245,7 +245,7 @@ Making a Leap test is simple. Move your model up to the gap that you wish it to 
 
 When faced with especially tall Obstacles, the likes of a rock face, a tumble- down pile of statuary or raised scaffolding, a Climb test is often in order. The major difference between jumping and climbing is whether a model is attempting to increase its altitude by more than its own height.
 
-When a model attempts to make a Climb test, it is important that there is some way for it to scale the surface — handholds, jutting rocks, wooden crosspieces, and so on. Whenever a model climbs in this manner, they are moving through difficult terrain ([see page 26]). Areas that do not have these are considered to be unscalable (see below).
+When a model attempts to make a Climb test, it is important that there is some way for it to scale the surface - handholds, jutting rocks, wooden crosspieces, and so on. Whenever a model climbs in this manner, they are moving through difficult terrain ([see page 26]). Areas that do not have these are considered to be unscalable (see below).
 
 Making a Climb test is simple. Move your model to the bottom of the surface you wish to scale, roll a D6, compare the result to the Climb table on the left and follow the instructions given.
 
@@ -256,7 +256,7 @@ A model may climb a surface or Obstacle of any height, provided that it is scala
 | D6 | RESULT             |
 |-----------|--------------------------------------------------------------------------------------------------------------|
 | 1  | **FALL** The model slips and falls to the ground, and becomes Prone (see page 32) at the bottom of the surface it attempted to climb, place a Prone marker next to it. If the model began its climb at ground level, it suffers no further damage, but if it was higher than this, it may suffer falling damage (see opposite). |
-| 2‑5 | **CONTINUE TO CLIMB** The model climbs until it has moved its maximum Move distance, or reaches the top, after which it may move no further this Move phase.  |
+| 2-5 | **CONTINUE TO CLIMB** The model climbs until it has moved its maximum Move distance, or reaches the top, after which it may move no further this Move phase.  |
 | 6  | **SWIFT ASCENT** The model climbs until it has moved its maximum Move distance, or reaches the top. It may even complete its move up to its maximum Move distance after it reaches the top (minus the distance it has already used climbing up, of course). |
 
 ### CLIMBING VERY TALL STRUCTURES
@@ -275,7 +275,7 @@ There are a number of ways to make climbing easier, such as using a ladder, a ro
 
 ![](../media/rules_manual/leaping_and_climbing_1.jpg)
 
-*With the* Balrog *hot on the heels of The Fellowship, they must do everything they can to escape. Aragorn decides to try to move over a small fallen pillar — he must take a Jump test. Boromir, on the other hand, wants to put some height between himself and the demon, and so chooses to scramble up a rocky cliff — he must take a Climb test.*
+*With the* Balrog *hot on the heels of The Fellowship, they must do everything they can to escape. Aragorn decides to try to move over a small fallen pillar - he must take a Jump test. Boromir, on the other hand, wants to put some height between himself and the demon, and so chooses to scramble up a rocky cliff - he must take a Climb test.*
 
 ***CLIMBING***
 
@@ -285,11 +285,11 @@ There are a number of ways to make climbing easier, such as using a ladder, a ro
 
 ## DESCENDING AND FALLING
 
-What goes up, must come down, or so the old expression says. Models can move downwards in two ways — they either descend safely or they fall.
+What goes up, must come down, or so the old expression says. Models can move downwards in two ways - they either descend safely or they fall.
 
 ### DESCENDING
 
-A model may automatically descend a distance equal to its own height without any penalty (the distance the model moves downwards is ignored for working out how far the model has moved that phase). If a model needs to descend further, they must make a Climb test, with the exception that they move directly down instead of up — there must also be some way for the model to climb down, such as handholds, etc. If the Climb test is failed (a roll of a 1) or the model falls for some other reason, it will suffer falling damage, as follows.
+A model may automatically descend a distance equal to its own height without any penalty (the distance the model moves downwards is ignored for working out how far the model has moved that phase). If a model needs to descend further, they must make a Climb test, with the exception that they move directly down instead of up - there must also be some way for the model to climb down, such as handholds, etc. If the Climb test is failed (a roll of a 1) or the model falls for some other reason, it will suffer falling damage, as follows.
 
 ### FALLING
 
@@ -303,7 +303,7 @@ A model that falls is knocked Prone at the base of the surface they have fallen 
 
 ## PRONE MODELS
 
-During battles in *Middle-earth*, there are times when a model will find itself lying on the ground — whether this is the result of being charged by a **Cavalry** model, falling whilst trying to climb or attempting to hide from a foe. A model that is Knocked to the Ground is said to be Prone and should have a Prone marker placed next to it to show that the model is on the floor — this prevents any unnecessary damage to our precious models. Prone models have certain special rules that govern how they act.
+During battles in *Middle-earth*, there are times when a model will find itself lying on the ground - whether this is the result of being charged by a **Cavalry** model, falling whilst trying to climb or attempting to hide from a foe. A model that is Knocked to the Ground is said to be Prone and should have a Prone marker placed next to it to show that the model is on the floor - this prevents any unnecessary damage to our precious models. Prone models have certain special rules that govern how they act.
 
 ### CONTROL ZONES
 
@@ -311,11 +311,11 @@ A Prone model does not have a Control Zone.
 
 ### PRONE MODELS AND LINE OF SIGHT
 
-When a model is Prone, we can imagine it is writhing on the floor or cowering beneath a shield. Usually, a model would be able to see over a model that is Prone, however in some extreme circumstances (such as a Cave Troll being knocked Prone) this may not be the case. For these reasons, a Prone model is considered to be half its normal height (from the top of its head to its feet) for the purpose of working out Line of Sight. 
+When a model is Prone, we can imagine it is writhing on the floor or cowering beneath a shield. Usually, a model would be able to see over a model that is Prone, however in some extreme circumstances (such as a Cave Troll being knocked Prone) this may not be the case. For these reasons, a Prone model is considered to be half its normal height (from the top of its head to its feet) for the purpose of working out Line of Sight.
 
 ### CRAWLING
 
-A model that is Prone may crawl 1" in the Move phase, regardless of its maximum Move allowance or the manner of terrain it is in. If a model crawls, the only other movement it may make that turn is to stand up. Crawling models may not make Jump, Leap or Climb tests. Prone models may not Charge — they must stand up first.
+A model that is Prone may crawl 1" in the Move phase, regardless of its maximum Move allowance or the manner of terrain it is in. If a model crawls, the only other movement it may make that turn is to stand up. Crawling models may not make Jump, Leap or Climb tests. Prone models may not Charge - they must stand up first.
 
 ### STANDING UP/LYING DOWN
 
@@ -339,7 +339,7 @@ You may attempt to jump over a Prone model by moving your model as close as you 
 
 ![](../media/rules_manual/prone_and_movement_1.jpg)
 
-*Frodo Baggins has been knocked Prone by a pursuing Ringwraith. The Hobbit crawls 1" towards safety and then stands up — enabling him to move his full Move allowance in the following turn.*
+*Frodo Baggins has been knocked Prone by a pursuing Ringwraith. The Hobbit crawls 1" towards safety and then stands up - enabling him to move his full Move allowance in the following turn.*
 
 ## REINFORCEMENTS
 

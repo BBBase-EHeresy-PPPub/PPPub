@@ -16,21 +16,21 @@
 
 **RUFFIAN [5 points]**
 
-• Swap Weapon: 5 points  
-• Bow: 1 point  
-• Whip: 1 point  
+• Swap Weapon: 5 points
+• Bow: 1 point
+• Whip: 1 point
 
 **TED SANDYMAN [20 points]**
 
 **HOBBIT MILITIA [4 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **RUFFIAN [5 points]**
 
-• Bow: 1 point  
-• Whip: 1 point  
-• Swap Weapon: 1 point  
+• Bow: 1 point
+• Whip: 1 point
+• Swap Weapon: 1 point
 
 </div>
 

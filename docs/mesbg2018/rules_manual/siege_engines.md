@@ -1,4 +1,4 @@
-﻿There are many races within Middle-earth that utilise the devastating power of a Siege Engine. From the mighty Battlecry Trebuchets used by the defenders of Minas Tirith at the battle of the Pelennor, to the ballistae brought by the army of the Iron Hills to wage war upon the fields of Erebor. Whatever form they take, Siege Engines provide an obvious threat to an enemy force. Here we present the rules for using siege engines in your games.
+There are many races within Middle-earth that utilise the devastating power of a Siege Engine. From the mighty Battlecry Trebuchets used by the defenders of Minas Tirith at the battle of the Pelennor, to the ballistae brought by the army of the Iron Hills to wage war upon the fields of Erebor. Whatever form they take, Siege Engines provide an obvious threat to an enemy force. Here we present the rules for using siege engines in your games.
 
 A **Siege Engine** has a profile in the same way that Warrior, **Hero** and Monster models do. Understandably, some of the values on an ordinary profile are simply not relevant to a big, inanimate hunk of metal and wood, and this is reflected in the smaller number of characteristics on a Siege Engine's profile.
 
@@ -6,7 +6,7 @@ A **Siege Engine** has a profile in the same way that Warrior, **Hero** and Mons
 |---------------------|----------|---------|--------|
 | BATTLECRY TREBUCHET | (10) | 10 | 3 |
 
-A **Siege Engine** also always comes with a crew specified in its profile -- these are fighters who have been specially trained to operate it. Crew have their own characteristic profiles — the crew may not move more than 6" from their **Siege Engine** unless it is first destroyed.
+A **Siege Engine** also always comes with a crew specified in its profile -- these are fighters who have been specially trained to operate it. Crew have their own characteristic profiles - the crew may not move more than 6" from their **Siege Engine** unless it is first destroyed.
 
 ### SIEGE VETERANS
 
@@ -20,23 +20,23 @@ The Siege Veteran's warband will only ever contain the Siege Engine and all the 
 
 ### MOVING THE SIEGE ENGINE
 
-A **Siege Engine** cannot move itself, but may be moved by its crew or other nearby friendly models. Three models may move a **Siege Engine** up to their usual maximum Move distance, providing that all three start the Move phase in base contact with the **Siege Engine** and remain in base contact with it throughout their move. The **Siege Engine** moves at the rate of the slowest model. Two models may move a Siege Engine, but only up to half their maximum Move distance. A single model may not move a **Siege Engine** by itself. A Monster counts as three models for the purpose of moving a Siege Engine. A **Siege Engine** cannot move through difficult terrain or cross Barriers. 
+A **Siege Engine** cannot move itself, but may be moved by its crew or other nearby friendly models. Three models may move a **Siege Engine** up to their usual maximum Move distance, providing that all three start the Move phase in base contact with the **Siege Engine** and remain in base contact with it throughout their move. The **Siege Engine** moves at the rate of the slowest model. Two models may move a Siege Engine, but only up to half their maximum Move distance. A single model may not move a **Siege Engine** by itself. A Monster counts as three models for the purpose of moving a Siege Engine. A **Siege Engine** cannot move through difficult terrain or cross Barriers.
 
 ### FIRING THE SIEGE ENGINE
 
 A **Siege Engine** may be fired once each turn, provided that it has not moved that turn, and has at least two unengaged crew models on foot in base contact with it who are not Prone. If there are fewer crew, or too many of the crew are Engaged in combat, then the **Siege Engine** cannot fire. Other models may assist the crew, but any model that does so will cause the Siege Engine to be less accurate, as described in the Untrained Crew rules on [page 116]. Models that are unable to move for whatever reason, such as being under the effects of the Transfix Magical Power, are not able to fire, or help to fire, a Siege Engine.
 
-A **Siege Engine** is always defined as either large or small — this will be stated in its profile. A small **Siege Engine** only requires one unengaged crew model in base contact in order for it to fire.
+A **Siege Engine** is always defined as either large or small - this will be stated in its profile. A small **Siege Engine** only requires one unengaged crew model in base contact in order for it to fire.
 
 All **Siege Engine** models have a range of 48" unless otherwise stated in their profile. When firing a Siege Engine, you may either aim at a model or at a point on a fortification.
 
-Roll To Hit as normal, using the Shoot value of the crew. If different crew members have different Shoot values, the highest Shoot value available is always used, so long as the model is not Engaged in combat. If you fail to hit, the missile has gone astray of the target or some mechanical error has occurred — either way, the shot misses. If the shot hits, roll on the Scatter table if firing at a Battlefield target (see left); if firing at a Siege target, no roll on the Scatter table is required. Note, if a model involved in a Fight is hit by a Siege Engine shot then all models in the Fight are automatically hit.
+Roll To Hit as normal, using the Shoot value of the crew. If different crew members have different Shoot values, the highest Shoot value available is always used, so long as the model is not Engaged in combat. If you fail to hit, the missile has gone astray of the target or some mechanical error has occurred - either way, the shot misses. If the shot hits, roll on the Scatter table if firing at a Battlefield target (see left); if firing at a Siege target, no roll on the Scatter table is required. Note, if a model involved in a Fight is hit by a Siege Engine shot then all models in the Fight are automatically hit.
 
 ***FIRING THE SIEGE ENGINE***
 
 ![](../media/rules_manual/firing_the_siege_engine_1.jpg)
 
-*A Battlecry Trebuchet is defending a Minas Tirith outpost from a horde of attacking Mordor Orcs. The Trebuchet nominates an* Orc *as a target and rolls To Hit; scoring a 5 — a clear hit! Because Infantry models are Battlefield targets, the Battlecry Trebuchet now rolls on the Scatter table, scoring a 6, and so the* Orc *Warrior suffers one Strength 10 hit and is Knocked to the Ground.*
+*A Battlecry Trebuchet is defending a Minas Tirith outpost from a horde of attacking Mordor Orcs. The Trebuchet nominates an* Orc *as a target and rolls To Hit; scoring a 5 - a clear hit! Because Infantry models are Battlefield targets, the Battlecry Trebuchet now rolls on the Scatter table, scoring a 6, and so the* Orc *Warrior suffers one Strength 10 hit and is Knocked to the Ground.*
 
 ### VOLLEY FIRE
 
@@ -45,7 +45,7 @@ A **Siege Engine** that is a catapult or trebuchet can Volley Fire. This enables
 ### BATTLEFIELD AND SIEGE TARGETS
 
 Any target that you fire a **Siege Engine** at is either a Battlefield target or Siege target. Battlefield targets tend to be things that can move swiftly or are small, whilst Siege targets are typically large and static. On [page 114] is a list of target types you
-will encounter in your games, and the definition of whether they are Battlefield targets or Siege targets. As you play, you will find more items you wish to define. Basically, if both players agree that it would be easy for a trained **Siege Engine** crew to hit, it should be treated as a Siege target — so simply agree with your opponent before the game.
+will encounter in your games, and the definition of whether they are Battlefield targets or Siege targets. As you play, you will find more items you wish to define. Basically, if both players agree that it would be easy for a trained **Siege Engine** crew to hit, it should be treated as a Siege target - so simply agree with your opponent before the game.
 
 Once you have chosen your target, roll To Hit.
 
@@ -55,15 +55,15 @@ If you are firing at a Battlefield target, there is a chance that the unwieldy w
 
 ### TARGET TYPES
 
-**Battlefield Targets:** 
-* Infantry models 
-* **Cavalry** models 
+**Battlefield Targets:**
+* Infantry models
+* **Cavalry** models
 * Monster models
 * Doors
 * Small Siege Engines
 
 **Siege Targets:**
-* Large Gates 
+* Large Gates
 * The Mûmak
 * Houses
 * Boats
@@ -82,7 +82,7 @@ Although there is a high chance of a Siege Engine missing its intended target an
 | D6 | Result                    |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **Wide of the Mark.** Your opponent may nominate one of your Battlefield targets, or a Siege target within 6" of the initial target, as the new target. If no alternative target is within 6", or if the player does not want to do this, the shot misses completely. |
-| 2‑5 | **Slight Deviation.** Your opponent may nominate one of their own Battlefield targets within 6" of the initial target as the new target, or choose the original target. |
+| 2-5 | **Slight Deviation.** Your opponent may nominate one of their own Battlefield targets within 6" of the initial target as the new target, or choose the original target. |
 | 6  | **Dead on!** The shot lands exactly on the target.               |
 
 ### ROLLING TO WOUND
@@ -91,9 +91,9 @@ Once any scatter has been resolved, roll To Wound as normal using the Strength o
 
 Any Battlefield target struck by a shot from a **Siege Engine** is knocked Prone and will be slain if wounded (regardless of how many Wounds it has remaining). A model only needs to pass one Fate roll to prevent all the Wounds it would have suffered.
 
-The only exceptions to this instant kill situation are if the target has a Defence of 10 or 10 or more Wounds on its starting profile — a wounding hit against such a target will cause the model to suffer a number of Wounds equal to half of its Wounds characteristic, rounded up, rather than die instantly.
+The only exceptions to this instant kill situation are if the target has a Defence of 10 or 10 or more Wounds on its starting profile - a wounding hit against such a target will cause the model to suffer a number of Wounds equal to half of its Wounds characteristic, rounded up, rather than die instantly.
 
-Note that if a **Cavalry** model is struck, the mount, rider and any passengers are all hit and knocked Prone — you must roll To Wound for each of them.
+Note that if a **Cavalry** model is struck, the mount, rider and any passengers are all hit and knocked Prone - you must roll To Wound for each of them.
 
 ### INJURY TO NEARBY MODELS
 
@@ -115,7 +115,7 @@ The **Siege Engine** itself does not need to make Courage tests (and does not co
 
 ### ATTACKINGTHE SIEGE ENGINE
 
-A **Siege Engine** can be shot at normally. If reduced to 0 Wounds, the model is disabled for the rest of the game — leave the **Siege Engine** in place, but it cannot be fired any more.
+A **Siege Engine** can be shot at normally. If reduced to 0 Wounds, the model is disabled for the rest of the game - leave the **Siege Engine** in place, but it cannot be fired any more.
 
 If an enemy model spends a full turn in base contact with a **Siege Engine** without doing anything else (ie, not shooting, using Magical Powers, or fighting in combat), the **Siege Engine** is automatically disabled, as described above.
 
@@ -125,7 +125,7 @@ A **Siege Engine** counts as having a Strength of 6 for the purposes of Sorcerou
 
 ### DEPLOYING A SIEGE ENGINE
 
-In Matched Play and Open Play games, a **Siege Engine** does not follow the usual rules for deployment. Instead, it is always deployed within 6" of the controlling player's table edge — regardless of the Scenario.
+In Matched Play and Open Play games, a **Siege Engine** does not follow the usual rules for deployment. Instead, it is always deployed within 6" of the controlling player's table edge - regardless of the Scenario.
 
 In Scenarios where models move onto the board via the Maelstrom of Battle special rule, both players roll a dice to determine their board edges for the purpose of deploying their **Siege Engine** models. The player who scored the highest may choose any board edge to count as their board edge (the opposing player automatically has the opposite board edge) and immediately deploy their **Siege Engine** models. The opposing player then deploys their **Siege Engine** models. In this situation, a **Siege Engine** does not count as having moved in the first turn.
 
@@ -150,11 +150,11 @@ To use the demolition charge, it must be dropped. A model with a flaming brand t
 
 | D6 | Result              |
 |-----------|-----------------------------------------------------------------------------------------------------------------|
-| 1  | **Dud.** The charge has been damaged in some way and will not detonate yet — roll again next turn and add +1 to the roll. |
-| 2‑5 | **Instant Reaction.** The charge catches instantly, exploding in a roar of smoke and flame, see below.  |
+| 1  | **Dud.** The charge has been damaged in some way and will not detonate yet - roll again next turn and add +1 to the roll. |
+| 2-5 | **Instant Reaction.** The charge catches instantly, exploding in a roar of smoke and flame, see below.  |
 | 6  | **Titanic Explosion.** The powder in the charge detonates with colossal fury as described below, but inflicts 2D6 Wounds rather than D6. |
 
-When it explodes, a demolition charge automatically strikes everything within 2" of the model — walls, gates, doors, and of course, any models (friend or foe) that are in range of it. Each target struck automatically takes D6 Wounds, regardless of its Defence value. **Cavalry** models take D6 Wounds on both the mount and the rider.
+When it explodes, a demolition charge automatically strikes everything within 2" of the model - walls, gates, doors, and of course, any models (friend or foe) that are in range of it. Each target struck automatically takes D6 Wounds, regardless of its Defence value. **Cavalry** models take D6 Wounds on both the mount and the rider.
 
 **DETONATING THE CHARGE**
 
@@ -164,15 +164,15 @@ When it explodes, a demolition charge automatically strikes everything within 2"
 
 ### DESPERATE DETONATIONS
 
-Without a flaming brand, causing a detonation is hard. Any model from the same army as the demolition charge may attempt a Desperate Detonation at the start of the Fight phase, as long as it is in base contact and not Engaged in combat. It must also pass a Courage test as normal. For each model attempting this, roll a D6. If one or more 6s are rolled, the charge is detonated — roll on the Detonation table as usual.
+Without a flaming brand, causing a detonation is hard. Any model from the same army as the demolition charge may attempt a Desperate Detonation at the start of the Fight phase, as long as it is in base contact and not Engaged in combat. It must also pass a Courage test as normal. For each model attempting this, roll a D6. If one or more 6s are rolled, the charge is detonated - roll on the Detonation table as usual.
 
 ### ATTACKING THE CHARGE
 
-The demolition charge can be shot at normally, and has a Defence of 7 and 3 Wounds. If the charge is wounded, roll a D6 per Wound inflicted. On a 6, the charge immediately detonates — roll on the Detonation table as normal.
+The demolition charge can be shot at normally, and has a Defence of 7 and 3 Wounds. If the charge is wounded, roll a D6 per Wound inflicted. On a 6, the charge immediately detonates - roll on the Detonation table as normal.
 
 A demolition charge that is wounded by another demolition charge will be detonated on the roll of a 4+ (per Wound suffered) rather than a 6.
 
-If brought to 0 Wounds without exploding, the demolition charge is shattered and the powder scatters harmlessly on the ground — remove the charge from play.
+If brought to 0 Wounds without exploding, the demolition charge is shattered and the powder scatters harmlessly on the ground - remove the charge from play.
 
 An enemy model that spends a Fight phase in base contact with a demolition charge, and is not Engaged in combat, may automatically disable it. Remove it from play.
 

@@ -1,4 +1,4 @@
-﻿## CROSSING OF THE RIVER CARNEN
+## CROSSING OF THE RIVER CARNEN
 
 **LAYOUT**
 
@@ -202,7 +202,7 @@ The game lasts until either the Good player completes their objective, or the Ev
 
 Bard and Thorin may declare Heroic March in this Scenario, even though they would not normally be able to do so.
 
-Additionally, whenever Bard or Thorin declare a Heroic March, they do not need to spend Might points to do so — it is free.
+Additionally, whenever Bard or Thorin declare a Heroic March, they do not need to spend Might points to do so - it is free.
 
 * **The Heirs to the Kingdoms**
 
@@ -222,7 +222,7 @@ If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then 
 
 **LAYOUT**
 
-The board represents the battlements of Erebor and the siege ladders propped up against the walls. The area within 9" of the northern board edge is the battlements and should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the southern board edge is the plains outside Erebor — and is rather a long way down!
+The board represents the battlements of Erebor and the siege ladders propped up against the walls. The area within 9" of the northern board edge is the battlements and should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the southern board edge is the plains outside Erebor - and is rather a long way down!
 
 **STARTING POSITIONS**
 
@@ -242,7 +242,7 @@ Each time an Easterling Warrior is slain, keep it to one side. At the end of eac
 
 * **Battlements of Erebor**
 
-The southern edge of the walls of Erebor is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain — it's a rather steep fall!
+The southern edge of the walls of Erebor is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
 **PARTICIPANTS**
 
@@ -304,7 +304,7 @@ The Evil player places Gollum in the center of the board. The Good player then d
 
 With the attack of the Orcs and Wargs, Gollum sees a chance to escape his Elven captors. The Elves must fend off the assault and ensure that they do not let Gollum slip through their fingers.
 
-The game lasts until one force has completed their objective. The Good player wins if at the end of any turn all the Orcs and Wargs have been slain. The Evil player wins immediately if Gollum escapes the board via the southern board edge. 
+The game lasts until one force has completed their objective. The Good player wins if at the end of any turn all the Orcs and Wargs have been slain. The Evil player wins immediately if Gollum escapes the board via the southern board edge.
 
 **SPECIAL RULES**
 
@@ -812,15 +812,15 @@ Beorn enters the board as a passenger on the back of any of the Great Eagles (no
 
 **GOOD**
 
-**Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.  
+**Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
 
-**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.  
+**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
 
-**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.  
+**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.
 
 **Radagast's Alliance:** Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
 
-**EVIL**  
+**EVIL**
 
 **Azog's Legion:** Azog with heavy armor, stone flail, and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
@@ -852,7 +852,7 @@ Models cannot see, and therefore cannot shoot, enemy models that are further tha
 
 **PARTICIPANTS**
 
-**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.  
+**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
 
 **Evil:** 3 Orc Captains with shield; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
 

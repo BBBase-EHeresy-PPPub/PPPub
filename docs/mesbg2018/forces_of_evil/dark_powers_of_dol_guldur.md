@@ -6,7 +6,6 @@ This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The
 
 **"His Spirit has lost none of its Potency"** - Whenever the Necromancer of Dol Guldur attempts to cast a Magical Power, by expending one or more Will points, he automatically adds an extra free Will point to the Casting test.
 
-
 ## HEROES OF DARK POWERS OF DOL GULDUR
 
 <div class="unitCard" markdown>
@@ -56,7 +55,6 @@ Any model that suffers a wound from the Necromancer is automatically slain. A He
 
 Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Resurrection rule, whilst the Necromancer is alive.
 
-
 </div>
 
 ---
@@ -100,7 +98,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
-
 </div>
 
 ---
@@ -144,7 +141,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
-
 </div>
 
 ---
@@ -187,7 +183,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 - **Unholy Resurrection** `PASSIVE`
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
-
 
 </div>
 
@@ -232,7 +227,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
-
 </div>
 
 ---
@@ -275,7 +269,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 - **Unholy Resurrection** `PASSIVE`
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
-
 
 </div>
 
@@ -320,7 +313,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
-
 </div>
 
 ---
@@ -364,7 +356,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
-
 </div>
 
 ---
@@ -407,7 +398,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 - **Unholy Resurrection** `PASSIVE`
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
-
 
 </div>
 
@@ -451,7 +441,6 @@ There are seven Nazgul of Dol Guldur profiles available.
 - **Unholy Resurrection** `PASSIVE`
 
 When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
-
 
 </div>
 
@@ -520,7 +509,6 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 Whilst they have the Infantry keyword, a model with this special rule gains +1 Attack.
 
-
 </div>
 
 ---
@@ -557,7 +545,6 @@ Keep note of each model he kills. After one kill, he may re-roll To Wound rolls 
 - **You have something my Master wants!** `ACTIVE`
 
 The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears one of the three Elven rings: Nenya, Narya or Vilya.
-
 
 </div>
 
@@ -599,11 +586,9 @@ Castellans do not grant Stand Fast! to nearby Warrior models.
 
 Castellans may use Will points as Fate points if they wish.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF DARK POWERS OF DOL GULDUR
 
@@ -687,7 +672,6 @@ Castellans may use Will points as Fate points if they wish.
 
 Whilst they have the Infantry keyword, a model with this special rule gains +1 Attack.
 
-
 </div>
 
 ---
@@ -714,6 +698,5 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
-
 
 </div>

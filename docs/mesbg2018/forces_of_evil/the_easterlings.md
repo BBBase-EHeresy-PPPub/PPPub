@@ -6,7 +6,6 @@ This army may include: The Dragon Emperor; Amdur; Khamul; Rutabi; Brorgir; Easte
 
 **"No quarter was asked..."** - Easterling models receive +1 Courage when their force is Broken. Additionally, once per game, in Scenarios in which a die is rolled to see when the game ends, so long as there is at least one Easterling Hero model alive and on the battlefield, the Easterling player may choose to have the dice re-rolled if the Scenario ends before they wish it to. If there is an Easterling contingent as part of an army that contains an alliance, this Army Bonus is only in effect if 25% or more of the total models in the army have the Easterling keyword.
 
-
 ## HEROES OF THE EASTERLINGS
 
 <div class="unitCard" markdown>
@@ -49,7 +48,6 @@ The Emperor is Resistant to Magic.
 - **Phalanx** `ACTIVE`
 
 Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-
 
 </div>
 
@@ -96,7 +94,6 @@ All Easterling models treat Amdur as a banner. If Amdur kills the enemy leader, 
 - **Durtuz** `PASSIVE`
 
 Elven-made hand-and-a-half sword.
-
 
 </div>
 
@@ -150,7 +147,6 @@ Elven-made hand-and-a-half sword.
 
 Khamul regains one point of Will for each wound he causes with his strikes. He cannot exceed the 12 points of Will he starts with. At the start of a fight phase, he may choose to spend one point of Will to increase either his Fight, Strength or Attack by 1, for the remainder of that fight.
 
-
 </div>
 
 ---
@@ -188,7 +184,6 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 When making strikes against trapped enemy models, you may re-roll failed To Wound rolls.
 
-
 </div>
 
 ---
@@ -225,7 +220,6 @@ When making strikes against trapped enemy models, you may re-roll failed To Woun
 - **Sorcerous Adept** `ACTIVE`
 
 Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
-
 
 </div>
 
@@ -265,7 +259,6 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 - **The Gleaming Horde** `ACTIVE`
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
-
 
 </div>
 
@@ -349,11 +342,9 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 
 May only include Black Dragons or Dragon Cult Acolytes in his warband.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE EASTERLINGS
 
@@ -383,7 +374,6 @@ May only include Black Dragons or Dragon Cult Acolytes in his warband.
 - **Supreme Agility** `ACTIVE`
 
 Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automatically passes all In The Way tests when striking a model defending a barrier or doorway.
-
 
 </div>
 
@@ -422,7 +412,6 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
 
-
 </div>
 
 ---
@@ -460,7 +449,6 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
 
-
 </div>
 
 ---
@@ -493,7 +481,6 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 - **Phalanx** `ACTIVE`
 
 Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-
 
 </div>
 
@@ -528,7 +515,6 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
-
 </div>
 
 ---
@@ -555,6 +541,5 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 - **Slow-acting Venom** `PASSIVE`
 
 Any model that suffers a wound from a Rhunish War Drake but is not slain, reduces their Fight and Attack value by 1 (to a minimum of 1) for the remainder of the game. This effect does not stack on the same model between wounds from different War Drakes.
-
 
 </div>

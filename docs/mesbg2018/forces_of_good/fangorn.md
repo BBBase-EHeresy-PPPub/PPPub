@@ -45,7 +45,6 @@ Can ride as passengers and not be targeted by enemy attacks and shooting. May us
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the bludgeon is slain, you may keep repeating this until the bludgeon is not slain (in which case
 
-
 </div>
 
 ---
@@ -82,7 +81,6 @@ Must re-roll failed To Wound rolls against Orc, Uruk-hai, Goblin or Isengard mod
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the bludgeon is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone).
 
-
 </div>
 
 ---
@@ -114,11 +112,9 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the bludgeon is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone).
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF FANGORN
 
@@ -144,6 +140,5 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the bludgeon is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone).
-
 
 </div>

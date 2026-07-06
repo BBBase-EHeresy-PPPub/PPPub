@@ -1,4 +1,4 @@
-﻿## BURNING OF THE WESTFOLD
+## BURNING OF THE WESTFOLD
 
 **LAYOUT**
 
@@ -140,7 +140,7 @@ Evil models may not move during the first turn of the game.
 
 * **Merry and Pippin**
 
-Merry and Pippin begin the game Prone and bound. They may only move by crawling, however, they may crawl 2" per turn rather than 1". They may not Charge enemy models and may not be charged by enemy models (the Uruk-hai have other things to worry about after all!). The Hobbits do not have a Control Zone in this game and may move through an enemy model's Control Zones without penalty. The Hobbits may also move through other models as if they were not there so long as they end their move with no part of their base overlapping another model. Other models may move through the Hobbits in the same way — we assume they either walk over them or push them out of the way.
+Merry and Pippin begin the game Prone and bound. They may only move by crawling, however, they may crawl 2" per turn rather than 1". They may not Charge enemy models and may not be charged by enemy models (the Uruk-hai have other things to worry about after all!). The Hobbits do not have a Control Zone in this game and may move through an enemy model's Control Zones without penalty. The Hobbits may also move through other models as if they were not there so long as they end their move with no part of their base overlapping another model. Other models may move through the Hobbits in the same way - we assume they either walk over them or push them out of the way.
 
 * **Their Bonds were Cut**
 
@@ -176,7 +176,7 @@ The game lasts until either Grishnákh has been slain, or both Hobbits have been
 
 This mini-game is unusual in that it still uses some elements from the core rules as well as the extra rules presented here. All models will still use their profile as found in *Armies of The Lord of the Rings*.
 
-At the beginning of each turn, the Good player moves the Hobbits. To move a Hobbit, the Good player flips over the top card from the deck, halves the number shown (rounding up), and moves the Hobbit up to that many inches — picture cards will be covered later. Treebeard does not act yet; he is still asleep and will need to be woken up by the Hobbits before he may participate in this game.
+At the beginning of each turn, the Good player moves the Hobbits. To move a Hobbit, the Good player flips over the top card from the deck, halves the number shown (rounding up), and moves the Hobbit up to that many inches - picture cards will be covered later. Treebeard does not act yet; he is still asleep and will need to be woken up by the Hobbits before he may participate in this game.
 
 The Evil player then moves Grishnákh in the same way as the Hobbits, with the exception that he may add 1" to the total number of inches moved when he flips a card over.
 
@@ -186,9 +186,9 @@ If at any point there are no cards left in the deck, shuffle the cards and start
 
 **EXTRA RULES**
 
-**Picture Cards** — When a picture card (King, Queen, or Jack) is flipped over, the model that flipped it may perform a special action instead of moving. There is one set of special actions for the Hobbits and one for Grishnákh. If they decide not to use a special action, shuffle the card back into the deck and draw again.
+**Picture Cards** - When a picture card (King, Queen, or Jack) is flipped over, the model that flipped it may perform a special action instead of moving. There is one set of special actions for the Hobbits and one for Grishnákh. If they decide not to use a special action, shuffle the card back into the deck and draw again.
 
-**Injured** — As Grishnákh was wounded in the encounter with the Rohirrim, he starts the game with only a single Might point.
+**Injured** - As Grishnákh was wounded in the encounter with the Rohirrim, he starts the game with only a single Might point.
 
 **HOBBIT SPECIAL ACTIONS**
 
@@ -285,7 +285,7 @@ Gimli starts the game as a passenger on Legolas' horse.
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan with horse; Aragorn — Strider with horse; Legolas Greenleaf with horse; Gimli, son of Glóin; Gamling, Captain of Rohan with horse; Háma, Captain of Rohan; 6 Riders of Rohan: 2 with shield, 2 with throwing spear, 2 with no additional equipment.
+**Good:** Théoden, King of Rohan with horse; Aragorn - Strider with horse; Legolas Greenleaf with horse; Gimli, son of Glóin; Gamling, Captain of Rohan with horse; Háma, Captain of Rohan; 6 Riders of Rohan: 2 with shield, 2 with throwing spear, 2 with no additional equipment.
 
 **Evil:** Sharku with Warg; Orc Captain on Warg; 18 Warg Riders: 6 with shield, 6 with Orc bow, 6 with throwing spear.
 
@@ -327,7 +327,7 @@ Ladders can be pushed down as described on page 122 of the main rules manual. Mo
 
 **PARTICIPANTS**
 
-**Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor and Elf bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor and Elf bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 32 Uruk-hai Warriors: 10 with shield, 10 with pike, 12 with crossbow; 16 Uruk-hai Berserkers; 5 siege ladders.
 
@@ -339,7 +339,7 @@ Ladders can be pushed down as described on page 122 of the main rules manual. Mo
 
 **LAYOUT**
 
-The board represents the battlements of Helm's Deep and the siege ladders propped up against the Deeping Wall. The area within 9" of the western board edge is the battlements, and so should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the eastern board edge represents the fields outside Helm's Deep — and it is rather a long way down!
+The board represents the battlements of Helm's Deep and the siege ladders propped up against the Deeping Wall. The area within 9" of the western board edge is the battlements, and so should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the eastern board edge represents the fields outside Helm's Deep - and it is rather a long way down!
 
 **STARTING POSITIONS**
 
@@ -359,11 +359,11 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 * **Battlements of Helm's Deep**
 
-The eastern edge of the Deeping Wall is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain — it's a rather steep fall!
+The eastern edge of the Deeping Wall is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
 **PARTICIPANTS**
 
-**Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor & Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor & Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 16 Uruk-hai Berserkers.
 
@@ -399,7 +399,7 @@ Evil models add 1 to the result when rolling on the Detonation table.
 
 **PARTICIPANTS**
 
-**Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
 
 **Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers; 3 Uruk-hai Demolition Teams.
 
@@ -449,7 +449,7 @@ Once per game, if Legolas starts his Move phase in base contact with the top of 
 
 **PARTICIPANTS**
 
-**Good:** Aragorn — Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
 
 **Evil:** 3 Uruk-hai Captains with heavy armor and shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
@@ -461,7 +461,7 @@ Once per game, if Legolas starts his Move phase in base contact with the top of 
 
 **LAYOUT**
 
-The board represents the battlements of Helm's Deep and the siege ladders propped up against the Deeping Wall. The area within 9" of the western board edge is the battlements and should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the eastern board edge represents the fields outside Helm's Deep—and it is rather a long way down!
+The board represents the battlements of Helm's Deep and the siege ladders propped up against the Deeping Wall. The area within 9" of the western board edge is the battlements and should be relatively clear. There are five siege ladders in this battle, spaced out as shown on the map. The area within 3" of the eastern board edge represents the fields outside Helm's Deep-and it is rather a long way down!
 
 **STARTING POSITIONS**
 
@@ -643,17 +643,17 @@ The Good player deploys the Defenders of the Deeping Wall anywhere on the Deepin
 
 **OBJECTIVES**
 
-The Battle of Helm's Deep is a huge battle fought across the entire fortress; as such, this scenario has five objectives for both sides to fight over. As this scenario will take a long time, we suggest you gather your friends and decide among you how long to play (we recommend at least five hours—possibly a whole weekend!), and whichever team has achieved the most objectives by the time the game ends is declared the winner!
+The Battle of Helm's Deep is a huge battle fought across the entire fortress; as such, this scenario has five objectives for both sides to fight over. As this scenario will take a long time, we suggest you gather your friends and decide among you how long to play (we recommend at least five hours-possibly a whole weekend!), and whichever team has achieved the most objectives by the time the game ends is declared the winner!
 
-1. **Théoden** — If at the end of the game Théoden is still alive, the Good player claims this objective. If Théoden has been slain, the Evil player claims this objective.
+1. **Théoden** - If at the end of the game Théoden is still alive, the Good player claims this objective. If Théoden has been slain, the Evil player claims this objective.
 
-2. **The Deeping Wall** — If at the end of the game the Deeping Wall has been destroyed, the Evil player claims this objective. If the Deeping Wall remains intact, the Good player claims this objective.
+2. **The Deeping Wall** - If at the end of the game the Deeping Wall has been destroyed, the Evil player claims this objective. If the Deeping Wall remains intact, the Good player claims this objective.
 
-3. **The Hornburg** — Whichever player has the most models within the Hornburg at the end of the game claims this objective.
+3. **The Hornburg** - Whichever player has the most models within the Hornburg at the end of the game claims this objective.
 
-4. **The Heroes of Helm's Deep** — There are eight Good Hero models within the fortress of Helm's Deep: Aragorn, Legolas, Gimli, Théoden, Gamling, Aldor, Haleth, and Haldir. If at the end of the game there are more of these Hero models alive than dead, the Good player claims this objective. If more of these Hero models have been slain, the Evil player claims this objective.
+4. **The Heroes of Helm's Deep** - There are eight Good Hero models within the fortress of Helm's Deep: Aragorn, Legolas, Gimli, Théoden, Gamling, Aldor, Haleth, and Haldir. If at the end of the game there are more of these Hero models alive than dead, the Good player claims this objective. If more of these Hero models have been slain, the Evil player claims this objective.
 
-5. **The Causeway** — Whichever player has the most models upon the causeway at the end of the game claims this objective.
+5. **The Causeway** - Whichever player has the most models upon the causeway at the end of the game claims this objective.
 
 **SPECIAL RULES**
 
@@ -679,12 +679,12 @@ Ladders can be pushed down as described on page 122 of the main rules manual. Mo
 
 **PARTICIPANTS**
 
-**GOOD** 
+**GOOD**
 
 **Defenders of the Hornburg:** Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears and shield, 8 with bow, 1 with banner.
-  
+
 **Defenders of the Deeping Wall:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; Haleth, son of Háma; Aldor; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears & shield, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
-  
+
 **Relief Force:** Éomer, Marshall of the Riddermark with horse; Erkenbrand, Captain of Rohan with horse; Gandalf the White with Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
 
 **EVIL**

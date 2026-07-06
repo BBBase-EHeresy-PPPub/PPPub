@@ -23,5 +23,4 @@ This army may include: Thrain the Broken (Evil).
 
 At the start of every Priority phase before rolling, Thrain must take an unmodified Courage test (he can never be forced to automatically pass it). If passed, he acts normally. If it is passed on a double, Thrain adds +2 to his Fight, Strength, Attack and Courage value, until the end of the turn. If the test is failed, the opposing player controls Thrain. If Thrain is being used as a Good model, then Good models cannot target him with shooting, Magical Powers, or Strikes if they win fights against him.
 
-
 </div>

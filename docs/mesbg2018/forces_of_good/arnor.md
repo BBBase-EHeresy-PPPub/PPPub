@@ -6,7 +6,6 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 
 **"Protect the King"** - Friendly Arnor models automatically pass courage tests whilst within 6" of Arvedui, Last King of Arnor.
 
-
 ## HEROES OF ARNOR
 
 <div class="unitCard" markdown>
@@ -37,7 +36,6 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 - **Chieftain of the Dunedain** `PASSIVE`
 
 If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a banner.
-
 
 </div>
 
@@ -70,7 +68,6 @@ If your force includes Aranarth, you may include Ranger of the North and Dunedai
 - **The King in the North** `PASSIVE`
 
 Arvedui's Stand Fast! Is 12", rather than 6".
-
 
 </div>
 
@@ -163,7 +160,6 @@ Arvedui's Stand Fast! Is 12", rather than 6".
 
 Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D6. On a 5+, the Wound is prevented. If failed, Hero models may still use Fate points as normal.
 
-
 </div>
 
 ---
@@ -223,7 +219,6 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 </div>
 
 ---
-
 
 ## WARRIORS OF ARNOR
 

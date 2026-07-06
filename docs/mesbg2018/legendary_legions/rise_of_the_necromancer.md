@@ -26,8 +26,8 @@
 
 **CASTELLAN OF DOL GULDUR [40 points]**
 
-• Morgul Blade: 5 points  
-• Swap Weapon: 5 points  
+• Morgul Blade: 5 points
+• Swap Weapon: 5 points
 
 </div>
 

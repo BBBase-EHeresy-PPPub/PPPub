@@ -6,7 +6,6 @@ This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War
 
 **"Warrior Pride"** - Mahud Warrior models that are within 6" of a friendly Mahud Hero model that is engaged in combat automatically pass all Courage tests they are required to make.
 
-
 ## HEROES OF FAR HARAD
 
 <div class="unitCard" markdown>
@@ -48,7 +47,6 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 - **High King of the Mahud** `PASSIVE`
 
 Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and may be deployed outside of the Howdah.
-
 
 </div>
 
@@ -149,11 +147,9 @@ Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel
 
 Inflicts three Strength 9 hits.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF FAR HARAD
 

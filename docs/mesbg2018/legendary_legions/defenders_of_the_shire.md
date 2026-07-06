@@ -4,15 +4,15 @@
 
 **MERIADOC, CAPTAIN OF THE SHIRE [45 points]**
 
-• Elven Cloak: 5 points  
-• Pony: 5 points  
-• Shield: 5 points  
+• Elven Cloak: 5 points
+• Pony: 5 points
+• Shield: 5 points
 
 **PEREGRIN, CAPTAIN OF THE SHIRE [45 points]**
 
-• Elven Cloak: 5 points  
-• Pony: 5 points  
-• Shield: 5 points  
+• Elven Cloak: 5 points
+• Pony: 5 points
+• Shield: 5 points
 
 **BALDO TULPENNY [40 points]**
 
@@ -22,8 +22,8 @@
 
 **FRODO OF THE NINE FINGERS [60 points]**
 
-• Elven Cloak: 5 points  
-• Pony: 5 points  
+• Elven Cloak: 5 points
+• Pony: 5 points
 
 **HAMFAST 'GAFFER' GAMGEE [30 points]**
 
@@ -35,8 +35,8 @@
 
 **SAMWISE THE BRAVE [45 points]**
 
-• Elven Cloak: 5 points  
-• Pony: 5 points  
+• Elven Cloak: 5 points
+• Pony: 5 points
 
 **WILL WHITFOOT [30 points]**
 
@@ -50,29 +50,29 @@
 
 **HOBBIT ARCHER [6 points]**
 
-• War Horn: 30 points  
-• Tookish Hunters: 1 point  
-• Swap Weapon: 1 point  
+• War Horn: 30 points
+• Tookish Hunters: 1 point
+• Swap Weapon: 1 point
 
 **HOBBIT ARCHER [5 points]**
 
-• War Horn: 30 points  
-• Tookish Hunters: 1 point  
-• Swap Weapon: 1 point  
+• War Horn: 30 points
+• Tookish Hunters: 1 point
+• Swap Weapon: 1 point
 
 **HOBBIT MILITIA [5 points]**
 
-• Battlin' Brandybucks: 1 point  
-• Swap Weapon: 1 point  
+• Battlin' Brandybucks: 1 point
+• Swap Weapon: 1 point
 
 **HOBBIT MILITIA [4 points]**
 
-• Battlin' Brandybucks: 1 point  
-• Swap Weapon: 1 point  
+• Battlin' Brandybucks: 1 point
+• Swap Weapon: 1 point
 
 **HOBBIT SHIRRIFF [5 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 </div>
 

@@ -6,7 +6,6 @@ This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Go
 
 **"You do not know Pain, you do not know Fear!"** - Friendly Isengard models do not start to take Courage tests for being Broken until at least 66% of the force's models have been removed as casualties. Additionally, Lutrz, Uglúk, Mauhúr, Vraskû, Uruk-hai Scout Captains, Uruk-hai Scouts gain the Woodland Creature special rule.
 
-
 ## HEROES OF ISENGARD
 
 <div class="unitCard" markdown>
@@ -54,7 +53,6 @@ Saruman's Stand Fast! Range is 12", and affects hero models.
 
 Can re-roll one dice when making Casting or Resist tests.
 
-
 </div>
 
 ---
@@ -90,7 +88,6 @@ Can re-roll one dice when making Casting or Resist tests.
 - **Find the Halflings** `PASSIVE`
 
 Lurtz can choose when and where his warband will arrive in a scenario, no dice roll is required.
-
 
 </div>
 
@@ -156,7 +153,6 @@ Calvary models do not gain the Extra Attack or Knock to Ground bonuses when Frid
 
 Frida and friendly Dunlending models within 3" may re-roll To Wound rolls against mounts during the Fight phase.
 
-
 </div>
 
 ---
@@ -187,7 +183,6 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 - **Lord of Dunland** `ACTIVE`
 
 If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare a Heroic Defence for free.
-
 
 </div>
 
@@ -274,7 +269,6 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 
 Whenever an enemy Hero model in base contact resolves a strike against Sharku and fails To Wound, immediately resolve one Strength 4 Strike against that model.
 
-
 </div>
 
 ---
@@ -306,7 +300,6 @@ Snaga's warband may only include Orc models.
 - **Cunning Mind** `PASSIVE`
 
 Snaga can choose not to take part in a friendly Hero model's Heroic Action, and act as normal. He can also choose to participate in the Heroic Action but does not have to remain within a specific range of that Hero.
-
 
 </div>
 
@@ -344,7 +337,6 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 The range of Thrydan's Stand Fast! is 12".
 
-
 </div>
 
 ---
@@ -374,7 +366,6 @@ The range of Thrydan's Stand Fast! is 12".
 - **Head Taker** `ACTIVE`
 
 If his warband is broken, instead of taking a courage test, Uglúk can kill a friendly Warrior within 2" and pass the test, with a Stand Fast! Range of 12" that affects both Warrior and Hero models
-
 
 </div>
 
@@ -496,7 +487,6 @@ All Wild Men of Dunland included in the same army as the Oathmaker gain the Isen
 
 Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless special rule.
 
-
 </div>
 
 ---
@@ -557,7 +547,6 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless specia
 
 ---
 
-
 ## WARRIORS OF ISENGARD
 
 <div class="unitCard" markdown>
@@ -584,7 +573,6 @@ Enemy models within 12" of Crebain do not gain the benefit of the Stalk Unseen s
 - **Cloud of Birds** `PASSIVE`
 
 Shooting attacks will only ever hit a Crebain on a natural 6 roll.
-
 
 </div>
 
@@ -616,7 +604,6 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 - **Slay their Horses!** `ACTIVE`
 
 Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mounts.
-
 
 </div>
 
@@ -652,7 +639,6 @@ Can either be used as a spear or two-handed axe.
 - **Favour of the War Chief** `PASSIVE`
 
 Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value in that fight.
-
 
 </div>
 
@@ -706,7 +692,6 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 - **Oblivious to Pain** `PASSIVE`
 
 When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
-
 
 </div>
 
@@ -796,7 +781,6 @@ When the berserker suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 The berserkers Defence is 6 against enemy shooting attacks
 
-
 </div>
 
 ---
@@ -819,7 +803,6 @@ The berserkers Defence is 6 against enemy shooting attacks
 - **Demolition Charges**
 
 See page 178 of Armies of LOTR book.
-
 
 </div>
 
@@ -930,7 +913,6 @@ See page 178 of Armies of LOTR book.
 
 ---
 
-
 ## SIEGE ENGINES OF ISENGARD
 
 <div class="unitCard" markdown>
@@ -965,11 +947,9 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 
 See page 179 of Armies of LOTR book.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF ISENGARD
 
@@ -1003,6 +983,5 @@ Grima can be deployed as part of an enemy warband, but moves and fights during t
 - **Wormtongue** `PASSIVE`
 
 Heroic actions cast by enemy heroes within 6" cost 2 Might points.
-
 
 </div>

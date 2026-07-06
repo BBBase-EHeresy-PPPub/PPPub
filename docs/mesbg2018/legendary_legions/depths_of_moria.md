@@ -6,13 +6,13 @@
 
 **MORIA BLACKSHIELD CAPTAIN [45 points]**
 
-• Swap Weapon: 5 points  
+• Swap Weapon: 5 points
 
 **MORIA GOBLIN CAPTAIN [35 points]**
 
-• Orc Bow: 5 points  
-• Shield: 5 points  
-• Swap Weapon: 5 points  
+• Orc Bow: 5 points
+• Shield: 5 points
+• Swap Weapon: 5 points
 
 **MORIA BLACKSHIELD SHAMAN [50 points]**
 
@@ -20,33 +20,33 @@
 
 **CAVE TROLL [75 points]**
 
-• Troll Chain: 5 points  
-• Swap Spear for Hammer: 5 points  
-• Swap Weapon: 1 point  
+• Troll Chain: 5 points
+• Swap Spear for Hammer: 5 points
+• Swap Weapon: 1 point
 
 **MORIA BLACKSHIELD [8 points]**
 
-• Spear: 1 point  
-• Swap Weapon: 1 point  
+• Spear: 1 point
+• Swap Weapon: 1 point
 
 **MORIA BLACKSHIELD DRUMMERS [75 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **MORIA GOBLIN DRUM [75 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **MORIA GOBLIN PROWLER [7 points]**
 
-• Swap Weapon: 1 point  
+• Swap Weapon: 1 point
 
 **MORIA GOBLIN WARRIOR [4 points]**
 
-• Orc Bow: 1 point  
-• Shield: 1 point  
-• Spear: 1 point  
-• Swap Weapon: 1 point  
+• Orc Bow: 1 point
+• Shield: 1 point
+• Spear: 1 point
+• Swap Weapon: 1 point
 
 </div>
 

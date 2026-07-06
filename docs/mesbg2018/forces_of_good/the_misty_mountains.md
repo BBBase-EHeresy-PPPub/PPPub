@@ -6,7 +6,6 @@ This army may include: Gwaihir; Great Eagle.
 
 **"The Eagles are coming!"** - Eagle models from this army list gain a bonus of +1 to their Strength on a turn in which they charged.
 
-
 ## HEROES OF THE MISTY MOUNTAINS
 
 <div class="unitCard" markdown>
@@ -38,11 +37,9 @@ This army may include: Gwaihir; Great Eagle.
 
 Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit from his Heroic Actions.
 
-
 </div>
 
 ---
-
 
 ## WARRIORS OF THE MISTY MOUNTAINS
 

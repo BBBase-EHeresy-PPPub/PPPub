@@ -6,7 +6,6 @@ This army may include: Dain Ironfoot, Lord of the Iron Hills; Iron Hills Captain
 
 **"Ironfoot has come!"** - In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcements rule), you may modify your own Reinforcements rolls for warbands from this army list by +1 or -1. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1. Additionally, Dáin Ironfoot, Lord of the Iron Hills receives the Master of Battle 4+ special rule.
 
-
 ## HEROES OF THE IRON HILLS
 
 <div class="unitCard" markdown>
@@ -55,7 +54,6 @@ When Dain Charges, he causes Terror for the rest of that turn.
 - **Headbutt** `ACTIVE`
 
 If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (or smaller) model and roll a D6. On a 5+, that model is Knocked to the Ground.
-
 
 </div>
 
@@ -142,7 +140,6 @@ See page 33 of Hobbit Armies book
 
 See page 34 of Hobbit Armies book
 
-
 </div>
 
 ---
@@ -159,7 +156,6 @@ See page 34 of Hobbit Armies book
 </div>
 
 ---
-
 
 ## WARRIORS OF THE IRON HILLS
 
@@ -209,7 +205,6 @@ See page 33 of Hobbit Armies book
 
 See page 34 of Hobbit Armies book
 
-
 </div>
 
 ---
@@ -245,7 +240,6 @@ See page 34 of Hobbit Armies book
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
 
-
 </div>
 
 ---
@@ -278,11 +272,9 @@ Two-handed weapon that can use either the Bash or Piercing Strike Special Strike
 
 Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
 
-
 </div>
 
 ---
-
 
 ## SIEGE ENGINES OF THE IRON HILLS
 
@@ -314,6 +306,5 @@ If a hit is scored against a Battlefield Target, all Man-sized models (or smalle
 - **Reliable**
 
 Will only scatter 3" rather than 6", may re-roll 1's To Hit.
-
 
 </div>

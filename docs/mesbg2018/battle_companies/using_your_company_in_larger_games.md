@@ -1,4 +1,4 @@
-﻿One of the most common questions that gets asked by players of Battle Companies is can they use the company they have spent a lot of time building and taking on adventures in other games of the Strategy Battle Game, and the answer is quite simply: yes, you can!
+One of the most common questions that gets asked by players of Battle Companies is can they use the company they have spent a lot of time building and taking on adventures in other games of the Strategy Battle Game, and the answer is quite simply: yes, you can!
 
 Using your Battle Company in larger games is absolutely fine, so long as both you and your opponent agree on this beforehand, of course. It often makes for a good game if both players use their Battle Company as part of a larger force from the same faction, that way it feels as if your company has joined their kinsmen upon the battlefield and that all of their adventures have been leading up to this one final defining moment.
 
@@ -16,7 +16,7 @@ When playing a Matched Play game using your Battle Company, there are a few addi
 
 - The leader of your Battle Company will always count as a Hero of Fortitude for the purposes of working out the leader of your overall army.
 
-- Members of your Battle Company may still generate Experience Points in the same ways as described on **page  7**. 
+- Members of your Battle Company may still generate Experience Points in the same ways as described on **page  7**.
 
 - Any members of your Battle Company that were removed as a casualty will still suffer Injuries, and therefore roll on the relevant Injury chart, as they would in normal Battle Companies games as described on **page 10**.
 
