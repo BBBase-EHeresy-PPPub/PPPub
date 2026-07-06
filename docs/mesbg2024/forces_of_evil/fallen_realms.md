@@ -35,7 +35,6 @@ Throwing weapons with Strength 1. Any target hit, but not slain, must immediatel
 
 Dalamyr can never be Trapped whilst still standing.
 
-
 </div>
 
 ---
@@ -76,7 +75,6 @@ Whilst mounted on the Royal War Mumak, the first time each turn an enemy model d
 - **High King of the South** `PASSIVE`
 
 The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
-
 
 </div>
 
@@ -123,7 +121,6 @@ Banner with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst 
 
 Suladan's Stand Fast! is 12" rather than 6".
 
-
 </div>
 
 ---
@@ -169,7 +166,6 @@ The Dragon Emperor gains the Resistant to Magic special rule.
 - **Phalanx** `ACTIVE`
 
 Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-
 
 </div>
 
@@ -224,7 +220,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
 
-
 </div>
 
 ---
@@ -255,7 +250,6 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 - **Ruthless Commander** `ACTIVE`
 
 Friendly Corsair Warrior models within 3" may re-roll a single dice during the Duel roll, after any other re-rolls from other sources have been used. However, if they use this bonus and still fail to win the Duel roll, they immediately suffer a Strength 2 hit. Only a single Corsair Warrior can use this special rule in each Combat.
-
 
 </div>
 
@@ -294,7 +288,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 - **Show No Mercy** `ACTIVE`
 
 When making strikes against Trapped enemy models, you may re-roll failed To Wound rolls.
-
 
 </div>
 
@@ -338,7 +331,6 @@ Each time Brorgir rolls one or more natural 6s when making a Casting Test, he wi
 
 This weapon can be used as either a pike or two-handed weapon.
 
-
 </div>
 
 ---
@@ -373,7 +365,6 @@ This weapon can be used as either a pike or two-handed weapon.
 - **Commanding Bellow** `ACTIVE`
 
 Friendly Corsair models treat a Corsair Bo'sun as a banner.
-
 
 </div>
 
@@ -473,7 +464,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
 
-
 </div>
 
 ---
@@ -514,7 +504,6 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 - **Easterling Halberd** `ACTIVE`
 
 This weapon can be used as either a pike or two-handed weapon.
-
 
 </div>
 
@@ -578,7 +567,6 @@ This weapon can be used as either a pike or two-handed weapon.
 
 Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
 
-
 </div>
 
 ---
@@ -615,7 +603,6 @@ Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot
 
 A Hasharin can never be Trapped while still standing.
 
-
 </div>
 
 ---
@@ -649,7 +636,6 @@ A Hasharin can never be Trapped while still standing.
 - **The Serpent's Weapon** `ACTIVE`
 
 At the start of the game, after both sides have deployed, secretly select one Hero model in the opponent's force to be Raza's target. If Raza is Engaged in Combat with this target, after any Heroic Actions have been resolved, reveal Raza's target. Raza gains a +2 bonus to his Fight value whilst Engaged in Combat with his target.
-
 
 </div>
 
@@ -692,7 +678,6 @@ When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
 - **Awesome Presence** `PASSIVE`
 
 Friendly models treat this model as a banner with a range of 6".
-
 
 **ADDITIONAL PROFILES**
 
@@ -751,7 +736,6 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 May only include Black Dragon Warrior models in his warband.
 
-
 </div>
 
 ---
@@ -791,7 +775,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 
 This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
 
-
 </div>
 
 ---
@@ -817,7 +800,6 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 - **Pavise** `PASSIVE`
 
 A shield that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
-
 
 </div>
 
@@ -876,7 +858,6 @@ Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automaticall
 
 This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
 
-
 </div>
 
 ---
@@ -916,7 +897,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 - **The Gleaming Horde** `ACTIVE`
 
 While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
-
 
 </div>
 
@@ -1054,7 +1034,6 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 Any model that suffers a wound from a War Drake which isn't prevented, and is not slain, reduces their Fight and Attack value by 1 (to a minimum of 1) for the remainder of the game. This effect does not stack on the same model between wounds from different War Drakes.
 
-
 </div>
 
 ---
@@ -1080,7 +1059,6 @@ A model that is hit by the shot of a Ballista will be flung back D6" directly aw
 - **Bladed Bolts** `ACTIVE`
 
 A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
-
 
 **ADDITIONAL PROFILES**
 

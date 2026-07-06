@@ -32,7 +32,6 @@ Brand's Stand Fast! Is 12" rather than 6".
 
 At the start of any Combat involving Brand, if he would be Trapped upon losing the Duel roll, he may re-roll a single D6 in the Duel roll, and a single D6 when rolling To Wound.
 
-
 </div>
 
 ---
@@ -69,7 +68,6 @@ If Girion takes a Windlance, he will be the only crew, but can move more than 6"
 
 Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
 
-
 </div>
 
 ---
@@ -102,7 +100,6 @@ Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-rol
 - **Wall of Blades** `ACTIVE`
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
-
 
 </div>
 
@@ -142,7 +139,6 @@ At the beginning of the game, your opponent must choose one of their Hero models
 
 Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as a casualty, the Master of Lake-town immediately regains a single Will Point spent earlier in the battle. Additionally, if the Master of Lake-town is in base contact with an Objective Marker during the End Phase of a turn, he may regain a single Will Point spent earlier in the battle.
 
-
 </div>
 
 ---
@@ -172,7 +168,6 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 4. The chosen Hero gains the Fearless special rule until the end of the turn.
 5. The chosen Hero increases their Fight Value by 1 until the end of the turn.
 6. The chosen Hero immediately regains a single Might Point spent earlier in the battle.
-
 
 </div>
 
@@ -227,7 +222,6 @@ If Bard takes the Windlance, then once per game Bard can fire the Black Arrow. I
 
 If Bard takes a Windlance, he will be the only crew. but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
 
-
 </div>
 
 ---
@@ -271,7 +265,6 @@ An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
 
 Bilbo ignores the Sauron's Will section of the rules for the One Ring. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing the One Ring, he is not removed as a casualty as would usually be the case.
 
-
 </div>
 
 ---
@@ -305,7 +298,6 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, Braga automatical
 - **Captain of the Guard** `PASSIVE`
 
 So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having Dominant (2).
-
 
 </div>
 
@@ -363,7 +355,6 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she and friendly Lake-town Warrior models within 3" of her gain a bonus of +1 To Wound when making Strikes.
 
-
 </div>
 
 ---
@@ -392,7 +383,6 @@ If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she an
 - **Everyone has a Price** `PASSIVE`
 
 Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
-
 
 </div>
 
@@ -448,7 +438,6 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To Hit results of a 1, when making shooting attacks.
 
-
 </div>
 
 ---
@@ -503,7 +492,6 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
 
-
 </div>
 
 ---
@@ -533,7 +521,6 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 - **Everyone has a Price** `PASSIVE`
 
 Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
-
 
 </div>
 
@@ -565,7 +552,6 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 - **Onwards Men of Esgaroth** `PASSIVE`
 
 Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is Engaged in Combat automatically pass any Courage tests they are required to make for being in a Broken army.
-
 
 </div>
 
@@ -628,7 +614,6 @@ A Windlance will only scatter 3" rather than 6"
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
-
 
 **ADDITIONAL PROFILES**
 

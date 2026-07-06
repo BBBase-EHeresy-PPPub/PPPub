@@ -1,16 +1,32 @@
-Throughout the long history of Middle-earth, many devastating sieges have taken place during times of war. From the siege of Helm's Deep where the valiant Men of Rohan desperately defended their people from the relentless onslaught of Saruman's Uruk-hai, to the Battle of Pelennor Fields where arguably the greatest army of the Third Age was amassed to breach the walls of Minas Tirith and bring the realm of Gondor to its knees, sieges have served as a titanic clash of armies in one final push to win a war. Over the following pages, we present you with the additional rules you will need to play your own siege battles, as well as a Siege Scenario for you to use when you recreate these epic battles.
+Throughout the long history of Middle-earth, many devastating sieges have taken place during times of war. From the siege of Helm's Deep where the valiant Men of Rohan desperately defended their people from the relentless onslaught of Saruman's Uruk-hai, to the Battle of Pelennor Fields where arguably the greatest army of the Third Age was amassed to breach the walls of Minas Tirith and bring the realm of Gondor to its knees, sieges have served as a titanic clash of armies in one final push to win a war.
+
+Over the following pages, we present you with the additional rules you will need to play your own siege battles, as well as a Siege Scenario for you to use when you recreate these epic battles.
 
 ## CASTLES AND FORTRESSES
 
-These rules are designed to help you fight battles across purpose-built fortifications, recreating the danger and thrill of laying siege to a castle or attacking the walls of a great fortress against a determined defender. A castle, fortress or other such fortification is made up of two main elements: the walls and the gates and doors. Purpose-built defensive walls that are taller than the height of a model cannot be Climbed by that model - the wall will be too sheer and will have no foot or hand holds to grasp onto. Models with the Swift Movement special rule can Climb such walls, provided they can make it all the way to the top and be placed flat on the walls, otherwise they cannot Climb them. For models to assault those atop the walls, they will need a Siege Ladder or even a Siege Tower. We don't make allowances for smashing down walls in our games - it's impossible to imagine what kind of fortress you have created at home and, in our experience, siege games can get quite complicated enough without this. However, should you wish to create your own rules for destroying walls in your own games, feel free to do so - though it's not advisable to have the likes of ordinary models be capable of destroying such things! Almost every fortress will have the likes of gates and doors
+These rules are designed to help you fight battles across purpose-built fortifications, recreating the danger and thrill of laying siege to a castle or attacking the walls of a great fortress against a determined defender. A castle, fortress or other such fortification is made up of two main elements: the walls and the gates and doors.
+
+Purpose-built defensive walls that are taller than the height of a model cannot be Climbed by that model - the wall will be too sheer and will have no foot or hand holds to grasp onto. Models with the Swift Movement special rule can Climb such walls, provided they can make it all the way to the top and be placed flat on the walls, otherwise they cannot Climb them. For models to assault those atop the walls, they will need a Siege Ladder or even a Siege Tower. We don't make allowances for smashing down walls in our games - it's impossible to imagine what kind of fortress you have created at home and, in our experience, siege games can get quite complicated enough without this. However, should you wish to create your own rules for destroying walls in your own games, feel free to do so - though it's not advisable to have the likes of ordinary models be capable of destroying such things!
+
+Almost every fortress will have the likes of gates and doors dotted throughout them, ranging from the impressive heavy gates used as the main entrance, to standard doors in between buildings. These are quite capable of being destroyed or moved through during the course of a game.
 
 ### ATTACKING GATES AND DOORS
 
-Gates and doors can be shot at like any other model, and can be attacked in the Fight Phase. Shooting Attacks with a Strength of 5 or more may damage gates or doors, however, Shooting Attacks with a Strength of 4 or lower cannot damage gates or doors. For a model to attack a gate or door, it must be in base contact with it at the end of the Fight Phase, and not have been Engaged in another Combat that turn. Models may Support those attacking a gate or door, provided that they also haven't been Engaged in a Combat, or Supported a Combat, that turn. When a model attacks a gate or door, no Duel Roll is made - they will automatically win. Models may then Strike against the gate or door following the normal rules, counting the gate or door as Trapped. Should a gate or door be reduced to 0 Wounds, it is destroyed and models from either side can Move through them feely. Monster models may not use Brutal Power Attacks against a gate or door. Below is a list of the various types of gates and doors, along with their Defence and Wounds characteristics. It is always a good idea to discuss with your opponent what each type of gate or door will count as before the game starts. dotted throughout them, ranging from the impressive heavy gates used as the main entrance, to standard doors in between buildings. These are quite capable of being destroyed or moved through during the course of a game. Type Fortress/Castle Gate Dwarven Door Heavy Armoured Door Armoured Door Heavy Door External Domestic Door Internal Domestic Door
+Gates and doors can be shot at like any other model, and can be attacked in the Fight Phase. Shooting Attacks with a Strength of 5 or more may damage gates or doors, however, Shooting Attacks with a Strength of 4 or lower cannot damage gates or doors.
 
-### DEFENCE
+For a model to attack a gate or door, it must be in base contact with it at the end of the Fight Phase, and not have been Engaged in another Combat that turn. Models may Support those attacking a gate or door, provided that they also haven't been Engaged in a Combat, or Supported a Combat, that turn. When a model attacks a gate or door, no Duel Roll is made - they will automatically win. Models may then Strike against the gate or door following the normal rules, counting the gate or door as Trapped. Should a gate or door be reduced to 0 Wounds, it is destroyed and models from either side can Move through them feely. Monster models may not use Brutal Power Attacks against a gate or door.
 
-10 9 9 8 7 6 5 Wounds 3 3 2 2 2 2 1 Castles and Fortresses
+Below is a list of the various types of gates and doors, along with their Defence and Wounds characteristics. It is always a good idea to discuss with your opponent what each type of gate or door will count as before the game starts.
+
+| Type | Defence | Wounds |
+|---|---|---|
+| Fortress/Castle Gate | 10 | 3 |
+| Dwarven Door | 9 | 3 |
+| Heavy Armoured Door | 9 | 2 |
+| Armoured Door | 8 | 2 |
+| Heavy Door | 7 | 2 |
+| External Domestic Door | 6 | 2 |
+| Internal Domestic Door | 5 | 1 |
 
 ### MOVING AROUND THE FORTRESS
 
@@ -66,44 +82,73 @@ A Siege Tower should be tall enough for the ramp to reach the battlements of the
 
 ## ATTACKER AND DEFENDER EQUIPMENT
 
-equipment that will aid them in the battle. Attacker equipment has largely already been covered and so just have their point costs listed here; however, the defender equipment will have some additional rules that they can use in their games.When choosing your forces for a siege game, both the attacker and the defender can spend their points on extra
+When choosing your forces for a siege game, both the attacker and the defender can spend their points on extra equipment that will aid them in the battle. Attacker equipment has largely already been covered and so just have their point costs listed here; however, the defender equipment will have some additional rules that they can use in their games.
 
 ### ATTACKER EQUIPMENT
 
-SIEGE LADDER...............................................................................................................................................................................5 POINTS BATTERING RAM..........................................................................................................................................................................15 POINTS SIEGE TOWER..............................................................................................................................................................................40 POINTS
+**Siege Ladder - 5 points**
+**Battering Ram - 15 points**
+**Siege Tower - 40 points**
 
 ### DEFENDER EQUIPMENT
 
-BARRICADE....................................................................................................................................................................................5 POINTS A Barricade should be no more than 3" in length, 1" in width and 1" in height. A Barricade can be defended in the same way as a Barrier (see page 54), and can be Jumped over in the same way as an Obstacle. A Barricade has a Defence of 7 and 2 Wounds. SPIKED BARRICADE...................................................................................................................................................................10 POINTS A Spiked Barricade follows all the rules for a regular Barricade, with the following additions: Any model that attempts to Jump over a Spiked Barricade will suffer one Strength 3 hit after resolving their Jump Test, unless they rolled a 6. Any model that is fighting across a Spiked Barricade and accidentally Strikes it instead of their opponent immediately suffers one Strength 3 hit. RALLYING POINT.........................................................................................................................................................................25 POINTS A Rallying Point is represented by a 25mm base. Models may Move over a Rallying Point but cannot finish their Move overlapping it. Defending models treat a Rallying Point as a banner. Additionally, defending models within 6" of a Rallying Point apply a +1 modifier to any Courage Tests they are required to take. If, during the End Phase of a turn, an enemy model is in base contact with a Rallying Point, that model hasn't done anything during that turn except Move (i.e., has not made a Shooting Attack, Cast a Magical Power, been Engaged in Combat), and that model was not affected by a Magical Power that turn, then it can destroy the Rallying Point - remove it from play. ROCKS.............................................................................................................................................................................................5 POINTS A pile of Rocks is represented by a 25mm base and is a Light Object. A defending model in base contact with the Rocks and in base contact with the battlements can make a Shooting Attack with them during the Shoot Phase. This Shooting Attack can only target enemy models within 1" of the walls, or climbing a Siege Ladder, and has a range of 8". A model making a Shooting Attack with a rock treats their Shoot Value as 4+ regardless of its actual value. Any model hit by a rock suffers one Strength 6 hit. A model climbing a Siege Ladder that is hit must roll a D6, and on a 1-3 they will fall off and suffer Falling Damage. BOILING OIL.................................................................................................................................................................................25 POINTS A vat of Boiling Oil is a Heavy Object and is represented by a 40mm base. If two defending models are in base contact with the Boiling Oil, and are not Engaged in Combat, they can pour it on an attacker as a Shooting Attack. This Shooting Attack can only target enemy models within 1" of the walls, or climbing a Siege Ladder, and has a range of 8". Models making a Shooting Attack with Boiling Oil treat their Shoot Value as 4+ regardless of its actual value. Any model hit by Boiling Oil suffers one Strength 8 hit, and any model (friend or foe) within 2" of the target suffers one Strength 4 hit. A model climbing a Siege Ladder that is hit must roll a D6, and on a 1-4 they will fall off and suffer Falling Damage. After making a Shooting Attack with Boiling Oil, the defender rolls a D6. On a 1, the supply of oil has run dry and that vat of Boiling Oil cannot be used for the remainder of the game. Attacker and Defender Equipment
+**Barricade - 5 points**
+
+A Barricade should be no more than 3" in length, 1" in width and 1" in height. A Barricade can be defended in the same way as a Barrier (see page 54), and can be Jumped over in the same way as an Obstacle. A Barricade has a Defence of 7 and 2 Wounds.
+
+**Spiked Barricade - 10 points**
+
+A Spiked Barricade follows all the rules for a regular Barricade, with the following additions:
+
+- Any model that attempts to Jump over a Spiked Barricade will suffer one Strength 3 hit after resolving their Jump Test, unless they rolled a 6.
+- Any model that is fighting across a Spiked Barricade and accidentally Strikes it instead of their opponent immediately suffers one Strength 3 hit.
+
+**Rallying Point - 25 points**
+
+A Rallying Point is represented by a 25mm base. Models may Move over a Rallying Point but cannot finish their Move overlapping it. Defending models treat a Rallying Point as a banner. Additionally, defending models within 6" of a Rallying Point apply a +1 modifier to any Courage Tests they are required to take. If, during the End Phase of a turn, an enemy model is in base contact with a Rallying Point, that model hasn't done anything during that turn except Move (i.e., has not made a Shooting Attack, Cast a Magical Power, been Engaged in Combat), and that model was not affected by a Magical Power that turn, then it can destroy the Rallying Point - remove it from play.
+
+**Rocks - 5 points**
+
+A pile of Rocks is represented by a 25mm base and is a Light Object. A defending model in base contact with the Rocks and in base contact with the battlements can make a Shooting Attack with them during the Shoot Phase. This Shooting Attack can only target enemy models within 1" of the walls, or climbing a Siege Ladder, and has a range of 8". A model making a Shooting Attack with a rock treats their Shoot Value as 4+ regardless of its actual value. Any model hit by a rock suffers one Strength 6 hit. A model climbing a Siege Ladder that is hit must roll a D6, and on a 1-3 they will fall off and suffer Falling Damage.
+
+**Boiling Oil - 25 points**
+
+A vat of Boiling Oil is a Heavy Object and is represented by a 40mm base. If two defending models are in base contact with the Boiling Oil, and are not Engaged in Combat, they can pour it on an attacker as a Shooting Attack. This Shooting Attack can only target enemy models within 1" of the walls, or climbing a Siege Ladder, and has a range of 8". Models making a Shooting Attack with Boiling Oil treat their Shoot Value as 4+ regardless of its actual value. Any model hit by Boiling Oil suffers one Strength 8 hit, and any model (friend or foe) within 2" of the target suffers one Strength 4 hit. A model climbing a Siege Ladder that is hit must roll a D6, and on a 1-4 they will fall off and suffer Falling Damage.
+
+After making a Shooting Attack with Boiling Oil, the defender rolls a D6. On a 1, the supply of oil has run dry and that vat of Boiling Oil cannot be used for the remainder of the game.
 
 ## THE GRAND SIEGE
 
-claiming the fortification for their own - or seeing it razed to the ground…Contained within their fortress, the defenders must fend off the impending siege from their foes, who are intent on
-
-### SCENARIO OUTLINE
+**SCENARIO OUTLINE**
 
 The defenders must defend the fortress at all costs, whilst the attackers seek to lay claim to it.
 
-### THE ARMIES
+**THE ARMIES**
 
-Players may either decide who is the attacker and defender, or may roll a D6 with the player who rolls highest choosing which to be. Players then build their Armies as described on pages 154-155. The attacker gains an additional 25% of the points value of the defender's Army to add to their own. So, If the defender's Army is 1,000 points, then the attacker may have up to 1,250 points. Both the attacker and defender may purchase items from their respective siege equipment list.
+Players may either decide who is the attacker and defender, or may roll a D6 with the player who rolls highest choosing which to be. Players then build their Armies as described on pages 154-155. The attacker gains an additional 25% of the points value of the defender's Army to add to their own. So, If the defender's Army is 1,000 points, then the attacker may have up to 1,250 points.
 
-### LAYOUT
+Both the attacker and defender may purchase items from their respective siege equipment list.
+
+**LAYOUT**
 
 The fortress will run the length of the board 12" from a board edge. The gate of the fortress is in the centre of the walls, and there may be a selection of towers along the length of the walls.
 
-### STARTING POSITIONS
+**STARTING POSITIONS**
 
 The defender deploys their Army anywhere atop or behind the wall of the fortress. The attacker then deploys their Army wholly within 12" of the board edge opposite to the fortress.
 
-### INITIAL PRIORITY
+**INITIAL PRIORITY**
 
 Players roll off for Priority on the first turn as normal.
 
-### OBJECTIVES
+**OBJECTIVES**
 
 The game lasts until the end of a turn in which one player has completed their objective. The attacker wins if during the End Phase of any turn there are 12 or more attacking models either on or within the walls of the fortress. The defender wins if during the End Phase of any turn, the attacker has been reduced to 25% or less of their starting numbers. If both sides complete their objective in the same turn, the game is a draw.
 
-### SPECIAL RULES
+**SPECIAL RULES**
 
-Ride Out - If needed, the defenders can open the gates of the fortress and charge out. The defender may choose to open the gates at the start of any Move Phase. From this point on, the gates will be open and models can Move through them with no penalty. This cannot be done if the gates have already been destroyed - they are already open at that point! Breach the Gates - If the gates are destroyed by the attacker, then defending models within the fortress suffer a -1 penalty to any Courage Test they have to take as a result of being part of a Broken Army. The Grand Siege
+**Ride Out** - If needed, the defenders can open the gates of the fortress and charge out. The defender may choose to open the gates at the start of any Move Phase. From this point on, the gates will be open and models can Move through them with no penalty. This cannot be done if the gates have already been destroyed - they are already open at that point!
+
+**Breach the Gates** - If the gates are destroyed by the attacker, then defending models within the fortress suffer a -1 penalty to any Courage Test they have to take as a result of being part of a Broken Army.
+
+![](../media/rules_manual/the_grand_siege.jpg)

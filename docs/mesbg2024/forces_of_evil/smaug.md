@@ -66,7 +66,6 @@ Enemies may still shoot Smaug even if he is Engaged in Combat. No In The Way tes
 
 Instead of making Strikes, Smaug can make a single Strength 9 hit on every model he is Engaged with.
 
-
 </div>
 
 ---

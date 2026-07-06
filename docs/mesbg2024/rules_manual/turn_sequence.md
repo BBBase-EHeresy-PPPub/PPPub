@@ -4,7 +4,7 @@ To bring a sense of order to the action that goes on in a battle, a game is divi
 
 ### TURNS
 
-During each turn, players will have the opportunity to use their models, allowing them to Move, Shoot any Missile Weapons, Charge into Combat, use any special abilities and Magical Powers, or anything else their models are allowed to do. Each turn is divided into five phases, with each one focusing on a different aspect of the battle. 
+During each turn, players will have the opportunity to use their models, allowing them to Move, Shoot any Missile Weapons, Charge into Combat, use any special abilities and Magical Powers, or anything else their models are allowed to do. Each turn is divided into five phases, with each one focusing on a different aspect of the battle.
 
 The order of these phases along with a brief description of what they do is provided opposite.
 

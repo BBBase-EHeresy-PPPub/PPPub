@@ -46,7 +46,6 @@ Helm never counts as unarmed.
 
 Helm may declare a free Heroic Combat each Fight phase. However, after he has slain an enemy model, he must always Charge an enemy model if possible, for the rest of the battle.
 
-
 </div>
 
 ---
@@ -96,7 +95,6 @@ Helm can never be your General. He cannot call Stand Fast and models cannot bene
 
 Helm must always Charge if able to do so. When he Charges, he gains Terror until the end of the turn, and may declare a free Heroic Combat in the Fight phase.
 
-
 </div>
 
 ---
@@ -138,7 +136,6 @@ When Hera Charges, she must re-roll any failed To Wound rolls in that turn.
 - **The Warrior Bride** `PASSIVE`
 
 Enemy models Engaged in Combat with Hera cannot declare a Heroic Strike.
-
 
 </div>
 
@@ -188,7 +185,6 @@ Theoden's Stand Fast! Is 12" rather than 6".
 
 If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare Heroic Actions or spend Will points.
 
-
 </div>
 
 ---
@@ -233,7 +229,6 @@ If Eomer rolls a natural 6 To Wound, he may make an additional To Wound roll aga
 
 If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-rolls all failed To Wound rolls for the rest of the game, and he must charge if able to do so.
 
-
 </div>
 
 ---
@@ -275,7 +270,6 @@ Whilst within 6" of Hera, Frealaf gains the Master of Battle (4+) special rule.
 
 Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdale. If they have Line of Sight to Frealaf, these warriors may re-roll failed Intelligence tests and gain Shieldwall.
 
-
 </div>
 
 ---
@@ -314,7 +308,6 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 - **Defender of Edoras** `ACTIVE`
 
 Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-roll failed To Wound rolls.
-
 
 </div>
 
@@ -355,7 +348,6 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 
 Hama may spend a Will point at the start of any Fight phase. If he does so, friendly Rohan models within 6" of him may re-roll To Wound rolls of a natural 1, until the end of that turn.
 
-
 </div>
 
 ---
@@ -394,7 +386,6 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 - **Reckless Charge** `ACTIVE`
 
 Theodred must Charge enemy models if able to so. Additionally, when he charges, re-roll any failed To Wound rolls in that fight.
-
 
 </div>
 
@@ -470,7 +461,6 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged in Combat within 6", Deorwine may call a Heroic Combat for free. If the action is successful, you must use the following move to join Theoden's Combat, or get as close as possible to him. He cannot use this special rule if he is in the same Combat as Theoden.
 
-
 </div>
 
 ---
@@ -510,7 +500,6 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 - **Pinpoint Accuracy** `ACTIVE`
 
 Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwing spears, and never suffers the normal -1 penalty when moving and shooting with his throwing spears.
-
 
 </div>
 
@@ -557,7 +546,6 @@ Whilst within 3" of Theoden, Eowyn may re-roll To Wound rolls of a natural 1. If
 
 If taken as an option, Merry becomes a passenger on Eowyn's horse. He will have a shield, be an Independent Hero, and still count towards the army's total models and Break Point. He does not take up a space in Eowyn's warband. Whilst he remains mounted, Eowyn gains Resistant to Magic, Attack 3, and can spend Merry's Might, Will and Fate.
 
-
 </div>
 
 ---
@@ -597,7 +585,6 @@ If taken as an option, Merry becomes a passenger on Eowyn's horse. He will have 
 
 Banner with range 6", Gamling does not suffer the -1 penalty in the Duel roll. If a friendly Rohan Hero model within 6" spends a Might point, they may roll a D6. On a natural 6, the point of Might is free.
 
-
 </div>
 
 ---
@@ -629,7 +616,6 @@ Banner with range 6", Gamling does not suffer the -1 penalty in the Duel roll. I
 - **Doorward of Meduseld** `PASSIVE`
 
 As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Guard within 6" of him count as having the Dominant (2) special rule.
-
 
 </div>
 
@@ -674,7 +660,6 @@ Hera may ignore the Stalk Unseen special rule of enemy models, and may draw Line
 
 If Hera is in a 1-on-1 combat with no supporting models involved, she gains Attack 3 and may re-roll To Wound rolls of a natural 1.
 
-
 </div>
 
 ---
@@ -713,7 +698,6 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 - **Stalwart Fighter** `ACTIVE`
 
 Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound her when making Strikes, regardless of their Strength. Note, as this does not require a natural 6, enemy models may use Might to influence their To Wound rolls against Olwyn and any bonuses To Wound will still apply as normal.
-
 
 </div>
 
@@ -755,7 +739,6 @@ Lief may spend a Will point at the end of his Activation, as long as he is not E
 4. Friendly Rohan models that start their Activation within 3" of Lief gain Woodland Creature and Mountain Dweller.
 5. Friendly Rohan models that start their Activation within 3" of Lief increase their Move value by 2".
 
-
 </div>
 
 ---
@@ -792,7 +775,6 @@ Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are 
 
 Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attack.
 
-
 </div>
 
 ---
@@ -828,7 +810,6 @@ Haleth has Attack 2 whilst he is within 6" of Aragorn.
 - **Fight to the Last** `PASSIVE`
 
 If at the start of the Fight Phase Haleth is Engaged in Combat, then for the duration of the Fight Phase Aragorn and other friendly Rohan Infantry models within 6" gain a bonus of +1 to their Fight Value. This benefit ends immediately if Haleth is slain.
-
 
 </div>
 
@@ -902,7 +883,6 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, it r
 
 This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
-
 </div>
 
 ---
@@ -942,7 +922,6 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, it r
 
 This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
-
 </div>
 
 ---
@@ -975,7 +954,6 @@ This model may use its throwing spears as a normal spear during the Fight phase,
 - **Spear Mastery** `ACTIVE`
 
 This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
-
 
 </div>
 

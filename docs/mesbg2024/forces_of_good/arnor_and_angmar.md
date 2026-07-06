@@ -29,7 +29,6 @@
 
 The range of Arvedui's Stand Fast is 12", rather than 6"
 
-
 </div>
 
 ---
@@ -69,7 +68,6 @@ Earnur must always Charge an enemy Hero if he able to do so when he Activates. A
 - **Master Duellist** `ACTIVE`
 
 At the start of a Combat involving Earnur, before Heroic Strikes are resolved, Earnur may increase his Fight value to match that of a single enemy he is Engaged in Combat with. Additionally, Earnur can never have his Fight Value modified by enemy special rules or Magical Powers.
-
 
 </div>
 
@@ -121,7 +119,6 @@ Glorfindel gains a bonus of +1 To Wound when making Strikes against Monster mode
 
 This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
 
-
 </div>
 
 ---
@@ -163,7 +160,6 @@ Gulavhar's Attacks are always equal to its remaining Wounds. Additionally, for e
 
 Each time Gulavhar slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. Gulavhar can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
 
-
 </div>
 
 ---
@@ -202,7 +198,6 @@ Friendly Carn Dum models within 6" of Aldrac must re-roll failed Courage Tests.
 
 If Aldrac slays an enemy model that he was Engaged in Combat with, then in the following turn Aldrac may declare a Heroic Combat for free.
 
-
 </div>
 
 ---
@@ -238,7 +233,6 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 
 Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
 
-
 </div>
 
 ---
@@ -271,7 +265,6 @@ Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain 
 - **Chieftain of the Dunedain** `ACTIVE`
 
 Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
-
 
 </div>
 
@@ -311,7 +304,6 @@ If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the ga
 - **Brutish Cunning** `ACTIVE`
 
 This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
-
 
 </div>
 
@@ -359,7 +351,6 @@ At the beginning of the game, after both sides have been deployed, choose one He
 
 If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the target model cannot spend Will Points to attempt to Resist the Magical Power.
 
-
 </div>
 
 ---
@@ -390,7 +381,6 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 - **Packlord** `ACTIVE`
 
 Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
-
 
 </div>
 
@@ -507,7 +497,6 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
 
-
 </div>
 
 ---
@@ -540,7 +529,6 @@ After rolling for Priority, Fraecht can spend a point of Will to have one of the
 Strength - Friendly Carn Dum models within 6" of Fraecht must re-roll To Wound rolls of a natural 1 when making Strikes.
 Endurance - Whenever a Friendly Carn Dum model within 6" of Fraecht suffers a Wound, roll a D6. On a 5+, that Wound is ignored.
 Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht are not slowed by difficult terrain (except for water features).
-
 
 </div>
 
@@ -575,7 +563,6 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 This is a banner with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a banner. Additionally, friendly models within 6" and Line of Sight of the Banner of Arwen Evenstar automatically pass any Courage Tests they are required to take.
 
-
 </div>
 
 ---
@@ -608,7 +595,6 @@ Every time a friendly Arnor model suffers a Wound within 6" and Line of Sight of
 
 At the start of the game, before either side deploys, roll a D6 and make a note of the result - this is the number of Foresight Points that Malbeth has for the battle. During the roll for Priority, so long as he is alive and on the battlefield, Malbeth can spend these Foresight Points to increase the roll on his controlling player's roll for Priority. For each Foresight Point spent, increase the dice roll by 1, to a maximum of 6.
 
-
 </div>
 
 ---
@@ -637,7 +623,6 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 - **Scavenge** `ACTIVE`
 
 Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of armour, living creatures, the One Ring, or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
-
 
 </div>
 
@@ -676,7 +661,6 @@ At the start of the Shoot Phase, before the Declare Heroic Actions step, a Shade
 
 Friendly Angmar Orc models within 12" of one or more models with this special rule gain a bonus of +1 to any Courage Tests they are required to take.
 
-
 </div>
 
 ---
@@ -707,7 +691,6 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 - **Packlord** `ACTIVE`
 
 Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
-
 
 </div>
 
@@ -890,7 +873,6 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 This model may re-roll a single D6 in a Duel Roll when fighting solely against Infantry models (but not Monster models).
 
-
 </div>
 
 ---
@@ -1035,7 +1017,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 If this model is Engaged in Combat with an enemy Hero, then this model gains a bonus of +1 To Wound that Hero when making Strikes.
 
-
 </div>
 
 ---
@@ -1062,7 +1043,6 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 - **Feral Charge** `ACTIVE`
 
 When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Ground bonus as if they were Cavalry. This bonus is lost if they are subsequently charged by an enemy Cavalry model.
-
 
 </div>
 

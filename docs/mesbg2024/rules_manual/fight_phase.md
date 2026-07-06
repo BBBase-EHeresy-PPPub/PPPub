@@ -16,20 +16,19 @@ The Fight Phase can be broken down into a number of steps as shown below:
 
 ## PAIRING OFF COMBATS (29)
 
-At the start of the Fight Phase, the very first thing that needs to be done is to work out which models are Engaged in Combat with one another. Any models that are Engaged in Combat with an enemy model will need Pairing Off into Combats. By the end of the Pairing Off Combats step, you will need to reach a situation where all models that were Engaged in Combat are assigned to a Combat, and that no Combat has multiple models from both sides involved in the Combat - i.e., you cannot have a Combat with two (or more) models from each side. 
+At the start of the Fight Phase, the very first thing that needs to be done is to work out which models are Engaged in Combat with one another. Any models that are Engaged in Combat with an enemy model will need Pairing Off into Combats. By the end of the Pairing Off Combats step, you will need to reach a situation where all models that were Engaged in Combat are assigned to a Combat, and that no Combat has multiple models from both sides involved in the Combat - i.e., you cannot have a Combat with two (or more) models from each side.
 
-When it comes to Pairing Off Combats, there are a few rules that govern how it works. 
+When it comes to Pairing Off Combats, there are a few rules that govern how it works.
 
-The first is that all models Engaged in Combat with an enemy model must be Paired Off into a Combat - they cannot be Paired Off in a way that would stop them being Engaged in Combat. Models can only be Paired Off into a Combat with a model they are in base contact with. 
+The first is that all models Engaged in Combat with an enemy model must be Paired Off into a Combat - they cannot be Paired Off in a way that would stop them being Engaged in Combat. Models can only be Paired Off into a Combat with a model they are in base contact with.
 
 Secondly, if a model could be Paired Off into multiple different Combats, then the player with Priority may decide which Combat the model is Paired Off into. These do not need to be done equally, so long as every model that was Engaged in Combat has been Paired Off into a Combat.
 
-
-In practice, it is often a good idea for players to look over the Combats at the start of the Fight Phase and split them, with the player with Priority deciding on any where there are multiple options. It can be a good idea whilst you are learning to separate the Combats slightly so that there is a small gap between them. However, this should only be done for clarity and not to gain an advantage in-game by moving a model into or out of range of an ability. If models are moved in this way for the sake of clarity, they will still count as being in base contact with what they were with beforehand. 
+In practice, it is often a good idea for players to look over the Combats at the start of the Fight Phase and split them, with the player with Priority deciding on any where there are multiple options. It can be a good idea whilst you are learning to separate the Combats slightly so that there is a small gap between them. However, this should only be done for clarity and not to gain an advantage in-game by moving a model into or out of range of an ability. If models are moved in this way for the sake of clarity, they will still count as being in base contact with what they were with beforehand.
 
 Sometimes there may be a situation where a rule will target or affect a model in a Combat which could cause multiple other models to be affected as well - such as a Shooting Attack, Magical Power or an ability that could Move a model out of Combat before the Fight Phase. When this would be the case, the game should be temporarily paused and the player with Priority should decide how the affected Combats should be Paired Off for the purpose of the rule or ability in question. Once this has been done, the rule is resolved as normal and play continues. When it gets to the Fight Phase, the player with Priority will then Pair Off the Combats again as normal.
 
-***Example 29:** Frodo is in base contact with Moria Goblin A. As it's clear who Frodo is fighting, and there are no other models in the Combat, no Pairing Off is required.* 
+***Example 29:** Frodo is in base contact with Moria Goblin A. As it's clear who Frodo is fighting, and there are no other models in the Combat, no Pairing Off is required.*
 
 *Sam is in base contact with Moria Goblins B and C. Merry is also in base contact with Moria Goblin C, and so Merry is Paired Off against Moria Goblin C, leaving Sam to be Paired Off against Moria Goblin B. Finally, and most complex of all, Pippin is in base contact with Moria Goblins D, E and F,whilst Aragorn is in base contact with Moria Goblins F and G. It is clear that Pippin is fighting Moria Goblins D and E, and that Aragorn is fighting Moria Goblin G.*
 
@@ -39,7 +38,7 @@ Sometimes there may be a situation where a rule will target or affect a model in
 
 ## WHEN TO FIGHT
 
-Combats are resolved one at a time in an order chosen by the player with Priority. Players use dice to determine the outcome of a Combat and whether any casualties are caused. Once a Combat has been resolved, the player with Priority chooses another Combat to resolve, and so on until all Combats have been resolved. 
+Combats are resolved one at a time in an order chosen by the player with Priority. Players use dice to determine the outcome of a Combat and whether any casualties are caused. Once a Combat has been resolved, the player with Priority chooses another Combat to resolve, and so on until all Combats have been resolved.
 
 The order that Combats are resolved in is often of little consequence, and so it is usually best to work them out in an arbitrary manner such as left to right or saving the most interesting ones until last. However, sometimes the order in which you resolve Combats can make a big difference - models might be Trapped, banners may be in jeopardy, and so on. Because of this it is always worth the player with Priority taking a look at how best they can pick the order of Combats to work in their favour.*
 
@@ -57,17 +56,17 @@ Resolving a Combat is simple, especially once you have done it a few times. A Co
 
 ### DUEL ROLL (30, 31)
 
-To see who wins a Combat, players must make a Duel Roll. When making a Duel Roll, each player rolls a D6 and the player with the highest roll wins the Combat. 
+To see who wins a Combat, players must make a Duel Roll. When making a Duel Roll, each player rolls a D6 and the player with the highest roll wins the Combat.
 
-If a model in a Combat has multiple Attacks, they will roll a number of D6 equal to their Attacks characteristic rather than just one, and then use the highest individual result. 
+If a model in a Combat has multiple Attacks, they will roll a number of D6 equal to their Attacks characteristic rather than just one, and then use the highest individual result.
 
 Many things can affect a Duel Roll, so when making a Duel Roll follow these steps in order:
-- Gather the number of dice you need for the Duel Roll; use a different colour of dice for each model with modifiers or Might Points available. 
-- Declare any models that wish to use any weapon abilities that would affect the Duel Roll, such as using a two-handed weapon. 
-- Roll all of your dice. 
-- Apply any modifiers to the dice rolls. 
-- Use any re-rolls, banners, special rules, etc. Remember to apply any modifiers to these re-rolls as well. 
-- Use Might Points. 
+- Gather the number of dice you need for the Duel Roll; use a different colour of dice for each model with modifiers or Might Points available.
+- Declare any models that wish to use any weapon abilities that would affect the Duel Roll, such as using a two-handed weapon.
+- Roll all of your dice.
+- Apply any modifiers to the dice rolls.
+- Use any re-rolls, banners, special rules, etc. Remember to apply any modifiers to these re-rolls as well.
+- Use Might Points.
 - Determine the winner.
 
 ***Example 30:** Frodo is fighting for his life against this Moria Goblin. They need to make a Duel Roll, and both roll a dice to see who wins. Frodo rolls a 5, whilst the Moria Goblin rolls a 2. With the highest result, Frodo wins the Duel Roll and the Moria Goblin must Back Away.*
@@ -84,7 +83,7 @@ There may be instances where models on both sides have the chance to use a re-ro
 
 #### DRAWN COMBAT (32)
 
-Quite often, the highest result that both players get in a Duel Roll will be the same, and is therefore tied. When this is the case, compare the Fight Values of the models in the Combat - the model with the highest Fight Value wins the Combat. 
+Quite often, the highest result that both players get in a Duel Roll will be the same, and is therefore tied. When this is the case, compare the Fight Values of the models in the Combat - the model with the highest Fight Value wins the Combat.
 
 If this is still a tie, then the player with Priority will need to roll a D6 to see who wins. On a 1-3 the Evil side wins, whilst on a 4-6 the Good side wins.
 
@@ -94,7 +93,7 @@ If this is still a tie, then the player with Priority will need to roll a D6 to 
 
 ### LOSER BACKS AWAY (33, 34)
 
-Once the winner of the Duel Roll has been determined, the loser must Back Away in a direction chosen by their controlling player. To Back Away, the losing model must Move 1" in a straight line (though this does not have to be directly away). 
+Once the winner of the Duel Roll has been determined, the loser must Back Away in a direction chosen by their controlling player. To Back Away, the losing model must Move 1" in a straight line (though this does not have to be directly away).
 
 When a model must Back Away it may Move through the Control Zones of enemy models, but cannot Move into base contact with them. When a model must Back Away this will not count as a normal Move, and so can still be done if a model used their full Move Value during their Activation or has been affected by a special rule or Magical Power that would normally prevent them from Moving. This also means that Backing Away is not slowed by Difficult Terrain. Backing Away cannot be used to cross Obstacles or take a Jump, Climb or Leap Test. However, if the loser is at the edge of a vertical drop, with nowhere else to Back Away to, then they must Back Away over the edge and will fall as described on page 35. Make any Strikes against the model being pushed over the edge first and then resolve any Falling Damage if the model survives.
 
@@ -108,21 +107,21 @@ When a model must Back Away it may Move through the Control Zones of enemy model
 
 #### TRAPPED
 
-If a model cannot Back Away when they lose a Duel Roll then they are Trapped. Usually this happens when a model is backed against terrain or surrounded by other models. 
+If a model cannot Back Away when they lose a Duel Roll then they are Trapped. Usually this happens when a model is backed against terrain or surrounded by other models.
 
-If a model is Trapped then it does not Back Away at all; instead it will remain in place whilst the enemy models make their Strikes. Once these have been resolved, if the Trapped model has not been slain, slightly separate the enemy models from the Trapped model so they are no longer in base contact. 
+If a model is Trapped then it does not Back Away at all; instead it will remain in place whilst the enemy models make their Strikes. Once these have been resolved, if the Trapped model has not been slain, slightly separate the enemy models from the Trapped model so they are no longer in base contact.
 
 Some rules may ask you to check to see if a model would be considered to be Trapped in order to apply an effect. When this is the case, these rules should be applied at the time the special rule in question comes into effect. For example, some may say 'at the start of the Fight Phase', in which case you would check to see if the model is Trapped at the start of the Fight Phase. Others might say 'during a Combat' or similar, in which case you would check at the start of that Combat before any dice are rolled. In all instances of this type of rule, a model would be considered Trapped if, should they lose the ensuing Duel Roll, they would be unable to Back Away as normal. If the model would be able to Back Away as a result of a friendly model deciding to Make Way, then they would not be considered Trapped for the purpose of the special rule.
 
 #### MAKE WAY (35)
 
-Sometimes a model may find themselves Trapped because a friendly model is blocking their retreat. In these situations it is possible for a friendly model to make a special Make Way Move of up to 1" to clear a path for their ally to Back Away into. This can still be done even if the model Backing Away could Back Away without needing an ally to Make Way - in fact, this can be a good way of trying to keep models in formation. 
+Sometimes a model may find themselves Trapped because a friendly model is blocking their retreat. In these situations it is possible for a friendly model to make a special Make Way Move of up to 1" to clear a path for their ally to Back Away into. This can still be done even if the model Backing Away could Back Away without needing an ally to Make Way - in fact, this can be a good way of trying to keep models in formation.
 
-To Make Way, simply Move the friendly model as described above in order to allow their ally to Back Away the full 1". A Make Way Move is not slowed by Difficult Terrain and can still be made if the model is Prone. 
+To Make Way, simply Move the friendly model as described above in order to allow their ally to Back Away the full 1". A Make Way Move is not slowed by Difficult Terrain and can still be made if the model is Prone.
 
-A model cannot Make Way if they are Engaged in Combat, have been rendered unable to Move by a special rule or Magical Power, or if doing so would require them to Move over an Obstacle. A model cannot take a Jump, Climb or Leap Test as part of a Make Way Move, and cannot use a Make Way Move if doing so would force them over the edge of a cliff (or similar) which would require them to take Falling Damage. 
+A model cannot Make Way if they are Engaged in Combat, have been rendered unable to Move by a special rule or Magical Power, or if doing so would require them to Move over an Obstacle. A model cannot take a Jump, Climb or Leap Test as part of a Make Way Move, and cannot use a Make Way Move if doing so would force them over the edge of a cliff (or similar) which would require them to take Falling Damage.
 
-Only a single friendly model can Make Way for an ally; if one model using a Make Way is not enough to prevent a model from being Trapped, then no Make Way Move is made and the model is Trapped. 
+Only a single friendly model can Make Way for an ally; if one model using a Make Way is not enough to prevent a model from being Trapped, then no Make Way Move is made and the model is Trapped.
 
 A Make Way Move is entirely optional, though not doing so will likely result in an ally being Trapped.
 
@@ -132,9 +131,9 @@ A Make Way Move is entirely optional, though not doing so will likely result in 
 
 #### PRONE MODELS
 
-Whilst a Prone model cannot Charge an enemy, they can still be Charged as normal. A Prone model will still participate in a Duel Roll as normal, with one exception. If a Prone model wins a Duel Roll, they do not get to make Strikes against enemy models and instead may immediately Stand Up. 
+Whilst a Prone model cannot Charge an enemy, they can still be Charged as normal. A Prone model will still participate in a Duel Roll as normal, with one exception. If a Prone model wins a Duel Roll, they do not get to make Strikes against enemy models and instead may immediately Stand Up.
 
-A Prone model must still Back Away as normal, however, if a Prone model loses the Duel Roll they will always be considered to be Trapped. 
+A Prone model must still Back Away as normal, however, if a Prone model loses the Duel Roll they will always be considered to be Trapped.
 
 If both models in a Combat happen to be Prone, the Duel Roll will still be made; however, the winner will simply get to Stand Up and the loser will Back Away as normal.
 
@@ -164,7 +163,7 @@ In a Combat where there is more than one model on one (or, in very rare instance
 
 #### DUEL ROLL
 
-Both players make a Duel Roll to see who wins the Combat. A player with multiple models in the Combat rolls a number of D6 equal to the combined Attacks characteristics of all of their models involved in that Combat. 
+Both players make a Duel Roll to see who wins the Combat. A player with multiple models in the Combat rolls a number of D6 equal to the combined Attacks characteristics of all of their models involved in that Combat.
 
 When comparing the results on the dice to work out which side has won the Duel Roll, only count the highest individual dice result and the highest Fight Value from each side.
 
@@ -182,11 +181,11 @@ A model that wins a Duel Roll against multiple models may make Strikes against a
 
 #### MULTIPLE ATTACKS (37)
 
-If a model with multiple Attacks wins a Duel Roll against multiple enemy models, they may choose to resolve these either one at a time or all together, whichever suits you. However, there are some things to bear in mind if you do this. 
+If a model with multiple Attacks wins a Duel Roll against multiple enemy models, they may choose to resolve these either one at a time or all together, whichever suits you. However, there are some things to bear in mind if you do this.
 
-If a model resolves their Strikes one at a time, they must fully resolve the result of that Strike - including choosing whether or not to spend Might, use any relevant special rules and so forth - before moving onto the next one. Once they move on to the next Strike, they cannot go back. However, the benefit of a model deciding to resolve their Strikes one at a time, is that they can wait to see the result of that Strike before deciding where to use their next Strike (if they have any remaining). 
+If a model resolves their Strikes one at a time, they must fully resolve the result of that Strike - including choosing whether or not to spend Might, use any relevant special rules and so forth - before moving onto the next one. Once they move on to the next Strike, they cannot go back. However, the benefit of a model deciding to resolve their Strikes one at a time, is that they can wait to see the result of that Strike before deciding where to use their next Strike (if they have any remaining).
 
-If a model resolves all their Strikes simultaneously, they must declare where each Strike will go before making any To Wound Rolls. They will then make all their To Wound Rolls at the same time and can use any Might Points or relevant special rules as they see fit. 
+If a model resolves all their Strikes simultaneously, they must declare where each Strike will go before making any To Wound Rolls. They will then make all their To Wound Rolls at the same time and can use any Might Points or relevant special rules as they see fit.
 
 Often, if a model with multiple Attacks is making Strikes they will do so in the most beneficial manner to them. It is important to make sure your opponent is aware of what is happening, and that you are clear about your intentions when making Strikes. It is also important to ask your opponent how they are using their Strikes if you are unsure.
 
@@ -200,13 +199,13 @@ Certain areas of the battlefield are ideally suited as defensive positions, givi
 
 ### BARRIERS (38)
 
-Barriers encompass the likes of walls, hedges, barricades and other such terrain. Essentially, to count as defendable, a Barrier needs to be at least half the height of the attacker and the defender needs to be able to see over the Barrier. 
+Barriers encompass the likes of walls, hedges, barricades and other such terrain. Essentially, to count as defendable, a Barrier needs to be at least half the height of the attacker and the defender needs to be able to see over the Barrier.
 
-For a model to defend a Barrier they must be in base contact with it. When this is the case, the defending model's Control Zone will extend over the Barrier rather than stopping at it, as shown in example 38. As with any other Control Zone, an enemy model cannot enter the defending model's Control Zone without Charging them. To Charge a defending model, place the attacking model in base contact with the Barrier as close to the defender as possible. 
+For a model to defend a Barrier they must be in base contact with it. When this is the case, the defending model's Control Zone will extend over the Barrier rather than stopping at it, as shown in example 38. As with any other Control Zone, an enemy model cannot enter the defending model's Control Zone without Charging them. To Charge a defending model, place the attacking model in base contact with the Barrier as close to the defender as possible.
 
-Additionally, so long as a defending model has a Control Zone, enemy models cannot attempt to cross the Barrier within that Control Zone - they must Charge and fight them. 
+Additionally, so long as a defending model has a Control Zone, enemy models cannot attempt to cross the Barrier within that Control Zone - they must Charge and fight them.
 
-If the attacker is more than twice the size of the Barrier, then it will offer no protection for the defender and they may still ignore it as they Move. 
+If the attacker is more than twice the size of the Barrier, then it will offer no protection for the defender and they may still ignore it as they Move.
 
 Prone models may never defend a Barrier.
 
@@ -216,7 +215,7 @@ Prone models may never defend a Barrier.
 
 #### CHARGING A MODEL BEHIND A BARRIER
 
-To Charge a model that is defending a Barrier, simply Move the Charging model into base contact with the Barrier as close to the defending model as possible on the opposite side of the Barrier. Even though they are not in base contact, these models will still count as being Engaged in Combat and in base contact for all other purposes. The defending model's Control Zone is then cancelled out. 
+To Charge a model that is defending a Barrier, simply Move the Charging model into base contact with the Barrier as close to the defending model as possible on the opposite side of the Barrier. Even though they are not in base contact, these models will still count as being Engaged in Combat and in base contact for all other purposes. The defending model's Control Zone is then cancelled out.
 
 Only a single model may Charge a model over a Barrier. However, models on the same side of the Barrier as the defender may still Charge them as normal.
 
@@ -236,15 +235,15 @@ As Backing Away happens after Strikes are made, models fighting over a Barrier w
 
 #### BACKING AWAY FROM BARRIERS
 
-If the defender wins the Duel Roll and the attacker survives, the attacker Backs Away as normal. 
+If the defender wins the Duel Roll and the attacker survives, the attacker Backs Away as normal.
 
-If the defender loses but survives, then they do not Back Away; the attacker must Back Away instead. 
+If the defender loses but survives, then they do not Back Away; the attacker must Back Away instead.
 
 If the defender is slain, then the attacker may immediately cross the Barrier and be placed where the defender was on the other side of the Barrier.
 
 #### ATTACKED FROM BOTH SIDES (40)
 
-Should a model defending a Barrier also be Charged by an enemy model on the same side of the Barrier as themselves, then they will lose all protection that Barrier would offer. As a result, the Combat is treated the same as any other Combat and all models will ignore the Barrier when making Strikes. If the defending model is slain, the attacking model may cross the Barrier as described above. 
+Should a model defending a Barrier also be Charged by an enemy model on the same side of the Barrier as themselves, then they will lose all protection that Barrier would offer. As a result, the Combat is treated the same as any other Combat and all models will ignore the Barrier when making Strikes. If the defending model is slain, the attacking model may cross the Barrier as described above.
 
 In an alternative situation, if the attacking model is Charged by another model on the defender's side on the same side of the Barrier as the attacker, then this will also be treated as a normal Combat as described above - with the exception that even if the attacker slays the defender they may not cross the Barrier.
 
@@ -254,7 +253,7 @@ In an alternative situation, if the attacking model is Charged by another model 
 
 ### DOORWAYS (41)
 
-A model in a Doorway counts as defending a Barrier if they are Charged by an enemy model, so long as the enemy model cannot Move through the Doorway without Moving into base contact with the defender. If the enemy model could Move through the Doorway without Moving into base contact with the defender (even though they must still Charge the defender), then the model in the Doorway will not count as defending a Barrier. 
+A model in a Doorway counts as defending a Barrier if they are Charged by an enemy model, so long as the enemy model cannot Move through the Doorway without Moving into base contact with the defender. If the enemy model could Move through the Doorway without Moving into base contact with the defender (even though they must still Charge the defender), then the model in the Doorway will not count as defending a Barrier.
 
 Only a single model can defend a Doorway at a time. If two models could stand in the Doorway at the same time, then it is too big of a Doorway to be defended.
 
@@ -264,9 +263,9 @@ Only a single model can defend a Doorway at a time. If two models could stand in
 
 ### ELEVATED POSITIONS (42, 43)
 
-Models positioned on higher ground can also defend it in the same manner as a Barrier, so long as the higher ground is at least half the height of, and no taller than, the attacking model. Such positions may include a model standing on a raised platform, at the top of a steep cliff, or at the top of a ladder. 
+Models positioned on higher ground can also defend it in the same manner as a Barrier, so long as the higher ground is at least half the height of, and no taller than, the attacking model. Such positions may include a model standing on a raised platform, at the top of a steep cliff, or at the top of a ladder.
 
-Defending an Elevated Position works in the same way as defending a Barrier, and so all the rules associated with it are the same here. This means only one model can Charge and attack a model defending a position at once (unless they are attacked from both sides of course), the defender will not Back Away if they lose the Duel Roll, the attacker must take an In The Way Test for any Strikes they are resolving, and if the attacker kills the defender they may take their place at the top of the Elevated Position. 
+Defending an Elevated Position works in the same way as defending a Barrier, and so all the rules associated with it are the same here. This means only one model can Charge and attack a model defending a position at once (unless they are attacked from both sides of course), the defender will not Back Away if they lose the Duel Roll, the attacker must take an In The Way Test for any Strikes they are resolving, and if the attacker kills the defender they may take their place at the top of the Elevated Position.
 
 Models may not Charge a model defending an Elevated Position that is greater than the height of the model wishing to Charge - it is simply too tall for them to viably attack.
 

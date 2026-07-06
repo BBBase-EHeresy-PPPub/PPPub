@@ -66,9 +66,9 @@ You will also need to see if the enemy model is in range. Every Missile Weapon h
 
 ### MOVING AND SHOOTING
 
-It is hard to shoot a Missile Weapon whilst moving at full speed over a battlefield. As such, a model that has Moved over half its Move Value during the preceding Move Phase cannot make a Shooting Attack. Additionally, a model that has attempted to Jump, Leap, Climb or Swim may not make Shooting Attacks that turn. Prone models may never make Shooting Attacks. 
+It is hard to shoot a Missile Weapon whilst moving at full speed over a battlefield. As such, a model that has Moved over half its Move Value during the preceding Move Phase cannot make a Shooting Attack. Additionally, a model that has attempted to Jump, Leap, Climb or Swim may not make Shooting Attacks that turn. Prone models may never make Shooting Attacks.
 
-A model that Moved during the preceding Move Phase, but did not Move more than half their Move Value, may still make a Shooting Attack, although it will be harder to do. To represent this, any model that wishes to Shoot after Moving during the preceding Move Phase will worsen their Shoot Value by 1 for the duration of the Shooting Attack. Therefore a model with a Shoot Value of 4+ that Moved will have a Shoot Value of 5+ for that turn. A roll of a natural 6 will always hit during a Shooting Attack. 
+A model that Moved during the preceding Move Phase, but did not Move more than half their Move Value, may still make a Shooting Attack, although it will be harder to do. To represent this, any model that wishes to Shoot after Moving during the preceding Move Phase will worsen their Shoot Value by 1 for the duration of the Shooting Attack. Therefore a model with a Shoot Value of 4+ that Moved will have a Shoot Value of 5+ for that turn. A roll of a natural 6 will always hit during a Shooting Attack.
 
 Bear in mind that certain terrain has an impact on slowing models down further, as described in the Move Phase, and this is also applied to Moving and Shooting. For example, a model Moving within Difficult Terrain would only be able to Move a quarter of their Move Value and still Shoot that turn - halving it once for the Difficult Terrain, and then only being able to Move half of that value if they wish to Shoot. E.g., A model with a Move Value of 6" would only be able to Move 3" through Difficult Terrain, and only 1.5" if it wanted to Shoot that turn.
 
@@ -78,9 +78,9 @@ Once a target has been chosen, you will need to see if the shot hits. To do this
 
 ## IN THE WAY (22)
 
-You may find that there are objects, or even other models, obscuring the shots you wish to make. When you are taking a look to see if your model can see its target, keep a look out for any obstructions such as these. If the Shoot Roll was a hit, you will need to make an In The Way Test for each obstruction. 
+You may find that there are objects, or even other models, obscuring the shots you wish to make. When you are taking a look to see if your model can see its target, keep a look out for any obstructions such as these. If the Shoot Roll was a hit, you will need to make an In The Way Test for each obstruction.
 
-Taking an In The Way Test is simple - roll a D6 for each obstruction in turn. If the result is a 4+, then the shot has successfully passed the obstruction and moves onto the next one - or hits the target if there are no more obstructions to roll for. On a 1-3, the shot hits the obstruction. If the obstruction is another model, then you will need to roll To Wound it as normal. 
+Taking an In The Way Test is simple - roll a D6 for each obstruction in turn. If the result is a 4+, then the shot has successfully passed the obstruction and moves onto the next one - or hits the target if there are no more obstructions to roll for. On a 1-3, the shot hits the obstruction. If the obstruction is another model, then you will need to roll To Wound it as normal.
 
 If there are multiple obstructions In The Way of the shot, you will need to make an In The Way Test for each of them in turn, starting with the obstruction closest to the shooter. As soon as the shot hits an obstruction, no more In The Way Tests need to be made.
 
@@ -90,9 +90,9 @@ If there are multiple obstructions In The Way of the shot, you will need to make
 
 ### MODELS IN THE WAY (23)
 
-Sometimes there will be other models obscuring the target you wish to Shoot at. This is slightly more complicated than when it is terrain that is obscuring the shot. 
+Sometimes there will be other models obscuring the target you wish to Shoot at. This is slightly more complicated than when it is terrain that is obscuring the shot.
 
-Firstly, Good models cannot make a shot if there would be any risk of hitting a friendly model - i.e., if an In The Way Test would be required for a friendly model, or an enemy model Engaged in Combat with a friendly model. Evil models do not have this restriction and may take shots if there are friendly models In The Way of the target. 
+Firstly, Good models cannot make a shot if there would be any risk of hitting a friendly model - i.e., if an In The Way Test would be required for a friendly model, or an enemy model Engaged in Combat with a friendly model. Evil models do not have this restriction and may take shots if there are friendly models In The Way of the target.
 
 The shooter must still be able to see their target; if the intervening models block their target completely, then the shot cannot be attempted.
 
@@ -102,7 +102,7 @@ The shooter must still be able to see their target; if the intervening models bl
 
 ### SHOOTING FROM BEHIND COVER (24)
 
-A model that is in base contact with an Obstacle or piece of cover that it can see over or around will ignore that piece of terrain for the purposes of an In The Way Test when Shooting. This represents the shooter using the likes of a low wall, tree or crop of boulders for cover whilst Shooting. 
+A model that is in base contact with an Obstacle or piece of cover that it can see over or around will ignore that piece of terrain for the purposes of an In The Way Test when Shooting. This represents the shooter using the likes of a low wall, tree or crop of boulders for cover whilst Shooting.
 
 A degree of common sense is required here; this does not allow for a model to Shoot over an entire building or forest by being in base contact with it.
 
@@ -112,7 +112,7 @@ A degree of common sense is required here; this does not allow for a model to Sh
 
 ### SHOOTING FROM BEHIND FRIENDS (25)
 
-Though other models are generally considered to be obstructions when making a Shooting Attack, there is an exception to the rule. A model that is in base contact with a friendly model that has the same base size or smaller, ignores that friendly model when determining In The Way Tests for making a Shooting Attack - unless that friendly model is Engaged in Combat. This is to represent the model Shooting over the shoulder of an ally, or their ally ducking out of the way. 
+Though other models are generally considered to be obstructions when making a Shooting Attack, there is an exception to the rule. A model that is in base contact with a friendly model that has the same base size or smaller, ignores that friendly model when determining In The Way Tests for making a Shooting Attack - unless that friendly model is Engaged in Combat. This is to represent the model Shooting over the shoulder of an ally, or their ally ducking out of the way.
 
 If a model is Shooting from behind a friendly model in this manner, and that friendly model is in base contact with a Barrier which it can therefore ignore, the model Shooting over their friend can also ignore the Barrier as described above.
 
@@ -122,9 +122,9 @@ If a model is Shooting from behind a friendly model in this manner, and that fri
 
 ### SHOOTING INTO A COMBAT (26)
 
-Evil models can Shoot at an enemy model that is Engaged in Combat - Good models cannot, for fear of them accidentally Shooting their allies. However, as a Combat isn't a static affair, there is a risk that an Evil model Shooting in this manner will hit one of their allies. 
+Evil models can Shoot at an enemy model that is Engaged in Combat - Good models cannot, for fear of them accidentally Shooting their allies. However, as a Combat isn't a static affair, there is a risk that an Evil model Shooting in this manner will hit one of their allies.
 
-To Shoot at a model Engaged in Combat, the shooter must be able to see their target as normal. They then roll To Hit and make any In The Way Tests as normal, with the exception of for any models in the same Combat as the target. Note that In The Way Tests are only taken for things that are obstructing the target, not for things that are obscuring other models in the same Combat. 
+To Shoot at a model Engaged in Combat, the shooter must be able to see their target as normal. They then roll To Hit and make any In The Way Tests as normal, with the exception of for any models in the same Combat as the target. Note that In The Way Tests are only taken for things that are obstructing the target, not for things that are obscuring other models in the same Combat.
 
 Finally, if the shot reaches the Combat, the shooter will need to make a special In The Way Test to see who in the Combat is hit. On a 4+, the initial target is hit. However, on a 1-3, the friendly model closest to the shooter and within line of sight will be hit instead.
 
@@ -134,11 +134,11 @@ Finally, if the shot reaches the Combat, the shooter will need to make a special
 
 ## ROLLING TO WOUND (27)
 
-When a shot hits a model, there is a chance it will cause some serious injury or even death. Of course, there is also the chance that it merely causes a flesh wound or bounces off a model's armour, causing no damage at all. 
+When a shot hits a model, there is a chance it will cause some serious injury or even death. Of course, there is also the chance that it merely causes a flesh wound or bounces off a model's armour, causing no damage at all.
 
-Every Missile Weapon has a Strength Value, which is shown on their entry on the Missile Weapon Chart. When rolling to see if the hit will wound the target, compare the Strength of the Missile Weapon with the Defence of the target on the To Wound Chart. The result indicates the minimum dice roll required to inflict a Wound on the target. 
+Every Missile Weapon has a Strength Value, which is shown on their entry on the Missile Weapon Chart. When rolling to see if the hit will wound the target, compare the Strength of the Missile Weapon with the Defence of the target on the To Wound Chart. The result indicates the minimum dice roll required to inflict a Wound on the target.
 
-A score of a 6+/4+, 6+/5+ or 6+/6+ means you must roll a single dice and score a 6+, followed by a further dice which must score a 4+, 5+ or a 6+ respectively. In these instances, both dice rolls are individual rolls and so either (or both) can be re- rolled as the result of a relevant special rule or ability. 
+A score of a 6+/4+, 6+/5+ or 6+/6+ means you must roll a single dice and score a 6+, followed by a further dice which must score a 4+, 5+ or a 6+ respectively. In these instances, both dice rolls are individual rolls and so either (or both) can be re- rolled as the result of a relevant special rule or ability.
 
 A '-' on the chart means that model cannot wound that target - they are just too tough to be harmed. If the dice roll is not high enough, no Wound is inflicted.
 
@@ -161,17 +161,17 @@ A '-' on the chart means that model cannot wound that target - they are just too
 
 ## RECORD WOUNDS AND REMOVE CASUALTIES
 
-When a model suffers a Wound, check against its profile to see how many Wounds it has. A model with a Wounds characteristic of 1 is slain and removed as a casualty as soon as it suffers its first Wound. A model with a Wounds characteristic of 2 must suffer two Wounds before they are slain, and so on. For models with multiple Wounds, it can help to place a marker next to the model to indicate how many Wounds they have remaining, or to make a note on a piece of paper so you don't forget. 
+When a model suffers a Wound, check against its profile to see how many Wounds it has. A model with a Wounds characteristic of 1 is slain and removed as a casualty as soon as it suffers its first Wound. A model with a Wounds characteristic of 2 must suffer two Wounds before they are slain, and so on. For models with multiple Wounds, it can help to place a marker next to the model to indicate how many Wounds they have remaining, or to make a note on a piece of paper so you don't forget.
 
 When a model loses its last Wound, it is slain and removed as a casualty. Simply remove it from the board and place it carefully to one side.
 
 ## TAKING SHOTS TOGETHER (28)
 
-Sometimes you may have multiple models all Shooting at the same targets. To save time, these situations can be resolved quicker by taking all the shots together. To do this, count up the number of shooters and roll that many dice at once. Work out which have hit the target, and then roll To Wound. 
+Sometimes you may have multiple models all Shooting at the same targets. To save time, these situations can be resolved quicker by taking all the shots together. To do this, count up the number of shooters and roll that many dice at once. Work out which have hit the target, and then roll To Wound.
 
-To make things clearer, it helps to roll different coloured dice for different variables. If the Shooting models have different Shoot Values, have different obstructions In The Way or will require different rolls To Wound the target are all good examples of this. For example, you could say '*blue dice need a 3+ To Hit, red dice need a 4+ To Hit, and white dice need a 4+ To Hit and have an In The Way Test for that tree*' for instance - so long as it is clear to all players. 
+To make things clearer, it helps to roll different coloured dice for different variables. If the Shooting models have different Shoot Values, have different obstructions In The Way or will require different rolls To Wound the target are all good examples of this. For example, you could say '*blue dice need a 3+ To Hit, red dice need a 4+ To Hit, and white dice need a 4+ To Hit and have an In The Way Test for that tree*' for instance - so long as it is clear to all players.
 
-Taking shots together can really make your game flow quicker and smoother, and works really well so long as both players clearly communicate their intent and are open with each other as they play. 
+Taking shots together can really make your game flow quicker and smoother, and works really well so long as both players clearly communicate their intent and are open with each other as they play.
 
 If you have multiple models Shooting at multiple targets, it is best to break them up into smaller groups and resolve shots at individual targets as above.
 

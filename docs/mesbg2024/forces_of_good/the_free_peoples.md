@@ -44,7 +44,6 @@ When affected by a Magical Power, and after any resist tests have been made (if 
 
 Elven hand-and-a-half weapon, never needs more than a 4+ To Wound, or a 3+ if using Anduril as a two-handed weapon.
 
-
 </div>
 
 ---
@@ -95,7 +94,6 @@ Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making s
 
 Gandalf may re-roll any failed Fate rolls.
 
-
 </div>
 
 ---
@@ -130,7 +128,6 @@ Gandalf may re-roll any failed Fate rolls.
 - **The Windlord** `ACTIVE`
 
 Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast or benefit from his Heroic Actions.
-
 
 </div>
 
@@ -187,7 +184,6 @@ During a Combat, Radagast may roll an additional D6 in the Duel roll, and an add
 
 Radagast always has Line of Sight to any point on the battlefield. Friendly Eagle models within 12" of Radagast gain Resistant to Magic.
 
-
 </div>
 
 ---
@@ -237,7 +233,6 @@ Saruman may never benefit from a friendly Gandalf the Grey's Heroic Actions or t
 
 At the start of each Move Phase, before the Declare Heroic Actions step, Saruman may choose an enemy within 6" and Line of Sight, which must take an Intelligence test. If failed, that model cannot Activate this turn.
 
-
 </div>
 
 ---
@@ -286,7 +281,6 @@ Can ride as passengers and not be targeted by enemy attacks and shooting. Treebe
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the target is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone). The bludgeon cannot be a Monster, Chariot or War Beast. If the bludgeon is a Cavalry model, then the rider is picked up and separated from their mount.
 
-
 </div>
 
 ---
@@ -322,7 +316,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 - **Skin-changer** `ACTIVE`
 
 At the start of his Activation, Beorn can change his form from Man to Bear. If he does, place the Bear model in base contact with the Man model, and then remove the Man model from play. If there is no space to place the Bear model, then Beorn cannot transform. Once he has transformed, Beorn the Bear may continue his Activation as normal, including Charging, in which case check the Line of Sight from the newly placed Bear model to determine whether Beorn can Charge. Once Beorn has transformed, he uses the Beorn the Bear profile - though his Wounds, Might, Will and Fate Points remain the same between both profiles.
-
 
 </div>
 
@@ -365,7 +358,6 @@ A war horn, where if Boromir is outnumbered in a Combat, you may ask your oppone
 - **Protect the little ones!** `PASSIVE`
 
 Whilst within 3" of friendly Fellowship Hobbit models, Boromir gains Fearless, and may re-roll failed To Wound rolls when making Strikes.
-
 
 </div>
 
@@ -424,7 +416,6 @@ Enemies within 6" of Galadriel suffer a -1 penalty to any Courage tests. Additio
 
 Galadriel may target any enemy with Banishment as if it were a Spirit model, though non-Spirit models targeted will gain an extra free Will point to their Resist test. Once per game instead of casting a Magical Power, as long as she has at least 1 Will point, she may choose an enemy within 6", who immediately suffers D3 Wounds. After doing this, her Will points becomes 0, she is placed Prone, and no longer benefits from her The Lady of Lorien or War Aspect special rules (and thus becomes Unarmed).
 
-
 </div>
 
 ---
@@ -462,7 +453,6 @@ Galadriel may target any enemy with Banishment as if it were a Spirit model, tho
 - **Forest Stalker** `PASSIVE`
 
 Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a piece of woodland terrain suffers a Wound, roll a D6. On the roll of a natural 6, the Wound is ignored.
-
 
 </div>
 
@@ -504,7 +494,6 @@ At the beginning of his Activation, Grimbeorn can change his form from Man to Be
 - **Leader of the Beornings** `PASSIVE`
 
 Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
-
 
 </div>
 
@@ -551,7 +540,6 @@ Legolas may make three shooting attacks during the Shoot Phase instead of one, u
 
 Instead of shooting normally, Legolas can make a single shot against an enemy Engaged in Combat with himself or a friendly model. If the To Hit roll is successful, he doesn't need to make any In The Way rolls - the shot will automatically hit its target.
 
-
 </div>
 
 ---
@@ -593,7 +581,6 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 A war horn. Additionally, Merry gains the Fearless special rule.
 
-
 </div>
 
 ---
@@ -632,7 +619,6 @@ A war horn. Additionally, Merry gains the Fearless special rule.
 - **Against all odds** `ACTIVE`
 
 Pippin may re-roll any failed To Wound rolls when making Strikes against Hero or Monster models.
-
 
 </div>
 
@@ -674,7 +660,6 @@ Pitfall Trap - When this is revealed, Baldo's player rolls a D6. On a 2+, the mo
 Snare Trap - When this is revealed, Baldo's player rolls a D6. On a 2+, the model that revealed the trap suffers a Strength 1 hit, is placed Prone and is now caught in the Snare Trap. A model caught in a Snare Trap cannot Activate and will always count as Trapped. During the End Phase, a model caught in a Snare Trap must roll a D6; if the roll is equal to or less than their Strength, then they are freed from the Snare Trap. Cavalry models that reveal a trap are only affected on a 4+. However, they will also be Knocked Flying in addition to the other effects.
 Dummy Trap - When this is revealed, the Activation of the model that revealed the Trap Marker immediately ends. There are no additional effects.
 
-
 </div>
 
 ---
@@ -715,7 +700,6 @@ Must re-roll failed To Wound rolls against Orc, Uruk-hai, Goblin or Isengard mod
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the target is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone). The bludgeon cannot be a Monster, Chariot or War Beast. If the bludgeon is a Cavalry model, then the rider is picked up and separated from their mount.
 
-
 </div>
 
 ---
@@ -755,7 +739,6 @@ Birchseed gets a free Heroic Move in the Move Phase of any turn in which the opp
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the target is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone). The bludgeon cannot be a Monster, Chariot or War Beast. If the bludgeon is a Cavalry model, then the rider is picked up and separated from their mount.
 
-
 </div>
 
 ---
@@ -783,7 +766,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 - **Get out of my fields!** `ACTIVE`
 
 Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a two-handed weapon.
-
 
 </div>
 
@@ -820,7 +802,6 @@ A Pitchfork can either be used as a spear or a two-handed weapon.
 - **"This is our Country"** `PASSIVE`
 
 Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 when making a Duel Roll.
-
 
 </div>
 
@@ -863,7 +844,6 @@ A piece of Mithril armour, additionally Frodo may re-roll Fate rolls of a 1.
 - **Sting** `ACTIVE`
 
 An Elven hand weapon, Frodo gains +1 Strength when making strikes with Sting.
-
 
 </div>
 
@@ -909,7 +889,6 @@ Frodo may never Charge enemy models under any circumstances. Additionally, Frodo
 
 Friendly Hobbit models treat Frodo as a banner with a range of 6".
 
-
 </div>
 
 ---
@@ -946,7 +925,6 @@ At the beginning of a Combat, Gimli can choose either his two-handed axe, or an 
 
 If Gimli has fewer kills than Legolas, he gets +1 bonus on To Wound rolls when making Strikes.
 
-
 </div>
 
 ---
@@ -973,7 +951,6 @@ If Gimli has fewer kills than Legolas, he gets +1 bonus on To Wound rolls when m
 - **Leave my Flowers Alone!** `PASSIVE`
 
 At the start of the game after deployments, Hamfast's player places three 25mm Flower Markers anywhere on the board. Models can Move over them but cannot end their move or back away onto them. Objects cannot be placed overlapping them. Friendly Hobbits re-roll failed To Wound rolls for Strikes and shooting whilst within 3" of a Flower Marker. Hamfast also gains +1 To Wound when making Strikes or shooting an enemy within 3" of a Flower Marker.
-
 
 </div>
 
@@ -1006,7 +983,6 @@ At the start of the game after deployments, Hamfast's player places three 25mm F
 - **Head Shirriff** `PASSIVE`
 
 Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their hand-and-a-half weapon as a two-handed weapon.
-
 
 </div>
 
@@ -1041,7 +1017,6 @@ Lotho may spend his Will Points to pay off models around him in the following wa
 At the start of a Fight Phase, before the Declare Heroic Actions step, Lotho can spend a Will Point to use this ability. If he does, until the End Phase of the turn, friendly Hobbit models within 3" of Lotho gain a +1 bonus to their Fight Value.
 At the start of a Move Phase, before the Declare Heroic Actions step, Lotho can spend a Will Point to use this ability. If he does, until the End Phase of the turn, friendly Ruffian models within 3" of Lotho count as having the Fearless special rule.
 When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to use this ability. If he does, roll a D6. On a 2+, the enemy model stops 1" away from Lotho instead of Charging him and their Activation immediately ends.
-
 
 </div>
 
@@ -1078,7 +1053,6 @@ Paladin's Stand Fast has a range of 12"; however, only friendly Hobbit models ma
 
 Friendly Tookish Hunters within 6" of Paladin gain a bonus of +1 To Wound when making Strikes.
 
-
 </div>
 
 ---
@@ -1110,7 +1084,6 @@ Friendly Tookish Hunters within 6" of Paladin gain a bonus of +1 To Wound when m
 - **A Nose for Shortcuts** `PASSIVE`
 
 In Scenarios where you roll for Warbands to arrive, or ones where you roll to see which part of the board you deploy a Warband in (though not when rolling to choose deployment zones), you may choose the result instead of rolling, even if Robin is not on the battlefield. Robin may only use this special rule if his Warband only contains Hobbit Shirriffs.
-
 
 </div>
 
@@ -1152,7 +1125,6 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a Heroic Comb
 - **Frying Pan** `ACTIVE`
 
 If Sam wins a Duel Roll, he may choose to use his frying pan instead of making Strike. Choose one enemy Infantry model in the Combat (but not a Monster) and roll a D6. On a 4+, that model is stunned and cannot Move the following turn.
-
 
 </div>
 
@@ -1197,7 +1169,6 @@ Elven hand weapon. This model gains a bonus of +1 Strength when making Strikes w
 
 During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie are Engaged in Combat and are within 6" of Sam, then Sam may declare a free Heroic Combat. If this Heroic Combat is successful, then Sam must use the following Move to join either Frodo's or Rosie's Combat, as chosen by Sam's controlling player. If this is not possible, then Sam must Move as close as possible to either Frodo or Rosie. Sam cannot use this special rule if he is in the same Combat as either Frodo or Rosie.
 
-
 </div>
 
 ---
@@ -1229,7 +1200,6 @@ During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie
 - **Mayor of Michel Delving** `ACTIVE`
 
 At the beginning of a Fight Phase, before the Declare Heroic Actions step, Will Whitfoot can spend a Will Point to use this special rule. If he does, friendly Hobbit Warrior models within 3" of him gain a bonus of +1 to their Fight Value until the End Phase of the turn.
-
 
 </div>
 
@@ -1264,7 +1234,6 @@ If Barliman finishes his Move in base contact with a friendly Fellowship model, 
 
 Friendly Fellowship models within 6" of Barliman count as having the Dominant (2) special rule.
 
-
 </div>
 
 ---
@@ -1292,7 +1261,6 @@ Friendly Fellowship models within 6" of Barliman count as having the Dominant (2
 - **Live to fight another day** `PASSIVE`
 
 If Fredegar attempts to Charge an enemy model with the Terror special rule and fails the Courage Test, then Fredegar may still Move as normal; however, he may not Charge any model that turn.
-
 
 </div>
 
@@ -1339,7 +1307,6 @@ An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
 
 Whilst wearing the One Ring and Invisible, enemy models Engaged in Combat with Bilbo must halve their Fight value.
 
-
 </div>
 
 ---
@@ -1374,7 +1341,6 @@ A Fellowship model who ends their Activation in base contact with Bill can roll 
 
 Bill never provides a Stand Fast. However, he can benefit from any Fellowship hero's Stand Fast.
 
-
 </div>
 
 ---
@@ -1405,7 +1371,6 @@ Whenever a friendly Hobbit model within 6" of Folco spends a Might Point, they m
 - **A Helpful Sort** `ACTIVE`
 
 If Folco is within 3" of Frodo, then Frodo can spend Folco's Will Points to declare a Heroic Move instead of using one of his own Might Points.
-
 
 </div>
 
@@ -1442,7 +1407,6 @@ At any point during her Activation, Goldberry may spend a Will Point to sing one
 "Have Peace Now" - Choose an enemy model within 6" of Goldberry. The chosen model may not be Activated during their player's Activation Phase this turn, but may otherwise act normally in all other Phases. This song may only be sung once per turn.
 "Heed no Nightly Noises" - Choose a friendly model within 6" of Goldberry. Until the end of the turn, the chosen model automatically passes any Courage Tests it is required to take. Additionally, if the chosen model Charges an enemy model, the chosen model will increase their Fight Value by 1 until the End Phase of the turn. A model may only be chosen by this song once per turn.
 
-
 </div>
 
 ---
@@ -1478,7 +1442,6 @@ Enemy Warrior models from may not benefit from a Hero model's Stand Fast whilst 
 
 Once per turn during her Activation, Lobelia can spend a Will point, and choose an enemy model within 6" and Line of Sight. Roll a D6, and on a 2+, that model cannot Activate this turn. Also, their Attack is reduced to 1 in any Combat. Does not affect Monster, Chariot or War Beast models.
 
-
 </div>
 
 ---
@@ -1510,7 +1473,6 @@ Once per turn during her Activation, Lobelia can spend a Will point, and choose 
 
 If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as if they were his own.
 
-
 </div>
 
 ---
@@ -1541,7 +1503,6 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 - **For the Shire!** `ACTIVE`
 
 If Pippin is within 3" of Boromir of Gondor, Merry may spend his Might points as if they were his own.
-
 
 </div>
 
@@ -1575,7 +1536,6 @@ Whilst Sam is within 3" of Rosie, he may re-roll any failed To Wound rolls when 
 
 Rosie is a banner of range 6" for friendly Hobbit models. She also counts as a banner towards Scenario Victory Points, as long as she is alive.
 
-
 </div>
 
 ---
@@ -1608,7 +1568,6 @@ Smeagol's Courage value is 5+ whilst within 6" of Frodo.
 
 Smeagol does not halve his Move value when moving through Difficult Terrain. Additionally, if Frodo or Sam begin their Activation within 6" of Smeagol, they will also benefit from this special rule.
 
-
 </div>
 
 ---
@@ -1637,7 +1596,6 @@ The area within 6" of the Gatekeeper is always considered to be daylight. Additi
 
 After Priority has been rolled, the Gatekeeper may spent a Will point and choose one enemy Infantry model within 6" and in Line of Sight, and roll a D6. On a 3+, that model cannot Move that during their Activation, but may perform any other action as normal. Does not affect Monster models.
 
-
 </div>
 
 ---
@@ -1665,7 +1623,6 @@ At the start of the Move Phase, before the Declare Heroic Actions Step, Thrain m
 - **Gandalf's Intervention** `ACTIVE`
 
 If when Thrain takes his Intelligence Test for his Shattered Spirit special rule he is within 3" of a friendly Gandalf the Grey, then he may alter a single dice rolled as part of his Intelligence Test by 1, either up or down. If after this alteration the score of the Intelligence Test is a double, then Thrain may gain the benefits of rolling a double as described in his Shattered Spirit special rule.
-
 
 </div>
 
@@ -1704,7 +1661,6 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 "Ring a ding dillo!" - Until the end of the turn, friendly models within 6" of Tom Bombadil automatically pass any Courage Tests they are required to take.
 "Get out, you Wight!" - Choose an enemy Spirit model within 6" of Tom Bombadil. The chosen model immediately suffers a Wound. This song may only be sung once per turn.
 
-
 </div>
 
 ---
@@ -1736,7 +1692,6 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 - **Followers of the Bear** `PASSIVE`
 
 This model treats friendly Bear models as a banner.
-
 
 </div>
 
@@ -1775,7 +1730,6 @@ This model treats friendly Bear models as a banner.
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the target is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone). The bludgeon cannot be a Monster, Chariot or War Beast. If the bludgeon is a Cavalry model, then the rider is picked up and separated from their mount.
-
 
 </div>
 

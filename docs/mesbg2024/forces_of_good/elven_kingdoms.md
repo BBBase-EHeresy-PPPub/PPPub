@@ -53,7 +53,6 @@ Galadriel gains a free Will point each turn. If it is not spent by the end of th
 
 Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of Galadriel. During Priority, if Galadriel or Celeborn are in base contact with it, the controlling player may add 1 to their Priority roll. Additionally, during the End phase of each turn, one friendly Hero within 6" of the Mirror may restore Fate points to their starting value.
 
-
 </div>
 
 ---
@@ -95,7 +94,6 @@ Gil-galad's Stand Fast is 12", and friendly Elf Hero models may also benefit fro
 - **Lord of the West** `ACTIVE`
 
 May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
-
 
 </div>
 
@@ -144,7 +142,6 @@ If Outnumbered in a Combat, and successfully kills all enemy models that he was 
 
 At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains Terror. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
 
-
 </div>
 
 ---
@@ -190,7 +187,6 @@ Celeborn gains a free Will point each turn. If it is not spent by the end of the
 - **Battle Wisdom** `PASSIVE`
 
 Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To Wound when making Strikes.
-
 
 </div>
 
@@ -252,7 +248,6 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 
 At the start of the game before deployment, Elrond gains D6 Foresight points. As long as he is alive, Elrond can spend these points to increase his controlling player's Priority roll by 1 for each point spent, to a maximum of 6.
 
-
 </div>
 
 ---
@@ -291,7 +286,6 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 - **One Final Blow** `ACTIVE`
 
 When slain in Combat, Haldir can make a Strength 4 Strike against all enemy models he was in Combat with. He may also use Might to increase the To Wound rolls as normal.
-
 
 </div>
 
@@ -340,7 +334,6 @@ Legolas may make three shooting attacks during the Shoot Phase instead of one, u
 
 Instead of shooting normally, Legolas can make a single shot against an enemy Engaged in Combat with himself or a friendly model. If the To Hit roll is successful, he doesn't need to make any In The Way rolls - the shot will automatically hit its target.
 
-
 </div>
 
 ---
@@ -386,7 +379,6 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
 
-
 </div>
 
 ---
@@ -430,7 +422,6 @@ Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Str
 
 Cirdan gains a free Will point at the start of each turn. If it is not spent by the end of the turn, it is lost.
 
-
 </div>
 
 ---
@@ -471,7 +462,6 @@ Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at t
 
 Whilst within 3" of Elladan, Elrohir gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
 
-
 </div>
 
 ---
@@ -511,7 +501,6 @@ Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at t
 - **Strength of Brotherhood** `ACTIVE`
 
 Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
-
 
 </div>
 
@@ -586,7 +575,6 @@ All friendly Rivendell models within 3" of Lindir gain the Resistant to Magic sp
 
 If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend a single point of Will each turn for free. If he does not use this point by the end of the turn, then it is lost.
 
-
 </div>
 
 ---
@@ -646,7 +634,6 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
 
-
 </div>
 
 ---
@@ -680,7 +667,6 @@ Elven spear, when Engaged in Combat and not being Supported, this model may eith
 
 If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
 
-
 </div>
 
 ---
@@ -711,7 +697,6 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 - **Whirl of Blades** `ACTIVE`
 
 If Orophin rolls a natural 6 in the Duel roll, then he will make double the number of strikes he normally would when rolling To Wound. Note that if the model he is fighting is Trapped, these Strikes will not also gain the benefit for Striking a Trapped model.
-
 
 </div>
 
@@ -749,7 +734,6 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 - **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
-
 
 </div>
 
@@ -815,7 +799,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 Rumil may force one enemy model involved in the same Combat as him to re-roll one D6 in their Duel roll. This must be done before all other re-rolls, and before any Might points are spent.
 
-
 </div>
 
 ---
@@ -858,7 +841,6 @@ If Outnumbered in Combat, then before making her Duel roll, Tauriel gains +1 Att
 - **Vengeful Fury** `PASSIVE`
 
 If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to Defence 4 for the remainder of the battle. Additionally, if Kili is killed, Tauriel must always Charge an enemy model when she Activates if possible.
-
 
 </div>
 
@@ -953,7 +935,6 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 This model may use the Shielding rule with their Elven pike. The usual restrictions for Shielding still apply, chiefly that a model using the Shielding rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
 
-
 </div>
 
 ---
@@ -988,7 +969,6 @@ This model may use the Shielding rule with their Elven pike. The usual restricti
 
 An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
 
-
 </div>
 
 ---
@@ -1017,7 +997,6 @@ An Elven spear, and this model may use the Shielding rule even if they do not ha
 - **King's Knights** `PASSIVE`
 
 Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +1 Defence whilst within 6" of Thranduil.
-
 
 </div>
 
@@ -1052,7 +1031,6 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 
 Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
 
-
 </div>
 
 ---
@@ -1081,7 +1059,6 @@ Elven spear, when Engaged in Combat and not being Supported, this model may eith
 - **Knife Fighters** `ACTIVE`
 
 If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
-
 
 </div>
 
@@ -1116,7 +1093,6 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 - **King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
-
 
 </div>
 
@@ -1210,7 +1186,6 @@ During their Activation, a Sentinel may sing one of the following songs:
 The Hymn of Elbereth - Choose a friendly model within 12", who will automatically pass all Courage Tests until the End Phase of the turn.
 Eldamar Madrigal - Choose an enemy model within 12" who is not Engaged in Combat. They must take an Intelligence Test. If failed, you may immediately Move that model. However you cannot make them enter an enemy model's Control Zone, dismount, lie down, be forced to Climb, Jump, Leap or Swim, or Move in any way that would cause direct harm. The model affected by this song cannot be Activated later in the turn.
 The Lay of Gondolin - Sentinel and all friendly models within 3" gain Terror until the End Phase of the turn.
-
 
 </div>
 

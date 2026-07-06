@@ -34,7 +34,6 @@ This is a Unique Master-forged two-handed weapon. Additionally, Balin may re-rol
 
 During the Priority Phase, after the roll for Priority has taken place, Balin can spend a Will Point to allow his controlling player to re-roll their roll for Priority.
 
-
 </div>
 
 ---
@@ -78,7 +77,6 @@ The first time each turn Eorl spends a Might Point, roll a D6. On a 4+, the Migh
 
 This model may use its throwing spears as a normal spear during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
-
 </div>
 
 ---
@@ -113,7 +111,6 @@ This model may use its throwing spears as a normal spear during the Fight Phase,
 
 If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is successful, then the target will suffer 2 Wounds rather than 1.
 
-
 </div>
 
 ---
@@ -146,7 +143,6 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 - **Boldest of the Bold** `ACTIVE`
 
 Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enemy with the Terror special rule. Additionally, when an enemy model with the Blades of the Dead special rule makes Strikes against Cirion, he treats his Courage value as 4+ rather than 6+ (before any modifiers are applied).
-
 
 </div>
 
@@ -204,7 +200,6 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf General is Engaged in Combat and is within 6" of this model, then this model may declare a free Heroic Combat. If this Heroic Combat is successful, then this model must use the following Move to join the friendly Dwarf General model's Combat. If this is not possible, then this model must Move as close as possible to the Dwarf General. This model cannot use this special rule if it is in the same Combat as a friendly Dwarf General.
 
-
 </div>
 
 ---
@@ -236,7 +231,6 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 - **Noldorin Daggers** `ACTIVE`
 
 These are Elven hand weapons, which Erestor may also use as Elven throwing weapons. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
-
 
 </div>
 
@@ -274,7 +268,6 @@ These are Elven hand weapons, which Erestor may also use as Elven throwing weapo
 
 This is a Unique war horn. Additionally, once per game at the start of any Move Phase, Erkenbrand can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Erkenbrand suffer a -1 penalty to any Courage Test they are required to make.
 
-
 </div>
 
 ---
@@ -307,7 +300,6 @@ At any point during his Activation, Floi can spend a Will Point to choose a sing
 - **The Living Lore** `PASSIVE`
 
 Whenever a friendly model slays an enemy Hero or Monster model that Floi can draw Line of Sight to, Floi may regain a Will Point spent earlier in the battle.
-
 
 </div>
 
@@ -404,7 +396,6 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 This model receives a bonus of +1 to its Defence for each other friendly model with this special rule it is in base contact with. If you have multiple King's Champions in your Army, they will only get this bonus for being in base contact with models from their own Warband (i.e., a Herald from one King's Champion cannot provide the bonus to a model from another King's Champion).
 
-
 **ADDITIONAL PROFILES**
 
 - **Herald**
@@ -443,7 +434,6 @@ This is a two-handed weapon. Additionally, Strikes made with a White Sword of Go
 - **The Bladelord's Skill** `ACTIVE`
 
 If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D6 during the Duel Roll.
-
 
 </div>
 
@@ -484,7 +474,6 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 
 If this model rolls a natural 6 during its Casting Test, then upon completion of the Magical Power it regains a number of Will Points equal to the number of Will Points spent during the Casting Test.
 
-
 </div>
 
 ---
@@ -516,7 +505,6 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 - **Kalazal** `ACTIVE`
 
 This is a Unique hand weapon. Murin gains a bonus of +1 To Wound when making Strikes against Orc, Goblin or Uruk-hai models.
-
 
 </div>
 
@@ -551,7 +539,6 @@ This is a Unique hand weapon. Murin gains a bonus of +1 To Wound when making Str
 
 Each turn, Anborn gains a free Might Point that can only be spent during a shooting attack on either a To Hit Roll, a To Wound Roll, or an In The Way Test. If this free Might Point is not spent by the end of the turn, it is lost.
 
-
 </div>
 
 ---
@@ -584,7 +571,6 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 This model only fails an In The Way Test on the roll of a natural 1. Additionally, if this model slays an enemy Hero or Monster model with a shooting attack, then you may restore this model's Might to its starting value.
 
-
 </div>
 
 ---
@@ -616,7 +602,6 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 - **Birdcalls** `ACTIVE`
 
 Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him gain the Stalk Unseen special rule. Additionally, Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him ignore the Stalk Unseen special rule of enemy models.
-
 
 </div>
 
@@ -657,7 +642,6 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 
 If this model rolls a natural 6 during its Casting Test, then upon completion of the Magical Power it regains a number of Will Points equal to the number of Will Points spent during the Casting Test.
 
-
 </div>
 
 ---
@@ -683,7 +667,6 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 - **Pride of Dol Amroth** `ACTIVE`
 
 Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Fight Value.
-
 
 </div>
 
@@ -719,7 +702,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
 
-
 </div>
 
 ---
@@ -752,7 +734,6 @@ An Elven spear, and this model may use the Shielding rule even if they do not ha
 
 This model may benefit from a friendly Hero model's Stand Fast regardless of range.
 
-
 </div>
 
 ---
@@ -781,7 +762,6 @@ This model may benefit from a friendly Hero model's Stand Fast regardless of ran
 - **Riders of Eorl** `ACTIVE`
 
 Whilst within 6" of Eorl the Young, this model gains a bonus of +1 to their Fight Value.
-
 
 </div>
 

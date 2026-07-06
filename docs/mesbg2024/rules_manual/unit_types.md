@@ -1,4 +1,12 @@
-To be successful in battle, an army will need to muster various types of warriors, creatures, war machines and experienced leaders to guide their followers forwards to secure victory. The most powerful armies have a blend of all manner of units and know how best to utilise them on the battlefield to bring ruin upon their foes. From humble blocks of infantry, to galloping formations of cavalry and hulking monsters that stomp around the field of battle, there are numerous types of units available to a general - and the very best will know how to get the most from each of them. Every profile in the Middle-earth Strategy Battle Game has a number of keywords on it (as described on page 19), divided into three sections: Race, Faction and Unit Type - the latter of which we will cover here. A profile's Unit Type keywords denote the model's role on the battlefield. Whether it be a simple Warrior designed to make up the battleline of a force, or a Hero whose job it is to lead the army in the art of warfare, and so on. Many Unit Type keywords have additional rules associated with them. Some of the more common ones have sections in this Rules Manual that explain how they work in more detail, whilst others are explained fully on this page. On the following pages are a list of the various different Unit Types you will encounter in this game.
+To be successful in battle, an army will need to muster various types of warriors, creatures, war machines and experienced leaders to guide their followers forwards to secure victory. The most powerful armies have a blend of all manner of units and know how best to utilise them on the battlefield to bring ruin upon their foes. From humble blocks of infantry, to galloping formations of cavalry and hulking monsters that stomp around the field of battle, there are numerous types of units available to a general - and the very best will know how to get the most from each of them.
+
+Every profile in the Middle-earth Strategy Battle Game has a number of keywords on it (as described on page 19), divided into three sections: Race, Faction and Unit Type - the latter of which we will cover here.
+
+![](../media/rules_manual/unit_type.jpg)
+
+A profile's Unit Type keywords denote the model's role on the battlefield. Whether it be a simple Warrior designed to make up the battleline of a force, or a Hero whose job it is to lead the army in the art of warfare, and so on.
+
+Many Unit Type keywords have additional rules associated with them. Some of the more common ones have sections in this Rules Manual that explain how they work in more detail, whilst others are explained fully on this page. On the following pages are a list of the various different Unit Types you will encounter in this game.
 
 ### INFANTRY
 
@@ -38,7 +46,9 @@ A model that is not a Hero will be described as a Warrior - those that follow th
 
 ### UNIQUE
 
-Many of the characters in Middle-earth are individuals, i.e., they are one of a kind. You can only use one of each model with the Unique keyword in your Army - for example, you can't take two Gimlis. Additionally, some characters may have multiple profiles representing them at different times - such as Gandalf the Grey and Gandalf the White. Again, you can only ever take a single one of these Unique characters, even if they have different profiles. Some items of wargear will also have the Unique keyword and may be able to be taken by multiple characters, such as Orcrist. Again, you can only include a single copy of a Unique piece of wargear in your Army; though if there is a choice about who can wield it, that choice is up to you.
+Many of the characters in Middle-earth are individuals, i.e., they are one of a kind. You can only use one of each model with the Unique keyword in your Army - for example, you can't take two Gimlis. Additionally, some characters may have multiple profiles representing them at different times - such as Gandalf the Grey and Gandalf the White. Again, you can only ever take a single one of these Unique characters, even if they have different profiles.
+
+Some items of wargear will also have the Unique keyword and may be able to be taken by multiple characters, such as Orcrist. Again, you can only include a single copy of a Unique piece of wargear in your Army; though if there is a choice about who can wield it, that choice is up to you.
 
 ### BEAST
 

@@ -37,7 +37,6 @@ Once per game, at the start of any Fight phase, all friendly Mordor Orc models w
 
 Friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
 
-
 </div>
 
 ---
@@ -98,7 +97,6 @@ Can make one Strength 8 hit on all models involved in the Combat, including all 
 - **The Flames of Evil** `BRUTAL POWER ATTACK`
 
 Can make a Strength 10 strike against one model. If they survive, they are Set Ablaze and knocked Prone.
-
 
 </div>
 
@@ -162,7 +160,6 @@ Once per game, direct all attacks against one model, and if they suffer at least
 - **Crown of Morgul** `PASSIVE`
 
 Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for Heroic Resolve. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his hand weapon, and until the end of the turn, any model that suffers a Wound from the Witch-king is Set Ablaze.
-
 
 </div>
 
@@ -240,7 +237,6 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 
 Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll, regardless of special rules that would normally allow them to do so.
 
-
 </div>
 
 ---
@@ -291,7 +287,6 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 
 Once per game, direct all attacks against one model, and if they suffer at least one wound that is not prevented by Fate, they are instantly killed.
 
-
 </div>
 
 ---
@@ -325,7 +320,6 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
 
-
 </div>
 
 ---
@@ -358,7 +352,6 @@ This weapon can be used as either a pike or two-handed weapon.
 - **Phalanx** `ACTIVE`
 
 Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
-
 
 </div>
 
@@ -394,7 +387,6 @@ If outnumbered in a Combat, Gorbag gains +1 to his Attack value for the duration
 
 If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat, and that model must back away in a direction chosen by Gorbag. For example, they may be forced to back away over the edge of cliff, and take fall damage. Other models then back away as normal and Strikes are resolved.
 
-
 </div>
 
 ---
@@ -423,7 +415,6 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 - **Gothmog's Right Hand** `PASSIVE`
 
 If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move or Heroic March, instead of spending his own Might points. Additionally, when Gothmog declares a Heroic March or Heroic Move within 3" of Gothmog's Enforcer, Gothmog can measure the range of the With Me or At the Double from Gothmog's Enforcer, rather than himself.
-
 
 </div>
 
@@ -459,7 +450,6 @@ In Scenarios where you roll for Warbands to arrive, even if Guritz is not on the
 
 Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his Fight value.
 
-
 </div>
 
 ---
@@ -493,7 +483,6 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 - **End the Race of Man** `ACTIVE`
 
 Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
-
 
 </div>
 
@@ -548,7 +537,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 - **Whip of the Masters** `ACTIVE`
 
 Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, that action is free for that Hero.
-
 
 </div>
 
@@ -613,7 +601,6 @@ Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March o
 
 If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
 
-
 </div>
 
 ---
@@ -650,7 +637,6 @@ During a Scenario that involves picking up and carrying Objectives, and during h
 - **Cleaving Blow** `ACTIVE`
 
 If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
-
 
 </div>
 
@@ -751,7 +737,6 @@ Shelob gains +1 Attack whilst Engaged in Combat with an enemy Man, Elf Dwarf or 
 
 Shelob can choose to direct a single strike at one model in the Combat. That model suffers one Strength 8 hit, and if it survives, the model is treated as being under the effect of the Paralyse magical power. The model will also not automatically recover if Shelob is slain, leaves the board, or reduced to zero Will points.
 
-
 </div>
 
 ---
@@ -787,7 +772,6 @@ Shelob can choose to direct a single strike at one model in the Combat. That mod
 
 If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
 
-
 </div>
 
 ---
@@ -815,7 +799,6 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to Ter
 - **Visage of Terror** `PASSIVE`
 
 If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
-
 
 </div>
 
@@ -853,7 +836,6 @@ This weapon can be used as either a pike or two-handed weapon.
 
 Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
-
 </div>
 
 ---
@@ -885,7 +867,6 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 - **End the Race of Man** `ACTIVE`
 
 Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to his Fight value.
-
 
 </div>
 
@@ -972,7 +953,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 If this model rolls a natural 6 To Wound, and the Wound is successful, the target suffers 2 Wounds rather than 1.
 
-
 </div>
 
 ---
@@ -1029,7 +1009,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 At the end of spectre's move, it can choose an enemy model within 12" and in Line of Sight. The model must pass an Intelligence test. If failed, you may move that model directly towards the spectre, up to its maximum Move value, even if it has already moved that turn. The model will stop moving if it would enter an enemy Control Zone (though they will never count as charging in this instance, and therefore cannot be involved in Combat with them), comes into contact with an Obstacle, impassable terrain, cliff edge, or another model. This cannot be used to move a model out of Combat, make them dismount, drop an item, or Lie Down. However this move can be used to make the model Charge the spectre. A model affected by this special rule cannot Move any further that turn, and may not use Active abilities.
 
-
 </div>
 
 ---
@@ -1059,7 +1038,6 @@ A Mordor Siege Bow will only Scatter 3" rather than 6".
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
-
 
 **ADDITIONAL PROFILES**
 
@@ -1100,7 +1078,6 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 - **Wall-breaker** `ACTIVE`
 
 When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
-
 
 **ADDITIONAL PROFILES**
 

@@ -60,13 +60,13 @@ The Middle-earth Strategy Battle Game is split into a number of turns. During a 
 
 During a game, the dice rolls you make will determine the outcome of your models' actions. This can be anything from seeing whether or not a model successfully hits another with a Shooting Attack, whether they are courageous enough to charge into battle against a terrifying enemy, or even whether fate has decided to step in to save them from certain death. In this game we use ordinary six-sided dice when rolling dice.
 
-#### ‘COCKED' DICE
+#### 'COCKED' DICE
 
-Many games are played on exciting, three-dimensional boards covered with detailed terrain. Because of this it may often mean that the dice will not land flat on the surface of the board, or may even roll off the board completely. If this happens, then the dice is said to be ‘cocked' and should be rolled again. It is also good practice to decide with your opponent before the game starts what counts as a ‘cocked' dice so that both players are adhering to the same standards during the game.
+Many games are played on exciting, three-dimensional boards covered with detailed terrain. Because of this it may often mean that the dice will not land flat on the surface of the board, or may even roll off the board completely. If this happens, then the dice is said to be 'cocked' and should be rolled again. It is also good practice to decide with your opponent before the game starts what counts as a 'cocked' dice so that both players are adhering to the same standards during the game.
 
-If you are playing on an exceptionally lumpy or textured surface, it is a good idea to use a dice tray to roll your dice in to prevent as many ‘cocked' dice as possible throughout the game.
+If you are playing on an exceptionally lumpy or textured surface, it is a good idea to use a dice tray to roll your dice in to prevent as many 'cocked' dice as possible throughout the game.
 
-Re-rolling a ‘cocked' dice does not count as a re-roll as described later.
+Re-rolling a 'cocked' dice does not count as a re-roll as described later.
 
 ### D6, D3, 2D6
 
@@ -90,13 +90,13 @@ Some rules will allow for a dice to be re-rolled. In these situations the second
 
 If a model is able to re-roll dice from multiple special rules, then they may resolve the result of one special rule before declaring whether to re-roll for another.
 
-However, once a specific dice has been re-rolled once, it cannot be re-rolled again under any circumstances, regardless of the number of special rules that might give another re-roll. The only exception to this is if the dice is deemed to be ‘cocked'.
+However, once a specific dice has been re-rolled once, it cannot be re-rolled again under any circumstances, regardless of the number of special rules that might give another re-roll. The only exception to this is if the dice is deemed to be 'cocked'.
 
 If a roll requires a second dice to be rolled if the first roll scores a certain result (such as To Wound Rolls that require a 6+/4+, 6+/5+ or 6+/6+), then any rules that allow a model to re-roll will allow either or both of these rolls to be re-rolled - so long as each individual roll isn't re-rolled more than once.
 
 ### NATURAL ROLLS
 
-Some special rules will state that they require a roll of a ‘natural X', where X is the number on a D6. What this means is that the score on the dice must be equal to the value of X without being modified in any way (such as having Might used to increase it). Re-rolls are not considered to be a modifier as they don't modify the score on the actual dice. So, if a dice is re-rolled, then the score on the re-roll is still considered to be a natural roll.
+Some special rules will state that they require a roll of a 'natural X', where X is the number on a D6. What this means is that the score on the dice must be equal to the value of X without being modified in any way (such as having Might used to increase it). Re-rolls are not considered to be a modifier as they don't modify the score on the actual dice. So, if a dice is re-rolled, then the score on the re-roll is still considered to be a natural roll.
 
 ### CHARACTERISTICS
 
@@ -108,13 +108,13 @@ If a rule tells you to halve a characteristic for whatever reason, characteristi
 
 ### LINE OF SIGHT
 
-At many points during the course of a game, you will need to work out if a particular model can see a target - this is called Line of Sight. The best way to do this is to get down to the ‘model's eye view' and see if you can see the target - this is the model's Line of Sight. If, for whatever reason, you cannot get down to the model's eye view, trace a 1mm straight line between the model's head and its target using a tape measure instead. A model's Line of Sight is worked out from the head of the model, and a model is always assumed to have a 360° Line of Sight.
+At many points during the course of a game, you will need to work out if a particular model can see a target - this is called Line of Sight. The best way to do this is to get down to the 'model's eye view' and see if you can see the target - this is the model's Line of Sight. If, for whatever reason, you cannot get down to the model's eye view, trace a 1mm straight line between the model's head and its target using a tape measure instead. A model's Line of Sight is worked out from the head of the model, and a model is always assumed to have a 360° Line of Sight.
 
 Whilst in reality our models are static, we imagine they are much more dynamic, swirling through the maelstrom of battle to slay their foes. Because of this we don't penalise a model for the wargear they are carrying or a dynamic pose they happen to be in. As a result, a model only has Line of Sight to another model if it can see any part of the model's head, body, arms or legs. If a model can only see the likes of banners, weapons, wings, tails or other wargear, then they do not have Line of Sight. A model always has Line of Sight to itself.
 
 Some models have terrain modelled onto the base. In these instances, the terrain is never considered to block Line of Sight to the model or to other models. If you are unsure whether a model has Line of Sight to a target, it is good practice to ask your opponent for their opinion and agree together - and don't forget to play in a generous spirit!
 
-Should a player place their models on a taller base (or convert them so that they are lower down than the original model), this additional height is not taken into account when working out Line of Sight to or from the model - use their ‘true height' instead. Essentially, a model can never gain an advantage (or disadvantage) by being modelled to be higher or lower than they should be.
+Should a player place their models on a taller base (or convert them so that they are lower down than the original model), this additional height is not taken into account when working out Line of Sight to or from the model - use their 'true height' instead. Essentially, a model can never gain an advantage (or disadvantage) by being modelled to be higher or lower than they should be.
 
 ### MEASURING
 
@@ -124,7 +124,7 @@ To measure between models, always measure between the two closest parts of the b
 
 ### WITHIN AND WHOLLY WITHIN
 
-Some rules will require models to be ‘within' or ‘wholly within' something else in order to apply an effect. Though they may seem the same, there is an important difference between the two.
+Some rules will require models to be 'within' or 'wholly within' something else in order to apply an effect. Though they may seem the same, there is an important difference between the two.
 
 A model is said to be within range of something if any part of its base is within the stated range. A model is said to be wholly within range of something if every part of its base is within the stated range - if any part of the model's base is outside the given range, then it is not wholly within.
 
@@ -140,9 +140,9 @@ Faction keywords denote the faction or allegiance of the model, such as **Gondor
 
 Unit Type keywords show what kind of unit the model is, such as **Infantry**, **Cavalry** or **Monster**. Models will almost always have multiple Unit Type keywords and many of them will also have additional rules associated with them, such as the **Hero** keyword. Unit Types are explained fully on page 62.
 
-Some rules will contain words or phrases in bold; these will show which models are affected by the rule in question. For example, a model may have a special rule that affects ‘all **Rohan** models', in which case the special rule will apply to all models with the **Rohan** keyword.
+Some rules will contain words or phrases in bold; these will show which models are affected by the rule in question. For example, a model may have a special rule that affects 'all **Rohan** models', in which case the special rule will apply to all models with the **Rohan** keyword.
 
-Some rules may list more than one keyword in them. When this is the case, a model must have all of the keywords listed in order to be affected. For example, if a special rule affects ‘all **Rohan Cavalry** models', then a model must have both the **Rohan** keyword and the **Cavalry** keyword in order to be affected.
+Some rules may list more than one keyword in them. When this is the case, a model must have all of the keywords listed in order to be affected. For example, if a special rule affects 'all **Rohan Cavalry** models', then a model must have both the **Rohan** keyword and the **Cavalry** keyword in order to be affected.
 
 It is important to note that for models made up of more than one part, such as **Cavalry** models which are made up of a rider and a mount, then each will have their own set of keywords and will not share those of the other part of the model, unless otherwise stated. As such, there will often be instances when a special rule may affect part of a model but not the other part. For example, if a rule affects **Man** models then it will affect the rider of a **Cavalry** model if they have the **Man** keyword, but will not affect the **Mount** as they do not have the **Man** keyword.
 

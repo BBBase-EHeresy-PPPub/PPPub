@@ -1,4 +1,4 @@
-﻿# WHAT YOU NEED TO PLAY
+# WHAT YOU NEED TO PLAY
 
 Playing battles of the Middle-earth Strategy Battle Game is a rather simple thing to do. However, there are a few things you will want to organise before you settle down to play your game - a willing opponent, of course, is the first vital thing! Here we will go through all you will need to play a game, explain some of them in a bit more detail, and help you understand what you need to get started in your first games in Middle-earth.
 
@@ -31,4 +31,3 @@ It is often useful to have a pen and paper close at hand to record any important
 ## 6. Refreshments
 
 In the finest tradition of Hobbits everywhere, it's often a good idea to have a selection of sensible snacks, such as biscuits or seed cakes, available for you and your opponent - you don't want to be making tricky tactical decisions on an empty stomach - as well as something nice to drink to keep you refreshed (you can't go far wrong with a nice, hot cup of tea!).
-

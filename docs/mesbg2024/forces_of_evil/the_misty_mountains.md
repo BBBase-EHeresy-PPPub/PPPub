@@ -66,7 +66,6 @@ Increases Wounds and Defence to 9 each.
 
 The Dragon gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
-
 </div>
 
 ---
@@ -111,7 +110,6 @@ If an enemy is Wounded, and not slain at the end of a Combat, roll a D6. On 6, t
 
 The Balrog may declare a Heroic Combat each turn for free. Special rules or wargear that would slay the Balrog instantly (such as a Morgul Blade) will only inflict half of the Balrog's starting Wounds rather than all of them.
 
-
 </div>
 
 ---
@@ -155,7 +153,6 @@ During the Shoot Phase, if the Goblin King is in base contact with a friendly Go
 
 Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is prevented. Wounds caused by Magical Powers or Elven weapons in Combat ignore this special rule. Wounds caused by Elven missile weapons will cause the Goblin King to suffer a -1 penalty to this roll.
 
-
 </div>
 
 ---
@@ -193,7 +190,6 @@ If this model wins a Duel Roll, they may choose a single enemy model on a 25mm b
 - **Mince 'em Fine** `BRUTAL POWER ATTACK`
 
 Instead of making Strikes, Bill may choose a single enemy model involved in the Combat. Bill and the chosen model both roll a D6 and add their respective Strength characteristics. If Bill scores higher after adding Strength characteristics, then the chosen model suffers a number of Wounds equal to the difference between the two scores.
-
 
 </div>
 
@@ -235,7 +231,6 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 
 Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence values instead of their own when making a Courage Test or an Intelligence Test. Additionally, whenever Druzhag suffers a Wound, before any Fate Rolls are made, he may roll a D6. On a 2+, he may choose a single friendly Beast model within 2" to immediately suffer the Wound instead of him. Fate Rolls can then be made as normal.
 
-
 </div>
 
 ---
@@ -272,7 +267,6 @@ Durburz's Stand Fast range is 12" rather than 6".
 - **Callous Leadership** `ACTIVE`
 
 Once per game, at the start of any Fight Phase, before the Declare Heroic Actions Step, Durburz can declare he is using this ability. Until the End Phase of the turn, friendly Goblin models within 6" of Durburz gain a bonus of +1 To Wound when making Strikes. However, any other friendly Goblin model within 6" that loses a Duel Roll (not including Supporting models) must roll a D6 after any Strikes have been made against them. On the roll of a 1, the model suffers a Wound.
-
 
 </div>
 
@@ -312,7 +306,6 @@ If this model wins a Duel Roll, they may choose a single enemy model on a 25mm b
 
 Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a single enemy model involved in the Combat. The chosen model is then placed in base contact with the Campfire and is immediately Set Ablaze.
 
-
 </div>
 
 ---
@@ -342,7 +335,6 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 - **Chittering Hordes** `ACTIVE`
 
 This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
-
 
 </div>
 
@@ -378,7 +370,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions Step, Grinnah
 - **Chittering Hordes** `ACTIVE`
 
 This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
-
 
 </div>
 
@@ -475,7 +466,6 @@ The Goblin Scribe cannot Move, and will always count as Trapped should it lose a
 
 If the Goblin King declares a Heroic Move whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
 
-
 </div>
 
 ---
@@ -516,7 +506,6 @@ At the start of any Combat involving Tom, he may spend a Will Point to use this 
 - **Squash 'em into jelly** `BRUTAL POWER ATTACK`
 
 Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy model that was Engaged in Combat with Tom immediately suffers a Strength 6 hit and, if they survive, will be knocked Prone.
-
 
 </div>
 
@@ -563,7 +552,6 @@ If a Cave Drake loses a Duel Roll and is Trapped, then after any Strikes have be
 
 Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25mm base that was involved in the same combat and roll a D6. On a 2+, the chosen model suffers a Wound and, if this Wound is not prevented, the model is swallowed whole and removed as a Casualty. If the Cave Drake slays a model with this Brutal Power Attack, they may immediately regain a Wound lost earlier in the battle.
 
-
 </div>
 
 ---
@@ -591,7 +579,6 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 - **The Precious** `ACTIVE`
 
 If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must always Charge the enemy Ringbearer if possible. Additionally, if Gollum kills the enemy Ringbearer in Combat, then he will automatically regain the One Ring - from that point onwards he counts as having it as part of his Wargear.
-
 
 </div>
 
@@ -639,7 +626,6 @@ In the Shoot phase, The Watcher may make D6 shooting attacks, even in Engaged in
 
 If within 6" of water, select a single enemy involved in the Combat and roll a D6. On a 2+, the model suffers a Wound, and if not prevented, will be immediately slain. The Watcher is then removed from the battlefield and its controlling player must roll to see if it arrives again in the same manner as described in the From the Deep special rule.
 
-
 </div>
 
 ---
@@ -666,7 +652,6 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 - **Blinding Swarm** `ACTIVE`
 
 Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
-
 
 </div>
 
@@ -705,7 +690,6 @@ A throwing weapon with Strength 5 and range 3'.
 
 A spear that deals 2 Wounds rather than 1 when rolling a natural 6 on the To Wound roll when making Strikes. This rule only applies when this model is not Supporting.
 
-
 </div>
 
 ---
@@ -735,7 +719,6 @@ A spear that deals 2 Wounds rather than 1 when rolling a natural 6 on the To Wou
 - **Chittering Hordes** `ACTIVE`
 
 This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
-
 
 </div>
 
@@ -769,7 +752,6 @@ For the Drum to be played, at least one Drummer must be in base contact with it,
 - **Take up the Drum** `ACTIVE`
 
 If a Drummer is slain, then they may pass on their wargear to a friendly Moria Goblin Warrior within 1" of them. The chosen model becomes a Moria Goblin Drummer and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Goblin Drummer.
-
 
 **ADDITIONAL PROFILES**
 

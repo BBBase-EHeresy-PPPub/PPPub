@@ -51,7 +51,6 @@ Saruman's Stand Fast! Range is 12", and affects Hero models.
 
 Saruman can choose a single enemy Hero at the beginning of the game. That Hero will suffer a -1 penalty to any Resist tests they make against Saruman's magical powers cast upon them. However, a natural 6 will still count as a 6.
 
-
 </div>
 
 ---
@@ -120,7 +119,6 @@ If Lurtz has a shield, he may use it as throwing weapon once per game with a Str
 
 Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 
-
 </div>
 
 ---
@@ -157,7 +155,6 @@ Whenever an enemy model resolves a strike against Sharku (but not his warg) and 
 - **Fury of the Pack** `ACTIVE`
 
 Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and Attack 3 for the rest of the turn.
-
 
 </div>
 
@@ -198,7 +195,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Duel roll. Sid also never counts as Unarmed.
 
-
 </div>
 
 ---
@@ -233,7 +229,6 @@ At the start of the game, before both sides have deployed, Bill may choose an en
 
 If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the Paralyse Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
 
-
 </div>
 
 ---
@@ -264,7 +259,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 - **Let's put a maggot hole in your belly** `ACTIVE`
 
 If Grishnakh wins a Duel roll, and there are no other allies involved in the combat (including Supporting models), then he can choose a single 25mm enemy model he was Engaged in Combat with and roll a D6. On a 4+, that model is knocked Prone before Strikes are made.
-
 
 </div>
 
@@ -326,7 +320,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 Once per game, if Rowan ends his Move within 1" of a single building or piece of woodland terrain, and he is not Engaged in Combat, roll a D6. On 3+, it is set on fire. Any model within base contact of it during the End Phase of any turn must roll a D6. On a 4+, they are immediately Set Ablaze.
 
-
 </div>
 
 ---
@@ -360,7 +353,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of +1 to their Fight value.
 
-
 </div>
 
 ---
@@ -390,7 +382,6 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 
 If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a D6. On a 5+, he regains a Might point that he spent earlier in the battle. Additionally, Snaga can choose not to take part in a friendly Hero model's Heroic Action, and Activate as normal.
 
-
 </div>
 
 ---
@@ -417,7 +408,6 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 - **A Bad Influence** `PASSIVE`
 
 Ted may include only include Hobbit models in his warband. Friendly Hobbit models within 3" of Ted gain a bonus of +1 To Wound when making Strikes.
-
 
 </div>
 
@@ -454,7 +444,6 @@ If his army is Broken, instead of taking a Courage test, Ugluk can kill a friend
 - **"Looks like meat's back on the menu, boys!"** `ACTIVE`
 
 Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All friendly Uruk-hai within 6" gain Fearless, and +1 To Wound until the end of that turn. If Ugluk does this when the army is Broken, it will also count as triggering the Head Taker rule above.
-
 
 </div>
 
@@ -601,7 +590,6 @@ Friendly Dunland models within 6" of the Oathmaker gain the Fearless special rul
 
 Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland models must re-roll To Wounds rolls of a natural 1 when making strikes.
 
-
 </div>
 
 ---
@@ -709,7 +697,6 @@ Whilst Grima is considered a friendly model, he does not have a Control Zone and
 
 These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima Charges an enemy model, if Grima destroys an enemy Siege Engine, or if Grima interacts with an Objective Marker (such as destroying a Supply Marker or picking up an objective), at which point Grima is treated as a normal enemy model and can be Charged, shot and slain like any other model. Additionally, Grima can never be chosen as a target in Scenarios that require players to select friendly or enemy Hero models, such as Fog of War or Assassination.
 
-
 </div>
 
 ---
@@ -759,7 +746,6 @@ Enemy models within 12" of Crebain do not gain the benefit of the Stalk Unseen s
 - **Cloud of Birds** `PASSIVE`
 
 Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
-
 
 </div>
 
@@ -893,7 +879,6 @@ A hand-and-a-half weapon. If using as a two-handed weapon, the berserker can mak
 
 When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
-
 </div>
 
 ---
@@ -921,7 +906,6 @@ A model with a torch can attempt to detonate the charge in the Fight phase, if t
 - **Attacking the Charge** `ACTIVE`
 
 The charge has Defence 7 and Wounds 3. Charge can potentially go off when it takes a Wound. Charge can also be disabled by an enemy model who has only moved into base contact with it that turn. See pg.169 of Armies of LOTR book for full details.
-
 
 **ADDITIONAL PROFILES**
 
@@ -1024,7 +1008,6 @@ The charge has Defence 7 and Wounds 3. Charge can potentially go off when it tak
 
 A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model will then count as 2 models rather than 1 when working out how many models are within range of an objective marker.
 
-
 </div>
 
 ---
@@ -1054,7 +1037,6 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 - **Raise the Ladders!** `ACTIVE`
 
 An Isengard Assault Ballista can be used to raise a ladder onto enemy battlements in a siege game. Choose a point on the battlements within range and roll to hit. If successful, place a ladder within 6" of the wall base below the target point against the battlements. A model that was carrying the ladder can be placed at the top and will count as charging if there is a defender there. If not, the model can move normally.
-
 
 **ADDITIONAL PROFILES**
 

@@ -34,7 +34,6 @@
 
 If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the Duel roll. Additionally, Wulf must re-roll To Wound rolls of a natural 1 when making Strikes against an enemy hero.
 
-
 </div>
 
 ---
@@ -70,7 +69,6 @@ Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their F
 - **Claim the Throne** `PASSIVE`
 
 If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a banner with range 6".
-
 
 </div>
 
@@ -108,7 +106,6 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 - **Dunlending Commander** `PASSIVE`
 
 Whilst alive on the battlefield, if you win the Priority roll and give Priority to your opponent, then friendly Dunlending Warrior models within 6" of General Targg may re-roll To Wound rolls of a natural 1 when making Strikes, until the end of the turn.
-
 
 </div>
 
@@ -176,7 +173,6 @@ Lord Thorne may only include Rohirrim Traitors in his Warband.
 
 During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain a bonus of +1 to their Fight value.
 
-
 </div>
 
 ---
@@ -239,7 +235,6 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 
 A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
 
-
 </div>
 
 ---
@@ -274,7 +269,6 @@ A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special
 - **Spear Mastery** `ACTIVE`
 
 This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
-
 
 </div>
 

@@ -1,4 +1,8 @@
-Some armies in Middle-earth utilise more than just cavalry to charge into the fray, mounting their warriors upon great chariots drawn by multiple steeds and designed to smash through enemy ranks leaving a trail of crumpled armour and broken bodies in their wake. Though chariots are less manoeuvrable than the standard cavalry, they make up for it with pure wanton destruction on the battlefield; and there are few in Middle-earth that can survive the full-force charge of an armoured chariot. A Chariot is an unusual model in that, unlike a War Beast or Cavalry, it is represented by a single combined profile rather than being made up of constituent parts. Chariot models have a number of rules that govern how they work, all of which will be explained in this section. A Chariot is a single model, and therefore will count as a single model towards working out an army's Break Point, and will count as a single model if slain, and any other situation that refers to a number of models. A Chariot automatically passes all Courage Tests for being part of a Broken Army.
+Some armies in Middle-earth utilise more than just cavalry to charge into the fray, mounting their warriors upon great chariots drawn by multiple steeds and designed to smash through enemy ranks leaving a trail of crumpled armour and broken bodies in their wake. Though chariots are less manoeuvrable than the standard cavalry, they make up for it with pure wanton destruction on the battlefield; and there are few in Middle-earth that can survive the full-force charge of an armoured chariot.
+
+A Chariot is an unusual model in that, unlike a War Beast or Cavalry, it is represented by a single combined profile rather than being made up of constituent parts. Chariot models have a number of rules that govern how they work, all of which will be explained in this section. A Chariot is a single model, and therefore will count as a single model towards working out an army's Break Point, and will count as a single model if slain, and any other situation that refers to a number of models.
+
+A Chariot automatically passes all Courage Tests for being part of a Broken Army.
 
 ## CHARIOTS AND MOVEMENT
 
@@ -6,7 +10,25 @@ A Chariot does not Move in the normal way. Instead, when it Moves it will Chario
 
 ### CHARIOT CHARGE
 
-When a Chariot Activates and Moves, it does so by performing a Chariot Charge. A Chariot must Move if able. To Chariot Charge, pivot the Chariot around the centre point of the base up to 45 by placing the 'X' of the Chariot Pivot Template (below) over the centre of the Chariot model's base with the dashed line facing forwards and then pivoting it. If the Chariot comes into contact with other models when pivoting, simply move them out of the way by the shortest route to allow the Chariot to finish its pivot. If the Chariot comes into contact with terrain whilst pivoting, move the Chariot away just enough to finish its pivot. The Chariot will then Chariot Charge up to its Move Value in a straight line. After each full 4" of Move Value the Chariot has Moved, it may pivot again as described above before continuing its Chariot Charge. A Chariot ignores enemy Control Zones, and any model it comes into base contact with during its Chariot Charge (not whilst pivoting) will suffer a number of Impact Hits; the exact number and Strength of these Impact Hits will be stated in the Chariot model's profile. Cavalry models suffer these Impact Hits on both the rider and Mount. If the model is slain, the Chariot will continue with its Chariot Charge. If the model is not slain, the Chariot will stop Moving and remain in base contact with them, and will count as Charging and be Engaged in Combat. A Chariot affected by a Heroic March can still Chariot Charge as normal. A Chariot will halve its Move Value whilst within Difficult Terrain as normal, though may still Chariot Charge through it if needed. However, a Chariot that spends any of its Chariot Charge in Difficult Terrain must roll a D6; on a 1, the Chariot immediately suffers a Wound. A Chariot cannot make Jump, Climb, Leap or Swim Tests, cannot lie down and cannot defend a Barrier. If a Chariot comes into contact with an Obstacle, then it will inflict three Strength 6 hits upon it, and will suffer three Strength 6 hits in return. A Chariot may choose to forego its Chariot Charge and instead pivot to face any direction, in which case it may not Chariot Charge that turn. A Chariot that is entering the board via the rules for Reinforcements cannot Chariot Charge any models on the turn in which it arrives. Chariots and Movement Chariot Pivot Template
+When a Chariot Activates and Moves, it does so by performing a Chariot Charge. A Chariot must Move if able. To Chariot Charge, pivot the Chariot around the centre point of the base up to 45 by placing the 'X' of the Chariot Pivot Template (below) over the centre of the Chariot model's base with the dashed line facing forwards and then pivoting it. If the Chariot comes into contact with other models when pivoting, simply move them out of the way by the shortest route to allow the Chariot to finish its pivot. If the Chariot comes into contact with terrain whilst pivoting, move the Chariot away just enough to finish its pivot.
+
+The Chariot will then Chariot Charge up to its Move Value in a straight line. After each full 4" of Move Value the Chariot has Moved, it may pivot again as described above before continuing its Chariot Charge.
+
+A Chariot ignores enemy Control Zones, and any model it comes into base contact with during its Chariot Charge (not whilst pivoting) will suffer a number of Impact Hits; the exact number and Strength of these Impact Hits will be stated in the Chariot model's profile. Cavalry models suffer these Impact Hits on both the rider and Mount.
+
+If the model is slain, the Chariot will continue with its Chariot Charge. If the model is not slain, the Chariot will stop Moving and remain in base contact with them, and will count as Charging and be Engaged in Combat. A Chariot affected by a Heroic March can still Chariot Charge as normal.
+
+A Chariot will halve its Move Value whilst within Difficult Terrain as normal, though may still Chariot Charge through it if needed. However, a Chariot that spends any of its Chariot Charge in Difficult Terrain must roll a D6; on a 1, the Chariot immediately suffers a Wound. A Chariot cannot make Jump, Climb, Leap or Swim Tests, cannot lie down and cannot defend a Barrier.
+
+If a Chariot comes into contact with an Obstacle, then it will inflict three Strength 6 hits upon it, and will suffer three Strength 6 hits in return.
+
+A Chariot may choose to forego its Chariot Charge and instead pivot to face any direction, in which case it may not Chariot Charge that turn.
+
+A Chariot that is entering the board via the rules for Reinforcements cannot Chariot Charge any models on the turn in which it arrives.
+
+*Chariot Pivot Template*
+
+![](../media/rules_manual/chariot_pivot_template.jpg)
 
 ## CHARIOTS AND MAGIC
 
@@ -14,7 +36,9 @@ As a Chariot is all one model, any Magical Power (or special rule) that targets 
 
 ## CHARIOTS AND SHOOTING
 
-Some Chariot models will have the ability to make Shooting Attacks. Those that do can still Shoot regardless of how far the Chariot has moved, and do not suffer the -1 penalty for Moving and Shooting. Some larger Chariot models may also be able to Shoot whilst Engaged in Combat. Where this is the case it will be stated in their profile.
+Some Chariot models will have the ability to make Shooting Attacks. Those that do can still Shoot regardless of how far the Chariot has moved, and do not suffer the -1 penalty for Moving and Shooting.
+
+Some larger Chariot models may also be able to Shoot whilst Engaged in Combat. Where this is the case it will be stated in their profile.
 
 ### SHOOTING AT A CHARIOT
 
@@ -22,7 +46,9 @@ As mentioned earlier, a Chariot is essentially a single model with a combined pr
 
 ## CHARIOTS AND COMBAT
 
-If a Chariot ends a Chariot Charge in base contact with an enemy model, then it will count as Charging them and will fight them as normal in the Fight Phase. A Chariot that Charged gains a bonus of +1 Attack in the following Fight Phase. If the Chariot wins the ensuing Combat, then any enemy Infantry or Cavalry models involved in the Combat, that don't also have the Monster keyword, will be knocked Prone. Once a Chariot has lost all of its Wounds, the entire model is removed as a casualty.
+If a Chariot ends a Chariot Charge in base contact with an enemy model, then it will count as Charging them and will fight them as normal in the Fight Phase. A Chariot that Charged gains a bonus of +1 Attack in the following Fight Phase. If the Chariot wins the ensuing Combat, then any enemy Infantry or Cavalry models involved in the Combat, that don't also have the Monster keyword, will be knocked Prone.
+
+Once a Chariot has lost all of its Wounds, the entire model is removed as a casualty.
 
 ### IMMOVABLE OBJECT
 
@@ -30,4 +56,10 @@ A Chariot can never be knocked Prone for any reason, cannot be Hurled or Barged,
 
 ## CHARIOTS AND HEROES
 
-Some Hero models can be upgraded to ride a Chariot. When this is the case, they will still count as a single model. Additionally, the Hero will provide their own Fight Value, Strength, Courage and Intelligence to the Chariot if they are better, and will add their Attacks characteristic to that of the Chariot. The Hero may use their Might Points to influence any rolls the Chariot makes, with the exception of Impact Hits. A Hero riding a Chariot cannot declare a Heroic Combat whilst on the Chariot, unless otherwise stated. A Hero riding a Chariot may also use its Will Points to Resist any Magical Powers that target the Chariot, and to affect any Courage Tests the Chariot takes. The Hero will still have its own Wounds characteristic, and is wounded separately from the Chariot. If the Chariot is slain then the Hero is not removed, and instead is immediately dismounted as if it had rolled the Knocked Flying result on the Thrown Rider Chart (see page 70). A Hero riding a Chariot may use its Fate Points to attempt to prevent Wounds on the Chariot. Enemy models cannot Shoot at or Strike the Hero separately; they must target the Chariot. Any kills the Chariot makes in Combat (not Impact Hits) are associated to the Hero. A Hero who has been upgraded to ride a Chariot may choose to Dismount in the same manner as a Cavalry model (see page 69); however, the effect of doing so may differ between the specific types of Chariot, and will be listed in the profile for the Chariot. Chariots and Heroes
+Some Hero models can be upgraded to ride a Chariot. When this is the case, they will still count as a single model. Additionally, the Hero will provide their own Fight Value, Strength, Courage and Intelligence to the Chariot if they are better, and will add their Attacks characteristic to that of the Chariot. The Hero may use their Might Points to influence any rolls the Chariot makes, with the exception of Impact Hits. A Hero riding a Chariot cannot declare a Heroic Combat whilst on the Chariot, unless otherwise stated. A Hero riding a Chariot may also use its Will Points to Resist any Magical Powers that target the Chariot, and to affect any Courage Tests the Chariot takes.
+
+The Hero will still have its own Wounds characteristic, and is wounded separately from the Chariot. If the Chariot is slain then the Hero is not removed, and instead is immediately dismounted as if it had rolled the Knocked Flying result on the Thrown Rider Chart (see page 70). A Hero riding a Chariot may use its Fate Points to attempt to prevent Wounds on the Chariot. Enemy models cannot Shoot at or Strike the Hero separately; they must target the Chariot.
+
+Any kills the Chariot makes in Combat (not Impact Hits) are associated to the Hero.
+
+A Hero who has been upgraded to ride a Chariot may choose to Dismount in the same manner as a Cavalry model (see page 69); however, the effect of doing so may differ between the specific types of Chariot, and will be listed in the profile for the Chariot. Chariots and Heroes

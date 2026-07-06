@@ -38,7 +38,6 @@ Any model that Wounds Ashrak in Combat, or is Wounded by Ashrak in Combat, must 
 
 Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Additionally, whilst within 3" of a friendly Spider model, Ashrak gains the Terror special rule.
 
-
 </div>
 
 ---
@@ -74,7 +73,6 @@ Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Addit
 - **Tribal King** `ACTIVE`
 
 If this model is your General, it increases its Attacks characteristic to 3 and gains the General Hunter special rule.
-
 
 </div>
 
@@ -126,7 +124,6 @@ If this model is your General, it increases its Attacks characteristic to 3 and 
 
 Each time Khamul slays an enemy model in Combat, he immediately regains a single Will Point spent earlier in the battle. Additionally, at the start of the Fight Phase, before the Declare Heroic Actions step, Khamul may spend a Will Point to increase either his Fight Value, Strength or Attacks by 1 until the End Phase of the turn. Note this will only ever affect Khamul, not any Mount he is riding.
 
-
 </div>
 
 ---
@@ -162,7 +159,6 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 - **Commanding Presence** `PASSIVE`
 
 Friendly Khand models treat a Khandish King as a banner with a range of 6".
-
 
 </div>
 
@@ -235,7 +231,6 @@ Razgush may include Bat Swarms, Mirkwood Giant Spiders, Mirkwood Hunting Spiders
 
 The range of Razgush's Stand Fast is 12" rather than 6".
 
-
 </div>
 
 ---
@@ -285,7 +280,6 @@ The range of Razgush's Stand Fast is 12" rather than 6".
 
 At the start of the Move Phase, before the Declare Heroic Actions step, the Betrayer may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly models with the Poisoned Attacks special rule within 6" of the Betrayer may re-roll all failed To Wound rolls for their Poisoned Attacks, rather than just To Wound rolls of a natural 1.
 
-
 </div>
 
 ---
@@ -334,7 +328,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 
 At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a banner with a range of 6".
 
-
 </div>
 
 ---
@@ -382,7 +375,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 - **Sap Fortitude** `PASSIVE`
 
 At the start of the Move Phase, before the Declare Heroic Actions step, the Dwimmerlaik may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, whenever an enemy Hero model within 6" of the Dwimmerlaik declares a Heroic Action, they must take an Intelligence Test. If the test is failed the Heroic Action is immediately cancelled, and the Might Point spent to declare it is lost.
-
 
 </div>
 
@@ -463,7 +455,6 @@ This is Unique heavy armour. Additionally, the Knight of Umbar only loses a Will
 
 At the start of the Fight Phase, before the Declare Heroic Actions step, the Knight of Umbar may spend a Will Point to use this special rule. If he does, he may immediately choose a single enemy model he is Engaged in Combat with. The Knight of Umbar can elect to use the Fight Value, Attacks and/or Strength characteristics of the chosen model (in any combination) until the End Phase of the turn.
 
-
 </div>
 
 ---
@@ -512,7 +503,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 
 At the start of the Move Phase, before the Declare Heroic Actions step, the Shadow Lord may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, Shooting Attacks that target the Shadow Lord, or any model within 6" of him, will only ever hit on the roll of a 6.
 
-
 </div>
 
 ---
@@ -547,7 +537,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 - **Progeny** `ACTIVE`
 
 At the beginning of her Activation, the Spider Queen may spend any number of Will Points she has remaining to summon a Broodling. For each Will Point spent, place a single Broodling anywhere within 3" of the Spider Queen. Broodlings placed in this manner can never be placed in base contact with enemy models, but may be placed within the Control Zones of enemy models. Broodlings may be Activated on a turn in which they were summoned, though may not Activate as part of a Heroic Move or Heroic March declared by a friendly model that turn as they were not on the board when the Heroic Action was declared. Broodlings are never taken into account when working out if an Army is Broken or reduced to 25%.
-
 
 **ADDITIONAL PROFILES**
 
@@ -594,7 +583,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Tain
 - **Seeping Decay** `PASSIVE`
 
 At the start of the Fight Phase, before the Declare Heroic Actions step, roll a D6 for every non-Spirit model in base contact with the Tainted, both friendly and enemy. On the roll of a natural 6, the model immediately suffers a Wound. If the model in base contact is a Cavalry model, roll for both the rider and the Mount separately. If after this special rule has been resolved the Tainted is no longer in base contact with any enemy models, then he will not count as being Engaged in Combat that turn (unless he is subsequently Charged as a result of a Heroic Combat).
-
 
 </div>
 
@@ -648,7 +636,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Undy
 
 The Undying can spend his Will Points as if they were Fate Points.
 
-
 </div>
 
 ---
@@ -687,7 +674,6 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 The range of Thrydan's Stand Fast is 12" rather than 6".
 
-
 </div>
 
 ---
@@ -717,7 +703,6 @@ The range of Thrydan's Stand Fast is 12" rather than 6".
 - **"For the Dark Lord!"** `PASSIVE`
 
 Whilst there is at least one friendly Ringwraith on the battlefield, treat this model's Courage as 4+.
-
 
 </div>
 
@@ -781,7 +766,6 @@ Cavalry models do not gain the Extra Attack and Knock to the Ground bonuses whil
 
 Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls when making Strikes against an enemy Mount.
 
-
 </div>
 
 ---
@@ -816,7 +800,6 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 
 Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is ignored. Golfimbul may use Might to influence this roll, though he may not use this special rule against Wounds caused by Magical Powers.
 
-
 </div>
 
 ---
@@ -848,7 +831,6 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 - **Come here maggot!** `ACTIVE`
 
 Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D6. On a 2+, he may choose a single friendly Mordor Orc model within 1" to immediately suffer the Wound instead of him. Fate Rolls can then be made as normal.
-
 
 </div>
 
@@ -883,7 +865,6 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 
 If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Hero model, he may declare a Heroic Defence for free.
 
-
 </div>
 
 ---
@@ -911,7 +892,6 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 - **Trample** `ACTIVE`
 
 When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
-
 
 **ADDITIONAL PROFILES**
 
@@ -953,7 +933,6 @@ When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 
 This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Groblog gain the Dominant (2) special rule.
 
-
 </div>
 
 ---
@@ -993,7 +972,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush'
 - **Heart of Darkness** `ACTIVE`
 
 At the start of the Move Phase, before the Declare Heroic Actions step, Kardush can choose a single friendly Orc Warrior model within 6" of himself. If he does, the chosen model is removed as a casualty and Kardush immediately regains D3 Will Points spent earlier in the battle.
-
 
 </div>
 
@@ -1088,7 +1066,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using this special rule before any dice are rolled. If he does, then he suffers a -1 penalty to his Duel Rolls; however, if his side wins, he may re-roll any failed To Wound rolls when making Strikes in that Combat.
 
-
 </div>
 
 ---
@@ -1156,7 +1133,6 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 
 Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Point spent earlier in the battle.
 
-
 </div>
 
 ---
@@ -1216,7 +1192,6 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 - **Reckless Fighter** `ACTIVE`
 
 At the start of any Combat involving Zagdush, before any dice are rolled, Zagdush may choose to reduce his Defence by 1 and increase his Strength by 1. This effect lasts until the Combat is resolved.
-
 
 </div>
 
@@ -1314,7 +1289,6 @@ This model can spend its Will Points as if they were Fate Points.
 
 Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatically passes any Courage Tests it is required to take.
 
-
 </div>
 
 ---
@@ -1387,7 +1361,6 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 If this model starts its Activation more than 6" away from a friendly Corsair Bo'sun, it must immediately take an Intelligence Test. If the test is passed, all is fine and this model acts as normal. If the test is failed, then you must choose another friendly model within 1" of this model; the chosen model immediately suffers a Strength 3 hit and, after this Strength 3 hit has been resolved, this model must Charge an enemy model if able. If there are no other friendly models within 1" of this model when it fails its Intelligence Test, then this model's Activation immediately ends. In a turn in which this model fails its Intelligence Test for this special rule, it must re-roll all failed To Wound rolls when making Strikes and gains a bonus of +1 To Wound when making Strikes.
 
-
 </div>
 
 ---
@@ -1414,7 +1387,6 @@ If this model starts its Activation more than 6" away from a friendly Corsair Bo
 - **"Slay their Horses!"** `ACTIVE`
 
 Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a natural 1 when making Strikes against an enemy Mount.
-
 
 </div>
 
@@ -1447,7 +1419,6 @@ This can be used as either a spear or a two-handed weapon.
 - **Favour of the War Chief** `PASSIVE`
 
 If this model is Supporting a Combat, and is within 3" of a friendly Dunland Hero, then this model gains a bonus of +1 to its Fight Value for the duration of the Combat.
-
 
 </div>
 
@@ -1503,7 +1474,6 @@ If this model is Supporting a Combat, and is within 3" of a friendly Dunland Her
 
 Each time a Dweller in the Dark slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. A Dweller in the Dark can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
 
-
 </div>
 
 ---
@@ -1530,7 +1500,6 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 - **Oblivious to Pain** `PASSIVE`
 
 Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6, the Wound is ignored.
-
 
 </div>
 
@@ -1591,7 +1560,6 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 - **Chariot Charge** `ACTIVE`
 
 When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 4 Impact Hits.
-
 
 </div>
 
@@ -1754,7 +1722,6 @@ The Drum is considered to be playing as long as both the Drummer and Drum Bearer
 
 If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then they may pass on their wargear to a friendly Moria Blackshield Warrior within 1" of them. The chosen model becomes a Moria Blackshield Drummer/Drum Bearer (as applicable) and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Blackshield Drummer/Drum Bearer.
 
-
 </div>
 
 ---
@@ -1865,7 +1832,6 @@ A Watcher of Karna with Twin Blades increases its Attacks to 2.
 - **Steely Nerve** `ACTIVE`
 
 Watchers of Karna gain a bonus of +2 to their Courage Test when attempting to Charge an enemy with the Terror special rule. Additionally, when an enemy model with the Blades of the Dead makes Strikes against this model, this model will treat its Courage value as 5+ rather than 7+ (before any modifiers are applied).
-
 
 </div>
 
