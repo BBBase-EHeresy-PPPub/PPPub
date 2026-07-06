@@ -1,0 +1,6890 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../priority_phase/">
+      
+      
+        <link rel="next" href="../shoot_phase/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/PPPub_Favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Move Phase - Prancing Pony Pub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"PT Serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="mesbg" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#activation-phase" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Prancing Pony Pub" class="md-header__button md-logo" aria-label="Prancing Pony Pub" data-md-component="logo">
+      
+  <img src="../../assets/PPPub_Logo.webp" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Prancing Pony Pub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Move Phase
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Rules Manual
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../matched_play_guide/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Matched Play Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../forces_of_good/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Forces of Good
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../forces_of_evil/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Forces of Evil
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../good_army_list/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Good Army List
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../evil_army_list/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Evil Army List
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../scenarios/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Scenarios
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="/mesbg2018/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  [ MESBG 2018 ]
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Prancing Pony Pub" class="md-nav__button md-logo" aria-label="Prancing Pony Pub" data-md-component="logo">
+      
+  <img src="../../assets/PPPub_Logo.webp" alt="logo">
+
+    </a>
+    Prancing Pony Pub
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules Manual
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Rules Manual
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../turn_sequence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Turn Sequence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priority_phase/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Priority Phase
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Move Phase
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Move Phase
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#activation-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ACTIVATION PHASE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moving-models-1-2-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MOVING MODELS (1, 2, 3)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="MOVING MODELS (1, 2, 3)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moving-off-the-board" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MOVING OFF THE BOARD
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#models-unable-to-move" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MODELS UNABLE TO MOVE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#control-zones-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONTROL ZONES (4)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CONTROL ZONES (4)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stuck-in-a-control-zone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STUCK IN A CONTROL ZONE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#charging-enemies-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING ENEMIES (5)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CHARGING ENEMIES (5)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#charges-and-control-zones-5-6-7-8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGES AND CONTROL ZONES (5, 6, 7, 8)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-multiple-enemies-9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING MULTIPLE ENEMIES (9)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#defended-positions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DEFENDED POSITIONS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terrain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TERRAIN
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TERRAIN">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#open-ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OPEN GROUND
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#difficult-terrain-10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DIFFICULT TERRAIN (10)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#obstacles-11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OBSTACLES (11)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jumping-12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMPING (12)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="JUMPING (12)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jump-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMP TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#leaping-13-14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LEAPING (13, 14)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LEAPING (13, 14)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#leap-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LEAP TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#climbing-14-15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMBING (14, 15)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CLIMBING (14, 15)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#climb-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMB TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#climbing-tall-structures" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMBING TALL STRUCTURES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unscalable-terrain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        UNSCALABLE TERRAIN
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ladders-ropes-and-similar-16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LADDERS, ROPES AND SIMILAR (16)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#descending" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DESCENDING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falling-and-falling-damage-17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FALLING AND FALLING DAMAGE (17)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prone-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRONE MODELS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PRONE MODELS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#control-zones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONTROL ZONES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prone-models-and-line-of-sight" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRONE MODELS AND LINE OF SIGHT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crawling-18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CRAWLING (18)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standing-up-and-lying-down" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STANDING UP AND LYING DOWN
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-a-prone-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING A PRONE MODEL
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jumping" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMPING
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reinforcements-20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        REINFORCEMENTS (20)
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../shoot_phase/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shoot Phase
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fight_phase/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fight Phase
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../courage_and_intelligence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Courage and Intelligence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../unit_types/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit Types
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cavalry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cavalry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../heroes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heroes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monsters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Monsters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../war_beasts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    War Beasts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chariots/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chariots
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../weapons_and_wargear/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Weapons and Wargear
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../magic/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Magic
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../special_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Special Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../advanced_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Advanced Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../siege_engines/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Siege Engines
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sieges/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sieges
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../narrative_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Narrative Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matched_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../scenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scenarios
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../matched_play_guide/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play Guide
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Matched Play Guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/additional_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Additional Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/campaign_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Campaign Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/common_scenario_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Common Scenario Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/doubles_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Doubles Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/recommended_tournament_style/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recommended Tournament Style
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/results_sheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Results Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/scenario_pool_system/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scenario Pool System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/scenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scenarios
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play_guide/team_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Team Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../forces_of_good/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Forces of Good
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Forces of Good
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/arnor_and_angmar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arnor & Angmar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/dwarven_holds/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dwarven Holds
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/elven_kingdoms/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elven Kingdoms
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/the_free_peoples/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Free Peoples
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/gondor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gondor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/good_legacy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Good Legacy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/kingdoms_of_men/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kingdoms of Men
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_good/rohan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rohan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../forces_of_evil/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Forces of Evil
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Forces of Evil
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/evil_legacy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evil Legacy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/fallen_realms/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fallen Realms
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/gundabad_and_dol_guldur/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gundabad & Dol Guldur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/the_hill_tribes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Hill Tribes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/isengard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Isengard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/the_misty_mountains/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Misty Mountains
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/mordor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mordor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../forces_of_evil/smaug/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Smaug
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../good_army_list/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Good Army List
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Good Army List
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/arathorns_stand/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arathorn's Stand
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/army_of_dale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Dale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/army_of_edoras/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Edoras
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/army_of_erebor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Erebor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/army_of_lake_town/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Lake-town
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/army_of_thror/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Thror
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/arnor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arnor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/assault_on_ravenhill/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Assault on Ravenhill
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/atop_the_walls/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atop the Walls
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/battle_of_bywater/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Battle of Bywater
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_battle_of_five_armies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Battle of Five Armies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/battle_of_fornost/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Battle of Fornost
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/legacy_battle_of_greenfields/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Battle of Greenfields [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_beornings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Beornings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/breaking_of_the_fellowship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Breaking of the Fellowship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/defenders_of_erebor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Defenders of Erebor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/defenders_of_helms_deep/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Defenders of Helm's Deep
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/defenders_of_the_hornburg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Defenders of the Hornburg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/defenders_of_the_pelennor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Defenders of the Pelennor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_eagles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Eagles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/erebor_and_dale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Erebor & Dale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/erebor_reclaimed/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Erebor Reclaimed
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/legacy_expedition_to_the_east/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Expedition to the East [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/fangorn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fangorn
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_fellowship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Fellowship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_fiefdoms/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Fiefdoms
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/legacy_fields_of_celebrant/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fields of Celebrant [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/fords_of_isen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fords of Isen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/garrison_of_dale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Garrison of Dale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/garrison_of_ithilien/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Garrison of Ithilien
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_grey_company/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Grey Company
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_grief_of_eomer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Grief of Eomer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/halls_of_thranduil/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Halls of Thranduil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_iron_hills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Iron Hills
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/kingdom_of_khazad_dum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kingdom of Khazad-Dum
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/kingdom_of_rohan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kingdom of Rohan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_last_alliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Last Alliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/lindon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lindon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/lothlorien/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lothlorien
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/men_of_the_west/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Men of the West
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/minas_tirith/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minas Tirith
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/numenor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Numenor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/paths_of_the_druadan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Paths of the Druadan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/radagasts_alliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Radagast's Alliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/rangers_of_mirkwood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rangers of Mirkwood
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/realms_of_men/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Realms of Men
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/legacy_reclamation_of_moria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reclamation of Moria [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/reclamation_of_osgiliath/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reclamation of Osgiliath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/return_of_the_king/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Return of the King
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/ride_out/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ride Out
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/riders_of_eomer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Riders of Eomer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/riders_of_theoden/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Riders of Theoden
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/rivendell/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rivendell
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/road_to_helms_deep/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Road to Helm's Deep
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/road_to_rivendell/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Road to Rivendell
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_shire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Shire
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/survivors_of_lake_town/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Survivors of Lake-town
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/thorins_company/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thorin's Company
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../good_army_list/the_white_council/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The White Council
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../evil_army_list/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evil Army List
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Evil Army List
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/army_of_carn_dum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Carn Dum
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_army_of_dunland/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Dunland [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/army_of_gothmog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Gothmog
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/army_of_gundabad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of Gundabad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/army_of_the_great_eye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of the Great Eye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/army_of_the_white_hand/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Army of the White Hand
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/assault_upon_helms_deep/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Assault Upon Helm's Deep
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_assault_on_lothlorien/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Assault on Lothlorien [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/azogs_hunters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Azog's Hunters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/barad_dur/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Barad-dur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/besiegers_of_the_hornburg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Besiegers of the Hornburg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/the_black_gate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Black Gate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/the_black_riders/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Black Riders
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/buhrdurs_horde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Buhrdur's Horde
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/cirith_ungol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cirith Ungol
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/corsair_fleet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Corsair Fleet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/depths_of_moria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Depths of Moria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/desolator_of_the_north/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Desolator of the North
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/dragons_of_the_north/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dragons of the North
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/the_easterlings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Easterlings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_far_harad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Far Harad [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_fell_beings_of_mirkwood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fell Beings of Mirkwood [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/goblin_town/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Goblin-town
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/grand_army_of_the_south/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grand Army of the South
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/harad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Harad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/host_of_the_dragon_emperor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Host of the Dragon Emperor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/host_of_the_witch_king/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Host of the Witch-king
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legions_of_mordor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legions of Mordor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/lurtzs_scouts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lurtz's Scouts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/minas_morgul/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minas Morgul
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/moria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Moria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/muster_of_isengard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Muster of Isengard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/pits_of_dol_guldur/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pits of Dol Guldur
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_ravagers_of_the_shire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ravagers of the Shire [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/rise_of_the_necromancer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rise of the Necromancer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/the_serpent_horde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Serpent Horde
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/shadows_of_angmar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shadows of Angmar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/sharkeys_rogues/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sharkey's Rogues
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_the_spider_queens_brood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Spider Queen's Brood [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/the_three_trolls/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Three Trolls
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/ugluks_scouts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ugluk's Scouts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/umbar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Umbar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/usurpers_of_edoras/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Usurpers of Edoras
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/legacy_variags_of_khand/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Variags of Khand [Legacy]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/wolf_pack_of_angmar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wolf Pack of Angmar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/wolves_of_isengard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wolves of Isengard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evil_army_list/wraiths_on_wings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wraiths on Wings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../scenarios/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scenarios
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Scenarios
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/rules_manual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules Manual
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/matched_play_guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/doubles_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Doubles Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scenarios/warcom_narrative_scenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    WarCom Narrative Scenarios
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/mesbg2018/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    [ MESBG 2018 ]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#activation-phase" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ACTIVATION PHASE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moving-models-1-2-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MOVING MODELS (1, 2, 3)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="MOVING MODELS (1, 2, 3)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moving-off-the-board" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MOVING OFF THE BOARD
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#models-unable-to-move" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MODELS UNABLE TO MOVE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#control-zones-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONTROL ZONES (4)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CONTROL ZONES (4)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stuck-in-a-control-zone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STUCK IN A CONTROL ZONE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#charging-enemies-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING ENEMIES (5)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CHARGING ENEMIES (5)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#charges-and-control-zones-5-6-7-8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGES AND CONTROL ZONES (5, 6, 7, 8)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-multiple-enemies-9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING MULTIPLE ENEMIES (9)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#defended-positions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DEFENDED POSITIONS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terrain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TERRAIN
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TERRAIN">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#open-ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OPEN GROUND
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#difficult-terrain-10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DIFFICULT TERRAIN (10)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#obstacles-11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OBSTACLES (11)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jumping-12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMPING (12)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="JUMPING (12)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jump-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMP TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#leaping-13-14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LEAPING (13, 14)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LEAPING (13, 14)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#leap-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LEAP TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#climbing-14-15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMBING (14, 15)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CLIMBING (14, 15)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#climb-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMB TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#climbing-tall-structures" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CLIMBING TALL STRUCTURES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unscalable-terrain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        UNSCALABLE TERRAIN
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ladders-ropes-and-similar-16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LADDERS, ROPES AND SIMILAR (16)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#descending" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DESCENDING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falling-and-falling-damage-17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FALLING AND FALLING DAMAGE (17)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prone-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRONE MODELS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PRONE MODELS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#control-zones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONTROL ZONES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prone-models-and-line-of-sight" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRONE MODELS AND LINE OF SIGHT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crawling-18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CRAWLING (18)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standing-up-and-lying-down" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STANDING UP AND LYING DOWN
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-a-prone-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CHARGING A PRONE MODEL
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jumping" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUMPING
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reinforcements-20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        REINFORCEMENTS (20)
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Move Phase</h1>
+
+<p>Success in battle will often be achieved by the general who most effectively commands their followers around the battlefield; outflanking their enemy, controlling key areas and seizing critical positions from the grasp of their foes. Whether the goal is to assail the city of Edoras, infiltrate the tower of Cirith Ungol or flee the spider-infested forest of Mirkwood, a firm grasp of the Move Phase will be required to secure victory.</p>
+<p>The Move Phase can be broken down into a number of steps as shown below:</p>
+<ol>
+<li>
+<p><strong>Start of Move Phase</strong> - Any special rules that come into play at the start of the Move Phase are resolved here.</p>
+</li>
+<li>
+<p><strong>Declare Heroic Actions</strong> - Any Heroic Actions that can be declared in the Move Phase are declared here.</p>
+</li>
+<li>
+<p><strong>Player with Priority's Activation Phase</strong> - The player with Priority can Activate each of their models in turn. If a model has any special rules that come into play at the start of their player's Activation Phase, they are resolved here before any friendly model is Activated.</p>
+</li>
+<li>
+<p><strong>Player without Priority's Activation Phase</strong> - The player without Priority can Activate each of their models in turn. If a model has any special rules that come into play at the start of their player's Activation Phase, they are resolved here before any friendly model is Activated.</p>
+</li>
+<li>
+<p><strong>End of Move Phase</strong> - Any special rules that come into play at the end of the Move Phase are resolved here.</p>
+</li>
+</ol>
+<h2 id="activation-phase">ACTIVATION PHASE</h2>
+<p>When it is time for a player's Activation Phase, they get the chance to Activate each of their models in an order of their choosing. When a model is chosen to Activate, they follow the steps below: </p>
+<ol>
+<li>
+<p><strong>Start of Activation</strong> - Any special rules that come into play at the start of a model's Activation are resolved here. </p>
+</li>
+<li>
+<p><strong>Start of Move</strong> - Any special rules that come into play at the start of a model's Move are resolved here, before the model Moves. </p>
+</li>
+<li>
+<p><strong>Move Model</strong> - The model may Move as described on page 26. Any special rules that come into play during a model's Move are resolved here, at any point during the model's Move. </p>
+</li>
+<li>
+<p><strong>End of Move</strong> - Any special rules that come into play at the end of a model's Move are resolved here, after the model has finished Moving. </p>
+</li>
+<li>
+<p><strong>End of Activation</strong> - Any special rules that come into play at the end of a model's Activation are resolved here. </p>
+</li>
+</ol>
+<p>Once a model has been Activated and started their Activation, they must complete their Activation before another model can be Activated. You cannot Activate a different model during another model's Activation. You must Activate every model you control during your turn if able, though you do not have to do everything above with a model when they are Activated - they can essentially be Activated and do nothing, then you can move on to your next model. There will be situations where models you control cannot be Activated, in which case they do not follow any of the steps above. Once each model has Activated (if able), your Activation Phase ends.</p>
+<h2 id="moving-models-1-2-3">MOVING MODELS (1, 2, 3)</h2>
+<p>When you come to Move a model they can Move a number of inches (") up to their Move Value, as listed in their profile. To Move a model, measure how far it can travel and then move it along the desired distance within its Move Value, making sure to always measure from the same point on the base (you can't measure from the front of a base to the back of a base, as then the front part of the base will have exceeded the model's Move Value). Models are not required to Move in straight lines, and can Move in any direction they wish - you will often find yourself moving models around corners, obstacles, other models and navigating complicated battlefields - though they may never Move more than their Move Value. </p>
+<p>Models may not Move through other models. If a model wants to Move in between two other models, or between a model and a piece of terrain, then there must be enough space for the base of the model to fit through. </p>
+<p>Terrain itself has a big impact on the game, with models constantly having to traverse many different types of battlefield. There may be some instances where a model will be faced with a piece of terrain that it could in theory fit through, however, its base will not fit - such as a Cavalry model Moving through a gate or a model Moving through a doorway that is slightly too narrow to squeeze its base through. In these instances, if it is obvious that a model would be able to Move through the gap, even if its base won't allow it, then you and your opponent are free to agree this is possible - in fact, we would encourage you to do this. With this in mind, it is a good idea to have a chat with your opponent before the game starts to discuss any terrain features and make sure you are all agreed before the game begins. </p>
+<p>Generally speaking, the facing of a model doesn't matter (there are some exceptions such as a War Beast or Chariot) since we imagine that our models are constantly fighting and looking around, rather than being static playing pieces. However, there may be times where you wish to rotate your models to give a more dramatic feel, such as having them face the target of their Shooting Attack or to face who they are fighting. This is fine to do, but should only be done to give that cinematic feel and not to rotate a model to gain an in-game advantage, such as avoiding being seen by an enemy model or causing an extra In The Way Roll.</p>
+<h3 id="moving-off-the-board">MOVING OFF THE BOARD</h3>
+<p>Models may only Move off the board in Scenarios that specifically allow it, or if they have a special rule that permits them to do so. Models may only ever Move off the board voluntarily, and cannot be forced to leave the board due to the effects of enemy special rules or Magical Powers. </p>
+<p>When models do Move off the board, only part of their base needs to be able to exit the board for them to leave it.</p>
+<h3 id="models-unable-to-move">MODELS UNABLE TO MOVE</h3>
+<p>Sometimes a model will be unable to Move for one reason or another, and when this is the case it will be made clear in the rules. Some examples of this are when a model has lost their Activation, such as when they have been Charged or affected by a specific Magical Power, or have been rendered unable to Move due to failing a Courage Test when attempting to Charge an enemy with the Terror special rule.</p>
+<p><em><strong>Example 1:</strong> Frodo is trying to keep up with the rest of the Fellowship. A ruler is placed next to Frodo to measure his Move Value of 4". It's important not to exceed a model's Move Value (frankly, that's cheating!). With the distance determined, Frodo Moves level with the 4" mark.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_01.jpg" /></p>
+<p><em><strong>Example 2:</strong> The wall shown here is in Frodo's path. Frodo's player measures around it to work out where the Hobbit's Move will end.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_02.jpg" /></p>
+<p><em><strong>Example 3:</strong> With the other members of the Fellowship blocking his way, Frodo can only fit his base through the gap in between Sam and Gimli - note how this is the only gap big enough to fit Frodo's base through.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_03.jpg" /></p>
+<h2 id="control-zones-4">CONTROL ZONES (4)</h2>
+<p>Every model has a Control Zone - an imaginary 1" ring around the model that extends out from their base. No model may enter the Control Zone of an enemy model unless they are Charging the model in question. </p>
+<p>There may be instances where a model is forced to enter an enemy model's Control Zone, such as being forced to Back Away after losing a Combat or failing a Jump Test and landing in another model's Control Zone. In these situations, a model may enter the enemy model's Control Zone making sure there is still a small gap between models. Note: A model still cannot choose to enter an enemy model's Control Zone without Charging - it can only happen when they are forced to. </p>
+<p>A model's Control Zone will stop at the point where it comes into contact with an Obstacle or piece of impassable terrain. </p>
+<p>Control Zones can be a very useful tool, allowing you to keep enemy models out of a specific area of the battlefield, or being used to protect a particular model from attack.</p>
+<h3 id="stuck-in-a-control-zone">STUCK IN A CONTROL ZONE</h3>
+<p>If a model starts its Move within the Control Zone of an enemy model, then it has three choices: </p>
+<ul>
+<li>Remain where it is and not Move. </li>
+<li>Charge one of the enemy models whose Control Zone it started in. </li>
+<li>Move Away. In this instance, a model may Move within the Control Zone of that enemy model provided that it doesn't get any closer to the enemy model in question. This also allows a model to Charge out of an enemy model's Control Zone, providing it gets no closer to the model whose Control Zone it is leaving.</li>
+</ul>
+<p><em><strong>Example 4:</strong> Boromir is facing off against two Uruk-hai Scouts. Due to Boromir's Control Zone, the Uruk- hai cannot go within 1" of him unless they are Charging.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_04.jpg" /></p>
+<h2 id="charging-enemies-5">CHARGING ENEMIES (5)</h2>
+<p>If a model wants to fight an enemy model in Combat, then it must first Charge that enemy model. In order to Charge an enemy model, a model must have Line of Sight to the enemy model at the start of its Move. </p>
+<p>To Charge, measure the distance as you would for making a normal Move and, if the model's Move Value provides it with enough movement to reach its target and get into base contact, Move the model into base contact with the enemy model. Once a model has Charged into base contact with an enemy model, they are both Engaged in Combat and the model's Activation immediately ends. </p>
+<p>Models that are Engaged in Combat cannot be Activated during the Move Phase. However, should a model that was Engaged in Combat suddenly find themselves no longer Engaged before their turn to Activate has passed, then they may be Activated as normal. </p>
+<p>It is quite possible, due to the order in which you Activate your models, that a model that could not make a Charge earlier in the phase might become able to as your Activation Phase continues. This makes the order in which you Activate your models extremely important. Models may end up blocking each other's ability to Move, or may end up freeing each other to Move more effectively.</p>
+<h3 id="charges-and-control-zones-5-6-7-8">CHARGES AND CONTROL ZONES (5, 6, 7, 8)</h3>
+<p>There are a few rules regarding Control Zones that are important to note when Charging: </p>
+<p>The first is that if a model enters the Control Zone of an enemy model then they must Charge that model if they are able. The model may continue to Move within the enemy model's Control Zone if they wish, if they still have some of their Move Value remaining, in order to Charge a different point of the model's base; however, as soon as they come into base contact with the enemy model they must stop Moving. If a model enters multiple enemy models' Control Zones simultaneously, then they may choose which of them to Charge. </p>
+<p>The second rule is that a model that is Engaged in Combat immediately loses their Control Zone whilst they remain in Combat. This means you can eliminate the Control Zones of enemy models in order to clear a route through them. </p>
+<p>The third rule is that once a Charging model enters a Control Zone, they may ignore the Control Zones of other enemy models in order to Charge their original target. This means that no matter how densely packed enemy models are, a model is always able to Charge the first enemy model whose Control Zone it Moved into. </p>
+<p>The fourth rule is that a model that wishes to Charge an enemy model that has lost its Control Zone may ignore the Control Zones of other enemy models that it would be impossible for them to Charge. This only applies if they cannot Charge the model due to the placement of other models making the Charge impossible.</p>
+<p><em><strong>Example 5:</strong> Gimli has Charged this Uruk-hai Scout. Because it is now Engaged in Combat, the Uruk-hai has lost its Control Zone and cannot be Activated during its player's Activation Phase, and therefore may not Move.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_05.jpg" /></p>
+<p><em><strong>Example 6:</strong> Aragorn Charges the nearest Uruk-hai - entering its Control Zone first. As soon as he enters the Control Zone of the first Uruk-hai, Aragorn is free to Move within that Control Zone, so long as he ends up Charging the Uruk- hai whose Control Zone he entered first.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_06.jpg" /></p>
+<p><em><strong>Example 7:</strong> Here there is a gap between Aragorn and Boromir which the Uruk-hai would like to Move through in order to Charge Pippin. However, because of the Control Zones of Aragorn and Boromir, the Uruk-hai cannot pass through without Charging one of the two Men.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_07_1.jpg" /></p>
+<p><em>To avoid this, the Evil player has two other Uruk- hai Charge Aragorn and Boromir. Now that they are Engaged in Combat, Aragorn and Boromir have no Control Zones and so the Uruk-hai is free to Charge Pippin.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_07_2.jpg" /></p>
+<p><em><strong>Example 8:</strong> Here, the Uruk-hai nearest to the Fellowship are all Engaged in Combat with either Legolas or Gimli and therefore have no Control Zones. Aragorn wishes to Charge the Uruk-hai nearest to him, however, he would be entering the Control Zones of the Uruk- hai behind their Engaged allies in order to do so. As there is no way of Aragorn Charging the model whose Control Zone he would be entering, he may ignore it and simply Charge the Uruk-hai he is nearest to.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_08_1.jpg" /></p>
+<p><em>Here, Aragorn wishes to Charge the Morannon Orc straight in front of him. As that Morannon Orc is already Engaged in Combat with Gimli, and therefore has no Control Zone, it may seem at first glance that the Control Zone of the Morannon Orc with spear behind the target of Aragorn's Charge is preventing him from Charging. Luckily for Aragorn, as there is no physical way for him to Charge this Morannon Orc with spear as it is blocked off by the Orcs Engaged in Combat with Gimli and Legolas respectively, Aragorn can ignore their Control Zone and Charge his target freely.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_08_2.jpg" /></p>
+<h3 id="charging-multiple-enemies-9">CHARGING MULTIPLE ENEMIES (9)</h3>
+<p>Models may Charge multiple enemy models should they wish. To do this, the model must have a high enough Move Value in order to reach all of its intended targets and be able to Move into base contact with them all, at which point it will be Engaged in Combat with all enemy models it is in base contact with. </p>
+<p>Remember that after a model has entered the Control Zone of an enemy model it will ignore the Control Zones of other enemy models, and so is free to enter the Control Zones of any other enemy models as it completes its Charge against multiple enemies.</p>
+<p><em><strong>Example 9:</strong> Boromir wants to Charge two Uruk-hai at once. After entering the Control Zone of the first Uruk-hai, he continues to Move within its Control Zone in order to Move into base contact with two Uruk-hai and therefore Charge both of them.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_09.jpg" /></p>
+<h3 id="defended-positions">DEFENDED POSITIONS</h3>
+<p>Sometimes a model may wish to Charge an enemy model that is on the other side of a wall, hedge or other Barrier. The rules for this are fully detailed in the Fight Phase section (see page 54).</p>
+<h2 id="terrain">TERRAIN</h2>
+<p>Middle-earth is filled with all manner of exciting and vibrant places, all of which have their own specific terrain; from the rolling green hills of the Shire, to the rickety wooden walkways of Goblin-town, and the dense overgrown woodland of Mirkwood. It is often the battlefields that we play on that make our games feel so enjoyable and immersive, but to ensure that the games run smoothly we need a couple of rules to help govern the types of terrain.</p>
+<h3 id="open-ground">OPEN GROUND</h3>
+<p>The majority of any battlefield will be Open Ground. This covers the likes of grassy fields, sandy beaches, cobblestone courtyards, purpose-built roads and all manner of other easy to traverse terrain. There are no rules assigned to such terrain, and models may Move over it with no penalty to their Move Value.</p>
+<h3 id="difficult-terrain-10">DIFFICULT TERRAIN (10)</h3>
+<p>Areas of loose rocks, thick undergrowth, especially long grass, crumbling rubble and other such landscapes that would make movement difficult are described as Difficult Terrain. Any model that Moves whilst in Difficult Terrain will count the distance Moved as double whilst they remain within it. So, a model that has Moved 1" through Difficult Terrain will count as having moved 2". This penalty is applied so long as any part of a model's base is within Difficult Terrain. </p>
+<p>At the start of a battle, it is good practice to discuss with your opponent what counts as Open Ground and what counts as Difficult Terrain.</p>
+<p><em><strong>Example 10:</strong> Boromir is racing through the thick undergrowth to rescue Merry and Pippin. As this is Difficult Terrain, every 1" Boromir Moves will count as 2". Boromir has a Move Value of 6", allowing him to Move 3" through the Difficult Terrain.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_10_1.jpg" /></p>
+<p><em>Here, Boromir Moves across 2" of Open Ground before he reaches Difficult Terrain. Since he only has 4" of his Move Value remaining, Boromir can only Move 2" into the Difficult Terrain.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_10_2.jpg" /></p>
+<h3 id="obstacles-11">OBSTACLES (11)</h3>
+<p>Obstacles are any manner of linear object on the battlefield that impede a model's ability to Move. The likes of walls, hedges, barricades, fallen tree trunks, etc., are all good examples of an Obstacle. </p>
+<p>A model's ability to cross over an Obstacle is determined by comparing the height of the model with the height of the Obstacle. A model can automatically cross over any Obstacle that is equal to or less than half its height without penalty - simply move the model over the Obstacle and carry on with that model's Move. This means that the likes of a Man or Elf will be able to stride over an Obstacle that a Dwarf or Hobbit cannot. Whilst this may seem unfair, it is true that the little folk would struggle more with some Obstacles than the big folk might. </p>
+<p>A model can attempt to cross over an Obstacle greater than half its height, but must take a Jump Test or Climb Test in order to do so. Usually, you will be able to tell if a model can cross an Obstacle just by looking at it. In situations where you need to check the height of a model, measure the model from the top of its head to the bottom of its feet. Be sure to always work out the model's 'true height'. What this means is to use the height of what the model should be (including its base), and not taking into account any strange poses such as crouching, being stood on a large rock or leaping off a piece of terrain - and be sure to agree this with your opponent. Once this has been done, compare it to the height of the Obstacle to see whether a test is needed.</p>
+<p><em><strong>Example 11:</strong> Aragorn wishes to Move over this low wall. As the wall is less than half of Aragorn's height, he may simply Move over it with no penalty.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_11.jpg" /></p>
+<h2 id="jumping-12">JUMPING (12)</h2>
+<p>From fallen trees to low walls, a battlefield will likely have a number of Obstacles that will impede a model's Movement and will need to be Jumped over in order for a model to keep Moving. Any attempt to cross over an Obstacle is done with a Jump Test.</p>
+<p>A model may attempt to Jump over an Obstacle that is up to but no greater than its own height. If an Obstacle is greater than the model's height, then it must take a Climb Test instead.</p>
+<p>To make a Jump Test, the model Moves into base contact with the Obstacle it wishes to Jump over and rolls a D6, consulting the Jump Table to find out how successful the attempt has been.</p>
+<p>The horizontal distance a model Moves when it Jumps will still count towards the distance a model can Move during their Activation; however, the vertical distance will not.</p>
+<h3 id="jump-table">JUMP TABLE</h3>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Stumbles and Fails:</strong> The model does not Jump the Obstacle. The model remains where it is and its Activation immediately ends.</td>
+</tr>
+<tr>
+<td>2-5</td>
+<td><strong>Success:</strong> The model successfully Jumps the Obstacle; place it on the other side of the Obstacle in base contact. If the model is now within the Control Zone of an enemy model, it must Move the minimum distance required in order to Charge that model, so long as it doesn't exceed its Move Value. Otherwise, the model's Move immediately ends, even if within the Control Zone of an enemy model. If the model lands in the Control Zones of multiple enemy models, it will Charge the closest one as described above.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Effortlessly Bounds Across:</strong> The model successfully Jumps the Obstacle; place it on the other side of the Obstacle in base contact. It may then continue its Activation as normal.</td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Example 12:</strong> The Hobbits are fleeing from the pursuing Nazgûl and wish to try to cross the wall in order to escape. As the wall is no taller than the Hobbits, but more than half their height, they will require a Jump Test.</em></p>
+<p><em>Frodo goes first, Moves into base contact with the wall and makes his Jump Test. He rolls a 3, and Moves over the wall to the other side. His Move then ends.</em></p>
+<p><em>Pippin goes second and also takes a Jump Test, rolling a 6. Not only does Pippin cross the wall, but he may continue to Move if he wishes.</em></p>
+<p><em>Merry goes next and takes his Jump Test, rolling a 4 and Moves across to the other side. As this puts Merry into the Control Zone of an enemy model, he must Move the minimum distance possible to Charge if he wishes.</em></p>
+<p><em>Finally, seeing his friends clamber over the wall, Sam tries to do the same. Unfortunately, Sam rolls a 1 for his Jump Test and so fails to cross the wall and his Activation immediately ends - leaving him at the mercy of the Nazgûl.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_12_1.jpg" /></p>
+<p><img alt="" src="../../media/rules_manual/example_12_2.jpg" /></p>
+<h2 id="leaping-13-14">LEAPING (13, 14)</h2>
+<p>The likes of rickety walkways, yawning chasms and other such terrain provide plenty of opportunities for models to Leap across gaps. Any such attempt must be resolved with a Leap Test. </p>
+<p>For a model to be able to attempt to Leap over a gap, the gap cannot be wider than twice the height of the model (compare the model and the gap in question if you are unsure) and they must have enough Move Value to be able to fully reach the other side - otherwise it is just too far to Leap across. A model may also attempt a Leap Test to try to Leap over a river in the same manner. </p>
+<p>To make a Leap Test, the model Moves to the edge of the gap it wishes to Leap over and rolls a D6, consulting the Leap Table to find out how successful the attempt has been.</p>
+<h3 id="leap-table">LEAP TABLE</h3>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Stumbles and Fails:</strong> The attempt to Leap has gone wrong. The model falls to the bottom of the gap halfway between where they leapt from and where they were leaping to, suffers Falling Damage (see page 35) and becomes Prone. The model’s Activation immediately ends.</td>
+</tr>
+<tr>
+<td>2-5</td>
+<td><strong>Success:</strong> The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. If the model is now within the Control Zone of an enemy model it must Move the minimum distance required in order to Charge that model, so long as it doesn’t exceed its Move Value. Otherwise, the model’s Move immediately ends, even if within the Control Zone of an enemy model. If the model lands in the Control Zones of multiple enemy models, it will Charge the closest one as described above.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Effortlessly Bounds Across:</strong> The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. It may then continue its Activation as normal.</td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Example 13:</strong> Gimli is being chased by two Moria Goblins and wishes to put some distance between them by Leaping over a chasm to safety. Gimli Moves to the edge of the gap and takes a Leap Test. Rolling a 4, Gimli successfully Leaps the gap and is placed on the other side. His Move then immediately ends.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_13.jpg" /></p>
+<p><em><strong>Example 14:</strong> The Balrog is hot on the heels of the Fellowship and they must do all they can to escape. Aragorn decides to Move over a small fallen pillar - he must take a Jump Test. Boromir wants to put some height between himself and the fiery demon, and so chooses to scramble up a rocky cliff - he must take a Climb Test.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_14.jpg" /></p>
+<h2 id="climbing-14-15">CLIMBING (14, 15)</h2>
+<p>In order to climb Obstacles that are greater than a model's height, such as tall walls, scaffolding or rock faces, a model will be required to take a Climb Test. It is also important to note that for a model to attempt a Climb Test there must be some way for them to scale the surface, such as handholds, jutting rocks, wooden crosspieces, etc. To make a Climb Test, the model Moves to the bottom of the surface they wish to Climb and rolls a D6, consulting the Climb Table to find out how successful the attempt has been. Cavalry models may not take Climb Tests. Models must Climb directly upwards, and the vertical distance a model Moves as part of a Climb Test is counted towards the distance a model can Move during their Activation. Climbing counts as Moving through Difficult Terrain.</p>
+<h3 id="climb-table">CLIMB TABLE</h3>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Fall:</strong> The model Falls to the ground and becomes Prone at the bottom of the Obstacle they attempted to Climb. If the model was already at ground level, nothing else happens. However, if the model was higher than this then it will suffer Falling Damage. In either situation, the model’s Activation immediately ends.</td>
+</tr>
+<tr>
+<td>2-5</td>
+<td><strong>Success:</strong> The model successfully Climbs the Obstacle until it has reached its Move Value or reaches the top. If the model reaches the top, place it on top of the Obstacle in base contact with the edge. If the model is now within the Control Zone of an enemy model, it must Move the minimum distance required in order to Charge that model, so long as it doesn’t exceed its Move Value. Otherwise, the model’s Move immediately ends, even if within the Control Zone of an enemy model. If the model lands in the Control Zones of multiple enemy models, it will Charge the closest one as described above.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Swift Ascent:</strong> The model successfully Climbs the Obstacle until it has reached its Move Value or reaches the top. If the model reaches the top, place it on top of the Obstacle in base contact with the edge. It may then continue its Activation as normal.</td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Example 15:</strong> Aragorn, Legolas and Gimli are cut off from their allies at Helm's Deep and need to Climb the scaffolding to reach them. Aragorn spends 1" of his Move Value to reach the scaffolding and then takes a Climb Test. Rolling a 4, Aragorn is successful and Moves to the top. Legolas follows suit and rolls a 6 for his Climb Test. He Moves up the scaffold and then spends his remaining Move Value (note that, as Climbing is considered to be done in Difficult Terrain, he has precious little left!). Finally, Gimli reaches the bottom of the scaffold but rolls a 1 for his Climb Test. He fails and becomes Prone. A Prone Marker is placed next to him and his Activation immediately ends.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_15.jpg" /></p>
+<h3 id="climbing-tall-structures">CLIMBING TALL STRUCTURES</h3>
+<p>In rare circumstances, models may wish to Climb a taller structure that will take more than a single turn to reach the top. In these instances, either perch the model in a satisfactory way at roughly the right height or leave the model at the bottom of the Obstacle with a dice next to it to show how high up the structure it is. If a model starts its Activation part way up a structure in this manner, then it must attempt to make a Climb Test during their Activation in order to continue Climbing.</p>
+<h3 id="unscalable-terrain">UNSCALABLE TERRAIN</h3>
+<p>Any terrain that has a sheer surface and has no way of being scaled (such as a fortress wall), or has no place to safely balance a model on top without the risk of the model falling off (such as a small pillar or tree) cannot be Climbed during a game. This is to prevent models finding themselves in unlikely positions such as balanced on tree tops or halfway up the side of a wall. It is a good idea to discuss with your opponent before the game which terrain can be climbed, if any. If it doesn't look great and doesn't instinctively 'feel right' then steer clear of it.</p>
+<h3 id="ladders-ropes-and-similar-16">LADDERS, ROPES AND SIMILAR (16)</h3>
+<p>The use of a ladder or length of rope makes Climbing significantly easier. Climbing up or down one of these doesn't require a Climb Test and doesn't count as Difficult Terrain. Instead, the model may simply Move up or down just as if they were Moving normally.</p>
+<p><em><strong>Example 16:</strong> Frodo doesn't fancy Climbing this rockface and so finds a ladder to use instead. The ladder is 3" high, and so he Moves up it at the cost of 3" of his Move Value.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_16.jpg" /></p>
+<h3 id="descending">DESCENDING</h3>
+<p>Climb Tests can also be used for a model to Climb down as well as up; this is called Descending. A model can always Descend a distance equal to its own height without penalty (i.e., the distance Descended in this way will not count towards the amount a model can Move during their Activation). </p>
+<p>If a model wishes to Descend further than this, then they must take a Climb Test exactly as described previously, with the exception that they will Move down instead of up. There must also be some way for the model to Climb down, such as footholds, wooden structures, etc.</p>
+<h3 id="falling-and-falling-damage-17">FALLING AND FALLING DAMAGE (17)</h3>
+<p>A model that falls in any situation will become Prone at the bottom of whatever it has fallen from. If a model would fall and land overlapping another model, simply move the falling model out of the way the minimum distance so that it is not overlapping or in base contact with another model. If the distance the model has fallen is equal to or less than their own height, they will suffer no further effects, though their Activation will immediately end. </p>
+<p>If a model falls a distance greater than their own height, then they will suffer Falling Damage. When a model suffers Falling Damage, they will take one Strength 3 hit, plus another Strength 3 hit for every full 1" greater than their height they have fallen.</p>
+<p><em><strong>Example 17:</strong> Gimli has tried to Climb down this rockface to aid his allies. However, Gimli has rolled a 1 for his Climb Test and so falls to the ground at the bottom of the rockface and, as the distance he fell was greater than his own height he will suffer Falling Damage. The distance Gimli fell was two full inches taller than his height, and so he will suffer three Strength 3 hits - one for the Falling Damage, and a further two for the extra distance he has fallen.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_17.jpg" /></p>
+<h2 id="prone-models">PRONE MODELS</h2>
+<p>During a game, there will likely be times where models will find themselves Prone. Whether this is as a result of a failed Climb Test, being on the receiving end of a Cavalry Charge or some other effect, it is important to understand how Prone models interact with the game. </p>
+<p>If a model is ever Knocked to the Ground, then they will immediately become Prone and a Prone Marker should be placed next to them as a reminder.</p>
+<h3 id="control-zones">CONTROL ZONES</h3>
+<p>Models do not have a Control Zone whilst they are Prone.</p>
+<h3 id="prone-models-and-line-of-sight">PRONE MODELS AND LINE OF SIGHT</h3>
+<p>When a model is Prone, we imagine that it is writhing on the floor, cowering beneath a shield or scrabbling to try to regain its footing. Usually, another model would be able to see over a model that is Prone, though there may be some instances where this may not be the case (such as a Cave Troll being Prone). For these reasons, a Prone model is considered to be half its normal height (from the top of its head to its feet) for the purpose of working out Line of Sight.</p>
+<h3 id="crawling-18">CRAWLING (18)</h3>
+<p>When a Prone model Moves it does so by Crawling, instead of Moving normally. A Crawling model may only Move up to 1" regardless of the kind of terrain it is in, cannot make Jump, Leap or Climb Tests, and the only other thing it can do when it Moves is to Stand Up. </p>
+<p>Prone models may not Charge - they must Stand Up first.</p>
+<p><em><strong>Example 18:</strong> Frodo is currently Prone and wishes to Crawl during his Move. Frodo Crawls 1" and then Stands Up, which because he Crawled is all the Moving he can do during his Move. As Frodo has now stood up, the Prone Marker is removed and he is free to use his full Move Value next turn.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_18.jpg" /></p>
+<h3 id="standing-up-and-lying-down">STANDING UP AND LYING DOWN</h3>
+<p>During its Move, a Prone model may Stand Up at the cost of half its Move Value (so a model with a Move Value of 6" would need to spend 3" to Stand Up), and may then use its remaining Move Value to Move as normal, including Charging. A standing model may Lie Down also at the cost of half its Move Value. A model may not both Stand Up and Lie Down in the same Activation, and if it does either then it will still count as having Moved during their Activation. </p>
+<p>A Prone model may Stand Up whilst in the Control Zone of an enemy model without Charging them, so long as they Move no closer to that enemy model.</p>
+<h3 id="charging-a-prone-model">CHARGING A PRONE MODEL</h3>
+<p>Prone models can be Charged as normal. As they have no Control Zone, enemy models can Move within 1" of them without having to Charge them if they wish, provided they do not come into base contact with them. If they do, they will count as having Charged the Prone model.</p>
+<h3 id="jumping">JUMPING</h3>
+<p>Models may attempt to Jump Over Prone models exactly as if they were an Obstacle, with the following exceptions: 
+- A model that wishes to Jump Over an enemy model that is less than half its height must still take a Jump Test. 
+- If a model attempts to Jump Over an enemy model and rolls a 1, they do not Jump Over the enemy model and instead must Charge them at the point in which they tried to Jump Over them. 
+- If a model attempts to Jump Over an enemy model and rolls a 2-5, they will Jump Over the enemy model as normal and may choose to either Charge the model they Jumped Over after doing so, or instead be separated slightly from the enemy model and end their Move. 
+- If a model attempts to Jump Over an enemy model and rolls a 6, they will Jump Over the enemy model and may continue their Move as normal.</p>
+<p><em><strong>Example 19:</strong> This Moria Goblin is Prone and Gimli wishes to Jump Over it, and so must make a Jump Test. Rolling a 5, Gimli successfully Jumps Over the Goblin and is placed on the other side of it, slightly separated from being in base contact. Gimli then has two choices: either to end his Move where he is, or to Move into base contact with the Goblin and Charge him - Gimli chooses the latter.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_19.jpg" /></p>
+<h2 id="reinforcements-20">REINFORCEMENTS (20)</h2>
+<p>Sometimes models may be kept aside to enter the battle later on. When they do, they will typically enter via the rules for Reinforcements. </p>
+<p>When Reinforcements enter the battlefield, they will do so during their player's Activation Phase of the Move Phase, after all of that player's models on the board have Activated (if able). When models Move onto the board in this manner, a point is chosen on a specified board edge and the model will Move onto the board from that point following all the usual rules for Moving, with the exception that they may not Charge for any reason (including the effects of an enemy rule). </p>
+<p>In Matched Play games, when a Warband is chosen to Move onto the board via the rules for Reinforcements, the whole Warband will move on together. When the point at which the Warband will enter from has been chosen, the Warband's Captain must enter first from that point. Then, any Followers from that Warband may enter the board from any point within 3" of the initial chosen point. </p>
+<p>The player who chooses where the Warband will enter the board must choose a place where the whole Warband can physically make it onto the board and be deployed. If this is not possible for whatever reason, then the Warband will enter on the next turn instead, where they will roll again with a +1 bonus to the roll to determine which part of the board they enter from.</p>
+<p><em><strong>Example 20:</strong> Haleth's Warband has arrived via the rules for Reinforcements. First, Haleth Moves onto the board from the chosen point. After this, all of Haleth's Followers may Move onto the board from any point within 3" of the chosen point, one by one.</em></p>
+<p><img alt="" src="../../media/rules_manual/example_20.jpg" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <!-- Footer -->
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <!-- Copyright and theme information -->
+        <div class="md-copyright">
+          <a href="/sitemap.xml" title="Site Map"> Site Map </a>
+          |
+          <a href="https://discord.gg/XkFPPEUDGy" title="Feedback Discord Channel">Feedback Discord </a>
+          |
+          <a href="https://wahapedia.ru/" title="Wahapedia">Wahapedia </a>
+          |
+          <a href="https://bloodbowlbase.ru/" title="Blood Bowl Base">Blood Bowl Base </a>
+          |
+          <a href="https://epicheresy.ru/" title="Epic Heresy">Epic Heresy </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["header.autohide", "navigation.indexes", "navigation.tabs", "navigation.top"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
