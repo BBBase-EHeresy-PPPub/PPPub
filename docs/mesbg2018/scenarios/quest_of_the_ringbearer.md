@@ -510,6 +510,12 @@ The board represents the raised walkways of Dwarrowdelf. The walkways should str
 
 The Good player deploys their models on the walkways and within 6" of the western board edge. The Evil player doesn't deploy any models; they will be available as the game goes on.
 
+**OBJECTIVES**
+
+The Fellowship are trying to flee Moria and escape the pursuing Goblins who are trying to kill them.
+
+The game lasts until one force achieves their objective. The Good player wins if at least five members of the Fellowship escape the board via the eastern board edge, including Frodo. The Evil player wins if five or more Good models are slain. Additionally, if Frodo is slain, the Evil player automatically wins.
+
 **SPECIAL RULES**
 
 * **Goblin Pursuit**
@@ -519,12 +525,6 @@ At the end of each Evil Move phase, the Evil player rolls a D6 to determine how 
 * **Unstable Realm**
 
 Any model that leaves the walkways for any reason (except when a Good model escapes the board) will automatically be slain as they fall into the depths of Moria. Additionally, if the roll for Priority is ever tied, then the Evil player may place a Chasm Marker on one of the walkways. Chasm Markers should stretch across a walkway and be 1" wide. These can be jumped as normal, but any model that rolls a 1 will fall into the depths of Moria and be slain. Chasm Markers cannot be placed on models or within 3" of another Chasm Marker.
-
-**OBJECTIVES**
-
-The Fellowship are trying to flee Moria and escape the pursuing Goblins who are trying to kill them.
-
-The game lasts until one force achieves their objective. The Good player wins if at least five members of the Fellowship escape the board via the eastern board edge, including Frodo. The Evil player wins if five or more Good models are slain. Additionally, if Frodo is slain, the Evil player automatically wins.
 
 **PARTICIPANTS**
 

@@ -366,6 +366,20 @@ This Scenario is played on an 8'x6' board. Along the northern board edge are the
 
 The Evil player deploys the Mordor force (except the Witch- king of Angmar) anywhere between 24"-48" from the northern board edge and at least 24" from both the eastern and western board edges (see map). They then deploy the Easterling and Khand force anywhere between 12 "-24" of the southern board edge and at least 24" from both the eastern and western board edges. The Good player then deploys the Grey Company force anywhere within 6" of the western board edge and at least 24" from both the northern and southern board edges. They then deploy the Rohan force anywhere within 6" of the eastern board edge. The Witch-king of Angmar, and the Minas Tirith and Harad forces are kept to one side for later in the game.
 
+**OBJECTIVES**
+
+The Battle of Pelennor Fields is the greatest battle of the Third Age, and as such this Scenario has five objectives for both sides to fight over. As this Scenario will take a long time, we suggest that you gather your friends and decide amongst you how long to play for (we recommend at least five hours - possibly a whole weekend!) and whichever team has achieved the most objectives by the time the game ends is declared the winner!
+
+1. **Leaders of Men** - There are seven leaders of Men upon this battlefield: Aragorn, Theoden, Imrahil, Angbor, Forlong, Eomer and Duinhir. If, at the end of the game, there are more of these Heroes left alive than dead, the Good player claims this objective. If there are more of these Heroes dead than alive, the Evil player claims this objective.
+
+2. **Leaders of the Dark Lord** - There are seven leaders of the Dark Lord upon this battlefield: The Witch-king, Gothmog, the Mahud Beastmaster Chieftain, Suladan, The Golden King, Amdur and the Khandish King. If, at the end of the game, there are more of these Heroes left alive than dead, the Evil player claims this objective. If there are more of these Heroes dead than alive, the Good player claims this objective.
+
+3. **The Mumakil** - If, at the end of the game, there are two or more Mumakil left alive, the Evil player claims this objective. If there are no Mumakil left alive, the Good player claims this objective. Any other result is a draw.
+
+4. **Gates of Minas Tirith** - At the end of the game, count the number of each side's models that are within 12" of the gates of Minas Tirith. Whichever side has more, claims this objective. If the score is the same, the result is a draw.
+
+5. **The Pelennor** - There are four markers upon the battlefield (see map). Whichever side controls most of these will claim this objective. A marker is considered to be controlled by whichever side has the most models within 3" of it.
+
 **SPECIAL RULES**
 
 * **Charge of the Rohirrim**
@@ -385,20 +399,6 @@ At the end of the Evil player's fifth Move phase, the Evil player moves the Hara
 At the end of the Evil player's seventh Move phase, the Evil player moves the Witch-king of Angmar onto the board via the northern board edge.
 
 **Merry** - Merry starts as a passenger upon the back of Eowyn's horse.
-
-**OBJECTIVES**
-
-The Battle of Pelennor Fields is the greatest battle of the Third Age, and as such this Scenario has five objectives for both sides to fight over. As this Scenario will take a long time, we suggest that you gather your friends and decide amongst you how long to play for (we recommend at least five hours - possibly a whole weekend!) and whichever team has achieved the most objectives by the time the game ends is declared the winner!
-
-1. **Leaders of Men** - There are seven leaders of Men upon this battlefield: Aragorn, Theoden, Imrahil, Angbor, Forlong, Eomer and Duinhir. If, at the end of the game, there are more of these Heroes left alive than dead, the Good player claims this objective. If there are more of these Heroes dead than alive, the Evil player claims this objective.
-
-2. **Leaders of the Dark Lord** - There are seven leaders of the Dark Lord upon this battlefield: The Witch-king, Gothmog, the Mahud Beastmaster Chieftain, Suladan, The Golden King, Amdur and the Khandish King. If, at the end of the game, there are more of these Heroes left alive than dead, the Evil player claims this objective. If there are more of these Heroes dead than alive, the Good player claims this objective.
-
-3. **The Mumakil** - If, at the end of the game, there are two or more Mumakil left alive, the Evil player claims this objective. If there are no Mumakil left alive, the Good player claims this objective. Any other result is a draw.
-
-4. **Gates of Minas Tirith** - At the end of the game, count the number of each side's models that are within 12" of the gates of Minas Tirith. Whichever side has more, claims this objective. If the score is the same, the result is a draw.
-
-5. **The Pelennor** - There are four markers upon the battlefield (see map). Whichever side controls most of these will claim this objective. A marker is considered to be controlled by whichever side has the most models within 3" of it.
 
 **PARTICIPANTS**
 
