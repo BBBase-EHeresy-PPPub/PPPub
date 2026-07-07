@@ -2,6 +2,12 @@
 
 ### ROAST MUTTON
 
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. Note: As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not carry Orcrist or Sting respectively. Bilbo also has not yet found The One Ring and therefore cannot use it.
+
+**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
+
 **LAYOUT**
 
 The Scenario takes place in an open clearing in the Trollshaws, where the Trolls have built their camp. The Campfire should be placed in the centre of the board, with the area immediately around it containing supplies and an enclosure with the captured ponies. The rest of the board should be a mixture of densely wooded terrain and rocky outcroppings.
@@ -32,17 +38,17 @@ At the end of the Good player's first Activation Phase, roll a D6 for each Thori
 
 The Trolls may not make Strikes against Bilbo until the start of the third turn, or until Bilbo Charges one of them.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. Note: As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not carry Orcrist or Sting respectively. Bilbo also has not yet found The One Ring and therefore cannot use it.
-
-**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
-
-![](../media/scenarios/warcom/hobbit_an_unexpected_journey/roast_mutton.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/roast_mutton.jpg)
 
 ---
 
 ### ESCAPE FROM GOBLIN-TOWN
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
+
+**Evil:** The Goblin King; Grinnah, Goblin Jailer; 30 Goblin Warriors.
 
 **LAYOUT**
 
@@ -80,17 +86,17 @@ Any model that is pushed off of a platform or rocky outcrop, or who fails to jum
 
 In the first turn of the game, the Goblin King may not Move or declare Heroic Actions.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
-
-**Evil:** The Goblin King; Grinnah, Goblin Jailer; 30 Goblin Warriors.
-
-![](../media/scenarios/warcom/hobbit_an_unexpected_journey/escape_from_goblin_town.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/escape_from_goblin_town.jpg)
 
 ---
 
 ### OUT OF THE FRYING PAN... AND INTO THE FIRE
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Bilbo Baggins with The One Ring and Sting; Gwaihir; 4 Great Eagles.
+
+**Evil:** Azog on the White Warg; Fimbul, Hunter Orc Captain on Fell Warg; 12 Hunter Orc Warg Riders; 12 Fell Wargs.
 
 **LAYOUT**
 
@@ -124,19 +130,19 @@ When Thorin Moves, he must always Charge an enemy model if possible; prioritisin
 
 At the start of any Fight Phase, the Good player may place Bilbo in base contact with any model Engaged in Combat with Thorin. If Bilbo enters the battlefield in this way, he must also be rescued by the Eagles (otherwise he counts as having been rescued along with one of the other Dwarf Markers).
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Bilbo Baggins with The One Ring and Sting; Gwaihir; 4 Great Eagles.
-
-**Evil:** Azog on the White Warg; Fimbul, Hunter Orc Captain on Fell Warg; 12 Hunter Orc Warg Riders; 12 Fell Wargs.
-
-![](../media/scenarios/warcom/hobbit_an_unexpected_journey/out_of_the_frying_pan_and_into_the_fire.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/out_of_the_frying_pan_and_into_the_fire.jpg)
 
 ---
 
 ## The Hobbit: The Desolation Of Smaug
 
 ### FLIES AND SPIDERS PART 1: THE UNSEEN HERO
+
+**PARTICIPANTS**
+
+**Good:** Bilbo Baggins with The One Ring and Sting.
+
+**Evil:** 6 Mirkwood Giant Spiders.
 
 **LAYOUT**
 
@@ -168,17 +174,17 @@ Spiders may not be Moved off the battlefield and must always Move the full amoun
 
 If Bilbo is touching a Marker in the End Phase, the Good player rolls a D6. On a 3+, the Evil player must remove the Marker and reveal if it contained any Dwarves.
 
-**PARTICIPANTS**
-
-**Good:** Bilbo Baggins with The One Ring and Sting.
-
-**Evil:** 6 Mirkwood Giant Spiders.
-
-![](../media/scenarios/warcom/hobbit_the_desolation_of_smaug/flies_and_spiders_part_1_the_unseen_hero.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_1_the_unseen_hero.jpg)
 
 ---
 
 ### FLIES AND SPIDERS PART 2: THE ELVES OF MIRKWOOD
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf, Prince of Mirkwood with Elven cloak; Tauriel, Ranger of Mirkwood with Elf bow; 10 Mirkwood Rangers.
+
+**Evil:** 10 Mirkwood Giant Spiders.
 
 **LAYOUT**
 
@@ -208,17 +214,17 @@ At the end of the Good player's fourth Move Phase, they may move Legolas, Taurie
 
 Any Mirkwood Giant Spiders that are slain should be put to one side. At the start of each Priority Phase, before Priority is rolled, the Evil player may place any previously slain Mirkwood Giant Spiders onto the board at least 10" away from any Good models. These Spiders may act as normal.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf, Prince of Mirkwood with Elven cloak; Tauriel, Ranger of Mirkwood with Elf bow; 10 Mirkwood Rangers.
-
-**Evil:** 10 Mirkwood Giant Spiders.
-
-![](../media/scenarios/warcom/hobbit_the_desolation_of_smaug/flies_and_spiders_part_2_the_elves_of_mirkwood.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_2_the_elves_of_mirkwood.jpg)
 
 ---
 
 ### LAKE-TOWN ESCAPE
+
+**PARTICIPANTS**
+
+**Good:** Legolas Greenleaf, Prince of Mirkwood with Orcrist.
+
+**Evil:** Bolg, Spawn of Azog; Fimbul, Hunter Orc Captain; 24 Hunter Orc Warriors: 6 with Orc bow, 6 with two-handed weapon, 12 with no additional wargear.
 
 **LAYOUT**
 
@@ -250,19 +256,19 @@ In this Scenario Legolas increases his Attacks to 3 and his Fight Value to 7.
 
 Bolg has 3 Fate Points in this Scenario. Additionally, whilst he has all of his Wounds remaining Bolg may not leave the board and when he Activates Bolg must always Charge Legolas if possible (unless he is still acting as a Sentry, of course). However, if Bolg is ever reduced to a single Wound then he is considered to be seriously injured. If Bolg escapes the board whilst he is seriously injured then the best result the Evil player can achieve is a draw.
 
-**PARTICIPANTS**
-
-**Good:** Legolas Greenleaf, Prince of Mirkwood with Orcrist.
-
-**Evil:** Bolg, Spawn of Azog; Fimbul, Hunter Orc Captain; 24 Hunter Orc Warriors: 6 with Orc bow, 6 with two-handed weapon, 12 with no additional wargear.
-
-![](../media/scenarios/warcom/hobbit_the_desolation_of_smaug/lake_town_escape.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/lake_town_escape.jpg)
 
 ---
 
 ## The Hobbit: The Battle Of The Five Armies
 
 ### FIRE AND WATER
+
+**PARTICIPANTS**
+
+**Good:** Bard the Bowman; Bard's Family; Tauriel, Ranger of Mirkwood with Elf bow; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; The Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard; 24 Lake-town Guard: 8 with spear, 8 with bow, 8 with no additional equipment.
+
+**Evil:** Smaug.
 
 **LAYOUT**
 
@@ -300,17 +306,17 @@ Bard gains the Mighty Hero special rule. Additionally, Bard may ignore the rule 
 
 The water is always Deep Water. Additionally, any model that has been Set Ablaze that enters the water for any reason will no longer be Set Ablaze.
 
-**PARTICIPANTS**
-
-**Good:** Bard the Bowman; Bard's Family; Tauriel, Ranger of Mirkwood with Elf bow; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; The Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard; 24 Lake-town Guard: 8 with spear, 8 with bow, 8 with no additional equipment.
-
-**Evil:** Smaug.
-
-![](../media/scenarios/warcom/hobbit_the_battle_of_the_five_armies/fire_and_water.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/fire_and_water.jpg)
 
 ---
 
 ### ASSAULT ON RAVENHILL
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield, King Under the Mountain; Dwalin the Dwarf, Champion of Erebor; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Bilbo Baggins, Master Burglar; Tauriel, Ranger of Mirkwood; Legolas Greenleaf, Prince of Mirkwood with Orcrist.
+
+**Evil:** Azog the Defiler with heavy armour and Stone Flail; Bolg, Spawn of Azog; 12 Gundabad Berserkers; 6 Gundabad Orc Warriors: 3 with shield and 3 with spear.
 
 **LAYOUT**
 
@@ -348,17 +354,32 @@ Any model that Moves on the frozen river during their Activation, and ends its M
 
 If Tauriel is slain, Legolas immediately increases his Fight Value to 7 and his Attacks to 3.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield, King Under the Mountain; Dwalin the Dwarf, Champion of Erebor; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Bilbo Baggins, Master Burglar; Tauriel, Ranger of Mirkwood; Legolas Greenleaf, Prince of Mirkwood with Orcrist.
-
-**Evil:** Azog the Defiler with heavy armour and Stone Flail; Bolg, Spawn of Azog; 12 Gundabad Berserkers; 6 Gundabad Orc Warriors: 3 with shield and 3 with spear.
-
-![](../media/scenarios/warcom/hobbit_the_battle_of_the_five_armies/assault_on_ravenhill.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/assault_on_ravenhill.jpg)
 
 ---
 
 ### THE BATTLE OF THE FIVE ARMIES
+
+**PARTICIPANTS**
+
+**Good:**
+
+**Erebor Reclaimed:**
+Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
+
+**The Iron Hills:**
+Dáin Ironfoot, Lord of the Iron Hills on War Boar; 1 Iron Hills Captain; 1 Iron Hills Captain with Mattock; 36 Iron Hills Warriors: 12 with shield & spear, 12 with Mattock, 12 with crossbow; 1 Iron Hills Chariot.
+
+**Halls of Thranduil:**
+Thranduil, King of the Woodland Realm on Great Elk; 1 Mirkwood Elf Captain; 36 Mirkwood Elf Warriors, 12 with shield, 12 with Elven Glaive, 12 with Elf bow.
+
+**Radagast's Alliance:**
+Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
+
+**Evil:**
+
+**Azog's Legion:**
+Azog the Defiler with heavy armour and Stone Flail; Bolg, Spawn of Azog; 5 Gundabad Orc Captains; 2 Goblin Mercenary Captains; 60 Gundabad Orc Warriors: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with Scythe Gauntlets; 1 Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers (up to 12 may have a two-handed weapon); 24 Goblin Mercenaries; 6 War Bats; 1 Gundabad Catapult Troll.
 
 **LAYOUT**
 
@@ -402,34 +423,19 @@ If Bofur is Engaged in Combat with the Troll Brute and the Good player wins the 
 
 In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on page 147 of *Armies of The Hobbit*.
 
-**PARTICIPANTS**
-
-**Good:**
-
-**Erebor Reclaimed:**
-Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
-
-**The Iron Hills:**
-Dáin Ironfoot, Lord of the Iron Hills on War Boar; 1 Iron Hills Captain; 1 Iron Hills Captain with Mattock; 36 Iron Hills Warriors: 12 with shield & spear, 12 with Mattock, 12 with crossbow; 1 Iron Hills Chariot.
-
-**Halls of Thranduil:**
-Thranduil, King of the Woodland Realm on Great Elk; 1 Mirkwood Elf Captain; 36 Mirkwood Elf Warriors, 12 with shield, 12 with Elven Glaive, 12 with Elf bow.
-
-**Radagast's Alliance:**
-Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
-
-**Evil:**
-
-**Azog's Legion:**
-Azog the Defiler with heavy armour and Stone Flail; Bolg, Spawn of Azog; 5 Gundabad Orc Captains; 2 Goblin Mercenary Captains; 60 Gundabad Orc Warriors: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with Scythe Gauntlets; 1 Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers (up to 12 may have a two-handed weapon); 24 Goblin Mercenaries; 6 War Bats; 1 Gundabad Catapult Troll.
-
-![](../media/scenarios/warcom/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg)
 
 ---
 
 ## The Lord Of The Rings: The Fellowship Of The Ring
 
 ### WEATHERTOP
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with bow.
+
+**Evil:** The Witch-king of Angmar (1 Attack, 1 Might, 10 Will, 1 Fate) with Morgul Blade; 4 Ringwraiths (1 Attack, 0 Might, 7 Will, 0 Fate).
 
 **LAYOUT**
 
@@ -459,17 +465,17 @@ From turn 2 onwards, the Good player may roll a D6 at the end of each of their A
 
 Once per game, at the start of any Move Phase, the Evil player can declare they are unleashing the screech of the Nazgûl. If they do, then until the End Phase of the turn all Good models suffer an additional -3 to any Courage Tests they are required to take. If this is used before Aragorn has arrived, he will automatically arrive this turn.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with bow.
-
-**Evil:** The Witch-king of Angmar (1 Attack, 1 Might, 10 Will, 1 Fate) with Morgul Blade; 4 Ringwraiths (1 Attack, 0 Might, 7 Will, 0 Fate).
-
-![](../media/scenarios/warcom/lotr_the_fellowship_of_the_ring/weathertop.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/weathertop.jpg)
 
 ---
 
 ### BALIN'S TOMB
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn (Strider) with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** 2 Moria Goblin Captains; 24 Moria Goblin Warriors: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with hand-and-a-half weapon.
 
 **LAYOUT**
 
@@ -499,17 +505,19 @@ At the beginning of the Evil player's fourth Activation Phase, the Cave Troll ma
 
 The Cave Troll gains a bonus of +1 to its Fight Value during a turn in which it Charges.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn (Strider) with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblin Warriors: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with hand-and-a-half weapon.
-
-![](../media/scenarios/warcom/lotr_the_fellowship_of_the_ring/balins_tomb.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/balins_tomb.jpg)
 
 ---
 
 ### AMON HEN
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+
+All Good models have an Elven cloak.
+
+**Evil:** Lurtz, Uruk-hai Scout Captain; 1 Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional equipment.
 
 **LAYOUT**
 
@@ -535,21 +543,19 @@ The game lasts until Frodo leaves the board under any circumstance. The Good pla
 
 **The Legions of Isengard** - At the start of each of the Evil player's Activation Phases, they may roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, southern or eastern board edges via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
-
-All Good models have an Elven cloak.
-
-**Evil:** Lurtz, Uruk-hai Scout Captain; 1 Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional equipment.
-
-![](../media/scenarios/warcom/lotr_the_fellowship_of_the_ring/amon_hen.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/amon_hen.jpg)
 
 ---
 
 ## The Lord Of The Rings: The Two Towers
 
 ### AMBUSH AT NIGHT
+
+**PARTICIPANTS**
+
+**Good:** Éomer, Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; Peregrin Took; 1 Captain of Rohan with shield and horse; 12 Riders of Rohan: 4 with throwing spears and 8 with no additional equipment.
+
+**Evil:** Uglúk, Uruk-hai Scout Captain; Grishnákh, Orc Captain; Snaga, Orc Captain; 1 Uruk-hai Scout Captain; 12 Uruk-hai Scouts: 4 with shield, 4 with Uruk-hai bow, 4 with no additional equipment; 12 Isengard Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -575,17 +581,17 @@ The game lasts until the end of a turn in which one side has been reduced to 25%
 
 **Grishnákh** - Grishnákh follows the same rules for Movement as the Hobbits, except that he crawls 3" and cannot cut his bonds as he is not bound. Grishnákh is the only model that can Charge the Hobbits, and he will fight them in the Fight Phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are both Prone; ignoring the rules for being Prone. Additionally, as he is wounded, Grishnákh begins the game with only a single point of Might, Will and Fate, and only has 1 Attack.
 
-**PARTICIPANTS**
-
-**Good:** Éomer, Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; Peregrin Took; 1 Captain of Rohan with shield and horse; 12 Riders of Rohan: 4 with throwing spears and 8 with no additional equipment.
-
-**Evil:** Uglúk, Uruk-hai Scout Captain; Grishnákh, Orc Captain; Snaga, Orc Captain; 1 Uruk-hai Scout Captain; 12 Uruk-hai Scouts: 4 with shield, 4 with Uruk-hai bow, 4 with no additional equipment; 12 Isengard Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
-
-![](../media/scenarios/warcom/lotr_the_two_towers/ambush_at_night.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/ambush_at_night.jpg)
 
 ---
 
 ### LAST MARCH OF THE ENTS
+
+**PARTICIPANTS**
+
+**Good:** Treebeard with Merry & Pippin; Birchseed; Beechbone; 3 Ents.
+
+**Evil:** 4 Isengard Orc Captains; 48 Isengard Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
 
 **LAYOUT**
 
@@ -615,17 +621,25 @@ If an Ent loses a Combat against at least 3 Evil models, then the Evil player ma
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in Combat.
 
-**PARTICIPANTS**
-
-**Good:** Treebeard with Merry & Pippin; Birchseed; Beechbone; 3 Ents.
-
-**Evil:** 4 Isengard Orc Captains; 48 Isengard Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
-
-![](../media/scenarios/warcom/lotr_the_two_towers/last_march_of_the_ents.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/last_march_of_the_ents.jpg)
 
 ---
 
 ### SIEGE OF HELM'S DEEP
+
+**PARTICIPANTS**
+
+**GOOD:**
+
+**Defenders of the Hornburg:** Théoden, King of Rohan with heavy armour and shield; Gamling, Captain of Rohan with Royal Standard of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner.
+
+**Defenders of the Deeping Wall:** Aragorn (Strider) with armour; Legolas Greenleaf with armour; Gimli, son of Glóin; Haldir, Galadhrim Captain with heavy armour and Elf bow; Haleth, Son of Háma; Aldor, Rohan Archer; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with shield, 8 with shield and Elven spear, 8 with Elf bow, 1 with banner.
+
+**Relief Force:** Éomer, Marshal of the Riddermark on Firefoot with armour; Gandalf the White on Shadowfax; 1 Captain of Rohan with shield on horse; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
+
+**EVIL:**
+
+**Legions of Isengard:** 5 Uruk-hai Captains; 1 Isengard Assault Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers; 10 Siege Ladders.
 
 **LAYOUT**
 
@@ -663,27 +677,19 @@ The Siege of Helm's Deep is a huge battle fought across the entire fortress; as 
 
 **A Great Siege** - This scenario follows all of the rules for Sieges, including siege equipment, as found in the Middle-earth Strategy Battle Game Rules Manual.
 
-**PARTICIPANTS**
-
-**GOOD:**
-
-**Defenders of the Hornburg:** Théoden, King of Rohan with heavy armour and shield; Gamling, Captain of Rohan with Royal Standard of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner.
-
-**Defenders of the Deeping Wall:** Aragorn (Strider) with armour; Legolas Greenleaf with armour; Gimli, son of Glóin; Haldir, Galadhrim Captain with heavy armour and Elf bow; Haleth, Son of Háma; Aldor, Rohan Archer; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with shield, 8 with shield and Elven spear, 8 with Elf bow, 1 with banner.
-
-**Relief Force:** Éomer, Marshal of the Riddermark on Firefoot with armour; Gandalf the White on Shadowfax; 1 Captain of Rohan with shield on horse; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
-
-**EVIL:**
-
-**Legions of Isengard:** 5 Uruk-hai Captains; 1 Isengard Assault Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers; 10 Siege Ladders.
-
-![](../media/scenarios/warcom/lotr_the_two_towers/siege_of_helms_deep.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/siege_of_helms_deep.jpg)
 
 ---
 
 ## The Lord Of The Rings: The Return Of The King
 
 ### ESCAPE FROM OSGILIATH
+
+**PARTICIPANTS**
+
+Good: Faramir, Captain of Gondor; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with shield and spear, 4 with bow; 12 Rangers of Gondor: 4 with spear, 8 with no additional equipment.
+
+Evil: Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 24 Morannon Orc Warriors: 6 with shield, 6 with spear, 6 with shield and spear, 6 with no additional equipment; 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -713,17 +719,25 @@ At the start of each of the Evil player's Activation Phases, they may roll a D6 
 
 At the start of each Move Phase, the Evil player may select a single Good Warrior and roll a D6. On a 3+ the chosen Warrior becomes paralysed by fear and may not Activate this turn. Additionally, they may still fight if Engaged in Combat, however, their Fight Value will be reduced to 1 for the duration of the turn.
 
-**PARTICIPANTS**
-
-Good: Faramir, Captain of Gondor; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with shield and spear, 4 with bow; 12 Rangers of Gondor: 4 with spear, 8 with no additional equipment.
-
-Evil: Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 24 Morannon Orc Warriors: 6 with shield, 6 with spear, 6 with shield and spear, 6 with no additional equipment; 1 Mordor Troll.
-
-![](../media/scenarios/warcom/lotr_the_return_of_the_king/escape_from_osgiliath.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/escape_from_osgiliath.jpg)
 
 ---
 
 ### BATTLE OF PELENNOR FIELDS
+
+**PARTICIPANTS**
+
+**GOOD:**
+
+**Gondor:** Gandalf the White with Shadowfax and Pippin; Irolas, Captain of the Guard; 24 Warriors of Minas Tirith: 8 with shield, 8 with shield and spear, 8 with bow; 6 Citadel Guard: 3 with spear, 3 with longbow.
+
+**Rohan:** Théoden, King of Rohan with heavy armour, shield and Snowmane with armour; Éomer, Marshal of the Riddermark with throwing spears and Firefoot with armour; Éowyn, Shieldmaiden of Rohan with armour, shield, horse and Merry; Gamling, Captain of Rohan with Royal Standard of Rohan and horse; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
+
+**Dead of Dunharrow:** Aragorn (Strider) with Andúril, Flame of the West and Elven cloak; Legolas Greenleaf with armour and Elven cloak; Gimli, son of Glóin with Elven cloak; King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 10 with shield, 10 with spear.
+
+**EVIL:**
+
+**Mordor:** The Witch-king of Angmar (3 Attacks, 3 Might, 18 Will, 3 Fate) with Crown of Morgul and armoured Fell Beast; Gothmog, Lieutenant of Sauron with Warg; Gothmog's Enforcer; Guritz, Master of Reserves; the Mûmak War Leader (with 12 crew); 1 Haradrim Chieftain with bow; 1 Easterling Captain; 48 Morannon Orc Warriors: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional equipment; 2 Mordor Trolls; 2 War Mûmaks of Harad (each with 12 crew), 12 Haradrim Warriors: 6 with spear, 6 with bow: 10 Easterling Warriors: 4 with shield, 2 with Easterling halberd and shield, 4 with bow.
 
 **LAYOUT**
 
@@ -761,25 +775,17 @@ At the end of the Evil player's fourth Activation Phase, the Witch-king will Mov
 
 At the end of the Good player's sixth Activation Phase, the Gondor force will Move onto the battlefield via the Gates of Minas Tirith.
 
-**PARTICIPANTS**
-
-**GOOD:**
-
-**Gondor:** Gandalf the White with Shadowfax and Pippin; Irolas, Captain of the Guard; 24 Warriors of Minas Tirith: 8 with shield, 8 with shield and spear, 8 with bow; 6 Citadel Guard: 3 with spear, 3 with longbow.
-
-**Rohan:** Théoden, King of Rohan with heavy armour, shield and Snowmane with armour; Éomer, Marshal of the Riddermark with throwing spears and Firefoot with armour; Éowyn, Shieldmaiden of Rohan with armour, shield, horse and Merry; Gamling, Captain of Rohan with Royal Standard of Rohan and horse; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
-
-**Dead of Dunharrow:** Aragorn (Strider) with Andúril, Flame of the West and Elven cloak; Legolas Greenleaf with armour and Elven cloak; Gimli, son of Glóin with Elven cloak; King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 10 with shield, 10 with spear.
-
-**EVIL:**
-
-**Mordor:** The Witch-king of Angmar (3 Attacks, 3 Might, 18 Will, 3 Fate) with Crown of Morgul and armoured Fell Beast; Gothmog, Lieutenant of Sauron with Warg; Gothmog's Enforcer; Guritz, Master of Reserves; the Mûmak War Leader (with 12 crew); 1 Haradrim Chieftain with bow; 1 Easterling Captain; 48 Morannon Orc Warriors: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional equipment; 2 Mordor Trolls; 2 War Mûmaks of Harad (each with 12 crew), 12 Haradrim Warriors: 6 with spear, 6 with bow: 10 Easterling Warriors: 4 with shield, 2 with Easterling halberd and shield, 4 with bow.
-
-![](../media/scenarios/warcom/lotr_the_return_of_the_king/battle_of_pelennor_fields.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/battle_of_pelennor_fields.jpg)
 
 ---
 
 ### THE END OF ALL THINGS
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with shield; Peregrin Took, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with shield, 8 with shield and spear, 8 with bow and 1 with banner; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow and 1 with banner.
+
+**Evil:** 1 Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orc Warriors: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear and 2 with banner.
 
 **LAYOUT**
 
@@ -829,10 +835,4 @@ Good models may not willingly Move more than 12" away from the centre of the Bla
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will and Fate.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with shield; Peregrin Took, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with shield, 8 with shield and spear, 8 with bow and 1 with banner; 25 Warriors of Rohan: 8 with shield, 8 with shield and throwing spears, 8 with bow and 1 with banner.
-
-**Evil:** 1 Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orc Warriors: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear and 2 with banner.
-
-![](../media/scenarios/warcom/lotr_the_return_of_the_king/the_end_of_all_things.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/the_end_of_all_things.jpg)

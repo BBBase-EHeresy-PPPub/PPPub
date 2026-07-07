@@ -1,91 +1,75 @@
-# The War of the Rohirrim Campaign
+## THE WAR OF THE ROHIRRIM CAMPAIGN
 
-Welcome to *The Lord of the Rings: The War of the Rohirrim*, a supplement for the Middle-earth Strategy Battle Game. This supplement covers the events of *The Lord of the Rings: The War of the Rohirrim*, including Hera's desperate attempt to keep her people safe from Wulf's rage-fuelled quest for revenge against the line of Helm Hammerhand.
+*Here, we present you with The Lord of the Rings: The War of the Rohirrim campaign, a system for linking your games together in such a way that the results of one game can impact your next game, or even one much later on! This will join together the already dynamic Narrative Play Scenarios in such a way that it will feel as if you are playing through the scenes directly from the stories of Middle-earth.*
 
-Within *The Lord of the Rings: The War of the Rohirrim*, you will find 11 Narrative Play Scenarios covering the major events of the story, beginning with the fatal duel between Helm Hammerhand and Freca and ending with the fate of Rohan being decided before the walls of the Hornburg.
+This supplement focuses on the battles and events that happened during The War of the Rohirrim and the upheaval unleashed by Wulf's bloody desire for vengeance. The Scenarios begin with the event that caused this time of strife - the death of Freca. From there, you will play through the climactic events of The War of the Rohirrim; from Héra's desperate escape from a rabid Mûmak, to the fierce battles in the streets of Edoras and Héra's epic stand before the Hornburg.
 
-The supplement also includes a campaign system that links those scenarios together, allowing the results of one game to affect later battles. Playing through the campaign lets the players determine the fate of Rohan: whether Hera can restore peace to the kingdom, or whether Wulf will succeed in his vengeful quest.
+You can play this campaign with as few as two people, though, if you wish, different players can take control of different Scenarios - that way you can get a whole gaming group involved. However, it is important to note that you should play the Scenarios in order, as the results of one Scenario may change how a later one plays.
 
-## The War of the Rohirrim Campaign
+**SCENARIO BONUSES**
 
-This campaign links the Narrative Play Scenarios together so that the results of one game can impact the next game, or even one much later in the campaign. The scenarios begin with the event that caused this time of strife, the death of Freca, then move through the climactic events of the war: Hera's escape from a rabid Mûmak, the battles in the streets of Edoras, and Hera's stand before the Hornburg.
+After each Scenario has been completed, note down which side won that Scenario, either Good or Evil. This is important as, depending on who was victorious, there may be a bonus or penalty to a certain side in a future Scenario.
 
-The campaign can be played with as few as two people, though different players can take control of different scenarios if a larger group is involved. The scenarios should be played in order, as the result of one scenario may change how a later one plays.
+For example, if the Good side is victorious in the 'An Enemy Revealed' Scenario, then the Good side will receive a bonus in the 'Plains of Edoras' Scenario. These bonuses reflect the advantages of success and the edge it will give either side in the future.
 
-## Scenario Order
+---
 
-1. [To Claim a Throne](../scenarios/war_of_the_rohirrim.md#to-claim-a-throne)
-2. [A New Threat on Rohan's Borders](../scenarios/war_of_the_rohirrim.md#a-new-threat-on-rohans-borders)
-3. [An Enemy Revealed](../scenarios/war_of_the_rohirrim.md#an-enemy-revealed)
-4. [Plains of Edoras](../scenarios/war_of_the_rohirrim.md#plains-of-edoras)
-5. [Lord Thorne's Betrayal](../scenarios/war_of_the_rohirrim.md#lord-thornes-betrayal)
-6. [Streets of Edoras](../scenarios/war_of_the_rohirrim.md#streets-of-edoras)
-7. [Edoras Burns](../scenarios/war_of_the_rohirrim.md#edoras-burns)
-8. [Wrath of the Hammerhand](../scenarios/war_of_the_rohirrim.md#wrath-of-the-hammerhand)
-9. [Beasts of the Long Winter](../scenarios/war_of_the_rohirrim.md#beasts-of-the-long-winter)
-10. [Last Stand of Helm Hammerhand](../scenarios/war_of_the_rohirrim.md#last-stand-of-helm-hammerhand)
-11. [The Fate of Rohan](../scenarios/war_of_the_rohirrim.md#the-fate-of-rohan)
+### (1) [TO CLAIM A THRONE](../scenarios/war_of_the_rohirrim.md#to-claim-a-throne)
 
-## Scenario Bonuses
+**Good Victory:** In the 'A New Threat on Rohan's Borders' Scenario, once per game, Héra may declare a single Heroic March for free.
 
-After each scenario has been completed, note which side won: Good or Evil. Depending on who was victorious, a later scenario may give a bonus or penalty to one side. These bonuses reflect the advantages gained from earlier success.
+**Evil Victory:** In the 'A New Threat on Rohan's Borders' Scenario, once per game from turn 2 onwards, at the beginning of the Priority Phase, the Evil player can automatically count as having won the roll to choose who has Priority for that turn, though must choose to have Priority. Additionally, in the turn this ability is used, Good models cannot declare Heroic Moves for the remainder of that turn.
 
-### To Claim a Throne
+### (2) [A NEW THREAT ON ROHAN'S BORDERS](../scenarios/war_of_the_rohirrim.md#a-new-threat-on-rohans-borders)
 
-**Good:** In the 'A New Threat on Rohan's Borders' Scenario, once per game, Hera may declare a single Heroic March for free.
+**Good Victory:** In the 'An Enemy Revealed' Scenario, once per turn, the Good player may force the Evil player to re-roll a dice when rolling on the Sentry Chart.
 
-**Evil:** In the 'A New Threat on Rohan's Borders' Scenario, once per game from turn 2 onwards, at the beginning of the Priority Phase, the Evil player can automatically count as having won the roll to choose who has Priority for that turn, though must choose to have Priority. Additionally, in the turn this ability is used, Good models cannot declare Heroic Moves for the remainder of that turn.
+**Evil Victory:** In the 'An Enemy Revealed' Scenario, any Evil model armed with a Flaming Brand may re-roll results of a 1 when rolling on the Sentry Chart.
 
-### A New Threat on Rohan's Borders
+### (3) [AN ENEMY REVEALED](../scenarios/war_of_the_rohirrim.md#an-enemy-revealed)
 
-**Good:** In the 'An Enemy Revealed' Scenario, once per turn, the Good player may force the Evil player to re-roll a dice when rolling on the Sentry Chart.
+**Good Victory:** In the 'Plains of Edoras' Scenario, the War Mûmaks of Harad arrive on the third turn rather than the second.
 
-**Evil:** In the 'An Enemy Revealed' Scenario, any Evil model armed with a Flaming Brand may re-roll results of a 1 when rolling on the Sentry Chart.
+**Evil Victory:** In the 'Plains of Edoras' Scenario, the War Mûmaks of Harad are armed with Tusk Weapons.
 
-### An Enemy Revealed
+### (4) [PLAINS OF EDORAS](../scenarios/war_of_the_rohirrim.md#plains-of-edoras)
 
-**Good:** In the 'Plains of Edoras' Scenario, the War Mûmaks of Harad arrive on the third turn rather than the second.
+**Good Victory:** In the 'Lord Thorne's Betrayal' Scenario, Lief may re-roll a single D6 when making a Duel Roll.
 
-**Evil:** In the 'Plains of Edoras' Scenario, the War Mûmaks of Harad are armed with Tusk Weapons.
+**Evil Victory:** In the 'Lord Thorne's Betrayal' Scenario, Lord Thorne may re-roll a single D6 when making a Duel Roll.
 
-### Plains of Edoras
+### (5) [LORD THORNE'S BETRAYAL](../scenarios/war_of_the_rohirrim.md#lord-thornes-betrayal)
 
-**Good:** In the 'Lord Thorne's Betrayal' Scenario, Lief may re-roll a single D6 when making a Duel Roll.
+**Good Victory:** In the 'Streets of Edoras' Scenario, Haleth and Háma both gain the Hatred (Dunland) special rule.
 
-**Evil:** In the 'Lord Thorne's Betrayal' Scenario, Lord Thorne may re-roll a single D6 when making a Duel Roll.
+**Evil Victory:** In the 'Streets of Edoras' Scenario, the Haradrim Commander begins the game with an additional point each of Might, Will and Fate.
 
-### Lord Thorne's Betrayal
+### (6) [STREETS OF EDORAS](../scenarios/war_of_the_rohirrim.md#streets-of-edoras)
 
-**Good:** In the 'Streets of Edoras' Scenario, Haleth and Hama both gain the Hatred (Dunland) special rule.
+**Good Victory:** In the 'Edoras Burns' Scenario, Héra may declare a free Heroic March on the first turn of the game.
 
-**Evil:** In the 'Streets of Edoras' Scenario, the Haradrim Commander begins the game with an additional point each of Might, Will and Fate.
+**Evil Victory:** In the 'Edoras Burns' Scenario, Háma begins the game with 0 Fate Points.
 
-### Streets of Edoras
+### (7) [EDORAS BURNS](../scenarios/war_of_the_rohirrim.md#edoras-burns)
 
-**Good:** In the 'Edoras Burns' Scenario, Hera may declare a free Heroic March on the first turn of the game.
+**Good Victory:** In the 'Wrath of the Hammerhand' Scenario, the Good player may choose who has Priority on the first turn of the game.
 
-**Evil:** In the 'Edoras Burns' Scenario, Hama begins the game with 0 Fate Points.
+**Evil Victory:** In the 'Wrath of the Hammerhand' Scenario, any Evil model armed with a Flaming Brand may re-roll results of a 1 when rolling on the Sentry Chart.
 
-### Edoras Burns
+### (8) [WRATH OF THE HAMMERHAND](../scenarios/war_of_the_rohirrim.md#wrath-of-the-hammerhand)
 
-**Good:** In the 'Wrath of the Hammerhand' Scenario, the Good player may choose who has Priority on the first turn of the game.
+**Good Victory:** In the 'Beasts of the Long Winter' Scenario, the Snow Troll cannot move during the first turn of the game.
 
-**Evil:** In the 'Wrath of the Hammerhand' Scenario, any Evil model armed with a Flaming Brand may re-roll results of a 1 when rolling on the Sentry Chart.
+**Evil Victory:** In the 'Beasts of the Long Winter' Scenario, Helm may not move during the first turn of the game.
 
-### Wrath of the Hammerhand
+### (9) [BEASTS OF THE LONG WINTER](../scenarios/war_of_the_rohirrim.md#beasts-of-the-long-winter)
 
-**Good:** In the 'Beasts of the Long Winter' Scenario, the Snow Troll cannot move during the first turn of the game.
+**Good Victory:** In the 'Last Stand of Helm Hammerhand' Scenario, Good models may re-roll the D6 when rolling on the Snowstorm Chart.
 
-**Evil:** In the 'Beasts of the Long Winter' Scenario, Helm may not move during the first turn of the game.
+**Evil Victory:** In the 'Last Stand of Helm Hammerhand' Scenario, Wulf begins the game with an additional point of Might.
 
-### Beasts of the Long Winter
+### (10) [LAST STAND OF HELM HAMMERHAND](../scenarios/war_of_the_rohirrim.md#last-stand-of-helm-hammerhand)
 
-**Good:** In the 'Last Stand of Helm Hammerhand' Scenario, Good models may re-roll the D6 when rolling on the Snowstorm Chart (see page 25).
+**Good Victory:** In the 'The Fate of Rohan' Scenario, Fréaláf begins the game with an additional point of Might.
 
-**Evil:** In the 'Last Stand of Helm Hammerhand' Scenario, Wulf begins the game with an additional point of Might.
-
-### Last Stand of Helm Hammerhand
-
-**Good:** In the 'The Fate of Rohan' Scenario, Frealaf begins the game with an additional point of Might.
-
-**Evil:** In the 'The Fate of Rohan' Scenario, Wulf begins the game with an additional point of Fate.
+**Evil Victory:** In the 'The Fate of Rohan' Scenario, Wulf begins the game with an additional point of Fate.
