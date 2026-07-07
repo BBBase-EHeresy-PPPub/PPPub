@@ -18,27 +18,27 @@
 - **Easterling Captain**: 60 points
 - **Easterling Kataphrakt Captain**: 90 points
 - **Easterling War Priest**: 60 points
-  - Armoured horse: 25 points
+    - Armoured horse: 25 points
 
 **MINOR HEROES**
 
 - **Easterling Dragon Knight**: 70 points
-  - Armoured horse: 25 points
+    - Armoured horse: 25 points
 
 **WARRIORS**
 
 - **Black Dragon Warrior**: 10 points
-  - Exchange shield for banner: 25 points
-  - Easterling Halberd: 1 point
+    - Exchange shield for banner: 25 points
+    - Easterling Halberd: 1 point
 - **Dragon Cult Acolyte**: 11 points
 - **Easterling Kataphrakt**: 15 points
-  - Banner: 25 points
-  - Exchange shield for war drum (Easterling): 25 points
+    - Banner: 25 points
+    - Exchange shield for war drum (Easterling): 25 points
 - **Easterling Warrior**: 8 points
-  - Banner: 25 points
-  - Easterling Halberd and shield: 2 points
-  - Shield: 1 point
-  - Bow: 1 point
+    - Banner: 25 points
+    - Easterling Halberd and shield: 2 points
+    - Shield: 1 point
+    - Bow: 1 point
 - **War Drake of Rhun**: 20 points
 
 </div>

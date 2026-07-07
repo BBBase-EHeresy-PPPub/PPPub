@@ -63,6 +63,7 @@ Gandalf may re-roll his dice when making fate rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD [100 POINTS]
@@ -101,6 +102,7 @@ If Thorin uses Shielding in a Fight and wins, he may make a single Strike at his
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF [40 POINTS]
@@ -137,6 +139,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF [95 POINTS]
@@ -151,7 +154,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 - [Dwarf Armour]
 - [Dagger]
 - Two Axes
-- Two-handed [Hammer]
+- [Two-handed][Two-Handed] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -174,6 +177,7 @@ Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 pe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF [45 POINTS]
@@ -187,7 +191,7 @@ Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 pe
 
 - [Armour]
 - [Dagger]
-- Boar spear
+- Boar Spear
 
 **HEROIC ACTIONS**
 
@@ -212,6 +216,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [60 POINTS]
@@ -253,6 +258,7 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bi
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF [45 POINTS]
@@ -288,6 +294,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF [45 POINTS]
@@ -299,7 +306,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 **WARGEAR**
 
-- Cleaver ([Sword])
+- Cleaver ([sword][Sword])
 
 **HEROIC ACTIONS**
 
@@ -326,6 +333,7 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF [55 POINTS]
@@ -358,6 +366,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FILI THE DWARF [50 POINTS]
@@ -391,6 +400,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF [85 POINTS]
@@ -424,6 +434,7 @@ Gloin must re-roll scores of 1 To Wound in combat.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF [50 POINTS]
@@ -457,6 +468,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF [55 POINTS]
@@ -470,7 +482,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - [Armour]
 - [Dagger]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -489,6 +501,7 @@ Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF [45 POINTS]
@@ -500,7 +513,7 @@ Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 
 **WARGEAR**
 
-- Hand-and-a-half [Staff]
+- [Hand-and-a-half][Hand-And-A-Half] [Staff]
 
 **HEROIC ACTIONS**
 
@@ -523,6 +536,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF [40 POINTS]

@@ -18,16 +18,16 @@
 - **Lotho Sackville-Baggins**: 30 points
 - **Rowan Thistlewood**: 45 points
 - **Ruffian**: 5 points
-  - Bow: 1 point
-  - Whip: 1 point
+    - Bow: 1 point
+    - Whip: 1 point
 - **Ted Sandyman**: 30 points
 
 **WARRIORS**
 
 - **Hobbit Militia**: 4 points
 - **Ruffian**: 5 points
-  - Bow: 1 point
-  - Whip: 1 point
+    - Bow: 1 point
+    - Whip: 1 point
 
 </div>
 
@@ -47,4 +47,4 @@
 
 **Sharkey's Wrath** - Sharkey gains the [Hatred] (Hobbit) special rule.
 
-**The Chief's Whips** - Friendly Ruffian models gain a bonus of +1 To Hit when making a shooting attack with a whip.
+**The Chief's Whips** - Friendly Ruffian models gain a bonus of +1 To Hit when making a shooting attack with a [whip][Whip].

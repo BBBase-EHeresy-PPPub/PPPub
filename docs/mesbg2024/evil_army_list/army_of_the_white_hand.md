@@ -7,12 +7,12 @@
 **HEROES OF LEGEND**
 
 - **Saruman**: 170 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF VALOUR**
 
 - **Thrydan Wolfsbane**: 90 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
@@ -23,16 +23,16 @@
 - **Uruk-Hai Scout Captain**: 55 points
 - **Vrasku**: 70 points
 - **Wild Man Chieftain**: 40 points
-  - Light shield: 5 points
-  - Two-handed weapon: 5 points
+    - Light shield: 5 points
+    - Two-handed weapon: 5 points
 - **Wild Man Oathmaker**: 55 points
 
 **MINOR HEROES**
 
 - **Isengard Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 - **Uruk-Hai Shaman**: 55 points
-  - Armour: 5 points
+    - Armour: 5 points
 
 **INDEPENDENT HEROES**
 
@@ -44,40 +44,40 @@
 - **Dunlending Horseman**: 12 points
 - **Dunlending Huscarl**: 11 points
 - **Dunlending Warrior**: 7 points
-  - Banner: 25 points
-  - Bow: 1 point
-  - Shield: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Bow: 1 point
+    - Shield: 1 point
+    - Two-handed weapon: 1 point
 - **Feral Uruk-Hai**: 13 points
 - **Isengard Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Isengard Troll**: 100 points
-  - Swap shield for war drum (Isengard): 25 points
-  - Spear: 5 points
+    - Swap shield for war drum (Isengard): 25 points
+    - Spear: 5 points
 - **Isengard Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Uruk-Hai Scout**: 8 points
-  - Banner: 25 points
-  - Shield: 1 point
-  - Uruk-hai bow: 1 point
+    - Banner: 25 points
+    - Shield: 1 point
+    - Uruk-hai bow: 1 point
 - **Wild Man of Dunland**: 5 points
-  - Banner and light shield: 26 points
-  - War horn and light shield: 26 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Light shield and Flaming Brand: 2 points
-  - Bow: 1 point
-  - Flaming Brand: 1 point
-  - Light shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner and light shield: 26 points
+    - War horn and light shield: 26 points
+    - Banner: 25 points
+    - War horn: 25 points
+    - Light shield and Flaming Brand: 2 points
+    - Bow: 1 point
+    - Flaming Brand: 1 point
+    - Light shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 
 </div>
 

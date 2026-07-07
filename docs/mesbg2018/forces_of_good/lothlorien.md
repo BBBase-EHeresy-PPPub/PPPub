@@ -60,6 +60,7 @@ She may spend a free point of Will each turn.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CELEBORN [130 POINTS]
@@ -86,7 +87,7 @@ She may spend a free point of Will each turn.
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- Elven-made Hand-and-a-Half [Sword] - 5 points
+- [Elven-made] [Hand-and-a-Half][Hand-And-A-Half] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -100,11 +101,12 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 - **Lord of Lorien** `ACTIVE`
 
-Celeborn's Stand Fast! Is 12" rather than 6".
+Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALDIR [70 POINTS]
@@ -116,7 +118,7 @@ Celeborn's Stand Fast! Is 12" rather than 6".
 
 **WARGEAR**
 
-- Elven Made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -146,6 +148,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GALADHRIM CAPTAIN [70 POINTS]
@@ -157,7 +160,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **WARGEAR**
 
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 - [Heavy Armour]
 
 **HEROIC ACTIONS**
@@ -193,7 +196,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 **WARGEAR**
 
 - [Heavy Armour]
-- Two Elven-made Swords
+- Two [Elven-made] Swords
 
 **HEROIC ACTIONS**
 
@@ -210,6 +213,7 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RUMIL [85 POINTS]
@@ -222,7 +226,7 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -244,6 +248,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WOOD ELF CAPTAIN [65 POINTS]
@@ -255,7 +260,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -280,6 +285,7 @@ This [spear][Spear] may also parry, which uses the rules for Shielding.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GALADHRIM STORMCALLER [60 POINTS]
@@ -292,7 +298,7 @@ This [spear][Spear] may also parry, which uses the rules for Shielding.
 **WARGEAR**
 
 - [Armour]
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -319,6 +325,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 ---
 
 ## WARRIORS OF LOTHLORIEN
+
 <div class="unitCard" markdown>
 
 ### GALADHRIM KNIGHT [18 POINTS]
@@ -330,7 +337,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Heavy Armour]
 - [Armoured Horse]
 
@@ -362,7 +369,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made Hand-and-a-half [Sword],
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword],
 - [Heavy Armour]
 
 **OPTIONS**
@@ -413,6 +420,7 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WOOD ELF SENTINEL [25 POINTS]
@@ -424,7 +432,7 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - Elf [Bow]
 - [Elven Cloak]
 
@@ -455,6 +463,7 @@ Sentinel gains [Terror] for rest of the turn.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WOOD ELF WARRIOR [8 POINTS]
@@ -466,7 +475,7 @@ Sentinel gains [Terror] for rest of the turn.
 
 **WARGEAR**
 
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**

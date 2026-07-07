@@ -24,7 +24,7 @@
 
 - **Lord of Dale** `ACTIVE`
 
-Brand's Stand Fast! Is 12" rather than 6".
+Brand's [Stand Fast!] Is 12" rather than 6".
 
 - **Stoic Fighter** `ACTIVE`
 
@@ -449,8 +449,6 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 **HEROIC ACTIONS**
 
 - [Heroic Strike]
-
-
 **Bain, Son of Bard**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -471,7 +469,6 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 Whilst within 3" of Sigrid or Tilda, Bain increases his Attacks to 2, and gains a bonus of +1 to his Courage tests.
 
-
 ---
 
 **Sigrid**
@@ -490,8 +487,7 @@ Whilst within 3" of Sigrid or Tilda, Bain increases his Attacks to 2, and gains 
 
 - **Da! Down here!** `PASSIVE`
 
-Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a Heroic Combat for free. If this Heroic Combat is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
-
+Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a [Heroic Combat] for free. If this [Heroic Combat] is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
 
 ---
 
@@ -511,8 +507,7 @@ Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his 
 
 - **Da! Down here!** `PASSIVE`
 
-Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a Heroic Combat for free. If this Heroic Combat is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
-
+Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a [Heroic Combat] for free. If this [Heroic Combat] is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
 
 </div>
 
@@ -667,8 +662,6 @@ A Windlance will only scatter 3" rather than 6"
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
-
-
 
 **Dale Siege Crew**
 

@@ -2,27 +2,13 @@
 
 <div class="unitCard" markdown>
 
-**LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [95 points]**
-
-• Elven Cloak: 5 points
-
-**MIRKWOOD RANGER CAPTAIN [75 points]**
-
-• Swap Weapon: 5 points
-
-**TAURIEL [90 points]**
-
-• Elf Bow: 5 points
-
-**MIRKWOOD RANGER [14 points]**
-
-• War Horn: 30 points
-• Swap Weapon: 1 point
-
-**WOOD ELF SENTINEL [25 points]**
-
-• Swap Weapon: 1 point
-
+- **LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD**: 95 points
+    - Elven Cloak: 5 points
+- **TAURIEL WITH ELF BOW**: 90 points
+- **MIRKWOOD RANGER CAPTAIN**: 75 points
+- **MIRKWOOD RANGER**: 14 points
+    - War Horn: 30 points
+- **WOOD ELF SENTINEL**: 25 points
 </div>
 
 ## ADDITIONAL RULES
@@ -32,7 +18,7 @@
 
 ## SPECIAL RULES
 
-**"Knife Mastery"** - Friendly models may re-roll 1s ToWound when making strikes. Additionally, friendly models may use the Shielding special rule even though they are not armed with a shield; however, if they elect to shield, they may not use their Knife Fighters or Blade Mistress special rules.
+**"Knife Mastery"** - Friendly models may re-roll 1s ToWound when making strikes. Additionally, friendly models may use the Shielding special rule even though they are not armed with a [shield][Shield]; however, if they elect to [shield][Shield], they may not use their Knife Fighters or Blade Mistress special rules.
 
 **"The Prince of Mirkwood"** - Legolas gains the Knife Fighters special rule when part of this Legendary Legion.
 

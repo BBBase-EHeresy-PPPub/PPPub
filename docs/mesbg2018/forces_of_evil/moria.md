@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Moria Blackshield Captain; Moria Goblin Captain; Cave Drake; Moria Blackshield Shaman; Moria Goblin Shaman; The Watcher in the Water; Bat Swarm; Cave Troll; Dweller in the Dark; Giant Spider; Moria Blackshield; Moria Blackshield Drummers; Moria Goblin Drum; Moria Goblin Prowler; Moria Goblin Warrior; [Warg] Marauder; Wild [Warg].
+This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Moria Blackshield Captain; Moria Goblin Captain; Cave Drake; Moria Blackshield Shaman; Moria Goblin Shaman; The Watcher in the Water; Bat Swarm; Cave Troll; Dweller in the Dark; Giant Spider; Moria Blackshield; Moria Blackshield Drummers; Moria Goblin Drum; Moria Goblin Prowler; Moria Goblin Warrior; Warg Marauder; Wild Warg.
 
 ## ARMY BONUS
 
@@ -121,7 +121,7 @@ May call a free [Heroic Combat] each turn.
 
 - **Iron Fist** `ACTIVE`
 
-Durburz's Stand Fast! has a range of 12"
+Durburz's [Stand Fast!] has a range of 12"
 
 </div>
 
@@ -139,7 +139,7 @@ Durburz's Stand Fast! has a range of 12"
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Staff]
+- [Two-handed][Two-Handed] [Staff]
 
 **HEROIC ACTIONS**
 
@@ -158,15 +158,15 @@ Durburz's Stand Fast! has a range of 12"
 
 - **Death-touch** `PASSIVE`
 
-Any model that wounds, or is wounded by Ahshrak must roll a D6. On a 4+, they suffer the effects of Paralyse.
+Any model that wounds, or is wounded by Ahshrak must roll a D6. On a 4+, they suffer the effects of [Paralyse].
 
 - **Poison Blood** `PASSIVE`
 
-May include Giant Spiders in his warband. Giant Spiders in the same force can be upgraded to Venom-back spiders for 2 points, and gain Venom special rule.
+May include Giant Spiders in his warband. Giant Spiders in the same force can be upgraded to Venom-back spiders for 2 points, and gain [Venom] special rule.
 
 - **Spider-kin** `PASSIVE`
 
-Only Spider models may benefit from Ashrak's Stand Fast!, Heroic Actions, and Shroud of Shadows magical power.
+Only Spider models may benefit from Ashrak's [Stand Fast!], Heroic Actions, and [Shroud of Shadows] magical power.
 
 </div>
 
@@ -204,7 +204,7 @@ Only Spider models may benefit from Ashrak's Stand Fast!, Heroic Actions, and Sh
 
 - **Master of the Dark Wild** `PASSIVE`
 
-Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his warband. All friendly Bat, [Warg] and Spider models within 12" may use Druzhag's Courage value instead of their own. Additionally, his Fury power will affect himself and any model that is a Bat, [Warg] or Spider.
+Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his warband. All friendly Bat, [Warg] and Spider models within 12" may use Druzhag's Courage value instead of their own. Additionally, his [Fury] power will affect himself and any model that is a Bat, [Warg] or Spider.
 
 </div>
 
@@ -254,7 +254,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 **WARGEAR**
 
 - [Heavy Armour]
-- Two-handed [Sword]
+- [Two-handed][Two-Handed] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -680,7 +680,7 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 - Throwing Daggers
 
 **OPTIONS**

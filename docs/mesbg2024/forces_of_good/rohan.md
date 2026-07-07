@@ -47,6 +47,7 @@ Helm may declare a free [Heroic Combat] each Fight phase. However, after he has 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HELM HAMMERHAND, WRAITH OF THE HORNBURG [180 POINTS]
@@ -95,6 +96,7 @@ Helm must always Charge if able to do so. When he Charges, he gains [Terror] unt
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HERA, THE BRIDE OF DEATH [125 POINTS]
@@ -136,6 +138,7 @@ Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THEODEN [75 POINTS]
@@ -174,7 +177,7 @@ If a Combat is tied at Fight value, Theoden wins. If both sides have a similar s
 
 - **Forth, and Fear no Darkness** `ACTIVE`
 
-Theoden's Stand Fast! Is 12" rather than 6".
+Theoden's [Stand Fast!] Is 12" rather than 6".
 
 - **The will of Men is easily corrupted** `PASSIVE`
 
@@ -183,6 +186,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EOMER [110 POINTS]
@@ -205,7 +209,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 **OPTIONS**
 
-- Firefoot With [Armour] - 25 points
+- Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
 - Throwing Spears - 5 points
 
@@ -226,6 +230,7 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-ro
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FREALAF [100 POINTS]
@@ -266,6 +271,7 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALETH, PRINCE OF ROHAN [100 POINTS]
@@ -304,6 +310,7 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HAMA, PRINCE OF ROHAN [70 POINTS]
@@ -342,6 +349,7 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THEODRED [85 POINTS]
@@ -380,6 +388,7 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF ROHAN [45 POINTS]
@@ -453,6 +462,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELFHELM, CAPTAIN OF ROHAN [60 POINTS]
@@ -492,6 +502,7 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EOWYN [60 POINTS]
@@ -536,6 +547,7 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GAMLING [55 POINTS]
@@ -574,6 +586,7 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HAMA, CAPTAIN OF ROHAN [60 POINTS]
@@ -605,6 +618,7 @@ As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Gua
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HERA, DAUGHTER OF HELM [70 POINTS]
@@ -647,6 +661,7 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OLWYN, SHIELDMAIDEN OF ROHAN [80 POINTS]
@@ -685,6 +700,7 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LIEF, PAGE OF HELM [50 POINTS]
@@ -724,6 +740,7 @@ Lief may spend a Will point at the end of his Activation, as long as he is not E
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ALDOR [20 POINTS]
@@ -759,6 +776,7 @@ Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attac
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALETH, SON OF HAMA [30 POINTS]
@@ -794,6 +812,7 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MERIADOC BRANDYBUCK [25 POINTS]
@@ -865,6 +884,7 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ROHAN ROYAL GUARD [11 POINTS]
@@ -903,6 +923,7 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WARRIOR OF ROHAN [6 POINTS]

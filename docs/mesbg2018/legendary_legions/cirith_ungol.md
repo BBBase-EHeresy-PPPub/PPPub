@@ -2,51 +2,31 @@
 
 <div class="unitCard" markdown>
 
-**GORBAG [55 points]**
-
-• Shield: 5 points
-
-**MORDOR URUK-HAI CAPTAIN [55 points]**
-
-• Orc Bow: 5 points
-• Shield: 5 points
-• Two-Handed Weapon: 5 points
-• Swap Weapon: 5 points
-
-**ORC CAPTAIN [40 points]**
-
-• Orc Bow: 5 points
-• Shield: 5 points
-• Swap Weapon: 5 points
-
-**SHAGRAT [100 points]**
-
-• Shield of Cirith Ungol: 10 points
-• Heavy Armour: 5 points
-
-**ORC SHAMAN [50 points]**
-
-• Swap Weapon: 5 points
-
-**SHELOB [90 points]**
-
-**MORDOR URUK-HAI [8 points]**
-
-• Banner: 25 points
-• Orc Bow: 1 point
-• Shield: 1 point
-• Two-Handed Mace: 1 point
-• Swap Weapon: 1 point
-
-**ORC WARRIOR [5 points]**
-
-• Banner: 25 points
-• Orc Bow: 1 point
-• Shield: 1 point
-• Spear: 1 point
-• Two-Handed Weapon: 1 point
-• Swap Weapon: 1 point
-
+- **GORBAG**: 55 points
+    - Shield: 5 points
+- **MORDOR URUK-HAI CAPTAIN**: 55 points
+    - Orc Bow: 5 points
+    - Shield: 5 points
+    - Two-Handed Weapon: 5 points
+- **ORC CAPTAIN**: 40 points
+    - Orc Bow: 5 points
+    - Shield: 5 points
+- **SHAGRAT**: 100 points
+    - Shield of Cirith Ungol: 10 points
+    - Heavy Armour: 5 points
+- **ORC SHAMAN**: 50 points
+- **SHELOB**: 90 points
+- **MORDOR URUK-HAI**: 8 points
+    - Banner: 25 points
+    - Orc Bow: 1 point
+    - Shield: 1 point
+    - Two-Handed Mace: 1 point
+- **ORC WARRIOR**: 5 points
+    - Banner: 25 points
+    - Orc Bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-Handed Weapon: 1 point
 </div>
 
 ## ADDITIONAL RULES

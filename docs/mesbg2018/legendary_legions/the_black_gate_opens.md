@@ -2,50 +2,29 @@
 
 <div class="unitCard" markdown>
 
-**MORDOR TROLL CHIEFTAIN (LEADER) [140 points]**
-
-**MOUTH OF SAURON [70 points]**
-
-• Armoured Horse: 15 points
-
-**MORANNON ORC CAPTAIN [50 points]**
-
-• Shield: 5 points
-• Two-Handed Weapon: 5 points
-• Swap Weapon: 5 points
-
-**MORDOR TROLL CHIEFTAIN [140 points]**
-
-• Swap Weapon: 5 points
-
-**ORC CAPTAIN [40 points]**
-
-• Warg: 10 points
-• Orc Bow: 5 points
-• Shield: 5 points
-• Swap Weapon: 5 points
-
-**MORANNON ORC [7 points]**
-
-• Banner: 25 points
-• Shield: 1 point
-• Spear: 1 point
-• Swap Weapon: 1 point
-
-**MORDOR TROLL [100 points]**
-
-• War Drum (Mordor): 30 points
-• Swap Weapon: 1 point
-
-**ORC WARRIOR [5 points]**
-
-• Banner: 25 points
-• Orc Bow: 1 point
-• Shield: 1 point
-• Spear: 1 point
-• Two-Handed Weapon: 1 point
-• Swap Weapon: 1 point
-
+- **MORDOR TROLL CHIEFTAIN (LEADER)**: 140 points
+- **MOUTH OF SAURON**: 70 points
+    - Armoured Horse: 15 points
+- **MORANNON ORC CAPTAIN**: 50 points
+    - Shield: 5 points
+    - Two-Handed Weapon: 5 points
+- **MORDOR TROLL CHIEFTAIN**: 140 points
+- **ORC CAPTAIN**: 40 points
+    - Warg: 10 points
+    - Orc Bow: 5 points
+    - Shield: 5 points
+- **MORANNON ORC**: 7 points
+    - Banner: 25 points
+    - Shield: 1 point
+    - Spear: 1 point
+- **MORDOR TROLL**: 100 points
+    - War Drum (Mordor): 30 points
+- **ORC WARRIOR**: 5 points
+    - Banner: 25 points
+    - Orc Bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-Handed Weapon: 1 point
 </div>
 
 ## SPECIAL RULES

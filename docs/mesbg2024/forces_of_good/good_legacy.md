@@ -35,6 +35,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EORL THE YOUNG [120 POINTS]
@@ -77,6 +78,7 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BANDOBRAS TOOK [50 POINTS]
@@ -110,6 +112,7 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CIRION, LIEUTENANT OF AMON BARAD [65 POINTS]
@@ -142,6 +145,7 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DRAR [70 POINTS]
@@ -197,6 +201,7 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ERESTOR [85 POINTS]
@@ -228,6 +233,7 @@ These are Elven hand weapons, which Erestor may also use as Elven [throwing weap
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ERKENBRAND, CAPTAIN OF ROHAN [90 POINTS]
@@ -263,6 +269,7 @@ This is a Unique [war horn][War Horn]. Additionally, once per game at the start 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FLOI STONEHAND [75 POINTS]
@@ -295,6 +302,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
@@ -386,8 +394,6 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 This model receives a bonus of +1 to its Defence for each other friendly model with this special rule it is in base contact with. If you have multiple King's Champions in your Army, they will only get this bonus for being in base contact with models from their own Warband (i.e., a Herald from one King's Champion cannot provide the bonus to a model from another King's Champion).
 
-
-
 **Herald**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -411,10 +417,10 @@ This model receives a bonus of +1 to its Defence for each other friendly model w
 
 If the King's Champion this Herald belongs to is Wounded, and this model is in base contact with it, this model may expend its Fate Points on behalf of the King's Champion. Note that they cannot suffer Wounds on the King's Champion's behalf - they may only spend their Fate Points.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KNIGHT OF THE WHITE TOWER [75 POINTS]
@@ -448,6 +454,7 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN STORMCALLER [65 POINTS]
@@ -486,6 +493,7 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MURIN [70 POINTS]
@@ -517,6 +525,7 @@ This is a Unique [hand weapon][Hand Weapon]. Murin gains a bonus of +1 To Wound 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANBORN, RANGER OF ITHILIEN [40 POINTS]
@@ -549,6 +558,7 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING'S HUNTSMAN [55 POINTS]
@@ -580,6 +590,7 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MABLUNG, RANGER OF ITHILIEN [40 POINTS]
@@ -611,6 +622,7 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RIVENDELL STORMCALLER [65 POINTS]
@@ -649,6 +661,7 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MAN-AT-ARMS OF DOL AMROTH [10 POINTS]
@@ -674,6 +687,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NOLDORIN EXILES [9 POINTS]
@@ -707,6 +721,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ROHAN OUTRIDER [8 POINTS]
@@ -738,6 +753,7 @@ This model may benefit from a friendly Hero model's Stand Fast regardless of ran
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SON OF EORL [20 POINTS]

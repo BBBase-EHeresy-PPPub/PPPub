@@ -2,33 +2,19 @@
 
 <div class="unitCard" markdown>
 
-**THE NECROMANCER OF DOL GULDUR [250 points]**
-
-**KHAMUL THE EASTERLING [75 points]**
-
-**THE ABYSSAL KNIGHT [75 points]**
-
-**THE ABYSSAL KNIGHT [75 points]**
-
-**THE DARK HEADSMAN [75 points]**
-
-**THE FORSAKEN [75 points]**
-
-**THE LINGERING SHADOW [75 points]**
-
-**THE SLAYER OF MEN [75 points]**
-
-**THE SLAYER OF MEN [75 points]**
-
-**THE WITCH-KING OF ANGMAR [75 points]**
-
-**THE KEEPER OF THE DUNGEONS [75 points]**
-
-**CASTELLAN OF DOL GULDUR [40 points]**
-
-• Morgul Blade: 5 points
-• Swap Weapon: 5 points
-
+- **THE NECROMANCER OF DOL GULDUR**: 250 points
+- **KHAMUL THE EASTERLING**: 75 points
+- **THE ABYSSAL KNIGHT**: 75 points
+- **THE ABYSSAL KNIGHT**: 75 points
+- **THE DARK HEADSMAN**: 75 points
+- **THE FORSAKEN**: 75 points
+- **THE LINGERING SHADOW**: 75 points
+- **THE SLAYER OF MEN**: 75 points
+- **THE SLAYER OF MEN**: 75 points
+- **THE WITCH-KING OF ANGMAR**: 75 points
+- **THE KEEPER OF THE DUNGEONS**: 75 points
+- **CASTELLAN OF DOL GULDUR**: 40 points
+    - Morgul Blade: 5 points
 </div>
 
 ## ADDITIONAL RULES

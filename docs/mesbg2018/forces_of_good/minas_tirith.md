@@ -51,6 +51,7 @@ Friendly models within 6" count as being in range of a [banner][Banner].
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOROMIR [160 POINTS]
@@ -74,7 +75,7 @@ Friendly models within 6" count as being in range of a [banner][Banner].
 
 **OPTIONS**
 
-- The [Banner] Of Minas Tirith - 40 points
+- The [Banner] of Minas Tirith - 40 points
 - [Horse] - 10 points
 - [Lance] - 5 points
 - [Shield] - 5 points
@@ -92,6 +93,7 @@ This is a [banner][Banner] with a range of 6". Boromir and all Gondor Warriors w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DENETHOR [35 POINTS]
@@ -119,6 +121,7 @@ At the start of every turn, take a courage test. If failed, Denethor is controll
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EARNUR [100 POINTS]
@@ -158,6 +161,7 @@ At the start of a fight involving Earnur, after resolving any special rules that
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FARAMIR [80 POINTS]
@@ -199,6 +203,7 @@ If Denethor is alive and in the same army, Faramir passes all courage tests and 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [220 POINTS]
@@ -251,6 +256,7 @@ Gandalf may re-roll his dice when making fate rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HURIN [80 POINTS]
@@ -292,6 +298,7 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING OF MEN [60 POINTS]
@@ -387,6 +394,7 @@ Receives a +2 bonus to his Courage when charging a model with the [Terror] speci
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### INGOLD [65 POINTS]
@@ -418,6 +426,7 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
@@ -448,6 +457,7 @@ Irolas may use the Shielding special rule, even without a [shield][Shield]. If h
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KNIGHT OF THE WHITE TOWER [60 POINTS]
@@ -484,6 +494,7 @@ If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-ha
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MADRIL [55 POINTS]
@@ -515,6 +526,7 @@ When rolling for Reinforcements, you may modify the roll for Madril's warband by
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANBORN [35 POINTS]
@@ -545,6 +557,7 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BEREGOND [30 POINTS]
@@ -633,6 +646,7 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [25 POINTS]
@@ -784,6 +798,7 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RANGER OF GONDOR [8 POINTS]

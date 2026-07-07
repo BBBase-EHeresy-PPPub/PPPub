@@ -4,7 +4,7 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 ## ARMY BONUS
 
-**"Hold his toes over the fire, make him squeal"** - You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a banner in addition to all other effects it would usually provide.
+**"Hold his toes over the fire, make him squeal"** - You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a [banner][Banner] in addition to all other effects it would usually provide.
 
 ## HEROES OF THE TROLLS
 
@@ -19,7 +19,7 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 **WARGEAR**
 
-- [Club] Or Fork (counts As A [Dagger])
+- [Club] or Fork (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -37,7 +37,7 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 - **Keep 'em for Later** `ACTIVE`
 
-If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the Paralyse Magical Power.
+If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the [Paralyse] Magical Power.
 
 - **Campfire** `PASSIVE`
 
@@ -62,7 +62,7 @@ If he wins a Fight, choose one enemy model in the Fight. Both they and Bill roll
 
 **WARGEAR**
 
-- [Club] Or Knife (counts As A [Dagger])
+- [Club] or Knife (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -76,7 +76,7 @@ If he wins a Fight, choose one enemy model in the Fight. Both they and Bill roll
 
 - **Keep 'em for Later** `ACTIVE`
 
-If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the Paralyse Magical Power.
+If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the [Paralyse] Magical Power.
 
 - **Roast 'em Slowly** `BRUTAL POWER ATTACK`
 
@@ -97,7 +97,7 @@ If he wins a Fight, he may perform this attack as long as he is within 6" of a f
 
 **WARGEAR**
 
-- [Club] Or Spoon (counts As A [Dagger])
+- [Club] or Spoon (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -110,7 +110,7 @@ If he wins a Fight, he may perform this attack as long as he is within 6" of a f
 
 - **Keep 'em for Later** `ACTIVE`
 
-If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the Paralyse Magical Power.
+If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Replace that model with a 25mm marker. That model now counts as being subject to the [Paralyse] Magical Power.
 
 - **Lingering Cold** `ACTIVE`
 

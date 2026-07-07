@@ -74,7 +74,7 @@ Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move t
 
 **WARGEAR**
 
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -124,7 +124,7 @@ To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+,
 
 - **Lord of the Eagles** `ACTIVE`
 
-Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit from his Heroic Actions.
+Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit from his Heroic Actions.
 
 </div>
 

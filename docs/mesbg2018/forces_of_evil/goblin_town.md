@@ -19,7 +19,7 @@ This army may include: The Goblin King; Goblin Captain; Goblin Mercenary Captain
 
 **WARGEAR**
 
-- Two-handed [Pick]
+- [Two-handed][Two-Handed] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -134,7 +134,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 **WARGEAR**
 
 - [Dagger]
-- Scourge
+- [Scourge]
 
 **HEROIC ACTIONS**
 
@@ -273,7 +273,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- Two-Handed [Axe] - 1 point
+- [Two-Handed] [Axe] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**

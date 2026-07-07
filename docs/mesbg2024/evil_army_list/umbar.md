@@ -12,17 +12,17 @@
 
 - **Delgamar, Gatemaster of Umbar**: 75 points
 - **The Knight of Umbar**: 130 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
 - **Black Numenorean Marshal**: 70 points
 - **Corsair Bo'sun**: 50 points
-  - Exchange spear for crossbow: Free
+    - Exchange spear for crossbow: Free
 - **Corsair Captain**: 55 points
-  - Exchange two-handed weapon for crossbow: Free
+    - Exchange two-handed weapon for crossbow: Free
 - **Haradrim Chieftain**: 50 points
-  - Bow: 5 points
+    - Bow: 5 points
 - **Hasharin**: 80 points
 
 **WARRIORS**
@@ -30,14 +30,14 @@
 - **Black Numenorean Warrior**: 10 points
 - **Corsair Reaver**: 9 points
 - **Corsair of Umbar**: 8 points
-  - Bow: 1 point
-  - Light shield and throwing weapons: 1 point
-  - Spear: 1 point
+    - Bow: 1 point
+    - Light shield and throwing weapons: 1 point
+    - Spear: 1 point
 - **Haradrim Warrior**: 6 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Bow: 1 point
-  - Spear: 1 point
+    - Banner: 25 points
+    - War horn: 25 points
+    - Bow: 1 point
+    - Spear: 1 point
 
 </div>
 

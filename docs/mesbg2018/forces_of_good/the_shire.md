@@ -245,7 +245,7 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 **WARGEAR**
 
-- Two-handed Scythe ([Pick])
+- [Two-handed][Two-Handed] Scythe ([pick][Pick])
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
@@ -351,7 +351,7 @@ All Hobbit models within 6" count as being in range of a [banner][Banner]
 
 **WARGEAR**
 
-- Spade ([Staff])
+- Spade ([staff][Staff])
 
 **SPECIAL RULES**
 
@@ -377,7 +377,7 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 **WARGEAR**
 
-- Hand-and-a-half [Club].
+- [Hand-and-a-half][Hand-And-A-Half] [Club].
 
 **HEROIC ACTIONS**
 
@@ -447,7 +447,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 **WARGEAR**
 
-- Walking Cane ([Club]).
+- Walking Cane ([club][Club]).
 
 **HEROIC ACTIONS**
 
@@ -460,7 +460,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 - **To me Shire-folk!** `ACTIVE`
 
-Paladin's Stand Fast! Only affects Hobbit models and has a range of 12".
+Paladin's [Stand Fast!] Only affects Hobbit models and has a range of 12".
 
 </div>
 
@@ -477,7 +477,7 @@ Paladin's Stand Fast! Only affects Hobbit models and has a range of 12".
 
 **WARGEAR**
 
-- Hand-and-a-half [Club].
+- [Hand-and-a-half][Hand-And-A-Half] [Club].
 
 **HEROIC ACTIONS**
 
@@ -543,7 +543,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 **WARGEAR**
 
-- Walking Cane ([Staff]).
+- Walking Cane ([staff][Staff]).
 
 **HEROIC ACTIONS**
 
@@ -657,7 +657,7 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 
 - **Furious Tirade** `ACTIVE`
 
-No Warrior models from either player's army may benefit from a Hero model's Stand Fast! whilst within 6" of Lobelia.
+No Warrior models from either player's army may benefit from a Hero model's [Stand Fast!] whilst within 6" of Lobelia.
 
 - **The Umbrella is not Mightier than the Sword** `PASSIVE`
 
@@ -763,7 +763,7 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 **WARGEAR**
 
-- Hand-and-a-half [Club]
+- [Hand-and-a-half][Hand-And-A-Half] [Club]
 
 **OPTIONS**
 

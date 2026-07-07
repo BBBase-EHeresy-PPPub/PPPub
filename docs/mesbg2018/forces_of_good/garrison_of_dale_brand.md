@@ -33,7 +33,7 @@ This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of 
 
 - **Lord of Dale** `ACTIVE`
 
-Brand's Stand Fast! Is 12" rather than 6".
+Brand's [Stand Fast!] Is 12" rather than 6".
 
 - **Stoic Fighter** `ACTIVE`
 

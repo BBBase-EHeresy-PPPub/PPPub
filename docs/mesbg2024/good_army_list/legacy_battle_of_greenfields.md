@@ -11,13 +11,13 @@
 **HEROES OF FORTITUDE**
 
 - **Ranger of the North**: 25 points
-  - Armour: 5 points
-  - Spear: 1 point
+    - Armour: 5 points
+    - Spear: 1 point
 
 **WARRIORS**
 
 - **Hobbit Archer**: 5 points
-  - War horn: 25 points
+    - War horn: 25 points
 - **Hobbit Militia**: 4 points
 - **Hobbit Shirriff**: 5 points
 

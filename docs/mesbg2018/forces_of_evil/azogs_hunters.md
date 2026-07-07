@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug; Yazneg; [Fell Warg]; Hunter Orc.
+This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug; Yazneg; Fell Warg; Hunter Orc.
 
 ## ARMY BONUS
 
@@ -39,11 +39,11 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed][Two-Handed] flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][Two-Handed] [flail][Flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
-Stand Fast! has a range of 12", and affects Orc Hero models.
+[Stand Fast!] has a range of 12", and affects Orc Hero models.
 
 - **I am the Master** `ACTIVE`
 
@@ -52,6 +52,7 @@ Never requires more than 3+ for To Wound against Hero models.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
@@ -64,7 +65,7 @@ Never requires more than 3+ for To Wound against Hero models.
 **WARGEAR**
 
 - [Heavy Armour]
-- Two-handed [Pick]
+- [Two-handed][Two-Handed] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -95,6 +96,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FIMBUL THE HUNTER [50 POINTS]
@@ -125,6 +127,7 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HUNTER ORC CAPTAIN [45 POINTS]
@@ -147,7 +150,7 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 
 - [Fell Warg] - 10 points
 - Orc [Bow] - 5 points
-- Two-Handed [Pick] - 5 points
+- [Two-Handed] [Pick] - 5 points
 - Swap Weapon - 5 points
 
 **SPECIAL RULES**
@@ -159,6 +162,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NARZUG [50 POINTS]
@@ -197,6 +201,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YAZNEG [45 POINTS]
@@ -209,7 +214,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -226,13 +231,14 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 - **The Price of Failure** `PASSIVE`
 
-If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling dice for Courage tests when your force is Broken, you may remove Yazneg from play. If you do so, Azog automatically passes his Courage test, and his Stand Fast! Will affect the entire battlefield. Additionally if you do so, whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
+If your army contains both Azog and Yazneg, and the two are in base contact at the beginning of your Move phase, instead of rolling dice for Courage tests when your force is Broken, you may remove Yazneg from play. If you do so, Azog automatically passes his Courage test, and his [Stand Fast!] Will affect the entire battlefield. Additionally if you do so, whilst Azog is still alive, all Hunter Orcs, Hunter Orc Captains, Fimbul the Hunter and Narzug re-roll failed Courage tests.
 
 </div>
 
 ---
 
 ## WARRIORS OF AZOG'S HUNTERS
+
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
@@ -274,7 +280,7 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 - [Banner] - 25 points
 - [Fell Warg] - 8 points
 - Orc [Bow] - 1 point
-- Two-Handed [Pick] - 1 point
+- [Two-Handed] [Pick] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**

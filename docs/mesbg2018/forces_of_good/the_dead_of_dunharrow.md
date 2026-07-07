@@ -38,7 +38,7 @@ Any model that suffers a Wound from the King of the Dead, unless prevent by Fate
 
 - **The Dead and the Living** `PASSIVE`
 
-Only Warriors/Riders/Heralds of the Dead may use the King of the Dead's Stand Fast!, or benefit from his Heroic Actions.
+Only Warriors/Riders/Heralds of the Dead may use the King of the Dead's [Stand Fast!], or benefit from his Heroic Actions.
 
 - **Spectral Walk** `PASSIVE`
 

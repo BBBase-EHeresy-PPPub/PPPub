@@ -4,7 +4,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 ## ARMY BONUS
 
-**"You do what Sharkey says!"** - Sharkey's Stand Fast! affects the entire battlefield. Additionally, a force (or allied contingent) that contains models solely from the Sharkey's Rogues list may include warbands of 10-12 Ruffians without the need for a Hero to lead them. In these warbands, nominate a single Warrior model within the warband as the captain for the purposes of deployment, etc.
+**"You do what Sharkey says!"** - Sharkey's [Stand Fast!] affects the entire battlefield. Additionally, a force (or allied contingent) that contains models solely from the Sharkey's Rogues list may include warbands of 10-12 Ruffians without the need for a Hero to lead them. In these warbands, nominate a single Warrior model within the warband as the captain for the purposes of deployment, etc.
 
 ## HEROES OF SHARKEY'S ROGUES
 
@@ -32,7 +32,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 **WARGEAR**
 
-- Jagged Knife ([Sword])
+- Jagged Knife ([sword][Sword])
 - [Club]
 - [Whip]
 
@@ -50,7 +50,7 @@ Other friendly Ruffian models treat Sid as a [banner][Banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
-Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
+Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the [Paralyse] Magic Power.
 
 - **Brawler** `PASSIVE`
 
@@ -84,7 +84,7 @@ At the start of the game, Bill may choose an enemy warband to spy on. In Scenari
 
 - **Put 'em in Chains** `ACTIVE`
 
-Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
+Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the [Paralyse] Magic Power.
 
 </div>
 
@@ -172,7 +172,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 **WARGEAR**
 
 - [Club]
-- Knife ([Sword])
+- Knife ([sword][Sword])
 
 **SPECIAL RULES**
 
@@ -182,7 +182,7 @@ Rowan may declare Heroic Combats for free, but only if he will be able move into
 
 - **Put 'em in Chains** `ACTIVE`
 
-Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
+Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the [Paralyse] Magic Power.
 
 - **Burn it Down!** `ACTIVE`
 
@@ -203,7 +203,7 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 
 **WARGEAR**
 
-- Knife Or [Club].
+- Knife or [Club].
 
 **OPTIONS**
 
@@ -215,7 +215,7 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 
 - **At 'em Lads!** `ACTIVE`
 
-A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
+A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the [Paralyse] Magic Power.
 
 </div>
 
@@ -287,7 +287,7 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 **WARGEAR**
 
-- Knife Or [Club].
+- Knife or [Club].
 
 **OPTIONS**
 
@@ -299,6 +299,6 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 - **At 'em Lads!** `ACTIVE`
 
-A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the Paralyse Magic Power.
+A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 Fight value. Additionally, instead of making Strikes, a Ruffian may choose one Hobbit model and roll a D6. If it's higher than the Hobbit's Strength, the Hobbit is bound in chains, treated as if it had suffered the [Paralyse] Magic Power.
 
 </div>

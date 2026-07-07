@@ -35,7 +35,7 @@ This army may include: Gwaihir; Great Eagle.
 
 - **Lord of the Eagles** `ACTIVE`
 
-Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit from his Heroic Actions.
+Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit from his Heroic Actions.
 
 </div>
 

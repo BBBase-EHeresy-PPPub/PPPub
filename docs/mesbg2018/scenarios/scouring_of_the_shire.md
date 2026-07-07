@@ -26,9 +26,9 @@ If both players complete their objective in the same turn, the game is a draw.
 
 The Bree Villagers use the following profile:
 
-| Mv  | F | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |-----|---|---|---|---|---|---|
-| 6"  | 1/5+ | 3 | 3 | 1 | 1 | 2 |
+| 6" | 1/5+ | 3 | 3 | 1 | 1 | 2 |
 
 Bree Villagers count as being armed with a dagger; however, they may not use Special Strikes.
 

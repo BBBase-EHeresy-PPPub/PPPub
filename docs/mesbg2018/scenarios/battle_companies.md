@@ -43,9 +43,9 @@ Once one Battle Company has been Broken, the game might suddenly end. At the end
 
 At the end of your Move phase, roll a D6 for each of your models not on the battlefield and consult the chart below (**Hero** models can use Might to alter the roll either up or down). Models can't Charge in the turn that they arrive but otherwise act normally. Roll for each model separately, deploy the model, then roll for the next. Models yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
-| D6 | Result                         |
+| D6 | Result |
 |----|---------------------------------------------------------|
-| 1 | The model does not arrive yet.             |
+| 1 | The model does not arrive yet. |
 | 2 | The model enters the battlefield from the western board edge. |
 | 3 | The model enters the battlefield from the eastern board edge. |
 | 4 | The model enters the battlefield from the southern board edge. |
@@ -486,7 +486,7 @@ The game lasts until either Battle Company has been reduced to 25% of their star
 
 This Scenario requires five Baggage Ponies, which will use the profile below. These ponies are moved as part of the Defender's company, but may never Charge an enemy model. Baggage Ponies do not count towards the Defender's Break Point, and do not generate Experience Points if killed during the game. Each Baggage Pony is carrying a single piece of cargo.
 
-| Mv | F  | S | D | A | W | C |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 8" | 1/6+ | 3 | 4 | 1 | 1 | 2 |
 
@@ -526,12 +526,12 @@ Before each Sentry takes their Move phase, the controlling player must roll on t
 
 **SENTRY CHART**
 
-| D6  | Result                                           |
+| D6 | Result |
 |------|--------------------------------------------------------------------------------------------|
-| **1**  | The Sentry is searching around in its vicinity. It may not Move this turn.         |
+| **1** | The Sentry is searching around in its vicinity. It may not Move this turn. |
 | **2-3** | The Sentry has been distracted by a noise elsewhere on the board. The opposing player may move the model up to half of its Move allowance in any direction. |
 | **4-5** | The Sentry walks carefully to where they believe an intruder to be, the controlling player may move the model up to 3" in any direction. |
-| **6**  | The Sentry is convinced it has spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
+| **6** | The Sentry is convinced it has spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
 
 If, during the End phase of any turn, there is an unengaged Sentry within 3" and Line of Sight of an enemy model then the alarm has been raised. Once the alarm has been raised, all Sentries revert back to the normal rules for movement for the remainder of the game.
 
@@ -575,18 +575,18 @@ The company must escape Bree, and they aren't too bothered in what way they mana
 
 At the start of the game, after both forces have been deployed, roll a D6 to find out which board edge the Battle Company must escape from.
 
-| D6 | Result                                                               |
+| D6 | Result |
 |----|----------------------------------------------------------------------|
-| 1  | The Ruffian player may choose which board edge the company must escape from. |
-| 2  | The company must escape via the eastern board edge.                 |
-| 3  | The company must escape via the western board edge.                 |
-| 4  | The company must escape via the northern board edge.                |
-| 5  | The company must escape via the southern board edge.                |
-| 6  | The Battle Company's controlling player may choose which board edge the company must escape from. |
+| 1 | The Ruffian player may choose which board edge the company must escape from. |
+| 2 | The company must escape via the eastern board edge. |
+| 3 | The company must escape via the western board edge. |
+| 4 | The company must escape via the northern board edge. |
+| 5 | The company must escape via the southern board edge. |
+| 6 | The Battle Company's controlling player may choose which board edge the company must escape from. |
 
 * **A Petty Squabble**
 
-Ruffians may not use their bows in the Shoot phase.  Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.
+Ruffians may not use their bows in the Shoot phase. Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.
 
 * **Important Knowledge**
 
@@ -596,14 +596,14 @@ If the leader of your company is removed as a casualty then the best result the 
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
 
-| D6 | Result                                                                                                        |
+| D6 | Result |
 |----|---------------------------------------------------------------------------------------------------------------|
-| 1  | Your company gains an additional 1 Influence Point. |
-| 2  | One **Hero** in your company may add a Dwarven Brew to their equipment. |
-| 3  | Permanently add a Ruffian to your Battle Company. They cannot gain Experience and therefore cannot become a **Hero**. |
-| 4  | Each member of your company may exchange their hand weapon for any other kind of hand weapon without spending Influence Points. |
-| 5  | Add a Local Scout to your company's roster. |
-| 6  | Your leader may be mounted on a horse without spending Influence Points, even if they couldn't usually do so. |
+| 1 | Your company gains an additional 1 Influence Point. |
+| 2 | One **Hero** in your company may add a Dwarven Brew to their equipment. |
+| 3 | Permanently add a Ruffian to your Battle Company. They cannot gain Experience and therefore cannot become a **Hero**. |
+| 4 | Each member of your company may exchange their hand weapon for any other kind of hand weapon without spending Influence Points. |
+| 5 | Add a Local Scout to your company's roster. |
+| 6 | Your leader may be mounted on a horse without spending Influence Points, even if they couldn't usually do so. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -619,7 +619,7 @@ If you are playing an Evil Battle Company, then the Breelanders are probably mor
 
 Your Battle Company.
 
-1 Barrow-wight, 4 Angmar Orcs with shield, 4 Angmar Orcs with spear, 2 Angmar Orcs with two-handed weapon,  2 Angmar Orcs with Orc bow, 3 Orc Trackers.
+1 Barrow-wight, 4 Angmar Orcs with shield, 4 Angmar Orcs with spear, 2 Angmar Orcs with two-handed weapon, 2 Angmar Orcs with Orc bow, 3 Orc Trackers.
 
 **LAYOUT**
 
@@ -655,14 +655,14 @@ Any model that slays the Barrow-wight gains an additional 1 Experience Point.
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
 
-| D6 | Result                                                                                                                                                                    |
+| D6 | Result |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Your Battle Company gains an additional 1 Influence Point.                              |
-| 2  | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. |
-| 3  | One **Hero** in your company may have this Ancient Dagger. This is a dagger. Additionally, when making Strikes with the Ancient Dagger, the bearer never needs more than a 5+ To Wound an enemy. |
-| 4  | Your leader gains the Healing Herbs piece of equipment. |
-| 5  | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the Bane of Kings special rule. |
-| 6  | One Hero in your company may have this stone shard - this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
+| 1 | Your Battle Company gains an additional 1 Influence Point. |
+| 2 | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. |
+| 3 | One **Hero** in your company may have this Ancient Dagger. This is a dagger. Additionally, when making Strikes with the Ancient Dagger, the bearer never needs more than a 5+ To Wound an enemy. |
+| 4 | Your leader gains the Healing Herbs piece of equipment. |
+| 5 | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the Bane of Kings special rule. |
+| 6 | One Hero in your company may have this stone shard - this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -718,14 +718,14 @@ The Wargs must always move towards the Battle Company, charging if possible.
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
 
-| D6  | Result |
+| D6 | Result |
 |-----------|-------------|
-| 1         | Your company immediately gains an additional 1 Influence Point. |
-| 2         | One **Hero** in your Battle Company may be given a Concealing Cloak. |
-| 3         | One **Hero** in your Battle Company may wear the Warg Pelt. Whilst they do, they cause Terror. |
-| 4         | Permanently add a Dúnedain to your Battle Company. They cannot gain Experience and will roll on the Hero Injury chart when necessary. |
-| 5         | Your Battle Company's leader (or another **Hero,** if they did not participate in the game) gains a single Point of either Might, Will or Fate, up to the maximum for their chosen path. |
-| 6         | One **Hero** in your company may add a great bow to their wargear. |
+| 1 | Your company immediately gains an additional 1 Influence Point. |
+| 2 | One **Hero** in your Battle Company may be given a Concealing Cloak. |
+| 3 | One **Hero** in your Battle Company may wear the Warg Pelt. Whilst they do, they cause Terror. |
+| 4 | Permanently add a Dúnedain to your Battle Company. They cannot gain Experience and will roll on the Hero Injury chart when necessary. |
+| 5 | Your Battle Company's leader (or another **Hero,** if they did not participate in the game) gains a single Point of either Might, Will or Fate, up to the maximum for their chosen path. |
+| 6 | One **Hero** in your company may add a great bow to their wargear. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -777,14 +777,14 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 **D6 Result**
 
-| D6 | Result                                                                                                                                                                        |
+| D6 | Result |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Your Battle Company gains an additional 1 Influence Point.                                       |
-| 2  | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. However, models that were removed as a casualty by falling through the ice must still roll as normal. |
-| 3  | Permanently add one Tribesfolk to your company. The Tribesfolk follows the profile for a Dunlending Warrior. |
-| 4  | Permanently add a Sage to your Battle Company. |
-| 5  | One **Hero** in your Battle Company may have this amulet. Whenever a friendly model within 6" of the bearer suffers a wound, roll a D6. On the roll of a Natural 6 the wound is ignored. |
-| 6  | One **Hero** in your company can be given a Master-forged two-handed axe. |
+| 1 | Your Battle Company gains an additional 1 Influence Point. |
+| 2 | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. However, models that were removed as a casualty by falling through the ice must still roll as normal. |
+| 3 | Permanently add one Tribesfolk to your company. The Tribesfolk follows the profile for a Dunlending Warrior. |
+| 4 | Permanently add a Sage to your Battle Company. |
+| 5 | One **Hero** in your Battle Company may have this amulet. Whenever a friendly model within 6" of the bearer suffers a wound, roll a D6. On the roll of a Natural 6 the wound is ignored. |
+| 6 | One **Hero** in your company can be given a Master-forged two-handed axe. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -834,14 +834,14 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 **D6 Result**
 
-| D6 | Result                                                                                                                                                                          |
+| D6 | Result |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Every **Hero** in your Battle Company gains a single Point of either Might, Will or Fate - this can even be used to take your **Hero** above the usual maximum of 3/3/3. |
-| 2  | **Armour of Arthedain** - A single **Hero** in your Battle Company may be given the Armour of Arthedain. This is heavy armour. Additionally, a model wearing this armour will only ever suffer a wound on the roll of a natural 6. |
-| 3  | **Circlet of Annúminas** - A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
-| 4  | **Shield of Arnor** - A single **Hero** in your Battle Company may be given the Shield of Arnor. This is a shield. Additionally, each time an enemy model makes a Strike against a model with the Shield of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
-| 5  | **Daggers of Gondolin** - A single **Hero** in your Battle Company may be given the Daggers of Gondolin. These are a pair of Elven-made daggers. Additionally, the bearer of these daggers adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these daggers may not use a shield or missile weapon when they fight with them. |
-| 6  | **Axe of the Blue Mountains** - A single **Hero** in your Battle Company may be given the Axe of the Blue Mountains. This is a Master-forged two-handed axe. Additionally, each wound dealt by this weapon is subject to the Mighty Blow special rule. |
+| 1 | Every **Hero** in your Battle Company gains a single Point of either Might, Will or Fate - this can even be used to take your **Hero** above the usual maximum of 3/3/3. |
+| 2 | **Armour of Arthedain** - A single **Hero** in your Battle Company may be given the Armour of Arthedain. This is heavy armour. Additionally, a model wearing this armour will only ever suffer a wound on the roll of a natural 6. |
+| 3 | **Circlet of Annúminas** - A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
+| 4 | **Shield of Arnor** - A single **Hero** in your Battle Company may be given the Shield of Arnor. This is a shield. Additionally, each time an enemy model makes a Strike against a model with the Shield of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
+| 5 | **Daggers of Gondolin** - A single **Hero** in your Battle Company may be given the Daggers of Gondolin. These are a pair of Elven-made daggers. Additionally, the bearer of these daggers adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these daggers may not use a shield or missile weapon when they fight with them. |
+| 6 | **Axe of the Blue Mountains** - A single **Hero** in your Battle Company may be given the Axe of the Blue Mountains. This is a Master-forged two-handed axe. Additionally, each wound dealt by this weapon is subject to the Mighty Blow special rule. |
 
 Results 2-6 will add an extra 30 points to the value of whichever model is carrying the item they have gained when working out your Battle Company's Rating.
 

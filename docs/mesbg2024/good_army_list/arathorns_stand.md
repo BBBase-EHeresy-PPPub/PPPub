@@ -15,8 +15,8 @@
 **INDEPENDENT HEROES**
 
 - **Ranger of the North**: 25 points
-  - Armour: 5 points
-  - Spear: 1 point
+    - Armour: 5 points
+    - Spear: 1 point
 
 </div>
 

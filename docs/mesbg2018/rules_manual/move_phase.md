@@ -201,10 +201,10 @@ The horizontal movement your model makes when it jumps an Obstacle still counts 
 
 ### JUMP TABLE
 
-| D6 | RESULT                              |
+| D6 | RESULT |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **STUMBLES AND FAILS** The model does not cross the Obstacle, but instead ends its movement for the turn.                |
-| 2-5 | **SUCCESS** The model successfully clambers over the Obstacle and reaches the other side. Place your model on the other side of the Obstacle, with its base touching it. The model may move no further this Move phase.   |
+| 1 | **STUMBLES AND FAILS** The model does not cross the Obstacle, but instead ends its movement for the turn. |
+| 2-5 | **SUCCESS** The model successfully clambers over the Obstacle and reaches the other side. Place your model on the other side of the Obstacle, with its base touching it. The model may move no further this Move phase. |
 | 6 | **EFFORTLESSLY BOUNDS ACROSS** The model vaults across the Obstacle with ease, and may even complete its movement up to its maximum Move distance (minus the distance it already used getting up to and across the Obstacle, of course). |
 
 ***JUMPING***
@@ -229,11 +229,11 @@ Making a Leap test is simple. Move your model up to the gap that you wish it to 
 
 ### LEAP TABLE
 
-| D6 | RESULT             |
+| D6 | RESULT |
 |-----------|--------------------------------------------------------------------------------------------------------------|
-| 1  | **STUMBLES AND FAILS** The attempt to leap the gap has gone wrong. The model falls to the bottom of the gap, suffering falling damage as described on page 31 and is knocked Prone. |
+| 1 | **STUMBLES AND FAILS** The attempt to leap the gap has gone wrong. The model falls to the bottom of the gap, suffering falling damage as described on page 31 and is knocked Prone. |
 | 2-5 | **SUCCESS** The model manages to leap across safely. Place the model on the other side of the gap, with its base touching it. The model may move no further this Move phase. |
-| 6  | **EFFORTLESSLY BOUNDS ACROSS** The model leaps across without missing a step. Place it on the other side; it may even complete its movement up to its maximum Move allowance. |
+| 6 | **EFFORTLESSLY BOUNDS ACROSS** The model leaps across without missing a step. Place it on the other side; it may even complete its movement up to its maximum Move allowance. |
 
 ***LEAPING***
 
@@ -253,11 +253,11 @@ A model may climb a surface or Obstacle of any height, provided that it is scala
 
 ### CLIMB TABLE
 
-| D6 | RESULT             |
+| D6 | RESULT |
 |-----------|--------------------------------------------------------------------------------------------------------------|
-| 1  | **FALL** The model slips and falls to the ground, and becomes Prone (see page 32) at the bottom of the surface it attempted to climb, place a Prone marker next to it. If the model began its climb at ground level, it suffers no further damage, but if it was higher than this, it may suffer falling damage (see opposite). |
-| 2-5 | **CONTINUE TO CLIMB** The model climbs until it has moved its maximum Move distance, or reaches the top, after which it may move no further this Move phase.  |
-| 6  | **SWIFT ASCENT** The model climbs until it has moved its maximum Move distance, or reaches the top. It may even complete its move up to its maximum Move distance after it reaches the top (minus the distance it has already used climbing up, of course). |
+| 1 | **FALL** The model slips and falls to the ground, and becomes Prone (see page 32) at the bottom of the surface it attempted to climb, place a Prone marker next to it. If the model began its climb at ground level, it suffers no further damage, but if it was higher than this, it may suffer falling damage (see opposite). |
+| 2-5 | **CONTINUE TO CLIMB** The model climbs until it has moved its maximum Move distance, or reaches the top, after which it may move no further this Move phase. |
+| 6 | **SWIFT ASCENT** The model climbs until it has moved its maximum Move distance, or reaches the top. It may even complete its move up to its maximum Move distance after it reaches the top (minus the distance it has already used climbing up, of course). |
 
 ### CLIMBING VERY TALL STRUCTURES
 

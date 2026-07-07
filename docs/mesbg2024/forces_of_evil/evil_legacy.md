@@ -30,7 +30,7 @@
 
 - **Death-touch** `PASSIVE`
 
-Any model that Wounds Ashrak in Combat, or is Wounded by Ashrak in Combat, must immediately roll a D6. On a 4+ the model immediately suffers the effects of the Paralyse Magical Power; however, the effects will not immediately end should Ashrak have no Will Points or be slain.
+Any model that Wounds Ashrak in Combat, or is Wounded by Ashrak in Combat, must immediately roll a D6. On a 4+ the model immediately suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should Ashrak have no Will Points or be slain.
 
 - **Spider-kin** `PASSIVE`
 
@@ -39,6 +39,7 @@ Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Addit
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARADRIM KING [70 POINTS]
@@ -74,6 +75,7 @@ If this model is your General, it increases its Attacks characteristic to 3 and 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [130 POINTS]
@@ -123,6 +125,7 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHANDISH KING [100 POINTS]
@@ -158,6 +161,7 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
@@ -228,6 +232,7 @@ The range of Razgush's Stand Fast is 12" rather than 6".
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [130 POINTS]
@@ -276,6 +281,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DARK MARSHAL [130 POINTS]
@@ -323,6 +329,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [130 POINTS]
@@ -370,6 +377,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE GOLDEN KING OF ABRAKHAN [130 POINTS]
@@ -448,6 +456,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SHADOW LORD [130 POINTS]
@@ -495,6 +504,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SPIDER QUEEN [120 POINTS]
@@ -524,9 +534,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 
 - **Progeny** `ACTIVE`
 
-At the beginning of her Activation, the Spider Queen may spend any number of Will Points she has remaining to summon a Broodling. For each Will Point spent, place a single Broodling anywhere within 3" of the Spider Queen. Broodlings placed in this manner can never be placed in base contact with enemy models, but may be placed within the Control Zones of enemy models. Broodlings may be Activated on a turn in which they were summoned, though may not Activate as part of a Heroic Move or Heroic March declared by a friendly model that turn as they were not on the board when the Heroic Action was declared. Broodlings are never taken into account when working out if an Army is Broken or reduced to 25%.
-
-
+At the beginning of her Activation, the Spider Queen may spend any number of Will Points she has remaining to summon a Broodling. For each Will Point spent, place a single Broodling anywhere within 3" of the Spider Queen. Broodlings placed in this manner can never be placed in base contact with enemy models, but may be placed within the Control Zones of enemy models. Broodlings may be Activated on a turn in which they were summoned, though may not Activate as part of a [Heroic Move] or [Heroic March] declared by a friendly model that turn as they were not on the board when the Heroic Action was declared. Broodlings are never taken into account when working out if an Army is Broken or reduced to 25%.
 
 **Broodling**
 
@@ -546,6 +554,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE TAINTED [130 POINTS]
@@ -586,6 +595,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE UNDYING [130 POINTS]
@@ -637,6 +647,7 @@ The Undying can spend his Will Points as if they were Fate Points.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRYDAN WOLFSBANE [90 POINTS]
@@ -674,6 +685,7 @@ The range of Thrydan's Stand Fast is 12" rather than 6".
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF THE BLACK GUARD [70 POINTS]
@@ -703,6 +715,7 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING CHIEFTAIN [55 POINTS]
@@ -764,6 +777,7 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOLFIMBUL, ORC CAPTAIN [45 POINTS]
@@ -797,6 +811,7 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOROTH, CAPTAIN OF THE MORANNON [85 POINTS]
@@ -828,6 +843,7 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GORULF IRONSKIN [70 POINTS]
@@ -860,6 +876,7 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GREAT BEAST OF GORGOROTH [175 POINTS]
@@ -872,7 +889,7 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 
 **WARGEAR**
 
-- Hooves ([Hand Weapon])
+- Hooves ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -883,8 +900,6 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 - **Trample** `ACTIVE`
 
 When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
-
-
 
 **Howdah**
 
@@ -897,7 +912,6 @@ When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 - **Orc Archers** `PASSIVE`
 
 The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an Orc [bow][Bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
-
 
 ---
 
@@ -922,10 +936,10 @@ The Orcs in the Howdah are not treated as separate models, and as such cannot be
 
 If the Orc Commander would lose its last Wound whilst riding the Great Beast, then the Howdah will suffer the Wound instead (this represents an Orc from the Howdah taking command). If the Great Beast is slain, then the Orc Commander will also be slain and removed as a casualty.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GROBLOG [55 POINTS]
@@ -958,6 +972,7 @@ This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Gro
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KARDUSH THE FIRECALLER [65 POINTS]
@@ -997,6 +1012,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHANDISH CHIEFTAIN [55 POINTS]
@@ -1089,6 +1105,7 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD CAPTAIN [45 POINTS]
@@ -1155,6 +1172,7 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### VRASKU [70 POINTS]
@@ -1214,6 +1232,7 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD SHAMAN [50 POINTS]
@@ -1309,6 +1328,7 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ABRAKHAN MERCHANT GUARD [9 POINTS]
@@ -1380,6 +1400,7 @@ If this model starts its Activation more than 6" away from a friendly Corsair Bo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING HORSEMAN [12 POINTS]
@@ -1406,6 +1427,7 @@ Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a na
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING HUSCARL [11 POINTS]
@@ -1437,6 +1459,7 @@ If this model is Supporting a Combat, and is within 3" of a friendly Dunland Her
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING WARRIOR [7 POINTS]
@@ -1492,6 +1515,7 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FERAL URUK-HAI [13 POINTS]
@@ -1518,6 +1542,7 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALF TROLL [25 POINTS]
@@ -1577,6 +1602,7 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHANDISH HORSEMAN [14 POINTS]
@@ -1737,6 +1763,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD WARRIOR [8 POINTS]
@@ -1794,8 +1821,6 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 ### WARG MARAUDER [35 POINTS]
 
 *WARRIOR*
-
-
 **Moria Goblin Warrior**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1818,8 +1843,7 @@ During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an Orc
 
 - **Lethal Union** `ACTIVE`
 
-Whilst the Goblins remain mounted upon the [Warg], the entire model gains the Terror special rule and gains a bonus of +1 to any Courage Tests it is required to take. Additionally, during a Combat a [Warg] Marauder gains an additional Attack for each Goblin after the first that is still mounted upon the [Warg], provided they did not shoot during the Shoot Phase.
-
+Whilst the Goblins remain mounted upon the [Warg], the entire model gains the [Terror] special rule and gains a bonus of +1 to any Courage Tests it is required to take. Additionally, during a Combat a [Warg] Marauder gains an additional Attack for each Goblin after the first that is still mounted upon the [Warg], provided they did not shoot during the Shoot Phase.
 
 ---
 
@@ -1832,6 +1856,7 @@ Whilst the Goblins remain mounted upon the [Warg], the entire model gains the Te
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WATCHER OF KARNA [9 POINTS]

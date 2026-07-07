@@ -39,7 +39,7 @@ This army may include: Prince Imrahil; Angbor the Fearless; Duinhir; Forlong the
 
 - **The Lineage of Numenor** `ACTIVE`
 
-Imrahil's Stand Fast! Is 12" rather than 6".
+Imrahil's [Stand Fast!] Is 12" rather than 6".
 
 - ***Dol Amroth for Gondor!** `PASSIVE`
 
@@ -48,6 +48,7 @@ Friendly Fiefdom models within 12" of Imrahil count as being in range of a [bann
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANGBOR THE FEARLESS [65 POINTS]
@@ -81,6 +82,7 @@ Clansmen of Lamedon within 6" of Angbor gain the [Fearless] special rule.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUINHIR [60 POINTS]
@@ -117,6 +119,7 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FORLONG THE FAT [80 POINTS]
@@ -150,6 +153,7 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
@@ -186,6 +190,7 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 ---
 
 ## WARRIORS OF THE FIEFDOMS
+
 <div class="unitCard" markdown>
 
 ### AXEMAN OF LOSSARNACH [9 POINTS]
@@ -215,6 +220,7 @@ This weapon can be used as either a [spear][Spear] or [two-handed][Two-Handed] [
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
@@ -248,6 +254,7 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CLANSMAN OF LAMEDON [8 POINTS]
@@ -274,11 +281,12 @@ Two handed [sword][Sword], and if they roll a natural 6 in the Duel roll, this m
 
 - **The Honour of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of a [banner][Banner].
+Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range of a [banner][Banner].
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
@@ -311,6 +319,7 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MAN-AT-ARMS OF DOL AMROTH [9 POINTS]

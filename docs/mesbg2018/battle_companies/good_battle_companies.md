@@ -20,25 +20,25 @@ This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
 **REINFORCEMENTS**
 
-| D6 | Result                                  |
+| D6 | Result |
 |----|-----------------------------------------|
-| 1  | Nothing                                 |
-| 2  | Warrior of Minas Tirith with shield     |
-| 3  | Warrior of Minas Tirith with spear & shield |
-| 4  | Warrior of Minas Tirith with bow        |
-| 5  | Warrior of Minas Tirith with choice of weapon |
-| 6  | Roll on Special chart                   |
+| 1 | Nothing |
+| 2 | Warrior of Minas Tirith with shield |
+| 3 | Warrior of Minas Tirith with spear & shield |
+| 4 | Warrior of Minas Tirith with bow |
+| 5 | Warrior of Minas Tirith with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                                  |
+| D6 | Result |
 |----|-----------------------------------------|
-| 1  | Ranger of Gondor                        |
-| 2  | Citadel Guard with spear                |
-| 3  | Citadel Guard with longbow              |
-| 4  | Guard of the Fountain Court (Rare 4)    |
-| 5  | Knight of Minas Tirith with shield      |
-| 6  | Choice of any                           |
+| 1 | Ranger of Gondor |
+| 2 | Citadel Guard with spear |
+| 3 | Citadel Guard with longbow |
+| 4 | Guard of the Fountain Court (Rare 4) |
+| 5 | Knight of Minas Tirith with shield |
+| 6 | Choice of any |
 
 ---
 
@@ -64,21 +64,21 @@ This model is never slowed by difficult terrain.
 
 **REINFORCEMENTS**
 
-| D6 | Result                                      |
+| D6 | Result |
 |----|---------------------------------------------|
-| 1  | Nothing                                     |
-| 2  | Warrior of Minas Tirith with shield         |
-| 3  | Warrior of Minas Tirith with spear & shield |
-| 4  | Warrior of Minas Tirith with bow            |
-| 5  | Ranger of Gondor                            |
-| 6  | Roll on Special chart                       |
+| 1 | Nothing |
+| 2 | Warrior of Minas Tirith with shield |
+| 3 | Warrior of Minas Tirith with spear & shield |
+| 4 | Warrior of Minas Tirith with bow |
+| 5 | Ranger of Gondor |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                                 |
+| D6 | Result |
 |----|----------------------------------------|
 | 1-4| Osgiliath Veteran with choice of weapon|
-| 5-6| Knight of Minas Tirith with shield     |
+| 5-6| Knight of Minas Tirith with shield |
 
 Osgiliath Veterans in this Battle Company treat the company's leader in the same way as Boromir and Faramir, according to their "Loyal to the Captains" special rule.
 
@@ -105,14 +105,14 @@ This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 
 **REINFORCEMENTS**
 
-| D6 | Result                    |
+| D6 | Result |
 |----|---------------------------|
-| 1  | Nothing                   |
-| 2  | Blackroot Vale Archer     |
-| 3  | Man-at-arms of Dol Amroth |
-| 4  | Clansman of Lamedon       |
-| 5  | Axeman of Lossarnach      |
-| 6  | Knight of Dol Amroth      |
+| 1 | Nothing |
+| 2 | Blackroot Vale Archer |
+| 3 | Man-at-arms of Dol Amroth |
+| 4 | Clansman of Lamedon |
+| 5 | Axeman of Lossarnach |
+| 6 | Knight of Dol Amroth |
 
 ---
 
@@ -141,25 +141,25 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 **REINFORCEMENTS**
 
-| D6 | Result                                     |
+| D6 | Result |
 |----|--------------------------------------------|
-| 1  | Nothing                                    |
-| 2  | Warrior of Rohan with shield               |
-| 3  | Warrior of Rohan with throwing spear & shield |
-| 4  | Warrior of Rohan with bow                  |
-| 5  | Warrior of Rohan with choice of weapon     |
-| 6  | Roll on Special chart                      |
+| 1 | Nothing |
+| 2 | Warrior of Rohan with shield |
+| 3 | Warrior of Rohan with throwing spear & shield |
+| 4 | Warrior of Rohan with bow |
+| 5 | Warrior of Rohan with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                                     |
+| D6 | Result |
 |----|--------------------------------------------|
-| 1  | Rohan Outrider                             |
-| 2  | Rohan Royal Guard                          |
-| 3  | Rider of Rohan with choice of weapon       |
-| 4  | Rohan Royal Guard on horse                 |
-| 5  | Son of Eorl                                |
-| 6  | Choice of any                              |
+| 1 | Rohan Outrider |
+| 2 | Rohan Royal Guard |
+| 3 | Rider of Rohan with choice of weapon |
+| 4 | Rohan Royal Guard on horse |
+| 5 | Son of Eorl |
+| 6 | Choice of any |
 
 ---
 
@@ -188,14 +188,14 @@ Whilst mounted, this model gains a bonus of +1 Strength on a turn in which it Ch
 
 **REINFORCEMENTS**
 
-| D6 | Result                                     |
+| D6 | Result |
 |----|--------------------------------------------|
-| 1  | Nothing                                    |
-| 2  | Warrior of Rohan with choice of weapon     |
-| 3  | Warrior of Minas Tirith with choice of weapon |
-| 4  | Man-at-arms of Dol Amroth                  |
-| 5  | Knight of Dol Amroth                        |
-| 6  | Choice of any                              |
+| 1 | Nothing |
+| 2 | Warrior of Rohan with choice of weapon |
+| 3 | Warrior of Minas Tirith with choice of weapon |
+| 4 | Man-at-arms of Dol Amroth |
+| 5 | Knight of Dol Amroth |
+| 6 | Choice of any |
 
 ---
 
@@ -218,14 +218,14 @@ Spectral Steed (5/10) - 3 Influence Points
 
 **REINFORCEMENTS**
 
-| D6 | Result                           |
+| D6 | Result |
 |----|----------------------------------|
-| 1  | Nothing                          |
-| 2  | Warrior of the Dead              |
-| 3  | Warrior of the Dead with shield  |
-| 4  | Warrior of the Dead with spear   |
-| 5  | Warrior of the Dead with spear & shield |
-| 6  | Rider of the Dead                |
+| 1 | Nothing |
+| 2 | Warrior of the Dead |
+| 3 | Warrior of the Dead with shield |
+| 4 | Warrior of the Dead with spear |
+| 5 | Warrior of the Dead with spear & shield |
+| 6 | Rider of the Dead |
 
 ---
 
@@ -250,14 +250,14 @@ Hobbit Archers in this Battle Company do not count towards the total number of b
 
 **REINFORCEMENTS**
 
-| D6 | Result                        |
+| D6 | Result |
 |----|-------------------------------|
-| 1  | Nothing                       |
-| 2  | Hobbit Archer                 |
-| 3  | Ranger of Arnor               |
-| 4  | Ranger of Arnor with spear    |
-| 5  | Warrior of Arnor              |
-| 6  | Warrior of Arnor              |
+| 1 | Nothing |
+| 2 | Hobbit Archer |
+| 3 | Ranger of Arnor |
+| 4 | Ranger of Arnor with spear |
+| 5 | Warrior of Arnor |
+| 6 | Warrior of Arnor |
 
 ---
 
@@ -280,14 +280,14 @@ This model gains the Woodland Creature special rule. Additionally, whilst on foo
 
 **REINFORCEMENTS**
 
-| D6 | Result                 |
+| D6 | Result |
 |----|------------------------|
-| 1  | Nothing                |
-| 2  | Dúnedain               |
-| 3  | Dúnedain with spear    |
-| 4  | Ranger of the North    |
-| 5  | Ranger of the North with spear |
-| 6  | Choose one of the above|
+| 1 | Nothing |
+| 2 | Dúnedain |
+| 3 | Dúnedain with spear |
+| 4 | Ranger of the North |
+| 5 | Ranger of the North with spear |
+| 6 | Choose one of the above|
 
 ---
 
@@ -314,14 +314,14 @@ Only Lake-town Guard may be selected as Hero models when you start your Battle C
 
 **REINFORCEMENTS**
 
-| D6 | Result                                |
+| D6 | Result |
 |----|---------------------------------------|
-| 1  | Nothing                               |
-| 2  | Lake-town Militia with shield         |
-| 3  | Lake-town Militia with spear          |
-| 4  | Lake-town Militia with bow            |
-| 5  | Lake-town Guard with choice of weapon |
-| 6  | 2x Lake-town Guard with choice of weapon |
+| 1 | Nothing |
+| 2 | Lake-town Militia with shield |
+| 3 | Lake-town Militia with spear |
+| 4 | Lake-town Militia with bow |
+| 5 | Lake-town Guard with choice of weapon |
+| 6 | 2x Lake-town Guard with choice of weapon |
 
 ---
 
@@ -343,14 +343,14 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **REINFORCEMENTS**
 
-| D6 | Result                                      |
+| D6 | Result |
 |----|---------------------------------------------|
-| 1  | Nothing                                     |
-| 2  | Warrior of Númenor with shield              |
-| 3  | Warrior of Númenor with spear & shield      |
-| 4  | Warrior of Númenor with bow                 |
-| 5  | High Elf Warrior                            |
-| 6  | High Elf Warrior with choice of weapon      |
+| 1 | Nothing |
+| 2 | Warrior of Númenor with shield |
+| 3 | Warrior of Númenor with spear & shield |
+| 4 | Warrior of Númenor with bow |
+| 5 | High Elf Warrior |
+| 6 | High Elf Warrior with choice of weapon |
 
 ---
 
@@ -375,19 +375,19 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **REINFORCEMENTS**
 
-| D6 | Result                                    |
+| D6 | Result |
 |----|-------------------------------------------|
-| 1  | Nothing                                   |
-| 2-3| Warrior of Dale with choice of weapon     |
-| 4-5| Warrior of Erebor with choice of weapon   |
-| 6  | Roll on Special chart                     |
+| 1 | Nothing |
+| 2-3| Warrior of Dale with choice of weapon |
+| 4-5| Warrior of Erebor with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6  | Result             |
+| D6 | Result |
 |-----|--------------------|
-| 1-3 | Grim Hammer        |
-| 4-6 | Knight of Dale     |
+| 1-3 | Grim Hammer |
+| 4-6 | Knight of Dale |
 
 ---
 
@@ -417,22 +417,22 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 **REINFORCEMENTS**
 
-| D6 | Result                                  |
+| D6 | Result |
 |----|-----------------------------------------|
-| 1  | Nothing                                 |
-| 2  | Wood Elf Warrior                        |
-| 3  | Wood Elf Warrior with choice of weapon  |
-| 4  | Galadhrim Warrior                       |
-| 5  | Galadhrim Warrior with choice of weapon |
-| 6  | Roll on Special chart                   |
+| 1 | Nothing |
+| 2 | Wood Elf Warrior |
+| 3 | Wood Elf Warrior with choice of weapon |
+| 4 | Galadhrim Warrior |
+| 5 | Galadhrim Warrior with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                           |
+| D6 | Result |
 |----|----------------------------------|
 | 1-2| Galadhrim Knight with choice of weapon |
-| 3-4| Guard of the Galadhrim Court     |
-| 5-6| Wood Elf Sentinel                |
+| 3-4| Guard of the Galadhrim Court |
+| 5-6| Wood Elf Sentinel |
 
 ---
 
@@ -452,14 +452,14 @@ This hero does not suffer the -1 penalty to their Duel rolls for using their Elv
 
 **REINFORCEMENTS**
 
-| D6 | Result                                   |
+| D6 | Result |
 |----|------------------------------------------|
-| 1  | Nothing                                  |
-| 2  | High Elf Warrior                         |
-| 3  | High Elf Warrior with spear & shield     |
-| 4  | High Elf Warrior with Elf bow            |
-| 5  | High Elf Warrior with choice of weapon   |
-| 6  | Rivendell Knight                         |
+| 1 | Nothing |
+| 2 | High Elf Warrior |
+| 3 | High Elf Warrior with spear & shield |
+| 4 | High Elf Warrior with Elf bow |
+| 5 | High Elf Warrior with choice of weapon |
+| 6 | Rivendell Knight |
 
 ---
 
@@ -490,22 +490,22 @@ This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 
 **REINFORCEMENTS**
 
-| D6 | Result                           |
+| D6 | Result |
 |----|----------------------------------|
-| 1  | Nothing                          |
-| 2  | Mirkwood Elf with shield         |
-| 3  | Mirkwood Elf with Elven-made glaive |
-| 4  | Mirkwood Elf with Elf bow        |
-| 5  | Mirkwood Elf with choice of weapon |
-| 6  | Roll on Special chart            |
+| 1 | Nothing |
+| 2 | Mirkwood Elf with shield |
+| 3 | Mirkwood Elf with Elven-made glaive |
+| 4 | Mirkwood Elf with Elf bow |
+| 5 | Mirkwood Elf with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                           |
+| D6 | Result |
 |----|----------------------------------|
 | 1-2| Palace Guard with choice of weapon |
-| 3-4| Mirkwood Ranger                  |
-| 5-6| Mirkwood Cavalry                 |
+| 3-4| Mirkwood Ranger |
+| 5-6| Mirkwood Cavalry |
 
 ---
 
@@ -525,21 +525,21 @@ This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 **UNIQUE WARGEAR**
 
-| Item      | Rating/Max | Cost           |
+| Item | Rating/Max | Cost |
 |-----------|------------|----------------|
-| War Goat  | 6/10       | 2 Influence Points |
-| Mattock   | 1/5        | 1 Influence Point  |
+| War Goat | 6/10 | 2 Influence Points |
+| Mattock | 1/5 | 1 Influence Point |
 
 **REINFORCEMENTS**
 
-| D6 | Result                                  |
+| D6 | Result |
 |----|-----------------------------------------|
-| 1  | Nothing                                 |
-| 2  | Iron Hills Dwarf with Mattock           |
-| 3  | Iron Hills Dwarf with Crossbow          |
-| 4  | Iron Hills Dwarf with spear & shield    |
-| 5  | Iron Hills Dwarf with choice of weapon  |
-| 6  | Iron Hills Goat Rider                   |
+| 1 | Nothing |
+| 2 | Iron Hills Dwarf with Mattock |
+| 3 | Iron Hills Dwarf with Crossbow |
+| 4 | Iron Hills Dwarf with spear & shield |
+| 5 | Iron Hills Dwarf with choice of weapon |
+| 6 | Iron Hills Goat Rider |
 
 ---
 
@@ -566,22 +566,22 @@ This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 **REINFORCEMENTS**
 
-| D6 | Result                                      |
+| D6 | Result |
 |----|---------------------------------------------|
-| 1  | Nothing                                     |
-| 2  | Dwarf Warrior with shield                   |
-| 3  | Dwarf Warrior with two-handed axe           |
-| 4  | Dwarf Warrior with Dwarf bow                |
-| 5  | Dwarf Warrior with choice of weapon         |
-| 6  | Roll on Special chart                       |
+| 1 | Nothing |
+| 2 | Dwarf Warrior with shield |
+| 3 | Dwarf Warrior with two-handed axe |
+| 4 | Dwarf Warrior with Dwarf bow |
+| 5 | Dwarf Warrior with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                                      |
+| D6 | Result |
 |----|---------------------------------------------|
-| 1-2| Iron Guard                                  |
-| 3-4| Khazâd Guard                                |
-| 5-6| Vault Warden Team                           |
+| 1-2| Iron Guard |
+| 3-4| Khazâd Guard |
+| 5-6| Vault Warden Team |
 
 ---
 
@@ -613,22 +613,22 @@ This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 **REINFORCEMENTS**
 
-| D6 | Result                                      |
+| D6 | Result |
 |----|---------------------------------------------|
-| 1  | Nothing                                     |
-| 2  | Dwarf Warrior with shield                   |
-| 3  | Dwarf Warrior with choice of weapon         |
-| 4  | Dwarf Ranger with Dwarf longbow             |
-| 5  | Dwarf Ranger with choice of weapon          |
-| 6  | Roll on Special chart                       |
+| 1 | Nothing |
+| 2 | Dwarf Warrior with shield |
+| 3 | Dwarf Warrior with choice of weapon |
+| 4 | Dwarf Ranger with Dwarf longbow |
+| 5 | Dwarf Ranger with choice of weapon |
+| 6 | Roll on Special chart |
 
 **SPECIAL**
 
-| D6 | Result                        |
+| D6 | Result |
 |----|-------------------------------|
-| 1-3| Iron Guard                    |
-| 4-5| Khazâd Guard                  |
-| 6  | Vault Warden Team (Rare 1)    |
+| 1-3| Iron Guard |
+| 4-5| Khazâd Guard |
+| 6 | Vault Warden Team (Rare 1) |
 
 ---
 
@@ -656,14 +656,14 @@ A Shire Battle Company may have up to 25 models rather than 15.
 
 **REINFORCEMENTS**
 
-| D6 | Result                |
+| D6 | Result |
 |----|-----------------------|
-| 1  | Nothing               |
-| 2  | Hobbit Militia        |
-| 3  | Hobbit Archer         |
-| 4  | Hobbit Shirriff       |
-| 5  | 2x Hobbit Militia     |
-| 6  | Choose any 2 Hobbits  |
+| 1 | Nothing |
+| 2 | Hobbit Militia |
+| 3 | Hobbit Archer |
+| 4 | Hobbit Shirriff |
+| 5 | 2x Hobbit Militia |
+| 6 | Choose any 2 Hobbits |
 
 ---
 
@@ -686,13 +686,13 @@ A Wanderers in the Wild Battle Company may have up to 50% of their models armed 
 
 **REINFORCEMENTS**
 
-| D6 | Result                                         |
+| D6 | Result |
 |----|------------------------------------------------|
-| 1  | Nothing                                        |
-| 2  | Ranger of Gondor with choice of weapon         |
-| 3  | Dwarf Ranger with choice of weapon             |
-| 4  | Wood Elf with choice of weapon                 |
-| 5  | Choose one of the above                        |
-| 6  | Wood Elf Sentinel (Rare 1)                     |
+| 1 | Nothing |
+| 2 | Ranger of Gondor with choice of weapon |
+| 3 | Dwarf Ranger with choice of weapon |
+| 4 | Wood Elf with choice of weapon |
+| 5 | Choose one of the above |
+| 6 | Wood Elf Sentinel (Rare 1) |
 
 If the company's Hobbit Militia has been slain, you may swap any result on the Reinforcements chart for a Hobbit Militia. The company may only ever have one Hobbit Militia at a time.

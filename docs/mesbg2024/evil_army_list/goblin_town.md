@@ -21,7 +21,7 @@
 **WARRIORS**
 
 - **Goblin Warrior**: 5 points
-  - Two-handed weapon: 1 point
+    - Two-handed weapon: 1 point
 
 </div>
 
@@ -33,7 +33,7 @@
 
 **"I Feel A Song Coming On"** - During the Priority Phase, after Priority has been determined, the Goblin King may choose to sing one of his songs. If he does, choose one of the songs below and apply its effects until the end of the turn. The Goblin King may not sing the same song as he sung the previous turn.
 
-"Batter and beat, make them stammer and squeak!" - Other friendly Goblin models treat the Goblin King as a banner with a range of 6.
+"Batter and beat, make them stammer and squeak!" - Other friendly Goblin models treat the Goblin King as a [banner][Banner] with a range of 6.
 
 "You can yammer and yelp but there ain't no help!" - Other friendly Goblin models within 6" of the Goblin King cause [Terror].
 

@@ -35,6 +35,7 @@ If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FRECA [80 POINTS]
@@ -70,6 +71,7 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GENERAL TARGG [80 POINTS]
@@ -106,6 +108,7 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HILL TRIBES CHIEFTAIN [40 POINTS]
@@ -171,13 +174,12 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHANK & WROT [150 POINTS]
 
 *MINOR HERO, UNIQUE, 6 WARBAND*
-
-
 **Shank**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -205,8 +207,7 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 - **Call 'the Beast'** `ACTIVE`
 
-Shank may spend a Will point at the start of his activation. If the Snow Troll is within 6" not Engaged in Combat, it must Charge if possible, gains Fearless, and may re-roll failed To Wound rolls when making Strikes, until the end of this turn.
-
+Shank may spend a Will point at the start of his activation. If the Snow Troll is within 6" not Engaged in Combat, it must Charge if possible, gains [Fearless], and may re-roll failed To Wound rolls when making Strikes, until the end of this turn.
 
 ---
 
@@ -235,7 +236,6 @@ Whenever Wrot slays an enemy model in Combat, he may roll a D6. On a 4+, he imme
 
 When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a trinket. At the end of the game, as long as of them is alive, you gain a Victory Point for each trinket found, to a maximum of 5 points. Your total Victory Points can not exceed 20.
 
-
 ---
 
 **Snow Troll**
@@ -246,7 +246,7 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 **WARGEAR**
 
-- Claws ([Hand Weapon])
+- Claws ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -258,10 +258,10 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +1 Fight value until the end of the turn.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HILL TRIBESMAN [5 POINTS]
@@ -300,6 +300,7 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ROHIRRIM TRAITOR [6 POINTS]

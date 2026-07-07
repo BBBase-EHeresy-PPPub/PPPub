@@ -7,7 +7,7 @@
 **HEROES OF VALOUR**
 
 - **Lurtz**: 100 points
-  - Shield: Free
+    - Shield: Free
 
 **HEROES OF FORTITUDE**
 
@@ -26,9 +26,9 @@
 **WARRIORS**
 
 - **Uruk-Hai Scout**: 8 points
-  - Banner: 25 points
-  - Shield: 1 point
-  - Uruk-hai bow: 1 point
+    - Banner: 25 points
+    - Shield: 1 point
+    - Uruk-hai bow: 1 point
 
 </div>
 

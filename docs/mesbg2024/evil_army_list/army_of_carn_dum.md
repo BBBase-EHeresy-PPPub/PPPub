@@ -17,21 +17,21 @@
 **WARRIORS**
 
 - **Angmar Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Angmar Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Hill Troll**: 75 points
 - **Orc Tracker**: 6 points
 - **Warrior of Carn Dum**: 9 points
-  - Banner: 25 points
-  - Spear: 1 point
+    - Banner: 25 points
+    - Spear: 1 point
 
 </div>
 

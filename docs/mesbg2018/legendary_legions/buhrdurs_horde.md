@@ -2,45 +2,27 @@
 
 <div class="unitCard" markdown>
 
-**BUHRDUR [110 points]**
-
-**ANGMAR ORC CAPTAIN [40 points]**
-
-• Warg: 10 points
-• Orc bow: 5 points
-• Shield: 5 points
-• Swap Weapon: 5 points
-
-**WILD WARG CHIEFTAIN [80 points]**
-
-**ANGMAR ORC SHAMAN [50 points]**
-
-• Warg: 10 points
-• Swap Weapon: 5 points
-
-**ANGMAR ORC WARRIOR [5 points]**
-
-• Banner: 25 points
-• Orc bow: 1 point
-• Shield: 1 point
-• Spear: 1 point
-• Two-Handed Weapon: 1 point
-• Swap Weapon: 1 point
-
-**ANGMAR WARG RIDER [11 points]**
-
-• Banner: 25 points
-• Orc bow: 1 point
-• Shield: 1 point
-• Throwing Spears: 1 point
-• Swap Weapon: 1 point
-
-**HILL TROLL [75 points]**
-
-• Swap Weapon: 1 point
-
-**WILD WARG [7 points]**
-
+- **BUHRDUR**: 110 points
+- **ANGMAR ORC CAPTAIN**: 40 points
+    - Warg: 10 points
+    - Orc bow: 5 points
+    - Shield: 5 points
+- **WILD WARG CHIEFTAIN**: 80 points
+- **ANGMAR ORC SHAMAN**: 50 points
+    - Warg: 10 points
+- **ANGMAR ORC WARRIOR**: 5 points
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-Handed Weapon: 1 point
+- **ANGMAR WARG RIDER**: 11 points
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing Spears: 1 point
+- **HILL TROLL**: 75 points
+- **WILD WARG**: 7 points
 </div>
 
 ## ADDITIONAL RULES

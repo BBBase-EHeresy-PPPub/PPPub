@@ -2,38 +2,22 @@
 
 <div class="unitCard" markdown>
 
-**ARAGORN, STRIDER [160 points]**
-
-• Elven Cloak: 5 points
-• Anduril Flame of the West - FREE: 0 points
-
-**GIMLI [100 points]**
-
-• Elven Cloak: 5 points
-
-**LEGOLAS [100 points]**
-
-• Armour: 5 points
-• Elven Cloak: 5 points
-
-**THE KING OF THE DEAD [100 points]**
-
-**HERALD OF THE DEAD [70 points]**
-
-• Swap Weapon: 5 points
-• Shield: 5 points
-
-**RIDER OF THE DEAD [24 points]**
-
-• Swap Weapon: 1 point
-
-**WARRIOR OF THE DEAD [14 points]**
-
-• Banner: 25 points
-• Shield: 1 point
-• Spear: 1 point
-• Swap Weapon: 1 point
-
+- **ARAGORN, STRIDER**: 160 points
+    - Elven Cloak: 5 points
+    - Anduril Flame of the West: Free
+- **GIMLI**: 100 points
+    - Elven Cloak: 5 points
+- **LEGOLAS**: 100 points
+    - Armour: 5 points
+    - Elven Cloak: 5 points
+- **THE KING OF THE DEAD**: 100 points
+- **HERALD OF THE DEAD**: 70 points
+    - Shield: 5 points
+- **RIDER OF THE DEAD**: 24 points
+- **WARRIOR OF THE DEAD**: 14 points
+    - Banner: 25 points
+    - Shield: 1 point
+    - Spear: 1 point
 </div>
 
 ## ADDITIONAL RULES
@@ -46,4 +30,4 @@
 
 **"The Heir of Isildur"** - Aragorn does not have to pay any points for Andúril, Flame of the West, he automatically has this upgrade - it is free.
 
-**"Fight for us and Regain Your Honor"** - Spirit models from this army list count as being in range of a banner if Aragorn is within 6".
+**"Fight for us and Regain Your Honor"** - Spirit models from this army list count as being in range of a [banner][Banner] if Aragorn is within 6".

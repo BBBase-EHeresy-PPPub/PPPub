@@ -12,20 +12,20 @@
 **MINOR HEROES**
 
 - **Uruk-Hai Shaman**: 55 points
-  - Armour: 5 points
+    - Armour: 5 points
 
 **WARRIORS**
 
 - **Isengard Troll**: 100 points
-  - Swap shield for war drum (Isengard): 25 points
-  - Spear: 5 points
+    - Swap shield for war drum (Isengard): 25 points
+    - Spear: 5 points
 - **Uruk-Hai Berserker**: 15 points
 - **Uruk-Hai Demolition Team**: 80 points
 - **Uruk-Hai Warrior**: 9 points
-  - Banner: 25 points
-  - Crossbow: 2 points
-  - Pike: 1 point
-  - Shield: 1 point
+    - Banner: 25 points
+    - Crossbow: 2 points
+    - Pike: 1 point
+    - Shield: 1 point
 
 **SIEGE ENGINES**
 
@@ -43,4 +43,4 @@
 
 **Commander of the Uruk-hai** - The Uruk-hai Captain that is your General increases its Attacks and Wounds to 3 each.
 
-**Break the Walls** - Friendly Isengard Assault Ballistae may re-roll To Hit and Scatter Rolls of a 1. Additionally, when a friendly Demolition Charge is detonated, you may roll two dice on the Detonation Table rather than one and pick either result.
+**Break the Walls** - Friendly Isengard Assault Ballistae may re-roll To Hit and Scatter Rolls of a 1. Additionally, when a friendly Demolition Charge is detonated, you may roll two dice on the Detonation Table rather than one and [pick][Pick] either result.

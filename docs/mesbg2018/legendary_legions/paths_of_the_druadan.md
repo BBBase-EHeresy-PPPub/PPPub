@@ -2,69 +2,41 @@
 
 <div class="unitCard" markdown>
 
-**THEODEN [90 points]**
-
-• Armoured Horse: 15 points
-• Heavy Armour: 5 points
-• Shield: 5 points
-
-**EOMER [115 points]**
-
-• Armoured Horse: 15 points
-• Shield: 5 points
-• Throwing Spears: 5 points
-
-**GHAN-BURI-GHAN [65 points]**
-
-**CAPTAIN OF ROHAN [55 points]**
-
-• Horse: 10 points
-• Bow: 5 points
-• Heavy Armour: 5 points
-• Shield: 5 points
-• Throwing Spears: 5 points
-• Swap Weapon: 5 points
-
-**DEORWINE [85 points]**
-
-• Horse: 10 points
-
-**ELFHELM [75 points]**
-
-• Horse: 10 points
-
-**GAMLING [65 points]**
-
-• Royal Standard of Rohan: 50 points
-• Horse: 10 points
-
-**DERNHELM [75 points]**
-
-• Throwing Spears: 5 points
-
-**RIDER OF ROHAN [14 points]**
-
-• War Horn: 30 points
-• Banner: 25 points
-• Throwing Spears: 2 points
-• Swap Weapon: 1 point
-
-**ROHAN OUTRIDER [13 points]**
-
-• Horse: 5 points
-• Swap Weapon: 1 point
-
-**ROHAN ROYAL GUARD [15 points]**
-
-• Banner: 25 points
-• Horse: 5 points
-• Throwing Spears: 2 points
-• Swap Weapon: 1 point
-
-**WOSES WARRIOR [9 points]**
-
-• Swap Weapon: 1 point
-
+- **THEODEN**: 90 points
+    - Armoured Horse: 15 points
+    - Heavy Armour: 5 points
+    - Shield: 5 points
+- **EOMER**: 115 points
+    - Armoured Horse: 15 points
+    - Shield: 5 points
+    - Throwing Spears: 5 points
+- **GHAN-BURI-GHAN**: 65 points
+- **CAPTAIN OF ROHAN**: 55 points
+    - Horse: 10 points
+    - Bow: 5 points
+    - Heavy Armour: 5 points
+    - Shield: 5 points
+    - Throwing Spears: 5 points
+- **DEORWINE**: 85 points
+    - Horse: 10 points
+- **ELFHELM**: 75 points
+    - Horse: 10 points
+- **GAMLING**: 65 points
+    - Royal Standard of Rohan: 50 points
+    - Horse: 10 points
+- **DERNHELM**: 75 points
+    - Throwing Spears: 5 points
+- **RIDER OF ROHAN**: 14 points
+    - War Horn: 30 points
+    - Banner: 25 points
+    - Throwing Spears: 2 points
+- **ROHAN OUTRIDER**: 13 points
+    - Horse: 5 points
+- **ROHAN ROYAL GUARD**: 15 points
+    - Banner: 25 points
+    - Horse: 5 points
+    - Throwing Spears: 2 points
+- **WOSES WARRIOR**: 9 points
 </div>
 
 ## ADDITIONAL RULES

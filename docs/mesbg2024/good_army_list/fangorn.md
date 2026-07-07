@@ -7,9 +7,9 @@
 **HEROES OF LEGEND**
 
 - **Treebeard**: 190 points
-  - Merry & Pippin: 10 points
-  - Elven Cloak (Merry): 5 points
-  - Elven Cloak (Pippin): 5 points
+    - Merry & Pippin: 10 points
+    - Elven Cloak (Merry): 5 points
+    - Elven Cloak (Pippin): 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -19,10 +19,10 @@
 **WARRIORS**
 
 - **Ent**: 100 points
-  - Beech: Free
-  - Oak: Free
-  - Chestnut: Free
-  - Ash: Free
+    - Beech: Free
+    - Oak: Free
+    - Chestnut: Free
+    - Ash: Free
 
 </div>
 
@@ -34,7 +34,7 @@
 
 **"Don't be Hasty"** - Friendly Ent models are completely unaffected by any Magical Powers that would attempt to Move them, or prevent them from Activating or Moving.
 
-**One with the Forest** - Friendly Ent models are completely unaffected by the Call Winds, Nature's Wrath, Wrath of Bruinen and Writhing Vines Magical Powers.
+**One with the Forest** - Friendly Ent models are completely unaffected by the [Call Winds], [Nature's Wrath], [Wrath of Bruinen] and [Writhing Vines] Magical Powers.
 
 **"Beech. Oak. Chestnut. Ash. Many have come"** - Whenever you include an Ent Warrior in your Army, you may assign one of the four types of Ent to it, as listed below. You must split the types of Ent as evenly as possible. So, if you want to have a second of one type of Ent, you must first have one of each of the types. If you want to have a third of one type of Ent, you must first have two of each of the types, and so on.
 

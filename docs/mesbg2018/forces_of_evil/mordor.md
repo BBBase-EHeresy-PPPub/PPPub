@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; The Betrayer; The Dark Marshall; The Dwimmerlaik; The Knight of Umbar; The Shadow Lord; The Tainted; The Undying; Black Numenorean Marshall; Captain of the Black Guard; Gorbag; Goroth; Gothmog's Enforcer; Great Beast of Gorgoroth; Grishnak; Guritz; Kardush; Morannon Orc Captain; Mordor Troll Chieftain; Mordor Uruk-Hai Captain; Muzgur; Orc Captain; Orc Taskmaster; Ringwraith; Shagrat; Zagdush; Orc Shaman; Black Guard Drummer; Orc Drummer; Shelob; Bat Swarm; Black Guard of Barad-Dur; Black Numenorean; [Fell Warg]; Giant Spider; Mirkwood Spider; Morannon Orc; Mordor Troll; Mordor Uruk-Hai; Morgul Knight; Morgul Stalker; Orc Tracker; Orc Warrior; [Warg] Rider; Mordor Siege [Bow]; Mordor War Catapult.
+This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; The Betrayer; The Dark Marshall; The Dwimmerlaik; The Knight of Umbar; The Shadow Lord; The Tainted; The Undying; Black Numenorean Marshall; Captain of the Black Guard; Gorbag; Goroth; Gothmog's Enforcer; Great Beast of Gorgoroth; Grishnak; Guritz; Kardush; Morannon Orc Captain; Mordor Troll Chieftain; Mordor Uruk-Hai Captain; Muzgur; Orc Captain; Orc Taskmaster; Ringwraith; Shagrat; Zagdush; Orc Shaman; Black Guard Drummer; Orc Drummer; Shelob; Bat Swarm; Black Guard of Barad-Dur; Black Numenorean; Fell Warg; Giant Spider; Mirkwood Spider; Morannon Orc; Mordor Troll; Mordor Uruk-Hai; Morgul Knight; Morgul Stalker; Orc Tracker; Orc Warrior; Warg Rider; Mordor Siege Bow; Mordor War Catapult.
 
 ## ARMY BONUS
 
@@ -49,7 +49,7 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- Two-Handed [Flail] - 5 points
+- [Two-Handed] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -71,6 +71,7 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOTHMOG [130 POINTS]
@@ -111,6 +112,7 @@ Gothmog and all friendly Mordor Orc models within 3" gain the [Hatred] (Man) spe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHAMUL [120 POINTS]
@@ -162,6 +164,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MOUTH OF SAURON [70 POINTS]
@@ -174,7 +177,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand-and-a-half [Sword].
+- [Hand-and-a-half][Hand-And-A-Half] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -241,6 +244,7 @@ Razgush's warband may only include Orc Warriors, [Warg] Riders, Bat Swarms, Mirk
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [120 POINTS]
@@ -290,6 +294,7 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DARK MARSHALL [120 POINTS]
@@ -339,6 +344,7 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [120 POINTS]
@@ -351,7 +357,7 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Sword]
+- [Two-handed][Two-Handed] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -388,6 +394,7 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE KNIGHT OF UMBAR [120 POINTS]
@@ -440,6 +447,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SHADOW LORD [120 POINTS]
@@ -488,6 +496,7 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE TAINTED [120 POINTS]
@@ -532,7 +541,7 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 
 - **Miasmatic Presence** `PASSIVE`
 
-At the start of the Move phase, spend 1 point of Will to negate the effects of Stand Fast! or Heroic Actions for all Warrior models within 6".
+At the start of the Move phase, spend 1 point of Will to negate the effects of [Stand Fast!] or Heroic Actions for all Warrior models within 6".
 
 - **Seeping Decay** `PASSIVE`
 
@@ -541,6 +550,7 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE UNDYING [120 POINTS]
@@ -593,6 +603,7 @@ The Undying may spend Will points for Fate rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
@@ -659,6 +670,7 @@ While at least one friendly Ringwraith model is on the battlefield, the Black Gu
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GORBAG [55 POINTS]
@@ -691,6 +703,7 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOROTH [80 POINTS]
@@ -703,7 +716,7 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -720,6 +733,7 @@ If Goroth suffers a Wound that would slay him (after all Fate points are spent),
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOTHMOG'S ENFORCER [60 POINTS]
@@ -747,6 +761,7 @@ If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog ma
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GREAT BEAST OF GORGOROTH [150 POINTS]
@@ -766,11 +781,12 @@ When the Great Beast Tramples, it will inflict two S6 hits.
 
 - **Battle Platform** `PASSIVE`
 
-Models within the Howdah do not count towards your [Bow] Limit.
+Models within the Howdah do not count towards your Bow Limit.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GRISHNAK [50 POINTS]
@@ -813,7 +829,7 @@ Models within the Howdah do not count towards your [Bow] Limit.
 **WARGEAR**
 
 - [Heavy Armour]
-- Two-handed [Pick]
+- [Two-handed][Two-Handed] [Pick]
 - [Sword]
 
 **HEROIC ACTIONS**
@@ -829,6 +845,7 @@ When rolling for Reinforcements, you may modify the roll for Guritz' warband by 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KARDUSH [60 POINTS]
@@ -867,6 +884,7 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORANNON ORC CAPTAIN [50 POINTS]
@@ -993,6 +1011,7 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORC CAPTAIN [40 POINTS]
@@ -1054,6 +1073,7 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [55 POINTS]
@@ -1107,6 +1127,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHAGRAT [100 POINTS]
@@ -1129,7 +1150,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **OPTIONS**
 
-- [Shield] Of Cirith Ungol - 10 points
+- [Shield] of Cirith Ungol - 10 points
 - [Heavy Armour] - 5 points
 
 **SPECIAL RULES**
@@ -1143,6 +1164,7 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ZAGDUSH [60 POINTS]
@@ -1171,6 +1193,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORC SHAMAN [50 POINTS]
@@ -1279,13 +1302,14 @@ Shelob may never be taken as part of another model's warband.
 
 - **Caught in a Web** `BRUTAL POWER ATTACK`
 
-Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the Paralyse magical power.
+Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the [Paralyse] magical power.
 
 </div>
 
 ---
 
 ## WARRIORS OF MORDOR
+
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
@@ -1310,6 +1334,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK GUARD OF BARAD-DUR [12 POINTS]
@@ -1428,11 +1453,12 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 - **Spider Webs** `ACTIVE`
 
-A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
+A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORANNON ORC [7 POINTS]
@@ -1470,7 +1496,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Hammer]
+- [Hand-and-a-half][Hand-And-A-Half] [Hammer]
 
 **OPTIONS**
 
@@ -1505,7 +1531,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- Two-Handed [Mace] - 1 point
+- [Two-Handed] [Mace] - 1 point
 - Swap Weapon - 1 point
 
 </div>

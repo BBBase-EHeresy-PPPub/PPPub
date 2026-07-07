@@ -22,19 +22,19 @@
 - **Gimli**: 100 points
 - **Gloin the Dwarf, Champion of Erebor**: 100 points
 - **Iron Hills Captain**: 80 points
-  - Exchange shield and spear for Mattock: Free
+    - Exchange shield and spear for Mattock: Free
 - **Nori the Dwarf, Champion of Erebor**: 75 points
 
 **WARRIORS**
 
 - **Iron Hills Goat Rider**: 20 points
-  - Exchange war spear for Mattock: Free
+    - Exchange war spear for Mattock: Free
 - **Iron Hills Warrior**: 10 points
-  - Banner and shield: 26 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Crossbow: 2 points
-  - Mattock: 1 point
+    - Banner and shield: 26 points
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Crossbow: 2 points
+    - Mattock: 1 point
 
 </div>
 

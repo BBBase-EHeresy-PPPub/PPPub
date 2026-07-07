@@ -24,20 +24,20 @@
 **WARRIORS**
 
 - **Erebor Dwarf Warrior**: 9 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Spear: 1 point
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Spear: 1 point
 - **Grim Hammer Warrior**: 11 points
-  - Upgrade to Guardians of the King: 1 point
+    - Upgrade to Guardians of the King: 1 point
 
 </div>
 
 ## ADDITIONAL RULES
 
-- An Army of Thror Army may have up to 50% of its Warrior models armed with throwing weapons rather than the usual 33%.
+- An Army of Thror Army may have up to 50% of its Warrior models armed with [throwing weapons][Throwing Weapons] rather than the usual 33%.
 
 ## SPECIAL RULES
 
-**Thror ruled with utter surety** - Friendly Erebor models treat Thror as a banner with a range of 6".
+**Thror ruled with utter surety** - Friendly Erebor models treat Thror as a [banner][Banner] with a range of 6".
 
 **Erebor Treasure Hoard** - Friendly Erebor models gain a bonus of +1 To Wound when making Strikes against an enemy model that is in possession of an Objective Marker. Additionally, Friendly Erebor models that are within their deployment zone may re-roll To Wound Rolls of a natural 1 when making Strikes.

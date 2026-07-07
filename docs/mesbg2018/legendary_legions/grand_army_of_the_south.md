@@ -2,111 +2,65 @@
 
 <div class="unitCard" markdown>
 
-**SULADAN [100 points]**
-
-• Armoured Horse: 15 points
-• Bow with Poisoned Arrows: 5 points
-
-**THE MUMAK WAR LEADER [400 points]**
-
-**HARADRIM KING [60 points]**
-
-• Horse: 10 points
-• Bow with Poisoned Arrows: 5 points
-• War Spear: 5 points
-• Swap Weapon: 5 points
-
-**MAHUD KING [70 points]**
-
-• War Camel: 10 points
-• Blowpipe with Poisoned Darts: 5 points
-• Shield: 5 points
-• War Spear: 5 points
-
-**HARADRIM CHIEFTAIN [50 points]**
-
-• Horse: 10 points
-• Bow with Poisoned Arrows: 5 points
-• Swap Weapon: 5 points
-
-**HARADRIM TASKMASTER [50 points]**
-
-• Swap Weapon: 5 points
-
-**HASHARIN [80 points]**
-
-• Swap Weapon: 5 points
-
-**MAHUD TRIBESMASTER [50 points]**
-
-• War Camel: 10 points
-• Blowpipe with Poisoned Darts: 5 points
-• Shield: 5 points
-• War Spear: 5 points
-• Swap Weapon: 5 points
-
-**RAZA, FANG OF THE SERPENT [75 points]**
-
-**WAR MUMAK OF FAR HARAD [300 points]**
-
-• Gnarled Hide: 30 points
-• Rocks: 20 points
-• Sigils of Defiance: 20 points
-• Tusk Weapons: 20 points
-• Foul Temperament: 15 points
-• Rappelling Lines: 10 points
-
-**WAR MUMAK OF HARAD [275 points]**
-
-• Gnarled Hide: 30 points
-• Mahud Beastmaster Chieftain: 25 points
-• Rocks: 20 points
-• Sigils of Defiance: 20 points
-• Tusk Weapons: 20 points
-• Foul Temperament: 15 points
-• Rappelling Lines: 10 points
-
-**HALF TROLL [23 points]**
-
-• Swap Weapon: 1 point
-
-**HARADRIM RAIDER [11 points]**
-
-• Banner: 25 points
-• Bow with Poisoned Arrows: 1 point
-• War Spear: 1 point
-• Swap Weapon: 1 point
-
-**HARADRIM WARRIOR [6 points]**
-
-• War Horn: 30 points
-• Banner: 25 points
-• Bow with Poisoned Arrows: 1 point
-• Spear: 1 point
-• Swap Weapon: 1 point
-
-**MAHUD RAIDER [17 points]**
-
-• Banner: 25 points
-• Blowpipe with Poisoned Darts: 1 point
-• Spear: 1 point
-• Swap Weapon: 1 point
-
-**MAHUD WARRIOR [8 points]**
-
-• Banner: 25 points
-• Blowpipe with Poisoned Darts: 1 point
-• Spear: 1 point
-• Swap Weapon: 1 point
-
-**SERPENT GUARD [8 points]**
-
-• Swap Weapon: 1 point
-
-**SERPENT RIDER [13 points]**
-
-• Swap Weapon: 1 point
-
+- **SULADAN**: 100 points
+    - Armoured Horse: 15 points
+    - Bow with Poisoned Arrows: 5 points
+- **THE MUMAK WAR LEADER**: 400 points
+- **HARADRIM KING**: 60 points
+    - Horse: 10 points
+    - Bow with Poisoned Arrows: 5 points
+    - War Spear: 5 points
+- **MAHUD KING**: 70 points
+    - War Camel: 10 points
+    - Blowpipe with Poisoned Darts: 5 points
+    - Shield: 5 points
+    - War Spear: 5 points
+- **HARADRIM CHIEFTAIN**: 50 points
+    - Horse: 10 points
+    - Bow with Poisoned Arrows: 5 points
+- **HARADRIM TASKMASTER**: 50 points
+- **HASHARIN**: 80 points
+- **MAHUD TRIBESMASTER**: 50 points
+    - War Camel: 10 points
+    - Blowpipe with Poisoned Darts: 5 points
+    - Shield: 5 points
+    - War Spear: 5 points
+- **RAZA, FANG OF THE SERPENT**: 75 points
+- **WAR MUMAK OF FAR HARAD**: 300 points
+    - Gnarled Hide: 30 points
+    - Rocks: 20 points
+    - Sigils of Defiance: 20 points
+    - Tusk Weapons: 20 points
+    - Foul Temperament: 15 points
+    - Rappelling Lines: 10 points
+- **WAR MUMAK OF HARAD**: 275 points
+    - Gnarled Hide: 30 points
+    - Mahud Beastmaster Chieftain: 25 points
+    - Rocks: 20 points
+    - Sigils of Defiance: 20 points
+    - Tusk Weapons: 20 points
+    - Foul Temperament: 15 points
+    - Rappelling Lines: 10 points
+- **HALF TROLL**: 23 points
+- **HARADRIM RAIDER**: 11 points
+    - Banner: 25 points
+    - Bow with Poisoned Arrows: 1 point
+    - War Spear: 1 point
+- **HARADRIM WARRIOR**: 6 points
+    - War Horn: 30 points
+    - Banner: 25 points
+    - Bow with Poisoned Arrows: 1 point
+    - Spear: 1 point
+- **MAHUD RAIDER**: 17 points
+    - Banner: 25 points
+    - Blowpipe with Poisoned Darts: 1 point
+    - Spear: 1 point
+- **MAHUD WARRIOR**: 8 points
+    - Banner: 25 points
+    - Blowpipe with Poisoned Darts: 1 point
+    - Spear: 1 point
+- **SERPENT GUARD**: 8 points
+- **SERPENT RIDER**: 13 points
 </div>
 
 ## ADDITIONAL RULES

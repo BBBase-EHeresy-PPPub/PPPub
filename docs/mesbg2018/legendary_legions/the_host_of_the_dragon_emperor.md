@@ -2,69 +2,41 @@
 
 <div class="unitCard" markdown>
 
-**THE DRAGON EMPEROR [200 points]**
-
-**RUTABI [110 points]**
-
-**BRORGIR [80 points]**
-
-**EASTERLING CAPTAIN [50 points]**
-
-• Swap Glaive for Armoured Horse & Sword: 10 points
-• Bow: 5 points
-• Shield: 5 points
-• Swap Weapon: 5 points
-
-**EASTERLING WAR PRIEST [60 points]**
-
-• Armoured Horse: 15 points
-• Swap Weapon: 5 points
-
-**EASTERLING DRAGON KNIGHT [65 points]**
-
-• Armoured Horse: 15 points
-• Swap Weapon: 5 points
-
-**DRAGON CULT ACOLYTE [11 points]**
-
-• Swap Weapon: 1 point
-
-**EASTERLING KATAPHRAKT [14 points]**
-
-• Banner: 25 points
-• War Drum (Easterling): 15 points
-• Black Dragon Upgrade: 2 points
-• Swap Weapon: 1 point
-• Black Dragon Upgrade - FREE: 0 points
-
-**EASTERLING KATAPHRAKT [14 points]**
-
-• Banner: 25 points
-• War Drum (Easterling): 15 points
-• Swap Weapon: 1 point
-• Black Dragon Upgrade - FREE: 0 points
-
-**EASTERLING WARRIOR [7 points]**
-
-• Banner: 25 points
-• Black Dragon Upgrade: 2 points
-• Pike: 1 point
-• Shield: 1 point
-• Bow: 1 point
-• Swap Weapon: 1 point
-• Black Dragon Upgrade - FREE: 0 points
-
-**EASTERLING WARRIOR [7 points]**
-
-• Banner: 25 points
-• Pike: 1 point
-• Shield: 1 point
-• Bow: 1 point
-• Swap Weapon: 1 point
-• Black Dragon Upgrade - FREE: 0 points
-
-**RHUNISH WAR DRAKE [20 points]**
-
+- **THE DRAGON EMPEROR**: 200 points
+- **RUTABI**: 110 points
+- **BRORGIR**: 80 points
+- **EASTERLING CAPTAIN**: 50 points
+    - Swap Glaive for Armoured Horse & Sword: 10 points
+    - Bow: 5 points
+    - Shield: 5 points
+- **EASTERLING WAR PRIEST**: 60 points
+    - Armoured Horse: 15 points
+- **EASTERLING DRAGON KNIGHT**: 65 points
+    - Armoured Horse: 15 points
+- **DRAGON CULT ACOLYTE**: 11 points
+- **EASTERLING KATAPHRAKT**: 14 points
+    - Banner: 25 points
+    - War Drum (Easterling): 15 points
+    - Black Dragon Upgrade: 2 points
+    - Black Dragon Upgrade: Free
+- **EASTERLING KATAPHRAKT**: 14 points
+    - Banner: 25 points
+    - War Drum (Easterling): 15 points
+    - Black Dragon Upgrade: Free
+- **EASTERLING WARRIOR**: 7 points
+    - Banner: 25 points
+    - Black Dragon Upgrade: 2 points
+    - Pike: 1 point
+    - Shield: 1 point
+    - Bow: 1 point
+    - Black Dragon Upgrade: Free
+- **EASTERLING WARRIOR**: 7 points
+    - Banner: 25 points
+    - Pike: 1 point
+    - Shield: 1 point
+    - Bow: 1 point
+    - Black Dragon Upgrade: Free
+- **RHUNISH WAR DRAKE**: 20 points
 </div>
 
 ## ADDITIONAL RULES

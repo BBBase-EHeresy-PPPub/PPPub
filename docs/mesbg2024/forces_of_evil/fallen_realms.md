@@ -27,7 +27,7 @@
 
 - **Smoke Bombs** `ACTIVE`
 
-[Throwing weapons][Throwing Weapons] with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the Transfix Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
+[Throwing weapons][Throwing Weapons] with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the [Transfix] Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -36,6 +36,7 @@ Dalamyr can never be Trapped whilst still standing.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MUMAK WAR LEADER [400 POINTS]
@@ -67,15 +68,16 @@ Can be a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Imposing Presence** `PASSIVE`
 
-Whilst mounted on the Royal War Mumak, the first time each turn an enemy model declares a Heroic move within 12", roll a D6. On a 4+, the action is cancelled and the Might point is lost. Measure the 12" range from the base of the Mumak.
+Whilst mounted on the Royal War Mumak, the first time each turn an enemy model declares a [Heroic move][Heroic Move] within 12", roll a D6. On a 4+, the action is cancelled and the Might point is lost. Measure the 12" range from the base of the Mumak.
 
 - **High King of the South** `PASSIVE`
 
-The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
+The Mumak War [Leader]'s Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SULADAN, THE SERPENT LORD [120 POINTS]
@@ -115,11 +117,12 @@ The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" 
 
 - **Ascendant** `ACTIVE`
 
-Suladan's Stand Fast! is 12" rather than 6".
+Suladan's [Stand Fast!] is 12" rather than 6".
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DRAGON EMPEROR OF RHUN [200 POINTS]
@@ -152,7 +155,7 @@ Elven [spear][Spear], may use [Shielding] rule despite not having a [shield][Shi
 
 - **Emperor of the Easterlings** `ACTIVE`
 
-The Dragon Emperor's Stand Fast! has unlimited range, and affects Easterling Hero models.
+The Dragon Emperor's [Stand Fast!] has unlimited range, and affects Easterling Hero models.
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
@@ -165,6 +168,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### AMDUR, LORD OF BLADES [135 POINTS]
@@ -217,6 +221,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DELGAMAR, GATEMASTER OF UMBAR [75 POINTS]
@@ -247,6 +252,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RUTABI, GENERAL OF THE DRAGON LEGION [120 POINTS]
@@ -284,6 +290,7 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BRORGIR THE CONJURER [80 POINTS]
@@ -325,6 +332,7 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR BO'SUN [50 POINTS]
@@ -359,6 +367,7 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR CAPTAIN [55 POINTS]
@@ -456,6 +465,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EASTERLING WAR PRIEST [60 POINTS]
@@ -496,6 +506,7 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
@@ -557,6 +568,7 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Sho
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
@@ -592,6 +604,7 @@ A Hasharin can never be Trapped while still standing.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
@@ -625,11 +638,12 @@ At the start of the game, after both sides have deployed, secretly select one He
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [250 POINTS]
 
-*MINOR HERO, 6 WARBAND*
+*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -638,6 +652,16 @@ At the start of the game, after both sides have deployed, secretly select one He
 **WARGEAR**
 
 - Tusks and Huge Stomping Feet (hand Weapons)
+
+**OPTIONS**
+
+- Gnarled Hide - 25 points
+- Mahud Beastmaster Chieftain - 25 points
+- Rocks - 20 points
+- Sigils of Defiance - 20 points
+- Tusk Weapons - 20 points
+- Foul Temperament - 15 points
+- Rappelling Lines - 10 points
 
 **SPECIAL RULES**
 
@@ -652,16 +676,6 @@ When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
 - **Awesome Presence** `PASSIVE`
 
 Friendly models treat this model as a [banner][Banner] with a range of 6".
-
-
-**OPTIONS**
-
-- Rocks - 20 points
-- Sigils of Defiance - 20 points
-- Tusk Weapons - 20 points
-- Foul Temperament - 15 points
-- Rappelling Lines - 10 points
-
 
 **Howdah**
 
@@ -710,10 +724,10 @@ Friendly models treat this model as a [banner][Banner] with a range of 6".
 
 The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is placed on the forked wooden platform at the front of the Howdah.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EASTERLING DRAGON KNIGHT [70 POINTS]
@@ -761,6 +775,7 @@ May only include Black Dragon Warrior models in his warband.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK DRAGON WARRIOR [10 POINTS]
@@ -799,6 +814,7 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR CROSSBOWMAN [10 POINTS]
@@ -824,6 +840,7 @@ A [shield][Shield] that provides +3 Defence, rather than +1. However, this model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR OF UMBAR [8 POINTS]
@@ -882,6 +899,7 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EASTERLING KATAPHRAKT [15 POINTS]
@@ -921,6 +939,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARADRIM RAIDER [11 POINTS]
@@ -1045,7 +1064,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **WARGEAR**
 
-- [Armour], Claws And Teeth (hand Weapons)
+- [Armour], Claws and Teeth (hand Weapons)
 
 **SPECIAL RULES**
 
@@ -1060,6 +1079,7 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR BALLISTA [70 POINTS]
@@ -1081,8 +1101,6 @@ A model that is hit by the shot of a Ballista will be flung back D6" directly aw
 - **Bladed Bolts** `ACTIVE`
 
 A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
-
-
 
 **Corsair Siege Crew**
 

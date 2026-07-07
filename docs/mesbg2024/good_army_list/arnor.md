@@ -21,18 +21,18 @@
 **INDEPENDENT HEROES**
 
 - **Ranger of the North**: 25 points
-  - Armour: 5 points
-  - Spear: 1 point
+    - Armour: 5 points
+    - Spear: 1 point
 
 **WARRIORS**
 
 - **Knight of Arnor**: 15 points
 - **Ranger of Arnor**: 8 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Spear: 1 point
+    - Banner: 25 points
+    - War horn: 25 points
+    - Spear: 1 point
 - **Warrior of Arnor**: 8 points
-  - Swap spear and shield for banner: 25 points
+    - Swap spear and shield for banner: 25 points
 
 </div>
 

@@ -70,7 +70,7 @@ future.
 
 **Evil Victory:** In The Streets of Minas Tirith Scenario, Gandalf starts the game with only a single point of Might.]
 
-### (11)  [THE STREETS OF MINAS TIRITH](../scenarios/gondor_at_war.md#the-streets-of-minas-tirith)
+### (11) [THE STREETS OF MINAS TIRITH](../scenarios/gondor_at_war.md#the-streets-of-minas-tirith)
 
 **Good Victory:** In the Black Gate Scenario, Pippin may declare a Heroic Combat each turn without expending Might.
 
@@ -139,7 +139,7 @@ spear.
 
 ### (22) [THE DOCKS OF HARLOND](../scenarios/gondor_at_war.md#the-docks-of-harlond)
 
-**Good Victory:** In the That Still Only Counts as One!  Scenario, Legolas has 7 AP, rather than 6.
+**Good Victory:** In the That Still Only Counts as One! Scenario, Legolas has 7 AP, rather than 6.
 
 **Evil Victory:** In the Death of Gothmog Scenario, Aragorn and Gimli start the game with only a single point of Might each.
 

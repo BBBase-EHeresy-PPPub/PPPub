@@ -4,7 +4,7 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 
 ## ARMY BONUS
 
-**"Any man who wants to give their last, follow me!"** - Bard the Bowman's Stand Fast! will affect other Lake-town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
+**"Any man who wants to give their last, follow me!"** - Bard the Bowman's [Stand Fast!] will affect other Lake-town Hero models. Additionally, Bard the Bowman's Saviour of Lake-town special rule has its range increased to 12" instead of 6".
 
 ## HEROES OF SURVIVORS OF LAKE-TOWN
 
@@ -47,7 +47,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner][Banner].
+Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner][Banner].
 
 </div>
 

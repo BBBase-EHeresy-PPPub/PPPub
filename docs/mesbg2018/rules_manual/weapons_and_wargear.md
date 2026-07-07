@@ -198,18 +198,18 @@ A model with a crossbow may not fire it in the same turn that it has moved.
 
 ### MISSILE WEAPON CHART
 
-| Name  | Range | Strength |
+| Name | Range | Strength |
 |-----------------|-------|----------|
 | Blowpipe | 12" | 2 |
-| Bow  | 24" | 2 |
+| Bow | 24" | 2 |
 | Crossbow | 24" | 4 |
 | Dwarf bow | 18" | 3 |
 | Dwarf longbow | 24" | 2 |
-| Elf bow  | 24" | 3 |
+| Elf bow | 24" | 3 |
 | Esgaroth bow | 24" | 3 |
 | Great bow | 24" | 4 |
-| Longbow  | 24" | 3 |
-| Orc bow  | 18" | 2 |
+| Longbow | 24" | 3 |
+| Orc bow | 18" | 2 |
 | Short bow | 18" | 2 |
 | Slingshot | 12" | 1 |
 | Throwing spear | 8" | 3 |

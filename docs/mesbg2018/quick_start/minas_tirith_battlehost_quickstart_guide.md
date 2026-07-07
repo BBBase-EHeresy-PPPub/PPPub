@@ -26,12 +26,12 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 **MAGICAL POWERS**
 
-|  | Range | Casting |
+| | Range | Casting |
 |------------------|:-----:|:-------:|
-| Immobilise    | 12"  | 2+   |
-| Terrifying Aura | -   | 2+   |
-| Command     | 12"  | 3+   |
-| Sorcerous Blast | 12"  | 4+   |
+| Immobilise | 12" | 2+ |
+| Terrifying Aura | - | 2+ |
+| Command | 12" | 3+ |
+| Sorcerous Blast | 12" | 4+ |
 
 </div>
 

@@ -38,7 +38,7 @@ This army may include: Elendil; Isildur; Captain of Numenor; Warrior of Numenor.
 
 - **Unbending Resolve** `PASSIVE`
 
-Elendil permanently has Fortify Spirit cast upon him.
+Elendil permanently has [Fortify Spirit] cast upon him.
 
 - **Narsil** `ACTIVE`
 
@@ -46,7 +46,7 @@ A [Master-forged][Master-Forged] [hand-and-a-half][Hand-And-A-Half] [sword][Swor
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
-Elendil's Stand Fast! Is 12" rather than 6".
+Elendil's [Stand Fast!] Is 12" rather than 6".
 
 </div>
 
@@ -64,7 +64,7 @@ Elendil's Stand Fast! Is 12" rather than 6".
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand-and-a-half [Sword]
+- [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 

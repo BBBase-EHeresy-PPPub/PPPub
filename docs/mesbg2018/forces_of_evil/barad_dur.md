@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Troll Chieftain; Orc Captain; Orc Taskmaster; Ringwraith; Orc Shaman; Orc Drummer; Shelob; Black Numenorean; Mordor Troll; Morgul Knight; Orc Tracker; Orc Warrior; [Warg] Rider; Mordor Siege [Bow]; Mordor War Catapult.
+This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Troll Chieftain; Orc Captain; Orc Taskmaster; Ringwraith; Orc Shaman; Orc Drummer; Shelob; Black Numenorean; Mordor Troll; Morgul Knight; Orc Tracker; Orc Warrior; Warg Rider; Mordor Siege Bow; Mordor War Catapult.
 
 ## ARMY BONUS
 
@@ -112,7 +112,7 @@ Single strike against one model. If they survive, they are [Set Ablaze].
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- Two-Handed [Flail] - 5 points
+- [Two-Handed] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -402,7 +402,7 @@ Shelob may never be taken as part of another model's warband.
 
 - **Caught in a Web** `BRUTAL POWER ATTACK`
 
-Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the Paralyse magical power.
+Shelob can opt to direct a single strike at one model in the fight, that isn't a Monster. That model suffers one Strength 7 hit, and if wounded (and not prevented by Fate), the model is treated as being under the effect of the [Paralyse] magical power.
 
 </div>
 
@@ -451,7 +451,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Hammer]
+- [Hand-and-a-half][Hand-And-A-Half] [Hammer]
 
 **OPTIONS**
 

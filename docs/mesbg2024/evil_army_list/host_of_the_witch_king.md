@@ -7,18 +7,18 @@
 **HEROES OF LEGEND**
 
 - **The Witch-king of Angmar**: 0 points
-  - 3A / 3M / 18W / 3F: 150 points
-  - Horse: 20 points
-  - Morgul Blade: 10 points
+    - 3A / 3M / 18W / 3F: 150 points
+    - Horse: 20 points
+    - Morgul Blade: 10 points
 
 **HEROES OF VALOUR**
 
 - **Aldrac, Warlord of Carn Dum**: 120 points
 - **The Dwimmerlaik**: 130 points
-  - Horse: 20 points
+    - Horse: 20 points
 - **The Shadow of Rhudaur**: 80 points
 - **The Tainted**: 130 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
@@ -31,26 +31,26 @@
 **MINOR HEROES**
 
 - **Angmar Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 - **Barrow-wight**: 50 points
 
 **WARRIORS**
 
 - **Angmar Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Angmar Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Spectre**: 15 points
 - **Warrior of Carn Dum**: 9 points
-  - Banner: 25 points
-  - Spear: 1 point
+    - Banner: 25 points
+    - Spear: 1 point
 - **Werewolf**: 25 points
 
 </div>

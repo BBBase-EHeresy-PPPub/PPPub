@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; The Tainted; Angmar Orc Captain; Barrow-wight; Captain of Carn Dum; Fraecht; Golfimbul; Nazthak; Shade; The Shadow of Rhudaur; Wild [Warg] Chieftain; Angmar Orc Shaman; Angmar Orc Warrior; Angmar [Warg] Rider; Cave Troll; Dead Marsh Spectre; Hill Troll; Warrior of Carn Dum; Werewolf; Wild [Warg].
+This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; The Tainted; Angmar Orc Captain; Barrow-wight; Captain of Carn Dum; Fraecht; Golfimbul; Nazthak; Shade; The Shadow of Rhudaur; Wild Warg Chieftain; Angmar Orc Shaman; Angmar Orc Warrior; Angmar Warg Rider; Cave Troll; Dead Marsh Spectre; Hill Troll; Warrior of Carn Dum; Werewolf; Wild Warg.
 
 ## ARMY BONUS
 
@@ -49,7 +49,7 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- Two-Handed [Flail] - 5 points
+- [Two-Handed] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -190,7 +190,7 @@ Attack and Courage value are equal to remaining wounds.
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Sword]
+- [Two-handed][Two-Handed] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -272,7 +272,7 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 
 - **Miasmatic Presence** `PASSIVE`
 
-At the start of the Move phase, spend 1 point of Will to negate the effects of Stand Fast! or Heroic Actions for all Warrior models within 6".
+At the start of the Move phase, spend 1 point of Will to negate the effects of [Stand Fast!] or Heroic Actions for all Warrior models within 6".
 
 - **Seeping Decay** `PASSIVE`
 
@@ -412,7 +412,7 @@ If this model is in combat with an enemy hero model (but not if they are support
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Mace]
+- [Hand-and-a-half][Hand-And-A-Half] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -567,7 +567,7 @@ If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled ver
 
 - **Packlord** `ACTIVE`
 
-Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's Stand Fast! And Heroic Actions.
+Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!] And Heroic Actions.
 
 </div>
 
@@ -752,7 +752,7 @@ During its move, a spectre can choose an enemy model within 12" and in Line of S
 
 - **Pathfinders** `PASSIVE`
 
-At the start of a game, if you have any Hill Trolls in your force, you may select a piece of difficult terrain (other than a water feature). Friendly Angmar models will no longer treat it as difficult terrain. This still does not allow a model to fly out of a woods.
+At the start of a game, if you have any Hill Trolls in your force, you may select a piece of difficult terrain (other than a water feature). Friendly Angmar models will no longer treat it as difficult terrain. This still does not allow a model to [fly][Fly] out of a woods.
 
 - **Hill Troll Intelligence** `ACTIVE`
 

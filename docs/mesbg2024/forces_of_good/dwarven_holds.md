@@ -39,6 +39,7 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DURIN, KING OF KHAZAD-DUM [170 POINTS]
@@ -53,7 +54,7 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 
 - Exquisite Mithril Armour
 - The Ring of Durin
-- Durin's axe
+- Durin's Axe
 - The Crown of Kings
 - The Horn of Zirakzigil
 
@@ -91,6 +92,7 @@ For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN [130 POINTS]
@@ -133,6 +135,7 @@ If Thorin Charges into Combat with the Infantry keyword, he may declare a free [
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THROR, KING UNDER THE MOUNTAIN [130 POINTS]
@@ -171,6 +174,7 @@ Once per game, after the Priority roll has taken place, you may re-roll the Prio
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF [40 POINTS]
@@ -200,6 +204,7 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -231,6 +236,7 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, LORD OF THE IRON HILLS [160 POINTS]
@@ -277,6 +283,7 @@ If Dain wins a Duel but fails to slay every enemy in his Combat, select one enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF [95 POINTS]
@@ -314,6 +321,7 @@ Dwalin is never considered [Unarmed].
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [110 POINTS]
@@ -356,6 +364,7 @@ At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF KING [85 POINTS]
@@ -385,6 +394,7 @@ A Dwarf King will always have the Faction keyword of the most common type of Dwa
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FILI THE DWARF, CHAMPION OF EREBOR [70 POINTS]
@@ -416,6 +426,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
@@ -469,6 +480,7 @@ Gandalf may re-roll any failed Fate rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF, CHAMPION OF EREBOR [70 POINTS]
@@ -500,6 +512,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MARDIN, THE KING'S WARD [80 POINTS]
@@ -535,6 +548,7 @@ During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged i
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THORIN III STONEHELM [110 POINTS]
@@ -566,6 +580,7 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD [100 POINTS]
@@ -610,6 +625,7 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRAIN, SON OF THROR [130 POINTS]
@@ -623,7 +639,7 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Master Forged [Two-handed Weapon]
+- [Master Forged][Master-Forged] [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -645,6 +661,7 @@ If Thrain carries the Ring of Durin, once per game after the Priority roll has t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [60 POINTS]
@@ -674,6 +691,7 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [90 POINTS]
@@ -713,6 +731,7 @@ At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [110 POINTS]
@@ -749,6 +768,7 @@ Once per game at the start of his Activation, this rule may be declared. All fri
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF [45 POINTS]
@@ -784,6 +804,7 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -815,6 +836,7 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [55 POINTS]
@@ -856,6 +878,7 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bi
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF [45 POINTS]
@@ -883,11 +906,12 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bi
 
 - **Steadfast** `PASSIVE`
 
-When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. for Magical Powers, any Resist tests must be made before using this special rule.
+When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -914,11 +938,12 @@ When a friendly Thorin's Company model within 3" of Bofur is affected by an enem
 
 - **Steadfast** `ACTIVE`
 
-When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. for Magical Powers, any Resist tests must be made before using this special rule.
+When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF [45 POINTS]
@@ -952,6 +977,7 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -991,6 +1017,7 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF [55 POINTS]
@@ -1019,6 +1046,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
@@ -1050,6 +1078,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF CAPTAIN [65 POINTS]
@@ -1131,6 +1160,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF [85 POINTS]
@@ -1161,6 +1191,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF, CHAMPION OF EREBOR [100 POINTS]
@@ -1192,6 +1223,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER CAPTAIN [80 POINTS]
@@ -1223,6 +1255,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IRON HILLS CAPTAIN [80 POINTS]
@@ -1260,6 +1293,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF [50 POINTS]
@@ -1290,6 +1324,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF [55 POINTS]
@@ -1323,6 +1358,7 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
@@ -1359,6 +1395,7 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF [50 POINTS]
@@ -1395,6 +1432,7 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -1437,6 +1475,7 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF [40 POINTS]
@@ -1471,6 +1510,7 @@ If Ori scores a 6 when rolling To Hit, the target immediately suffers a single W
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF, CHAMPION OF EREBOR [50 POINTS]
@@ -1506,6 +1546,7 @@ Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
@@ -1540,6 +1581,7 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF WARRIOR [8 POINTS]
@@ -1631,6 +1673,7 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IRON GUARD [15 POINTS]
@@ -1690,6 +1733,7 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IRON HILLS GOAT RIDER [20 POINTS]
@@ -1751,6 +1795,7 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHAZAD GUARD [12 POINTS]
@@ -1784,8 +1829,6 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 ### VAULT WARDEN TEAM [25 POINTS]
 
 *WARRIOR*
-
-
 **Iron Shield Bearer**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1803,7 +1846,6 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 - **Iron Shield** `ACTIVE`
 
 A [shield][Shield] that provides +3 Defence to this model rather than the usual +1. Also, this model suffers a -1 penalty to their Duel rolls, unless they are Supported by a model with a Foe [Spear].
-
 
 ---
 
@@ -1824,10 +1866,10 @@ A [shield][Shield] that provides +3 Defence to this model rather than the usual 
 
 A [spear][Spear], if this model is Supporting a model with an Iron [Shield], they gain +1 To Wound when making Strikes against Monster models.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARVEN BALLISTA [70 POINTS]
@@ -1850,8 +1892,6 @@ A Dwarven Ballista will only Scatter 3" rather than 6".
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
 
-
-
 **Dwarf Siege Crew**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1866,6 +1906,7 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IRON HILLS BALLISTA [130 POINTS]
@@ -1890,9 +1931,7 @@ An Iron Hills Ballista will only Scatter 3" rather than 6"
 
 - **The Old Twirly Whirlies** `ACTIVE`
 
-This ballista always counts as declaring a Heroic Shoot each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
-
-
+This ballista always counts as declaring a [Heroic Shoot] each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
 
 **Iron Hills Siege Crew**
 

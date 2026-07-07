@@ -2,37 +2,25 @@
 
 <div class="unitCard" markdown>
 
-**EOMER [110 points]**
-
-• Horse: 10 points
-• Shield: 5 points
-• Throwing Spears: 5 points
-
-**GANDALF THE WHITE [240 points]**
-
-• Shadowfax: 20 points
-
-**CAPTAIN OF ROHAN [55 points]**
-
-• Horse: 10 points
-• Bow: 5 points
-• Heavy Armour: 5 points
-• Shield: 5 points
-• Throwing Spears: 5 points
-• Swap Weapon: 5 points
-
-**ERKENBRAND [85 points]**
-
-• Horse: 10 points
-
-**RIDER OF ROHAN [14 points]**
-
-• War Horn: 30 points
-• Banner: 25 points
-• Throwing Spears: 2 points
-• Westfold Redshield Upgrade: 1 point
-• Swap Weapon: 1 point
-
+- **EOMER**: 110 points
+    - Horse: 10 points
+    - Shield: 5 points
+    - Throwing Spears: 5 points
+- **GANDALF THE WHITE**: 240 points
+    - Shadowfax: 20 points
+- **CAPTAIN OF ROHAN**: 55 points
+    - Horse: 10 points
+    - Bow: 5 points
+    - Heavy Armour: 5 points
+    - Shield: 5 points
+    - Throwing Spears: 5 points
+- **ERKENBRAND**: 85 points
+    - Horse: 10 points
+- **RIDER OF ROHAN**: 14 points
+    - War Horn: 30 points
+    - Banner: 25 points
+    - Throwing Spears: 2 points
+    - Westfold Redshield Upgrade: 1 point
 </div>
 
 ## SPECIAL RULES

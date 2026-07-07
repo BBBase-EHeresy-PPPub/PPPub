@@ -229,15 +229,15 @@ cannot be bought any additional wargear or Equipment from the Armoury.
 
 ---
 
-- **LOCAL SCOUT** 4 POINTS  [*4 Influence Points*]
+- **LOCAL SCOUT** 4 POINTS [*4 Influence Points*]
 
 *Battle Companies will often hire the services of the locals of an area, for their knowledge about the lay of the land can prove extremely valuable as the Battle Company traverses Middle-earth*
 
 If a Battle Company hires a Local Scout, they will count as a **Warrior** that cannot be promoted and cannot gain Experience Points - although they will still roll on the Warrior Injury chart as normal. A Local Scout can be bought a bow at the cost of 1 Influence Point. A Local Scout has the following profile and has the **Man**, **Infantry **and **Warrior** keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  3  |  3  |  1  |  1  |  2  |
+| 6" | 3/4+ | 3 | 3 | 1 | 1 | 2 |
 
 **Wargear:** Dagger, bow (optional).
 
@@ -245,15 +245,15 @@ If a Battle Company hires a Local Scout, they will count as a **Warrior** that c
 
 ---
 
-- **MERCENARY FIGHTER** 40 POINTS   [*8 Influence Points*]
+- **MERCENARY FIGHTER** 40 POINTS [*8 Influence Points*]
 
 *Mercenaries often wander the paths of Middle-earth in search of riches and personal glory. These sellswords will pledge their services to the highest bidder, and it is not unheard of for them to side with a Battle Company - so long as the coin keeps being paid\...*
 
 A Mercenary Fighter is a **Hero** that cannot gain Experience Points, and will roll on the Hero Injury chart as normal. A Mercenary Fighter has the following profile and has the **Man**, **Infantry **and **Hero** keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/4+ |  4  |  5  |  2  |  2  |  4  |  1  |  1  |  1  |
+| 6" | 5/4+ | 4 | 5 | 2 | 2 | 4 | 1 | 1 | 1 |
 
 **Wargear:** Hand weapon (of the player's choice), armour. A Mercenary Fighter can be given a shield for +5 points, and +[*1 Influence Point*].
 
@@ -263,40 +263,40 @@ If you wish, you can change the race of your Mercenary Fighter to fit a certain 
 
 ---
 
-- **SAGE** 50 POINTS  [*9 Influence Points*]
+- **SAGE** 50 POINTS [*9 Influence Points*]
 
 *Wizards are not the only beings that have magical abilities, though rare there are others that have learned, or been taught, to harness magic in order to help those in need and provide wisdom to those they meet.*
 
 A Sage is a **Hero** that cannot gain Experience Points, and will roll on the Hero Injury chart as normal. A Sage cannot be bought additional Equipment. A Sage has the following profile and has the **Man**, **Infantry** and **Hero** keywords. Only Good Battle Companies may hire a Sage.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  3  |  3  |  1  |  2  |  6  |  1  |  3  |  1  |
+| 6" | 3/4+ | 3 | 3 | 1 | 2 | 6 | 1 | 3 | 1 |
 
 **Wargear:** Dagger & two-handed staff.
 
 The Sages in Middle-earth vary greatly in their knowledge. When you hire a Sage, roll on the chart below to discover what Magical Power they know, and what they can attempt to cast it on.
 
-| D6 | Result              |
+| D6 | Result |
 |----|---------------------|
-| 1  | Aura of Dismay (4+) |
-| 2  | Immobilise (3+)     |
-| 3  | Blinding Light (2+) |
-| 4  | Call Winds (3+)     |
-| 5  | Enchanted Blades (3+) |
-| 6  | Choose any of the above |
+| 1 | Aura of Dismay (4+) |
+| 2 | Immobilise (3+) |
+| 3 | Blinding Light (2+) |
+| 4 | Call Winds (3+) |
+| 5 | Enchanted Blades (3+) |
+| 6 | Choose any of the above |
 
 ---
 
-- **SHAMAN**  50 POINTS  [*9 Influence Points*]
+- **SHAMAN** 50 POINTS [*9 Influence Points*]
 
 *There are some creatures in the dark places of the world that have come to know malign sorceries. Quite how they gained their powers is unknown, but it is not unheard of for them to join a Battle Company as they cause destruction in the Dark Lord's name.*
 
 A Shaman is a **Hero** that cannot gain Experience Points, and will roll on the Hero Injury chart as normal. A Shaman cannot be bought additional Equipment. They have the following profile and has **Man**, **Infantry** and **Hero** keywords. Only Evil Battle Companies may hire a Shaman.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 3/4+ |  3  |  4  |  1  |  2  |  4  |  1  |  3  |  1  |
+| 6" | 3/4+ | 3 | 4 | 1 | 2 | 4 | 1 | 3 | 1 |
 
 **Wargear:** Dagger & staff.
 
@@ -304,26 +304,26 @@ You may choose to change the **Man** keyword to one of the following: **Goblin**
 
 Shamans in Middle-earth vary greatly in their knowledge. When you hire a Shaman, roll on the chart below to discover what Magical Power they know, and what they can attempt to cast it on.
 
-| D6 | Result              |
+| D6 | Result |
 |----|-------------------------|
-| 1  | Fury (X) (4+)          |
-| 2  | Transfix (3+)          |
-| 3  | Flameburst (4+)        |
-| 4  | Wither (4+)            |
-| 5  | Instill Fear (5+)      |
-| 6  | Choose any of the above |
+| 1 | Fury (X) (4+) |
+| 2 | Transfix (3+) |
+| 3 | Flameburst (4+) |
+| 4 | Wither (4+) |
+| 5 | Instill Fear (5+) |
+| 6 | Choose any of the above |
 
 ---
 
-- **VAGABOND**  3 POINTS [*3 Influence Points*]
+- **VAGABOND** 3 POINTS [*3 Influence Points*]
 
 *Not all who reside in Middle-earth are fortunate enough to belong to a realm or kingdom, there are some who have been cast out and live alone in the wilderness. These vagabonds will often try to latch onto a passing Battle Company in order to try to win their favour and with it a second chance.*
 
 A Vagabond is a **Warrior** that cannot gain Experience Points or become a **Hero**, and will roll on the Warrior Injury chart as normal. A Vagabond has the following profile and has the **Man**, **Infantry** and **Warrior** keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 2/5+ |  3  |  3  |  1  |  1  |  3  |
+| 6" | 2/5+ | 3 | 3 | 1 | 1 | 3 |
 
 **Wargear:** Dagger.
 
@@ -339,9 +339,9 @@ A Vagabond, and any friendly models within 6" of them, does not suffer any penal
 
 If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Dwarf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from its Heroic Actions. Only Good Battle Companies may hire a Wandering Dwarf. A Wandering Dwarf has the following profile and has the **Dwarf**, **Infantry** and **Hero** keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 5/3+ |  4  |  6  |  2  |  2  |  5  |  1  |  1  |  1  |
+| 6" | 5/3+ | 4 | 6 | 2 | 2 | 5 | 1 | 1 | 1 |
 
 **Wargear:** Axe & shield.
 
@@ -349,15 +349,15 @@ If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that 
 
 ---
 
-- **WANDERING ELF** 50 POINTS  [*9 Influence Points*]
+- **WANDERING ELF** 50 POINTS [*9 Influence Points*]
 
 *Throughout Middle-earth's rich history, many Elves have been known to wander its paths for reasons known only unto them. Sometimes they will offer help to those in need and accompany a band of travelers on their journey.*
 
 If a Battle Company hires a Wandering Elf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Elf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from their Heroic Actions. Only Good Battle Companies may hire a Wandering Elf. A Wandering Elf has the following profile and has the **Elf**, **Infantry **and **Hero** keywords.
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 6/3+ |  4  |  4  |  2  |  2  |  6  |  1  |  1  |  1  |
+| 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 1 | 1 | 1 |
 
 **Wargear:** Elven-made hand-and-a-half sword, Elf bow.
 
@@ -379,9 +379,9 @@ Creatures can never gain Experience Points, cannot be bought wargear or Equipmen
 
 *The races of Men and Elves have long utilised birds of prey to aid them in hunting. These intelligent birds can spot hidden enemies well before their owners, and can attack with their sharp talons and beaks if needed.*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  3"  | 2/6+ |  3  |  3  |  1  |  1  |  3  |
+| 3" | 2/6+ | 3 | 3 | 1 | 1 | 3 |
 
 - **Special Rules:** Fly
 
@@ -397,9 +397,9 @@ A Falcon starts the game upon the arm of its master rather than on the board. At
 
 *Often a Battle Company will load their belongings onto a packhorse in order for themselves to be able to travel lighter. A packhorse will often be laden with additional wargear, equipment or weaponry that the company can swap between during their travels.*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  10" | 2/6+ |  3  |  4  |  1  |  1  |  3  |
+| 10" | 2/6+ | 3 | 4 | 1 | 1 | 3 |
 
 **Laden with baggage** - A Packhorse may carry up to 15 Small pieces of Equipment, weapons or additional wargear on its back - these still need to be paid for in your Battle Company's cost. Whilst these pieces are on the Packhorse, the company gains no benefit from them. However, any member of a Battle Company that begins its turn in base contact with the Packhorse may swap one of its pieces of wargear, Equipment or weapons for an equivalent piece from the Packhorse. Note that no matter how many bows of any kind are carried by the Packhorse, your Battle Company must still abide by their Bow Limit and may never be carrying more bows of any kind than they could normally at any one time.
 
@@ -409,9 +409,9 @@ A Falcon starts the game upon the arm of its master rather than on the board. At
 
 *A fierce and loyal hound is an even better companion than the bravest of warriors. Many leaders will be accompanied by a hunting dog, which will fight at its master's side with an unrivalled loyalty.*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  8"  | 3/6+ |  3  |  3  |  1  |  1  |  *  |
+| 8" | 3/6+ | 3 | 3 | 1 | 1 | * |
 
 \* A Hunting Dog always has the same Courage value as its master.
 
@@ -423,9 +423,9 @@ Only **Hero** models that have the **Man** or **Hobbit **keyword may take a Hunt
 
 *In some Dwarven folklore, Ravens are said to bring good fortune to Durin's Folk, and some Dwarves take these birds with them upon their travels. The sight of a Raven near the battlefield inspires Dwarvish folk and steels them against their foes.*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  3"  | 2/6+ |  2  |  2  |  1  |  1  |  3  |
+| 3" | 2/6+ | 2 | 2 | 1 | 1 | 3 |
 
 **Special Rules:** Fly
 
@@ -441,9 +441,9 @@ Only **Hero** models that have the **Dwarf** keyword may take a Raven.
 
 *Dwelling in the eastern lands of Middle-earth, these territorial reptilian creatures harbour a vicious nature. Their powerful jaws can snap a man's arm in two, and the venom they inject into their prey slowly leaves them weakened and helpless. It is little wonder that leaders from the east hold these creatures in high esteem; for owning one provides with it a certain status.*
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/6+ |  4  |  4  |  1  |  2  |  4  |
+| 6" | 4/6+ | 4 | 4 | 1 | 2 | 4 |
 
 **Special Rules:** Venom
 
@@ -455,13 +455,13 @@ Only **Hero** models that have the **Easterling** or **Khandish** keyword may ta
 
 ---
 
-- **WILD WARG (WARG, INFANTRY, WARRIOR)** 7 POINTS  [*4 Influence Points*]
+- **WILD WARG (WARG, INFANTRY, WARRIOR)** 7 POINTS [*4 Influence Points*]
 
 *Some Orcs have managed to 'tame' one of the wild Wargs that roam the lands of Middle-earth, yet this is not for them to ride. Instead the Warg will protect its master from enemies and those within their own Battle Company that would try to slit their master's throat.*
 
-|  Mv   |   F   |  S  |  D  |  A  |  W  |  C  |
+| Mv | F | S | D | A | W | C |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|
-|  10"  |  3/6+ |  4  |  4  |  1  |  1  |  2  |
+| 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
 
 Only **Hero** models that have the **Orc** or **Goblin **keyword may take a Wild Warg.
 

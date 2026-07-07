@@ -23,26 +23,26 @@
 - **Dori the Dwarf, Champion of Erebor**: 75 points
 - **Gloin the Dwarf, Champion of Erebor**: 100 points
 - **Iron Hills Captain**: 80 points
-  - Exchange shield and spear for Mattock: Free
+    - Exchange shield and spear for Mattock: Free
 - **Nori the Dwarf, Champion of Erebor**: 75 points
 
 **WARRIORS**
 
 - **Iron Hills Goat Rider**: 20 points
-  - Exchange war spear for Mattock: Free
+    - Exchange war spear for Mattock: Free
 - **Iron Hills Warrior**: 10 points
-  - Banner and shield: 26 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Crossbow: 2 points
-  - Mattock: 1 point
+    - Banner and shield: 26 points
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Crossbow: 2 points
+    - Mattock: 1 point
 - **Knight of Dale**: 11 points
 - **Warrior of Dale**: 7 points
-  - War horn: 25 points
-  - Banner: 25 points
-  - Esgaroth bow: 2 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
+    - War horn: 25 points
+    - Banner: 25 points
+    - Esgaroth bow: 2 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
 
 </div>
 
@@ -61,4 +61,4 @@
 
 **The Heirs to the Kingdoms** - At the beginning of the Fight Phase, at the start of the Declare Heroic Actions step, if either Thorin or Bard would be considered Trapped then the other may declare a Herolc Combat for free. If this [Heroic Combat] is successful, then Thorin or Bard must use the following Move to Join the other's Combat. If this is not possible, then Thorin or Bard must Move as close as possible to the other. A model cannot use this special rule if they are in the same Combat as the other.
 
-**Royal Bloodlines** - Friendly models treat each of Dáin, Thorin, Brand and Bard as a banner.
+**Royal Bloodlines** - Friendly models treat each of Dáin, Thorin, Brand and Bard as a [banner][Banner].

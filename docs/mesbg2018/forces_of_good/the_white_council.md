@@ -48,11 +48,11 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 - **Consuming Rivalry** `PASSIVE`
 
-Saruman will never move as part of a Heroic Action called by Gandalf. Also, if Gandalf casts Strengthen Will on Saruman, it will have no effect.
+Saruman will never move as part of a Heroic Action called by Gandalf. Also, if Gandalf casts [Strengthen Will] on Saruman, it will have no effect.
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's Stand Fast! Range is 12", and affects hero models.
+Saruman's [Stand Fast!] Range is 12", and affects hero models.
 
 - **Lord of the Istari** `PASSIVE`
 
@@ -92,7 +92,7 @@ Can re-roll one dice when making Casting or Resist tests.
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- Elven-made Hand-and-a-Half [Sword] - 5 points
+- [Elven-made] [Hand-and-a-Half][Hand-And-A-Half] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -106,7 +106,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 - **Lord of Lorien** `ACTIVE`
 
-Celeborn's Stand Fast! Is 12" rather than 6".
+Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 </div>
 
@@ -233,7 +233,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- Elven Made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -244,7 +244,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **OPTIONS**
 
-- [Armour] Of Gondolin - 15 points
+- [Armour] of Gondolin - 15 points
 - Asfaloth - 10 points
 
 **SPECIAL RULES**
@@ -260,7 +260,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 - **Unbending Resolve** `PASSIVE`
 
-Glorfindel permanently has the Fortify Spirit spell cast upon him.
+Glorfindel permanently has the [Fortify Spirit] spell cast upon him.
 
 - **Lord of the West** `ACTIVE`
 

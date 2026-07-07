@@ -13,12 +13,12 @@
 - **Captain of Minas Tirith**: 60 points
 - **Damrod**: 40 points
 - **Frodo Baggins**: 55 points
-  - Mithril Coat: 15 points
-  - Sting: 5 points
-  - Elven Cloak: 5 points
+    - Mithril Coat: 15 points
+    - Sting: 5 points
+    - Elven Cloak: 5 points
 - **Madril**: 60 points
 - **Samwise Gamgee**: 40 points
-  - Elven Cloak: 5 points
+    - Elven Cloak: 5 points
 
 **MINOR HEROES**
 
@@ -32,21 +32,21 @@
 **WARRIORS**
 
 - **Knight of Minas Tirith**: 15 points
-  - Exchange shield and lance for banner: 25 points
+    - Exchange shield and lance for banner: 25 points
 - **Osgiliath Veteran**: 9 points
-  - Bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
+    - Bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
 - **Ranger of Gondor**: 8 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Spear: 1 point
+    - Banner: 25 points
+    - War horn: 25 points
+    - Spear: 1 point
 - **Warrior of Minas Tirith**: 8 points
-  - War horn and shield: 26 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Bow: 1 point
+    - War horn and shield: 26 points
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Bow: 1 point
 
 </div>
 

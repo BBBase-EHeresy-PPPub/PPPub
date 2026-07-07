@@ -14,27 +14,27 @@
 **WARRIORS**
 
 - **Dwarf Ranger**: 8 points
-  - Dwarf longbow: 1 point
-  - Throwing weapons: 1 point
-  - Two-handed weapon: 1 point
+    - Dwarf longbow: 1 point
+    - Throwing weapons: 1 point
+    - Two-handed weapon: 1 point
 - **Dwarf Warrior**: 8 points
-  - War horn: 25 points
-  - Banner: 25 points
-  - Dwarf bow: 1 point
-  - Shield: 1 point
-  - Two-handed weapon: 1 point
+    - War horn: 25 points
+    - Banner: 25 points
+    - Dwarf bow: 1 point
+    - Shield: 1 point
+    - Two-handed weapon: 1 point
 - **Knight of Minas Tirith**: 15 points
-  - Exchange shield and lance for banner: 25 points
+    - Exchange shield and lance for banner: 25 points
 - **Ranger of Gondor**: 8 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Spear: 1 point
+    - Banner: 25 points
+    - War horn: 25 points
+    - Spear: 1 point
 - **Warrior of Minas Tirith**: 8 points
-  - War horn and shield: 26 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Bow: 1 point
+    - War horn and shield: 26 points
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Bow: 1 point
 
 </div>
 

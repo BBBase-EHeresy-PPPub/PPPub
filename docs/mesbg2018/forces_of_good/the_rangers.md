@@ -4,7 +4,7 @@ This army may include: Aragorn, Strider; Arathorn; Halbarad; Dunedain; Ranger of
 
 ## ARMY BONUS
 
-**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the [Woodland Creature] special rule, and the Rangers of the North and Dunedain may benefit from the Stand Fast! of Arathorn, Halbarad and Aragorn - Strider. Additionally, the Rangers of the North and the Dunedain increase their Attacks value to 2, while they have the Infantry keyword.
+**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the [Woodland Creature] special rule, and the Rangers of the North and Dunedain may benefit from the [Stand Fast!] of Arathorn, Halbarad and Aragorn - Strider. Additionally, the Rangers of the North and the Dunedain increase their Attacks value to 2, while they have the Infantry keyword.
 
 ## HEROES OF THE RANGERS
 
@@ -51,6 +51,7 @@ Never requires more than a 4 for To Wound rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ARATHORN [75 POINTS]
@@ -95,7 +96,7 @@ Never requires more than a 4 for To Wound rolls.
 
 **OPTIONS**
 
-- [Banner] Of Arwen Evenstar - 40 points
+- [Banner] of Arwen Evenstar - 40 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**
@@ -107,6 +108,7 @@ A [banner][Banner] that affects all friendly models within 6", and gain the [Fea
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNEDAIN [25 POINTS]

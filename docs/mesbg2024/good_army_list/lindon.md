@@ -11,18 +11,18 @@
 **HEROES OF VALOUR**
 
 - **Elrond**: 170 points
-  - Horse: 20 points
+    - Horse: 20 points
 - **Glorfindel, Lord of the West**: 160 points
-  - Asfaloth: 20 points
-  - Horse: 20 points
+    - Asfaloth: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
 - **Cirdan**: 75 points
 - **Erestor**: 85 points
 - **Rivendell Captain**: 70 points
-  - Horse, Elf bow and Elven lance: 30 points
-  - Shield: 5 points
+    - Horse, Elf bow and Elven lance: 30 points
+    - Shield: 5 points
 
 **MINOR HEROES**
 
@@ -31,14 +31,14 @@
 **WARRIORS**
 
 - **Rivendell Knight**: 20 points
-  - Exchange Elven lance for banner: 25 points
-  - Shield: 1 point
+    - Exchange Elven lance for banner: 25 points
+    - Shield: 1 point
 - **Rivendell Warrior**: 9 points
-  - Banner: 25 points
-  - Elf bow: 2 points
-  - Shield and Elven spear: 2 points
-  - Shield: 1 point
-  - Upgrade to King's Guard: 1 point
+    - Banner: 25 points
+    - Elf bow: 2 points
+    - Shield and Elven spear: 2 points
+    - Shield: 1 point
+    - Upgrade to King's Guard: 1 point
 
 </div>
 

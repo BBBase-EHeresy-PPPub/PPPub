@@ -568,7 +568,7 @@ At the end of each Evil player's Move phase, the Evil player rolls a D6. If the 
 
 Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical Power, providing he is standing on it. If successfully cast, do not follow the normal rules for the Magical Power; instead, roll a D6 and consult the chart below. Might may not be used to influence this roll.
 
-| D6  | Result |
+| D6 | Result |
 |-----------|----------|
 | 1 | No Effect. |
 | 2-5 | The bridge is damaged but still standing. You may add 1 to further rolls on this chart. These modifiers are cumulative. |

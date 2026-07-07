@@ -223,24 +223,24 @@ With your armies chosen, you're ready to begin your Matched Play game. Here you 
 
 **D6 ROLL OF 1-3**
 
-| D6 ROLL | RESULT  |
+| D6 ROLL | RESULT |
 | ------- | -------------------- |
-| 1 | Domination  |
+| 1 | Domination |
 | 2 | To the Death! |
 | 3 | Seize the Prize |
 | 4 | Storm the Camp |
-| 5 | Reconnoitre  |
+| 5 | Reconnoitre |
 | 6 | A Clash by Moonlight |
 
 **D6 ROLL OF 4-6**
 
-| D6 ROLL | RESULT  |
+| D6 ROLL | RESULT |
 | ------- | --------------------- |
-| 1 | Hold Ground  |
+| 1 | Hold Ground |
 | 2 | Lords of Battle |
 | 3 | Heirloom of Ages Past |
 | 4 | Capture and Control |
-| 5 | Fog of War  |
+| 5 | Fog of War |
 | 6 | Contest of Champions |
 
  Each Scenario contains all of the information you need to get set up and start playing. This information is broken down into the following categories: The Armies, Layout, Starting Positions, Initial Priority, Objectives and Special Rules (if there are any for that Scenario).

@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - **Radagast the Brown**: 145 points
-  - Exchange Staff for Great Eagle: 55 points
+    - Exchange Staff for Great Eagle: 55 points
 
 **HEROES OF VALOUR**
 

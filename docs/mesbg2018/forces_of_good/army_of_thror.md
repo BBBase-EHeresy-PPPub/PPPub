@@ -1,10 +1,10 @@
 ## ARMY COMPOSITION
 
-This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebor; Grim [Hammer] Captain; Young Balin the Dwarf; Young Dwalin the Dwarf; Grim [Hammer]; Warrior of Erebor.
+This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebor; Grim Hammer Captain; Young Balin the Dwarf; Young Dwalin the Dwarf; Grim Hammer; Warrior of Erebor.
 
 ## ARMY BONUS
 
-**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a banner if Thror is within 6".
+**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a [banner][Banner] if Thror is within 6".
 
 ## HEROES OF ARMY OF THROR
 
@@ -43,6 +43,7 @@ Once per game, you may re-roll a single Priority roll.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRAIN [120 POINTS]
@@ -55,7 +56,7 @@ Once per game, you may re-roll a single Priority roll.
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Master Forged Two-handed [Hammer]
+- [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -66,7 +67,7 @@ Once per game, you may re-roll a single Priority roll.
 
 - **Durin's Heir** `PASSIVE`
 
-Thrain's Stand Fast! affects all friendly Dwarf models on the battlefield, including Dwarf Hero models.
+Thrain's [Stand Fast!] affects all friendly Dwarf models on the battlefield, including Dwarf Hero models.
 
 - **The Ring of Durin** `PASSIVE`
 
@@ -79,6 +80,7 @@ Thrain re-rolls all failed To Wound rolls against Azog, and any model in the sam
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [100 POINTS]
@@ -117,6 +119,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF EREBOR [60 POINTS]
@@ -176,6 +179,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [55 POINTS]
@@ -207,6 +211,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [85 POINTS]
@@ -243,6 +248,7 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 ---
 
 ## WARRIORS OF ARMY OF THROR
+
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER [11 POINTS]
@@ -274,6 +280,7 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WARRIOR OF EREBOR [8 POINTS]

@@ -35,7 +35,7 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 
 - **Smoke Bombs** `ACTIVE`
 
-[Throwing weapon][Throwing Weapon] with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of Transfix. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
+[Throwing weapon][Throwing Weapon] with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of [Transfix]. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -44,6 +44,7 @@ Dalamyr can never be Trapped whilst still standing.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DELGAMAR, GATEMASTER OF UMBAR [75 POINTS]
@@ -73,6 +74,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
@@ -109,6 +111,7 @@ A Hasharin can never be trapped while still standing.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE KNIGHT OF UMBAR [120 POINTS]
@@ -161,6 +164,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
@@ -218,7 +222,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 - [Spear] - 1 point
 
@@ -231,6 +235,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR CAPTAIN [50 POINTS]
@@ -254,7 +259,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
 </div>
@@ -320,6 +325,7 @@ Giant wooden [shield][Shield] that provides +3 Defence, so long as the model is 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR REAVER [9 POINTS]
@@ -341,11 +347,12 @@ Giant wooden [shield][Shield] that provides +3 Defence, so long as the model is 
 
 - **Mindless Killers** `ACTIVE`
 
-If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must take a Courage test. If failed, it must charge the nearest enemy. If no enemies are in range, it must charge the nearest friendly model. If no friendlies are in range, it must move 6" towards the nearest enemy. Whilst in this rampage, the reaver also gains +1 in To Wound rolls and does not take Courage tests for charging [Terror]-causing models.
+If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must take a Courage test. If failed, it must charge the nearest enemy. If no enemies are in range, it must charge the nearest friendly model. If no friendlies are in range, it must move 6" towards the nearest enemy. Whilst in this rampage, the reaver also gains +1 in To Wound rolls and does not take Courage tests for charging Terror-causing models.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CORSAIR OF UMBAR [7 POINTS]

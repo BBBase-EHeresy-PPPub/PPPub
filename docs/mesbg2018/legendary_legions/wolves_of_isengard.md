@@ -2,38 +2,26 @@
 
 <div class="unitCard" markdown>
 
-**SHARKU [60 points]**
-
-• Warg: 10 points
-• Shield: 5 points
-
-**ORC CAPTAIN [50 points]**
-
-• Warg: 10 points
-• Orc Bow: 5 points
-• Shield: 5 points
-• Swap Weapon: 5 points
-
-**ORC SHAMAN [60 points]**
-
-• Warg: 10 points
-• Swap Weapon: 5 points
-
-**WARG RIDER [11 points]**
-
-• Banner: 25 points
-• Orc Bow: 1 point
-• Shield: 1 point
-• Throwing Spears: 1 point
-• Swap Weapon: 1 point
-
-**WILD WARG [7 points]**
-
+- **SHARKU**: 60 points
+    - Warg: 10 points
+    - Shield: 5 points
+- **ORC CAPTAIN**: 50 points
+    - Warg: 10 points
+    - Orc Bow: 5 points
+    - Shield: 5 points
+- **ORC SHAMAN**: 60 points
+    - Warg: 10 points
+- **WARG RIDER**: 11 points
+    - Banner: 25 points
+    - Orc Bow: 1 point
+    - Shield: 1 point
+    - Throwing Spears: 1 point
+- **WILD WARG**: 7 points
 </div>
 
 ## ADDITIONAL RULES
 
-- Friendly models gain the Isengard Keyword. Additionally, any Orc Shamans in a Wolves of Isengard force change their Fury (Mordor Orc) Magical Power to Fury (Isengard Orc).
+- Friendly models gain the Isengard Keyword. Additionally, any Orc Shamans in a Wolves of Isengard force change their [Fury] (Mordor Orc) Magical Power to [Fury] (Isengard Orc).
 
 ## SPECIAL RULES
 

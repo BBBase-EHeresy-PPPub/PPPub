@@ -11,8 +11,8 @@
 **HEROES OF VALOUR**
 
 - **Isildur**: 130 points
-  - Horse: 20 points
-  - The One Ring: Free
+    - Horse: 20 points
+    - The One Ring: Free
 
 **HEROES OF FORTITUDE**
 
@@ -21,9 +21,9 @@
 **WARRIORS**
 
 - **Warrior of Numenor**: 9 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Longbow: 1 point
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Longbow: 1 point
 
 </div>
 

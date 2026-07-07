@@ -11,28 +11,28 @@
 **HEROES OF FORTITUDE**
 
 - **Isengard Orc Captain**: 45 points
-  - Warg: 20 points
+    - Warg: 20 points
 
 **MINOR HEROES**
 
 - **Isengard Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 
 **WARRIORS**
 
 - **Isengard Warg**: 7 points
 - **Isengard Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 
 </div>
 
 ## ADDITIONAL RULES
 
 - A Wolves of Isengard Army must always contain Sharku, who is always the Army's General.
-- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with throwing weapons rather than the usual 33%.
+- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with [throwing weapons][Throwing Weapons] rather than the usual 33%.
 
 ## SPECIAL RULES
 

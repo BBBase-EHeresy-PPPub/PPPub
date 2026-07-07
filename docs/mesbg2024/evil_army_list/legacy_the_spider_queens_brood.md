@@ -27,7 +27,7 @@
 ## ADDITIONAL RULES
 
 - The Spider Queen's Brood Army must always contain The Spider Queen, who is always the Army's General.
-- Friendly models can still pick up Objective Markers even though they have the Beast keyword.
+- Friendly models can still [pick][Pick] up Objective Markers even though they have the Beast keyword.
 
 ## SPECIAL RULES
 

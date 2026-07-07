@@ -8,33 +8,33 @@
 
 - **Helm Hammerhand, Wraith of the Hornburg**: 180 points
 - **Hera, The Bride of Death**: 125 points
-  - Shield: 5 points
+    - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
 - **Captain of Rohan**: 45 points
-  - Horse: 20 points
-  - Exchange armour for heavy armour: 5 points
-  - Shield: 5 points
+    - Horse: 20 points
+    - Exchange armour for heavy armour: 5 points
+    - Shield: 5 points
 - **Olwyn, Shieldmaiden of Rohan**: 80 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **MINOR HEROES**
 
 - **Lief, Page of Helm**: 50 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **WARRIORS**
 
 - **Rider of Rohan**: 14 points
-  - Banner: 25 points
-  - Throwing spears: 2 points
+    - Banner: 25 points
+    - Throwing spears: 2 points
 - **Warrior of Rohan**: 6 points
-  - War horn, shield, throwing spears: 28 points
-  - Banner: 25 points
-  - Shield and throwing spears: 3 points
-  - Shield: 1 point
-  - Bow: 1 point
+    - War horn, shield, throwing spears: 28 points
+    - Banner: 25 points
+    - Shield and throwing spears: 3 points
+    - Shield: 1 point
+    - Bow: 1 point
 
 </div>
 

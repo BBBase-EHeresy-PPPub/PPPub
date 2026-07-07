@@ -16,7 +16,7 @@ When playing a Matched Play game using your Battle Company, there are a few addi
 
 - The leader of your Battle Company will always count as a Hero of Fortitude for the purposes of working out the leader of your overall army.
 
-- Members of your Battle Company may still generate Experience Points in the same ways as described on **page  7**.
+- Members of your Battle Company may still generate Experience Points in the same ways as described on **page 7**.
 
 - Any members of your Battle Company that were removed as a casualty will still suffer Injuries, and therefore roll on the relevant Injury chart, as they would in normal Battle Companies games as described on **page 10**.
 

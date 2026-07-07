@@ -10,7 +10,7 @@ is boiling in the background!
 Every model in your Battle Company that was removed from the board as a casualty (with the exception of models that fled the board) must roll to see how their wounds have affected them. Some may make a full recovery, shaking off their injuries and soldiering on; some may be permanently hurt and suffer long-term wounds that may affect them in the future; and others may simply succumb to their wounds and perish upon the field of
 battle.
 
-Warrior models must roll on the Warrior Injury chart, whilst Hero models must roll on the Hero Injury chart if they are removed as a casualty; both of these can be found on pages 10-11. You may have noticed that Warriors are more likely to die than Heroes; this is to reflect the heroic nature of Middle-earth, and also helps to streamline the game, allowing you to focus on the stories and deeds of your Heroes, and prevent too much  bookkeeping getting in the way of having some fun games. Injury rolls should always be done with your opponent present.
+Warrior models must roll on the Warrior Injury chart, whilst Hero models must roll on the Hero Injury chart if they are removed as a casualty; both of these can be found on pages 10-11. You may have noticed that Warriors are more likely to die than Heroes; this is to reflect the heroic nature of Middle-earth, and also helps to streamline the game, allowing you to focus on the stories and deeds of your Heroes, and prevent too much bookkeeping getting in the way of having some fun games. Injury rolls should always be done with your opponent present.
 
 Models that fled the board as a result of a failed Courage test do not roll on their respective Injury chart - they only ran away after all. They are assumed to have made a Full Recovery; however, they will not heal any previous wounds as a result of having made a Full Recovery.
 
@@ -128,9 +128,9 @@ Another important thing to note is that a Hero will not pay any points on any wa
 
 Adelmar is Adam's Rohan Hero, and the leader of his Battle Company. Over the course of his adventures, Adelmar has gained the following profile:
 
-|  Mv  |  F   |  S  |  D  |  A  |  W  |  C  |  M  |  W  |  F  |
+| Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  6"  | 4/4+ |  4  |  6  |  2  |  2  |  4  |  3  |  1  |  1  |
+| 6" | 4/4+ | 4 | 6 | 2 | 2 | 4 | 3 | 1 | 1 |
 
 **WARGEAR:** Heavy armour, shield & sword.
 

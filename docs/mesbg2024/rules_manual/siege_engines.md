@@ -2,7 +2,7 @@ Throughout the storied history of Middle-earth, there have been numerous cities 
 
 In this section, we present the rules for using a Siege Engine in your games. Every Siege Engine will have its own profile which will differ to a standard profile as a number of characteristics simply aren't relevant to an inanimate lump of wood and metal! A Siege Engine profile only contains four characteristics: Range, Strength, Defence and Wounds - as shown in the example below:
 
-|  | Range | Strength | Defence | Wounds |
+| | Range | Strength | Defence | Wounds |
 |---|---:|---:|---:|---:|
 | Gondor Battlecry Trebuchet | 12" - 96" | 10 | 10 | 3 |
 

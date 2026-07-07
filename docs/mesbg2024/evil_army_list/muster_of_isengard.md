@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - **Saruman**: 170 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
@@ -18,7 +18,7 @@
 **MINOR HEROES**
 
 - **Uruk-Hai Shaman**: 55 points
-  - Armour: 5 points
+    - Armour: 5 points
 
 **INDEPENDENT HEROES**
 
@@ -29,18 +29,18 @@
 
 - **Feral Uruk-Hai**: 13 points
 - **Isengard Troll**: 100 points
-  - Swap shield for war drum (Isengard): 25 points
-  - Spear: 5 points
+    - Swap shield for war drum (Isengard): 25 points
+    - Spear: 5 points
 - **Uruk-Hai Berserker**: 15 points
 - **Uruk-Hai Scout**: 8 points
-  - Banner: 25 points
-  - Shield: 1 point
-  - Uruk-hai bow: 1 point
+    - Banner: 25 points
+    - Shield: 1 point
+    - Uruk-hai bow: 1 point
 - **Uruk-Hai Warrior**: 9 points
-  - Banner: 25 points
-  - Crossbow: 2 points
-  - Pike: 1 point
-  - Shield: 1 point
+    - Banner: 25 points
+    - Crossbow: 2 points
+    - Pike: 1 point
+    - Shield: 1 point
 
 </div>
 

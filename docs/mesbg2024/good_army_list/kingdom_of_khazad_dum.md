@@ -22,18 +22,18 @@
 **WARRIORS**
 
 - **Dwarf Ranger**: 8 points
-  - Dwarf longbow: 1 point
-  - Throwing weapons: 1 point
-  - Two-handed weapon: 1 point
+    - Dwarf longbow: 1 point
+    - Throwing weapons: 1 point
+    - Two-handed weapon: 1 point
 - **Dwarf Warrior**: 8 points
-  - War horn: 25 points
-  - Banner: 25 points
-  - Dwarf bow: 1 point
-  - Shield: 1 point
-  - Two-handed weapon: 1 point
+    - War horn: 25 points
+    - Banner: 25 points
+    - Dwarf bow: 1 point
+    - Shield: 1 point
+    - Two-handed weapon: 1 point
 - **Iron Guard**: 15 points
 - **Khazad Guard**: 12 points
-  - Hearthguard: 2 points
+    - Hearthguard: 2 points
 - **Vault Warden Team**: 25 points
 
 **SIEGE ENGINES**

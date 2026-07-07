@@ -11,26 +11,26 @@
 **HEROES OF VALOUR**
 
 - **The Witch-king of Angmar**: 0 points
-  - 2A / 2M / 14W / 2F: 120 points
-  - Horse: 20 points
-  - Morgul Blade: 10 points
+    - 2A / 2M / 14W / 2F: 120 points
+    - Horse: 20 points
+    - Morgul Blade: 10 points
 
 **HEROES OF FORTITUDE**
 
 - **Black Numenorean Marshal**: 70 points
-  - Armoured horse: 25 points
-  - Lance: 5 points
+    - Armoured horse: 25 points
+    - Lance: 5 points
 - **Mordor Orc Captain**: 45 points
 - **Mordor Troll Chieftain**: 150 points
 - **Ringwraith**: 0 points
-  - 2A / 1M / 10W / 1F: 90 points
-  - Horse: 20 points
-  - Morgul Blade: 10 points
+    - 2A / 1M / 10W / 1F: 90 points
+    - Horse: 20 points
+    - Morgul Blade: 10 points
 
 **MINOR HEROES**
 
 - **Mordor Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 
 **INDEPENDENT HEROES**
 
@@ -39,31 +39,31 @@
 **WARRIORS**
 
 - **Black Numenorean Knight**: 20 points
-  - Exchange lance for banner: 25 points
-  - Exchange lance for war horn: 25 points
+    - Exchange lance for banner: 25 points
+    - Exchange lance for war horn: 25 points
 - **Black Numenorean Warrior**: 10 points
 - **Mordor Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Mordor Troll**: 90 points
-  - War drum (Mordor): 25 points
+    - War drum (Mordor): 25 points
 - **Mordor Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Orc Tracker**: 6 points
 
 **SIEGE ENGINES**
 
 - **Mordor Siege Bow**: 50 points
-  - Flaming Ammunition: 10 points
+    - Flaming Ammunition: 10 points
 - **Mordor War Catapult**: 150 points
-  - Severed Heads: 20 points
-  - Flaming Ammunition: 10 points
+    - Severed Heads: 20 points
+    - Flaming Ammunition: 10 points
 
 </div>
 

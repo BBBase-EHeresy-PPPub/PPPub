@@ -7,15 +7,15 @@
 **HEROES OF VALOUR**
 
 - **Boromir, Captain of the White Tower**: 160 points
-  - Horse: 20 points
-  - Shield: 5 points
+    - Horse: 20 points
+    - Shield: 5 points
 - **Denethor**: 50 points
 - **Faramir**: 100 points
-  - Horse: 20 points
-  - Shield: 5 points
-  - Exchange armour and bow for heavy armour: Free
+    - Horse: 20 points
+    - Shield: 5 points
+    - Exchange armour and bow for heavy armour: Free
 - **Hurin the Tall, Warden of the Keys**: 80 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
@@ -29,22 +29,22 @@
 **WARRIORS**
 
 - **Citadel Guard**: 8 points
-  - Longbow: 1 point
-  - Spear: 1 point
+    - Longbow: 1 point
+    - Spear: 1 point
 - **Guard of the Fountain Court**: 10 points
 - **Knight of Minas Tirith**: 15 points
-  - Exchange shield and lance for banner: 25 points
+    - Exchange shield and lance for banner: 25 points
 - **Warrior of Minas Tirith**: 8 points
-  - War horn and shield: 26 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Bow: 1 point
+    - War horn and shield: 26 points
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Bow: 1 point
 
 **SIEGE ENGINES**
 
 - **Gondor Avenger Bolt Thrower**: 60 points
-  - Swift Reload: 20 points
+    - Swift Reload: 20 points
 
 </div>
 

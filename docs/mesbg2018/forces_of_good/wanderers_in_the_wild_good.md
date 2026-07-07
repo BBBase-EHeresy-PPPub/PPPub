@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatleaf; Goldberry; Thrain the Broken (Good); Tom Bombadil; Beorning; Bill the [Pony].
+This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatleaf; Goldberry; Thrain the Broken (Good); Tom Bombadil; Beorning; Bill the Pony.
 
 ## HEROES OF WANDERERS IN THE WILD (GOOD)
 
@@ -15,7 +15,7 @@ This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatle
 
 **WARGEAR**
 
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - Great [Bow]
 
 **HEROIC ACTIONS**
@@ -37,11 +37,12 @@ To change Grimbeorn's form, you may roll a D6 at the start of Beorn's Move. On a
 
 - **Leader of the Beornings** `PASSIVE`
 
-Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or Stand Fast!
+Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or [Stand Fast!]
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MURIN & DRAR [140 POINTS]
@@ -66,7 +67,7 @@ Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or Stan
 
 **WARGEAR**
 
-- Cudgel ([Club])
+- Cudgel ([club][Club])
 
 **HEROIC ACTIONS**
 
@@ -86,6 +87,7 @@ During his Move, if Barliman Butterbur is in base contact with a friendly Hero, 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARRY GOATLEAF [40 POINTS]
@@ -115,6 +117,7 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOLDBERRY [140 POINTS]
@@ -147,6 +150,7 @@ Goldberry loses a point of Will at the end of any turn where she participated in
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRAIN THE BROKEN (GOOD) [10 POINTS]
@@ -169,6 +173,7 @@ At the start of every Priority phase before rolling, Thrain must take an unmodif
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TOM BOMBADIL [160 POINTS]
@@ -204,6 +209,7 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 ---
 
 ## WARRIORS OF WANDERERS IN THE WILD (GOOD)
+
 <div class="unitCard" markdown>
 
 ### BEORNING [20 POINTS]
@@ -215,7 +221,7 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 **WARGEAR**
 
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Axe]
 
 **OPTIONS**
@@ -235,6 +241,7 @@ This model counts as being in range of a [banner][Banner] if they are within 6" 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILL THE PONY [10 POINTS]
@@ -260,6 +267,6 @@ Each turn, one Fellowship model in base contact with Bill can roll a D6. On a 5+
 
 - **Only a Pony** `PASSIVE`
 
-May never charge, and no other models can benefit from his Stand Fast!. However, he can benefit from any Hobbit hero's Stand Fast!
+May never charge, and no other models can benefit from his [Stand Fast!]. However, he can benefit from any Hobbit hero's [Stand Fast!]
 
 </div>

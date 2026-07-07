@@ -30,6 +30,7 @@ The range of Arvedui's Stand Fast is 12", rather than 6"
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EARNUR, LAST KING OF GONDOR [110 POINTS]
@@ -69,6 +70,7 @@ At the start of a Combat involving Earnur, before Heroic Strikes are resolved, E
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GLORFINDEL, LORD OF THE WEST [160 POINTS]
@@ -118,6 +120,7 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
@@ -158,6 +161,7 @@ Each time Gulavhar slays a model in Combat, it regains a single Wound lost earli
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ALDRAC, WARLORD OF CARN DUM [120 POINTS]
@@ -195,6 +199,7 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ARANARTH [80 POINTS]
@@ -229,6 +234,7 @@ Friendly Dunedain models treat Aranarth as a [banner][Banner]. Additionally, all
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ARATHORN, CHIEFTAIN OF THE DUNEDAIN [80 POINTS]
@@ -261,6 +267,7 @@ Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BUHRDUR, HILL TROLL CHIEFTAIN [130 POINTS]
@@ -299,6 +306,7 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SHADOW OF RHUDAUR [80 POINTS]
@@ -344,6 +352,7 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN (GENERAL) [80 POINTS]
@@ -374,6 +383,7 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC CAPTAIN [45 POINTS]
@@ -488,6 +498,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FRAECHT, VASSAL OF THE WITCH-KING [65 POINTS]
@@ -520,6 +531,7 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALBARAD [70 POINTS]
@@ -552,6 +564,7 @@ This is a [banner][Banner] with a range of 6" rather than 3", and Halbarad never
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MALBETH THE SEER [80 POINTS]
@@ -583,6 +596,7 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NAZTHAK, ORC CAPTAIN [50 POINTS]
@@ -611,6 +625,7 @@ Whenever Nazthak slays an enemy model in Combat (with the exception of Monster m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHADE [75 POINTS]
@@ -647,6 +662,7 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN [80 POINTS]
@@ -677,6 +693,7 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC SHAMAN [50 POINTS]
@@ -823,7 +840,7 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 
 **OPTIONS**
 
-An Angmar [Warg] Rider must have one of the following options for the listed points cost:
+An Angmar Warg Rider must have one of the following options for the listed points cost:
 
 - [Shield] and Throwing Spears - 2 points
 - Orc [Bow] - 1 point
@@ -861,6 +878,7 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HOBBIT ARCHER [5 POINTS]
@@ -1004,6 +1022,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WEREWOLF [25 POINTS]
@@ -1030,6 +1049,7 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WILD WARG [7 POINTS]

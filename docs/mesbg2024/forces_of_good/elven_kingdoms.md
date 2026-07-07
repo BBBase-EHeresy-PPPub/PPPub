@@ -54,6 +54,7 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GIL-GALAD [175 POINTS]
@@ -95,6 +96,7 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRANDUIL, KING OF THE WOODLAND REALM [130 POINTS]
@@ -107,7 +109,7 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 
 **WARGEAR**
 
-- Elven Hand-and-a-half Weapons
+- Elven [Hand-and-a-half][Hand-And-A-Half] Weapons
 
 **HEROIC ACTIONS**
 
@@ -141,6 +143,7 @@ At the beginning of his Activation, Thranduil can spend a Will Point. If he does
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CELEBORN, LORD OF LOTHLORIEN [125 POINTS]
@@ -186,6 +189,7 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELROND [170 POINTS]
@@ -245,6 +249,7 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HALDIR, GALADHRIM CAPTAIN [70 POINTS]
@@ -283,6 +288,7 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [105 POINTS]
@@ -329,6 +335,7 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ARWEN [70 POINTS]
@@ -373,6 +380,7 @@ Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CIRDAN [75 POINTS]
@@ -415,6 +423,7 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELLADAN [80 POINTS]
@@ -454,6 +463,7 @@ Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wou
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELROHIR [80 POINTS]
@@ -493,6 +503,7 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GALADHRIM CAPTAIN [70 POINTS]
@@ -565,6 +576,7 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN CAPTAIN [65 POINTS]
@@ -623,6 +635,7 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER CAPTAIN [75 POINTS]
@@ -655,6 +668,7 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OROPHIN, GALADHRIM CAPTAIN [85 POINTS]
@@ -685,6 +699,7 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### PALACE GUARD CAPTAIN [80 POINTS]
@@ -706,6 +721,8 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 
 **OPTIONS**
 
+A Palace Guard must have one of the following options for the listed points cost:
+
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -721,6 +738,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RIVENDELL CAPTAIN [70 POINTS]
@@ -784,6 +802,7 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TAURIEL, RANGER OF MIRKWOOD [90 POINTS]
@@ -826,6 +845,7 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GALADHRIM KNIGHT [18 POINTS]
@@ -918,6 +938,7 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN WARRIOR [8 POINTS]
@@ -951,6 +972,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF KNIGHT [16 POINTS]
@@ -965,7 +987,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 - [Heavy Armour]
 - [Horse]
-- Elven Hand-and-a-half Weapons
+- Elven [Hand-and-a-half][Hand-And-A-Half] Weapons
 
 **SPECIAL RULES**
 
@@ -979,6 +1001,7 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF WARRIOR [9 POINTS]
@@ -1013,6 +1036,7 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER [14 POINTS]
@@ -1041,6 +1065,7 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### PALACE GUARD [12 POINTS]
@@ -1076,6 +1101,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RIVENDELL KNIGHT [20 POINTS]

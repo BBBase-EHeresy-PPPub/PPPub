@@ -24,7 +24,7 @@ Any model in this list which has the Erebor or Khazad-Dum keyword will instead b
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Durin's axe
+- Durin's Axe
 
 **HEROIC ACTIONS**
 
@@ -41,11 +41,12 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 
 - **Durin's axe** `ACTIVE`
 
-[Master-forged][Master-Forged] [two-handed][Two-Handed] axe, re-roll a single dice in duel rolls.
+[Master-forged][Master-Forged] [two-handed][Two-Handed] [axe][Axe], re-roll a single dice in duel rolls.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
@@ -68,7 +69,7 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 **OPTIONS**
 
 - Throwing Axes - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
 </div>
@@ -87,7 +88,7 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Master Forged Two-handed [Axe]
+- [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Axe]
 - Two Axes
 - Throwing Axes
 
@@ -113,6 +114,7 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF CAPTAIN [60 POINTS]
@@ -135,7 +137,7 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
 - [Shield] - 5 points
 - Throwing Axes - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
 </div>
@@ -169,6 +171,7 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
@@ -201,6 +204,7 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -235,6 +239,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF, CHAMPION OF EREBOR [55 POINTS]
@@ -247,7 +252,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -264,6 +269,7 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHIELDBEARER [60 POINTS]
@@ -288,7 +294,7 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 - **In Defence of the King** `ACTIVE`
 
-At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
+At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the [Heroic combat][Heroic Combat] is successful, they must use their following Move to either join the fight, or move as close as possible.
 
 - **Lead by Example** `PASSIVE`
 
@@ -299,6 +305,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 ---
 
 ## WARRIORS OF THE KINGDOM OF MORIA
+
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
@@ -317,7 +324,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - Dwarf Longbow - 1 point
 - Throwing Axes - 1 point
-- Two-Handed [Axe] - 1 point
+- [Two-Handed] [Axe] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -348,7 +355,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - [Banner] - 25 points
 - Dwarf [Bow] - 1 point
 - [Shield] - 1 point
-- Two-Handed [Axe] & [Dagger] - 1 point
+- [Two-Handed] [Axe] & [Dagger] - 1 point
 - Swap Weapon - 1 point
 
 </div>
@@ -390,7 +397,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **WARGEAR**
 
 - [Dwarf Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 - [Axe]
 
 **OPTIONS**
@@ -436,7 +443,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - Additional Crew - 8 points
 - Engineer Captain - [Shield] - 5 points
 - Engineer Captain - Throwing Axes - 5 points
-- Engineer Captain - Two-Handed [Axe] - 5 points
+- Engineer Captain - [Two-Handed] [Axe] - 5 points
 
 **SPECIAL RULES**
 

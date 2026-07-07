@@ -29,16 +29,16 @@
 - **Mirkwood Giant Spider**: 20 points
 - **Mirkwood Hunting Spider**: 20 points
 - **Mordor Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Mordor Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Orc Tracker**: 6 points
 
 </div>

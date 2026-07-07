@@ -39,7 +39,7 @@ This army may include: The Dragon Emperor; Amdur; Khamul; Rutabi; Brorgir; Easte
 
 - **Emperor of the Easterlings** `ACTIVE`
 
-His Stand Fast! has unlimited range, and affects hero models.
+His [Stand Fast!] has unlimited range, and affects hero models.
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
@@ -237,7 +237,7 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 **WARGEAR**
 
 - [Heavy Armour]
-- Easterling Glaive (hand-and-a-half [Axe])
+- Easterling Glaive ([hand-and-a-half][Hand-And-A-Half] [Axe])
 
 **HEROIC ACTIONS**
 
@@ -245,7 +245,7 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 
 **OPTIONS**
 
-- Swap Glaive For [Armoured Horse] & [Sword] - 10 points
+- Swap Glaive for [Armoured Horse] & [Sword] - 10 points
 - [Bow] - 5 points
 - [Shield] - 5 points
 - Swap Weapon - 5 points

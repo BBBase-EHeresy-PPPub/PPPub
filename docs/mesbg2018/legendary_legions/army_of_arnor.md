@@ -2,44 +2,22 @@
 
 <div class="unitCard" markdown>
 
-**ARANARTH [80 points]**
-
-**ARVEDUI, LAST KING OF ARNOR [80 points]**
-
-**ARGADIR [85 points]**
-
-**CAPTAIN OF ARNOR [55 points]**
-
-• Swap Weapon: 5 points
-• Swap Shield for Bow: 0 points
-
-**MALBETH THE SEER [70 points]**
-
-**DUNEDAIN [25 points]**
-
-• Swap Weapon: 5 points
-• Spear: 1 point
-
-**RANGER OF THE NORTH [30 points]**
-
-• Horse: 10 points
-• Swap Weapon: 5 points
-• Spear: 1 point
-
-**KNIGHT OF ARNOR [14 points]**
-
-• Swap Weapon: 1 point
-
-**RANGER OF ARNOR [8 points]**
-
-• Spear: 1 point
-• Swap Weapon: 1 point
-
-**WARRIOR OF ARNOR [8 points]**
-
-• Swap Spear and Shield for Banner: 25 points
-• Swap Weapon: 1 point
-
+- **ARANARTH**: 80 points
+- **ARVEDUI, LAST KING OF ARNOR**: 80 points
+- **ARGADIR**: 85 points
+- **CAPTAIN OF ARNOR**: 55 points
+    - Swap Shield for Bow: Free
+- **MALBETH THE SEER**: 70 points
+- **DUNEDAIN**: 25 points
+    - Spear: 1 point
+- **RANGER OF THE NORTH**: 30 points
+    - Horse: 10 points
+    - Spear: 1 point
+- **KNIGHT OF ARNOR**: 14 points
+- **RANGER OF ARNOR**: 8 points
+    - Spear: 1 point
+- **WARRIOR OF ARNOR**: 8 points
+    - Swap Spear and Shield for Banner: 25 points
 </div>
 
 ## ADDITIONAL RULES

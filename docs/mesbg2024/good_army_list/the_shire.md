@@ -7,14 +7,14 @@
 **HEROES OF LEGEND**
 
 - **Gandalf the Grey**: 170 points
-  - Gandalf's Cart: 25 points
+    - Gandalf's Cart: 25 points
 
 **HEROES OF FORTITUDE**
 
 - **Bilbo Baggins, Ageing Hobbit**: 45 points
-  - Mithril Coat: 15 points
-  - Sting: 5 points
-  - The One Ring: Free
+    - Mithril Coat: 15 points
+    - Sting: 5 points
+    - The One Ring: Free
 - **Farmer Maggot**: 50 points
 - **Farmer Tolman Cotton**: 35 points
 - **Frodo Baggins**: 55 points
@@ -39,8 +39,8 @@
 **WARRIORS**
 
 - **Hobbit Archer**: 5 points
-  - War horn: 25 points
-  - Tookish Hunters: 1 point
+    - War horn: 25 points
+    - Tookish Hunters: 1 point
 - **Hobbit Militia**: 4 points
 - **Hobbit Shirriff**: 5 points
 
@@ -52,7 +52,7 @@
 
 ## SPECIAL RULES
 
-**Bilbo's Magic Ring** - In this Army List, Bilbo carries the One Ring instead of Frodo.
+**Bilbo's Magic Ring** - In this Army List, Bilbo carries [the One Ring][The One Ring] instead of Frodo.
 
 **"This'll be a night to remember"** - Friendly models may re-roll failed Courage Tests. Additionally, friendly models cannot have their Courage Tests reduced by the special rules or Magical Powers of enemy models.
 

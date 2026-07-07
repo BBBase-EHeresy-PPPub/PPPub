@@ -43,7 +43,7 @@ Once per game, you may automatically win the Priority roll. Must be declared bef
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's Stand Fast! Range is 12", and affects Hero models.
+Saruman's [Stand Fast!] Range is 12", and affects Hero models.
 
 - **Saruman's Deceit** `PASSIVE`
 
@@ -52,13 +52,12 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHARKEY & WORM [60 POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
-
 **Sharkey**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -90,7 +89,6 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 
 After a model has resolved all of its Strikes against Sharkey during a Combat, they must take a Courage Test. If failed, the model immediately suffers a single Strength 4 hit.
 
-
 ---
 
 **Worm**
@@ -115,10 +113,10 @@ If at the start of any turn Sharkey has been reduced to 1 Wound and has no Fate 
 
 Before making a Duel Roll for Worm, check to see if any enemy models, with the exception of any models he is Engaged in Combat with, can see him. If no other enemy models can see him, then Worm increases his Fight Value to 4 and his Attacks to 3 for the duration of the Combat.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LURTZ [100 POINTS]
@@ -165,6 +163,7 @@ Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHARKU [70 POINTS]
@@ -201,6 +200,7 @@ Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SID BRIARTHORN [50 POINTS]
@@ -230,7 +230,7 @@ Other friendly Ruffian models treat Sid as a [banner][Banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the Paralyse Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
 
 - **Brawler** `ACTIVE`
 
@@ -239,6 +239,7 @@ If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Du
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILL FERNY [40 POINTS]
@@ -267,11 +268,12 @@ At the start of the game, before both sides have deployed, Bill may choose an en
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the Paralyse Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GRISHNAKH [55 POINTS]
@@ -302,6 +304,7 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC CAPTAIN [45 POINTS]
@@ -352,7 +355,7 @@ At the start of the Fight Phase, during the Declare Heroic Actions step, Rowan m
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the Paralyse Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
 
 - **Burn it Down!** `ACTIVE`
 
@@ -361,6 +364,7 @@ Once per game, if Rowan ends his Move within 1" of a single building or piece of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RUFFIAN [5 POINTS]
@@ -384,7 +388,7 @@ Once per game, if Rowan ends his Move within 1" of a single building or piece of
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the Paralyse Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
 
 - **At 'em Lads!** `ACTIVE`
 
@@ -393,6 +397,7 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SNAGA [50 POINTS]
@@ -421,6 +426,7 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TED SANDYMAN [30 POINTS]
@@ -447,6 +453,7 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### UGLUK [75 POINTS]
@@ -482,6 +489,7 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI CAPTAIN [65 POINTS]
@@ -626,6 +634,7 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC SHAMAN [50 POINTS]
@@ -732,6 +741,7 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI DRUMMER [35 POINTS]
@@ -764,7 +774,7 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 
 **WARGEAR**
 
-- Beaks And Claws ([Hand Weapon])
+- Beaks and Claws ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -781,6 +791,7 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC WARRIOR [5 POINTS]
@@ -853,7 +864,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 **WARGEAR**
 
-- Teeth And Claws ([Hand Weapon])
+- Teeth and Claws ([hand Weapon][Hand Weapon])
 
 </div>
 
@@ -877,7 +888,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 **OPTIONS**
 
-An Isengard [Warg] Rider must have one of the following options for the listed points cost:
+An Isengard Warg Rider must have one of the following options for the listed points cost:
 
 - [Shield] and Throwing Spears - 2 points
 - Orc [Bow] - 1 point
@@ -916,6 +927,7 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
@@ -935,8 +947,6 @@ A model with a torch can attempt to detonate the charge in the Fight phase, if t
 - **Attacking the Charge** `ACTIVE`
 
 The charge has Defence 7 and Wounds 3. Charge can potentially go off when it takes a Wound. Charge can also be disabled by an enemy model who has only moved into base contact with it that turn. See pg.169 of Armies of LOTR book for full details.
-
-
 
 **Uruk-hai Siege Crew**
 
@@ -972,10 +982,10 @@ A [hand-and-a-half weapon][Hand-and-a-half Weapon]. If using as a [two-handed we
 
 When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
-
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI SCOUT [8 POINTS]
@@ -1071,6 +1081,7 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISENGARD ASSAULT BALLISTA [75 POINTS]
@@ -1096,8 +1107,6 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 - **Raise the Ladders!** `ACTIVE`
 
 An Isengard Assault Ballista can be used to raise a ladder onto enemy battlements in a siege game. Choose a point on the battlements within range and roll to hit. If successful, place a ladder within 6" of the wall base below the target point against the battlements. A model that was carrying the ladder can be placed at the top and will count as charging if there is a defender there. If not, the model can move normally.
-
-
 
 **Uruk-hai Siege Crew**
 

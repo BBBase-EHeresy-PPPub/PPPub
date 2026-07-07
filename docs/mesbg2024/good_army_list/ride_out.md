@@ -7,37 +7,37 @@
 **HEROES OF LEGEND**
 
 - **Theoden**: 75 points
-  - Snowmane with armour: 25 points
-  - Exchange armour for heavy armour: 5 points
-  - Shield: 5 points
+    - Snowmane with armour: 25 points
+    - Exchange armour for heavy armour: 5 points
+    - Shield: 5 points
 
 **HEROES OF VALOUR**
 
 - **Aragorn, Strider**: 160 points
-  - Brego: 20 points
-  - Armour: 5 points
+    - Brego: 20 points
+    - Armour: 5 points
 - **Legolas**: 100 points
-  - Horse: 20 points
-  - Armour: 5 points
+    - Horse: 20 points
+    - Armour: 5 points
 
 **HEROES OF FORTITUDE**
 
 - **Captain of Rohan**: 45 points
-  - Horse: 20 points
-  - Exchange armour for heavy armour: 5 points
-  - Shield: 5 points
+    - Horse: 20 points
+    - Exchange armour for heavy armour: 5 points
+    - Shield: 5 points
 - **Gamling**: 55 points
-  - Royal Standard of Rohan: 40 points
-  - Horse: 20 points
+    - Royal Standard of Rohan: 40 points
+    - Horse: 20 points
 
 **WARRIORS**
 
 - **Rider of Rohan**: 14 points
-  - Banner: 25 points
-  - Throwing spears: 2 points
+    - Banner: 25 points
+    - Throwing spears: 2 points
 - **Rohan Royal Guard**: 11 points
-  - Horse: 5 points
-  - Throwing spears: 2 points
+    - Horse: 5 points
+    - Throwing spears: 2 points
 
 </div>
 

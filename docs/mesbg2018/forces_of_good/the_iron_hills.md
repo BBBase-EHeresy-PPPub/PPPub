@@ -20,7 +20,7 @@ This army may include: Dain Ironfoot, Lord of the Iron Hills; Iron Hills Captain
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Hammer]
+- [Two-handed][Two-Handed] [Hammer]
 
 **HEROIC ACTIONS**
 

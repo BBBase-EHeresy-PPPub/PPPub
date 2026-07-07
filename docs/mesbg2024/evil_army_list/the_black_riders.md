@@ -7,16 +7,16 @@
 **HEROES OF LEGEND**
 
 - **The Witch-king of Angmar**: 0 points
-  - 2A / 2M / 14W / 2F: 120 points
-  - Horse: 20 points
-  - Morgul Blade: 10 points
+    - 2A / 2M / 14W / 2F: 120 points
+    - Horse: 20 points
+    - Morgul Blade: 10 points
 
 **HEROES OF FORTITUDE**
 
 - **Ringwraith**: 0 points
-  - 2A / 1M / 10W / 1F: 85 points
-  - Horse: 20 points
-  - Morgul Blade: 10 points
+    - 2A / 1M / 10W / 1F: 85 points
+    - Horse: 20 points
+    - Morgul Blade: 10 points
 
 </div>
 
@@ -31,7 +31,7 @@
 
 **The Will of Sauron** - Friendly Ringwraith models do not lose a Will Point for being Engaged in Combat as per the [Will of Evil] special rule.
 
-**Screech of the Nazgûl** - A friendly Ringwraith model can use this special rule at the start of their Activation. If they do, choose an enemy model within 12" and Line of Sight of the Ringwraith. The chosen model is immediately subject to the Transfix Magical Power, which will count as being Cast on a 6 - they may take a Resist Test as normal. A Ringwraith model that uses this special rule cannot also Cast a Magical Power during their Activation. Only a single Ringwraith can use this special rule each turn, and each Ringwraith can only use this special rule once per game.
+**Screech of the Nazgûl** - A friendly Ringwraith model can use this special rule at the start of their Activation. If they do, choose an enemy model within 12" and Line of Sight of the Ringwraith. The chosen model is immediately subject to the [Transfix] Magical Power, which will count as being Cast on a 6 - they may take a Resist Test as normal. A Ringwraith model that uses this special rule cannot also Cast a Magical Power during their Activation. Only a single Ringwraith can use this special rule each turn, and each Ringwraith can only use this special rule once per game.
 
 **Hunt the Ringbearer** - At the start of the Fight Phase, before any other Heroic Actions are declared, a single friendly Ringwraith may declare a [Heroic Combat] for free. This can only be done if, should the [Heroic Combat] be successful, the Ringwraith could Charge the Ringbearer. If the [Heroic Combat] is successful, the Ringwraith must Charge the Ringbearer, though any other models involved in the [Heroic Combat] may act as normal.
 

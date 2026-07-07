@@ -14,12 +14,12 @@
 - **Mordor Orc Captain**: 45 points
 - **Mordor Orc Taskmaster**: 45 points
 - **Mordor Uruk-Hai Captain**: 55 points
-  - Two-handed weapon: 5 points
+    - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
 - **Mordor Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 
 **INDEPENDENT HEROES**
 
@@ -29,13 +29,13 @@
 **WARRIORS**
 
 - **Mordor Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Mordor Uruk-Hai**: 8 points
-  - Two-handed weapon: 1 point
+    - Two-handed weapon: 1 point
 - **Orc Tracker**: 6 points
 
 </div>

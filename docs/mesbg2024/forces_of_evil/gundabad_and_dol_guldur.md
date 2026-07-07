@@ -43,6 +43,7 @@ When making Strikes against an enemy Hero, he may use this rule. A To Wound roll
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SAURON, THE NECROMANCER [200 POINTS]
@@ -100,6 +101,7 @@ Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for the
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOLG, SPAWN OF AZOG [175 POINTS]
@@ -140,6 +142,7 @@ Keep track of how many enemies that Bolg kills in Combat. After two kills, Bolg 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [80 POINTS]
@@ -171,7 +174,7 @@ Khamul has 3 Attacks instead of 2.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -180,6 +183,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [80 POINTS]
@@ -211,7 +215,7 @@ You may include up to two Abyssal Knights. At the start of the Move phase before
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -220,6 +224,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DARK HEADSMAN [80 POINTS]
@@ -251,7 +256,7 @@ If this model rolls a natural 6 during a Duel roll, then it gains [Mighty Blow] 
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -260,6 +265,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE FORSAKEN [80 POINTS]
@@ -288,7 +294,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -297,6 +303,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE KEEPER OF THE DUNGEONS [80 POINTS]
@@ -333,6 +340,7 @@ The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE LINGERING SHADOW [80 POINTS]
@@ -364,7 +372,7 @@ At the start of the Move phase before the Declare Heroic Actions step, the contr
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -373,6 +381,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [80 POINTS]
@@ -404,7 +413,7 @@ You may include up to two Slayers of Men. This model may re-roll failed To Wound
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -413,6 +422,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [80 POINTS]
@@ -444,7 +454,7 @@ The Witch-king has Fight 6 rather than 5, and 3 Might instead of 1.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not invisible to these models.
+Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
 
 - **Unholy Resurrection** `PASSIVE`
 
@@ -453,6 +463,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FIMBUL, HUNTER ORC CAPTAIN [50 POINTS]
@@ -487,6 +498,7 @@ Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Movi
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
@@ -521,6 +533,7 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [60 POINTS]
@@ -584,6 +597,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### NARZUG, HUNTER ORC CAPTAIN [55 POINTS]
@@ -616,6 +630,7 @@ Each Turn, Narzug gains a free Might point that can only be spent during a shoot
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### YAZNEG, HUNTER ORC CAPTAIN [55 POINTS]
@@ -650,6 +665,7 @@ At the beginning of a Combat he is involved in, if Yazneg is within 3" of Azog, 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD CATAPULT TROLL [180 POINTS]
@@ -692,6 +708,7 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TROLL BRUTE [120 POINTS]
@@ -717,8 +734,6 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 
 When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
-
-
 **Orc Commander**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -742,6 +757,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
@@ -754,7 +770,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
 **WARGEAR**
 
-- Claws And Teeth ([Hand Weapon])
+- Claws and Teeth ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -794,6 +810,7 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD BERSERKER [15 POINTS]
@@ -825,6 +842,7 @@ Whenever this model suffers a Wound, roll a D6. On the roll of a natural 6, the 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD OGRE [60 POINTS]
@@ -853,6 +871,7 @@ Ogres can pass through friendly Orc, Goblin and Bat models when they Charge into
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [9 POINTS]
@@ -924,6 +943,7 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HUNTER ORC WARG RIDER [15 POINTS]
@@ -954,6 +974,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HUNTER ORC WARRIOR [8 POINTS]
@@ -983,6 +1004,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD GIANT SPIDER [20 POINTS]
@@ -1005,11 +1027,12 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 - **Spider Webs** `ACTIVE`
 
-A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon] with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power, however the effects will not immediately end should this model have no Will points or be slain. If this hits a Cavalry model, both the rider and mount will be hit. A Hero model hit may spend a Fate point to avoid its effects If the Hero is a Cavalry model, this would negate the effects on both the rider and mount.
+A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon] with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power, however the effects will not immediately end should this model have no Will points or be slain. If this hits a Cavalry model, both the rider and mount will be hit. A Hero model hit may spend a Fate point to avoid its effects If the Hero is a Cavalry model, this would negate the effects on both the rider and mount.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD HUNTING SPIDER [20 POINTS]
@@ -1038,6 +1061,7 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a fo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WAR BAT [25 POINTS]

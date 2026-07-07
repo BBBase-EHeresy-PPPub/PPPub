@@ -38,6 +38,7 @@ Friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DARK LORD SAURON [400 POINTS]
@@ -98,6 +99,7 @@ Can make a Strength 10 strike against one model. If they survive, they are [Set 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [0 POINTS]
@@ -160,6 +162,7 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN (GENERAL) [150 POINTS]
@@ -235,6 +238,7 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [0 POINTS]
@@ -284,6 +288,7 @@ Once per game, direct all attacks against one model, and if they suffer at least
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHAL [70 POINTS]
@@ -316,6 +321,7 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EASTERLING CAPTAIN [60 POINTS]
@@ -348,6 +354,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GORBAG [60 POINTS]
@@ -381,6 +388,7 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOTHMOG'S ENFORCER [55 POINTS]
@@ -404,11 +412,12 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 
 - **Gothmog's Right Hand** `PASSIVE`
 
-If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a [Heroic Move] or [Heroic March], instead of spending his own Might points. Additionally, when Gothmog declares a [Heroic March] or [Heroic Move] within 3" of Gothmog's Enforcer, Gothmog can measure the range of the with Me or At the Double from Gothmog's Enforcer, rather than himself.
+If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a [Heroic Move] or [Heroic March], instead of spending his own Might points. Additionally, when Gothmog declares a [Heroic March] or [Heroic Move] within 3" of Gothmog's Enforcer, Gothmog can measure the range of the With Me or At the Double from Gothmog's Enforcer, rather than himself.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GURITZ [65 POINTS]
@@ -442,6 +451,7 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORANNON ORC CAPTAIN [55 POINTS]
@@ -475,6 +485,7 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR ORC CAPTAIN [45 POINTS]
@@ -528,6 +539,7 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic Marc
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN [150 POINTS]
@@ -590,6 +602,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHAGRAT [110 POINTS]
@@ -626,6 +639,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR ORC SHAMAN [50 POINTS]
@@ -694,7 +708,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Fangs ([Hand Weapon])
+- Fangs ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -719,11 +733,12 @@ Shelob gains +1 Attack whilst Engaged in Combat with an enemy Man, Elf Dwarf or 
 
 - **Caught in a Web** `BRUTAL POWER ATTACK`
 
-Shelob can choose to direct a single strike at one model in the Combat. That model suffers one Strength 8 hit, and if it survives, the model is treated as being under the effect of the Paralyse magical power. The model will also not automatically recover if Shelob is slain, leaves the board, or reduced to zero Will points.
+Shelob can choose to direct a single strike at one model in the Combat. That model suffers one Strength 8 hit, and if it survives, the model is treated as being under the effect of the [Paralyse] magical power. The model will also not automatically recover if Shelob is slain, leaves the board, or reduced to zero Will points.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN KNIGHT [20 POINTS]
@@ -758,6 +773,7 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN WARRIOR [10 POINTS]
@@ -785,6 +801,7 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### EASTERLING WARRIOR [8 POINTS]
@@ -803,7 +820,7 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 **OPTIONS**
 
 - [Banner] - 25 points
-- Easterling Halberd And [Shield] - 2 points
+- Easterling Halberd and [Shield] - 2 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 
@@ -820,6 +837,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORANNON ORC WARRIOR [8 POINTS]
@@ -851,6 +869,7 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR ORC WARRIOR [5 POINTS]
@@ -937,6 +956,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR WARG RIDER [11 POINTS]
@@ -955,7 +975,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **OPTIONS**
 
-A Mordor [Warg] Rider must have one of the following options for the listed points cost:
+A Mordor Warg Rider must have one of the following options for the listed points cost:
 
 - [Shield] and Throwing Spears - 2 points
 - Orc [Bow] - 1 point
@@ -994,6 +1014,7 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR SIEGE BOW [50 POINTS]
@@ -1003,6 +1024,10 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 8 | 9 | - | 3 | - | - | 1 | 1 | 1 |
+
+**OPTIONS**
+
+- Flaming Ammunition - 10 points
 
 **SPECIAL RULES**
 
@@ -1015,12 +1040,6 @@ A Mordor Siege [Bow] will only Scatter 3" rather than 6".
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
-
-
-**OPTIONS**
-
-- Flaming Ammunition - 10 points
-
 
 **Mordor Orc Siege Crew**
 
@@ -1036,6 +1055,7 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORDOR WAR CATAPULT [150 POINTS]
@@ -1045,6 +1065,11 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 10 | 10 | - | 4 | - | - | 1 | 1 | 1 |
+
+**OPTIONS**
+
+- Severed Heads - 20 points
+- Flaming Ammunition - 10 points
 
 **SPECIAL RULES**
 
@@ -1061,13 +1086,6 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 - **Wall-breaker** `ACTIVE`
 
 When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
-
-
-**OPTIONS**
-
-- Severed Heads - 20 points
-- Flaming Ammunition - 10 points
-
 
 **Mordor Orc Siege Crew**
 

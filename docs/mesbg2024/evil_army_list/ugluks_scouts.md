@@ -28,15 +28,15 @@
 **WARRIORS**
 
 - **Isengard Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Uruk-Hai Scout**: 8 points
-  - Banner: 25 points
-  - Shield: 1 point
-  - Uruk-hai bow: 1 point
+    - Banner: 25 points
+    - Shield: 1 point
+    - Uruk-hai bow: 1 point
 
 </div>
 

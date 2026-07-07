@@ -7,16 +7,16 @@
 **HEROES OF LEGEND**
 
 - **Aragorn, Strider**: 160 points
-  - Bow: 5 points
+    - Bow: 5 points
 
 **HEROES OF FORTITUDE**
 
 - **Arwen**: 70 points
-  - Asfaloth: 20 points
-  - Hadhafang: Free
+    - Asfaloth: 20 points
+    - Hadhafang: Free
 - **Frodo Baggins**: 55 points
-  - Mithril Coat: 15 points
-  - Sting: 5 points
+    - Mithril Coat: 15 points
+    - Sting: 5 points
 - **Gildor Inglorion**: 70 points
 - **Samwise Gamgee**: 40 points
 
@@ -36,10 +36,10 @@
 **WARRIORS**
 
 - **Noldorin Exiles**: 9 points
-  - Banner: 25 points
-  - Elf bow: 2 points
-  - Elven throwing weapons: 2 points
-  - Wood Elf spear: 1 point
+    - Banner: 25 points
+    - Elf bow: 2 points
+    - Elven throwing weapons: 2 points
+    - Wood Elf spear: 1 point
 
 </div>
 
@@ -52,7 +52,7 @@
 
 **"We do not stop 'til nightfall"** - Aragorn may declare a [Heroic March] each turn for free. Additionally, friendly models that begin their Activation within 6" of Aragorn gain the [Woodland Creature] special rule until the end of the turn.
 
-**"I'm the faster rider. I'll take him"** - If your Army includes both Frodo and Arwen, then Frodo may begin the game as a Passenger upon Asfaloth. Whilst Frodo is mounted on Asfaloth, Arwen gains the [Resistant to Magic] special rule, increases her Attacks characteristic to 3, and can spend Frodo's Might, Will and Fate Points as if they were her own. Frodo cannot put on the One Ring whilst he is a Passenger.
+**"I'm the faster rider. I'll take him"** - If your Army includes both Frodo and Arwen, then Frodo may begin the game as a Passenger upon Asfaloth. Whilst Frodo is mounted on Asfaloth, Arwen gains the [Resistant to Magic] special rule, increases her Attacks characteristic to 3, and can spend Frodo's Might, Will and Fate Points as if they were her own. Frodo cannot put on [the One Ring][The One Ring] whilst he is a Passenger.
 
 **"If you want him, come and claim him"** - Whilst she is within 6" of Frodo (including if he is a Passenger on Asfaloth), Arwen gains the [Fearless] special rule and may re-roll any dice when making a Casting Roll.
 

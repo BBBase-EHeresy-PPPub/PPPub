@@ -46,11 +46,12 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 
 - **High King of the Mahud** `PASSIVE`
 
-Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and may be deployed outside of the Howdah.
+[Stand Fast!] is 12", and his warband may deploy within 12" rather than 6", and may be deployed outside of the Howdah.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
@@ -151,6 +152,7 @@ Inflicts three Strength 9 hits.
 ---
 
 ## WARRIORS OF FAR HARAD
+
 <div class="unitCard" markdown>
 
 ### HALF TROLL [23 POINTS]
@@ -168,7 +170,7 @@ Inflicts three Strength 9 hits.
 **OPTIONS**
 
 - Swap Weapon - 1 point
-- Two-Handed [Club] - 1 point
+- [Two-Handed] [Club] - 1 point
 
 **SPECIAL RULES**
 

@@ -15,20 +15,20 @@
 **HEROES OF FORTITUDE**
 
 - **Corsair Bo'sun**: 50 points
-  - Exchange spear for crossbow: Free
+    - Exchange spear for crossbow: Free
 - **Corsair Captain**: 55 points
-  - Exchange two-handed weapon for crossbow: Free
+    - Exchange two-handed weapon for crossbow: Free
 - **Corsair Captain (General)**: 55 points
-  - Exchange two-handed weapon for crossbow: Free
+    - Exchange two-handed weapon for crossbow: Free
 
 **WARRIORS**
 
 - **Corsair Crossbowman**: 10 points
 - **Corsair Reaver**: 9 points
 - **Corsair of Umbar**: 8 points
-  - Bow: 1 point
-  - Light shield and throwing weapons: 1 point
-  - Spear: 1 point
+    - Bow: 1 point
+    - Light shield and throwing weapons: 1 point
+    - Spear: 1 point
 
 **SIEGE ENGINES**
 

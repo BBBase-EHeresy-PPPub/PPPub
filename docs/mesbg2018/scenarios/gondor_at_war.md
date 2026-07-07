@@ -433,19 +433,19 @@ The turn then ends and the next turn begins.
 
 | Card Value | Effect |
 |------------|--------|
-| A          | You gain 3 Power tokens. |
-| 2          | Your opponent loses 1 Power token. |
-| 3          | Your opponent loses 1 Power token. If your opponent is adjacent (including diagonal) to you, they instead lose 3 Power tokens. |
-| 4          | You gain D3 Power tokens. |
-| 5          | Steal D3 Power tokens from your opponent. |
-| 6          | Roll a D6. On a 3+, you gain 2 Power tokens; on a 1-2, you lose 2 Power tokens. |
-| 7          | Your opponent loses 1 Power token; you may then move them to any adjacent space. |
-| 8          | Your opponent discards a card from their hand at random. |
-| 9          | Roll four dice; your opponent loses 1 Power token for each 4+ you rolled. |
-| 10         | Roll a D6. On a 1-3, Gandalf loses 2 Power tokens; on a 4+, the Witch-king loses 2 Power tokens. |
-| J          | Your opponent loses 2 Power tokens. |
-| Q          | Gandalf ignores all card effects until the end of the turn. |
-| K          | Your opponent loses D6 Power tokens. |
+| A | You gain 3 Power tokens. |
+| 2 | Your opponent loses 1 Power token. |
+| 3 | Your opponent loses 1 Power token. If your opponent is adjacent (including diagonal) to you, they instead lose 3 Power tokens. |
+| 4 | You gain D3 Power tokens. |
+| 5 | Steal D3 Power tokens from your opponent. |
+| 6 | Roll a D6. On a 3+, you gain 2 Power tokens; on a 1-2, you lose 2 Power tokens. |
+| 7 | Your opponent loses 1 Power token; you may then move them to any adjacent space. |
+| 8 | Your opponent discards a card from their hand at random. |
+| 9 | Roll four dice; your opponent loses 1 Power token for each 4+ you rolled. |
+| 10 | Roll a D6. On a 1-3, Gandalf loses 2 Power tokens; on a 4+, the Witch-king loses 2 Power tokens. |
+| J | Your opponent loses 2 Power tokens. |
+| Q | Gandalf ignores all card effects until the end of the turn. |
+| K | Your opponent loses D6 Power tokens. |
 
 ![](../media/scenarios/gondor_at_war/the_witch_kings_arrival.jpg)
 
@@ -895,9 +895,9 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 
 * **LEGOLAS**
 
-| AP  | S   | C  | W  |
+| AP | S | C | W |
 | --- | --- | ---| ---|
-| 6   | 3+  | 2  | 3  |
+| 6 | 3+ | 2 | 3 |
 
 **RANGED WEAPON:**
 
@@ -913,9 +913,9 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 
 * **HARADRIM WITH BOW**
 
-| AP  | S   | C  | W  |
+| AP | S | C | W |
 | --- | --- | ---| ---|
-| 1   | 4+  | 1  | 1  |
+| 1 | 4+ | 1 | 1 |
 
 **RANGED WEAPON:**
 
@@ -931,9 +931,9 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 
 * **HARADRIM WITH SPEAR**
 
-| AP  | S   | C  | W  |
+| AP | S | C | W |
 | --- | --- | ---| ---|
-| 1   | -   | 1  | 1  |
+| 1 | - | 1 | 1 |
 
 **RANGED WEAPON:**
 
@@ -949,9 +949,9 @@ Spear: Score to Wound - 5+
 
 * **HARADRIM CHIEFTAIN**
 
-| AP  | S   | C  | W  |
+| AP | S | C | W |
 | --- | --- | ---| ---|
-| 3   | -   | 2  | 2  |
+| 3 | - | 2 | 2 |
 
 **RANGED WEAPON:**
 

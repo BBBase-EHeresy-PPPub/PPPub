@@ -2,21 +2,16 @@
 
 <div class="unitCard" markdown>
 
-**BEORN [200 points]**
-
-**GRIMBEORN [200 points]**
-
-**BEORNING [20 points]**
-
-• Swap Weapon: 1 point
-• Swap Hand-and-a-Half Axe for Great Bow: 0 points
-
+- **BEORN**: 200 points
+- **GRIMBEORN**: 200 points
+- **BEORNING**: 20 points
+    - Swap Hand-and-a-Half Axe for Great Bow: Free
 </div>
 
 ## ADDITIONAL RULES
 
 - If a Beornings force includes both Beorn and Grimbeorn, then Beorn will automatically be the leader.
-- Friendly models may benefit from Beorn's Heroic Actions. Additionally, Beorning models may benefit from Beorn's Stand Fast!
+- Friendly models may benefit from Beorn's Heroic Actions. Additionally, Beorning models may benefit from Beorn's [Stand Fast!]
 - Whilst he is in bear form, Beorn may still benefit from the Heroic Actions of Grimbeorn regardless of his Berserk special rule.
 
 ## SPECIAL RULES

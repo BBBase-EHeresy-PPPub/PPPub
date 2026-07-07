@@ -67,7 +67,7 @@ If your force includes Aranarth, you may include Ranger of the North and Dunedai
 
 - **The King in the North** `PASSIVE`
 
-Arvedui's Stand Fast! Is 12", rather than 6".
+Arvedui's [Stand Fast!] Is 12", rather than 6".
 
 </div>
 

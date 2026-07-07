@@ -20,7 +20,7 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -56,7 +56,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Dagger]
 - [Bow]
 
@@ -88,7 +88,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Dagger]
 - Khandish Chariot
 
@@ -131,7 +131,7 @@ See page 189 of Armies of LOTR.
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Bow]
 - [Dagger]
 - [Horse]
@@ -156,7 +156,7 @@ See page 189 of Armies of LOTR.
 **WARGEAR**
 
 - [Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 - [Dagger]
 
 **OPTIONS**

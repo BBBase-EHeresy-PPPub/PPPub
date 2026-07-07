@@ -12,7 +12,7 @@
 
 - **Alfrid the Councillor**: 30 points
 - **Bard the Bowman**: 130 points
-  - Windlance: 50 points
+    - Windlance: 50 points
 - **Bofur the Dwarf**: 45 points
 - **Braga, Captain of the Guard**: 55 points
 - **Fili the Dwarf**: 50 points
@@ -20,7 +20,7 @@
 - **Lake-town Guard Captain**: 45 points
 - **Oin the Dwarf**: 50 points
 - **Tauriel, Ranger of Mirkwood**: 90 points
-  - Elf bow: 5 points
+    - Elf bow: 5 points
 
 **INDEPENDENT HEROES**
 
@@ -29,8 +29,8 @@
 **WARRIORS**
 
 - **Lake-town Guard**: 7 points
-  - Bow: 1 point
-  - Spear: 1 point
+    - Bow: 1 point
+    - Spear: 1 point
 
 </div>
 

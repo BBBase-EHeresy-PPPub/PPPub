@@ -6,7 +6,7 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 **"Will you follow me, one last time?"** - All models in this army list change their Iron Hills keyword for the Erebor keyword. All friendly Erebor Dwarf models from this army list gain the Du Bekar special rule.
 
-**"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Dain Ironfoot, King Under the Mountain.
+**"Du Bekar"** - A model with this special rule counts as being in range of a [banner][Banner] if they are within 6" of Dain Ironfoot, King Under the Mountain.
 
 ## HEROES OF EREBOR RECLAIMED (KING DAIN)
 
@@ -40,7 +40,7 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 - **King Under the Mountain** `ACTIVE`
 
-Friendly Erebor Dwarf models, including Hero models, benefit from Dain's Stand Fast! regardless of range.
+Friendly Erebor Dwarf models, including Hero models, benefit from Dain's [Stand Fast!] regardless of range.
 
 - **Venerable** `PASSIVE`
 
@@ -63,7 +63,7 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick]
 
 - [Heavy Dwarf Armour]
 - Two Axes
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -101,7 +101,7 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 
 - [Heavy Armour]
 - [Shield]
-- Hand-and-a-half [Pick]
+- [Hand-and-a-half][Hand-And-A-Half] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -131,7 +131,7 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -161,7 +161,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 **WARGEAR**
 
-- [Heavy Dwarf Armour], Hand-and-a-half [Hammer]
+- [Heavy Dwarf Armour], [Hand-and-a-half][Hand-And-A-Half] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -192,7 +192,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -227,7 +227,7 @@ Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 

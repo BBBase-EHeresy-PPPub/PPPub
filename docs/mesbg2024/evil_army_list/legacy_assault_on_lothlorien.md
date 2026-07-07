@@ -15,7 +15,7 @@
 - **Mordor Orc Captain**: 45 points
 - **Mordor Orc Shaman**: 50 points
 - **Moria Goblin Captain**: 40 points
-  - Orc bow: 5 points
+    - Orc bow: 5 points
 - **Moria Goblin Shaman**: 45 points
 - **Wild Warg Chieftain**: 80 points
 
@@ -24,23 +24,23 @@
 - **Bat Swarm**: 35 points
 - **Mirkwood Giant Spider**: 20 points
 - **Mirkwood Hunting Spider**: 20 points
-  - Upgrade to Venomback Spider: 2 points
+    - Upgrade to Venomback Spider: 2 points
 - **Mordor Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Mordor Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Moria Goblin Prowler**: 7 points
 - **Moria Goblin Warrior**: 4 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
 - **Orc Tracker**: 6 points
 - **Warg Marauder**: 35 points
 

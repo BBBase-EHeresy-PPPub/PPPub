@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Gorulf Ironskin; Mauhur; Orc Captain; Sharku; Snaga; Thrydan Wolfsbane; Ugluk; Uruk-Hai Captain; Uruk-Hai Scout Captain; Vrasku; Wild Man Oathmaker; Uruk-Hai Shaman; Uruk-Hai Drummer; Crebain; Dunlending Horseman; Dunlending Huscarl; Dunlending Warrior; Feral Uruk-Hai; Isengard Troll; Orc Warrior; Uruk-Hai Berserker; Uruk-Hai Demolition Team; Uruk-Hai Scout; Uruk-Hai Warrior; [Warg] Rider; Wild Man of Dunland; Isengard Assault Ballista; Grima.
+This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Gorulf Ironskin; Mauhur; Orc Captain; Sharku; Snaga; Thrydan Wolfsbane; Ugluk; Uruk-Hai Captain; Uruk-Hai Scout Captain; Vrasku; Wild Man Oathmaker; Uruk-Hai Shaman; Uruk-Hai Drummer; Crebain; Dunlending Horseman; Dunlending Huscarl; Dunlending Warrior; Feral Uruk-Hai; Isengard Troll; Orc Warrior; Uruk-Hai Berserker; Uruk-Hai Demolition Team; Uruk-Hai Scout; Uruk-Hai Warrior; Warg Rider; Wild Man of Dunland; Isengard Assault Ballista; Grima.
 
 ## ARMY BONUS
 
@@ -47,7 +47,7 @@ Once per game, you may automatically win the Priority roll. Must be declared bef
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's Stand Fast! Range is 12", and affects hero models.
+Saruman's [Stand Fast!] Range is 12", and affects hero models.
 
 - **Lord of the Istari** `PASSIVE`
 
@@ -56,6 +56,7 @@ Can re-roll one dice when making Casting or Resist tests.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### LURTZ [90 POINTS]
@@ -91,6 +92,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING CHIEFTAIN [55 POINTS]
@@ -104,7 +106,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 - [Armour]
 - [Dagger]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -114,7 +116,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 - [Bow] - 5 points
 - Swap Weapon - 5 points
-- Swap Two-Handed [Axe] for [Axe] and [Shield] - FREE - Free
+- Swap [Two-Handed] [Axe] for [Axe] and [Shield] - Free
 
 </div>
 
@@ -154,6 +156,7 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GORULF IRONSKIN [70 POINTS]
@@ -184,6 +187,7 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MAUHUR [60 POINTS]
@@ -268,6 +272,7 @@ Whenever an enemy Hero model in base contact resolves a strike against Sharku an
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SNAGA [50 POINTS]
@@ -299,6 +304,7 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THRYDAN WOLFSBANE [85 POINTS]
@@ -312,7 +318,7 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 - [Armour]
 - [Sword]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -329,11 +335,12 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 - **Lord of Dunland** `ACTIVE`
 
-The range of Thrydan's Stand Fast! is 12".
+The range of Thrydan's [Stand Fast!] is 12".
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### UGLUK [65 POINTS]
@@ -358,11 +365,12 @@ The range of Thrydan's Stand Fast! is 12".
 
 - **Head Taker** `ACTIVE`
 
-If his warband is broken, instead of taking a courage test, Uglúk can kill a friendly Warrior within 2" and pass the test, with a Stand Fast! Range of 12" that affects both Warrior and Hero models
+If his warband is broken, instead of taking a courage test, Uglúk can kill a friendly Warrior within 2" and pass the test, with a [Stand Fast!] Range of 12" that affects both Warrior and Hero models
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI CAPTAIN [60 POINTS]
@@ -482,6 +490,7 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI SHAMAN [50 POINTS]
@@ -568,6 +577,7 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING HORSEMAN [12 POINTS]
@@ -598,6 +608,7 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING HUSCARL [11 POINTS]
@@ -632,6 +643,7 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUNLENDING WARRIOR [7 POINTS]
@@ -650,7 +662,7 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 - [Banner] - 25 points
 - [Shield] - 1 point
-- Two-Handed [Axe] - 1 point
+- [Two-Handed] [Axe] - 1 point
 - Swap [Axe] for [Dagger] and [Bow] - 1 point
 - Swap Weapon - 1 point
 
@@ -684,6 +696,7 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISENGARD TROLL [110 POINTS]
@@ -771,6 +784,7 @@ The berserkers Defence is 6 against enemy shooting attacks
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
@@ -888,7 +902,7 @@ See page 178 of Armies of LOTR book.
 
 **OPTIONS**
 
-- Two-Handed [Axe] - 1 point
+- [Two-Handed] [Axe] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -917,7 +931,7 @@ See page 178 of Armies of LOTR book.
 - Additional Crew - 9 points
 - Engineer Captain - [Crossbow] - 5 points
 - Engineer Captain - [Shield] - 5 points
-- Engineer Captain - [Two-handed Weapon] - 5 points
+- Engineer Captain - [Two-Handed Weapon][Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 

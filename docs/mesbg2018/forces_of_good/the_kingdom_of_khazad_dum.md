@@ -20,7 +20,7 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 **WARGEAR**
 
 - Heavy Mithril [Armour]
-- Durin's axe
+- Durin's Axe
 
 **HEROIC ACTIONS**
 
@@ -34,7 +34,7 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 - **Durin's axe** `ACTIVE`
 
-[Master-forged][Master-Forged] [two-handed][Two-Handed] axe, re-roll a single dice in duel rolls.
+[Master-forged][Master-Forged] [two-handed][Two-Handed] [axe][Axe], re-roll a single dice in duel rolls.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
@@ -51,6 +51,7 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
@@ -73,7 +74,7 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 **OPTIONS**
 
 - Throwing Axes - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
 </div>
@@ -102,7 +103,7 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 - [Shield] - 5 points
 - Throwing Axes - 5 points
-- Two-Handed [Axe] - 5 points
+- [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
 </div>
@@ -136,6 +137,7 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
@@ -168,6 +170,7 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MARDIN [75 POINTS]
@@ -197,6 +200,7 @@ This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin add
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### SHIELDBEARER [60 POINTS]
@@ -221,7 +225,7 @@ This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin add
 
 - **In Defence of the King** `ACTIVE`
 
-At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
+At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the [Heroic combat][Heroic Combat] is successful, they must use their following Move to either join the fight, or move as close as possible.
 
 - **Lead by Example** `PASSIVE`
 
@@ -232,6 +236,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 ---
 
 ## WARRIORS OF THE KINGDOM OF KHAZAD-DUM
+
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
@@ -250,7 +255,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - Dwarf Longbow - 1 point
 - Throwing Axes - 1 point
-- Two-Handed [Axe] - 1 point
+- [Two-Handed] [Axe] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -281,7 +286,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - [Banner] - 25 points
 - Dwarf [Bow] - 1 point
 - [Shield] - 1 point
-- Two-Handed [Axe] & [Dagger] - 1 point
+- [Two-Handed] [Axe] & [Dagger] - 1 point
 - Swap Weapon - 1 point
 
 </div>
@@ -323,7 +328,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **WARGEAR**
 
 - [Dwarf Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 - [Axe]
 
 **OPTIONS**
@@ -370,7 +375,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - Additional Crew - 8 points
 - Engineer Captain - [Shield] - 5 points
 - Engineer Captain - Throwing Axes - 5 points
-- Engineer Captain - Two-Handed [Axe] - 5 points
+- Engineer Captain - [Two-Handed] [Axe] - 5 points
 
 **SPECIAL RULES**
 

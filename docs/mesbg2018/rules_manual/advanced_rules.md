@@ -14,11 +14,11 @@ Deep water is any stretch of water that is deep enough that a model could not st
 
 ### SWIM CHART
 
-| D6 | RESULT                 |
+| D6 | RESULT |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **Sink.** The model is overcome by the weight of its wargear (or complete inability to swim) and drowns. Remove the model as a casualty. |
-| 2-5 | **Swim.** The model may move up to half its remaining Move allowance through the water.       |
-| 6  | **Swim Strongly.** The model may move its remaining Move allowance through the water.       |
+| 1 | **Sink.** The model is overcome by the weight of its wargear (or complete inability to swim) and drowns. Remove the model as a casualty. |
+| 2-5 | **Swim.** The model may move up to half its remaining Move allowance through the water. |
+| 6 | **Swim Strongly.** The model may move its remaining Move allowance through the water. |
 
 Note: Models that are heavily laden may fall foul of their burdens in deep water. All of the following modifiers which are applicable must be applied when taking a Swim test:
 
@@ -107,11 +107,11 @@ Before each Sentry takes their Move phase, their controlling player must roll on
 
 SENTRY CHART
 
-| D6 | Result                |
+| D6 | Result |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------|
-| 1  | The Sentry is searching around in its vicinity - it may not Move this turn.       |
+| 1 | The Sentry is searching around in its vicinity - it may not Move this turn. |
 | 2-3 | The Sentry has been distracted by a noise elsewhere on the board. The opposing player may move the model up to half of its Move allowance in any direction. |
 | 4-5 | The Sentry walks carefully to where they believe an intruder to be - the controlling player may move the model up to 3" in any direction. |
-| 6  | The Sentry is convinced they have spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
+| 6 | The Sentry is convinced they have spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
 
 If during the End phase of any turn there is an unengaged Sentry within 3" and Line of Sight of an enemy model, then the alarm has been raised. Once the alarm has been raised, all Sentries revert back to the normal rules for movement for the remainder of the game.

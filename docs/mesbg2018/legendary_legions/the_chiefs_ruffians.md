@@ -2,36 +2,20 @@
 
 <div class="unitCard" markdown>
 
-**SHARKEY AND WORM [60 points]**
-
-**SID BRIARTHORN, RUFFIAN CHIEF [45 points]**
-
-**BILL FERNY [40 points]**
-
-**HARRY GOATLEAF [40 points]**
-
-**LOTHO SACKVILLE-BAGGINS [30 points]**
-
-**ROWAN THISTLEWOOD, RUFFIAN ENFORCER [45 points]**
-
-**RUFFIAN [5 points]**
-
-• Swap Weapon: 5 points
-• Bow: 1 point
-• Whip: 1 point
-
-**TED SANDYMAN [20 points]**
-
-**HOBBIT MILITIA [4 points]**
-
-• Swap Weapon: 1 point
-
-**RUFFIAN [5 points]**
-
-• Bow: 1 point
-• Whip: 1 point
-• Swap Weapon: 1 point
-
+- **SHARKEY AND WORM**: 60 points
+- **SID BRIARTHORN, RUFFIAN CHIEF**: 45 points
+- **BILL FERNY**: 40 points
+- **HARRY GOATLEAF**: 40 points
+- **LOTHO SACKVILLE-BAGGINS**: 30 points
+- **ROWAN THISTLEWOOD, RUFFIAN ENFORCER**: 45 points
+- **RUFFIAN**: 5 points
+    - Bow: 1 point
+    - Whip: 1 point
+- **TED SANDYMAN**: 20 points
+- **HOBBIT MILITIA**: 4 points
+- **RUFFIAN**: 5 points
+    - Bow: 1 point
+    - Whip: 1 point
 </div>
 
 ## ADDITIONAL RULES
@@ -40,11 +24,11 @@
 
 ## SPECIAL RULES
 
-**"You do what Sharkey says!"** - Sharkey's Stand Fast! affects the entire battlefield.
+**"You do what Sharkey says!"** - Sharkey's [Stand Fast!] affects the entire battlefield.
 
  Sharkey's Wrath - Sharkey gains the [Hatred] (Hobbit) special rule.
 
-**"The Chief's Whips"** - Ruffian models gain +1 to hit when using a whip.
+**"The Chief's Whips"** - Ruffian models gain +1 to hit when using a [whip][Whip].
 
 **"The Chief's Command"** - Ruffian models within 6" of Sharky may use his courage value instead of their own when making Courage tests.
 

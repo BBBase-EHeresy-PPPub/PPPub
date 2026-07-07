@@ -40,9 +40,9 @@ Once per game, the Witch-king can declare he is using the Morgul Blade during th
 
 | | Range | Casting |
 |----------------|:-----:|:-------:|
-| Transfix    | 12"  | 3+   |
-| Compel     | 12"  | 4+   |
-| Black Dart   | 12"  | 5+   |
+| Transfix | 12" | 3+ |
+| Compel | 12" | 4+ |
+| Black Dart | 12" | 5+ |
 
 </div>
 

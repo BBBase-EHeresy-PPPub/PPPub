@@ -45,11 +45,12 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 
 - **Ascendant** `ACTIVE`
 
-Suladan's Stand Fast! is 12" rather than 6".
+Suladan's [Stand Fast!] is 12" rather than 6".
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARADRIM KING [60 POINTS]
@@ -133,6 +134,7 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE GOLDEN KING [130 POINTS]
@@ -166,6 +168,7 @@ This throne is a [banner][Banner], and the King does not suffer the normal -1 pe
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
@@ -231,6 +234,7 @@ Each time a friendly Hero model within 6" (including himself) attempts a [Heroic
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
@@ -267,6 +271,7 @@ A Hasharin can never be trapped while still standing.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
@@ -298,6 +303,7 @@ At the start of the game, secretly select one Hero model in the opponent's force
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [275 POINTS]
@@ -338,6 +344,7 @@ Inflicts three Strength 9 hits.
 ---
 
 ## WARRIORS OF THE SERPENT HORDE
+
 <div class="unitCard" markdown>
 
 ### ABRAKHAN MERCHANT GUARD [9 POINTS]
@@ -349,7 +356,7 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Two-handed [Sword]
+- [Two-handed][Two-Handed] [Sword]
 
 **OPTIONS**
 

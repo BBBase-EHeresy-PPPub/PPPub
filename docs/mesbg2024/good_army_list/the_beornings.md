@@ -15,7 +15,7 @@
 **WARRIORS**
 
 - **Beorning**: 20 points
-  - Swap hand-and-a-half weapon for great bow: Free
+    - Swap hand-and-a-half weapon for great bow: Free
 
 </div>
 

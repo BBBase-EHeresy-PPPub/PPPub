@@ -48,6 +48,7 @@ Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELENDIL [175 POINTS]
@@ -84,6 +85,7 @@ The range of Elendil's Stand Fast is 12" rather than 6".
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [200 POINTS]
@@ -143,6 +145,7 @@ Gandalf may re-roll any failed Fate rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING OF MEN (ARNOR) [75 POINTS]
@@ -216,6 +219,7 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING OF MEN (NUMENOR) [75 POINTS]
@@ -330,6 +334,7 @@ Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOROMIR, CAPTAIN OF THE WHITE TOWER [160 POINTS]
@@ -376,6 +381,7 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DENETHOR [50 POINTS]
@@ -407,6 +413,7 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FARAMIR [100 POINTS]
@@ -448,6 +455,7 @@ If Faramir is alive and you choose to give Priority to your opponent, then Faram
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### FORLONG THE FAT [90 POINTS]
@@ -482,6 +490,7 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HURIN THE TALL, WARDEN OF THE KEYS [80 POINTS]
@@ -524,6 +533,7 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ISILDUR [130 POINTS]
@@ -561,6 +571,7 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KING OF MEN (GONDOR) [75 POINTS]
@@ -636,6 +647,7 @@ Only friendly Dunharrow models may benefit from the King of the Dead's Stand Fas
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ANGBOR THE FEARLESS [70 POINTS]
@@ -668,6 +680,7 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BEREGOND, GUARD OF THE CITADEL [65 POINTS]
@@ -699,6 +712,7 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
@@ -732,6 +746,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF MINAS TIRITH [60 POINTS]
@@ -815,6 +830,7 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DUINHIR, LORD OF THE BLACKROOT VALE [65 POINTS]
@@ -853,6 +869,7 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HERALD OF THE DEAD [70 POINTS]
@@ -887,6 +904,7 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### INGOLD, WARDEN OF THE RAMMAS ECHOR [70 POINTS]
@@ -919,6 +937,7 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
@@ -954,6 +973,7 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MADRIL [60 POINTS]
@@ -986,6 +1006,7 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [25 POINTS]
@@ -1043,6 +1064,7 @@ This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-ha
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
@@ -1076,6 +1098,7 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CITADEL GUARD [8 POINTS]
@@ -1130,6 +1153,7 @@ Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any r
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
@@ -1157,6 +1181,7 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
@@ -1249,6 +1274,7 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### RANGER OF GONDOR [8 POINTS]
@@ -1408,6 +1434,10 @@ A Warrior of Numenor must have one of the following options for the listed point
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 7 | 9 | - | 3 | - | - | 1 | 1 | 1 |
 
+**OPTIONS**
+
+- Swift Reload - 20 points
+
 **SPECIAL RULES**
 
 - **Swift Reload** `ACTIVE`
@@ -1417,12 +1447,6 @@ AWhen firing the Bolt Thrower, you may roll two dice and [pick][Pick] the highes
 - **Rapid Fire** `ACTIVE`
 
 A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6 shoot attacks in the same way as a normal Missile Weapon. No Scatter is required for these shots, they will either hit or miss. Each shot may be fully resolved before determining the target of the next one. Shots fired by the Bolt Thrower do not kill their targets outright if they Wound them.
-
-
-**OPTIONS**
-
-- Swift Reload - 20 points
-
 
 **Minas Tirith Siege Crew**
 
@@ -1438,6 +1462,7 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GONDOR BATTLECRY TREBUCHET [100 POINTS]
@@ -1447,6 +1472,10 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 10 | 10 | - | 3 | - | - | 1 | 1 | 1 |
+
+**OPTIONS**
+
+- Flaming Ammunition - 10 points
 
 **SPECIAL RULES**
 
@@ -1460,12 +1489,6 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 - **Wall-breaker** `ACTIVE`
 
 When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
-
-
-**OPTIONS**
-
-- Flaming Ammunition - 10 points
-
 
 **Minas Tirith Siege Crew**
 

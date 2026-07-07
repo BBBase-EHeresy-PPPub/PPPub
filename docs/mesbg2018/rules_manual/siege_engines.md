@@ -2,7 +2,7 @@ There are many races within Middle-earth that utilise the devastating power of a
 
 A **Siege Engine** has a profile in the same way that Warrior, **Hero** and Monster models do. Understandably, some of the values on an ordinary profile are simply not relevant to a big, inanimate hunk of metal and wood, and this is reflected in the smaller number of characteristics on a Siege Engine's profile.
 
-| Seige Engine  | Strength | Defence | Wounds |
+| Seige Engine | Strength | Defence | Wounds |
 |---------------------|----------|---------|--------|
 | BATTLECRY TREBUCHET | (10) | 10 | 3 |
 
@@ -79,11 +79,11 @@ Although there is a high chance of a Siege Engine missing its intended target an
 
 ### SCATTERTABLE
 
-| D6 | Result                    |
+| D6 | Result |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **Wide of the Mark.** Your opponent may nominate one of your Battlefield targets, or a Siege target within 6" of the initial target, as the new target. If no alternative target is within 6", or if the player does not want to do this, the shot misses completely. |
+| 1 | **Wide of the Mark.** Your opponent may nominate one of your Battlefield targets, or a Siege target within 6" of the initial target, as the new target. If no alternative target is within 6", or if the player does not want to do this, the shot misses completely. |
 | 2-5 | **Slight Deviation.** Your opponent may nominate one of their own Battlefield targets within 6" of the initial target as the new target, or choose the original target. |
-| 6  | **Dead on!** The shot lands exactly on the target.               |
+| 6 | **Dead on!** The shot lands exactly on the target. |
 
 ### ROLLING TO WOUND
 
@@ -148,11 +148,11 @@ To use the demolition charge, it must be dropped. A model with a flaming brand t
 
 ### DETONATION TABLE
 
-| D6 | Result              |
+| D6 | Result |
 |-----------|-----------------------------------------------------------------------------------------------------------------|
-| 1  | **Dud.** The charge has been damaged in some way and will not detonate yet - roll again next turn and add +1 to the roll. |
-| 2-5 | **Instant Reaction.** The charge catches instantly, exploding in a roar of smoke and flame, see below.  |
-| 6  | **Titanic Explosion.** The powder in the charge detonates with colossal fury as described below, but inflicts 2D6 Wounds rather than D6. |
+| 1 | **Dud.** The charge has been damaged in some way and will not detonate yet - roll again next turn and add +1 to the roll. |
+| 2-5 | **Instant Reaction.** The charge catches instantly, exploding in a roar of smoke and flame, see below. |
+| 6 | **Titanic Explosion.** The powder in the charge detonates with colossal fury as described below, but inflicts 2D6 Wounds rather than D6. |
 
 When it explodes, a demolition charge automatically strikes everything within 2" of the model - walls, gates, doors, and of course, any models (friend or foe) that are in range of it. Each target struck automatically takes D6 Wounds, regardless of its Defence value. **Cavalry** models take D6 Wounds on both the mount and the rider.
 

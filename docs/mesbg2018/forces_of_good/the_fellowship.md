@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Gandalf the Grey; Aragorn, Strider; Boromir of Gondor; Gimli; Legolas; Frodo Baggins; Samwise Gamgee; Arwen; Meriadoc Brandybuck; Peregrin Took; Bill the [Pony]; Smeagol.
+This army may include: Gandalf the Grey; Aragorn, Strider; Boromir of Gondor; Gimli; Legolas; Frodo Baggins; Samwise Gamgee; Arwen; Meriadoc Brandybuck; Peregrin Took; Bill the Pony; Smeagol.
 
 ## ARMY BONUS
 
@@ -155,7 +155,7 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Master Forged Two-handed [Axe]
+- [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Axe]
 - Two Axes
 - Throwing Axes
 
@@ -193,7 +193,7 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
 **WARGEAR**
 
-- Elven-made Daggers
+- [Elven-made] Daggers
 - Elf [Bow]
 
 **HEROIC ACTIONS**
@@ -310,7 +310,7 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -426,7 +426,7 @@ Each turn, one Fellowship model in base contact with Bill can roll a D6. On a 5+
 
 - **Only a Pony** `PASSIVE`
 
-May never charge, and no other models can benefit from his Stand Fast!. However, he can benefit from any Hobbit hero's Stand Fast!
+May never charge, and no other models can benefit from his [Stand Fast!]. However, he can benefit from any Hobbit hero's [Stand Fast!]
 
 </div>
 

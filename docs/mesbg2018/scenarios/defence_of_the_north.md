@@ -434,14 +434,14 @@ During the End phase of each turn, any Orc model in base contact with one of the
 
 Whenever a tree is destroyed, it will fall to the ground; roll a D6 to determine which way it falls and consult the chart below:
 
-| D6  | Result |
+| D6 | Result |
 |-----------|------------|
-| 1         | The Evil player chooses the direction it falls. |
-| 2         | The tree falls towards the southern board edge. |
-| 3         | The tree falls towards the eastern board edge. |
-| 4         | The tree falls towards the western board edge. |
-| 5         | The tree falls towards the northern board edge. |
-| 6         | The Good player chooses the direction it falls. |
+| 1 | The Evil player chooses the direction it falls. |
+| 2 | The tree falls towards the southern board edge. |
+| 3 | The tree falls towards the eastern board edge. |
+| 4 | The tree falls towards the western board edge. |
+| 5 | The tree falls towards the northern board edge. |
+| 6 | The Good player chooses the direction it falls. |
 
 When a tree falls, draw a 1mm wide line from the center of the tree that extends 6" in the required direction. Any model whose base is under that line suffers a Strength 8 hit and is knocked Prone. The tree is then removed from play.
 
@@ -702,9 +702,9 @@ Each Good Hero model starts the game with one fewer Might point than usual.
 
 **PARTICIPANTS**
 
-**Good:**  Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
+**Good:** Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
 
-**Evil:**  Smaug.
+**Evil:** Smaug.
 
 **LAYOUT**
 

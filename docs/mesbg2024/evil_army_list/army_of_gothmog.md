@@ -7,8 +7,8 @@
 **HEROES OF LEGEND**
 
 - **Gothmog**: 120 points
-  - Warg: 20 points
-  - Shield: 5 points
+    - Warg: 20 points
+    - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -16,39 +16,39 @@
 - **Gothmog's Enforcer**: 55 points
 - **Guritz**: 65 points
 - **Morannon Orc Captain**: 55 points
-  - Shield: 5 points
-  - Two-handed weapon: 5 points
+    - Shield: 5 points
+    - Two-handed weapon: 5 points
 - **Mordor Orc Captain**: 45 points
 - **Zagdush, Orc Captain**: 60 points
 
 **MINOR HEROES**
 
 - **Mordor Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 
 **WARRIORS**
 
 - **Morannon Orc Warrior**: 8 points
-  - Banner: 25 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
-  - Spear: 1 point
+    - Banner: 25 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
+    - Spear: 1 point
 - **Mordor Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Mordor Troll**: 90 points
-  - War drum (Mordor): 25 points
+    - War drum (Mordor): 25 points
 
 **SIEGE ENGINES**
 
 - **Mordor Siege Bow**: 50 points
-  - Flaming Ammunition: 10 points
+    - Flaming Ammunition: 10 points
 - **Mordor War Catapult**: 150 points
-  - Severed Heads: 20 points
-  - Flaming Ammunition: 10 points
+    - Severed Heads: 20 points
+    - Flaming Ammunition: 10 points
 
 </div>
 

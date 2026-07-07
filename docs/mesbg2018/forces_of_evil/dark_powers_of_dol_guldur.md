@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The Abyssal Knight; The Abyssal Knight; The Dark Headsman; The Forsaken; The Lingering Shadow; The Slayer of Men; The Slayer of Men; The Witch-king of Angmar; Gundabad Orc Captain; Hunter Orc Captain; The Keeper of the Dungeons; Castellan of Dol Guldur; [Fell Warg]; Gundabad Orc Warrior; Hunter Orc; Mirkwood Spider.
+This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The Abyssal Knight; The Abyssal Knight; The Dark Headsman; The Forsaken; The Lingering Shadow; The Slayer of Men; The Slayer of Men; The Witch-king of Angmar; Gundabad Orc Captain; Hunter Orc Captain; The Keeper of the Dungeons; Castellan of Dol Guldur; Fell Warg; Gundabad Orc Warrior; Hunter Orc; Mirkwood Spider.
 
 ## ARMY BONUS
 
@@ -58,6 +58,7 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [75 POINTS]
@@ -70,7 +71,7 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -100,6 +101,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
@@ -112,7 +114,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -142,6 +144,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
@@ -154,7 +157,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -184,6 +187,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE DARK HEADSMAN [75 POINTS]
@@ -226,6 +230,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE FORSAKEN [75 POINTS]
@@ -268,6 +273,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE LINGERING SHADOW [75 POINTS]
@@ -310,6 +316,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
@@ -322,7 +329,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -352,6 +359,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
@@ -364,7 +372,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -394,6 +402,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [75 POINTS]
@@ -436,6 +445,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
@@ -490,7 +500,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 - [Fell Warg] - 10 points
 - Orc [Bow] - 5 points
-- Two-Handed [Pick] - 5 points
+- [Two-Handed] [Pick] - 5 points
 - Swap Weapon - 5 points
 
 **SPECIAL RULES**
@@ -502,6 +512,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE KEEPER OF THE DUNGEONS [75 POINTS]
@@ -515,7 +526,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 - [Armour]
 - [Sword]
-- Two-handed [Pick]
+- [Two-handed][Two-Handed] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -538,6 +549,7 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CASTELLAN OF DOL GULDUR [40 POINTS]
@@ -568,7 +580,7 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 
 - **Automatons** `PASSIVE`
 
-Castellans do not grant Stand Fast! to nearby Warrior models.
+Castellans do not grant [Stand Fast!] to nearby Warrior models.
 
 - **Will of the Necromancer** `PASSIVE`
 
@@ -579,6 +591,7 @@ Castellans may use Will points as Fate points if they wish.
 ---
 
 ## WARRIORS OF DARK POWERS OF DOL GULDUR
+
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
@@ -650,7 +663,7 @@ Castellans may use Will points as Fate points if they wish.
 - [Banner] - 25 points
 - [Fell Warg] - 8 points
 - Orc [Bow] - 1 point
-- Two-Handed [Pick] - 1 point
+- [Two-Handed] [Pick] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -662,6 +675,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
@@ -683,6 +697,6 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 - **Spider Webs** `ACTIVE`
 
-A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the Paralyse Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of Paralyse.
+A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
 
 </div>

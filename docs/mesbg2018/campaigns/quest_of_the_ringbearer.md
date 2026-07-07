@@ -14,7 +14,7 @@ Here we present rules on how to join your games together as you follow the journ
 
 There is a very real likelihood that some members of the Fellowship or their allies will perish along the journey; such dangerous adventures are not without risk, after all. It is important to record when **Hero models** spend Might, Will and Fate or suffer any Wounds as they will have the chance to regain them after the game. Whenever a **Good Hero** model is slain or removed as a casualty during a game, they may not actually be dead. Instead, you will need to roll on the Campaign Injury table below for them to see what effects their injuries have. Models slain may use any remaining Might to alter the result on the table.
 
-| D6  | Result |
+| D6 | Result |
 | --- | --- |
 | **1** | **Dead** - This Hero has been slain in battle. If Frodo is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
 | **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
@@ -305,7 +305,7 @@ Additionally, there are some extra rules for linking your games together, such a
 
 There is a very real likelihood that some members of your Fellowship will perish on the journey; such dangerous adventures are not without risk, after all. It is important to record when **Hero** models spend Might, Will, and Fate, or suffer any Wounds, as they will have the chance to regain them after the game. Whenever a member of your Fellowship is slain or removed as a casualty during a game, they may not actually be dead. Instead, you will need to roll on the Campaign Injury Table below to see what effects their injuries have. Models slain may use any remaining Might to alter the result on the table.
 
-| D6  | Result |
+| D6 | Result |
 | --- | --- |
 | **1** | **Dead** - This Hero has been slain in battle. If your Ringbearer is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
 | **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |

@@ -7,15 +7,15 @@
 **HEROES OF LEGEND**
 
 - **Wulf**: 110 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
 - **General Targg**: 80 points
-  - Horse: 20 points
+    - Horse: 20 points
 - **Hill Tribes Chieftain**: 40 points
-  - Light shield: 5 points
-  - Two-handed weapon: 5 points
+    - Light shield: 5 points
+    - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
@@ -25,16 +25,16 @@
 
 - **Crebain**: 20 points
 - **Hill Tribesman**: 5 points
-  - Banner and light shield: 26 points
-  - War horn and light shield: 26 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Light shield and flaming brand: 2 points
-  - Bow: 1 point
-  - Flaming brand: 1 point
-  - Light shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner and light shield: 26 points
+    - War horn and light shield: 26 points
+    - Banner: 25 points
+    - War horn: 25 points
+    - Light shield and flaming brand: 2 points
+    - Bow: 1 point
+    - Flaming brand: 1 point
+    - Light shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 
 </div>
 

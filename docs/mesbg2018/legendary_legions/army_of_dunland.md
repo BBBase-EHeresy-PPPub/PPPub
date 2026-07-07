@@ -2,45 +2,24 @@
 
 <div class="unitCard" markdown>
 
-**THRYDAN WOLFSBANE [85 points]**
-
-• Horse: 10 points
-
-**DUNLENDING CHIEFTAIN [55 points]**
-
-• Bow: 5 points
-• Swap Weapon: 5 points
-• Swap Two-Handed Axe for Axe and Shield - FREE: 0 points
-
-**FRIDA TALLSPEAR [65 points]**
-
-**GORULF IRONSKIN [70 points]**
-
-**WILD MAN OATHMAKER [55 points]**
-
-**CREBAIN [20 points]**
-
-**DUNLENDING HORSEMAN [12 points]**
-
-• Swap Weapon: 1 point
-
-**DUNLENDING HUSCARL [11 points]**
-
-• Swap Weapon: 1 point
-
-**DUNLENDING WARRIOR [7 points]**
-
-• Banner: 25 points
-• Shield: 1 point
-• Two-Handed Axe: 1 point
-• Swap Axe for Dagger and Bow: 1 point
-• Swap Weapon: 1 point
-
-**WILD MAN OF DUNLAND [5 points]**
-
-• Two-Handed Axe: 1 point
-• Swap Weapon: 1 point
-
+- **THRYDAN WOLFSBANE**: 85 points
+    - Horse: 10 points
+- **DUNLENDING CHIEFTAIN**: 55 points
+    - Bow: 5 points
+    - Swap Two-Handed Axe for Axe and Shield: Free
+- **FRIDA TALLSPEAR**: 65 points
+- **GORULF IRONSKIN**: 70 points
+- **WILD MAN OATHMAKER**: 55 points
+- **CREBAIN**: 20 points
+- **DUNLENDING HORSEMAN**: 12 points
+- **DUNLENDING HUSCARL**: 11 points
+- **DUNLENDING WARRIOR**: 7 points
+    - Banner: 25 points
+    - Shield: 1 point
+    - Two-Handed Axe: 1 point
+    - Swap Axe for Dagger and Bow: 1 point
+- **WILD MAN OF DUNLAND**: 5 points
+    - Two-Handed Axe: 1 point
 </div>
 
 ## SPECIAL RULES

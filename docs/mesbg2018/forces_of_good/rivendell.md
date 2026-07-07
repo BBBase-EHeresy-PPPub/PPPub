@@ -65,6 +65,7 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GIL-GALAD [170 POINTS]
@@ -104,7 +105,7 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 
 - **High King of the Elves** `ACTIVE`
 
-His Stand Fast! is 12", and includes friendly Elf Hero models.
+His [Stand Fast!] is 12", and includes friendly Elf Hero models.
 
 - **Lord of the West** `ACTIVE`
 
@@ -113,6 +114,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GLORFINDEL [145 POINTS]
@@ -124,7 +126,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 **WARGEAR**
 
-- Elven Made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -135,7 +137,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 **OPTIONS**
 
-- [Armour] Of Gondolin - 15 points
+- [Armour] of Gondolin - 15 points
 - Asfaloth - 10 points
 
 **SPECIAL RULES**
@@ -151,7 +153,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 - **Unbending Resolve** `PASSIVE`
 
-Glorfindel permanently has the Fortify Spirit spell cast upon him.
+Glorfindel permanently has the [Fortify Spirit] spell cast upon him.
 
 - **Lord of the West** `ACTIVE`
 
@@ -160,6 +162,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ELLADAN & ELROHIR [160 POINTS]
@@ -210,6 +213,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
@@ -221,7 +225,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -258,7 +262,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -292,7 +296,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 
 **OPTIONS**
 
@@ -314,6 +318,7 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### ARWEN [60 POINTS]
@@ -325,7 +330,7 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **WARGEAR**
 
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -390,6 +395,7 @@ Cirdan may spend a single point of Will each turn for free.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### HIGH ELF STORMCALLER [60 POINTS]
@@ -402,7 +408,7 @@ Cirdan may spend a single point of Will each turn for free.
 **WARGEAR**
 
 - [Armour]
-- Elven-made [Sword]
+- [Elven-made] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -427,6 +433,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [40 POINTS]
@@ -473,7 +480,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **OPTIONS**
 
@@ -506,7 +513,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 - [Heavy Armour]
 - [Lance]
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 - Elf [Bow]
 - [Horse]
 
@@ -537,7 +544,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made Hand-and-a-half [Sword]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**

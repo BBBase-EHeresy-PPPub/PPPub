@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - Ring of Barahir
-- Hand-and-a-half [Sword].
+- [Hand-and-a-half][Hand-And-A-Half] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -108,7 +108,7 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Claws And Beak ([Hand Weapon])
+- Claws and Beak ([hand Weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -221,7 +221,7 @@ Radagast always has Line of Sight to any point on the battlefield. Friendly Eagl
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's Stand Fast! Range is 12", and affects Hero models.
+Saruman's [Stand Fast!] Range is 12", and affects Hero models.
 
 - **Consuming Rivalry** `PASSIVE`
 
@@ -247,7 +247,7 @@ At the start of each Move Phase, before the Declare Heroic Actions step, Saruman
 
 **WARGEAR**
 
-- Roots And Branches ([Hand Weapon])
+- Roots and Branches ([hand Weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -400,7 +400,7 @@ Galadriel may re-roll any failed Fate rolls.
 
 - **The Light of Earendil** `ACTIVE`
 
-At any point during her Activation, Galadriel can roll a D6. On a 3+, she counts as having cast the Blinding Light Magical Power. This does not prevent her from casting another Magical Power during her Activation.
+At any point during her Activation, Galadriel can roll a D6. On a 3+, she counts as having cast the [Blinding Light] Magical Power. This does not prevent her from casting another Magical Power during her Activation.
 
 - **The Lady of Lorien** `PASSIVE`
 
@@ -412,7 +412,7 @@ Enemies within 6" of Galadriel suffer a -1 penalty to any Courage tests. Additio
 
 - **"Go back to the void, from whence you came!"** `ACTIVE`
 
-Galadriel may target any enemy with Banishment as if it were a Spirit model, though non-Spirit models targeted will gain an extra free Will point to their Resist test. Once per game instead of casting a Magical Power, as long as she has at least 1 Will point, she may choose an enemy within 6", who immediately suffers D3 Wounds. After doing this, her Will points becomes 0, she is placed Prone, and no longer benefits from her The Lady of Lorien or War Aspect special rules (and thus becomes [Unarmed]).
+Galadriel may target any enemy with [Banishment] as if it were a Spirit model, though non-Spirit models targeted will gain an extra free Will point to their Resist test. Once per game instead of casting a Magical Power, as long as she has at least 1 Will point, she may choose an enemy within 6", who immediately suffers D3 Wounds. After doing this, her Will points becomes 0, she is placed Prone, and no longer benefits from her The Lady of Lorien or War Aspect special rules (and thus becomes [Unarmed]).
 
 </div>
 
@@ -509,7 +509,7 @@ Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
 
 **WARGEAR**
 
-- Elven-made Weapon
+- [Elven-made] Weapon
 - Elf [Bow]
 
 **HEROIC ACTIONS**
@@ -674,7 +674,7 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **WARGEAR**
 
-- Roots And Branches ([Hand Weapon])
+- Roots and Branches ([hand Weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -714,7 +714,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots And Branches ([Hand Weapon])
+- Roots and Branches ([hand Weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -833,7 +833,7 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Throw Stones (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
@@ -904,7 +904,7 @@ Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Master Forged [Two-handed Weapon]
+- [Master Forged][Master-Forged] [Two-handed Weapon]
 - Two Hand Weapons
 - [Throwing Weapons]
 
@@ -1114,7 +1114,7 @@ In Scenarios where you roll for Warbands to arrive, or ones where you roll to se
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Throw Stones (range 8", Strength 1).
 
 - **"Let him go or I'll have you, Longshanks!"** `ACTIVE`
 
@@ -1291,7 +1291,7 @@ If Fredegar attempts to Charge an enemy model with the [Terror] special rule and
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Throw Stones (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
@@ -1321,7 +1321,7 @@ Whilst wearing [the One Ring][The One Ring] and [Invisible], enemy models Engage
 
 **WARGEAR**
 
-- Iron-shod Hooves ([Hand Weapon])
+- Iron-shod Hooves ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1496,7 +1496,7 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Throw Stones (range 8", Strength 1).
 
 - **For the Shire!** `ACTIVE`
 
@@ -1707,7 +1707,7 @@ This model treats friendly Bear models as a [banner][Banner].
 
 **WARGEAR**
 
-- Roots And Branches ([Hand Weapon])
+- Roots and Branches ([hand Weapon][Hand Weapon])
 
 **OPTIONS**
 
@@ -1745,7 +1745,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Claws And Beak ([Hand Weapon])
+- Claws and Beak ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1771,7 +1771,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Claws And Beak ([Hand Weapon])
+- Claws and Beak ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1835,7 +1835,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- [Throw Stones] (range 8", Strength 1).
+- Throw Stones (range 8", Strength 1).
 
 </div>
 

@@ -58,13 +58,13 @@ You will also need to check to see if an enemy model is in range. Every missile 
 
 ### MISSILE WEAPON CHART
 
-| NAME   | RANGE | STRENGTH |
+| NAME | RANGE | STRENGTH |
 |-----------|-------|----------|
-| Bow    | 24"  | 2    |
-| Dwarf bow | 18"  | 3    |
-| Elf bow  | 24"  | 3    |
-| Great bow | 24"  | 4    |
-| Ore bow  | 18"  | 2    |
+| Bow | 24" | 2 |
+| Dwarf bow | 18" | 3 |
+| Elf bow | 24" | 3 |
+| Great bow | 24" | 4 |
+| Ore bow | 18" | 2 |
 
 ## MOVING AND SHOOTING
 
@@ -94,11 +94,11 @@ models still cannot shoot at enemy models that are obscured by friendly models.
 
 ### IN THE WAY CHART
 
-| OBSTRUCTION     | Score to Pass |
+| OBSTRUCTION | Score to Pass |
 |-------------------------------------------------|---------------|
-| Purpose built fortifications, large rocky outcrops, windows and doorways. | 5+  |
-| Flimsy fences, bushes, crops and long grass. | 4+  |
-| Walls, rocks, tree trunks, sturdy fence, intervening models and elevated positions (Combat only) | 3+  |
+| Purpose built fortifications, large rocky outcrops, windows and doorways. | 5+ |
+| Flimsy fences, bushes, crops and long grass. | 4+ |
+| Walls, rocks, tree trunks, sturdy fence, intervening models and elevated positions (Combat only) | 3+ |
 
 ***TERRAIN IN THE WAY***
 

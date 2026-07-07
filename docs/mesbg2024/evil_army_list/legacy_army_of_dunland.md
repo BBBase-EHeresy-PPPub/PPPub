@@ -7,7 +7,7 @@
 **HEROES OF VALOUR**
 
 - **Thrydan Wolfsbane**: 90 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
@@ -22,21 +22,21 @@
 - **Dunlending Horseman**: 12 points
 - **Dunlending Huscarl**: 11 points
 - **Dunlending Warrior**: 7 points
-  - Banner: 25 points
-  - Bow: 1 point
-  - Shield: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Bow: 1 point
+    - Shield: 1 point
+    - Two-handed weapon: 1 point
 - **Wild Man of Dunland**: 5 points
-  - Banner and light shield: 26 points
-  - War horn and light shield: 26 points
-  - Banner: 25 points
-  - War horn: 25 points
-  - Light shield and Flaming Brand: 2 points
-  - Bow: 1 point
-  - Light shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
-  - Flaming Brand: 1 point
+    - Banner and light shield: 26 points
+    - War horn and light shield: 26 points
+    - Banner: 25 points
+    - War horn: 25 points
+    - Light shield and Flaming Brand: 2 points
+    - Bow: 1 point
+    - Light shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
+    - Flaming Brand: 1 point
 
 </div>
 

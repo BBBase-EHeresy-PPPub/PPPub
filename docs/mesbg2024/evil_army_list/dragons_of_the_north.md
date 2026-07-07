@@ -7,17 +7,17 @@
 **HEROES OF LEGEND**
 
 - **Dragon**: 200 points
-  - Breathe Fire: 50 points
-  - Fly: 50 points
-  - Superior Intellect: 50 points
-  - Tough Hide: 50 points
-  - Wyrm Magic: 50 points
+    - Breathe Fire: 50 points
+    - Fly: 50 points
+    - Superior Intellect: 50 points
+    - Tough Hide: 50 points
+    - Wyrm Magic: 50 points
 - **Dragon**: 200 points
-  - Breathe Fire: 50 points
-  - Fly: 50 points
-  - Superior Intellect: 50 points
-  - Tough Hide: 50 points
-  - Wyrm Magic: 50 points
+    - Breathe Fire: 50 points
+    - Fly: 50 points
+    - Superior Intellect: 50 points
+    - Tough Hide: 50 points
+    - Wyrm Magic: 50 points
 
 **MINOR HEROES**
 

@@ -42,11 +42,11 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed][Two-Handed] flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][Two-Handed] [flail][Flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
-Stand Fast! has a range of 12", and affects Orc Hero models.
+[Stand Fast!] has a range of 12", and affects Orc Hero models.
 
 - **I am the Master** `ACTIVE`
 
@@ -55,6 +55,7 @@ Never requires more than 3+ for To Wound against Hero models.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
@@ -67,7 +68,7 @@ Never requires more than 3+ for To Wound against Hero models.
 **WARGEAR**
 
 - [Heavy Armour]
-- Two-handed [Pick]
+- [Two-handed][Two-Handed] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -98,6 +99,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
@@ -135,6 +137,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
@@ -202,6 +205,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD BERSERKER [15 POINTS]
@@ -218,7 +222,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- Two-Handed [Pick] - 1 point
+- [Two-Handed] [Pick] - 1 point
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -233,6 +237,7 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [8 POINTS]
@@ -275,7 +280,7 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner
 **WARGEAR**
 
 - [Heavy Armour]
-- Crushing [Club] Or Pair Of Scythe Gauntlets
+- Crushing [Club] or Pair of Scythe Gauntlets
 
 **OPTIONS**
 
@@ -299,6 +304,7 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### OGRE [60 POINTS]
@@ -323,6 +329,7 @@ When charging into combat, ogres can pass through friendly Orc, Goblin and Bat m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TROLL BRUTE [100 POINTS]
@@ -348,6 +355,7 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### WAR BAT [25 POINTS]
@@ -378,6 +386,7 @@ At the end of the War Bat's move, [pick][Pick] an unengaged man-sized (or smalle
 ---
 
 ## SIEGE ENGINES OF AZOG'S LEGION
+
 <div class="unitCard" markdown>
 
 ### CATAPULT TROLL [180 POINTS]

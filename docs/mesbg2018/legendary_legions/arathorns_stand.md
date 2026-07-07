@@ -2,23 +2,14 @@
 
 <div class="unitCard" markdown>
 
-**ARATHORN [75 points]**
-
-**HALBARAD [70 points]**
-
-• Horse: 10 points
-
-**DUNEDAIN [25 points]**
-
-• Swap Weapon: 5 points
-• Spear: 1 point
-
-**RANGER OF THE NORTH [30 points]**
-
-• Horse: 10 points
-• Swap Weapon: 5 points
-• Spear: 1 point
-
+- **ARATHORN**: 75 points
+- **HALBARAD**: 70 points
+    - Horse: 10 points
+- **DUNEDAIN**: 25 points
+    - Spear: 1 point
+- **RANGER OF THE NORTH**: 30 points
+    - Horse: 10 points
+    - Spear: 1 point
 </div>
 
 ## ADDITIONAL RULES
@@ -27,7 +18,7 @@
 
 ## SPECIAL RULES
 
-**"They're dangerous folk, wandering the wilds"** - Rangers of the North and Dunedain from this Legendary Legion may benefit from Arathorn and Halbarad's Stand Fast! Additionally, Rangers of the North and Dunedain from this Legendary Legion increase their Attack value to 2 while they have the Infantry keyword.
+**"They're dangerous folk, wandering the wilds"** - Rangers of the North and Dunedain from this Legendary Legion may benefit from Arathorn and Halbarad's [Stand Fast!] Additionally, Rangers of the North and Dunedain from this Legendary Legion increase their Attack value to 2 while they have the Infantry keyword.
 
 **"Masters of Terrain"** - Friendly models gain the [Woodland Creature] and [Mountain Dweller] special rules.
 

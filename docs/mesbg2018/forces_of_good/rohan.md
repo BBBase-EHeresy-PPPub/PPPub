@@ -20,7 +20,7 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 **WARGEAR**
 
 - [Heavy Armour]
-- Two-handed [Sword]
+- [Two-handed][Two-Handed] [Sword]
 - The Horn of the Hammerhand
 
 **HEROIC ACTIONS**
@@ -94,7 +94,7 @@ Theoden may use the Feint Special Strike even if he has a lower Fight value than
 
 - **Forth, and Fear no Darkness** `ACTIVE`
 
-Theoden's Stand Fast! Is 12" rather than 6".
+Theoden's [Stand Fast!] Is 12" rather than 6".
 
 - **The Will of Men is Easily Corrupted** `PASSIVE`
 
@@ -422,7 +422,7 @@ As well as being a [banner][Banner], a single Rohan Hero model with no Might lef
 **WARGEAR**
 
 - [Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 

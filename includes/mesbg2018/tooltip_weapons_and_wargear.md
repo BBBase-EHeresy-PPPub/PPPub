@@ -36,8 +36,10 @@
 [Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
 [Mace]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
+[Maul]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
 [Slingshot]: ../rules_manual/weapons_and_wargear.md#slingshot
 [Flail]: ../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips
+[Scourge]: ../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips
 [Crossbow]: ../rules_manual/weapons_and_wargear.md#crossbows
 [War Spear]: ../rules_manual/weapons_and_wargear.md#war-spears
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring

@@ -6,7 +6,7 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 
 **"Will you follow me, one last time?"** - All friendly Erebor Dwarf models from this army list gain the Du Bekar special rule.
 
-**"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+**"Du Bekar"** - A model with this special rule counts as being in range of a [banner][Banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 ## HEROES OF EREBOR RECLAIMED (KING THORIN)
 
@@ -66,7 +66,7 @@ May call a free [Heroic Combat] every Fight phase.
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -97,7 +97,7 @@ In Priority phase, Balin may spend a Will point to enable his side to re-roll th
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Hammer]
+- [Two-handed][Two-Handed] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -149,7 +149,7 @@ If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (
 
 - [Heavy Dwarf Armour]
 - Two Axes
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -239,7 +239,7 @@ See page 34 of Hobbit Armies book
 
 **WARGEAR**
 
-- [Heavy Dwarf Armour], Hand-and-a-half [Axe].
+- [Heavy Dwarf Armour], [Hand-and-a-half][Hand-And-A-Half] [Axe].
 
 **HEROIC ACTIONS**
 
@@ -270,7 +270,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Hand-and-a-half [Hammer]
+- [Hand-and-a-half][Hand-And-A-Half] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -339,7 +339,7 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Mace]
+- [Two-handed][Two-Handed] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -413,7 +413,7 @@ This model counts as being in range of a [banner][Banner] if they are within 6" 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two-handed [Axe]
+- [Two-handed][Two-Handed] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -594,7 +594,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Hand-and-a-half [Axe]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
 
 **HEROIC ACTIONS**
 

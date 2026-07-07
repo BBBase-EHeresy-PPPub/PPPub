@@ -7,8 +7,8 @@
 **HEROES OF LEGEND**
 
 - **Thorin Oakenshield**: 100 points
-  - Orcrist: 10 points
-  - The Oakenshield: 5 points
+    - Orcrist: 10 points
+    - The Oakenshield: 5 points
 
 **HEROES OF VALOUR**
 
@@ -19,14 +19,14 @@
 - **Gwaihir**: 200 points
 - **Kili the Dwarf**: 50 points
 - **Radagast the Brown**: 145 points
-  - Radagast's Sleigh: 35 points
+    - Radagast's Sleigh: 35 points
 
 **HEROES OF FORTITUDE**
 
 - **Bifur the Dwarf**: 45 points
 - **Bilbo Baggins**: 55 points
-  - Sting: 5 points
-  - The One Ring: Free
+    - Sting: 5 points
+    - The One Ring: Free
 - **Bofur the Dwarf**: 45 points
 - **Bombur the Dwarf**: 45 points
 - **Dori the Dwarf**: 55 points

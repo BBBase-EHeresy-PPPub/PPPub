@@ -27,10 +27,10 @@ Saruman can choose to re-roll one dice when making Casting or Resist tests.
 
 | | Range | Casting |
 |----------------|:-----:|:-------:|
-| Immobilise   | 18"  | 2+   |
-| Terrifying Aura| -   | 2+   |
-| Command    | 18"  | 3+   |
-| Sorcerous Blast| 12"  | 4+   |
+| Immobilise | 18" | 2+ |
+| Terrifying Aura| - | 2+ |
+| Command | 18" | 3+ |
+| Sorcerous Blast| 12" | 4+ |
 
 </div>
 

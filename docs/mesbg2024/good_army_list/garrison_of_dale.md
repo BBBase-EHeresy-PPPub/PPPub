@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - **Girion, Lord of Dale**: 80 points
-  - Windlance: 50 points
+    - Windlance: 50 points
 
 **HEROES OF FORTITUDE**
 
@@ -17,11 +17,11 @@
 
 - **Knight of Dale**: 11 points
 - **Warrior of Dale**: 7 points
-  - War horn: 25 points
-  - Banner: 25 points
-  - Esgaroth bow: 2 points
-  - Shield and spear: 2 points
-  - Shield: 1 point
+    - War horn: 25 points
+    - Banner: 25 points
+    - Esgaroth bow: 2 points
+    - Shield and spear: 2 points
+    - Shield: 1 point
 
 **SIEGE ENGINES**
 

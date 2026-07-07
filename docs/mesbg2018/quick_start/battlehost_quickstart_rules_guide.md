@@ -169,12 +169,12 @@ hit their target that turn. A roll of a 6 always hits.
 
 ### MISSILE WEAPON CHART
 
-| NAME      | RANGE | STRENGTH |
+| NAME | RANGE | STRENGTH |
 |----------------|-------|----------|
-| Bow      | 24"  | 2    |
-| Orc bow    | 18"  | 2    |
-| Throwing spear | 8"  | 3    |
-| Uruk-hai bow  | 18"  | 3    |
+| Bow | 24" | 2 |
+| Orc bow | 18" | 2 |
+| Throwing spear | 8" | 3 |
+| Uruk-hai bow | 18" | 3 |
 
 ---
 

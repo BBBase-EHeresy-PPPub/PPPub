@@ -50,7 +50,7 @@ Used as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] wit
 
 - **Fly** `ACTIVE`
 
-The Dragon gains the Fly special rule and increases its Move Value to 12" whilst using the Fly special rule.
+The Dragon gains the [Fly] special rule and increases its Move Value to 12" whilst using the [Fly] special rule.
 
 - **Superior Intellect** `PASSIVE`
 
@@ -67,6 +67,7 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE BALROG [350 POINTS]
@@ -93,7 +94,7 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 
 - **Fiery Lash** `ACTIVE`
 
-[Throwing weapon][Throwing Weapon] with Strength 7, range 8. If the target is not slain and is not immune to [fire-based attacks][Fire-based Attacks], it is pulled into base contact with the Balrog. for Cavalry, the whole model is dragged in this way. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only the Balrog.
+[Throwing weapon][Throwing Weapon] with Strength 7, range 8. If the target is not slain and is not immune to [fire-based attacks][Fire-based Attacks], it is pulled into base contact with the Balrog. For Cavalry, the whole model is dragged in this way. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only the Balrog.
 
 - **Goblin Mastery** `PASSIVE`
 
@@ -110,6 +111,7 @@ The Balrog may declare a [Heroic Combat] each turn for free. Special rules or wa
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE GOBLIN KING [150 POINTS]
@@ -152,6 +154,7 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BILL THE TROLL [150 POINTS]
@@ -180,7 +183,7 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 
 - **Keep 'em for Later** `ACTIVE`
 
-If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the Paralyse Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
+If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
 
 - **Mince 'em Fine** `BRUTAL POWER ATTACK`
 
@@ -189,6 +192,7 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DRUZHAG THE BEASTCALLER [80 POINTS]
@@ -228,6 +232,7 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### DURBURZ, GOBLIN-KING OF MORIA [75 POINTS]
@@ -264,6 +269,7 @@ Once per game, at the start of any Fight Phase, before the Declare Heroic Action
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BERT THE TROLL [130 POINTS]
@@ -292,7 +298,7 @@ Once per game, at the start of any Fight Phase, before the Declare Heroic Action
 
 - **Keep 'em for Later** `ACTIVE`
 
-If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the Paralyse Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
+If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
 
 - **Roast 'em slowly** `BRUTAL POWER ATTACK`
 
@@ -301,6 +307,7 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOBLIN CAPTAIN [40 POINTS]
@@ -330,6 +337,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GRINNAH, GOBLIN JAILER [50 POINTS]
@@ -364,6 +372,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN CAPTAIN [40 POINTS]
@@ -453,11 +462,12 @@ The Goblin Scribe cannot Move, and will always count as Trapped should it lose a
 
 - **Always more where they came from** `ACTIVE`
 
-If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call with Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
+If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
 
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### TOM THE TROLL [120 POINTS]
@@ -485,7 +495,7 @@ If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scrib
 
 - **Keep 'em for Later** `ACTIVE`
 
-If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the Paralyse Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
+If this model wins a Duel Roll, they may choose a single enemy model on a 25mm base instead of making Strikes or using a Brutal Power Attack. The chosen model is stuffed into a bag and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If the model is still Paralysed at the end of the game, then they will count as slain and be removed as a casualty.
 
 - **Lingering Cold** `ACTIVE`
 
@@ -498,6 +508,7 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAVE DRAKE [150 POINTS]
@@ -519,7 +530,7 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 **SPECIAL RULES**
 
 - [Cave Dweller]
-- [Dominant] (4)
+- Dominant(4)
 - [Large Target]
 - [Monstrous Charge]
 - [Mountain Dweller]
@@ -542,6 +553,7 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOLLUM [40 POINTS]
@@ -569,6 +581,7 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### THE WATCHER IN THE WATER [200 POINTS]
@@ -581,7 +594,7 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 
 **WARGEAR**
 
-- Tentacles ([Hand Weapon])
+- Tentacles ([hand Weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -614,6 +627,7 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
@@ -640,6 +654,7 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### CAVE TROLL [75 POINTS]
@@ -678,6 +693,7 @@ A [spear][Spear] that deals 2 Wounds rather than 1 when rolling a natural 6 on t
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### GOBLIN WARRIOR [5 POINTS]
@@ -707,6 +723,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN DRUM [75 POINTS]
@@ -729,14 +746,12 @@ For the Drum to be played, at least one Drummer must be in base contact with it,
 
 * Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take.
 * Enemy models suffer a -1 penalty to any Courage Tests they are required to take.
-* Friendly Moria Goblin models within 18" count as being in range of a banner.
-* Whilst being played, the Moria Goblin Drum counts as a banner for the purpose of Victory Points.
+* Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner].
+* Whilst being played, the Moria Goblin Drum counts as a [banner][Banner] for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 
 If a Drummer is slain, then they may pass on their wargear to a friendly Moria Goblin Warrior within 1" of them. The chosen model becomes a Moria Goblin Drummer and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Goblin Drummer.
-
-
 
 **Moria Goblin Drummer**
 
@@ -756,6 +771,7 @@ If a Drummer is slain, then they may pass on their wargear to a friendly Moria G
 </div>
 
 ---
+
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN PROWLER [7 POINTS]

@@ -11,18 +11,18 @@
 **HEROES OF VALOUR**
 
 - **Aragorn, Strider**: 160 points
-  - Bow: 5 points
+    - Bow: 5 points
 - **Boromir of Gondor**: 95 points
-  - Horse: 20 points
-  - Shield: 5 points
+    - Horse: 20 points
+    - Shield: 5 points
 - **Gimli**: 100 points
 - **Legolas**: 100 points
 
 **HEROES OF FORTITUDE**
 
 - **Frodo Baggins**: 55 points
-  - Mithril Coat: 15 points
-  - Sting: 5 points
+    - Mithril Coat: 15 points
+    - Sting: 5 points
 - **Samwise Gamgee**: 40 points
 
 **INDEPENDENT HEROES**

@@ -14,7 +14,7 @@
 - **Galadriel, Lady of Light**: 125 points
 - **Gandalf the Grey**: 170 points
 - **Radagast the Brown**: 145 points
-  - Radagast's Sleigh: 35 points
+    - Radagast's Sleigh: 35 points
 
 **INDEPENDENT HEROES**
 
@@ -37,11 +37,11 @@ Gandalf - Friendly White Council models within 3" of Gandalf may re-roll To Woun
 
 Radagast - Friendly White Council models that begin their Activation within 3" of Radagast may Move through difficult terrain without penalty.
 
-Elrond - Friendly White Council models treat Elrond as a banner.
+Elrond - Friendly White Council models treat Elrond as a [banner][Banner].
 
 Galadriel - Friendly White Council models within 3" of Galadriel gain the [Resistant to Magic] special rule.
 
-**Masters of Magic** - Friendly White Council models may still be Activated whilst Engaged in Combat (though they still may not Move), and therefore may attempt to Cast Magical Powers whilst Engaged in Combat, with the exception of the following Magical Powers: Nature's Wrath, Sorcerous Blast, Wrath of Bruinen.
+**Masters of Magic** - Friendly White Council models may still be Activated whilst Engaged in Combat (though they still may not Move), and therefore may attempt to Cast Magical Powers whilst Engaged in Combat, with the exception of the following Magical Powers: [Nature's Wrath], [Sorcerous Blast], [Wrath of Bruinen].
 
 **"Are you in need of assistance?"** - Friendly White Council models gain a bonus of +1 to any Resist Tests whilst within 6" of another friendly White Council model.
 

@@ -22,22 +22,22 @@
 **MINOR HEROES**
 
 - **Angmar Orc Shaman**: 50 points
-  - Warg: 20 points
+    - Warg: 20 points
 - **Barrow-wight**: 50 points
 
 **WARRIORS**
 
 - **Angmar Orc Warrior**: 5 points
-  - Banner: 25 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Spear: 1 point
-  - Two-handed weapon: 1 point
+    - Banner: 25 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Spear: 1 point
+    - Two-handed weapon: 1 point
 - **Angmar Warg Rider**: 11 points
-  - Shield and throwing spears: 2 points
-  - Orc bow: 1 point
-  - Shield: 1 point
-  - Throwing spears: 1 point
+    - Shield and throwing spears: 2 points
+    - Orc bow: 1 point
+    - Shield: 1 point
+    - Throwing spears: 1 point
 - **Spectre**: 15 points
 - **Werewolf**: 25 points
 - **Wild Warg**: 7 points

@@ -4,7 +4,7 @@ This army may include: Treebeard; Beechbone; Quickbeam; Ent.
 
 ## ADDITIONAL RULES
 
-"Don't be Hasty": Ent models from this army list gain the [Fearless] special rule. Additionally, Ent models are completely unaffected by any Magical Powers or special rules that would prevent them from moving or move them against their will (the only exception is that they will still take the hit from a Sorcerrous Blast, but it will suffer no further effects). Additionally, Ent models are completely unaffected by the Nature's Wrath and Wrath of Bruinen Magical Powers.
+"Don't be Hasty": Ent models from this army list gain the [Fearless] special rule. Additionally, Ent models are completely unaffected by any Magical Powers or special rules that would prevent them from moving or move them against their will (the only exception is that they will still take the hit from a Sorcerrous Blast, but it will suffer no further effects). Additionally, Ent models are completely unaffected by the [Nature's Wrath] and [Wrath of Bruinen] Magical Powers.
 
 ## HEROES OF FANGORN
 
@@ -73,7 +73,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 - [Woodland Creature]
 - [Throw Stones] (range 18", Strength 10).
 
-- **Deep-rooted [Hatred]** `PASSIVE`
+- **Deep-rooted Hatred** `PASSIVE`
 
 Must re-roll failed To Wound rolls against Orc, Uruk-hai, Goblin or Isengard models. Must always charge these models if able.
 

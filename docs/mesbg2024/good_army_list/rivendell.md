@@ -7,28 +7,28 @@
 **HEROES OF LEGEND**
 
 - **Elrond**: 170 points
-  - Horse: 20 points
+    - Horse: 20 points
 
 **HEROES OF VALOUR**
 
 - **Glorfindel, Lord of the West**: 160 points
-  - Asfaloth: 20 points
-  - Horse: 20 points
+    - Asfaloth: 20 points
+    - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
 - **Arwen**: 70 points
-  - Asfaloth: 20 points
-  - Hadhafang: Free
+    - Asfaloth: 20 points
+    - Hadhafang: Free
 - **Elladan**: 80 points
-  - Horse: 20 points
+    - Horse: 20 points
 - **Elrohir**: 80 points
-  - Horse: 20 points
+    - Horse: 20 points
 - **Erestor**: 85 points
 - **Lindir**: 70 points
 - **Rivendell Captain**: 70 points
-  - Horse, Elf bow and Elven lance: 30 points
-  - Shield: 5 points
+    - Horse, Elf bow and Elven lance: 30 points
+    - Shield: 5 points
 
 **MINOR HEROES**
 
@@ -37,20 +37,20 @@
 **INDEPENDENT HEROES**
 
 - **Bilbo Baggins, Ageing Hobbit**: 45 points
-  - Mithril Coat: 15 points
-  - Sting: 5 points
-  - The One Ring: Free
+    - Mithril Coat: 15 points
+    - Sting: 5 points
+    - The One Ring: Free
 
 **WARRIORS**
 
 - **Rivendell Knight**: 20 points
-  - Exchange Elven lance for banner: 25 points
-  - Shield: 1 point
+    - Exchange Elven lance for banner: 25 points
+    - Shield: 1 point
 - **Rivendell Warrior**: 9 points
-  - Banner: 25 points
-  - Elf bow: 2 points
-  - Shield and Elven spear: 2 points
-  - Shield: 1 point
+    - Banner: 25 points
+    - Elf bow: 2 points
+    - Shield and Elven spear: 2 points
+    - Shield: 1 point
 
 </div>
 
