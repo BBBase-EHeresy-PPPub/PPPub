@@ -122,6 +122,6 @@
 
 **"The Making of a King"** - You army's leader may declare a free Heroic Action at the start of any Fight phase in which they are Engaged in combat with the enemy leader. If the Mûmak War Leader is your leader, he may still use this ability whilst atop his Royal War Mûmak, in which case the Mûmak will be affected as if it had been the one to declare the Heroic Action.
 
-**"War Beasts of the South"** - All Mûmak models in your force gain the Harbinger of Evil special rule.
+**"War Beasts of the South"** - All Mûmak models in your force gain the [Harbinger of Evil] special rule.
 
 **"Warrior Pride"** - Mahûd Warrior models that are within 6" of a friendly Mahûd Hero model that is Engaged in combat automatically pass all Courage tests they are required to make.

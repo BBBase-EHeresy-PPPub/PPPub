@@ -1,10 +1,10 @@
 ## ARMY COMPOSITION
 
-This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; The Tainted; Angmar Orc Captain; Barrow-wight; Captain of Carn Dum; Fraecht; Golfimbul; Nazthak; Shade; The Shadow of Rhudaur; Wild Warg Chieftain; Angmar Orc Shaman; Angmar Orc Warrior; Angmar Warg Rider; Cave Troll; Dead Marsh Spectre; Hill Troll; Warrior of Carn Dum; Werewolf; Wild Warg.
+This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; The Tainted; Angmar Orc Captain; Barrow-wight; Captain of Carn Dum; Fraecht; Golfimbul; Nazthak; Shade; The Shadow of Rhudaur; Wild [Warg] Chieftain; Angmar Orc Shaman; Angmar Orc Warrior; Angmar [Warg] Rider; Cave Troll; Dead Marsh Spectre; Hill Troll; Warrior of Carn Dum; Werewolf; Wild [Warg].
 
 ## ARMY BONUS
 
-**"If that fell Kingdom should rise again, Rivendell, Lorien, The Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the Terror special rule.
+**"If that fell Kingdom should rise again, Rivendell, Lorien, The Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the [Terror] special rule.
 
 ## HEROES OF ANGMAR
 
@@ -19,46 +19,46 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 4+ |
-| Your Staff is Broken | 12" | 4+ |
-| Black Dart | 12" | 5+ |
-| Sap Will | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
+| [Black Dart] | 12" | 5+ |
+| [Sap Will] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 75 points
-- Fell Beast: 50 points
-- Crown of Morgul: 25 points
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Morgul Blade: 10 points
-- Two-Handed Flail: 5 points
-- Might: 5 points
-- Will: 5 points
-- Fate: 5 points
+- Armoured Fell Beast - 75 points
+- Fell Beast - 50 points
+- Crown of Morgul - 25 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- Morgul Blade - 10 points
+- Two-Handed [Flail] - 5 points
+- Might - 5 points
+- Will - 5 points
+- Fate - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -83,18 +83,18 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Mace
-- shield
-- armour
+- [Mace]
+- [Shield]
+- [Armour]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Mighty Blow
+- [Mighty Blow]
 
 - **Warlord of Carn Dum** `PASSIVE`
 
@@ -102,7 +102,7 @@ Friendly Carn Dum models within 6" re-roll failed Courage tests.
 
 - **Battle Frenzy** `ACTIVE`
 
-If Aldrac slays an enemy model in combat, then he may declare a free Heroic Combat in the following turn.
+If Aldrac slays an enemy model in combat, then he may declare a free [Heroic Combat] in the following turn.
 
 </div>
 
@@ -119,22 +119,22 @@ If Aldrac slays an enemy model in combat, then he may declare a free Heroic Comb
 
 **WARGEAR**
 
-- Pick
+- [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Lead by Example** `ACTIVE`
 
-In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a banner.
+In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a [banner][Banner].
 
 </div>
 
@@ -151,20 +151,20 @@ In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc 
 
 **WARGEAR**
 
-- Huge claws and teeth
+- Huge Claws and Teeth
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fly
-- Harbinger of Evil
-- Monstrous Charge
-- Resistant to Magic
-- Terror
+- [Fly]
+- [Harbinger of Evil]
+- [Monstrous Charge]
+- [Resistant to Magic]
+- [Terror]
 
 - **Immortal Hunger** `ACTIVE`
 
@@ -189,36 +189,36 @@ Attack and Courage value are equal to remaining wounds.
 
 **WARGEAR**
 
-- Armour
-- two-handed sword
+- [Armour]
+- Two-handed [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Sap Fortitude** `PASSIVE`
 
@@ -239,36 +239,36 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Miasmatic Presence** `PASSIVE`
 
@@ -293,19 +293,19 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Orc bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -322,23 +322,23 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Paralyse | 6" | 4+ |
+| [Paralyse] | 6" | 4+ |
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Blades of the Dead
+- [Terror]
+- [Blades of the Dead]
 
 </div>
 
@@ -355,17 +355,17 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **WARGEAR**
 
-- Mace
-- shield
-- armour
+- [Mace]
+- [Shield]
+- [Armour]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -388,13 +388,13 @@ If this model is in combat with an enemy hero model (but not if they are support
 
 **WARGEAR**
 
-- Armour
-- staff
-- dagger
+- [Armour]
+- [Staff]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 </div>
 
@@ -411,17 +411,17 @@ If this model is in combat with an enemy hero model (but not if they are support
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half mace
+- [Armour]
+- Hand-and-a-half [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Warg: 10 points
+- [Warg] - 10 points
 
 **SPECIAL RULES**
 
@@ -444,18 +444,18 @@ When Golfimbul suffers a wound, roll a D6. On a 5+, the Wound is ignored. This c
 
 **WARGEAR**
 
-- Armour
-- dagger
+- [Armour]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Scavenge** `ACTIVE`
 
-Whenever Nazthak kills an enemy model in combat (except for Monsters), he may scavenge a single piece of wargear carried by that model, except for a mount, the One Ring, or integral items to the model (such as claws and teeth). This happens before any effects that allow the enemy model to pass on that wargear. That item becomes part of Nazthak's wargear, with any of it's benefits. He may choose to discard any scavenged wargear at any time, but it cannot be reclaimed once done so.
+Whenever Nazthak kills an enemy model in combat (except for Monsters), he may scavenge a single piece of wargear carried by that model, except for a mount, [the One Ring][The One Ring], or integral items to the model (such as claws and teeth). This happens before any effects that allow the enemy model to pass on that wargear. That item becomes part of Nazthak's wargear, with any of it's benefits. He may choose to discard any scavenged wargear at any time, but it cannot be reclaimed once done so.
 
 </div>
 
@@ -472,16 +472,16 @@ Whenever Nazthak kills an enemy model in combat (except for Monsters), he may sc
 
 **WARGEAR**
 
-- Never counts as unarmed
+- Never Counts As [Unarmed]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Blades of the Dead
+- [Terror]
+- [Blades of the Dead]
 
 - **Conduit of Angmar** `PASSIVE`
 
@@ -510,26 +510,26 @@ Friendly Angmar Orc models within 12" of one or more friendly Shades add +1 to t
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 6" | 3+ |
-| Curse | 6" | 4+ |
-| Wither | 6" | 4+ |
-| Sap Will | 6" | 5+ |
+| [Drain Courage] | 6" | 3+ |
+| [Curse] | 6" | 4+ |
+| [Wither] | 6" | 4+ |
+| [Sap Will] | 6" | 5+ |
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Herald of Doom** `PASSIVE`
 
@@ -554,20 +554,20 @@ If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled ver
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Packlord** `ACTIVE`
 
-Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And Heroic Actions.
+Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's Stand Fast! And Heroic Actions.
 
 </div>
 
@@ -584,25 +584,25 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 
 **WARGEAR**
 
-- Heavy armour
-- dagger
-- spear
+- [Heavy Armour]
+- [Dagger]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Wither | 12" | 3+ |
-| Instill Fear | 3" | 5+ |
+| [Wither] | 12" | 3+ |
+| [Instill Fear] | 3" | 5+ |
 
 **OPTIONS**
 
-- Warg: 10 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -621,17 +621,17 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-Handed Weapon: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -648,17 +648,17 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 
 **WARGEAR**
 
-- Armour
-- sword
-- Warg
+- [Armour]
+- [Sword]
+- [Warg]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Throwing Spears: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -675,23 +675,23 @@ Only friendly Warg models benefit from a Wild Warg Chieftain's Stand Fast! And H
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **OPTIONS**
 
-- Troll Chain: 5 points
-- Swap Spear for Hammer: 5 points
-- Swap Weapon: 1 point
+- Troll Chain - 5 points
+- Swap [Spear] for [Hammer] - 5 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Burly
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Burly]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Troll Chain** `ACTIVE`
 
-A throwing weapon with range 3" and Strength 5.
+A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 </div>
 
@@ -708,17 +708,17 @@ A throwing weapon with range 3" and Strength 5.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
-- Blades of the Dead
+- [Terror]
+- [Blades of the Dead]
 
 - **A Fell Light is in Them** `ACTIVE`
 
@@ -739,16 +739,16 @@ During its move, a spectre can choose an enemy model within 12" and in Line of S
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Pathfinders** `PASSIVE`
 
@@ -773,15 +773,15 @@ May re-roll a single D6 in the Duel roll when fighting solely against infantry m
 
 **WARGEAR**
 
-- Armour
-- shield
-- mace
+- [Armour]
+- [Shield]
+- [Mace]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Swap Weapon: 1 point
-- Spear: 1 point
+- [Banner] - 25 points
+- Swap Weapon - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -804,12 +804,12 @@ If this model is in combat with an enemy hero model (but not if they are support
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
-- Terror
+- [Fell Sight]
+- [Terror]
 
 - **Feral Charge** `ACTIVE`
 
@@ -830,6 +830,6 @@ When a werewolf charges an enemy Infantry model, they gain the Knock to Ground s
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 </div>

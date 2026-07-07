@@ -19,26 +19,26 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 **WARGEAR**
 
-- Heavy Mithril armour
+- Heavy Mithril [Armour]
 - Durin's axe
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
-- Heroic Defence
+- [Heroic Challenge]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Durin's axe** `ACTIVE`
 
-Master-forged two-handed axe, re-roll a single dice in duel rolls.
+[Master-forged][Master-Forged] [two-handed][Two-Handed] axe, re-roll a single dice in duel rolls.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
-A war horn, that also gives Durin the Terror special rule.
+A [war horn][War Horn], that also gives Durin the [Terror] special rule.
 
 - **The Ring of Durin** `PASSIVE`
 
@@ -51,7 +51,6 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
@@ -63,19 +62,19 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Heavy dwarf armour
-- axe
+- [Heavy Dwarf Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
+- [Heroic Resolve]
+- [Heroic March]
 
 **OPTIONS**
 
-- Throwing Axes: 5 points
-- Two-Handed Axe: 5 points
-- Swap Weapon: 5 points
+- Throwing Axes - 5 points
+- Two-Handed [Axe] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -92,19 +91,19 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Throwing Axes: 5 points
-- Two-Handed Axe: 5 points
-- Swap Weapon: 5 points
+- [Shield] - 5 points
+- Throwing Axes - 5 points
+- Two-Handed [Axe] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -121,8 +120,8 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- staff
+- [Heavy Dwarf Armour]
+- [Staff]
 
 **SPECIAL RULES**
 
@@ -137,7 +136,6 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
@@ -149,17 +147,17 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two axes
+- [Heavy Dwarf Armour]
+- Two Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -170,7 +168,6 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MARDIN [75 POINTS]
@@ -182,25 +179,24 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 
 **WARGEAR**
 
-- Dwarf armour
+- [Dwarf Armour]
 - Torozul
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Durin)
+- [Sworn Protector] (Durin)
 
 - **Torozul** `ACTIVE`
 
-This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
+This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHIELDBEARER [60 POINTS]
@@ -212,20 +208,20 @@ This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds 
 
 **WARGEAR**
 
-- Dwarf armour
-- shield
-- axe
+- [Dwarf Armour]
+- [Shield]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **In Defence of the King** `ACTIVE`
 
-At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a Heroic Combat without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
+At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
 
 - **Lead by Example** `PASSIVE`
 
@@ -236,7 +232,6 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 ---
 
 ## WARRIORS OF THE KINGDOM OF KHAZAD-DUM
-
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
@@ -248,19 +243,19 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Armour
-- axe
+- [Armour]
+- [Axe]
 
 **OPTIONS**
 
-- Dwarf Longbow: 1 point
-- Throwing Axes: 1 point
-- Two-Handed Axe: 1 point
-- Swap Weapon: 1 point
+- Dwarf Longbow - 1 point
+- Throwing Axes - 1 point
+- Two-Handed [Axe] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -277,17 +272,17 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Dwarf Bow: 1 point
-- Shield: 1 point
-- Two-Handed Axe & Dagger: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Dwarf [Bow] - 1 point
+- [Shield] - 1 point
+- Two-Handed [Axe] & [Dagger] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -304,13 +299,13 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- sword
-- throwing axes
+- [Dwarf Armour]
+- [Sword]
+- Throwing Axes
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -327,18 +322,18 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- two-handed axe
-- axe
+- [Dwarf Armour]
+- Two-handed [Axe]
+- [Axe]
 
 **OPTIONS**
 
-- Heathguard Upgrade: 2 points
-- Swap Weapon: 1 point
+- Heathguard Upgrade - 2 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -370,12 +365,12 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **OPTIONS**
 
-- Dwarf Engineer Captain: 60 points
-- Flaming Ammunition: 15 points
-- Additional Crew: 8 points
-- Engineer Captain - Shield: 5 points
-- Engineer Captain - Throwing Axes: 5 points
-- Engineer Captain - Two-Handed Axe: 5 points
+- Dwarf Engineer Captain - 60 points
+- Flaming Ammunition - 15 points
+- Additional Crew - 8 points
+- Engineer Captain - [Shield] - 5 points
+- Engineer Captain - Throwing Axes - 5 points
+- Engineer Captain - Two-Handed [Axe] - 5 points
 
 **SPECIAL RULES**
 

@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The Abyssal Knight; The Abyssal Knight; The Dark Headsman; The Forsaken; The Lingering Shadow; The Slayer of Men; The Slayer of Men; The Witch-king of Angmar; Gundabad Orc Captain; Hunter Orc Captain; The Keeper of the Dungeons; Castellan of Dol Guldur; Fell Warg; Gundabad Orc Warrior; Hunter Orc; Mirkwood Spider.
+This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The Abyssal Knight; The Abyssal Knight; The Dark Headsman; The Forsaken; The Lingering Shadow; The Slayer of Men; The Slayer of Men; The Witch-king of Angmar; Gundabad Orc Captain; Hunter Orc Captain; The Keeper of the Dungeons; Castellan of Dol Guldur; [Fell Warg]; Gundabad Orc Warrior; Hunter Orc; Mirkwood Spider.
 
 ## ARMY BONUS
 
@@ -19,29 +19,29 @@ This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 2+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 4+ |
-| Shroud of Shadows | 12" | 4+ |
-| Your Staff is Broken | 12" | 4+ |
-| Curse | 12" | 4+ |
-| Chill Soul | 12" | 5+ |
-| Sap Will | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 2+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 4+ |
+| [Shroud of Shadows] | 12" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
+| [Curse] | 12" | 4+ |
+| [Chill Soul] | 12" | 5+ |
+| [Sap Will] | 12" | 5+ |
 
 **SPECIAL RULES**
 
-- Ancient Evil
-- Terror
-- Will of Evil
+- [Ancient Evil]
+- [Terror]
+- [Will of Evil]
 
 - ***He cannot yet take Physical Form** `PASSIVE`
 
@@ -58,7 +58,6 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [75 POINTS]
@@ -70,17 +69,17 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 
 **WARGEAR**
 
-- Armour
-- two-handed mace
+- [Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Rhunish Fury** `PASSIVE`
 
@@ -96,12 +95,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
@@ -113,17 +111,17 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- Elven-made sword
+- [Armour]
+- Elven-made [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Spiritual Displacement** `ACTIVE`
 
@@ -139,12 +137,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
@@ -156,17 +153,17 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- Elven-made sword
+- [Armour]
+- Elven-made [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Spiritual Displacement** `ACTIVE`
 
@@ -182,12 +179,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DARK HEADSMAN [75 POINTS]
@@ -199,17 +195,17 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- axe
+- [Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Executioner** `ACTIVE`
 
@@ -225,12 +221,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE FORSAKEN [75 POINTS]
@@ -242,21 +237,21 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Trident Spear
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Trident Spear** `ACTIVE`
 
-This is a spear, and the Forsaken must re-roll failed To Wound rolls.
+This is a [spear][Spear], and the Forsaken must re-roll failed To Wound rolls.
 
 - **One of Nine** `PASSIVE`
 
@@ -268,12 +263,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE LINGERING SHADOW [75 POINTS]
@@ -285,17 +279,17 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Unnatural Speed** `ACTIVE`
 
@@ -311,12 +305,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
@@ -328,21 +321,21 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- two-handed mace
+- [Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Spiritual Displacement** `ACTIVE`
 
-You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a two-handed weapon.
+You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed weapon][Two-handed Weapon].
 
 - **One of Nine** `PASSIVE`
 
@@ -354,12 +347,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
@@ -371,21 +363,21 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- two-handed mace
+- [Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Spiritual Displacement** `ACTIVE`
 
-You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a two-handed weapon.
+You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed weapon][Two-handed Weapon].
 
 - **One of Nine** `PASSIVE`
 
@@ -397,12 +389,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [75 POINTS]
@@ -414,17 +405,17 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
+- [Harbinger of Evil]
+- [Terror]
 
 - **Angmar Arisen** `PASSIVE`
 
@@ -440,12 +431,11 @@ There are seven Nazgul of Dol Guldur profiles available.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or Elven-made weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
+When slain, place a marker where it was removed. In the next Priority phase after Priority has been rolled, roll a D6. On a 3+, the model regains 1 Wound, and may be placed within 6" of the marker, but not in base contact with an enemy. On a 1 or 2, the Nazgul is banished and the marker is removed. Wounds caused by Magical Powers or [Elven-made] weapons inflict a -1 penalty to this roll. Whilst the marker is in play, the Nazgul counts as being on the board when determining if your force is Broken or reduced to 25%. Markers cannot hold objectives, and still count as slain for special rules such as Heroic Combats. If the marker is still in play when the game ends, that Nazgul will count as having been slain.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
@@ -457,22 +447,22 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Swap Weapon: 1 point
+- [Shield] - 5 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 </div>
 
@@ -489,19 +479,19 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
-- Orc Bow: 5 points
-- Two-Handed Pick: 5 points
-- Swap Weapon: 5 points
+- [Fell Warg] - 10 points
+- Orc [Bow] - 5 points
+- Two-Handed [Pick] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -512,7 +502,6 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE KEEPER OF THE DUNGEONS [75 POINTS]
@@ -524,23 +513,23 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 **WARGEAR**
 
-- Armour
-- sword
-- two-handed pick
+- [Armour]
+- [Sword]
+- Two-handed [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 - **Torturer** `ACTIVE`
 
-Keep note of each model he kills. After one kill, he may re-roll To Wound rolls of 1. After three kills, he causes Terror. After five kills, he re-rolls all failed To Wound rolls.
+Keep note of each model he kills. After one kill, he may re-roll To Wound rolls of 1. After three kills, he causes [Terror]. After five kills, he re-rolls all failed To Wound rolls.
 
 - **You have something my Master wants!** `ACTIVE`
 
@@ -549,7 +538,6 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CASTELLAN OF DOL GULDUR [40 POINTS]
@@ -561,18 +549,18 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Morgul Blade: 5 points
+- Swap Weapon - 5 points
+- Morgul Blade - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Will of Evil
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -591,7 +579,6 @@ Castellans may use Will points as Fate points if they wish.
 ---
 
 ## WARRIORS OF DARK POWERS OF DOL GULDUR
-
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
@@ -603,11 +590,11 @@ Castellans may use Will points as Fate points if they wish.
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 
@@ -624,20 +611,20 @@ Castellans may use Will points as Fate points if they wish.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 </div>
 
@@ -654,17 +641,17 @@ Castellans may use Will points as Fate points if they wish.
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Fell Warg: 8 points
-- Orc Bow: 1 point
-- Two-Handed Pick: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Fell Warg] - 8 points
+- Orc [Bow] - 1 point
+- Two-Handed [Pick] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -675,7 +662,6 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
@@ -687,13 +673,13 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 - **Spider Webs** `ACTIVE`
 

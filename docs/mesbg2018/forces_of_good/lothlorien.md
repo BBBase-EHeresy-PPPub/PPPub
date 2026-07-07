@@ -4,7 +4,7 @@ This army may include: Galadriel; Celeborn; Haldir; Galadhrim Captain; Orophin; 
 
 ## ARMY BONUS
 
-**"They say a great Sorceress lives in these woods..."** - Friendly Lorien models gain the Resistant to Magic special rule.
+**"They say a great Sorceress lives in these woods..."** - Friendly Lorien models gain the [Resistant to Magic] special rule.
 
 ## HEROES OF LOTHLORIEN
 
@@ -23,27 +23,27 @@ This army may include: Galadriel; Celeborn; Haldir; Galadhrim Captain; Orophin; 
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Blessing of the Valar | 12" | 3+ |
-| Immobilise | 12" | 3+ |
-| Command | 12" | 4+ |
+| [Blinding Light] | - | 2+ |
+| [Blessing of the Valar] | 12" | 3+ |
+| [Immobilise] | 12" | 3+ |
+| [Command] | 12" | 4+ |
 
 **OPTIONS**
 
-- Mirror of Galadriel: 25 points
+- Mirror of Galadriel - 25 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Nenya** `PASSIVE`
 
@@ -55,12 +55,11 @@ She may spend a free point of Will each turn.
 
 - **Mirror of Galadriel** `PASSIVE`
 
-Heavy object with Defence 8 and 3 Wounds. At the end of each phase, one hero model within 6" may restore all their Fate points.
+[Heavy object][Heavy Object] with Defence 8 and 3 Wounds. At the end of each phase, one hero model within 6" may restore all their Fate points.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CELEBORN [130 POINTS]
@@ -72,28 +71,28 @@ Heavy object with Defence 8 and 3 Wounds. At the end of each phase, one hero mod
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Aura of Command | - | 2+ |
-| Enchanted Blades | 6" | 3+ |
-| Immobilise | 12" | 3+ |
+| [Aura of Command] | - | 2+ |
+| [Enchanted Blades] | 6" | 3+ |
+| [Immobilise] | 12" | 3+ |
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Elven-made Hand-and-a-Half Sword: 5 points
-- Shield: 5 points
+- [Heavy Armour] - 10 points
+- Elven-made Hand-and-a-Half [Sword] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Lord of the West** `ACTIVE`
 
@@ -106,7 +105,6 @@ Celeborn's Stand Fast! Is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALDIR [70 POINTS]
@@ -118,28 +116,28 @@ Celeborn's Stand Fast! Is 12" rather than 6".
 
 **WARGEAR**
 
-- Elven made hand-and-a-half sword
+- Elven Made Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Elf Bow: 5 points
-- Elven Cloak: 5 points
+- [Heavy Armour] - 10 points
+- Elf [Bow] - 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Woodland Creature
+- [Expert Shot]
+- [Woodland Creature]
 
 - **Allies 'til the end** `PASSIVE`
 
-When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a banner, and passes all courage tests.
+When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a [banner][Banner], and passes all courage tests.
 
 - **One Final Blow** `ACTIVE`
 
@@ -148,7 +146,6 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GALADHRIM CAPTAIN [70 POINTS]
@@ -160,25 +157,25 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword
-- Heavy armour
+- Elven-made Hand-and-a-half [Sword]
+- [Heavy Armour]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Elf Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- Elf [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Fleetfoot
-- Woodland Creature
+- [Expert Rider]
+- [Fleetfoot]
+- [Woodland Creature]
 
 </div>
 
@@ -195,16 +192,16 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **WARGEAR**
 
-- Heavy armour
-- two Elven-made swords
+- [Heavy Armour]
+- Two Elven-made Swords
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Whirl of Blades** `ACTIVE`
 
@@ -213,7 +210,6 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RUMIL [85 POINTS]
@@ -225,21 +221,21 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made sword
-- shield
+- [Heavy Armour]
+- Elven-made [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Swift Parry** `ACTIVE`
 
@@ -248,7 +244,6 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WOOD ELF CAPTAIN [65 POINTS]
@@ -260,32 +255,31 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 
 **WARGEAR**
 
-- Elven-made sword
-- Elven Cloak
+- Elven-made [Sword]
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Elf Bow: 5 points
-- Throwing Daggers: 5 points
-- Wood Elf Spear: 5 points
-- Swap Weapon: 5 points
+- Elf [Bow] - 5 points
+- Throwing Daggers - 5 points
+- Wood Elf [Spear] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Wood Elf spear** `ACTIVE`
 
-This spear may also parry, which uses the rules for Shielding.
+This [spear][Spear] may also parry, which uses the rules for Shielding.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GALADHRIM STORMCALLER [60 POINTS]
@@ -297,24 +291,24 @@ This spear may also parry, which uses the rules for Shielding.
 
 **WARGEAR**
 
-- Armour
-- Elven-made sword
-- staff
+- [Armour]
+- Elven-made [Sword]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Call Winds | 12" | 3+ |
-| Enchanted Blades | 6" | 4+ |
+| [Call Winds] | 12" | 3+ |
+| [Enchanted Blades] | 6" | 4+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Powers of Nature** `PASSIVE`
 
@@ -325,7 +319,6 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 ---
 
 ## WARRIORS OF LOTHLORIEN
-
 <div class="unitCard" markdown>
 
 ### GALADHRIM KNIGHT [18 POINTS]
@@ -337,22 +330,22 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made sword
-- heavy armour
-- armoured horse
+- Elven-made [Sword]
+- [Heavy Armour]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf Bow: 2 points
-- Shield: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Fleetfoot
-- Expert Rider
+- [Woodland Creature]
+- [Fleetfoot]
+- [Expert Rider]
 
 </div>
 
@@ -369,22 +362,22 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword,
-- Heavy armour
+- Elven-made Hand-and-a-half [Sword],
+- [Heavy Armour]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Elf Bow: 2 points
-- Shield: 1 point
-- Galadhrim Guard Upgrade: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] - 1 point
+- Galadhrim Guard Upgrade - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -401,17 +394,17 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Heavy armour
-- pike
+- [Heavy Armour]
+- [Pike]
 
 **OPTIONS**
 
-- Replace Pike with Banner: 25 points
-- Swap Weapon: 1 point
+- Replace [Pike] with [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Caras Galadhon Fighting Style** `ACTIVE`
 
@@ -420,7 +413,6 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WOOD ELF SENTINEL [25 POINTS]
@@ -432,17 +424,17 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 
 **WARGEAR**
 
-- Elven-made sword
-- Elf bow
-- Elven Cloak
+- Elven-made [Sword]
+- Elf [Bow]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Enchanting Song** `ACTIVE`
 
@@ -458,12 +450,11 @@ Target enemy model must take a Courage test. If failed, you can move the model i
 
 - **The Lay of Gondolin (Song)**
 
-Sentinel gains Terror for rest of the turn.
+Sentinel gains [Terror] for rest of the turn.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WOOD ELF WARRIOR [8 POINTS]
@@ -475,23 +466,23 @@ Sentinel gains Terror for rest of the turn.
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword
-- Elven Cloak
+- Elven-made Hand-and-a-half [Sword]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf Bow: 2 points
-- Throwing Daggers: 2 points
-- Wood Elf Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- Throwing Daggers - 2 points
+- Wood Elf [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Wood Elf spear** `ACTIVE`
 
-This spear may also parry, which uses the rules for Shielding.
+This [spear][Spear] may also parry, which uses the rules for Shielding.
 
 </div>

@@ -4,7 +4,7 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 ## ARMY BONUS
 
-**"Let the Legions Come Forth!"** - If either Azog or Bolg is the leader of your force then they gain the Master of Battle special rule.
+**"Let the Legions Come Forth!"** - If either Azog or Bolg is the leader of your force then they gain the [Master of Battle] special rule.
 
 ## HEROES OF AZOG'S LEGION
 
@@ -19,30 +19,30 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 **WARGEAR**
 
-- Sword
-- mace
+- [Sword]
+- [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Signal Tower: 200 points
-- The White Warg: 50 points
-- Stone Flail: 20 points
-- Heavy Armour: 10 points
+- Signal Tower - 200 points
+- The White [Warg] - 50 points
+- Stone [Flail] - 20 points
+- [Heavy Armour] - 10 points
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 - **Stone flail** `ACTIVE`
 
-Two-handed flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][Two-Handed] flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
@@ -55,7 +55,6 @@ Never requires more than 3+ for To Wound against Hero models.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
@@ -67,30 +66,30 @@ Never requires more than 3+ for To Wound against Hero models.
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed pick
+- [Heavy Armour]
+- Two-handed [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
-- Orc Bow: 5 points
+- [Fell Warg] - 10 points
+- Orc [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Burly
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Burly]
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 - **The Bringer of Death** `ACTIVE`
 
-After Bolg has killed two enemy models, he causes Terror. After five or more kills, he gains the Harbinger of Evil special rule. After ten or more kill, he gains the Mighty Hero special rule.
+After Bolg has killed two enemy models, he causes [Terror]. After five or more kills, he gains the [Harbinger of Evil] special rule. After ten or more kill, he gains the [Mighty Hero] special rule.
 
 - **Morgul Arrows** `PASSIVE`
 
@@ -99,7 +98,6 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
@@ -111,24 +109,24 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -137,7 +135,6 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
@@ -149,22 +146,22 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Swap Weapon: 1 point
+- [Shield] - 5 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 </div>
 
@@ -183,20 +180,20 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -205,7 +202,6 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GUNDABAD BERSERKER [15 POINTS]
@@ -217,27 +213,26 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **WARGEAR**
 
-- Armour
-- sword or axe
+- [Armour]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- Two-Handed Pick: 1 point
-- Swap Weapon: 1 point
+- Two-Handed [Pick] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 - **Oblivious to Pain** `PASSIVE`
 
-Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the Banner of Angmar is manned on Azog's Signal Tower) the Wound is ignored. This is not cumulative with other special rules.
+Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner] of Angmar is manned on Azog's Signal Tower) the Wound is ignored. This is not cumulative with other special rules.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [8 POINTS]
@@ -249,20 +244,20 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the Banner 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 </div>
 
@@ -279,19 +274,19 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the Banner 
 
 **WARGEAR**
 
-- Heavy armour
-- crushing club or pair of scythe gauntlets
+- [Heavy Armour]
+- Crushing [Club] Or Pair Of Scythe Gauntlets
 
 **OPTIONS**
 
-- Crushing Club: 0 points
-- Scythe Gauntlets: 0 points
+- Crushing [Club] - Free
+- Scythe Gauntlets - Free
 
 **SPECIAL RULES**
 
-- Terror
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Terror]
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 - **Crushing Club** `ACTIVE`
 
@@ -304,7 +299,6 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OGRE [60 POINTS]
@@ -316,11 +310,11 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 
 **WARGEAR**
 
-- Wooden clubs
+- Wooden Clubs
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Relentless Advance** `ACTIVE`
 
@@ -329,7 +323,6 @@ When charging into combat, ogres can pass through friendly Orc, Goblin and Bat m
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### TROLL BRUTE [100 POINTS]
@@ -341,12 +334,12 @@ When charging into combat, ogres can pass through friendly Orc, Goblin and Bat m
 
 **WARGEAR**
 
-- Flail
+- [Flail]
 
 **SPECIAL RULES**
 
-- Terror
-- Fearless
+- [Terror]
+- [Fearless]
 
 - **Crushing Blow** `ACTIVE`
 
@@ -355,7 +348,6 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WAR BAT [25 POINTS]
@@ -367,11 +359,11 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 
 **WARGEAR**
 
-- Razor-sharp teeth and talons
+- Razor-sharp Teeth and Talons
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Piercing Talons** `ACTIVE`
 
@@ -379,14 +371,13 @@ When a War Bat charges, the Defence of the charged model and any models that sub
 
 - **Pluck** `ACTIVE`
 
-At the end of the War Bat's move, pick an unengaged man-sized (or smaller) enemy that it moved over, and roll a D6. On a 4+, they suffer a Strength 4 hit. If it survives, roll another D6. On a 4+, that model is Knocked to the Ground.
+At the end of the War Bat's move, [pick][Pick] an unengaged man-sized (or smaller) enemy that it moved over, and roll a D6. On a 4+, they suffer a Strength 4 hit. If it survives, roll another D6. On a 4+, that model is Knocked to the Ground.
 
 </div>
 
 ---
 
 ## SIEGE ENGINES OF AZOG'S LEGION
-
 <div class="unitCard" markdown>
 
 ### CATAPULT TROLL [180 POINTS]
@@ -399,11 +390,11 @@ At the end of the War Bat's move, pick an unengaged man-sized (or smaller) enemy
 **WARGEAR**
 
 - Catapult
-- metal gauntlets
+- Metal Gauntlets
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Goblin Crew** `ACTIVE`
 
@@ -411,11 +402,11 @@ If the troll wins the fight, his Goblin crew may also make D6 Strength 3 strikes
 
 - **Metal Gauntlets** `ACTIVE`
 
-Never count as being unarmed, and he counts as Strength 10 when rolling for distance with a Hurl Brutal Power Attack
+Never count as being [unarmed][Unarmed], and he counts as Strength 10 when rolling for distance with a Hurl Brutal Power Attack
 
 - **Catapult**
 
-A large Siege Engine that follows the rules for Volley Fire, with range 12" - 96". Catapult shots are Strength 10. May still fire in same turn it has moved, but only hits on a 6. May still fire while in combat, but on a To Hit of 1, the troll suffers a wound. The troll does not have a normal crew like other Siege Engines. The troll is the Siege Veteran but has no points of Might, Will or Fate. The catapult cannot be destroyed as normal if an enemy spends its entire turn in base contact.
+A large Siege Engine that follows the rules for Volley Fire, with range 12" - 96". Catapult shots are Strength 10. May still fire in same turn it has moved, but only hits on a 6. May still fire while in combat, but on a To Hit of 1, the troll suffers a wound. The troll does not have a normal crew like other Siege Engines. The troll is the [Siege Veteran] but has no points of Might, Will or Fate. The catapult cannot be destroyed as normal if an enemy spends its entire turn in base contact.
 
 - **Area Effect**
 

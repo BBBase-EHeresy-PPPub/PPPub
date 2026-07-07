@@ -42,7 +42,7 @@
 
 ## SPECIAL RULES
 
-**"The King of the Dead"** - The King of the Dead gains the Harbinger of Evil special rule.
+**"The King of the Dead"** - The King of the Dead gains the [Harbinger of Evil] special rule.
 
 **"The Heir of Isildur"** - Aragorn does not have to pay any points for Andúril, Flame of the West, he automatically has this upgrade - it is free.
 

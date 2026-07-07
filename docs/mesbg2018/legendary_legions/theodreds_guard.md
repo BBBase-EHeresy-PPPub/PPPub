@@ -56,7 +56,7 @@
 
 ## SPECIAL RULES
 
-**"Protect the Prince"** - All models in this force gain the Sworn Protector (Theodred) special rule.
+**"Protect the Prince"** - All models in this force gain the [Sworn Protector] (Theodred) special rule.
 
 **"Riders of Theodred!"** - Captains of Rohan, Riders of Rohan and Rohan Royal Guard treat Théodred as if he were Théoden for the purpose of their Arise Riders of Théoden special rule.
 

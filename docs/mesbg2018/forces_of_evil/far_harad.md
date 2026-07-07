@@ -19,22 +19,22 @@ This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War
 
 **WARGEAR**
 
-- Armour
-- long-bladed spear
+- [Armour]
+- Long-bladed Spear
 - Royal War Mumak
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
 - **Long-bladed Spear** `ACTIVE`
 
-A spear and two-handed weapon.
+A [spear][Spear] and [two-handed weapon][Two-handed Weapon].
 
 - **Royal War Mumak** `PASSIVE`
 
@@ -51,7 +51,6 @@ Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and ma
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
@@ -63,20 +62,20 @@ Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and ma
 
 **WARGEAR**
 
-- Armour
-- club
+- [Armour]
+- [Club]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- War Camel: 10 points
-- Blowpipe with Poisoned Darts: 5 points
-- Shield: 5 points
-- War Spear: 5 points
+- War Camel - 10 points
+- [Blowpipe] with Poisoned Darts - 5 points
+- [Shield] - 5 points
+- [War Spear] - 5 points
 
 </div>
 
@@ -93,21 +92,21 @@ Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and ma
 
 **WARGEAR**
 
-- Armour
-- club
+- [Armour]
+- [Club]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- War Camel: 10 points
-- Blowpipe with Poisoned Darts: 5 points
-- Shield: 5 points
-- War Spear: 5 points
-- Swap Weapon: 5 points
+- War Camel - 10 points
+- [Blowpipe] with Poisoned Darts - 5 points
+- [Shield] - 5 points
+- [War Spear] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -124,24 +123,24 @@ Stand Fast! is 12", and his warband may deploy within 12" rather than 6", and ma
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Gnarled Hide: 30 points
-- Rocks: 20 points
-- Sigils of Defiance: 20 points
-- Tusk Weapons: 20 points
-- Foul Temperament: 15 points
-- Rappelling Lines: 10 points
+- Gnarled Hide - 30 points
+- Rocks - 20 points
+- Sigils of Defiance - 20 points
+- Tusk Weapons - 20 points
+- Foul Temperament - 15 points
+- Rappelling Lines - 10 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with Banner re-rolls.
+Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with [Banner] re-rolls.
 
 - **Trample**
 
@@ -152,7 +151,6 @@ Inflicts three Strength 9 hits.
 ---
 
 ## WARRIORS OF FAR HARAD
-
 <div class="unitCard" markdown>
 
 ### HALF TROLL [23 POINTS]
@@ -164,17 +162,17 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- club
+- [Armour]
+- [Club]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
-- Two-Handed Club: 1 point
+- Swap Weapon - 1 point
+- Two-Handed [Club] - 1 point
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -191,17 +189,17 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- club
-- shield
+- [Armour]
+- [Club]
+- [Shield]
 - War Camel
 
 **OPTIONS**
 
-- Banner: 25 points
-- Blowpipe with Poisoned Darts: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Blowpipe] with Poisoned Darts - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -218,15 +216,15 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- club
-- shield
+- [Armour]
+- [Club]
+- [Shield]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Blowpipe with Poisoned Darts: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Blowpipe] with Poisoned Darts - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>

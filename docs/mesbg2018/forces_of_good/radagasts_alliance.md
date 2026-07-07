@@ -19,31 +19,31 @@ This army may include: Radagast the Brown; Beorn; Gwaihir; Great Eagle.
 
 **WARGEAR**
 
-- Staff of Power
-- dagger
+- [Staff of Power]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Channelling
+- [Heroic Defence]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Panic Steed | 12" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Renew | 12" | 3+ |
-| Nature's Wrath | 3" | 4+ |
-| Aura of Dismay | - | 5+ |
+| [Panic Steed] | 12" | 2+ |
+| [Terrifying Aura] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Renew] | 12" | 3+ |
+| [Nature's Wrath] | 3" | 4+ |
+| [Aura of Dismay] | - | 5+ |
 
 **OPTIONS**
 
-- Swap Staff for Great Eagle: 50 points
-- Sleigh: 45 points
-- Horse: 10 points
-- Sebastian: 5 points
+- Swap [Staff] for Great Eagle - 50 points
+- Sleigh - 45 points
+- [Horse] - 10 points
+- Sebastian - 5 points
 
 **SPECIAL RULES**
 
@@ -53,11 +53,11 @@ Extra attack in close combat, with Fight 1 and Strength 1. Cannot be altered wit
 
 - **Master of Birds** `PASSIVE`
 
-Radagast always has Line of Sight to any point on the battlefield. Eagle models within 12" gain Resistant to Magic. If he dismounts a Great Eagle, the eagle automatically passes its Courage test.
+Radagast always has Line of Sight to any point on the battlefield. Eagle models within 12" gain [Resistant to Magic]. If he dismounts a Great Eagle, the eagle automatically passes its Courage test.
 
 - **One with Nature** `PASSIVE`
 
-Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move through difficult terrain without penalty.
+Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move through difficult terrain without penalty.
 
 </div>
 
@@ -74,20 +74,20 @@ Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move thr
 
 **WARGEAR**
 
-- Two-handed axe
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
-- Resistant to Magic
-- Woodland Creature
+- [Burly]
+- [Fearless]
+- [Resistant to Magic]
+- [Woodland Creature]
 
 - **Skin-changer** `ACTIVE`
 
@@ -108,19 +108,19 @@ To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+,
 
 **WARGEAR**
 
-- Claws and beak
+- Claws and Beak
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fly
-- Monstrous Charge
-- Terror
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
 
 - **Lord of the Eagles** `ACTIVE`
 
@@ -143,12 +143,12 @@ Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit f
 
 **WARGEAR**
 
-- Claws and beak
+- Claws and Beak
 
 **SPECIAL RULES**
 
-- Fly
-- Monstrous Charge
-- Terror
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
 
 </div>

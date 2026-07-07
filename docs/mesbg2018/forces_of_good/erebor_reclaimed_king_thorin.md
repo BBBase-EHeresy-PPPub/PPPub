@@ -21,26 +21,26 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- sword
+- [Heavy Dwarf Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
-- Heroic Resolve
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Orcrist: 10 points
-- War Goat: 10 points
+- Orcrist - 10 points
+- War Goat - 10 points
 
 **SPECIAL RULES**
 
 - **Orcrist** `ACTIVE`
 
-Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **A Score to Settle** `ACTIVE`
 
@@ -48,7 +48,7 @@ Must re-roll all failed To Wound rolls against Azog.
 
 - **Ancestral Fury** `ACTIVE`
 
-May call a free Heroic Combat every Fight phase.
+May call a free [Heroic Combat] every Fight phase.
 
 </div>
 
@@ -65,17 +65,17 @@ May call a free Heroic Combat every Fight phase.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed mace
+- [Heavy Dwarf Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Longbeard** `ACTIVE`
 
@@ -96,25 +96,25 @@ In Priority phase, Balin may spend a Will point to enable his side to re-roll th
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed hammer
+- [Heavy Dwarf Armour]
+- Two-handed [Hammer]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- War Boar: 20 points
+- War Boar - 20 points
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
+- [Burly]
+- [Fearless]
 
 - **Lord of the Iron Hills** `PASSIVE`
 
@@ -126,7 +126,7 @@ After killing his first enemy, Dain must always Charge if able to do so for the 
 
 - **Fearsome Charge** `PASSIVE`
 
-When Dain Charges, he causes Terror for the rest of that turn.
+When Dain Charges, he causes [Terror] for the rest of that turn.
 
 - **Headbutt** `ACTIVE`
 
@@ -147,32 +147,32 @@ If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two axes
-- two-handed axe
+- [Heavy Dwarf Armour]
+- Two Axes
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- War Goat: 10 points
+- War Goat - 10 points
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Burly]
+- [Fearless]
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Duel rolls for fighting with a two-handed weapon.
+Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
 
 - **The King's Axeman** `ACTIVE`
 
-Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an axe in each hand for 4 Attacks, or his two-handed axe for 3 Attacks.
+Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe][Axe] in each hand for 4 Attacks, or his [two-handed][Two-Handed] [axe][Axe] for 3 Attacks.
 
 </div>
 
@@ -189,12 +189,12 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 
 **SPECIAL RULES**
 
-- Fearless
-- Monstrous Charge
+- [Fearless]
+- [Monstrous Charge]
 
 - **Dwarven Crew** `ACTIVE`
 
-An Iron Hills Dwarf Warrior who ends their move in base contact with the Chariot may replace a slain crew member. They will immediately drop their spear, shield, mattock, crossbow or banner. If the driver is killed, another crew member may take their place. If all crew are slain, the Chariot is immediately removed as a casualty.
+An Iron Hills Dwarf Warrior who ends their move in base contact with the Chariot may replace a slain crew member. They will immediately drop their [spear][Spear], [shield][Shield], mattock, [crossbow][Crossbow] or [banner][Banner]. If the driver is killed, another crew member may take their place. If all crew are slain, the Chariot is immediately removed as a casualty.
 
 - **Rapid Fire Bolt Thrower** `ACTIVE`
 
@@ -239,20 +239,20 @@ See page 34 of Hobbit Armies book
 
 **WARGEAR**
 
-- Heavy Dwarf armour, hand-and-a-half axe.
+- [Heavy Dwarf Armour], Hand-and-a-half [Axe].
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Throw Stones (range 8", Strength 1)
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Throw Stones] (range 8", Strength 1)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Embedded Axe-blade** `ACTIVE`
 
-If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
+If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free [Heroic Move] each turn.
 
 </div>
 
@@ -269,17 +269,17 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand-and-a-half hammer
+- [Heavy Dwarf Armour]
+- Hand-and-a-half [Hammer]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Steadfast** `PASSIVE`
 
@@ -300,20 +300,20 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- flail
+- [Heavy Dwarf Armour]
+- [Flail]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Beefy** `ACTIVE`
 
-May use the Bash Special Strike, as if he were using a mace.
+May use the Bash Special Strike, as if he were using a [mace][Mace].
 
 - **Lumbering** `PASSIVE`
 
@@ -338,17 +338,17 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed mace
+- [Heavy Dwarf Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **A Good Sort Really** `PASSIVE`
 
@@ -356,7 +356,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - **Weapon Master** `ACTIVE`
 
-Dori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -373,21 +373,21 @@ Dori is never considered unarmed, and does not suffer the -1 penalty during Duel
 
 **WARGEAR**
 
-- Heavy Dwarf armour, sword.
+- [Heavy Dwarf Armour], [Sword].
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- War Goat: 10 points
-- Dwarf Bow: 5 points
+- War Goat - 10 points
+- Dwarf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Combat Synergy** `ACTIVE`
 
@@ -395,7 +395,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - **Du Bekar!** `PASSIVE`
 
-This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+This model counts as being in range of a [banner][Banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 </div>
 
@@ -412,17 +412,17 @@ This model counts as being in range of a banner if they are within 6" of Thorin 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed axe
+- [Heavy Dwarf Armour]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **A Warrior Born** `ACTIVE`
 
@@ -430,7 +430,7 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 - **Weapon Master** `ACTIVE`
 
-Gloin is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -447,25 +447,25 @@ Gloin is never considered unarmed, and does not suffer the -1 penalty during Due
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- war spear
-- sword
-- shield
+- [Heavy Dwarf Armour]
+- [War Spear]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- War Goat: 10 points
-- Swap Weapon: 5 points
-- Swap War Spear and Shield for Mattock: 0 points
+- War Goat - 10 points
+- Swap Weapon - 5 points
+- Swap [War Spear] and [Shield] for Mattock - Free
 
 **SPECIAL RULES**
 
-- Master of Battle (5+)
-- Shieldwall
+- [Master of Battle] (5+)
+- [Shieldwall]
 
 </div>
 
@@ -482,22 +482,22 @@ Gloin is never considered unarmed, and does not suffer the -1 penalty during Due
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- sword
+- [Heavy Dwarf Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- War Goat: 10 points
-- Dwarf Bow: 5 points
+- War Goat - 10 points
+- Dwarf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Combat Synergy** `ACTIVE`
 
@@ -505,7 +505,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - **Du Bekar!** `PASSIVE`
 
-This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+This model counts as being in range of a [banner][Banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 </div>
 
@@ -522,22 +522,22 @@ This model counts as being in range of a banner if they are within 6" of Thorin 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- mace
-- shield
+- [Heavy Dwarf Armour]
+- [Mace]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 - **Weapon Synergy** `ACTIVE`
 
@@ -558,17 +558,17 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- sword
-- shield
+- [Heavy Dwarf Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Healing Herbs** `ACTIVE`
 
@@ -593,16 +593,16 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand-and-a-half axe
+- [Heavy Dwarf Armour]
+- Hand-and-a-half [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Chronicler** `ACTIVE`
 
@@ -625,25 +625,25 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Spear: 1 point
-- Swap Shield for Crossbow: 1 point
-- Swap Weapon: 1 point
-- Swap Shield for Mattock: 0 points
+- [Banner] - 25 points
+- [Spear] - 1 point
+- Swap [Shield] for [Crossbow] - 1 point
+- Swap Weapon - 1 point
+- Swap [Shield] for Mattock - Free
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -660,21 +660,21 @@ Two-handed weapon that can use either the Bash or Piercing Strike Special Strike
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- war spear
+- [Heavy Armour]
+- [Sword]
+- [War Spear]
 - War Goat
 
 **OPTIONS**
 
-- Banner: 25 points
-- Swap Weapon: 1 point
-- Swap Spear for Mattock: 0 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
+- Swap [Spear] for Mattock - Free
 
 **SPECIAL RULES**
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>

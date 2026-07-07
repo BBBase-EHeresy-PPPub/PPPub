@@ -84,7 +84,7 @@
 
 ## SPECIAL RULES
 
-**"Cover of Darkness"** - Any battle featuring this Legendary Legion takes place at night. As such, due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engines may still target enemy models more than 12" away, however in this situation they will only ever hit on the roll of a 6. Models with the Cave Dweller special rule can see as normal.
+**"Cover of Darkness"** - Any battle featuring this Legendary Legion takes place at night. As such, due to the reduced visibility, models cannot be targeted by shooting, Magical Powers or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Siege Engines may still target enemy models more than 12" away, however in this situation they will only ever hit on the roll of a 6. Models with the [Cave Dweller] special rule can see as normal.
 
 **"Ruthless Savagery"** - Friendly Orc and Goblin models gain a bonus of +1 To Wound in a fight in which the opposing model is outnumbered. Note that supporting models do not count for either side for the purpose of this rule.
 

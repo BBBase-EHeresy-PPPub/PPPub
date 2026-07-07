@@ -74,7 +74,7 @@
 
 ## SPECIAL RULES
 
-**"If that Fell Kingdom should rise again, Rivendell, Lorien, the Shire, even Gondor itself shall fall"** - Friendly Angmar Orcs within 6" of a friendly Spirit Hero gain the Terror special rule.
+**"If that Fell Kingdom should rise again, Rivendell, Lorien, the Shire, even Gondor itself shall fall"** - Friendly Angmar Orcs within 6" of a friendly Spirit Hero gain the [Terror] special rule.
 
 **"Dark Sorceries"** - Friendly Ringrwaith models may re-roll a single D6 when making Casting or Resist tests.
 

@@ -4,7 +4,7 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 
 ## ARMY BONUS
 
-**"Fear! Fire! Foes!"** - Hobbit models from this army list gain the Woodland Creature Special Rule.
+**"Fear! Fire! Foes!"** - Hobbit models from this army list gain the [Woodland Creature] Special Rule.
 
 ## HEROES OF THE SHIRE
 
@@ -19,18 +19,18 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 
 **WARGEAR**
 
-- Club
-- Horse
+- [Club]
+- [Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -47,33 +47,33 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 4+ |
-| Protection of the Valar | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Collapse Rocks | 6" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Blinding Light] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 12" | 4+ |
+| [Protection of the Valar] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Collapse Rocks] | 6" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **OPTIONS**
 
-- Cart: 25 points
-- Horse: 10 points
+- Cart - 25 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -100,26 +100,26 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 - Horn of the Riddermark
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic March
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Pony: 5 points
-- Shield: 5 points
+- [Elven Cloak] - 5 points
+- [Pony] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Horn of the Riddermark** `ACTIVE`
 
@@ -140,25 +140,25 @@ Whilst carrying the horn, all Hobbit models gain +1 Courage. If Merry is slain, 
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic March
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Pony: 5 points
-- Shield: 5 points
+- [Elven Cloak] - 5 points
+- [Pony] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Against all Odds** `ACTIVE`
 
@@ -179,16 +179,16 @@ Pippin may re-roll any failed To Wound rolls when striking against Monster or He
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Champion Stone Skipper** `ACTIVE`
 
@@ -213,22 +213,22 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Mithril Coat: 15 points
-- Sting: 5 points
-- The Ring: 0 points
+- Mithril Coat - 15 points
+- Sting - 5 points
+- The Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -245,13 +245,13 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 **WARGEAR**
 
-- Two-handed scythe (pick)
+- Two-handed Scythe ([Pick])
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Grip, Fang and Wolf** `PASSIVE`
 
@@ -276,17 +276,17 @@ Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Pitchfork** `PASSIVE`
 
-Hand-and-a-half weapon that may use the Stab Special Strike, and may support as if it was a spear.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon] that may use the Stab Special Strike, and may support as if it was a [spear][Spear].
 
 - **"This is our Country"** `PASSIVE`
 
@@ -308,21 +308,21 @@ Farmer Cotton and Hobbit models within 3" may re-roll 1s when rolling to win a D
 **WARGEAR**
 
 - Mithril Coat
-- unarmed
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Pony: 5 points
+- [Elven Cloak] - 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 - **Mithril Coat** `PASSIVE`
 
@@ -334,7 +334,7 @@ Frodo never charge enemies, and makes no strikes in a Fight.
 
 - **Home is the Hero** `PASSIVE`
 
-All Hobbit models within 6" count as being in range of a banner
+All Hobbit models within 6" count as being in range of a [banner][Banner]
 
 </div>
 
@@ -351,12 +351,12 @@ All Hobbit models within 6" count as being in range of a banner
 
 **WARGEAR**
 
-- Spade (staff)
+- Spade ([Staff])
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Leave my Flowers Alone!** `PASSIVE`
 
@@ -377,20 +377,20 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 **WARGEAR**
 
-- Hand-and-a-half club.
+- Hand-and-a-half [Club].
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as two-handed weapons.
+Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as [two-handed][Two-Handed] weapons.
 
 </div>
 
@@ -407,16 +407,16 @@ Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do 
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Considerable Wealth** `ACTIVE`
 
@@ -447,16 +447,16 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 **WARGEAR**
 
-- Walking cane (club).
+- Walking Cane ([Club]).
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **To me Shire-folk!** `ACTIVE`
 
@@ -477,16 +477,16 @@ Paladin's Stand Fast! Only affects Hobbit models and has a range of 12".
 
 **WARGEAR**
 
-- Hand-and-a-half club.
+- Hand-and-a-half [Club].
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **A Nose for Shortcuts** `PASSIVE`
 
@@ -511,22 +511,22 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Pony: 5 points
+- [Elven Cloak] - 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Sting** `ACTIVE`
 
-Elven-made dagger, adds +1 to Strength when making Strikes with Sting.
+[Elven-made] [dagger][Dagger], adds +1 to Strength when making Strikes with Sting.
 
 </div>
 
@@ -543,20 +543,20 @@ Elven-made dagger, adds +1 to Strength when making Strikes with Sting.
 
 **WARGEAR**
 
-- Walking cane (staff).
+- Walking Cane ([Staff]).
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Mayor of Hobbiton** `ACTIVE`
 
-At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a banner.
+At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a [banner][Banner].
 
 </div>
 
@@ -573,17 +573,17 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 
 **WARGEAR**
 
-- Sword
-- bow
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Spear: 1 point
+- Swap Weapon - 5 points
+- [Spear] - 1 point
 
 </div>
 
@@ -600,16 +600,16 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **A Helpful Sort** `PASSIVE`
 
-If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Folco's Will points to declare a Heroic Move, instead of using his own Might points.
+If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Folco's Will points to declare a [Heroic Move], instead of using his own Might points.
 
 </div>
 
@@ -626,12 +626,12 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -652,8 +652,8 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Furious Tirade** `ACTIVE`
 
@@ -678,16 +678,16 @@ Lobelia will never make Strikes if she wins a Fight.
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **"If I were to marry anyone, it would've been her"** `PASSIVE`
 
-Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 4" of Sam, he may declare free Heroic Combats. If Rosie is engaged in a Fight, Sam must use this Heroic Combat to join her fight afterwards if possible, or move closer to her.
+Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 4" of Sam, he may declare free Heroic Combats. If Rosie is engaged in a Fight, Sam must use this [Heroic Combat] to join her fight afterwards if possible, or move closer to her.
 
 </div>
 
@@ -706,19 +706,19 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 **WARGEAR**
 
-- Dagger
-- short bow
+- [Dagger]
+- Short [Bow]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Tookish Hunters: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- Tookish Hunters - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -735,18 +735,18 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 **WARGEAR**
 
-- Dagger
-- axe or hammer
+- [Dagger]
+- [Axe] or [Hammer]
 
 **OPTIONS**
 
-- Battlin' Brandybucks: 1 point
-- Swap Weapon: 1 point
+- Battlin' Brandybucks - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -763,15 +763,15 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 **WARGEAR**
 
-- Hand-and-a-half club
+- Hand-and-a-half [Club]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>

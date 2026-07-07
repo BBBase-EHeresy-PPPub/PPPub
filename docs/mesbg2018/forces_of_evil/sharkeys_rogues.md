@@ -32,21 +32,21 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 **WARGEAR**
 
-- Jagged knife (sword)
-- club
-- whip
+- Jagged Knife ([Sword])
+- [Club]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror (Hobbit)
+- [Terror] (Hobbit)
 
 - **With Me Lads!** `PASSIVE`
 
-Other friendly Ruffian models treat Sid as a banner.
+Other friendly Ruffian models treat Sid as a [banner][Banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
@@ -54,7 +54,7 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 - **Brawler** `PASSIVE`
 
-Never counts as being unarmed.
+Never counts as being [unarmed][Unarmed].
 
 </div>
 
@@ -71,12 +71,12 @@ Never counts as being unarmed.
 
 **WARGEAR**
 
-- Dagger
-- whip
+- [Dagger]
+- [Whip]
 
 **SPECIAL RULES**
 
-- Hatred (Hobbit)
+- [Hatred] (Hobbit)
 
 - **Sharkey's Spy** `PASSIVE`
 
@@ -101,12 +101,12 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 - Lantern
 
 **SPECIAL RULES**
 
-- Hatred (Hobbit)
+- [Hatred] (Hobbit)
 
 - **Lantern** `PASSIVE`
 
@@ -131,16 +131,16 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Considerable Wealth** `ACTIVE`
 
@@ -171,8 +171,8 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 **WARGEAR**
 
-- Club
-- knife (sword)
+- [Club]
+- Knife ([Sword])
 
 **SPECIAL RULES**
 
@@ -186,7 +186,7 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 - **Burn it Down!** `ACTIVE`
 
-Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+, it is set on fire. Any model touching it must roll a D6. On 4+, they are Set Ablaze.
+Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+, it is set on fire. Any model touching it must roll a D6. On 4+, they are [Set Ablaze].
 
 </div>
 
@@ -203,13 +203,13 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 
 **WARGEAR**
 
-- Knife or club.
+- Knife Or [Club].
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Bow: 1 point
-- Whip: 1 point
+- Swap Weapon - 5 points
+- [Bow] - 1 point
+- [Whip] - 1 point
 
 **SPECIAL RULES**
 
@@ -232,12 +232,12 @@ A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 
 
 **WARGEAR**
 
-- Hammer
+- [Hammer]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **A Bad Influence** `PASSIVE`
 
@@ -260,17 +260,17 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 **WARGEAR**
 
-- Dagger
-- axe or hammer
+- [Dagger]
+- [Axe] or [Hammer]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -287,13 +287,13 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 **WARGEAR**
 
-- Knife or club.
+- Knife Or [Club].
 
 **OPTIONS**
 
-- Bow: 1 point
-- Whip: 1 point
-- Swap Weapon: 1 point
+- [Bow] - 1 point
+- [Whip] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 

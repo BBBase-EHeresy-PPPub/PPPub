@@ -4,7 +4,7 @@ This army may include: Aragorn, Strider; Arathorn; Halbarad; Dunedain; Ranger of
 
 ## ARMY BONUS
 
-**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the Woodland Creature special rule, and the Rangers of the North and Dunedain may benefit from the Stand Fast! of Arathorn, Halbarad and Aragorn - Strider. Additionally, the Rangers of the North and the Dunedain increase their Attacks value to 2, while they have the Infantry keyword.
+**"They're dangerous folk, wandering the wilds"** - All models from this army list gain the [Woodland Creature] special rule, and the Rangers of the North and Dunedain may benefit from the Stand Fast! of Arathorn, Halbarad and Aragorn - Strider. Additionally, the Rangers of the North and the Dunedain increase their Attacks value to 2, while they have the Infantry keyword.
 
 ## HEROES OF THE RANGERS
 
@@ -19,30 +19,30 @@ This army may include: Aragorn, Strider; Arathorn; Halbarad; Dunedain; Ranger of
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Anduril Flame of the West: 40 points
-- Horse: 10 points
-- Armour: 5 points
-- Bow: 5 points
-- Elven Cloak: 5 points
+- Anduril Flame of the West - 40 points
+- [Horse] - 10 points
+- [Armour] - 5 points
+- [Bow] - 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Mighty Hero
+- [Horse Lord]
+- [Mighty Hero]
 
 - **Anduril, Flame of the West** `ACTIVE`
 
@@ -51,7 +51,6 @@ Never requires more than a 4 for To Wound rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ARATHORN [75 POINTS]
@@ -63,14 +62,14 @@ Never requires more than a 4 for To Wound rolls.
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 </div>
 
@@ -87,28 +86,27 @@ Never requires more than a 4 for To Wound rolls.
 
 **WARGEAR**
 
-- Armour, sword, bow.
+- [Armour], [Sword], [Bow].
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Banner of Arwen Evenstar: 40 points
-- Horse: 10 points
+- [Banner] Of Arwen Evenstar - 40 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
 - **Banner of Arwen Evenstar** `PASSIVE`
 
-A banner that affects all friendly models within 6", and gain the Fearless special rule. Halbarad suffers no -1 penalty in Duel rolls.
+A [banner][Banner] that affects all friendly models within 6", and gain the [Fearless] special rule. Halbarad suffers no -1 penalty in Duel rolls.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNEDAIN [25 POINTS]
@@ -120,17 +118,17 @@ A banner that affects all friendly models within 6", and gain the Fearless speci
 
 **WARGEAR**
 
-- Sword
-- bow
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Spear: 1 point
+- Swap Weapon - 5 points
+- [Spear] - 1 point
 
 </div>
 
@@ -147,18 +145,18 @@ A banner that affects all friendly models within 6", and gain the Fearless speci
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Swap Weapon: 5 points
-- Spear: 1 point
+- [Horse] - 10 points
+- Swap Weapon - 5 points
+- [Spear] - 1 point
 
 </div>

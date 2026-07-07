@@ -19,20 +19,20 @@ This army may include: Elendil; Isildur; Captain of Numenor; Warrior of Numenor.
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Narsil
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Shield: 5 points
+- [Horse] - 10 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -42,7 +42,7 @@ Elendil permanently has Fortify Spirit cast upon him.
 
 - **Narsil** `ACTIVE`
 
-A Master-forged hand-and-a-half sword, and may call a Heroic Combat each turn for free.
+A [Master-forged][Master-Forged] [hand-and-a-half][Hand-And-A-Half] [sword][Sword], and may call a [Heroic Combat] each turn for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -63,27 +63,27 @@ Elendil's Stand Fast! Is 12" rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half sword
+- [Heavy Armour]
+- Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Shield: 5 points
-- The Ring: 0 points
+- [Horse] - 10 points
+- [Shield] - 5 points
+- The Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 - **Blood of Numenor** `PASSIVE`
 
-This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+This model gains the [Resistant to Magic] special rule whilst within 6" of Elendil, Isildur or Anarion.
 
 - **The Ring** `PASSIVE`
 
@@ -104,27 +104,27 @@ If your force does not contain Elendil or Anarion, Isildur may carry The Ring
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Bow: 5 points
-- Heavy Armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- [Bow] - 5 points
+- [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Blood of Numenor** `PASSIVE`
 
-This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+This model gains the [Resistant to Magic] special rule whilst within 6" of Elendil, Isildur or Anarion.
 
 </div>
 
@@ -143,21 +143,21 @@ This model gains the Resistant to Magic special rule whilst within 6" of Elendil
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Blood of Numenor** `PASSIVE`
 
-This model gains the Resistant to Magic special rule whilst within 6" of Elendil, Isildur or Anarion.
+This model gains the [Resistant to Magic] special rule whilst within 6" of Elendil, Isildur or Anarion.
 
 </div>

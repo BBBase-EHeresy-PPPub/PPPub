@@ -54,7 +54,7 @@
 
 **"Shadow..."** - Shooting attacks that target the Balrog will only ever hit on a 5 or more.
 
-**"...and Flame"** - Once per game, at the start of any Shoot phase, the Balrog may select a single enemy model within 3" of it and roll a D6. On a 2+, that model is immediately Set Ablaze. This is an Active ability. After the Balrog has used this ability, it no longer benefits from the 'Shadow...' ability provided by this Legendary Legion.
+**"...and Flame"** - Once per game, at the start of any Shoot phase, the Balrog may select a single enemy model within 3" of it and roll a D6. On a 2+, that model is immediately [Set Ablaze]. This is an Active ability. After the Balrog has used this ability, it no longer benefits from the 'Shadow...' ability provided by this Legendary Legion.
 
 **"Dominion of the Balrog"** - Friendly Goblin models within 6" of the Balrog gain a bonus of +1 to their Fight value. Additionally, this army will never be considered Broken so long as the Balrog has 6 or more Wounds remaining. Should the Balrog have 5 or fewer Wounds remaining, then the army will Break as normal. If the Balrog is slain, the army will immediately count as Broken.
 

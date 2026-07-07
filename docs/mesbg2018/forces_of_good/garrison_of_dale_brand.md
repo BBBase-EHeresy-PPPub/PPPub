@@ -19,15 +19,15 @@ This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -54,22 +54,22 @@ At the start of a Fight involving Brand, if he would be Trapped by losing the Du
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- spear
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
 
 </div>
 
@@ -86,18 +86,18 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Esgaroth Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- Esgaroth [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -116,20 +116,20 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- spear
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [Spear]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
 
 </div>
 
@@ -146,23 +146,23 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Esgaroth Bow: 2 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Esgaroth [Bow] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
 
 </div>
 
@@ -181,10 +181,10 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **OPTIONS**
 
-- Dale Engineer Captain: 50 points
-- Additional Crew: 7 points
-- Engineer Captain - Esgaroth Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Dale Engineer Captain - 50 points
+- Additional Crew - 7 points
+- Engineer Captain - Esgaroth [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 

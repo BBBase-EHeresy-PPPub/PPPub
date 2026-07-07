@@ -19,26 +19,26 @@ This army may include: Aragorn, King Elessar; Boromir; Denethor; Earnur; Faramir
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Anduril, Flame of the West
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
+- [Armoured Horse] - 15 points
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Mighty Hero
+- [Horse Lord]
+- [Mighty Hero]
 
 - **Anduril, Flame of the West** `ACTIVE`
 
@@ -46,12 +46,11 @@ Never requires more than a 4 for To Wound rolls.
 
 - **Stand Men of the West!** `PASSIVE`
 
-Friendly models within 6" count as being in range of a banner.
+Friendly models within 6" count as being in range of a [banner][Banner].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOROMIR [160 POINTS]
@@ -63,22 +62,22 @@ Friendly models within 6" count as being in range of a banner.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 - Horn of Gondor
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- The Banner of Minas Tirith: 40 points
-- Horse: 10 points
-- Lance: 5 points
-- Shield: 5 points
+- The [Banner] Of Minas Tirith - 40 points
+- [Horse] - 10 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -88,12 +87,11 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 
 - **The Banner of Minas Tirith** `PASSIVE`
 
-This is a banner with a range of 6". Boromir and all Gondor Warriors within 6" gain +1 Fight value. Boromir does not suffer the -1 penalty for using a banner in the Duel Roll. Additionally, he may not carry this banner if he is also carrying a lance.
+This is a [banner][Banner] with a range of 6". Boromir and all Gondor Warriors within 6" gain +1 Fight value. Boromir does not suffer the -1 penalty for using a [banner][Banner] in the Duel Roll. Additionally, he may not carry this [banner][Banner] if he is also carrying a [lance][Lance].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DENETHOR [35 POINTS]
@@ -105,8 +103,8 @@ This is a banner with a range of 6". Boromir and all Gondor Warriors within 6" g
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **SPECIAL RULES**
 
@@ -121,7 +119,6 @@ At the start of every turn, take a courage test. If failed, Denethor is controll
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EARNUR [100 POINTS]
@@ -133,26 +130,26 @@ At the start of every turn, take a courage test. If failed, Denethor is controll
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Lance: 5 points
+- [Armoured Horse] - 15 points
+- [Lance] - 5 points
 
 **SPECIAL RULES**
 
 - **A Fool's Challenge** `ACTIVE`
 
-Earnur must always charge an enemy hero if he able to do so. Additionally, he may never decline a Heroic Challenge.
+Earnur must always charge an enemy hero if he able to do so. Additionally, he may never decline a [Heroic Challenge].
 
 - **Master Duelist** `ACTIVE`
 
@@ -161,7 +158,6 @@ At the start of a fight involving Earnur, after resolving any special rules that
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FARAMIR [80 POINTS]
@@ -173,28 +169,28 @@ At the start of a fight involving Earnur, after resolving any special rules that
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Bow: 5 points
-- Heavy Armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- [Bow] - 5 points
+- [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Is there a Captain here who still has the courage to do his Lord's will?** `PASSIVE`
 
@@ -203,7 +199,6 @@ If Denethor is alive and in the same army, Faramir passes all courage tests and 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [220 POINTS]
@@ -215,33 +210,33 @@ If Denethor is alive and in the same army, Faramir passes all courage tests and 
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Immobilise | 12" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 3+ |
-| Fortify Spirit | 12" | 3+ |
-| Strengthen Will | 12" | 3+ |
-| Banishment | 12" | 4+ |
-| Sorcerous Blast | 12" | 4+ |
-| Your Staff is Broken | 12" | 4+ |
+| [Blinding Light] | - | 2+ |
+| [Immobilise] | 12" | 2+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 12" | 3+ |
+| [Fortify Spirit] | 12" | 3+ |
+| [Strengthen Will] | 12" | 3+ |
+| [Banishment] | 12" | 4+ |
+| [Sorcerous Blast] | 12" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
 
 **OPTIONS**
 
-- Shadowfax: 20 points
+- Shadowfax - 20 points
 
 **SPECIAL RULES**
 
@@ -256,7 +251,6 @@ Gandalf may re-roll his dice when making fate rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HURIN [80 POINTS]
@@ -268,28 +262,28 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- Heavy armour
-- Warden's Sword
+- [Heavy Armour]
+- Warden's [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
 - **The Warden's Sword** `ACTIVE`
 
-Master Forged hand-and-a-half sword.
+Master Forged [hand-and-a-half][Hand-And-A-Half] [sword][Sword].
 
 - **In Defence of the King** `ACTIVE`
 
-Whilst within 3" of Denethor or Aragorn, King Elessar, Hurin gains Fearless and may re-roll a single D6 in Duel rolls.
+Whilst within 3" of Denethor or Aragorn, King Elessar, Hurin gains [Fearless] and may re-roll a single D6 in Duel rolls.
 
 - **Lines of Command** `PASSIVE`
 
@@ -298,7 +292,6 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING OF MEN [60 POINTS]
@@ -310,22 +303,22 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Heavy Armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -342,24 +335,24 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Bow: 5 points
-- Lance: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- [Bow] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -376,25 +369,24 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 
 **WARGEAR**
 
-- Armour
-- sword
-- shield
+- [Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **Boldest of the Bold** `ACTIVE`
 
-Receives a +2 bonus to his Courage when charging a model with the Terror special rule. Also receives this bonus when a model with the Blades of the Dead special rule makes strikes against him.
+Receives a +2 bonus to his Courage when charging a model with the [Terror] special rule. Also receives this bonus when a model with the [Blades of the Dead] special rule makes strikes against him.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### INGOLD [65 POINTS]
@@ -406,18 +398,18 @@ Receives a +2 bonus to his Courage when charging a model with the Terror special
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 - **Resolute Fighter** `PASSIVE`
 
@@ -426,7 +418,6 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
@@ -438,26 +429,25 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 - **Defend the White City** `ACTIVE`
 
-Irolas may use the Shielding special rule, even without a shield. If he wins a Duel whilst Shielding, he may make a single Strength 4 Strike against one enemy model from the same fight.
+Irolas may use the Shielding special rule, even without a [shield][Shield]. If he wins a Duel whilst Shielding, he may make a single Strength 4 Strike against one enemy model from the same fight.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KNIGHT OF THE WHITE TOWER [60 POINTS]
@@ -469,32 +459,31 @@ Irolas may use the Shielding special rule, even without a shield. If he wins a D
 
 **WARGEAR**
 
-- Heavy armour
-- dagger
+- [Heavy Armour]
+- [Dagger]
 - White Sword of Gondor
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **White Sword of Gondor** `ACTIVE`
 
-This is a two handed sword, and strikes made with this sword also have the Mighty Blow special rule.
+This is a two handed [sword][Sword], and strikes made with this [sword][Sword] also have the [Mighty Blow] special rule.
 
 - **The Bladelord's Skill** `ACTIVE`
 
-If a natural 6 is rolled in a duel, do not apply the penalty for using a two-handed weapon.
+If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MADRIL [55 POINTS]
@@ -506,18 +495,18 @@ If a natural 6 is rolled in a duel, do not apply the penalty for using a two-han
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Accuracy
+- [Heroic March]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Master of Ambush** `PASSIVE`
 
@@ -526,7 +515,6 @@ When rolling for Reinforcements, you may modify the roll for Madril's warband by
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANBORN [35 POINTS]
@@ -538,17 +526,17 @@ When rolling for Reinforcements, you may modify the roll for Madril's warband by
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Lethal Aim** `ACTIVE`
 
@@ -557,7 +545,6 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BEREGOND [30 POINTS]
@@ -569,21 +556,21 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- longbow
+- [Heavy Armour]
+- [Sword]
+- Longbow
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Horse: 5 points
+- [Horse] - 5 points
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -600,17 +587,17 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -627,26 +614,25 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Birdcalls** `ACTIVE`
 
-Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6" gain Stalk Unseen. Additionally, enemy models targeted with a shooting attack by Mablung or any Rangers do not benefit from Stalk Unseen, if they have it.
+Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6" gain [Stalk Unseen]. Additionally, enemy models targeted with a shooting attack by Mablung or any Rangers do not benefit from [Stalk Unseen], if they have it.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [25 POINTS]
@@ -658,21 +644,21 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 **WARGEAR**
 
-- Armour
-- dagger
+- [Armour]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -691,19 +677,19 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- spear
+- [Heavy Armour]
+- [Sword]
+- [Spear]
 
 **OPTIONS**
 
-- Horse: 7 points
-- Swap Spear for Longbow: 1 point
-- Swap Weapon: 1 point
+- [Horse] - 7 points
+- Swap [Spear] for Longbow - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -720,19 +706,19 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 **WARGEAR**
 
-- Heavy armour
-- dagger
-- spear
+- [Heavy Armour]
+- [Dagger]
+- [Spear]
 
 **OPTIONS**
 
-- Swap Spear with Banner: 25 points
-- Shield: 1 point
-- Swap Weapon: 1 point
+- Swap [Spear] with [Banner] - 25 points
+- [Shield] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -749,20 +735,20 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- lance
-- Horse
+- [Heavy Armour]
+- [Sword]
+- [Lance]
+- [Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -779,15 +765,15 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -798,7 +784,6 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RANGER OF GONDOR [8 POINTS]
@@ -810,14 +795,14 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **OPTIONS**
 
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -834,21 +819,21 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -867,11 +852,11 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
 **OPTIONS**
 
-- Minas Tirith Engineer Captain: 50 points
-- Swift Reload: 20 points
-- Additional Crew: 7 points
-- Engineer Captain - Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Minas Tirith Engineer Captain - 50 points
+- Swift Reload - 20 points
+- Additional Crew - 7 points
+- Engineer Captain - [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -898,11 +883,11 @@ Can perform D6 shooting attacks each turn.
 
 **OPTIONS**
 
-- Minas Tirith Engineer Captain: 50 points
-- Flaming Ammunition: 15 points
-- Additional Crew: 7 points
-- Engineer Captain - Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Minas Tirith Engineer Captain - 50 points
+- Flaming Ammunition - 15 points
+- Additional Crew - 7 points
+- Engineer Captain - [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -916,6 +901,6 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
 
 </div>

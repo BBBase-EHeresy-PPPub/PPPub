@@ -15,7 +15,7 @@ This army may include: Thrain the Broken (Evil).
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **SPECIAL RULES**
 

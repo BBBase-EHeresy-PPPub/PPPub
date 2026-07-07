@@ -45,7 +45,7 @@
 
 ## SPECIAL RULES
 
-**"Death to the Forgoil!"** - Friendly Dunlending models gain the Hatred (Rohan) special rule.
+**"Death to the Forgoil!"** - Friendly Dunlending models gain the [Hatred] (Rohan) special rule.
 
 **"Dunlending Pride"** - The range of banners in this army is increased to 6".
 

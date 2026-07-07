@@ -19,21 +19,21 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 **WARGEAR**
 
-- Club or fork (counts as a dagger)
+- [Club] Or Fork (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Campfire: 15 points
+- Campfire - 15 points
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 
@@ -41,7 +41,7 @@ If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Repl
 
 - **Campfire** `PASSIVE`
 
-After forces are deployed, place the Campfire anywhere on the board, outside of your opponents deployment area. Bill, Tom and Bert gain Resistant to Magic and +1 Courage whilst within 6".
+After forces are deployed, place the Campfire anywhere on the board, outside of your opponents deployment area. Bill, Tom and Bert gain [Resistant to Magic] and +1 Courage whilst within 6".
 
 - **Mince 'em Fine** `BRUTAL POWER ATTACK`
 
@@ -62,17 +62,17 @@ If he wins a Fight, choose one enemy model in the Fight. Both they and Bill roll
 
 **WARGEAR**
 
-- Club or knife (counts as a dagger)
+- [Club] Or Knife (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 
@@ -80,7 +80,7 @@ If he wins a Fight, choose one man-sized (or smaller) model from the Fight. Repl
 
 - **Roast 'em Slowly** `BRUTAL POWER ATTACK`
 
-If he wins a Fight, he may perform this attack as long as he is within 6" of a fire. Choose an enemy model involved in the Fight and place it is base contact with the fire. The model is immediately Set Ablaze.
+If he wins a Fight, he may perform this attack as long as he is within 6" of a fire. Choose an enemy model involved in the Fight and place it is base contact with the fire. The model is immediately [Set Ablaze].
 
 </div>
 
@@ -97,16 +97,16 @@ If he wins a Fight, he may perform this attack as long as he is within 6" of a f
 
 **WARGEAR**
 
-- Club or spoon (counts as a dagger)
+- [Club] Or Spoon (counts As A [Dagger])
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 

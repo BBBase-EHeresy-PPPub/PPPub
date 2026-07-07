@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebor; Grim Hammer Captain; Young Balin the Dwarf; Young Dwalin the Dwarf; Grim Hammer; Warrior of Erebor.
+This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebor; Grim [Hammer] Captain; Young Balin the Dwarf; Young Dwalin the Dwarf; Grim [Hammer]; Warrior of Erebor.
 
 ## ARMY BONUS
 
@@ -19,16 +19,16 @@ This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebo
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- sword
-- shield
+- [Heavy Dwarf Armour]
+- [Sword]
+- [Shield]
 - Arkenstone
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
@@ -43,7 +43,6 @@ Once per game, you may re-roll a single Priority roll.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRAIN [120 POINTS]
@@ -55,13 +54,13 @@ Once per game, you may re-roll a single Priority roll.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- Master Forged two-handed hammer
+- [Heavy Dwarf Armour]
+- Master Forged Two-handed [Hammer]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -80,7 +79,6 @@ Thrain re-rolls all failed To Wound rolls against Azog, and any model in the sam
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [100 POINTS]
@@ -92,19 +90,19 @@ Thrain re-rolls all failed To Wound rolls against Azog, and any model in the sam
 
 **WARGEAR**
 
-- Dwarf armour
-- sword
+- [Dwarf Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- The Oakenshield: 5 points
+- The Oakenshield - 5 points
 
 **SPECIAL RULES**
 
@@ -119,7 +117,6 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF EREBOR [60 POINTS]
@@ -131,17 +128,17 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -158,28 +155,27 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- pick-hammer
-- throwing axes
+- [Heavy Dwarf Armour]
+- Pick-hammer
+- Throwing Axes
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Pick-hammer** `ACTIVE`
 
-Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [55 POINTS]
@@ -191,12 +187,12 @@ Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special
 
 **WARGEAR**
 
-- Dwarf armour
-- sword-mace
+- [Dwarf Armour]
+- Sword-mace
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -211,7 +207,6 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [85 POINTS]
@@ -223,21 +218,21 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 **WARGEAR**
 
-- Dwarf armour
-- two axes
+- [Dwarf Armour]
+- Two Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered unarmed, and never suffers the -1 penalty in Duel rolls for using a two-handed weapon.
+Dwalin is never considered [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for using a [two-handed weapon][Two-handed Weapon].
 
 - **Dwarven Fury** `ACTIVE`
 
@@ -248,7 +243,6 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 ---
 
 ## WARRIORS OF ARMY OF THROR
-
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER [11 POINTS]
@@ -260,27 +254,26 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- pick-hammer
-- throwing axes
+- [Heavy Dwarf Armour]
+- Pick-hammer
+- Throwing Axes
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Swap Weapon: 1 point
-- Guardians of the King Upgrade: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
+- Guardians of the King Upgrade - 1 point
 
 **SPECIAL RULES**
 
 - **Pick-hammer** `ACTIVE`
 
-Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WARRIOR OF EREBOR [8 POINTS]
@@ -292,15 +285,15 @@ Hand-and-a-half weapon, which may use either the Bash or Piercing Strike Special
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>

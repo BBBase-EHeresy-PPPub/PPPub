@@ -2,6 +2,8 @@
 [Ancient Evil]: ../rules_manual/special_rules.md#ancient-evil
 [Backstabbers]: ../rules_manual/special_rules.md#backstabbers
 [Bane of Kings/Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
+[Bane of Kings]: ../rules_manual/special_rules.md#bane-of-kingsvenom
+[Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Bane Weapons]: ../rules_manual/special_rules.md#bane-weapons
 [Blades of the Dead]: ../rules_manual/special_rules.md#blades-of-the-dead
 [Blood and Glory]: ../rules_manual/special_rules.md#blood-and-glory

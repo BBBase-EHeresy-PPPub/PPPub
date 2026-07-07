@@ -50,6 +50,6 @@
 
 ## SPECIAL RULES
 
-**"Greatest of the Trolls"** - The Mordor Troll Chieftain that is your leader gains the Fearless special rule and an additional point of Might, Will and Fate.
+**"Greatest of the Trolls"** - The Mordor Troll Chieftain that is your leader gains the [Fearless] special rule and an additional point of Might, Will and Fate.
 
 **"The Hordes of Mordor"** - Mordor Orc models gain a bonus of +1 To Wound in a Duel in which they outnumber their opponent in the Fight. Note that supporting models do not count for either side for the purpose of this rule.

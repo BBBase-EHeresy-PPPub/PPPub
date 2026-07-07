@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; The Betrayer; The Dark Marshall; The Dwimmerlaik; The Knight of Umbar; The Shadow Lord; The Tainted; The Undying; Black Numenorean Marshall; Captain of the Black Guard; Gorbag; Goroth; Gothmog's Enforcer; Great Beast of Gorgoroth; Grishnak; Guritz; Kardush; Morannon Orc Captain; Mordor Troll Chieftain; Mordor Uruk-Hai Captain; Muzgur; Orc Captain; Orc Taskmaster; Ringwraith; Shagrat; Zagdush; Orc Shaman; Black Guard Drummer; Orc Drummer; Shelob; Bat Swarm; Black Guard of Barad-Dur; Black Numenorean; Fell Warg; Giant Spider; Mirkwood Spider; Morannon Orc; Mordor Troll; Mordor Uruk-Hai; Morgul Knight; Morgul Stalker; Orc Tracker; Orc Warrior; Warg Rider; Mordor Siege Bow; Mordor War Catapult.
+This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; The Betrayer; The Dark Marshall; The Dwimmerlaik; The Knight of Umbar; The Shadow Lord; The Tainted; The Undying; Black Numenorean Marshall; Captain of the Black Guard; Gorbag; Goroth; Gothmog's Enforcer; Great Beast of Gorgoroth; Grishnak; Guritz; Kardush; Morannon Orc Captain; Mordor Troll Chieftain; Mordor Uruk-Hai Captain; Muzgur; Orc Captain; Orc Taskmaster; Ringwraith; Shagrat; Zagdush; Orc Shaman; Black Guard Drummer; Orc Drummer; Shelob; Bat Swarm; Black Guard of Barad-Dur; Black Numenorean; [Fell Warg]; Giant Spider; Mirkwood Spider; Morannon Orc; Mordor Troll; Mordor Uruk-Hai; Morgul Knight; Morgul Stalker; Orc Tracker; Orc Warrior; [Warg] Rider; Mordor Siege [Bow]; Mordor War Catapult.
 
 ## ARMY BONUS
 
@@ -19,46 +19,46 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 4+ |
-| Your Staff is Broken | 12" | 4+ |
-| Black Dart | 12" | 5+ |
-| Sap Will | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
+| [Black Dart] | 12" | 5+ |
+| [Sap Will] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 75 points
-- Fell Beast: 50 points
-- Crown of Morgul: 25 points
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Morgul Blade: 10 points
-- Two-Handed Flail: 5 points
-- Might: 5 points
-- Will: 5 points
-- Fate: 5 points
+- Armoured Fell Beast - 75 points
+- Fell Beast - 50 points
+- Crown of Morgul - 25 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- Morgul Blade - 10 points
+- Two-Handed [Flail] - 5 points
+- Might - 5 points
+- Will - 5 points
+- Fate - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -71,7 +71,6 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOTHMOG [130 POINTS]
@@ -83,23 +82,23 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Defence
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Shield: 5 points
+- [Warg] - 10 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Master of Battle
+- [Master of Battle]
 
 - **The Time of the Orc has Come** `ACTIVE`
 
@@ -107,12 +106,11 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 - **The Age of Men is Over** `PASSIVE`
 
-Gothmog and all friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
+Gothmog and all friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHAMUL [120 POINTS]
@@ -124,38 +122,38 @@ Gothmog and all friendly Mordor Orc models within 3" gain the Hatred (Man) speci
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Compel | 12" | 5+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 6+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Compel] | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 6+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Essence Leech** `ACTIVE`
 
@@ -164,7 +162,6 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MOUTH OF SAURON [70 POINTS]
@@ -176,29 +173,29 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half sword.
+- [Heavy Armour]
+- Hand-and-a-half [Sword].
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Channelling
+- [Heroic March]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Instill Fear | 3" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Instill Fear] | 3" | 5+ |
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
+- [Armoured Horse] - 15 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -215,23 +212,23 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Bone-breaker
-- shield
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
 - Elfbane
-- Hatred (Elf)
+- [Hatred] (Elf)
 
 - **Bone-breaker** `ACTIVE`
 
-This is a mace, and enemy models do not receive any bonus from Elven-made weapons when fighting against Razgush.
+This is a [mace][Mace], and enemy models do not receive any bonus from [Elven-made] weapons when fighting against Razgush.
 
 - **The Beasts of Mirkwood** `PASSIVE`
 
@@ -239,12 +236,11 @@ Orc Captains in the same army may lead Bat Swarms, Mirkwood Spiders, Giant Spide
 
 - **War Leader of the North** `PASSIVE`
 
-Razgush's warband may only include Orc Warriors, Warg Riders, Bat Swarms, Mirkwood Spiders, Giant Spiders and Fell Wargs. Orc Captains, Orc Warriors and Warg Riders also gain Hatred (Elf).
+Razgush's warband may only include Orc Warriors, [Warg] Riders, Bat Swarms, Mirkwood Spiders, Giant Spiders and Fell Wargs. Orc Captains, Orc Warriors and [Warg] Riders also gain [Hatred] (Elf).
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [120 POINTS]
@@ -256,45 +252,44 @@ Razgush's warband may only include Orc Warriors, Warg Riders, Bat Swarms, Mirkwo
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Compel | 12" | 5+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 6+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Compel] | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 6+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
-- Bane of Kings
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
+- [Bane of Kings]
 
 - **Master of Poisons** `PASSIVE`
 
-At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with Poisoned Weapons rule may re-roll failed To Wound rolls made with those weapons.
+At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with [Poisoned Weapons] rule may re-roll failed To Wound rolls made with those weapons.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DARK MARSHALL [120 POINTS]
@@ -306,45 +301,44 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 4+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 4+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of a fight phase, he may choose to spend one point of Will to turn himself into a banner for all friendly Warrior models within 6", for the rest of that turn.
+At the start of a fight phase, he may choose to spend one point of Will to turn himself into a [banner][Banner] for all friendly Warrior models within 6", for the rest of that turn.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [120 POINTS]
@@ -356,36 +350,36 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 
 **WARGEAR**
 
-- Armour
-- two-handed sword
+- [Armour]
+- Two-handed [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Sap Fortitude** `PASSIVE`
 
@@ -394,7 +388,6 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE KNIGHT OF UMBAR [120 POINTS]
@@ -407,34 +400,34 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 **WARGEAR**
 
 - Armour of the Sundered Land
-- sword
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Compel | 12" | 5+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 6+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Compel] | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 6+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Armour of the Sundered Land** `PASSIVE`
 
@@ -447,7 +440,6 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SHADOW LORD [120 POINTS]
@@ -459,35 +451,35 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 6" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 6" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Pall of Darkness** `PASSIVE`
 
@@ -496,7 +488,6 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE TAINTED [120 POINTS]
@@ -508,36 +499,36 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Miasmatic Presence** `PASSIVE`
 
@@ -550,7 +541,6 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE UNDYING [120 POINTS]
@@ -562,35 +552,35 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **WARGEAR**
 
-- Heavy armour
-- staff
+- [Heavy Armour]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 6" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 6" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Arcana Leech** `PASSIVE`
 
@@ -603,7 +593,6 @@ The Undying may spend Will points for Fate rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
@@ -615,24 +604,24 @@ The Undying may spend Will points for Fate rolls.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Lance: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- [Lance] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -649,17 +638,17 @@ The Undying may spend Will points for Fate rolls.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -670,7 +659,6 @@ While at least one friendly Ringwraith model is on the battlefield, the Black Gu
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GORBAG [55 POINTS]
@@ -682,17 +670,17 @@ While at least one friendly Ringwraith model is on the battlefield, the Black Gu
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Shield: 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -703,7 +691,6 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOROTH [80 POINTS]
@@ -715,16 +702,16 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 
 **WARGEAR**
 
-- Armour
-- two-handed mace
+- [Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 - **Come here Maggot!** `ACTIVE`
 
@@ -733,7 +720,6 @@ If Goroth suffers a Wound that would slay him (after all Fate points are spent),
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOTHMOG'S ENFORCER [60 POINTS]
@@ -745,23 +731,22 @@ If Goroth suffers a Wound that would slay him (after all Fate points are spent),
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Gothmog's Right Hand** `PASSIVE`
 
-If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move, instead of spending his own Might points.
+If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog may spend one of Gothmog's Enforcer's Will points to declare a [Heroic Move], instead of spending his own Might points.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GREAT BEAST OF GORGOROTH [150 POINTS]
@@ -773,7 +758,7 @@ If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog ma
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Trample**
 
@@ -781,12 +766,11 @@ When the Great Beast Tramples, it will inflict two S6 hits.
 
 - **Battle Platform** `PASSIVE`
 
-Models within the Howdah do not count towards your Bow Limit.
+Models within the Howdah do not count towards your [Bow] Limit.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GRISHNAK [50 POINTS]
@@ -798,20 +782,20 @@ Models within the Howdah do not count towards your Bow Limit.
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Shield: 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Backstabbers
+- [Backstabbers]
 
 </div>
 
@@ -828,13 +812,13 @@ Models within the Howdah do not count towards your Bow Limit.
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed pick
-- sword
+- [Heavy Armour]
+- Two-handed [Pick]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -845,7 +829,6 @@ When rolling for Reinforcements, you may modify the roll for Guritz' warband by 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KARDUSH [60 POINTS]
@@ -857,19 +840,19 @@ When rolling for Reinforcements, you may modify the roll for Guritz' warband by 
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Flameburst | 6" | 3+ |
-| Fury (Mordor Orc) | 6" | 3+ |
+| [Flameburst] | 6" | 3+ |
+| [Fury] (Mordor Orc) | 6" | 3+ |
 
 **SPECIAL RULES**
 
@@ -884,7 +867,6 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORANNON ORC CAPTAIN [50 POINTS]
@@ -896,18 +878,18 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- [Shield] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -924,22 +906,22 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Throw Stones (range 12", Strength 8)
-- Terror
+- [Throw Stones] (range 12", Strength 8)
+- [Terror]
 
 </div>
 
@@ -956,19 +938,19 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Orc Bow: 5 points
-- Shield: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -985,22 +967,22 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 **WARGEAR**
 
-- Armour
-- dagger
-- spear
+- [Armour]
+- [Dagger]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Wither | 12" | 3+ |
-| Transfix | 12" | 4+ |
+| [Drain Courage] | 12" | 2+ |
+| [Wither] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
 
 **SPECIAL RULES**
 
@@ -1011,7 +993,6 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORC CAPTAIN [40 POINTS]
@@ -1023,19 +1004,19 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Orc Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -1052,28 +1033,27 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 
 **WARGEAR**
 
-- Armour
-- mace
-- whip
+- [Armour]
+- [Mace]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, that action is free.
+Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a [Heroic Move], March or Shoot, roll a D6. On a 4+, that action is free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [55 POINTS]
@@ -1085,40 +1065,40 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Channelling
+- [Heroic March]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 75 points
-- Fell Beast: 50 points
-- Horse: 10 points
-- Might: 5 points
-- Will: 5 points
-- Fate: 5 points
-- Swap Weapon: 5 points
+- Armoured Fell Beast - 75 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
+- Might - 5 points
+- Will - 5 points
+- Fate - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **One of Nine** `PASSIVE`
 
@@ -1127,7 +1107,6 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHAGRAT [100 POINTS]
@@ -1139,23 +1118,23 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Shield of Cirith Ungol: 10 points
-- Heavy Armour: 5 points
+- [Shield] Of Cirith Ungol - 10 points
+- [Heavy Armour] - 5 points
 
 **SPECIAL RULES**
 
-- Blood and Glory
+- [Blood and Glory]
 
 - **Shield of Cirith Ungol** `ACTIVE`
 
@@ -1164,7 +1143,6 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ZAGDUSH [60 POINTS]
@@ -1176,13 +1154,13 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -1193,7 +1171,6 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORC SHAMAN [50 POINTS]
@@ -1205,25 +1182,25 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **WARGEAR**
 
-- Armour
-- dagger
-- spear
+- [Armour]
+- [Dagger]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Mordor Orc) | 6" | 3+ |
-| Transfix | 12" | 5+ |
+| [Fury] (Mordor Orc) | 6" | 3+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Warg: 10 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -1240,13 +1217,13 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- War Drum (Mordor Uruk-Hai)
+- [Heavy Armour]
+- [Sword]
+- [War Drum] (Mordor Uruk-Hai)
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -1263,13 +1240,13 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **WARGEAR**
 
-- Armour
-- dagger
-- war drum (Mordor Orc)
+- [Armour]
+- [Dagger]
+- [War Drum] (Mordor Orc)
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -1286,15 +1263,15 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **WARGEAR**
 
-- Large venomous fangs
+- Large Venomous Fangs
 
 **SPECIAL RULES**
 
-- Monstrous Charge
-- Survival Instinct
-- Swift Movement
-- Terror
-- Venom
+- [Monstrous Charge]
+- [Survival Instinct]
+- [Swift Movement]
+- [Terror]
+- [Venom]
 
 - **Lone Hunter** `PASSIVE`
 
@@ -1309,7 +1286,6 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 ---
 
 ## WARRIORS OF MORDOR
-
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
@@ -1321,11 +1297,11 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Blinding Swarm** `PASSIVE`
 
@@ -1334,7 +1310,6 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK GUARD OF BARAD-DUR [12 POINTS]
@@ -1346,14 +1321,14 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Swap Shield for Banner: 25 points
-- Swap Weapon: 1 point
+- Swap [Shield] for [Banner] - 25 points
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1370,19 +1345,19 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -1399,11 +1374,11 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 
@@ -1420,13 +1395,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 </div>
 
@@ -1443,13 +1418,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 - **Spider Webs** `ACTIVE`
 
@@ -1458,7 +1433,6 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORANNON ORC [7 POINTS]
@@ -1470,15 +1444,15 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Heavy armour
-- sword, axe or mace
+- [Heavy Armour]
+- [Sword], [Axe] or [Mace]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1495,18 +1469,18 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half hammer
+- [Armour]
+- Hand-and-a-half [Hammer]
 
 **OPTIONS**
 
-- War Drum (Mordor): 30 points
-- Swap Weapon: 1 point
+- [War Drum] (Mordor) - 30 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -1523,16 +1497,16 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Two-Handed Mace: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Two-Handed [Mace] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1549,21 +1523,21 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- lance
-- armoured horse
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [Lance]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -1580,16 +1554,16 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Stalk Unseen
+- [Stalk Unseen]
 
 </div>
 
@@ -1606,13 +1580,13 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Dagger
-- Orc bow
+- [Dagger]
+- Orc [Bow]
 
 **OPTIONS**
 
-- Warg: 7 points
-- Swap Weapon: 1 point
+- [Warg] - 7 points
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1629,17 +1603,17 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-Handed Weapon: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1656,17 +1630,17 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Armour
-- sword
-- Warg
+- [Armour]
+- [Sword]
+- [Warg]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Throwing Spears: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -1685,21 +1659,21 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **OPTIONS**
 
-- Orc Engineer Captain: 40 points
-- Flaming Ammunition: 15 points
-- Additional Crew: 5 points
-- Engineer Captain - Orc Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Orc Engineer Captain - 40 points
+- Flaming Ammunition - 15 points
+- Additional Crew - 5 points
+- Engineer Captain - Orc [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
 - **Accurate**
 
-A Mordor Siege Bow will only scatter 3" rather than 6".
+A Mordor Siege [Bow] will only scatter 3" rather than 6".
 
 - **Piercing Shot**
 
-If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege Bow. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
+If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege [Bow]. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
 
 </div>
 
@@ -1716,12 +1690,12 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 
 **OPTIONS**
 
-- Orc Engineer Captain: 40 points
-- Flaming Ammunition: 15 points
-- Severed Heads: 5 points
-- Additional Crew: 5 points
-- Engineer Captain - Orc Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Orc Engineer Captain - 40 points
+- Flaming Ammunition - 15 points
+- Severed Heads - 5 points
+- Additional Crew - 5 points
+- Engineer Captain - Orc [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -1737,6 +1711,6 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
 
 </div>

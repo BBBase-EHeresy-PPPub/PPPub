@@ -58,6 +58,6 @@
 
 **"Their Pace has Quickened"** - If your army includes Mauhúr then any Uruk-hai Scouts in your force may be upgraded to Mauhúr's Marauders rather than just the ones in Mauhúr's warband - this upgrade is free rather than costing 1 point per model. Additionally, Uglúk, Uruk-hai Scout Captains and Uruk-hai Drummers increase their Move value to 8".
 
-**"Make Haste to Isengard"** - Friendly models gain the Woodland Creature special rule.
+**"Make Haste to Isengard"** - Friendly models gain the [Woodland Creature] special rule.
 
 **"Animosity"** - Friendly Orc models gain a bonus of+1 To Wound in the Fight phase if they are involved in the same fight as a friendly Uruk-hai model. Friendly Uruk-hai models gain a bonus of +1 To Wound in the Fight phase if they are involved in the same fight as a friendly Orc model.

@@ -19,36 +19,36 @@ The Desolator of the North army list does not get a special rule - having a mass
 
 **WARGEAR**
 
-- Razor-sharp teeth
-- massive talons
+- Razor-sharp Teeth
+- Massive Talons
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
 
 **SPECIAL RULES**
 
-- Ancient Evil
-- Fearless
-- Fly
-- Resistant to Magic
-- Terror
+- [Ancient Evil]
+- [Fearless]
+- [Fly]
+- [Resistant to Magic]
+- [Terror]
 
 - **Breathe Fire** `ACTIVE`
 
-Spend a Will point to Breath Fire, which is like a bow with range 18". If the shot hits, the target and all models within 2" are Set Ablaze, and suffer a Strength 10 hit. Cavalry models suffer this on both the rider and mount. Fate may prevent these wounds, but any model that suffers just a single wound is slain.
+Spend a Will point to Breath Fire, which is like a [bow][Bow] with range 18". If the shot hits, the target and all models within 2" are [Set Ablaze], and suffer a Strength 10 hit. Cavalry models suffer this on both the rider and mount. Fate may prevent these wounds, but any model that suffers just a single wound is slain.
 
 - ***Desolator of the North** `PASSIVE`
 

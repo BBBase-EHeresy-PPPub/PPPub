@@ -4,7 +4,7 @@ This army may include: Gandalf the Grey; Thorin Oakenshield; Balin the Dwarf; Dw
 
 ## ADDITIONAL RULES
 
-A Thorin's Company warband is always a single warband made up entirely of Heroes, and can even extend beyond the normal model limits for a warband. The Hero with the highest Heroic Tier is treated as being the warband's captain. Additionally, all models from this army list gain Heroic March.
+A Thorin's Company warband is always a single warband made up entirely of Heroes, and can even extend beyond the normal model limits for a warband. The Hero with the highest Heroic Tier is treated as being the warband's captain. Additionally, all models from this army list gain [Heroic March].
 
 ## ARMY BONUS
 
@@ -23,32 +23,32 @@ A Thorin's Company warband is always a single warband made up entirely of Heroes
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 4+ |
-| Protection of the Valar | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Collapse Rocks | 6" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Blinding Light] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 12" | 4+ |
+| [Protection of the Valar] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Collapse Rocks] | 6" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -63,7 +63,6 @@ Gandalf may re-roll his dice when making fate rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD [100 POINTS]
@@ -75,25 +74,25 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- Dwarf armour, sword
+- [Dwarf Armour], [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Orcrist: 10 points
-- Pony: 5 points
-- The Oakenshield: 5 points
+- Orcrist - 10 points
+- [Pony] - 5 points
+- The Oakenshield - 5 points
 
 **SPECIAL RULES**
 
 - **Orcrist** `ACTIVE`
 
-Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **The Oakenshield** `ACTIVE`
 
@@ -102,7 +101,6 @@ If Thorin uses Shielding in a Fight and wins, he may make a single Strike at his
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF [40 POINTS]
@@ -114,17 +112,17 @@ If Thorin uses Shielding in a Fight and wins, he may make a single Strike at his
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Sword-mace
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -139,7 +137,6 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF [95 POINTS]
@@ -151,33 +148,32 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 **WARGEAR**
 
-- Dwarf armour
-- dagger
-- two axes
-- two-handed hammer
+- [Dwarf Armour]
+- [Dagger]
+- Two Axes
+- Two-handed [Hammer]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
+- [Burly]
+- [Fearless]
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Duel rolls for fighting with a two-handed weapon.
+Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF [45 POINTS]
@@ -189,34 +185,33 @@ Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Du
 
 **WARGEAR**
 
-- Armour
-- dagger
+- [Armour]
+- [Dagger]
 - Boar spear
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 - **Boar spear** `ACTIVE`
 
-This weapon can be used as either a spear or two-handed weapon.
+This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon].
 
 - **Embedded Axe-blade** `ACTIVE`
 
-If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
+If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free [Heroic Move] each turn.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [60 POINTS]
@@ -228,37 +223,36 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Pony: 5 points
-- Sting: 5 points
-- The One Ring: 0 points
+- [Pony] - 5 points
+- Sting - 5 points
+- The One Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Sting** `ACTIVE`
 
-Elven-made dagger, gain +1 Strength when making strikes.
+[Elven-made] [dagger][Dagger], gain +1 Strength when making strikes.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
+Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF [45 POINTS]
@@ -270,22 +264,22 @@ Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only 
 
 **WARGEAR**
 
-- Armour
-- mattock
+- [Armour]
+- Mattock
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, which can use either Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon], which can use either Bash or Piercing Strike Special Strikes.
 
 - **Steadfast** `PASSIVE`
 
@@ -294,7 +288,6 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF [45 POINTS]
@@ -306,21 +299,21 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 **WARGEAR**
 
-- Cleaver (sword)
+- Cleaver ([Sword])
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
 - **Beefy** `ACTIVE`
 
-May use the Bash Special Strike, as if he were using a mace.
+May use the Bash Special Strike, as if he were using a [mace][Mace].
 
 - **Lumbering** `PASSIVE`
 
@@ -333,7 +326,6 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF [55 POINTS]
@@ -345,17 +337,17 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 
 **WARGEAR**
 
-- Armour
-- sword
-- flail
+- [Armour]
+- [Sword]
+- [Flail]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -366,7 +358,6 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FILI THE DWARF [50 POINTS]
@@ -378,18 +369,18 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 **WARGEAR**
 
-- Armour
-- sword
-- throwing axes
+- [Armour]
+- [Sword]
+- Throwing Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -400,7 +391,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF [85 POINTS]
@@ -412,18 +402,18 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 **WARGEAR**
 
-- Dwarf armour
-- two axes
-- throwing axes
+- [Dwarf Armour]
+- Two Axes
+- Throwing Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -434,7 +424,6 @@ Gloin must re-roll scores of 1 To Wound in combat.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF [50 POINTS]
@@ -446,18 +435,18 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 **WARGEAR**
 
-- Armour
-- sword
-- Dwarf bow
+- [Armour]
+- [Sword]
+- Dwarf [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -468,7 +457,6 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF [55 POINTS]
@@ -480,28 +468,27 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 **WARGEAR**
 
-- Armour
-- dagger
-- two-handed mace
+- [Armour]
+- [Dagger]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF [45 POINTS]
@@ -513,15 +500,15 @@ Nori is never considered unarmed, and does not suffer the -1 penalty during Duel
 
 **WARGEAR**
 
-- Hand-and-a-half staff
+- Hand-and-a-half [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 
@@ -536,7 +523,6 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF [40 POINTS]
@@ -548,16 +534,16 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 
 **WARGEAR**
 
-- Dagger
-- slingshot
+- [Dagger]
+- [Slingshot]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Pony: 5 points
+- [Pony] - 5 points
 
 **SPECIAL RULES**
 

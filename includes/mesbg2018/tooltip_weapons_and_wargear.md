@@ -1,4 +1,9 @@
 [Dagger]: ../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords
+[Hand Weapon]: ../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords
+[Two-handed Weapon]: ../rules_manual/weapons_and_wargear.md#two-handed-weapons
+[Hand-and-a-half Weapon]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons
+[Throwing Weapons]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Master-Forged]: ../rules_manual/weapons_and_wargear.md#master-forged-weapons
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloaks
 [Staff of Power]: ../rules_manual/weapons_and_wargear.md#staff-of-power
@@ -27,7 +32,7 @@
 [Pike]: ../rules_manual/weapons_and_wargear.md#pikes
 [Staff]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
 [Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe
-[Heavy Object]: ../rules_manual/advanced_rules/#heavy-objects
+[Heavy Object]: ../rules_manual/advanced_rules.md#heavy-objects
 [Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
 [Mace]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls

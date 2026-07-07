@@ -64,4 +64,4 @@
 
 **"Ride for Ruin and the World's Ending!"** - Friendly Rohan Cavalry models gain +1 Strength on a turn in which they Charge.
 
-**"Death!"** - Once per game, at the start of any Fight phase, so long as he is alive and on the battlefield, Théoden can declare that he is using this ability. Every friendly Rohan Hero within 12" may declare either a Heroic Combat or Heroic Strike (if able) without expending Might points to do so.
+**"Death!"** - Once per game, at the start of any Fight phase, so long as he is alive and on the battlefield, Théoden can declare that he is using this ability. Every friendly Rohan Hero within 12" may declare either a [Heroic Combat] or [Heroic Strike] (if able) without expending Might points to do so.

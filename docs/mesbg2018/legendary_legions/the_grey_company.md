@@ -37,7 +37,7 @@
 
 ## SPECIAL RULES
 
-**"Passing of the Grey Company"** - All models from this army list gain the Woodland Creature special rule, and Rangers of the North may benefit from the Stand Fast! of Aragorn, Legolas, Gimli, Halbarad, and Elladan & Elrohir. Additionally, Rangers of the North increase their Attacks value to 2 whilst they have the Infantry keyword.
+**"Passing of the Grey Company"** - All models from this army list gain the [Woodland Creature] special rule, and Rangers of the North may benefit from the Stand Fast! of Aragorn, Legolas, Gimli, Halbarad, and Elladan & Elrohir. Additionally, Rangers of the North increase their Attacks value to 2 whilst they have the Infantry keyword.
 
 **"The Grey Company"** - A Grey Company army is always deployed as a single warband, regardless of the number of models, with Aragorn as the warband's captain.
 

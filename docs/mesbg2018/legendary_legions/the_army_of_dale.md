@@ -37,4 +37,4 @@
 
 **"Skilled Bowmen"** - Captains of Dale and Warriors of Dale have their Shoot value improved to 3+.
 
-**"Protect the King!"** - Friendly Dale models gain the Sworn Protector (Brand) special rule.
+**"Protect the King!"** - Friendly Dale models gain the [Sworn Protector] (Brand) special rule.

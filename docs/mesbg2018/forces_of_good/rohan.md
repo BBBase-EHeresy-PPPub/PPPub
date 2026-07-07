@@ -19,31 +19,31 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed sword
+- [Heavy Armour]
+- Two-handed [Sword]
 - The Horn of the Hammerhand
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Burly
-- Expert Rider
-- Horse Lord
+- [Burly]
+- [Expert Rider]
+- [Horse Lord]
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
-A War Horn, which causes Terror when he charges into combat.
+A [War Horn], which causes [Terror] when he charges into combat.
 
 - **Inspiring Presence** `PASSIVE`
 
@@ -51,7 +51,7 @@ Rohan Warrior models within 6" gain +1 Fight value.
 
 - **The Hammerhand** `PASSIVE`
 
-May choose to use his fists instead of his sword, in which case he may use Bash special strike, and never counts as unarmed.
+May choose to use his fists instead of his [sword][Sword], in which case he may use Bash special strike, and never counts as [unarmed][Unarmed].
 
 </div>
 
@@ -68,25 +68,25 @@ May choose to use his fists instead of his sword, in which case he may use Bash 
 
 **WARGEAR**
 
-- Armour, Herugrim
+- [Armour], Herugrim
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Heavy Armour: 5 points
-- Shield: 5 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- [Heavy Armour] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Herugrim** `ACTIVE`
 
@@ -115,25 +115,25 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Shield: 5 points
-- Throwing Spears: 5 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **The Price of Grief** `ACTIVE`
 
@@ -154,23 +154,23 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- throwing spears
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- Throwing Spears
 - Felarof
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Legendary Hero** `PASSIVE`
 
@@ -191,24 +191,24 @@ The first time each turn that Eorl the Young spends a Might point, roll a D6. On
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Shield: 5 points
-- Throwing Spears: 5 points
+- [Horse] - 10 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Reckless Charge** `ACTIVE`
 
@@ -229,30 +229,30 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 **WARGEAR**
 
-- Armour
-- sword or axe
+- [Armour]
+- [Sword] or [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Bow: 5 points
-- Heavy Armour: 5 points
-- Shield: 5 points
-- Throwing Spears: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- [Bow] - 5 points
+- [Heavy Armour] - 5 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Arise Riders of Theoden!** `ACTIVE`
 
-If within 12" of Theoden, and riding a horse, this model receives +1 bonus to their Fight value on a turn in which they Charge.
+If within 12" of Theoden, and riding a [horse][Horse], this model receives +1 bonus to their Fight value on a turn in which they Charge.
 
 </div>
 
@@ -269,28 +269,28 @@ If within 12" of Theoden, and riding a horse, this model receives +1 bonus to th
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Bodyguard
-- Horse Lord
+- [Expert Rider]
+- [Bodyguard]
+- [Horse Lord]
 
 - **For Theoden** `ACTIVE`
 
-If Theoden is Engaged in a Fight within 12", Deorwine may call a Heroic Combat for free. If the action is successful, you must use the following move to join Theoden's combat, or get as close as possible to him.
+If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat] for free. If the action is successful, you must use the following move to join Theoden's combat, or get as close as possible to him.
 
 </div>
 
@@ -307,28 +307,28 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a Heroic Combat f
 
 **WARGEAR**
 
-- Armour
-- sword
-- shield
-- throwing spears
+- [Armour]
+- [Sword]
+- [Shield]
+- Throwing Spears
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Defence
+- [Heroic Accuracy]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing spear, and never suffers the -1 penalty when moving and shooting with a throwing spear.
+Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [spear][Spear], and never suffers the -1 penalty when moving and shooting with a throwing [spear][Spear].
 
 </div>
 
@@ -345,28 +345,28 @@ Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing s
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 - The Horn of the Hammerhand
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
-This is a war horn that adds +2 Courage rather than +1, but only affects friendly Rohan models.
+This is a [war horn][War Horn] that adds +2 Courage rather than +1, but only affects friendly Rohan models.
 
 </div>
 
@@ -383,28 +383,28 @@ This is a war horn that adds +2 Courage rather than +1, but only affects friendl
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Royal Standard of Rohan: 50 points
-- Horse: 10 points
+- Royal Standard of Rohan - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Sworn Protector (Theoden)
+- [Expert Rider]
+- [Horse Lord]
+- [Sworn Protector] (Theoden)
 
 - **Royal Standard of Rohan** `PASSIVE`
 
-As well as being a banner, a single Rohan Hero model with no Might left and within 3" may regain 1 Might point. Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this banner.
+As well as being a [banner][Banner], a single Rohan Hero model with no Might left and within 3" may regain 1 Might point. Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this [banner][Banner].
 
 </div>
 
@@ -421,16 +421,16 @@ As well as being a banner, a single Rohan Hero model with no Might left and with
 
 **WARGEAR**
 
-- Armour
-- two-handed axe
+- [Armour]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Mighty Blow
+- [Mighty Blow]
 
 </div>
 
@@ -447,23 +447,23 @@ As well as being a banner, a single Rohan Hero model with no Might left and with
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Shield: 5 points
+- [Horse] - 10 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Sworn Protector (Theoden)
+- [Expert Rider]
+- [Horse Lord]
+- [Sworn Protector] (Theoden)
 
 </div>
 
@@ -480,25 +480,25 @@ As well as being a banner, a single Rohan Hero model with no Might left and with
 
 **WARGEAR**
 
-- Armour
-- shield
-- sword
-- Horse
+- [Armour]
+- [Shield]
+- [Sword]
+- [Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Throwing Spears: 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Expert Rider
+- [Horse Lord]
+- [Expert Rider]
 
 </div>
 
@@ -515,29 +515,29 @@ As well as being a banner, a single Rohan Hero model with no Might left and with
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Armour: 5 points
-- Shield: 5 points
-- Throwing Spears: 5 points
+- [Horse] - 10 points
+- [Armour] - 5 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Expert Rider
+- [Horse Lord]
+- [Expert Rider]
 
 - **I Shall Kill You if You Touch Him** `ACTIVE`
 
-If Theoden is slain, Eowyn must move towards the spot where he died if she can. Once she's within 3" of this spot, she must remain within 3" of it. Then for rest of the game, she becomes Fearless, re-rolls any failed To Wound rolls, and gains +1 To Wound when striking the model that slew Theoden.
+If Theoden is slain, Eowyn must move towards the spot where he died if she can. Once she's within 3" of this spot, she must remain within 3" of it. Then for rest of the game, she becomes [Fearless], re-rolls any failed To Wound rolls, and gains +1 To Wound when striking the model that slew Theoden.
 
 </div>
 
@@ -554,17 +554,17 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 
 **WARGEAR**
 
-- Armour
-- sword
-- longbow
+- [Armour]
+- [Sword]
+- Longbow
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -581,13 +581,13 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
@@ -597,7 +597,7 @@ Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are 
 
 - **Lucky Shot** `ACTIVE`
 
-Aldor must re-roll failed To Hit and To Wound rolls with his bow.
+Aldor must re-roll failed To Hit and To Wound rolls with his [bow][Bow].
 
 </div>
 
@@ -614,13 +614,13 @@ Aldor must re-roll failed To Hit and To Wound rolls with his bow.
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -647,23 +647,23 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 **WARGEAR**
 
-- Armour
-- dagger
+- [Armour]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Pony: 5 points
-- Shield: 5 points
+- [Elven Cloak] - 5 points
+- [Pony] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -682,27 +682,27 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 **WARGEAR**
 
-- Armour
-- sword or axe
-- shield
-- bow
-- Horse
+- [Armour]
+- [Sword] or [Axe]
+- [Shield]
+- [Bow]
+- [Horse]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Throwing Spears: 2 points
-- Westfold Redshield Upgrade: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Throwing Spears - 2 points
+- Westfold Redshield Upgrade - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Arise, Riders of Theoden!** `ACTIVE`
 
-If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
+If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
 
 </div>
 
@@ -719,18 +719,18 @@ If this model is within 12" of Theoden and on a horse, it receives +1 bonus to i
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **OPTIONS**
 
-- Horse: 5 points
-- Swap Weapon: 1 point
+- [Horse] - 5 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Vanguard** `ACTIVE`
 
@@ -751,25 +751,25 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Horse: 5 points
-- Throwing Spears: 2 points
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Horse] - 5 points
+- Throwing Spears - 2 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Expert Rider
+- [Bodyguard]
+- [Expert Rider]
 
 - **Arise, Riders of Theoden!** `ACTIVE`
 
-If this model is within 12" of Theoden and on a horse, it receives +1 bonus to it's fight value on a turn in which they Charge.
+If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
 
 </div>
 
@@ -786,18 +786,18 @@ If this model is within 12" of Theoden and on a horse, it receives +1 bonus to i
 
 **WARGEAR**
 
-- Heavy armour
-- axe
-- shield
-- armoured horse
+- [Heavy Armour]
+- [Axe]
+- [Shield]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Riders of Eorl** `ACTIVE`
 
@@ -819,16 +819,16 @@ Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
 **WARGEAR**
 
 - Amour
-- sword or axe
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Throwing Spears: 2 points
-- Shield: 1 point
-- Helminga Upgrade: 1 point
-- Bow: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Throwing Spears - 2 points
+- [Shield] - 1 point
+- Helminga Upgrade - 1 point
+- [Bow] - 1 point
+- Swap Weapon - 1 point
 
 </div>

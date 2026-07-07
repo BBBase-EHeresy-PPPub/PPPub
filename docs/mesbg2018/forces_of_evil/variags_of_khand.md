@@ -19,26 +19,26 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half axe
-- bow
+- [Heavy Armour]
+- Hand-and-a-half [Axe]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Resolve
-- Heroic Strike
+- [Heroic March]
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Khandish Chariot: 30 points
-- Horse: 10 points
+- Khandish Chariot - 30 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
 - **Commanding Presence** `PASSIVE`
 
-Friendly Khandish models within 6" of a Khandish King count as being in range of a banner.
+Friendly Khandish models within 6" of a Khandish King count as being in range of a [banner][Banner].
 
 </div>
 
@@ -55,20 +55,20 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half axe
-- dagger
-- bow
+- [Armour]
+- Hand-and-a-half [Axe]
+- [Dagger]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Khandish Chariot: 30 points
-- Horse: 10 points
-- Swap Weapon: 5 points
+- Khandish Chariot - 30 points
+- [Horse] - 10 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -87,15 +87,15 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half axe
-- dagger
+- [Armour]
+- Hand-and-a-half [Axe]
+- [Dagger]
 - Khandish Chariot
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
-- Swap Axe for Bow: 0 points
+- Swap Weapon - 1 point
+- Swap [Axe] for [Bow] - Free
 
 **SPECIAL RULES**
 
@@ -130,15 +130,15 @@ See page 189 of Armies of LOTR.
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half axe
-- bow
-- dagger
-- Horse
+- [Armour]
+- Hand-and-a-half [Axe]
+- [Bow]
+- [Dagger]
+- [Horse]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -155,13 +155,13 @@ See page 189 of Armies of LOTR.
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half axe
-- dagger
+- [Armour]
+- Hand-and-a-half [Axe]
+- [Dagger]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
-- Swap Axe for Bow: 0 points
+- Swap Weapon - 1 point
+- Swap [Axe] for [Bow] - Free
 
 </div>

@@ -23,8 +23,8 @@
 
 **"Great Resilience"** - Whenever a friendly Bear model suffers a Wound, roll a D6. On the roll of a natural 6 the Wound is ignored just as if a point of Fate had been spent.
 
-**"Charge of the Bear"** - Whilst they have the Bear keyword, Beorn and Grimbeorn gain the Monstrous Charge special rule.
+**"Charge of the Bear"** - Whilst they have the Bear keyword, Beorn and Grimbeorn gain the [Monstrous Charge] special rule.
 
-**"Natural Resistance"** - Friendly models gain the Resistant to Magic special rule.
+**"Natural Resistance"** - Friendly models gain the [Resistant to Magic] special rule.
 
 **"Fuelled by Fury"** - Beorn and Grimbeorn do not need to roll for their Skin-changer special rule; they can transform at will.

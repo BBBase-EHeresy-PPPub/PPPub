@@ -19,20 +19,20 @@ This army may include: The Goblin King; Goblin Captain; Goblin Mercenary Captain
 
 **WARGEAR**
 
-- Two-handed pick
+- Two-handed [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Resistant to Magic
-- Terror
-- Burly
+- [Cave Dweller]
+- [Resistant to Magic]
+- [Terror]
+- [Burly]
 
 - **Relentless Advance** `ACTIVE`
 
@@ -44,7 +44,7 @@ In the Shoot phase, if a friendly Goblin model is in base contact with him, and 
 
 - **Blubbery Mass** `PASSIVE`
 
-Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it was caused by a Magic Power or Elven-made weapon.
+Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it was caused by a Magic Power or [Elven-made] weapon.
 
 </div>
 
@@ -61,24 +61,24 @@ Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it wa
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 </div>
 
@@ -95,24 +95,24 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -133,20 +133,20 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **WARGEAR**
 
-- Dagger
-- scourge
+- [Dagger]
+- Scourge
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Scourge** `ACTIVE`
 
-Throwing weapon with range 12" and Strength 2.
+[Throwing weapon][Throwing Weapon] with range 12" and Strength 2.
 
 - **Swap with Me** `ACTIVE`
 
@@ -154,7 +154,7 @@ A Special Heroic Action for the start of any phase. Grinnah can swap places with
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 </div>
 
@@ -171,7 +171,7 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -181,7 +181,7 @@ At the end of his Move phase, he may take a Courage test. If passed, you may mov
 
 - **Immobile** `PASSIVE`
 
-The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phase, friendly models may move him, as if he were considered to be a Heavy Object.
+The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phase, friendly models may move him, as if he were considered to be a [Heavy Object].
 
 </div>
 
@@ -198,15 +198,15 @@ The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phas
 
 **WARGEAR**
 
-- Strangling fingers
+- Strangling Fingers
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **The Precious** `ACTIVE`
 
@@ -214,7 +214,7 @@ Unless there is another Ringbearer in play, Gollum has the Ring. If the Ringbear
 
 - **Strangler** `PASSIVE`
 
-Gollum is never considered to be unarmed.
+Gollum is never considered to be [unarmed][Unarmed].
 
 </div>
 
@@ -233,20 +233,20 @@ Gollum is never considered to be unarmed.
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -267,21 +267,21 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **WARGEAR**
 
-- Sword
-- pick
-- mace or flail
+- [Sword]
+- [Pick]
+- [Mace] or [Flail]
 
 **OPTIONS**
 
-- Two-Handed Axe: 1 point
-- Swap Weapon: 1 point
+- Two-Handed [Axe] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a spear. Supporting models do not get the benefit of two-handed weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
 
 </div>

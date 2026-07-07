@@ -19,21 +19,21 @@ This army may include: Prince Imrahil; Angbor the Fearless; Duinhir; Forlong the
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Lance: 5 points
+- [Armoured Horse] - 15 points
+- [Lance] - 5 points
 
 **SPECIAL RULES**
 
@@ -43,12 +43,11 @@ Imrahil's Stand Fast! Is 12" rather than 6".
 
 - ***Dol Amroth for Gondor!** `PASSIVE`
 
-Friendly Fiefdom models within 12" of Imrahil count as being in range of a banner.
+Friendly Fiefdom models within 12" of Imrahil count as being in range of a [banner][Banner].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANGBOR THE FEARLESS [65 POINTS]
@@ -60,29 +59,28 @@ Friendly Fiefdom models within 12" of Imrahil count as being in range of a banne
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Broadsword
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Broadsword** `ACTIVE`
 
-Two handed sword, and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
+Two handed [sword][Sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
 
 - ***Chief of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 6" of Angbor gain the Fearless special rule.
+Clansmen of Lamedon within 6" of Angbor gain the [Fearless] special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUINHIR [60 POINTS]
@@ -94,19 +92,19 @@ Clansmen of Lamedon within 6" of Angbor gain the Fearless special rule.
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
-- spear
+- [Armour]
+- [Sword]
+- [Bow]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Defence
+- [Heroic Accuracy]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 - **Go for the Eyes!** `ACTIVE`
 
@@ -119,7 +117,6 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FORLONG THE FAT [80 POINTS]
@@ -131,18 +128,18 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- war spear
-- war horn
+- [Heavy Armour]
+- [Sword]
+- [War Spear]
+- [War Horn]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -153,7 +150,6 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
@@ -165,19 +161,19 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Lance: 5 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- [Lance] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -190,7 +186,6 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 ---
 
 ## WARRIORS OF THE FIEFDOMS
-
 <div class="unitCard" markdown>
 
 ### AXEMAN OF LOSSARNACH [9 POINTS]
@@ -202,25 +197,24 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Axe of Lossarnach
-- dagger
+- [Dagger]
 
 **OPTIONS**
 
-- Replace Axe with Banner: 25 points
-- Swap Weapon: 1 point
+- Replace [Axe] with [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Axe of Lossarnach** `ACTIVE`
 
-This weapon can be used as either a spear or two-handed axe.
+This weapon can be used as either a [spear][Spear] or [two-handed][Two-Handed] [axe][Axe].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
@@ -232,29 +226,28 @@ This weapon can be used as either a spear or two-handed axe.
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **OPTIONS**
 
-- War horn: 30 points
-- Banner: 25 points
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 - **Dead-eye Shot** `ACTIVE`
 
-When benefiting from a Heroic Shoot, this model may re-roll failed To Wound rolls when making shooting attacks.
+When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound rolls when making shooting attacks.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CLANSMAN OF LAMEDON [8 POINTS]
@@ -266,27 +259,26 @@ When benefiting from a Heroic Shoot, this model may re-roll failed To Wound roll
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Broadsword
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Broadsword** `ACTIVE`
 
-Two handed sword, and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
+Two handed [sword][Sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
 
 - **The Honour of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of a banner.
+Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of a [banner][Banner].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
@@ -298,17 +290,17 @@ Clansmen of Lamedon within 6" of Angbor the Fearless count as being in range of 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Armoured Horse: 8 points
-- Lance: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Armoured Horse] - 8 points
+- [Lance] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -319,7 +311,6 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MAN-AT-ARMS OF DOL AMROTH [9 POINTS]
@@ -331,14 +322,14 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- pike
+- [Heavy Armour]
+- [Sword]
+- [Pike]
 
 **OPTIONS**
 
-- Replace Pike with Banner: 25 points
-- Swap Weapon: 1 point
+- Replace [Pike] with [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 

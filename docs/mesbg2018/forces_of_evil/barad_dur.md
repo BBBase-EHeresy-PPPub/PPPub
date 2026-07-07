@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Troll Chieftain; Orc Captain; Orc Taskmaster; Ringwraith; Orc Shaman; Orc Drummer; Shelob; Black Numenorean; Mordor Troll; Morgul Knight; Orc Tracker; Orc Warrior; Warg Rider; Mordor Siege Bow; Mordor War Catapult.
+This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Troll Chieftain; Orc Captain; Orc Taskmaster; Ringwraith; Orc Shaman; Orc Drummer; Shelob; Black Numenorean; Mordor Troll; Morgul Knight; Orc Tracker; Orc Warrior; [Warg] Rider; Mordor Siege [Bow]; Mordor War Catapult.
 
 ## ARMY BONUS
 
@@ -19,33 +19,33 @@ This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Tro
 
 **WARGEAR**
 
-- Heavy armour
-- mace
+- [Heavy Armour]
+- [Mace]
 - The One Ring
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strength]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 18" | 2+ |
-| Transfix | 18" | 2+ |
-| Compel | 18" | 3+ |
-| Instill Fear | 3" | 3+ |
-| Chill Soul | 18" | 4+ |
-| Sap Will | 18" | 4+ |
+| [Drain Courage] | 18" | 2+ |
+| [Transfix] | 18" | 2+ |
+| [Compel] | 18" | 3+ |
+| [Instill Fear] | 3" | 3+ |
+| [Chill Soul] | 18" | 4+ |
+| [Sap Will] | 18" | 4+ |
 
 **SPECIAL RULES**
 
-- Ancient Evil
-- Resistant to Magic
-- Terror
+- [Ancient Evil]
+- [Resistant to Magic]
+- [Terror]
 
 - **The Dark Lord** `PASSIVE`
 
@@ -65,7 +65,7 @@ Can make one Strength 8 hit on all in the fight, including supports.
 
 - **The Flames of Evil** `BRUTAL POWER ATTACK`
 
-Single strike against one model. If they survive, they are Set Ablaze.
+Single strike against one model. If they survive, they are [Set Ablaze].
 
 </div>
 
@@ -82,46 +82,46 @@ Single strike against one model. If they survive, they are Set Ablaze.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 4+ |
-| Your Staff is Broken | 12" | 4+ |
-| Black Dart | 12" | 5+ |
-| Sap Will | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 4+ |
+| [Your Staff is Broken] | 12" | 4+ |
+| [Black Dart] | 12" | 5+ |
+| [Sap Will] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 75 points
-- Fell Beast: 50 points
-- Crown of Morgul: 25 points
-- Armoured Horse: 15 points
-- Horse: 10 points
-- Morgul Blade: 10 points
-- Two-Handed Flail: 5 points
-- Might: 5 points
-- Will: 5 points
-- Fate: 5 points
+- Armoured Fell Beast - 75 points
+- Fell Beast - 50 points
+- Crown of Morgul - 25 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
+- Morgul Blade - 10 points
+- Two-Handed [Flail] - 5 points
+- Might - 5 points
+- Will - 5 points
+- Fate - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -146,24 +146,24 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Lance: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- [Lance] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -180,22 +180,22 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Throw Stones (range 12", Strength 8)
-- Terror
+- [Throw Stones] (range 12", Strength 8)
+- [Terror]
 
 </div>
 
@@ -212,19 +212,19 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Orc Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -241,23 +241,23 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **WARGEAR**
 
-- Armour
-- mace
-- whip
+- [Armour]
+- [Mace]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, that action is free.
+Each time a friendly Mordor Hero model within 6" (including the Taskmaster himself) attempts a [Heroic Move], March or Shoot, roll a D6. On a 4+, that action is free.
 
 </div>
 
@@ -274,40 +274,40 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Channelling
+- [Heroic March]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 2+ |
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 5+ |
+| [Drain Courage] | 12" | 2+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 75 points
-- Fell Beast: 50 points
-- Horse: 10 points
-- Might: 5 points
-- Will: 5 points
-- Fate: 5 points
-- Swap Weapon: 5 points
+- Armoured Fell Beast - 75 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
+- Might - 5 points
+- Will - 5 points
+- Fate - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **One of Nine** `PASSIVE`
 
@@ -328,25 +328,25 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **WARGEAR**
 
-- Armour
-- dagger
-- spear
+- [Armour]
+- [Dagger]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Mordor Orc) | 6" | 3+ |
-| Transfix | 12" | 5+ |
+| [Fury] (Mordor Orc) | 6" | 3+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Warg: 10 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -363,13 +363,13 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **WARGEAR**
 
-- Armour
-- dagger
-- war drum (Mordor Orc)
+- [Armour]
+- [Dagger]
+- [War Drum] (Mordor Orc)
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -386,15 +386,15 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **WARGEAR**
 
-- Large venomous fangs
+- Large Venomous Fangs
 
 **SPECIAL RULES**
 
-- Monstrous Charge
-- Survival Instinct
-- Swift Movement
-- Terror
-- Venom
+- [Monstrous Charge]
+- [Survival Instinct]
+- [Swift Movement]
+- [Terror]
+- [Venom]
 
 - **Lone Hunter** `PASSIVE`
 
@@ -421,19 +421,19 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -450,18 +450,18 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half hammer
+- [Armour]
+- Hand-and-a-half [Hammer]
 
 **OPTIONS**
 
-- War Drum (Mordor): 30 points
-- Swap Weapon: 1 point
+- [War Drum] (Mordor) - 30 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -478,21 +478,21 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- lance
-- armoured horse
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [Lance]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 </div>
 
@@ -509,13 +509,13 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Dagger
-- Orc bow
+- [Dagger]
+- Orc [Bow]
 
 **OPTIONS**
 
-- Warg: 7 points
-- Swap Weapon: 1 point
+- [Warg] - 7 points
+- Swap Weapon - 1 point
 
 </div>
 
@@ -532,17 +532,17 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-Handed Weapon: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -559,17 +559,17 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Armour
-- sword
-- Warg
+- [Armour]
+- [Sword]
+- [Warg]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Throwing Spears: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -588,21 +588,21 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **OPTIONS**
 
-- Orc Engineer Captain: 40 points
-- Flaming Ammunition: 15 points
-- Additional Crew: 5 points
-- Engineer Captain - Orc Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Orc Engineer Captain - 40 points
+- Flaming Ammunition - 15 points
+- Additional Crew - 5 points
+- Engineer Captain - Orc [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
 - **Accurate**
 
-A Mordor Siege Bow will only scatter 3" rather than 6".
+A Mordor Siege [Bow] will only scatter 3" rather than 6".
 
 - **Piercing Shot**
 
-If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege Bow. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
+If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege [Bow]. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
 
 </div>
 
@@ -619,12 +619,12 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 
 **OPTIONS**
 
-- Orc Engineer Captain: 40 points
-- Flaming Ammunition: 15 points
-- Severed Heads: 5 points
-- Additional Crew: 5 points
-- Engineer Captain - Orc Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Orc Engineer Captain - 40 points
+- Flaming Ammunition - 15 points
+- Severed Heads - 5 points
+- Additional Crew - 5 points
+- Engineer Captain - Orc [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -640,6 +640,6 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and pick the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
 
 </div>

@@ -23,15 +23,15 @@ Any model in this list which has the Erebor or Khazad-Dum keyword will instead b
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Durin's axe
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -41,12 +41,11 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 
 - **Durin's axe** `ACTIVE`
 
-Master-forged two-handed axe, re-roll a single dice in duel rolls.
+[Master-forged][Master-Forged] [two-handed][Two-Handed] axe, re-roll a single dice in duel rolls.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
@@ -58,19 +57,19 @@ Master-forged two-handed axe, re-roll a single dice in duel rolls.
 
 **WARGEAR**
 
-- Heavy dwarf armour
-- axe
+- [Heavy Dwarf Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
+- [Heroic Resolve]
+- [Heroic March]
 
 **OPTIONS**
 
-- Throwing Axes: 5 points
-- Two-Handed Axe: 5 points
-- Swap Weapon: 5 points
+- Throwing Axes - 5 points
+- Two-Handed [Axe] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -87,25 +86,25 @@ Master-forged two-handed axe, re-roll a single dice in duel rolls.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- Master Forged two-handed axe
-- two axes
-- throwing axes
+- [Heavy Dwarf Armour]
+- Master Forged Two-handed [Axe]
+- Two Axes
+- Throwing Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of a fight, you can choose his two-handed axe, or an axe in each hand which gives him an Attack value of 3.
+At the beginning of a fight, you can choose his [two-handed][Two-Handed] [axe][Axe], or an [axe][Axe] in each hand which gives him an Attack value of 3.
 
 - **I myself am sitting pretty on 43** `ACTIVE`
 
@@ -114,7 +113,6 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF CAPTAIN [60 POINTS]
@@ -126,19 +124,19 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Throwing Axes: 5 points
-- Two-Handed Axe: 5 points
-- Swap Weapon: 5 points
+- [Shield] - 5 points
+- Throwing Axes - 5 points
+- Two-Handed [Axe] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -155,8 +153,8 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- staff
+- [Heavy Dwarf Armour]
+- [Staff]
 
 **SPECIAL RULES**
 
@@ -171,7 +169,6 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
@@ -183,17 +180,17 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two axes
+- [Heavy Dwarf Armour]
+- Two Axes
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -204,7 +201,6 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -216,17 +212,17 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- sword
-- shield
+- [Heavy Dwarf Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Healing Herbs** `ACTIVE`
 
@@ -239,7 +235,6 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF, CHAMPION OF EREBOR [55 POINTS]
@@ -251,16 +246,16 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand-and-a-half axe
+- [Heavy Dwarf Armour]
+- Hand-and-a-half [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Chronicler** `ACTIVE`
 
@@ -269,7 +264,6 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHIELDBEARER [60 POINTS]
@@ -281,20 +275,20 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 **WARGEAR**
 
-- Dwarf armour
-- shield
-- axe
+- [Dwarf Armour]
+- [Shield]
+- [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **In Defence of the King** `ACTIVE`
 
-At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a Heroic Combat without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
+At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the Heroic combat is successful, they must use their following Move to either join the fight, or move as close as possible.
 
 - **Lead by Example** `PASSIVE`
 
@@ -305,7 +299,6 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 ---
 
 ## WARRIORS OF THE KINGDOM OF MORIA
-
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
@@ -317,19 +310,19 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Armour
-- axe
+- [Armour]
+- [Axe]
 
 **OPTIONS**
 
-- Dwarf Longbow: 1 point
-- Throwing Axes: 1 point
-- Two-Handed Axe: 1 point
-- Swap Weapon: 1 point
+- Dwarf Longbow - 1 point
+- Throwing Axes - 1 point
+- Two-Handed [Axe] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -346,17 +339,17 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- axe
+- [Dwarf Armour]
+- [Axe]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Dwarf Bow: 1 point
-- Shield: 1 point
-- Two-Handed Axe & Dagger: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Dwarf [Bow] - 1 point
+- [Shield] - 1 point
+- Two-Handed [Axe] & [Dagger] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -373,13 +366,13 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- sword
-- throwing axes
+- [Dwarf Armour]
+- [Sword]
+- Throwing Axes
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -396,17 +389,17 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **WARGEAR**
 
-- Dwarf armour
-- two-handed axe
-- axe
+- [Dwarf Armour]
+- Two-handed [Axe]
+- [Axe]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -438,12 +431,12 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **OPTIONS**
 
-- Dwarf Engineer Captain: 60 points
-- Flaming Ammunition: 15 points
-- Additional Crew: 8 points
-- Engineer Captain - Shield: 5 points
-- Engineer Captain - Throwing Axes: 5 points
-- Engineer Captain - Two-Handed Axe: 5 points
+- Dwarf Engineer Captain - 60 points
+- Flaming Ammunition - 15 points
+- Additional Crew - 8 points
+- Engineer Captain - [Shield] - 5 points
+- Engineer Captain - Throwing Axes - 5 points
+- Engineer Captain - Two-Handed [Axe] - 5 points
 
 **SPECIAL RULES**
 

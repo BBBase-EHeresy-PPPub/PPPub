@@ -19,23 +19,23 @@ This army may include: The Dragon Emperor; Amdur; Khamul; Rutabi; Brorgir; Easte
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - The Emperor's Glaive
 - Helm of the Dragon Emperor
 - Royal Palanquin
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **The Emperor's Glaive** `ACTIVE`
 
-Elven-made spear, may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
+[Elven-made] [spear][Spear], may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -43,11 +43,11 @@ His Stand Fast! has unlimited range, and affects hero models.
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
-The Emperor is Resistant to Magic.
+The Emperor is [Resistant to Magic].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
@@ -64,36 +64,36 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Durtuz
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
+- [Armoured Horse] - 15 points
 
 **SPECIAL RULES**
 
-- Blood and Glory
-- Unyielding Combat Stance
+- [Blood and Glory]
+- [Unyielding Combat Stance]
 - Phalanx
 - The Gleaming Horde
 
 - **The Lord of Blades** `ACTIVE`
 
-If an enemy model in combat with Amdur declares a Heroic Strike, he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
+If an enemy model in combat with Amdur declares a [Heroic Strike], he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
 
 - **Herald of Victory** `PASSIVE`
 
-All Easterling models treat Amdur as a banner. If Amdur kills the enemy leader, the banner range is increased to 6"
+All Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enemy leader, the [banner][Banner] range is increased to 6"
 
 - **Durtuz** `PASSIVE`
 
-Elven-made hand-and-a-half sword.
+[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword].
 
 </div>
 
@@ -110,38 +110,38 @@ Elven-made hand-and-a-half sword.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Compel | 12" | 5+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 6+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Compel] | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 6+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Armoured Horse: 15 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Armoured Horse] - 15 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
 
 - **Essence Leech** `ACTIVE`
 
@@ -162,23 +162,23 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Master of Battle (3+)
-- Unyielding Combat Stance
+- [Master of Battle] (3+)
+- [Unyielding Combat Stance]
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **Show No Mercy** `ACTIVE`
 
@@ -199,21 +199,21 @@ When making strikes against trapped enemy models, you may re-roll failed To Woun
 
 **WARGEAR**
 
-- Heavy armour
-- Easterling battle stave
+- [Heavy Armour]
+- Easterling Battle Stave
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Bladewrath | 12" | 2+ |
-| Fury (Easterling) | 6" | 3+ |
-| Enchanted Blades | 12" | 4+ |
-| Tremor | 6" | 5+ |
+| [Bladewrath] | 12" | 2+ |
+| [Fury] (Easterling) | 6" | 3+ |
+| [Enchanted Blades] | 12" | 4+ |
+| [Tremor] | 6" | 5+ |
 
 **SPECIAL RULES**
 
@@ -236,29 +236,29 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 
 **WARGEAR**
 
-- Heavy armour
-- Easterling glaive (hand-and-a-half axe)
+- [Heavy Armour]
+- Easterling Glaive (hand-and-a-half [Axe])
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Glaive for Armoured Horse & Sword: 10 points
-- Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- Swap Glaive For [Armoured Horse] & [Sword] - 10 points
+- [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
 
 </div>
 
@@ -275,24 +275,24 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Heavy armour
-- Easterling battle stave
+- [Heavy Armour]
+- Easterling Battle Stave
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Bladewrath | 6" | 2+ |
-| Fury (Easterling) | 6" | 3+ |
+| [Bladewrath] | 6" | 2+ |
+| [Fury] (Easterling) | 6" | 3+ |
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -309,22 +309,22 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Heavy armour
-- two swords
+- [Heavy Armour]
+- Two Swords
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Swap Weapon: 5 points
+- [Armoured Horse] - 15 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Blood and Glory
-- Unyielding Combat Stance
+- [Blood and Glory]
+- [Unyielding Combat Stance]
 
 - **Shield of Blades** `ACTIVE`
 
@@ -332,11 +332,11 @@ Can use the Shielding rule.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
+While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
 
 - **Knights of the Dragon Cult** `PASSIVE`
 
@@ -359,17 +359,17 @@ May only include Black Dragons or Dragon Cult Acolytes in his warband.
 
 **WARGEAR**
 
-- Armour
-- throwing daggers
-- two swords
+- [Armour]
+- Throwing Daggers
+- Two Swords
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Unyielding Combat Stance
+- [Unyielding Combat Stance]
 
 - **Supreme Agility** `ACTIVE`
 
@@ -390,27 +390,27 @@ Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automaticall
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- sword
-- armoured horse
+- [Heavy Armour]
+- [Shield]
+- [Sword]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- War Drum (Easterling): 15 points
-- Black Dragon Upgrade: 2 points
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [War Drum] (Easterling) - 15 points
+- Black Dragon Upgrade - 2 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
 
 </div>
 
@@ -427,27 +427,27 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- sword
-- armoured horse
+- [Heavy Armour]
+- [Shield]
+- [Sword]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- War Drum (Easterling): 15 points
-- Black Dragon Upgrade: 2 points
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [War Drum] (Easterling) - 15 points
+- Black Dragon Upgrade - 2 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
 
 </div>
 
@@ -464,23 +464,23 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Heavy amour
-- sword or dagger
+- Heavy Amour
+- [Sword] or [Dagger]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Black Dragon Upgrade: 2 points
-- Pike: 1 point
-- Shield: 1 point
-- Bow: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Black Dragon Upgrade - 2 points
+- [Pike] - 1 point
+- [Shield] - 1 point
+- [Bow] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
@@ -497,23 +497,23 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 **WARGEAR**
 
-- Heavy amour
-- sword or dagger
+- Heavy Amour
+- [Sword] or [Dagger]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Black Dragon Upgrade: 2 points
-- Pike: 1 point
-- Shield: 1 point
-- Bow: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Black Dragon Upgrade - 2 points
+- [Pike] - 1 point
+- [Shield] - 1 point
+- [Bow] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
@@ -530,13 +530,13 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 **WARGEAR**
 
-- Armour
-- teeth and claws
+- [Armour]
+- Teeth and Claws
 
 **SPECIAL RULES**
 
-- Terror
-- Venom
+- [Terror]
+- [Venom]
 
 - **Slow-acting Venom** `PASSIVE`
 

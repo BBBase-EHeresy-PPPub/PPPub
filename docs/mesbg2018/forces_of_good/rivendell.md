@@ -24,31 +24,31 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Wrath of Bruinen | - | 4+ |
-| Renew | 12" | 3+ |
+| [Wrath of Bruinen] | - | 4+ |
+| [Renew] | 12" | 3+ |
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Horse: 10 points
+- [Heavy Armour] - 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Hadhafang** `ACTIVE`
 
-Hand-and-a-half sword, +1 To Wound when striking Spirit models.
+[Hand-and-a-half][Hand-And-A-Half] [sword][Sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `PASSIVE`
 
@@ -65,7 +65,6 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GIL-GALAD [170 POINTS]
@@ -77,31 +76,31 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Aiglos
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Shield: 5 points
+- [Horse] - 10 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Blood and Glory
-- Terror
-- Woodland Creature
+- [Blood and Glory]
+- [Terror]
+- [Woodland Creature]
 
 - **Aiglos** `ACTIVE`
 
-Elven-made spear, add +1 to all To Wound rolls.
+[Elven-made] [spear][Spear], add +1 to all To Wound rolls.
 
 - **High King of the Elves** `ACTIVE`
 
@@ -114,7 +113,6 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GLORFINDEL [145 POINTS]
@@ -126,30 +124,30 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 **WARGEAR**
 
-- Elven made hand-and-a-half sword
+- Elven Made Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Challenge
-- Heroic Strength
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Challenge]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Armour of Gondolin: 15 points
-- Asfaloth: 10 points
+- [Armour] Of Gondolin - 15 points
+- Asfaloth - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Terror
-- Woodland Creature
+- [Expert Rider]
+- [Horse Lord]
+- [Terror]
+- [Woodland Creature]
 
 - **Armour of Gondolin** `PASSIVE`
 
-Heavy armour, monsters may not use brutal power attacks against Glorfindel if he equips this.
+[Heavy armour][Heavy Armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
 
 - **Unbending Resolve** `PASSIVE`
 
@@ -162,7 +160,6 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELLADAN & ELROHIR [160 POINTS]
@@ -174,10 +171,10 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **OPTIONS**
 
-- Horses: 20 points
-- Heavy Armour: 10 points
-- Elf Bows: 10 points
-- Elven Cloaks: 10 points
+- Horses - 20 points
+- [Heavy Armour] - 10 points
+- Elf Bows - 10 points
+- Elven Cloaks - 10 points
 
 </div>
 
@@ -194,26 +191,25 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Noldorin Daggers
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Noldorin Daggers** `ACTIVE`
 
-Elven-made daggers, may be used as Throwing weapons. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
+[Elven-made] daggers, may be used as [Throwing weapons][Throwing Weapons]. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
@@ -225,26 +221,26 @@ Elven-made daggers, may be used as Throwing weapons. May re-roll failed To Wound
 
 **WARGEAR**
 
-- Elven-made sword
-- Elven Cloak
+- Elven-made [Sword]
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic March
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic March]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Immobilise | 12" | 3+ |
+| [Immobilise] | 12" | 3+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Terror
+- [Woodland Creature]
+- [Terror]
 
 </div>
 
@@ -261,25 +257,25 @@ Elven-made daggers, may be used as Throwing weapons. May re-roll failed To Wound
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Elf Bow: 5 points
-- Lance: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- Elf [Bow] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 </div>
 
@@ -296,20 +292,20 @@ Elven-made daggers, may be used as Throwing weapons. May re-roll failed To Wound
 
 **WARGEAR**
 
-- Elven-made sword
+- Elven-made [Sword]
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Horse: 10 points
+- [Heavy Armour] - 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Song of Elbereth** `ACTIVE`
 
-All friendly Rivendell models within 6" of Lindir gain the Resistant to Magic special rule.
+All friendly Rivendell models within 6" of Lindir gain the [Resistant to Magic] special rule.
 
 - **Wise Council** `PASSIVE`
 
@@ -318,7 +314,6 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ARWEN [60 POINTS]
@@ -330,30 +325,30 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **WARGEAR**
 
-- Elven-made sword
+- Elven-made [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Wrath of Bruinen | - | 4+ |
+| [Wrath of Bruinen] | - | 4+ |
 
 **OPTIONS**
 
-- Asfaloth: 10 points
-- Horse: 10 points
-- Elven Cloak: 5 points
+- Asfaloth - 10 points
+- [Horse] - 10 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Expert Rider
+- [Woodland Creature]
+- [Expert Rider]
 
 </div>
 
@@ -370,23 +365,23 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Resolve
+- [Heroic Channelling]
+- [Heroic Resolve]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Aura of Command | - | 2+ |
-| Blinding Light | - | 2+ |
-| Enchanted Blades | 6" | 4+ |
-| Aura of Dismay | - | 5+ |
+| [Aura of Command] | - | 2+ |
+| [Blinding Light] | - | 2+ |
+| [Enchanted Blades] | 6" | 4+ |
+| [Aura of Dismay] | - | 5+ |
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 
 - **The Shipwright's Power** `PASSIVE`
 
@@ -395,7 +390,6 @@ Cirdan may spend a single point of Will each turn for free.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HIGH ELF STORMCALLER [60 POINTS]
@@ -407,24 +401,24 @@ Cirdan may spend a single point of Will each turn for free.
 
 **WARGEAR**
 
-- Armour
-- Elven-made sword
-- staff
+- [Armour]
+- Elven-made [Sword]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Call Winds | 12" | 3+ |
-| Strengthen Will | 12" | 4+ |
+| [Call Winds] | 12" | 3+ |
+| [Strengthen Will] | 12" | 4+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Powers of Nature** `PASSIVE`
 
@@ -433,7 +427,6 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [40 POINTS]
@@ -445,22 +438,22 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Mithril Coat: 15 points
-- Sting: 5 points
-- The Ring: 0 points
+- Mithril Coat - 15 points
+- Sting - 5 points
+- The Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -479,22 +472,22 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Elf Bow: 2 points
-- Shield: 1 point
-- Spear: 1 point
-- King's Guard Upgrade: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- King's Guard Upgrade - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -511,23 +504,23 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Heavy armour
-- lance
-- Elven-made Hand-and-a-half sword
-- Elf bow
-- Horse
+- [Heavy Armour]
+- [Lance]
+- Elven-made Hand-and-a-half [Sword]
+- Elf [Bow]
+- [Horse]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Shield: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Shield] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 </div>
 
@@ -544,24 +537,24 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- Elven-made hand-and-a-half sword
-- Elven Cloak
+- Elven-made Hand-and-a-half [Sword]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf Bow: 2 points
-- Throwing Daggers: 2 points
-- Wood Elf Spear: 1 point
-- Noldorin Exiles Upgrade: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- Throwing Daggers - 2 points
+- Wood Elf [Spear] - 1 point
+- Noldorin Exiles Upgrade - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Wood Elf spear** `ACTIVE`
 
-This spear may also parry, which uses the rules for Shielding.
+This [spear][Spear] may also parry, which uses the rules for Shielding.
 
 </div>

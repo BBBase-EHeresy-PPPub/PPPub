@@ -19,19 +19,19 @@ This army may include: Gwaihir; Great Eagle.
 
 **WARGEAR**
 
-- Claws and beak
+- Claws and Beak
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fly
-- Monstrous Charge
-- Terror
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
 
 - **Lord of the Eagles** `ACTIVE`
 
@@ -54,12 +54,12 @@ Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast! or benefit f
 
 **WARGEAR**
 
-- Claws and beak
+- Claws and Beak
 
 **SPECIAL RULES**
 
-- Fly
-- Monstrous Charge
-- Terror
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
 
 </div>

@@ -4,7 +4,7 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 
 ## ARMY BONUS
 
-**"The Scorpion's Sting"** - A serpent Horde army may have 50% of its warriors armed with bows. Additionally, all Haradrim Warriors and Raiders may apply the Poisoned Weapons special rule to all of their weapons.
+**"The Scorpion's Sting"** - A serpent Horde army may have 50% of its warriors armed with bows. Additionally, all Haradrim Warriors and Raiders may apply the [Poisoned Weapons] special rule to all of their weapons.
 
 ## HEROES OF THE SERPENT HORDE
 
@@ -19,21 +19,21 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 
 **WARGEAR**
 
-- Armour
-- sword
-- Serpent Banner
+- [Armour]
+- [Sword]
+- Serpent [Banner]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured Horse: 15 points
-- Bow with Poisoned Arrows: 5 points
+- [Armoured Horse] - 15 points
+- [Bow] with Poisoned Arrows - 5 points
 
 **SPECIAL RULES**
 
@@ -41,7 +41,7 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 
 - **The Serpent Banner** `ACTIVE`
 
-Banner with 6" range, and Suladan never suffers -1 penalty to duel rolls whilst carrying it.
+[Banner] with 6" range, and Suladan never suffers -1 penalty to duel rolls whilst carrying it.
 
 - **Ascendant** `ACTIVE`
 
@@ -50,7 +50,6 @@ Suladan's Stand Fast! is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARADRIM KING [60 POINTS]
@@ -62,20 +61,20 @@ Suladan's Stand Fast! is 12" rather than 6".
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Bow with Poisoned Arrows: 5 points
-- War Spear: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- [Bow] with Poisoned Arrows - 5 points
+- [War Spear] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -96,45 +95,44 @@ Suladan's Stand Fast! is 12" rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Compel | 12" | 5+ |
-| Instill Fear | 3" | 5+ |
-| Sap Will | 12" | 5+ |
-| Black Dart | 12" | 6+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Compel] | 12" | 5+ |
+| [Instill Fear] | 3" | 5+ |
+| [Sap Will] | 12" | 5+ |
+| [Black Dart] | 12" | 6+ |
 
 **OPTIONS**
 
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Horse: 10 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Terror
-- Will of Evil
-- Bane of Kings
+- [Harbinger of Evil]
+- [Terror]
+- [Will of Evil]
+- [Bane of Kings]
 
 - **Master of Poisons** `PASSIVE`
 
-At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with Poisoned Weapons rule may re-roll failed To Wound rolls made with those weapons.
+At the start of the Move phase, he may spend one point of Will to activate this ability. For the rest of this turn, all friendly models within 6" with [Poisoned Weapons] rule may re-roll failed To Wound rolls made with those weapons.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE GOLDEN KING [130 POINTS]
@@ -146,16 +144,16 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 **WARGEAR**
 
-- Two handed weapon
+- Two Handed Weapon
 - Golden Throne
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 - **Riches Beyond Renown** `ACTIVE`
 
@@ -163,12 +161,11 @@ When an enemy hero model within 12" takes a courage test, the Golden King may re
 
 - **The Golden Throne** `PASSIVE`
 
-This throne is a banner, and the King does not suffer the normal -1 penalty in Duel rolls.
+This throne is a [banner][Banner], and the King does not suffer the normal -1 penalty in Duel rolls.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
@@ -180,19 +177,19 @@ This throne is a banner, and the King does not suffer the normal -1 penalty in D
 
 **WARGEAR**
 
-- Armour
-- war spear
-- sword
+- [Armour]
+- [War Spear]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Bow with Poisoned Arrows: 5 points
-- Swap Weapon: 5 points
+- [Horse] - 10 points
+- [Bow] with Poisoned Arrows - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -213,28 +210,27 @@ This throne is a banner, and the King does not suffer the normal -1 penalty in D
 
 **WARGEAR**
 
-- Armour
-- club
-- whip
+- [Armour]
+- [Club]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Hero model within 6" (including himself) attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, they may call that action for free.
+Each time a friendly Hero model within 6" (including himself) attempts a [Heroic Move], March or Shoot, roll a D6. On a 4+, they may call that action for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
@@ -246,23 +242,23 @@ Each time a friendly Hero model within 6" (including himself) attempts a Heroic 
 
 **WARGEAR**
 
-- Dagger
-- throwing daggers
-- blowpipe
+- [Dagger]
+- Throwing Daggers
+- [Blowpipe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Bane of Kings
-- Stalk Unseen
+- [Bane of Kings]
+- [Stalk Unseen]
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -271,7 +267,6 @@ A Hasharin can never be trapped while still standing.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
@@ -283,18 +278,18 @@ A Hasharin can never be trapped while still standing.
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Bane of Kings
-- Sworn Protector (Suladan)
+- [Bane of Kings]
+- [Sworn Protector] (Suladan)
 
 - **The Serpent's Weapon** `ACTIVE`
 
@@ -303,7 +298,6 @@ At the start of the game, secretly select one Hero model in the opponent's force
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [275 POINTS]
@@ -315,25 +309,25 @@ At the start of the game, secretly select one Hero model in the opponent's force
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Gnarled Hide: 30 points
-- Mahud Beastmaster Chieftain: 25 points
-- Rocks: 20 points
-- Sigils of Defiance: 20 points
-- Tusk Weapons: 20 points
-- Foul Temperament: 15 points
-- Rappelling Lines: 10 points
+- Gnarled Hide - 30 points
+- Mahud Beastmaster Chieftain - 25 points
+- Rocks - 20 points
+- Sigils of Defiance - 20 points
+- Tusk Weapons - 20 points
+- Foul Temperament - 15 points
+- Rappelling Lines - 10 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with Banner re-rolls.
+Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with [Banner] re-rolls.
 
 - **Trample**
 
@@ -344,7 +338,6 @@ Inflicts three Strength 9 hits.
 ---
 
 ## WARRIORS OF THE SERPENT HORDE
-
 <div class="unitCard" markdown>
 
 ### ABRAKHAN MERCHANT GUARD [9 POINTS]
@@ -356,15 +349,15 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Two-handed sword
+- Two-handed [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 </div>
 
@@ -381,16 +374,16 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- dagger
-- Horse
+- [Armour]
+- [Dagger]
+- [Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Bow with Poisoned Arrows: 1 point
-- War Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Bow] with Poisoned Arrows - 1 point
+- [War Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -407,16 +400,16 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- dagger
+- [Armour]
+- [Dagger]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Bow with Poisoned Arrows: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Bow] with Poisoned Arrows - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -433,12 +426,12 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -459,13 +452,13 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Armour
-- war spear
-- Horse
+- [Armour]
+- [War Spear]
+- [Horse]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -486,18 +479,18 @@ Inflicts three Strength 9 hits.
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
-- Bow with Poisoned Arrows: 0 points
-- Twin Blades: 0 points
+- Swap Weapon - 1 point
+- [Bow] with Poisoned Arrows - Free
+- Twin Blades - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Hatred (Spirit)
+- [Resistant to Magic]
+- [Hatred] (Spirit)
 
 - **Twin Blades** `ACTIVE`
 
@@ -505,6 +498,6 @@ Watcher of Karna gains Attack 2.
 
 - **Steely Nerve** `ACTIVE`
 
-Gain a +2 bonus to any Courage test when charging an enemy with Terror. Also gain +2 bonus to the Watcher's Courage when an enemy model with Blades of the Dead makes strikes against the Watcher.
+Gain a +2 bonus to any Courage test when charging an enemy with [Terror]. Also gain +2 bonus to the Watcher's Courage when an enemy model with [Blades of the Dead] makes strikes against the Watcher.
 
 </div>

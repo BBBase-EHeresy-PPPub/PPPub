@@ -51,8 +51,8 @@
 
 ## SPECIAL RULES
 
-**"Masters of Terrain"** - Friendly models gain the Woodland Creature and Mountain Dweller special rules.
+**"Masters of Terrain"** - Friendly models gain the [Woodland Creature] and [Mountain Dweller] special rules.
 
-**"A Fearsome Foe"** - Burdhur gains the Blood and Glory special rule. Additionally, if Buhrdur kills an enemy Hero in combat, he gains the Fearless special rule for the remainder of the battle.
+**"A Fearsome Foe"** - Burdhur gains the [Blood and Glory] special rule. Additionally, if Buhrdur kills an enemy Hero in combat, he gains the [Fearless] special rule for the remainder of the battle.
 
 **"Ambushers"** - Buhrdûr's warband is ambushing and does not deploy on the board as normal. Instead, at the end of both players' third Move phase, the ambushing warband must choose one of the following:

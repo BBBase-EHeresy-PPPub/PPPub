@@ -4,7 +4,7 @@ This army may include: Treebeard; Beechbone; Quickbeam; Ent.
 
 ## ADDITIONAL RULES
 
-"Don't be Hasty": Ent models from this army list gain the Fearless special rule. Additionally, Ent models are completely unaffected by any Magical Powers or special rules that would prevent them from moving or move them against their will (the only exception is that they will still take the hit from a Sorcerrous Blast, but it will suffer no further effects). Additionally, Ent models are completely unaffected by the Nature's Wrath and Wrath of Bruinen Magical Powers.
+"Don't be Hasty": Ent models from this army list gain the [Fearless] special rule. Additionally, Ent models are completely unaffected by any Magical Powers or special rules that would prevent them from moving or move them against their will (the only exception is that they will still take the hit from a Sorcerrous Blast, but it will suffer no further effects). Additionally, Ent models are completely unaffected by the Nature's Wrath and Wrath of Bruinen Magical Powers.
 
 ## HEROES OF FANGORN
 
@@ -19,27 +19,27 @@ This army may include: Treebeard; Beechbone; Quickbeam; Ent.
 
 **WARGEAR**
 
-- Roots and branches
+- Roots and Branches
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Merry & Pippin: 10 points
+- Merry & Pippin - 10 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
-- Throw Stones (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
+- [Throw Stones] (range 18", Strength 10)
 
 - **Merry & Pippin** `PASSIVE`
 
-Can ride as passengers and not be targeted by enemy attacks and shooting. May use their Throw Stones rule without a -1 penalty when Treebeard has moved - see page 91 of Armies of LOTR.
+Can ride as passengers and not be targeted by enemy attacks and shooting. May use their [Throw Stones] rule without a -1 penalty when Treebeard has moved - see page 91 of Armies of LOTR.
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -60,20 +60,20 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and branches
+- Roots and Branches
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
-- Throw Stones (range 18", Strength 10).
+- [Terror]
+- [Woodland Creature]
+- [Throw Stones] (range 18", Strength 10).
 
-- **Deep-rooted Hatred** `PASSIVE`
+- **Deep-rooted [Hatred]** `PASSIVE`
 
 Must re-roll failed To Wound rolls against Orc, Uruk-hai, Goblin or Isengard models. Must always charge these models if able.
 
@@ -96,17 +96,17 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and branches
+- Roots and Branches
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
-- Throw Stones (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
+- [Throw Stones] (range 18", Strength 10)
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -129,13 +129,13 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and branches
+- Roots and Branches
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
-- Throw Stones (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
+- [Throw Stones] (range 18", Strength 10)
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 

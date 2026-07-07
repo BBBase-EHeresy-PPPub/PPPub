@@ -1,10 +1,10 @@
 ## ARMY COMPOSITION
 
-This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Gorulf Ironskin; Mauhur; Orc Captain; Sharku; Snaga; Thrydan Wolfsbane; Ugluk; Uruk-Hai Captain; Uruk-Hai Scout Captain; Vrasku; Wild Man Oathmaker; Uruk-Hai Shaman; Uruk-Hai Drummer; Crebain; Dunlending Horseman; Dunlending Huscarl; Dunlending Warrior; Feral Uruk-Hai; Isengard Troll; Orc Warrior; Uruk-Hai Berserker; Uruk-Hai Demolition Team; Uruk-Hai Scout; Uruk-Hai Warrior; Warg Rider; Wild Man of Dunland; Isengard Assault Ballista; Grima.
+This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Gorulf Ironskin; Mauhur; Orc Captain; Sharku; Snaga; Thrydan Wolfsbane; Ugluk; Uruk-Hai Captain; Uruk-Hai Scout Captain; Vrasku; Wild Man Oathmaker; Uruk-Hai Shaman; Uruk-Hai Drummer; Crebain; Dunlending Horseman; Dunlending Huscarl; Dunlending Warrior; Feral Uruk-Hai; Isengard Troll; Orc Warrior; Uruk-Hai Berserker; Uruk-Hai Demolition Team; Uruk-Hai Scout; Uruk-Hai Warrior; [Warg] Rider; Wild Man of Dunland; Isengard Assault Ballista; Grima.
 
 ## ARMY BONUS
 
-**"You do not know Pain, you do not know Fear!"** - Friendly Isengard models do not start to take Courage tests for being Broken until at least 66% of the force's models have been removed as casualties. Additionally, Lutrz, Uglúk, Mauhúr, Vraskû, Uruk-hai Scout Captains, Uruk-hai Scouts gain the Woodland Creature special rule.
+**"You do not know Pain, you do not know Fear!"** - Friendly Isengard models do not start to take Courage tests for being Broken until at least 66% of the force's models have been removed as casualties. Additionally, Lutrz, Uglúk, Mauhúr, Vraskû, Uruk-hai Scout Captains, Uruk-hai Scouts gain the [Woodland Creature] special rule.
 
 ## HEROES OF ISENGARD
 
@@ -19,25 +19,25 @@ This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Go
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Immobilise | 18" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Command | 18" | 3+ |
-| Sorcerous Blast | 12" | 4+ |
-| Flameburst | 6" | 5+ |
+| [Immobilise] | 18" | 2+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 18" | 3+ |
+| [Sorcerous Blast] | 12" | 4+ |
+| [Flameburst] | 6" | 5+ |
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -56,7 +56,6 @@ Can re-roll one dice when making Casting or Resist tests.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LURTZ [90 POINTS]
@@ -68,20 +67,20 @@ Can re-roll one dice when making Casting or Resist tests.
 
 **WARGEAR**
 
-- Armour
-- sword
-- Uruk-hai bow
+- [Armour]
+- [Sword]
+- Uruk-hai [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic March]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Shield: 0 points
+- [Shield] - Free
 
 **SPECIAL RULES**
 
@@ -92,7 +91,6 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING CHIEFTAIN [55 POINTS]
@@ -104,19 +102,19 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 **WARGEAR**
 
-- Armour
-- dagger
-- two-handed axe
+- [Armour]
+- [Dagger]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Bow: 5 points
-- Swap Weapon: 5 points
-- Swap Two-Handed Axe for Axe and Shield - FREE: 0 points
+- [Bow] - 5 points
+- Swap Weapon - 5 points
+- Swap Two-Handed [Axe] for [Axe] and [Shield] - FREE - Free
 
 </div>
 
@@ -133,15 +131,15 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 **WARGEAR**
 
-- Armour
-- shield
-- spear
-- dagger
+- [Armour]
+- [Shield]
+- [Spear]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -156,7 +154,6 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GORULF IRONSKIN [70 POINTS]
@@ -168,26 +165,25 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 
 **WARGEAR**
 
-- Armour
-- two axes
-- dagger
+- [Armour]
+- Two Axes
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Lord of Dunland** `ACTIVE`
 
-If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare a Heroic Defence for free.
+If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare a [Heroic Defence] for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MAUHUR [60 POINTS]
@@ -199,13 +195,13 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic March
+- [Heroic Strength]
+- [Heroic March]
 
 </div>
 
@@ -222,19 +218,19 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Orc Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Warg] - 10 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -251,17 +247,17 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Riding Dagger
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Warg: 10 points
-- Shield: 5 points
+- [Warg] - 10 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -272,7 +268,6 @@ Whenever an enemy Hero model in base contact resolves a strike against Sharku an
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SNAGA [50 POINTS]
@@ -284,12 +279,12 @@ Whenever an enemy Hero model in base contact resolves a strike against Sharku an
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
@@ -304,7 +299,6 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRYDAN WOLFSBANE [85 POINTS]
@@ -316,22 +310,22 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 **WARGEAR**
 
-- Armour
-- sword
-- two-handed axe
+- [Armour]
+- [Sword]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Mighty Blow
+- [Mighty Blow]
 
 - **Lord of Dunland** `ACTIVE`
 
@@ -340,7 +334,6 @@ The range of Thrydan's Stand Fast! is 12".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### UGLUK [65 POINTS]
@@ -352,14 +345,14 @@ The range of Thrydan's Stand Fast! is 12".
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -370,7 +363,6 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI CAPTAIN [60 POINTS]
@@ -382,19 +374,19 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Crossbow: 5 points
-- Shield: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- [Crossbow] - 5 points
+- [Shield] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -411,19 +403,19 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Uruk-Hai Bow: 5 points
-- Shield: 5 points
-- Two-Handed Weapon: 5 points
-- Swap Weapon: 5 points
+- Uruk-Hai [Bow] - 5 points
+- [Shield] - 5 points
+- [Two-handed Weapon] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -440,18 +432,18 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 **WARGEAR**
 
-- Armour
-- sword
-- crossbow
+- [Armour]
+- [Sword]
+- [Crossbow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic March
+- [Heroic Accuracy]
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Expert Shot
+- [Expert Shot]
 
 </div>
 
@@ -468,16 +460,16 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Fearless
-- Hatred (Rohan)
+- [Fearless]
+- [Hatred] (Rohan)
 
 - **We will die for Saruman** `PASSIVE`
 
@@ -485,12 +477,11 @@ All Wild Men of Dunland included in the same army as the Oathmaker gain the Isen
 
 - **Bloodoath** `PASSIVE`
 
-Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless special rule.
+Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI SHAMAN [50 POINTS]
@@ -502,23 +493,23 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless specia
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Isengard Uruk-hai) | 6" | 3+ |
-| Transfix | 12" | 5+ |
+| [Fury] (Isengard Uruk-hai) | 6" | 3+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Armour: 5 points
+- Swap Weapon - 5 points
+- [Armour] - 5 points
 
 </div>
 
@@ -535,13 +526,13 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless specia
 
 **WARGEAR**
 
-- Armour
-- dagger
-- war drum (Isengard Uruk-Hai)
+- [Armour]
+- [Dagger]
+- [War Drum] (Isengard Uruk-Hai)
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -560,15 +551,15 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the Fearless specia
 
 **WARGEAR**
 
-- Beaks and claws
+- Beaks and Claws
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Keen Sight** `PASSIVE`
 
-Enemy models within 12" of Crebain do not gain the benefit of the Stalk Unseen special rule.
+Enemy models within 12" of Crebain do not gain the benefit of the [Stalk Unseen] special rule.
 
 - **Cloud of Birds** `PASSIVE`
 
@@ -577,7 +568,6 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING HORSEMAN [12 POINTS]
@@ -589,15 +579,15 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 
 **WARGEAR**
 
-- Armour
-- shield
-- Horse
-- axe
-- dagger
+- [Armour]
+- [Shield]
+- [Horse]
+- [Axe]
+- [Dagger]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -608,7 +598,6 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING HUSCARL [11 POINTS]
@@ -620,21 +609,21 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Dunlending War Axe
-- dagger
+- [Dagger]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 - **Dunlending War Axe** `ACTIVE`
 
-Can either be used as a spear or two-handed axe.
+Can either be used as a [spear][Spear] or [two-handed][Two-Handed] [axe][Axe].
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -643,7 +632,6 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING WARRIOR [7 POINTS]
@@ -655,16 +643,16 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 **WARGEAR**
 
-- Armour
-- axe
+- [Armour]
+- [Axe]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Two-Handed Axe: 1 point
-- Swap Axe for Dagger and Bow: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- Two-Handed [Axe] - 1 point
+- Swap [Axe] for [Dagger] and [Bow] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -681,11 +669,11 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 **WARGEAR**
 
-- Two swords
+- Two Swords
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -696,7 +684,6 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISENGARD TROLL [110 POINTS]
@@ -708,20 +695,20 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Swap Shield for War Drum (Isengard Uruk-Hai): 25 points
-- Swap Weapon: 1 point
-- Swap Sword for Spear: 0 points
+- Swap [Shield] for [War Drum] (Isengard Uruk-Hai) - 25 points
+- Swap Weapon - 1 point
+- Swap [Sword] for [Spear] - Free
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -738,17 +725,17 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Armour
-- sword or pick
+- [Armour]
+- [Sword] or [Pick]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-Handed Weapon: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -765,13 +752,13 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 **WARGEAR**
 
-- Berserker blade
+- Berserker Blade
 
 **SPECIAL RULES**
 
 - **Berserker Blade** `ACTIVE`
 
-A hand-and-a-half sword. If using as a two-handed weapon, the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
+A [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -784,7 +771,6 @@ The berserkers Defence is 6 against enemy shooting attacks
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
@@ -796,7 +782,7 @@ The berserkers Defence is 6 against enemy shooting attacks
 
 **OPTIONS**
 
-- Equip additional Flaming Brand: 1 point
+- Equip Additional Flaming Brand - 1 point
 
 **SPECIAL RULES**
 
@@ -819,16 +805,16 @@ See page 178 of Armies of LOTR book.
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Uruk-Hai Bow: 1 point
-- Marauder Upgrade: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- Uruk-Hai [Bow] - 1 point
+- Marauder Upgrade - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -845,16 +831,16 @@ See page 178 of Armies of LOTR book.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Crossbow: 2 points
-- Pike: 1 point
-- Shield: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Crossbow] - 2 points
+- [Pike] - 1 point
+- [Shield] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -871,17 +857,17 @@ See page 178 of Armies of LOTR book.
 
 **WARGEAR**
 
-- Armour
-- sword
-- Warg
+- [Armour]
+- [Sword]
+- [Warg]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc Bow: 1 point
-- Shield: 1 point
-- Throwing Spears: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -898,16 +884,16 @@ See page 178 of Armies of LOTR book.
 
 **WARGEAR**
 
-- Sword or axe
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- Two-Handed Axe: 1 point
-- Swap Weapon: 1 point
+- Two-Handed [Axe] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 </div>
 
@@ -926,12 +912,12 @@ See page 178 of Armies of LOTR book.
 
 **OPTIONS**
 
-- Uruk-Hai Engineer Captain: 50 points
-- Superior Construction: 15 points
-- Additional Crew: 9 points
-- Engineer Captain - Crossbow: 5 points
-- Engineer Captain - Shield: 5 points
-- Engineer Captain - Two-Handed Weapon: 5 points
+- Uruk-Hai Engineer Captain - 50 points
+- Superior Construction - 15 points
+- Additional Crew - 9 points
+- Engineer Captain - [Crossbow] - 5 points
+- Engineer Captain - [Shield] - 5 points
+- Engineer Captain - [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -964,21 +950,21 @@ See page 179 of Armies of LOTR book.
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
 - **A Traitor Within** `PASSIVE`
 
-Grima can be deployed as part of an enemy warband, but moves and fights during the controlling player's turn. Enemy models cannot shoot him, strike blows, or shoot if he is In The Way of the shot. He can be targeted by Magical Powers. This ends if Saruman is slain, Grima voluntarily charges an enemy, or successfully wounds an enemy with his dagger. Grima may choose not to make any strikes if he wins a Duel.
+Grima can be deployed as part of an enemy warband, but moves and fights during the controlling player's turn. Enemy models cannot shoot him, strike blows, or shoot if he is In The Way of the shot. He can be targeted by Magical Powers. This ends if Saruman is slain, Grima voluntarily charges an enemy, or successfully wounds an enemy with his [dagger][Dagger]. Grima may choose not to make any strikes if he wins a Duel.
 
 - **Wormtongue** `PASSIVE`
 

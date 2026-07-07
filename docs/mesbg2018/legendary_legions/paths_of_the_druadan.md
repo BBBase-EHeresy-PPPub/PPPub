@@ -79,4 +79,4 @@
 
 **"Kill Orc-folk"** - Friendly models may re-roll 1s To Wound when making strikes against any Orc, Goblin or Uruk-hai model.
 
-**"Know All Paths"** - If, during the Move phase, models from both sides have declared a Heroic Move and a roll-off is required to see which side's Heroic Move happens first, this force will gain a bonus to that roll. If they would normally win the roll-off on a 4+, they will instead win the roll-off on a 3+. If they would normally win the roll-off on a 1, 2 or 3, they will instead win the roll-off on a 1, 2, 3 or 4.
+**"Know All Paths"** - If, during the Move phase, models from both sides have declared a [Heroic Move] and a roll-off is required to see which side's [Heroic Move] happens first, this force will gain a bonus to that roll. If they would normally win the roll-off on a 4+, they will instead win the roll-off on a 3+. If they would normally win the roll-off on a 1, 2 or 3, they will instead win the roll-off on a 1, 2, 3 or 4.

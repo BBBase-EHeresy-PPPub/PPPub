@@ -4,7 +4,7 @@ This army may include: The King of the Dead; Herald of the Dead; Rider of the De
 
 ## ARMY BONUS
 
-**"The Dead do not suffer the Living to pass"** - The King of the Dead gains the Harbinger of Evil special rule. Additionally, warbands from this army that contain eight or more models, do not need a Hero to be the Captain of the Warband. Instead, one of the Warrior models within the warband takes on the role of the warband's Captain for the purpose of deployment. A Dead of Dunharrow army list is automatically Impossible Allies with any force that doesn't also include Aragorn.
+**"The Dead do not suffer the Living to pass"** - The King of the Dead gains the [Harbinger of Evil] special rule. Additionally, warbands from this army that contain eight or more models, do not need a Hero to be the Captain of the Warband. Instead, one of the Warrior models within the warband takes on the role of the warband's Captain for the purpose of deployment. A Dead of Dunharrow army list is automatically Impossible Allies with any force that doesn't also include Aragorn.
 
 ## HEROES OF THE DEAD OF DUNHARROW
 
@@ -19,18 +19,18 @@ This army may include: The King of the Dead; Herald of the Dead; Rider of the De
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
+- [Heroic March]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Drain Soul** `ACTIVE`
 
@@ -59,23 +59,23 @@ This model may move over water features as normal ground.
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 - Pennant of the Dead
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Shield: 5 points
+- Swap Weapon - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Pennant of the Dead** `PASSIVE`
 
-Friendly Spirit Models within 3" gain Resistant to Magic.
+Friendly Spirit Models within 3" gain [Resistant to Magic].
 
 - **The King's Counsel** `PASSIVE`
 
@@ -100,19 +100,19 @@ This model may move over water features as normal ground.
 
 **WARGEAR**
 
-- Armour
-- sword
-- shield
+- [Armour]
+- [Sword]
+- [Shield]
 - Spectral Steed
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Spectral Walk** `PASSIVE`
 
@@ -133,20 +133,20 @@ This model may move over water features as normal ground.
 
 **WARGEAR**
 
-- Armour
-- sword or axe
+- [Armour]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Swap Weapon: 5 points
-- Shield: 1 point
-- Spear: 1 point
+- [Banner] - 25 points
+- Swap Weapon - 5 points
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Spectral Walk** `PASSIVE`
 
@@ -169,19 +169,19 @@ This model may move over water features as normal ground.
 
 **WARGEAR**
 
-- Armour
-- sword
-- shield
+- [Armour]
+- [Sword]
+- [Shield]
 - Spectral Steed
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Spectral Walk** `PASSIVE`
 
@@ -202,20 +202,20 @@ This model may move over water features as normal ground.
 
 **WARGEAR**
 
-- Armour
-- sword or axe
+- [Armour]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
+- [Blades of the Dead]
+- [Terror]
 
 - **Spectral Walk** `PASSIVE`
 

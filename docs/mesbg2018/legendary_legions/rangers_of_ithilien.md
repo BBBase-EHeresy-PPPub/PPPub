@@ -74,4 +74,4 @@
 
 **"Captured by Gondor"** - Frodo, Sam and Smeagol must either be deployed together as one warband, or included as part of Faramir's warband.
 
-**"Experienced Trackers"** - Rangers of Gondor from this army list gain the Woodland Creature special rule.
+**"Experienced Trackers"** - Rangers of Gondor from this army list gain the [Woodland Creature] special rule.

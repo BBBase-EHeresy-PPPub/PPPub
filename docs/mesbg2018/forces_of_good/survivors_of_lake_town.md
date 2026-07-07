@@ -19,27 +19,27 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 
 **WARGEAR**
 
-- Sword
-- great bow
+- [Sword]
+- Great [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Windlance: 75 points
-- Horse: 10 points
-- Armour: 5 points
+- Windlance - 75 points
+- [Horse] - 10 points
+- [Armour] - 5 points
 
 **SPECIAL RULES**
 
 - **Rapid Fire** `ACTIVE`
 
-If his great bow hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
+If his great [bow][Bow] hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
 
 - **The Black Arrow** `ACTIVE`
 
@@ -47,7 +47,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
+Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner][Banner].
 
 </div>
 
@@ -64,32 +64,32 @@ Bard's Stand Fast! has range of 6". Additionally Bain, Percy, Hilda, Lake-town M
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 4+ |
-| Protection of the Valar | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Collapse Rocks | 6" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Blinding Light] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 12" | 4+ |
+| [Protection of the Valar] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Collapse Rocks] | 6" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -122,14 +122,14 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Mithril Coat** `PASSIVE`
 
@@ -137,11 +137,11 @@ Bilbo has +3 Defence value included in his profile.
 
 - **Sting** `ACTIVE`
 
-Elven-made dagger, add +1 Strength when making Strikes.
+[Elven-made] [dagger][Dagger], add +1 Strength when making Strikes.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of the One Ring's rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
+Bilbo ignores Sauron's Will section of [the One Ring][The One Ring]'s rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
 
 </div>
 
@@ -158,11 +158,11 @@ Bilbo ignores Sauron's Will section of the One Ring's rules. If Bilbo is the las
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -185,18 +185,18 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 
 **WARGEAR**
 
-- Armour
-- pick
-- spear
+- [Armour]
+- [Pick]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Shield: 5 points
+- Swap Weapon - 5 points
+- [Shield] - 5 points
 
 </div>
 
@@ -213,18 +213,18 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 
 **WARGEAR**
 
-- Sword
-- bow
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
 - **Archers, This Way!** `PASSIVE`
 
-Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a bow.
+Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a [bow][Bow].
 
 </div>
 
@@ -241,11 +241,11 @@ Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, 
 
 **WARGEAR**
 
-- Sword
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
@@ -268,7 +268,7 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -293,15 +293,15 @@ Alfrid may spend any number of Will points at the start of the Priority phase. F
 
 **WARGEAR**
 
-- Armour
-- sword or axe
+- [Armour]
+- [Sword] or [Axe]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -326,7 +326,7 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is i
 
 - **Da! Down Here!** `PASSIVE`
 
-Bard and Bain gain +1 Fight if they are within 6" of Sigrid or Tilda. If Bard or Bain are within 6" of both girls, then Bard and/or Bain also gain a free Heroic Combat each turn.
+Bard and Bain gain +1 Fight if they are within 6" of Sigrid or Tilda. If Bard or Bain are within 6" of both girls, then Bard and/or Bain also gain a free [Heroic Combat] each turn.
 
 - **Something to Fight for** `PASSIVE`
 

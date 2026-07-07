@@ -50,6 +50,6 @@
 
 **"Surprise Attack"** - Once per game, before Priority is determined, so long as he is alive and on the battlefield, Azog can declare that he is using this ability. If he does so, do not roll for Priority. Instead, Azog's controlling player will automatically win the Priority roll. Additionally, enemy models may not declare Heroic Moves in the following Move phase.
 
-**"Magical Void"** - Friendly models gain the Resistant to Magic special rule.
+**"Magical Void"** - Friendly models gain the [Resistant to Magic] special rule.
 
-**"Fury of the Pale Orc"** - Azog may declare a Heroic Combat each turn without spending Might.
+**"Fury of the Pale Orc"** - Azog may declare a [Heroic Combat] each turn without spending Might.

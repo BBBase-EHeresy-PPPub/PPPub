@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Moria Blackshield Captain; Moria Goblin Captain; Cave Drake; Moria Blackshield Shaman; Moria Goblin Shaman; The Watcher in the Water; Bat Swarm; Cave Troll; Dweller in the Dark; Giant Spider; Moria Blackshield; Moria Blackshield Drummers; Moria Goblin Drum; Moria Goblin Prowler; Moria Goblin Warrior; Warg Marauder; Wild Warg.
+This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Moria Blackshield Captain; Moria Goblin Captain; Cave Drake; Moria Blackshield Shaman; Moria Goblin Shaman; The Watcher in the Water; Bat Swarm; Cave Troll; Dweller in the Dark; Giant Spider; Moria Blackshield; Moria Blackshield Drummers; Moria Goblin Drum; Moria Goblin Prowler; Moria Goblin Warrior; [Warg] Marauder; Wild [Warg].
 
 ## ARMY BONUS
 
@@ -19,15 +19,15 @@ This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Mo
 
 **WARGEAR**
 
-- Giant flaming sword
-- Fiery lash
+- Giant Flaming [Sword]
+- Fiery Lash
 
 **SPECIAL RULES**
 
-- Ancient Evil
-- Fearless
-- Resistant to Magic
-- Terror
+- [Ancient Evil]
+- [Fearless]
+- [Resistant to Magic]
+- [Terror]
 
 - **Fiery Lash** `ACTIVE`
 
@@ -39,11 +39,11 @@ Moria Goblins within 12" automatically pass Courage tests.
 
 - **Flame of Udun** `PASSIVE`
 
-If an enemy is Wounded, roll D6. On 6, the model is Set Ablaze.
+If an enemy is Wounded, roll D6. On 6, the model is [Set Ablaze].
 
 - **Demon of the Ancient World** `PASSIVE`
 
-May call a free Heroic Combat each turn.
+May call a free [Heroic Combat] each turn.
 
 </div>
 
@@ -60,36 +60,36 @@ May call a free Heroic Combat each turn.
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
+| [Transfix] | 12" | 3+ |
+| [Compel] | 12" | 4+ |
 
 **OPTIONS**
 
-- Breathe Fire: 50 points
-- Fly: 50 points
-- Tough Hide: 50 points
-- Wyrmtongue: 50 points
+- Breathe Fire - 50 points
+- Fly - 50 points
+- Tough Hide - 50 points
+- Wyrmtongue - 50 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Monstrous Charge
-- Resistant to Magic
-- Survival Instinct
-- Terror
+- [Harbinger of Evil]
+- [Monstrous Charge]
+- [Resistant to Magic]
+- [Survival Instinct]
+- [Terror]
 
 </div>
 
@@ -106,18 +106,18 @@ May call a free Heroic Combat each turn.
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Iron Fist** `ACTIVE`
 
@@ -138,23 +138,23 @@ Durburz's Stand Fast! has a range of 12"
 
 **WARGEAR**
 
-- Armour
-- two-handed staff
+- [Armour]
+- Two-handed [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Spider) | - | 3+ |
-| Shroud of Shadows | 12" | 4+ |
+| [Fury] (Spider) | - | 3+ |
+| [Shroud of Shadows] | 12" | 4+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Death-touch** `PASSIVE`
 
@@ -183,28 +183,28 @@ Only Spider models may benefit from Ashrak's Stand Fast!, Heroic Actions, and Sh
 
 **WARGEAR**
 
-- Armour
-- dagger
-- staff
+- [Armour]
+- [Dagger]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Enrage Beast | 12" | 3+ |
-| Fury (Bat, Warg, Spider) | - | 3+ |
+| [Enrage Beast] | 12" | 3+ |
+| [Fury] (Bat, Warg, Spider) | - | 3+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Master of the Dark Wild** `PASSIVE`
 
-Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his warband. All friendly Bat, Warg and Spider models within 12" may use Druzhag's Courage value instead of their own. Additionally, his Fury power will affect himself and any model that is a Bat, Warg or Spider.
+Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his warband. All friendly Bat, [Warg] and Spider models within 12" may use Druzhag's Courage value instead of their own. Additionally, his Fury power will affect himself and any model that is a Bat, [Warg] or Spider.
 
 </div>
 
@@ -221,18 +221,18 @@ Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his 
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 - Mithril Crown
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Mithril Crown** `PASSIVE`
 
@@ -253,21 +253,21 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed sword
+- [Heavy Armour]
+- Two-handed [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 </div>
 
@@ -284,22 +284,22 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Orc Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- Orc [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -316,23 +316,23 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Monstrous Charge
-- Mountain Dweller
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Monstrous Charge]
+- [Mountain Dweller]
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 
 - **Protect the Nest** `ACTIVE`
 
-At the start of the game, place a 25mm Nest marker. Whilst within 3" of the Nest, Cave Drake gains the Fearless special rule.
+At the start of the game, place a 25mm Nest marker. Whilst within 3" of the Nest, Cave Drake gains the [Fearless] special rule.
 
 - **Gaping Maw** `BRUTAL POWER ATTACK`
 
@@ -353,23 +353,23 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 
 **WARGEAR**
 
-- Armour
-- staff
+- [Armour]
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Shatter | 12" | 3+ |
-| Tremor | 6" | 5+ |
+| [Shatter] | 12" | 3+ |
+| [Tremor] | 6" | 5+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -386,23 +386,23 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Moria Goblin) | - | 3+ |
-| Transfix | 12" | 5+ |
+| [Fury] (Moria Goblin) | - | 3+ |
+| [Transfix] | 12" | 5+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -423,13 +423,13 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Harbinger of Evil
-- Resistant to Magic
-- Terror
+- [Harbinger of Evil]
+- [Resistant to Magic]
+- [Terror]
 
 - **From the Deep** `ACTIVE`
 
@@ -445,7 +445,7 @@ The Watcher can make D6 shooting attacks, range 6" and S3, with no In The Way te
 
 - **Water Dweller** `PASSIVE`
 
-Whilst within water, The Watcher's Move distance is doubled, and gains the Monstrous Charge special rule.
+Whilst within water, The Watcher's Move distance is doubled, and gains the [Monstrous Charge] special rule.
 
 - **Gaping Maw** `BRUTAL POWER ATTACK`
 
@@ -468,11 +468,11 @@ Whilst within water, The Watcher can choose a single Man-sized (or smaller) mode
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Blinding Swarm** `PASSIVE`
 
@@ -493,23 +493,23 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **OPTIONS**
 
-- Troll Chain: 5 points
-- Swap Spear for Hammer: 5 points
-- Swap Weapon: 1 point
+- Troll Chain - 5 points
+- Swap [Spear] for [Hammer] - 5 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Burly
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Burly]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Troll Chain** `ACTIVE`
 
-A throwing weapon with range 3" and Strength 5.
+A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 </div>
 
@@ -526,12 +526,12 @@ A throwing weapon with range 3" and Strength 5.
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Terror
+- [Resistant to Magic]
+- [Terror]
 
 - **Murderous Power** `ACTIVE`
 
@@ -552,17 +552,17 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **OPTIONS**
 
-- Venom-back Spider: 2 points
+- Venom-back Spider - 2 points
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 </div>
 
@@ -579,19 +579,19 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 </div>
 
@@ -608,18 +608,18 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 
 **WARGEAR**
 
-- Heavy armour
-- clubs
-- one drum
+- [Heavy Armour]
+- Clubs
+- One Drum
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 - **Take up the Drum** `PASSIVE`
 
@@ -648,7 +648,7 @@ Drum effects found on page 161 of Armies of LOTR book.
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -679,18 +679,18 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 **WARGEAR**
 
-- Armour
-- two-handed axe
-- throwing daggers
+- [Armour]
+- Two-handed [Axe]
+- Throwing Daggers
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Backstabbers
+- [Cave Dweller]
+- [Backstabbers]
 
 </div>
 
@@ -707,19 +707,19 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- Orc Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -736,21 +736,21 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Lethal Union** `PASSIVE`
 
-Whilst Goblins remain mounted, entire model gains Terror, and +1 Courage. In combat, the model makes +1 Attack for each Goblin still mounted after the first, as long as they didn't shoot.
+Whilst Goblins remain mounted, entire model gains [Terror], and +1 Courage. In combat, the model makes +1 Attack for each Goblin still mounted after the first, as long as they didn't shoot.
 
 - **On the Hunt** `ACTIVE`
 
-Goblins mounted with Orc bows can still fire even after the Warg Marauder has moved its full distance.
+Goblins mounted with Orc bows can still fire even after the [Warg] Marauder has moved its full distance.
 
 </div>
 
@@ -767,6 +767,6 @@ Goblins mounted with Orc bows can still fire even after the Warg Marauder has mo
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 </div>

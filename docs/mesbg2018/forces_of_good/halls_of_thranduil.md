@@ -19,30 +19,30 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **WARGEAR**
 
-- Elven-made sword
-- Elven Cloak
+- Elven-made [Sword]
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Additional Elven-made Sword: 30 points
-- Circlet of Kings: 25 points
-- Elk: 20 points
-- Heavy Armour: 10 points
-- Horse: 10 points
-- Elf Bow: 5 points
+- Additional Elven-made [Sword] - 30 points
+- Circlet of Kings - 25 points
+- Elk - 20 points
+- [Heavy Armour] - 10 points
+- [Horse] - 10 points
+- Elf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Expert Rider
-- Fleetfoot
+- [Woodland Creature]
+- [Expert Rider]
+- [Fleetfoot]
 
 - **Circlet of Kings** `ACTIVE`
 
@@ -71,24 +71,24 @@ If he has Infantry keyword, gain +1 Attack. Receive additional attack for each e
 
 **WARGEAR**
 
-- Armour
-- Elf bow
-- Elven-made daggers
+- [Armour]
+- Elf [Bow]
+- Elven-made Daggers
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Orcrist: 10 points
-- Elven Cloak: 5 points
+- [Horse] - 10 points
+- Orcrist - 10 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Dead Shot** `ACTIVE`
 
@@ -96,7 +96,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 - **Orcrist** `ACTIVE`
 
-Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 </div>
 
@@ -113,24 +113,24 @@ Elven-made hand-and-a-half sword with Orc bane, Goblin bane and Uruk-hai bane, T
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made glaive
+- [Heavy Armour]
+- Elven-made Glaive
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a spear or hand-and-a-half sword. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -147,21 +147,21 @@ A glaive can be used as either a spear or hand-and-a-half sword. Alternatively t
 
 **WARGEAR**
 
-- Elf bow
-- Elven-made daggers
-- Elven cloak
+- Elf [Bow]
+- Elven-made Daggers
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Knife Fighters** `ACTIVE`
 
@@ -182,22 +182,22 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Swap Weapon: 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Woodland Creature
+- [Bodyguard]
+- [Woodland Creature]
 
 - **King's Guard** `PASSIVE`
 
@@ -218,22 +218,22 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 
 **WARGEAR**
 
-- Armour
-- Elven cloak
-- Elven-made daggers
+- [Armour]
+- [Elven Cloak]
+- Elven-made Daggers
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elf Bow: 5 points
+- Elf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Blade Mistress** `ACTIVE`
 
@@ -260,24 +260,24 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
-- Horse
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
+- [Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Swap Weapon: 1 point
-- Shield: 1 point
+- [Banner] - 25 points
+- Swap Weapon - 1 point
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 - **King's Knights** `PASSIVE`
 
-Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are within 6" of Thranduil.
+Whilst mounted, Mirkwood Cavalry count as being in range of a [banner][Banner] if they are within 6" of Thranduil.
 
 </div>
 
@@ -294,24 +294,24 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf Bow: 2 points
-- Elven-made Glaive: 2 points
-- Swap Weapon: 1 point
-- Shield: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- Elven-made Glaive - 2 points
+- Swap Weapon - 1 point
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a spear or hand-and-a-half sword. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -328,18 +328,18 @@ A glaive can be used as either a spear or hand-and-a-half sword. Alternatively t
 
 **WARGEAR**
 
-- Elf bow
-- Elven-made daggers
-- Elven cloak
+- Elf [Bow]
+- Elven-made Daggers
+- [Elven Cloak]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Knife Fighters** `ACTIVE`
 
@@ -360,21 +360,21 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 
 **WARGEAR**
 
-- Heavy armour
-- Elven-made hand-and-a-half sword
+- [Heavy Armour]
+- Elven-made Hand-and-a-half [Sword]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Woodland Creature
+- [Bodyguard]
+- [Woodland Creature]
 
 - **King's Guard** `PASSIVE`
 
@@ -395,17 +395,17 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 
 **WARGEAR**
 
-- Elven-made sword
-- Elf bow
-- Elven Cloak
+- Elven-made [Sword]
+- Elf [Bow]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Enchanting Song** `ACTIVE`
 
@@ -421,6 +421,6 @@ Target enemy model must take a Courage test. If failed, you can move the model i
 
 - **The Lay of Gondolin (Song)**
 
-Sentinel gains Terror for rest of the turn.
+Sentinel gains [Terror] for rest of the turn.
 
 </div>

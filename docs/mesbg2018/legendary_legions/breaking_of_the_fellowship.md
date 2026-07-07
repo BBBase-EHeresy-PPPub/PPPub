@@ -41,7 +41,7 @@
 
 ## SPECIAL RULES
 
-**"You have my sword."** - As long as Frodo is alive and on the table (or escapes the board in Scenarios where this applies), all models from The Fellowship army list gain the Fearless special rule. Additionally, a force that consists solely of models from The Fellowship army list will never be considered broken if Frodo is alive and on the table (or escapes the board in Scenarios where this applies).
+**"You have my sword."** - As long as Frodo is alive and on the table (or escapes the board in Scenarios where this applies), all models from The Fellowship army list gain the [Fearless] special rule. Additionally, a force that consists solely of models from The Fellowship army list will never be considered broken if Frodo is alive and on the table (or escapes the board in Scenarios where this applies).
 
 **"The Bond of Fellowship"** - Models from this Legendary Legion count as in range of a banner if there is another friendly model within 3".
 
@@ -61,4 +61,4 @@ Legolas - Bow of the Galadhrim: Whilst within 3" of a friendly model, Legolas ma
 
 Gimli - Galadriel's Locks: Gimli may re-roll all dice in a Duel roll. Gimli may only use this ability three times per game.
 
-Boromir - Golden Belt: Boromir gains the Woodland Creature special rule.
+Boromir - Golden Belt: Boromir gains the [Woodland Creature] special rule.

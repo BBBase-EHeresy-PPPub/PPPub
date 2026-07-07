@@ -78,7 +78,7 @@
 
 ## SPECIAL RULES
 
-**"Fear! Fire! Foes!"** - Friendly Hobbit models gain the Woodland Creature special rule.
+**"Fear! Fire! Foes!"** - Friendly Hobbit models gain the [Woodland Creature] special rule.
 
 **"Heroes of the Shire"** - Friendly Hobbit Hero models may benefit from the Stand Fast! of Merry.
 

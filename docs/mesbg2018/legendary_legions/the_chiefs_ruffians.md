@@ -42,7 +42,7 @@
 
 **"You do what Sharkey says!"** - Sharkey's Stand Fast! affects the entire battlefield.
 
- Sharkey's Wrath - Sharkey gains the Hatred (Hobbit) special rule.
+ Sharkey's Wrath - Sharkey gains the [Hatred] (Hobbit) special rule.
 
 **"The Chief's Whips"** - Ruffian models gain +1 to hit when using a whip.
 

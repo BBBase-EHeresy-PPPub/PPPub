@@ -37,6 +37,6 @@
 
 ## SPECIAL RULES
 
-**"A Worthy Foe"** - Lurtz may declare a Heroic Challenge against any Hero model regardless of Heroic Tier. Additionally, if Lurtz declares a Heroic Challenge, and the targetted Hero declines then Lurtz regains the Might point spent in declaring the Heroic Challenge.
+**"A Worthy Foe"** - Lurtz may declare a [Heroic Challenge] against any Hero model regardless of Heroic Tier. Additionally, if Lurtz declares a [Heroic Challenge], and the targetted Hero declines then Lurtz regains the Might point spent in declaring the [Heroic Challenge].
 
 **"Relentless March"** - If your army includes Mauhúr then any Uruk-hai Scouts in your force may be upgraded to Mauhúr's Marauders rather than just the ones in Mauhúr's warband - this upgrade is free rather than costing 1 point per model. Additionally, Lurtz, Uglúk, Uruk-hai Scout Captains and Uruk-hai Drummers increase their Move value to 8".

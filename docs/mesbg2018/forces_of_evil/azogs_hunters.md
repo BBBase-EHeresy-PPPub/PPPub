@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug; Yazneg; Fell Warg; Hunter Orc.
+This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug; Yazneg; [Fell Warg]; Hunter Orc.
 
 ## ARMY BONUS
 
@@ -19,27 +19,27 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 
 **WARGEAR**
 
-- Sword
-- mace
+- [Sword]
+- [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- The White Warg: 50 points
+- The White [Warg] - 50 points
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 - **Stone flail** `ACTIVE`
 
-Two-handed flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][Two-Handed] flail, but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
@@ -52,7 +52,6 @@ Never requires more than 3+ for To Wound against Hero models.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
@@ -64,30 +63,30 @@ Never requires more than 3+ for To Wound against Hero models.
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed pick
+- [Heavy Armour]
+- Two-handed [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
-- Orc Bow: 5 points
+- [Fell Warg] - 10 points
+- Orc [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Burly
-- Ancient Enemies (Dwarf)
-- Ancient Enemies (Elf)
+- [Burly]
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
 
 - **The Bringer of Death** `ACTIVE`
 
-After Bolg has killed two enemy models, he causes Terror. After five or more kills, he gains the Harbinger of Evil special rule. After ten or more kill, he gains the Mighty Hero special rule.
+After Bolg has killed two enemy models, he causes [Terror]. After five or more kills, he gains the [Harbinger of Evil] special rule. After ten or more kill, he gains the [Mighty Hero] special rule.
 
 - **Morgul Arrows** `PASSIVE`
 
@@ -96,7 +95,6 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FIMBUL THE HUNTER [50 POINTS]
@@ -108,17 +106,17 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 **WARGEAR**
 
-- Armour
-- sword
-- Orc bow
+- [Armour]
+- [Sword]
+- Orc [Bow]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Hunt Master** `ACTIVE`
 
@@ -127,7 +125,6 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HUNTER ORC CAPTAIN [45 POINTS]
@@ -139,19 +136,19 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
-- Orc Bow: 5 points
-- Two-Handed Pick: 5 points
-- Swap Weapon: 5 points
+- [Fell Warg] - 10 points
+- Orc [Bow] - 5 points
+- Two-Handed [Pick] - 5 points
+- Swap Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -162,7 +159,6 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NARZUG [50 POINTS]
@@ -174,25 +170,25 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 **WARGEAR**
 
-- Armour
-- sword
-- Orc bow
+- [Armour]
+- [Sword]
+- Orc [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
+- [Fell Warg] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Lethal Aim** `ACTIVE`
 
-Each turn, Narzug gets a free point of Might (even with no Might remaining) to modify either a To Hit, In The Way, or To Wound roll when shooting with his Orc bow.
+Each turn, Narzug gets a free point of Might (even with no Might remaining) to modify either a To Hit, In The Way, or To Wound roll when shooting with his Orc [bow][Bow].
 
 - **Morgul Arrows** `PASSIVE`
 
@@ -201,7 +197,6 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YAZNEG [45 POINTS]
@@ -213,21 +208,21 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 **WARGEAR**
 
-- Armour
-- two-handed axe
+- [Armour]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Fell Warg: 10 points
-- Lance: 5 points
+- [Fell Warg] - 10 points
+- [Lance] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **The Price of Failure** `PASSIVE`
 
@@ -238,7 +233,6 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 ---
 
 ## WARRIORS OF AZOG'S HUNTERS
-
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
@@ -250,11 +244,11 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 
@@ -271,17 +265,17 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 
 **WARGEAR**
 
-- Armour
-- two swords
+- [Armour]
+- Two Swords
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Fell Warg: 8 points
-- Orc Bow: 1 point
-- Two-Handed Pick: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- [Fell Warg] - 8 points
+- Orc [Bow] - 1 point
+- Two-Handed [Pick] - 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 

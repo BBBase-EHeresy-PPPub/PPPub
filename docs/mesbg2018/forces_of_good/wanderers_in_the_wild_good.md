@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatleaf; Goldberry; Thrain the Broken (Good); Tom Bombadil; Beorning; Bill the Pony.
+This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatleaf; Goldberry; Thrain the Broken (Good); Tom Bombadil; Beorning; Bill the [Pony].
 
 ## HEROES OF WANDERERS IN THE WILD (GOOD)
 
@@ -15,21 +15,21 @@ This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatle
 
 **WARGEAR**
 
-- Hand-and-a-half axe
-- great bow
+- Hand-and-a-half [Axe]
+- Great [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
-- Resistant to Magic
-- Woodland Creature
+- [Burly]
+- [Fearless]
+- [Resistant to Magic]
+- [Woodland Creature]
 
 - **Skin-changer** `ACTIVE`
 
@@ -42,7 +42,6 @@ Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or Stan
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MURIN & DRAR [140 POINTS]
@@ -67,18 +66,18 @@ Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or Stan
 
 **WARGEAR**
 
-- Cudgel (club)
+- Cudgel ([Club])
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Bill the Pony** `PASSIVE`
 
-May include Bill the Pony as part of Barliman's warband, even if your force doesn't include Sam, for a cost of 10 points. Barliman may benefit from Bill's Official Meals and Second Breakfast rules.
+May include Bill the [Pony] as part of Barliman's warband, even if your force doesn't include Sam, for a cost of 10 points. Barliman may benefit from Bill's Official Meals and Second Breakfast rules.
 
 - **Barliman Butterbur, At Your Service** `ACTIVE`
 
@@ -87,7 +86,6 @@ During his Move, if Barliman Butterbur is in base contact with a friendly Hero, 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARRY GOATLEAF [40 POINTS]
@@ -99,12 +97,12 @@ During his Move, if Barliman Butterbur is in base contact with a friendly Hero, 
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 - Lantern
 
 **SPECIAL RULES**
 
-- Hatred (Hobbit)
+- [Hatred] (Hobbit)
 
 - **Lantern** `PASSIVE`
 
@@ -117,7 +115,6 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOLDBERRY [140 POINTS]
@@ -129,13 +126,13 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Refreshing Song | 3" | 2+ |
+| [Refreshing Song] | 3" | 2+ |
 
 **SPECIAL RULES**
 
@@ -150,7 +147,6 @@ Goldberry loses a point of Will at the end of any turn where she participated in
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRAIN THE BROKEN (GOOD) [10 POINTS]
@@ -162,7 +158,7 @@ Goldberry loses a point of Will at the end of any turn where she participated in
 
 **WARGEAR**
 
-- Dagger
+- [Dagger]
 
 **SPECIAL RULES**
 
@@ -173,7 +169,6 @@ At the start of every Priority phase before rolling, Thrain must take an unmodif
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### TOM BOMBADIL [160 POINTS]
@@ -185,14 +180,14 @@ At the start of every Priority phase before rolling, Thrain must take an unmodif
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Refreshing Song | 3" | 2+ |
-| Banishment | 6" | 3+ |
+| [Refreshing Song] | 3" | 2+ |
+| [Banishment] | 6" | 3+ |
 
 **SPECIAL RULES**
 
@@ -209,7 +204,6 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 ---
 
 ## WARRIORS OF WANDERERS IN THE WILD (GOOD)
-
 <div class="unitCard" markdown>
 
 ### BEORNING [20 POINTS]
@@ -221,27 +215,26 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 **WARGEAR**
 
-- Hand-and-a-half axe
-- axe
+- Hand-and-a-half [Axe]
+- [Axe]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
-- Swap Axe for Great Bow: 0 points
+- Swap Weapon - 1 point
+- Swap [Axe] for Great [Bow] - Free
 
 **SPECIAL RULES**
 
-- Burly
-- Woodland Creature
+- [Burly]
+- [Woodland Creature]
 
 - **Followers of the Bear** `PASSIVE`
 
-This model counts as being in range of a banner if they are within 6" of a friendly Bear model.
+This model counts as being in range of a [banner][Banner] if they are within 6" of a friendly Bear model.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILL THE PONY [10 POINTS]
@@ -253,13 +246,13 @@ This model counts as being in range of a banner if they are within 6" of a frien
 
 **WARGEAR**
 
-- Iron-shod hooves
+- Iron-shod Hooves
 
 **SPECIAL RULES**
 
 - **Official Meals** `PASSIVE`
 
-Hobbit models treat Bill the Pony as a banner.
+Hobbit models treat Bill the [Pony] as a [banner][Banner].
 
 - **Second Breakfast** `PASSIVE`
 

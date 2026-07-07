@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mirkwood Spider; Bat Swarm; Fell Warg; Giant Spider; Mirkwood Spider.
+This army may include: The Spider Queen; Bat Swarm; [Fell Warg]; Giant Spider; Mirkwood Spider; Bat Swarm; [Fell Warg]; Giant Spider; Mirkwood Spider.
 
 ## ARMY BONUS
 
@@ -19,19 +19,19 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 
 **WARGEAR**
 
-- Large venomous fangs
+- Large Venomous Fangs
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Monstrous Charge
-- Swift Movement
-- Terror
-- Venom
+- [Monstrous Charge]
+- [Swift Movement]
+- [Terror]
+- [Venom]
 
 - **Progeny** `ACTIVE`
 
@@ -52,11 +52,11 @@ During any point of her Move phase, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Blinding Swarm** `PASSIVE`
 
@@ -77,11 +77,11 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 
@@ -98,13 +98,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 </div>
 
@@ -121,13 +121,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 - **Spider Webs** `ACTIVE`
 
@@ -150,11 +150,11 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Blinding Swarm** `PASSIVE`
 
@@ -175,11 +175,11 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and teeth
+- Claws and Teeth
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 
@@ -196,13 +196,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 </div>
 
@@ -219,13 +219,13 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous fangs
+- Venomous Fangs
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
-- Swift Movement
-- Terror
+- [Swift Movement]
+- [Terror]
 
 - **Spider Webs** `ACTIVE`
 

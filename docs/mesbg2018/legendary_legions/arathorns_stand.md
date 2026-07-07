@@ -29,7 +29,7 @@
 
 **"They're dangerous folk, wandering the wilds"** - Rangers of the North and Dunedain from this Legendary Legion may benefit from Arathorn and Halbarad's Stand Fast! Additionally, Rangers of the North and Dunedain from this Legendary Legion increase their Attack value to 2 while they have the Infantry keyword.
 
-**"Masters of Terrain"** - Friendly models gain the Woodland Creature and Mountain Dweller special rules.
+**"Masters of Terrain"** - Friendly models gain the [Woodland Creature] and [Mountain Dweller] special rules.
 
 **"Heir of Isildur"** - Whenever Arathorn expends a Might point, roll a D6. On a 4+, the point of Might is free and does not reduce Arathorn's store of Might.
 

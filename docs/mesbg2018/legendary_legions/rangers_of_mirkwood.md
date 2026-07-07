@@ -38,7 +38,7 @@
 
 **"Knife Fighters"** - Mirkwood Rangers receive an additional Attack for each enemy model they are Engaged in combat with after the first (to a maximum of 3 bonus Attacks). This bonus is determined at the start of each fight, and lasts until all Strikes from that fight have been resolved.
 
-**"Clear the Nests"** - Friendly models gain the Hatred (Spider) special rule.
+**"Clear the Nests"** - Friendly models gain the [Hatred] (Spider) special rule.
 
 **"Masters of the Forest"** - Whenever a friendly model that is within 1" of a tree or within a piece of woodland terrain suffers a Wound, roll a D6. On the roll of a natural 6 that Wound is ignored exactly as if a point of Fate had been spent.
 

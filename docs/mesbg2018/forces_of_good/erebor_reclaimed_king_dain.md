@@ -21,22 +21,22 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 **WARGEAR**
 
-- Heavy Dwarf armour, Barazantathul
+- [Heavy Dwarf Armour], Barazantathul
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Barazantathul** `ACTIVE`
 
-Master-forged hand-and-a-half axe.
+[Master-forged][Master-Forged] [hand-and-a-half][Hand-And-A-Half] [axe][Axe].
 
 - **King Under the Mountain** `ACTIVE`
 
@@ -44,7 +44,7 @@ Friendly Erebor Dwarf models, including Hero models, benefit from Dain's Stand F
 
 - **Venerable** `PASSIVE`
 
-Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and pick the lowest result.
+Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick][Pick] the lowest result.
 
 </div>
 
@@ -61,28 +61,28 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and pick t
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two axes
-- two-handed axe
+- [Heavy Dwarf Armour]
+- Two Axes
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Burly]
+- [Fearless]
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be unarmed, and never suffers the -1 penalty in Duel rolls for fighting with a two-handed weapon.
+Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
 
 - **The King's Axeman** `ACTIVE`
 
-Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an axe in each hand for 4 Attacks, or his two-handed axe for 3 Attacks.
+Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe][Axe] in each hand for 4 Attacks, or his [two-handed][Two-Handed] [axe][Axe] for 3 Attacks.
 
 </div>
 
@@ -99,15 +99,15 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand-and-a-half pick
+- [Heavy Armour]
+- [Shield]
+- Hand-and-a-half [Pick]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -130,21 +130,21 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand-and-a-half axe
+- [Heavy Dwarf Armour]
+- Hand-and-a-half [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Throw Stones (range 8", Strength 1)
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Throw Stones] (range 8", Strength 1)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Embedded Axe-blade** `ACTIVE`
 
-If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free Heroic Move each turn.
+If Bifur wins a fight, he may make a single Strike against his opponent. If he wounds them, the axe-blade is his skull is removed, and he may now call a free [Heroic Move] each turn.
 
 </div>
 
@@ -161,16 +161,16 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 **WARGEAR**
 
-- Heavy Dwarf armour, hand-and-a-half hammer
+- [Heavy Dwarf Armour], Hand-and-a-half [Hammer]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Steadfast** `PASSIVE`
 
@@ -191,17 +191,17 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed mace
+- [Heavy Dwarf Armour]
+- Two-handed [Mace]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **A Good Sort Really** `PASSIVE`
 
@@ -209,7 +209,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - **Weapon Master** `ACTIVE`
 
-Dori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -226,17 +226,17 @@ Dori is never considered unarmed, and does not suffer the -1 penalty during Duel
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed axe
+- [Heavy Dwarf Armour]
+- Two-handed [Axe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **A Warrior Born** `ACTIVE`
 
@@ -244,7 +244,7 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 - **Weapon Master** `ACTIVE`
 
-Gloin is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -261,25 +261,25 @@ Gloin is never considered unarmed, and does not suffer the -1 penalty during Due
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- war spear
-- sword
-- shield
+- [Heavy Dwarf Armour]
+- [War Spear]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- War Goat: 10 points
-- Swap Weapon: 5 points
-- Swap War Spear and Shield for Mattock: 0 points
+- War Goat - 10 points
+- Swap Weapon - 5 points
+- Swap [War Spear] and [Shield] for Mattock - Free
 
 **SPECIAL RULES**
 
-- Master of Battle (5+)
-- Shieldwall
+- [Master of Battle] (5+)
+- [Shieldwall]
 
 </div>
 
@@ -296,22 +296,22 @@ Gloin is never considered unarmed, and does not suffer the -1 penalty during Due
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- mace
-- shield
+- [Heavy Dwarf Armour]
+- [Mace]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin Oakenshield, King Under the Mountain)
+- [Sworn Protector] (Thorin Oakenshield, King Under the Mountain)
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered unarmed, and does not suffer the -1 penalty during Duel rolls when using a two-handed weapon.
+Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 - **Weapon Synergy** `ACTIVE`
 
@@ -334,25 +334,25 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Spear: 1 point
-- Swap Shield for Crossbow: 1 point
-- Swap Weapon: 1 point
-- Swap Shield for Mattock: 0 points
+- [Banner] - 25 points
+- [Spear] - 1 point
+- Swap [Shield] for [Crossbow] - 1 point
+- Swap Weapon - 1 point
+- Swap [Shield] for Mattock - Free
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -369,21 +369,21 @@ Two-handed weapon that can use either the Bash or Piercing Strike Special Strike
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- war spear
+- [Heavy Armour]
+- [Sword]
+- [War Spear]
 - War Goat
 
 **OPTIONS**
 
-- Banner: 25 points
-- Swap Weapon: 1 point
-- Swap Spear for Mattock: 0 points
+- [Banner] - 25 points
+- Swap Weapon - 1 point
+- Swap [Spear] for Mattock - Free
 
 **SPECIAL RULES**
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>

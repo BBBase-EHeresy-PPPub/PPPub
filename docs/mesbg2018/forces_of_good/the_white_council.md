@@ -23,26 +23,26 @@ A White Council army may only include a single warband. Unlike the usual model l
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Aura of Command | - | 2+ |
-| Immobilise | 18" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Command | 18" | 3+ |
-| Sorcerous Blast | 12" | 4+ |
+| [Aura of Command] | - | 2+ |
+| [Immobilise] | 18" | 2+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 18" | 3+ |
+| [Sorcerous Blast] | 12" | 4+ |
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -73,32 +73,32 @@ Can re-roll one dice when making Casting or Resist tests.
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Aura of Command | - | 2+ |
-| Enchanted Blades | 6" | 3+ |
-| Immobilise | 12" | 3+ |
+| [Aura of Command] | - | 2+ |
+| [Enchanted Blades] | 6" | 3+ |
+| [Immobilise] | 12" | 3+ |
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Elven-made Hand-and-a-Half Sword: 5 points
-- Shield: 5 points
+- [Heavy Armour] - 10 points
+- Elven-made Hand-and-a-Half [Sword] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Lord of the West** `ACTIVE`
 
@@ -128,31 +128,31 @@ Celeborn's Stand Fast! Is 12" rather than 6".
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Wrath of Bruinen | - | 4+ |
-| Renew | 12" | 3+ |
+| [Wrath of Bruinen] | - | 4+ |
+| [Renew] | 12" | 3+ |
 
 **OPTIONS**
 
-- Heavy Armour: 10 points
-- Horse: 10 points
+- [Heavy Armour] - 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Hadhafang** `ACTIVE`
 
-Hand-and-a-half sword, +1 To Wound when striking Spirit models.
+[Hand-and-a-half][Hand-And-A-Half] [sword][Sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `PASSIVE`
 
@@ -181,32 +181,32 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Blinding Light | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 4+ |
-| Protection of the Valar | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Collapse Rocks | 6" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Blinding Light] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Terrifying Aura] | - | 2+ |
+| [Command] | 12" | 4+ |
+| [Protection of the Valar] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Collapse Rocks] | 6" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **OPTIONS**
 
-- Horse: 10 points
+- [Horse] - 10 points
 
 **SPECIAL RULES**
 
@@ -233,30 +233,30 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- Elven made hand-and-a-half sword
+- Elven Made Hand-and-a-half [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Challenge
-- Heroic Strength
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Challenge]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Armour of Gondolin: 15 points
-- Asfaloth: 10 points
+- [Armour] Of Gondolin - 15 points
+- Asfaloth - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Terror
-- Woodland Creature
+- [Expert Rider]
+- [Horse Lord]
+- [Terror]
+- [Woodland Creature]
 
 - **Armour of Gondolin** `PASSIVE`
 
-Heavy armour, monsters may not use brutal power attacks against Glorfindel if he equips this.
+[Heavy armour][Heavy Armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
 
 - **Unbending Resolve** `PASSIVE`
 
@@ -281,31 +281,31 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- Staff of Power
-- dagger
+- [Staff of Power]
+- [Dagger]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Channelling
+- [Heroic Defence]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Panic Steed | 12" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Immobilise | 12" | 3+ |
-| Renew | 12" | 3+ |
-| Nature's Wrath | 3" | 4+ |
-| Aura of Dismay | - | 5+ |
+| [Panic Steed] | 12" | 2+ |
+| [Terrifying Aura] | - | 2+ |
+| [Immobilise] | 12" | 3+ |
+| [Renew] | 12" | 3+ |
+| [Nature's Wrath] | 3" | 4+ |
+| [Aura of Dismay] | - | 5+ |
 
 **OPTIONS**
 
-- Swap Staff for Great Eagle: 50 points
-- Sleigh: 45 points
-- Horse: 10 points
-- Sebastian: 5 points
+- Swap [Staff] for Great Eagle - 50 points
+- Sleigh - 45 points
+- [Horse] - 10 points
+- Sebastian - 5 points
 
 **SPECIAL RULES**
 
@@ -315,11 +315,11 @@ Extra attack in close combat, with Fight 1 and Strength 1. Cannot be altered wit
 
 - **Master of Birds** `PASSIVE`
 
-Radagast always has Line of Sight to any point on the battlefield. Eagle models within 12" gain Resistant to Magic. If he dismounts a Great Eagle, the eagle automatically passes its Courage test.
+Radagast always has Line of Sight to any point on the battlefield. Eagle models within 12" gain [Resistant to Magic]. If he dismounts a Great Eagle, the eagle automatically passes its Courage test.
 
 - **One with Nature** `PASSIVE`
 
-Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move through difficult terrain without penalty.
+Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move through difficult terrain without penalty.
 
 </div>
 
@@ -341,21 +341,21 @@ Whilst he has the Infantry keyword, Radagast gains Stalk Unseen and may move thr
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fortify Spirit | 12" | 2+ |
-| Banishment | 12" | 3+ |
-| Instill Fear | 3" | 4+ |
+| [Fortify Spirit] | 12" | 2+ |
+| [Banishment] | 12" | 3+ |
+| [Instill Fear] | 3" | 4+ |
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Nenya** `PASSIVE`
 
@@ -371,6 +371,6 @@ Galadriel can spend a single point of Will each turn for free.
 
 - **War Aspect** `PASSIVE`
 
-All enemies within 6" suffer -1 Courage, never counts as unarmed.
+All enemies within 6" suffer -1 Courage, never counts as [unarmed][Unarmed].
 
 </div>

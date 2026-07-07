@@ -19,23 +19,23 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Hatred (Angmar)
+- [Expert Shot]
+- [Hatred] (Angmar)
 
 - **Chieftain of the Dunedain** `PASSIVE`
 
-If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a banner.
+If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a [banner][Banner].
 
 </div>
 
@@ -52,18 +52,18 @@ If your force includes Aranarth, you may include Ranger of the North and Dunedai
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 - **The King in the North** `PASSIVE`
 
@@ -84,22 +84,22 @@ Arvedui's Stand Fast! Is 12", rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- war spear
-- Horse
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [War Spear]
+- [Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Hatred (Angmar)
-- Master of Battle (5+)
+- [Expert Rider]
+- [Hatred] (Angmar)
+- [Master of Battle] (5+)
 
 </div>
 
@@ -116,22 +116,22 @@ Arvedui's Stand Fast! Is 12", rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Swap Shield for Bow: 0 points
+- Swap Weapon - 5 points
+- Swap [Shield] for [Bow] - Free
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -148,11 +148,11 @@ Arvedui's Stand Fast! Is 12", rather than 6".
 
 **WARGEAR**
 
-- Staff
+- [Staff]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -175,17 +175,17 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Sword
-- bow
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Swap Weapon: 5 points
-- Spear: 1 point
+- Swap Weapon - 5 points
+- [Spear] - 1 point
 
 </div>
 
@@ -202,19 +202,19 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Horse: 10 points
-- Swap Weapon: 5 points
-- Spear: 1 point
+- [Horse] - 10 points
+- Swap Weapon - 5 points
+- [Spear] - 1 point
 
 </div>
 
@@ -233,18 +233,18 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Dagger
-- short bow
+- [Dagger]
+- Short [Bow]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -261,19 +261,19 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- war spear
-- Horse
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [War Spear]
+- [Horse]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -290,14 +290,14 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Armour
-- sword
-- bow
+- [Armour]
+- [Sword]
+- [Bow]
 
 **OPTIONS**
 
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -314,18 +314,18 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- spear
-- shield
+- [Heavy Armour]
+- [Sword]
+- [Spear]
+- [Shield]
 
 **OPTIONS**
 
-- Swap Spear and Shield for Banner: 25 points
-- Swap Weapon: 1 point
+- Swap [Spear] and [Shield] for [Banner] - 25 points
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>

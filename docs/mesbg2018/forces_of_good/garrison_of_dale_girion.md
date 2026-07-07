@@ -19,18 +19,18 @@ This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Wa
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Windlance: 75 points
-- Great Bow: 5 points
+- Windlance - 75 points
+- Great [Bow] - 5 points
 
 **SPECIAL RULES**
 
@@ -40,7 +40,7 @@ A Windlance is a small Siege Engine with Superior Construction. Girion is the on
 
 - **Rapid Fire** `ACTIVE`
 
-If Girion hits a target with his great bow, he may shoot at another target within 3" of them, or the same target. If that shot is also a hit, he may shoot again - to a maximum of three shots in total.
+If Girion hits a target with his great [bow][Bow], he may shoot at another target within 3" of them, or the same target. If that shot is also a hit, he may shoot again - to a maximum of three shots in total.
 
 </div>
 
@@ -57,18 +57,18 @@ If Girion hits a target with his great bow, he may shoot at another target withi
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Esgaroth Bow: 5 points
-- Shield: 5 points
-- Swap Weapon: 5 points
+- Esgaroth [Bow] - 5 points
+- [Shield] - 5 points
+- Swap Weapon - 5 points
 
 </div>
 
@@ -87,20 +87,20 @@ If Girion hits a target with his great bow, he may shoot at another target withi
 
 **WARGEAR**
 
-- Heavy armour
-- sword
-- shield
-- spear
+- [Heavy Armour]
+- [Sword]
+- [Shield]
+- [Spear]
 
 **OPTIONS**
 
-- Swap Weapon: 1 point
+- Swap Weapon - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
 
 </div>
 
@@ -117,17 +117,17 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **WARGEAR**
 
-- Armour
-- sword
+- [Armour]
+- [Sword]
 
 **OPTIONS**
 
-- War Horn: 30 points
-- Banner: 25 points
-- Esgaroth Bow: 2 points
-- Shield: 1 point
-- Spear: 1 point
-- Swap Weapon: 1 point
+- [War Horn] - 30 points
+- [Banner] - 25 points
+- Esgaroth [Bow] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
+- Swap Weapon - 1 point
 
 </div>
 
@@ -146,10 +146,10 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **OPTIONS**
 
-- Dale Engineer Captain: 50 points
-- Additional Crew: 7 points
-- Engineer Captain - Esgaroth Bow: 5 points
-- Engineer Captain - Shield: 5 points
+- Dale Engineer Captain - 50 points
+- Additional Crew - 7 points
+- Engineer Captain - Esgaroth [Bow] - 5 points
+- Engineer Captain - [Shield] - 5 points
 
 **SPECIAL RULES**
 
