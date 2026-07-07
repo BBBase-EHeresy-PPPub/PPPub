@@ -48,8 +48,8 @@
 
 ## SPECIAL RULES
 
-**"Their pace has quickened"** - Friendly Uruk-hai models increase their Move Value to 8". Additionally, friendly Uruk-hai models gain the Woodland Creature special rule.
+**"Their pace has quickened"** - Friendly Uruk-hai models increase their Move Value to 8". Additionally, friendly Uruk-hai models gain the [Woodland Creature] special rule.
 
-**"Get a fire going"** - Once per game, in Scenarios that use Objective Markers, Ugluk can use this special rule during his Move to choose an Objective Marker in base contact. So long as Ugluk is alive and on the battlefield, friendly models within range of the chosen Objective Marker gain the Dominant (2) special rule.
+**"Get a fire going"** - Once per game, in Scenarios that use Objective Markers, Ugluk can use this special rule during his Move to choose an Objective Marker in base contact. So long as Ugluk is alive and on the battlefield, friendly models within range of the chosen Objective Marker gain the [Dominant] (2) special rule.
 
 **Animosity** - Friendly Orc models gain a bonus of +1 To Wound when making Strikes if there is a friendly Uruk-hai model Engaged in the same Combat. Friendly Uruk-hai models gain a bonus of +1 To Wound when making Strikes if there is a friendly Orc model Engaged in the same Combat.

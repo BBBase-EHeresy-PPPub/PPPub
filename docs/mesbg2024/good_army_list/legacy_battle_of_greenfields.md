@@ -29,10 +29,10 @@
 
 ## SPECIAL RULES
 
-**The Bullroarer** - Bandobras Took may declare a Heroic Combat each turn for free.
+**The Bullroarer** - Bandobras Took may declare a [Heroic Combat] each turn for free.
 
 **"They're dangerous folk, wandering the wilds"** - Rangers of the North increase their Attacks value to 2.
 
-**"Defend the Shire!"** - Friendly Hobbit Warrior models within 3" of Bandobras gain the Dominant (2) special rule.
+**"Defend the Shire!"** - Friendly Hobbit Warrior models within 3" of Bandobras gain the [Dominant] (2) special rule.
 
 **The Bounders** - Whilst wholly within their own deployment zone, friendly Hobbit models may re-roll To Hit rolls of a natural 1 when making shooting attacks.

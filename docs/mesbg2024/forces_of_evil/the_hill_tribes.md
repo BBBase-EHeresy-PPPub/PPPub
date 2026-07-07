@@ -1,5 +1,3 @@
-# The Hill Tribes
-
 <div class="unitCard" markdown>
 
 ### WULF [110 POINTS]
@@ -12,23 +10,23 @@
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strength
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- General Hunter
-- Hatred (Rohan)
+- [General Hunter]
+- [Hatred] (Rohan)
 
 - **The Usurper King** `ACTIVE`
 
@@ -37,7 +35,6 @@ If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FRECA [80 POINTS]
@@ -50,17 +47,17 @@ If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strength
+- [Heroic Challenge]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 - **Dunlending Heritage** `PASSIVE`
 
@@ -68,12 +65,11 @@ Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their F
 
 - **Claim the Throne** `PASSIVE`
 
-If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a banner with range 6".
+If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a [banner][Banner] with range 6".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GENERAL TARGG [80 POINTS]
@@ -86,22 +82,22 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic March
+- [Heroic Defence]
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Master of Battle (4+)
-- Hatred (Rohan)
+- [Master of Battle] (4+)
+- [Hatred] (Rohan)
 
 - **Dunlending Commander** `PASSIVE`
 
@@ -110,7 +106,6 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HILL TRIBES CHIEFTAIN [40 POINTS]
@@ -123,20 +118,20 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Light shield: 5 points
-- Two-handed weapon: 5 points
+- [Light Shield] - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 </div>
 
@@ -154,16 +149,16 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 - **Traitor of Rohan** `PASSIVE`
 
@@ -176,99 +171,167 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHANK & WROT [150 POINTS]
 
 *MINOR HERO, UNIQUE, 6 WARBAND*
 
+
+**Shank**
+
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | 2 | 3 | 1 |
+| 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 7+ | 7+ | 2 | 3 | 1 |
 
-**ADDITIONAL PROFILES**
+**WARGEAR**
 
-- **Shank**
-  - Mv 6", Fv 4, Sv 4+, S 4, D 5, A 2, W 2, C 7+, I 7+
-- **Wrot**
-  - Mv 6", Fv 4, Sv 5+, S 4, D 5, A 3, W 2, C 6+, I 9+
-- **Snow Troll**
-  - Mv 6", Fv 6, Sv 4+, S 6, D 7, A 3, W 3, C 5+, I 8+
+- [Armour]
+- Orcish Halberd
+
+**HEROIC ACTIONS**
+
+- [Heroic Strike]
+
+**SPECIAL RULES**
+
+- **Orcish Halberd** `ACTIVE`
+
+Can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon]. Shank may re-roll failed To Wound rolls when making Strikes against a Trapped model.
+
+- **Loot the Bodies** `ACTIVE`
+
+When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a trinket. At the end of the game, as long as of them is alive, you gain a Victory Point for each trinket found, to a maximum of 5 points. Your total Victory Points can not exceed 20.
+
+- **Call 'the Beast'** `ACTIVE`
+
+Shank may spend a Will point at the start of his activation. If the Snow Troll is within 6" not Engaged in Combat, it must Charge if possible, gains Fearless, and may re-roll failed To Wound rolls when making Strikes, until the end of this turn.
+
+
+---
+
+**Wrot**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 4 | 5+ | 4 | 5 | 3 | 2 | 6+ | 9+ | 1 | 1 | 1 |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
+
+**HEROIC ACTIONS**
+
+- [Heroic Strength]
+
+**SPECIAL RULES**
+
+- **Tasty Fingers** `ACTIVE`
+
+Whenever Wrot slays an enemy model in Combat, he may roll a D6. On a 4+, he immediately regains either a Wound or Fate point spent earlier in the battle.
+
+- **Loot the Bodies** `ACTIVE`
+
+When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a trinket. At the end of the game, as long as of them is alive, you gain a Victory Point for each trinket found, to a maximum of 5 points. Your total Victory Points can not exceed 20.
+
+
+---
+
+**Snow Troll**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 6 | 4+ | 6 | 7 | 3 | 3 | 5+ | 8+ |
+
+**WARGEAR**
+
+- Claws ([Hand Weapon])
+
+**SPECIAL RULES**
+
+- [Dominant] (3)
+- [Mountain Dweller]
+- [Terror]
+
+- **Horned Charge** `ACTIVE`
+
+During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +1 Fight value until the end of the turn.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HILL TRIBESMAN [5 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner and light shield: 26 points
-- War horn and light shield: 26 points
-- Banner: 25 points
-- War horn: 25 points
-- Light shield and flaming brand: 2 points
-- Bow: 1 point
-- Flaming brand: 1 point
-- Light shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
+- [Banner] and [Light Shield] - 26 points
+- [War Horn] and [Light Shield] - 26 points
+- [Banner] - 25 points
+- [War Horn] - 25 points
+- [Light Shield] and Flaming Brand - 2 points
+- [Bow] - 1 point
+- Flaming Brand - 1 point
+- [Light Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 - **Flaming Brand** `PASSIVE`
 
-A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
+A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ROHIRRIM TRAITOR [6 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn, shield, throwing spears: 28 points
-- Banner: 25 points
-- Shield and throwing spears: 3 points
-- Shield: 1 point
-- Bow: 1 point
+A Rohirrim Traitor must have one of the following options for the listed points cost:
+
+- [War Horn], [Shield], Throwing Spears - 28 points
+- [Banner] - 25 points
+- [Shield] and Throwing Spears - 3 points
+- [Shield] - 1 point
+- [Bow] - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
 </div>
 

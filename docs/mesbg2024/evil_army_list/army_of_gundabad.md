@@ -45,7 +45,7 @@
 
 ## SPECIAL RULES
 
-**Commander of Legions** - If your General is either Azog or Bolg, then your General gains the Master of Battle (5+) special rule.
+**Commander of Legions** - If your General is either Azog or Bolg, then your General gains the [Master of Battle] (5+) special rule.
 
 **"Here ends your filthy bloodline!"** - Azog may re-roll any failed To Wound Rolls when making Strikes against Erebor models.
 
@@ -55,6 +55,6 @@
 
 The Banner of Dol Guldur - All friendly Gundabad models on the battlefield count themselves as being in range of a banner.
 
-The Banner of Gundabad - All friendly Gundabad Hero models on the battlefield may declare a Heroic March for free.
+The Banner of Gundabad - All friendly Gundabad Hero models on the battlefield may declare a [Heroic March] for free.
 
 The Banner of Angmar - Whenever a friendly Gundabad model suffers a Wound, roll a D6. On the roll of a natural 6, the Wound is ignored. Gundabad Berserkers will instead pass their Oblivious to Pain roll on a natural 5+ instead of a natural 6.

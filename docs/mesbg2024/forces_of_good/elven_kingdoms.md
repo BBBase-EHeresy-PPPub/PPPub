@@ -1,5 +1,3 @@
-# Elven Kingdoms
-
 <div class="unitCard" markdown>
 
 ### GALADRIEL, LADY OF LOTHLORIEN [125 POINTS]
@@ -12,34 +10,34 @@
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 - Nenya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Blessing of the Valar | 12" | 4+ |
-| Blinding Light | Self | 4+ |
-| Fog of Disarray | Self | 4+ |
-| Foil Magic | 12" | 4+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Blessing of the Valar] | 12" | 4+ |
+| [Blinding Light] | Self | 4+ |
+| [Fog of Disarray] | Self | 4+ |
+| [Foil Magic] | 12" | 4+ |
 
 **OPTIONS**
 
-- Mirror of Galadriel: 25 points
+- Mirror of Galadriel - 25 points
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Nenya** `PASSIVE`
 
@@ -56,7 +54,6 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GIL-GALAD [175 POINTS]
@@ -69,23 +66,23 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Aiglos
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Aiglos** `ACTIVE`
 
-Elven spear, and a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
+Elven [spear][Spear], and a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
 
 - **High King of the Elves** `ACTIVE`
 
@@ -98,7 +95,6 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRANDUIL, KING OF THE WOODLAND REALM [130 POINTS]
@@ -111,24 +107,24 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapons
+- Elven Hand-and-a-half Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Great Elk: 30 points
-- Heavy armour: 10 points
+- Great Elk - 30 points
+- [Heavy Armour] - 10 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Leader (Palace Guard)
-- Woodland Creature
+- [Expert Rider]
+- [Leader] (Palace Guard)
+- [Woodland Creature]
 
 - **Bladelord** `ACTIVE`
 
@@ -136,16 +132,15 @@ If Outnumbered in a Combat, Thranduil may re-roll To Wound Rolls of a natural 1 
 
 - **Fury of the Elvenking** `PASSIVE`
 
-If Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a Heroic Combat for free.
+If Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a [Heroic Combat] for free.
 
 - **"Do not talk to me of Dragon fire"** `ACTIVE`
 
-At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains Terror. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
+At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains [Terror]. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CELEBORN, LORD OF LOTHLORIEN [125 POINTS]
@@ -158,27 +153,27 @@ At the beginning of his Activation, Thranduil can spend a Will Point. If he does
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Transfix | 12" | 3+ |
-| Aura of Dismay | Self | 4+ |
-| Enchant Blades | 6" | 4+ |
-| Writhing Vines | Self | 4+ |
+| [Transfix] | 12" | 3+ |
+| [Aura of Dismay] | Self | 4+ |
+| [Enchant Blades] | 6" | 4+ |
+| [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **The Lord of Lorien** `PASSIVE`
 
@@ -191,7 +186,6 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELROND [170 POINTS]
@@ -205,36 +199,36 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 **WARGEAR**
 
 - Hadhafang
-- heavy armour
+- [Heavy Armour]
 - Vilya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Renew | 12" | 3+ |
-| Wrath of Bruinen | 3" | 4+ |
+| [Renew] | 12" | 3+ |
+| [Wrath of Bruinen] | 3" | 4+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Terror
-- Woodland Creature
+- [Expert Rider]
+- [Terror]
+- [Woodland Creature]
 
 - **Hadhafang** `ACTIVE`
 
-Elven hand-and-a-half weapon, Elrond gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Elrond gains a bonus of +1 To Wound when making Strikes again a Spirit model.
 
 - **Vilya** `PASSIVE`
 
@@ -251,7 +245,6 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALDIR, GALADHRIM CAPTAIN [70 POINTS]
@@ -264,24 +257,24 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
+- Elven [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Elf bow: 5 points
-- Elven cloak: Free
+- Elf [Bow] - 5 points
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Sharpshooter
-- Woodland Creature
+- [Expert Shot]
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **One Final Blow** `ACTIVE`
 
@@ -290,7 +283,6 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [105 POINTS]
@@ -303,28 +295,28 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 
 **WARGEAR**
 
-- Armour
-- Elf bow
-- Elven hand weapons
+- [Armour]
+- Elf [Bow]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Orcrist: Free
+- Orcrist - Free
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Leader (Palace Guard)
-- Woodland Creature
+- [Sharpshooter]
+- [Leader] (Palace Guard)
+- [Woodland Creature]
 
 - **Orcrist** `ACTIVE`
 
-Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], with Orcbane, Goblinbane and Uruk-haibane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **Deadly Shot** `ACTIVE`
 
@@ -337,7 +329,6 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ARWEN [70 POINTS]
@@ -350,39 +341,38 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 **WARGEAR**
 
-- Elven hand weapon
+- Elven [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Renew | 12" | 3+ |
-| Wrath of Bruinen | 3" | 4+ |
+| [Renew] | 12" | 3+ |
+| [Wrath of Bruinen] | 3" | 4+ |
 
 **OPTIONS**
 
-- Asfaloth: 20 points
-- Hadhafang: Free
+- Asfaloth - 20 points
+- Hadhafang - Free
 
 **SPECIAL RULES**
 
-- Woodland Creature
-- Expert Rider
+- [Woodland Creature]
+- [Expert Rider]
 
 - **Hadhafang** `ACTIVE`
 
-Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CIRDAN [75 POINTS]
@@ -395,28 +385,28 @@ Elven hand-and-a-half weapon, Arwen gains a bonus of +1 To Wound when making Str
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Resolve
+- [Heroic Channelling]
+- [Heroic Resolve]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fog of Disarray | Self | 3+ |
-| Blessing of the Valar | 6" | 4+ |
-| Call Winds | 12" | 4+ |
-| Enchant Blades | 6" | 4+ |
-| Aura of Dismay | Self | 5+ |
+| [Fog of Disarray] | Self | 3+ |
+| [Blessing of the Valar] | 6" | 4+ |
+| [Call Winds] | 12" | 4+ |
+| [Enchant Blades] | 6" | 4+ |
+| [Aura of Dismay] | Self | 5+ |
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 
 - **The Shipwright's Power** `PASSIVE`
 
@@ -425,7 +415,6 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELLADAN [80 POINTS]
@@ -438,34 +427,33 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand weapons
+- [Heavy Armour]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Unbreakable Bond** `ACTIVE`
 
-If Elladan is slain, make a note of the model that killed him. Elrohir increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elladan. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
+If Elladan is slain, make a note of the model that killed him. Elrohir increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elladan. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he may declare a free [Heroic Challenge], regardless of the Hero's Heroic Tier.
 
 - **Twin Elven Blades** `ACTIVE`
 
-Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
+Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the [Shielding] rule, or use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
 
 - **Strength of Brotherhood** `ACTIVE`
 
-Whilst within 3" of Elladan, Elrohir gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELROHIR [80 POINTS]
@@ -478,34 +466,33 @@ Whilst within 3" of Elladan, Elrohir gains Dominant (2) and may re-roll To Wound
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand weapons
+- [Heavy Armour]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Unbreakable Bond** `ACTIVE`
 
-If Elrohir is slain, make a note of the model that killed him. Elladan increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elrohir. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he may declare a free Heroic Challenge, regardless of the Hero's Heroic Tier.
+If Elrohir is slain, make a note of the model that killed him. Elladan increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elrohir. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he may declare a free [Heroic Challenge], regardless of the Hero's Heroic Tier.
 
 - **Twin Elven Blades** `ACTIVE`
 
-Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the Shielding rule, or use his Elven weapons as Elven hand-and-a-half weapons.
+Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the [Shielding] rule, or use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
 
 - **Strength of Brotherhood** `ACTIVE`
 
-Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GALADHRIM CAPTAIN [70 POINTS]
@@ -518,21 +505,21 @@ Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
-- Heavy armour
+- Elven [Hand-and-a-half Weapon]
+- [Heavy Armour]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Elf bow: 5 points
+- Elf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Woodland Creature
+- [Sharpshooter]
+- [Woodland Creature]
 
 </div>
 
@@ -550,26 +537,26 @@ Whilst within 3" of Elrohir, Elladan gains Dominant (2) and may re-roll To Wound
 
 **WARGEAR**
 
-- Elven hand weapon
+- Elven [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Foil Magic | 6" | 4+ |
-| Renew | 6" | 4+ |
+| [Foil Magic] | 6" | 4+ |
+| [Renew] | 6" | 4+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Song of Elbereth** `ACTIVE`
 
-All friendly Rivendell models within 3" of Lindir gain the Resistant to Magic special rule.
+All friendly Rivendell models within 3" of Lindir gain the [Resistant to Magic] special rule.
 
 - **Wise Council** `PASSIVE`
 
@@ -578,7 +565,6 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN CAPTAIN [65 POINTS]
@@ -591,17 +577,17 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
-- Elven bow
-- Elven Cloak
+- Elven [Hand-and-a-half Weapon]
+- Elven [Bow]
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -619,25 +605,24 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Elven Glaive
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Elven Glaive** `ACTIVE`
 
-Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+Elven [spear][Spear], when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER CAPTAIN [75 POINTS]
@@ -650,18 +635,18 @@ Elven spear, when Engaged in Combat and not being Supported, this model may eith
 
 **WARGEAR**
 
-- Elf bow
-- Elven hand weapon
-- Elven cloak
+- Elf [Bow]
+- Elven [Hand Weapon]
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Woodland Creature
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **Knife Fighters** `ACTIVE`
 
@@ -670,7 +655,6 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OROPHIN, GALADHRIM CAPTAIN [85 POINTS]
@@ -683,16 +667,16 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand weapons
+- [Heavy Armour]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Whirl of Blades** `ACTIVE`
 
@@ -701,7 +685,6 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### PALACE GUARD CAPTAIN [80 POINTS]
@@ -714,22 +697,22 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand-and-a-half weapon
+- [Heavy Armour]
+- Elven [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Leader (Palace Guard)
-- Woodland Creature
+- [Bodyguard]
+- [Leader] (Palace Guard)
+- [Woodland Creature]
 
 - **King's Guard** `PASSIVE`
 
@@ -738,7 +721,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RIVENDELL CAPTAIN [70 POINTS]
@@ -751,21 +733,21 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand-and-a-half weapon
+- [Heavy Armour]
+- Elven [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 </div>
 
@@ -783,17 +765,17 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand weapon
-- shield
+- [Heavy Armour]
+- Elven [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Swift Parry** `ACTIVE`
 
@@ -802,7 +784,6 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### TAURIEL, RANGER OF MIRKWOOD [90 POINTS]
@@ -815,24 +796,24 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 
 **WARGEAR**
 
-- Armour
-- Elven cloak
-- Elven hand weapons
+- [Armour]
+- [Elven Cloak]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elf bow: 5 points
+- Elf [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Sharpshooter
-- Woodland Creature
+- [Expert Shot]
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **Blade Mistress** `ACTIVE`
 
@@ -845,32 +826,31 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GALADHRIM KNIGHT [18 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
 - Galadhrim Steed
-- Elven hand-and-a-half weapon
-- heavy armour
+- Elven [Hand-and-a-half Weapon]
+- [Heavy Armour]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- Shield: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -882,27 +862,27 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon,
-- Heavy armour
+- Elven [Hand-and-a-half Weapon],
+- [Heavy Armour]
 
 **OPTIONS**
 
-- War horn and Elf bow: 27 points
-- Banner: 25 points
-- Elf bow: 2 points
-- Shield and Elven spear: 2 points
-- Elven spear: 1 point
-- Shield: 1 point
+- [War Horn] and Elf [Bow] - 27 points
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] and Elven [Spear] - 2 points
+- Elven [Spear] - 1 point
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -914,85 +894,83 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 6 | 3+ | 3 | 5 | 1 | 1 | 4+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 6 | 3+ | 3 | 5 | 1 | 1 | 4+ | 5+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Elven pike
+- [Heavy Armour]
+- Elven [Pike]
 
 **OPTIONS**
 
-- Exchange Elven pike for banner and Elven hand weapon: 25 points
+- Exchange Elven [Pike] for [Banner] and Elven [Hand Weapon] - 25 points
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Caras Galadhon Fighting Style** `ACTIVE`
 
-This model may use the Shielding rule with their Elven pike. The usual restrictions for Shielding still apply, chiefly that a model using the Shielding rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
+This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual restrictions for [Shielding] still apply, chiefly that a model using the [Shielding] rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN WARRIOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
-- Elven Cloak
+- Elven [Hand-and-a-half Weapon]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- Elven throwing weapons: 2 points
-- Wood Elf spear: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- Elven [Throwing Weapons] - 2 points
+- Wood Elf [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Wood Elf spear** `ACTIVE`
 
-An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
+An Elven [spear][Spear], and this model may use the [Shielding] rule even if they do not have a [shield][Shield].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF KNIGHT [16 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Horse
-- Elven hand-and-a-half weapons
+- [Heavy Armour]
+- [Horse]
+- Elven Hand-and-a-half Weapons
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 - **King's Knights** `PASSIVE`
 
@@ -1001,60 +979,60 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF WARRIOR [9 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand-and-a-half weapon
+- [Heavy Armour]
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
-- Elf bow: 2 points
-- Elven Glaive: 2 points
-- Shield: 1 point
+A Mirkwood Elf Warrior must have one of the following options for the listed points cost:
+
+- Elf [Bow] - 2 points
+- Elven Glaive - 2 points
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Elven Glaive** `ACTIVE`
 
-Elven spear, when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+Elven [spear][Spear], when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER [14 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 
-- Elf bow
-- Elven hand weapon
-- Elven cloak
+- Elf [Bow]
+- Elven [Hand Weapon]
+- [Elven Cloak]
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Woodland Creature
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **Knife Fighters** `ACTIVE`
 
@@ -1063,32 +1041,33 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### PALACE GUARD [12 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand-and-a-half weapon
+- [Heavy Armour]
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
-- Shield and Elven spear: 2 points
-- Shield: 1 point
-- Elven Spear: 1 point
+A Palace Guard must have one of the following options for the listed points cost:
+
+- [Shield] and Elven [Spear] - 2 points
+- [Shield] - 1 point
+- Elven [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Woodland Creature
+- [Bodyguard]
+- [Woodland Creature]
 
 - **King's Guard** `PASSIVE`
 
@@ -1097,34 +1076,33 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RIVENDELL KNIGHT [20 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Elven lance
-- Horse
-- Elven hand-and-a-half weapon
-- Elf bow
+- [Heavy Armour]
+- Elven [Lance]
+- [Horse]
+- Elven [Hand-and-a-half Weapon]
+- Elf [Bow]
 
 **OPTIONS**
 
-- Exchange Elven lance for banner: 25 points
-- Shield: 1 point
+- Exchange Elven [Lance] for [Banner] - 25 points
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Woodland Creature
+- [Expert Rider]
+- [Woodland Creature]
 
 </div>
 
@@ -1136,25 +1114,25 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Elven hand-and-a-half weapon
+- [Heavy Armour]
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- Shield and Elven spear: 2 points
-- Shield: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- [Shield] and Elven [Spear] - 2 points
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -1166,26 +1144,26 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 3 | 3 | 2 | 1 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 3 | 3 | 2 | 1 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Elven hand weapon
-- Elf bow
-- Elven Cloak
+- Elven [Hand Weapon]
+- Elf [Bow]
+- [Elven Cloak]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Enchanting Song** `ACTIVE`
 
 During their Activation, a Sentinel may sing one of the following songs:
 The Hymn of Elbereth - Choose a friendly model within 12", who will automatically pass all Courage Tests until the End Phase of the turn.
 Eldamar Madrigal - Choose an enemy model within 12" who is not Engaged in Combat. They must take an Intelligence Test. If failed, you may immediately Move that model. However you cannot make them enter an enemy model's Control Zone, dismount, lie down, be forced to Climb, Jump, Leap or Swim, or Move in any way that would cause direct harm. The model affected by this song cannot be Activated later in the turn.
-The Lay of Gondolin - Sentinel and all friendly models within 3" gain Terror until the End Phase of the turn.
+The Lay of Gondolin - Sentinel and all friendly models within 3" gain [Terror] until the End Phase of the turn.
 
 </div>
 

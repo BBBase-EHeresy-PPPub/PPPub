@@ -62,6 +62,6 @@
 
 **Faramir's Rangers** - A Garrison of Ithilien Army has a Bow Limit of 50% rather than the usual 33%.
 
-**Experienced Trackers** - At the start of each game, you may choose either Woodland Creature or Mountain Dwellers. Friendly Gondor models gain the chosen special rule for the duration of the game.
+**Experienced Trackers** - At the start of each game, you may choose either [Woodland Creature] or Mountain Dwellers. Friendly Gondor models gain the chosen special rule for the duration of the game.
 
 **"I think at last we understand one another, Frodo Baggins"** - At the end of the game, you will score an additional Victory Point for each of Frodo, Sam and Smeagol that are still alive, or have escaped the battlefield in Scenarios where this applies. This can never take your total number of Victory Points for a Scenario above 20.

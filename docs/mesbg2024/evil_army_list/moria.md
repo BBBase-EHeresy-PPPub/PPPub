@@ -64,6 +64,6 @@
 
 **"We cannot get out, they are coming."** - Friendly Moria Goblin models Engaged in Combat with an enemy model that would be considered Trapped gain a bonus of +1 to their Fight Value for the duration of the Combat.
 
-**Skittering Warriors** - Friendly Moria Goblin models gain the Mountain Dweller special rule.
+**Skittering Warriors** - Friendly Moria Goblin models gain the [Mountain Dweller] special rule.
 
-**Durbûrz's Will** - Once per game, at the start of his Activation, Durbúrz may declare he is using this ability. If he does, Durbûrz may not Move during his Activation; however, all friendly Moria Goblin models gain a bonus of +2" to their Move Value until the End Phase of the turn. Additionally, in a turn in which Durbûrz uses this ability, all friendly Moria Goblin models within 6" of him automatically pass any Courage Tests required when attempting to Charge a model with the Terror special rule.
+**Durbûrz's Will** - Once per game, at the start of his Activation, Durbúrz may declare he is using this ability. If he does, Durbûrz may not Move during his Activation; however, all friendly Moria Goblin models gain a bonus of +2" to their Move Value until the End Phase of the turn. Additionally, in a turn in which Durbûrz uses this ability, all friendly Moria Goblin models within 6" of him automatically pass any Courage Tests required when attempting to Charge a model with the [Terror] special rule.

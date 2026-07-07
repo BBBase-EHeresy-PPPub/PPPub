@@ -30,4 +30,4 @@
 
 **"The Eagles are Coming!"** - Friendly Eagle models gain a bonus of +1 to their Strength on a turn in which they Charge.
 
-**Beorn's Fury** - If Beorn is involved in a Combat and kills every model he was Engaged in Combat with, then in the following turn he may declare a Heroic Move for free.
+**Beorn's Fury** - If Beorn is involved in a Combat and kills every model he was Engaged in Combat with, then in the following turn he may declare a [Heroic Move] for free.

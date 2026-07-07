@@ -1,5 +1,3 @@
-# Fallen Realms
-
 <div class="unitCard" markdown>
 
 ### DALAMYR, FLEETMASTER OF UMBAR [100 POINTS]
@@ -12,24 +10,24 @@
 
 **WARGEAR**
 
-- Hand weapon
-- throwing weapons
-- smoke bombs
+- [Hand Weapon]
+- [Throwing Weapons]
+- Smoke Bombs
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Backstabbers
-- Bane of Kings
-- Stalk Unseen
+- [Backstabbers]
+- [Bane of Kings]
+- [Stalk Unseen]
 
 - **Smoke Bombs** `ACTIVE`
 
-Throwing weapons with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the Transfix Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
+[Throwing weapons][Throwing Weapons] with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the Transfix Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -38,7 +36,6 @@ Dalamyr can never be Trapped whilst still standing.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MUMAK WAR LEADER [400 POINTS]
@@ -51,22 +48,22 @@ Dalamyr can never be Trapped whilst still standing.
 
 **WARGEAR**
 
-- Armour
-- long-bladed spear
+- [Armour]
+- Long-bladed Spear
 - Royal War Mumak
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
 - **Long-bladed Spear** `ACTIVE`
 
-Can be a spear or a two-handed weapon.
+Can be a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Imposing Presence** `PASSIVE`
 
@@ -79,7 +76,6 @@ The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SULADAN, THE SERPENT LORD [120 POINTS]
@@ -92,30 +88,30 @@ The Mumak War Leader's Stand Fast is 12", and his warband may deploy within 12" 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Serpent Banner
+- [Armour]
+- [Hand Weapon]
+- Serpent [Banner]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- Leader (Serpent Guard)
-- Poisoned Attacks
-- Leader (serpent Rider)
+- [Leader] (Serpent Guard)
+- [Poisoned Attacks]
+- [Leader] (serpent Rider)
 
 - **The Serpent Banner** `ACTIVE`
 
-Banner with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst carrying it.
+[Banner] with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst carrying it.
 
 - **Ascendant** `ACTIVE`
 
@@ -124,7 +120,6 @@ Suladan's Stand Fast! is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DRAGON EMPEROR OF RHUN [200 POINTS]
@@ -137,23 +132,23 @@ Suladan's Stand Fast! is 12" rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - The Emperor's Glaive
 - Helm of the Dragon Emperor
 - Royal Palanquin
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **The Emperor's Glaive** `ACTIVE`
 
-Elven spear, may use Shielding rule despite not having a shield.. May not support whilst mounted on Palanquin.
+Elven [spear][Spear], may use [Shielding] rule despite not having a [shield][Shield].. May not support whilst mounted on Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -161,16 +156,15 @@ The Dragon Emperor's Stand Fast! has unlimited range, and affects Easterling Her
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
-The Dragon Emperor gains the Resistant to Magic special rule.
+The Dragon Emperor gains the [Resistant to Magic] special rule.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### AMDUR, LORD OF BLADES [135 POINTS]
@@ -183,47 +177,46 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Durtuz the Silver Falchion
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- General Hunter
-- Unyielding Combat Stance
+- [General Hunter]
+- [Unyielding Combat Stance]
 
 - **The Lord of Blades** `ACTIVE`
 
-If an enemy model in combat with Amdur declares a Heroic Strike, he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
+If an enemy model in combat with Amdur declares a [Heroic Strike], he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
 
 - **Herald of Victory** `PASSIVE`
 
-Friendly Easterling models treat Amdur as a banner. If Amdur kills the enemy General, the range is increased to 6".
+Friendly Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enemy General, the range is increased to 6".
 
 - **Durtuz the Silver Falchion** `ACTIVE`
 
-Elven hand-and-a-half weapon. When making Strikes against an enemy Hero model, rolls of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. When making Strikes against an enemy Hero model, rolls of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DELGAMAR, GATEMASTER OF UMBAR [75 POINTS]
@@ -236,14 +229,14 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- whip
-- throwing weapons
+- [Armour]
+- [Hand Weapon]
+- [Whip]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -254,7 +247,6 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RUTABI, GENERAL OF THE DRAGON LEGION [120 POINTS]
@@ -267,23 +259,23 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand weapon
+- [Heavy Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Master of Battle (3+)
-- Unyielding Combat Stance
+- [Master of Battle] (3+)
+- [Unyielding Combat Stance]
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **Show No Mercy** `ACTIVE`
 
@@ -292,7 +284,6 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BRORGIR THE CONJURER [80 POINTS]
@@ -305,21 +296,21 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Easterling Halberd
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Bladewrath | 12" | 3+ |
-| Fury (Easterling) | Self | 3+ |
+| [Bladewrath] | 12" | 3+ |
+| [Fury (X)] (Easterling) | Self | 3+ |
 | Enchanted Blades | 12" | 4+ |
-| Tremor | Self | 5+ |
+| [Tremor] | Self | 5+ |
 
 **SPECIAL RULES**
 
@@ -329,12 +320,11 @@ Each time Brorgir rolls one or more natural 6s when making a Casting Test, he wi
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a pike or two-handed weapon.
+This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CORSAIR BO'SUN [50 POINTS]
@@ -347,29 +337,28 @@ This weapon can be used as either a pike or two-handed weapon.
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
-- spear
-- throwing weapons
+- [Light Armour]
+- [Hand Weapon]
+- [Spear]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Exchange spear for crossbow: Free
+- Exchange [Spear] for [Crossbow] - Free
 
 **SPECIAL RULES**
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models treat a Corsair Bo'sun as a banner.
+Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CORSAIR CAPTAIN [55 POINTS]
@@ -382,18 +371,18 @@ Friendly Corsair models treat a Corsair Bo'sun as a banner.
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
-- two-handed weapon
-- throwing weapons
+- [Light Armour]
+- [Hand Weapon]
+- [Two-handed Weapon]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Exchange two-handed weapon for crossbow: Free
+- Exchange [Two-handed Weapon] for [Crossbow] - Free
 
 </div>
 
@@ -411,23 +400,23 @@ Friendly Corsair models treat a Corsair Bo'sun as a banner.
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
-- two-handed weapon
-- throwing weapons
+- [Light Armour]
+- [Hand Weapon]
+- [Two-handed Weapon]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Exchange two-handed weapon for crossbow: Free
+- Exchange [Two-handed Weapon] for [Crossbow] - Free
 
 **SPECIAL RULES**
 
-- Fearless
-- Sharpshooter
+- [Fearless]
+- [Sharpshooter]
 
 </div>
 
@@ -445,29 +434,28 @@ Friendly Corsair models treat a Corsair Bo'sun as a banner.
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand weapon
-- Armoured horse
+- [Heavy Armour]
+- [Shield]
+- [Hand Weapon]
+- [Armoured Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EASTERLING WAR PRIEST [60 POINTS]
@@ -480,35 +468,34 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Easterling Halberd
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Bladewrath | 6" | 3+ |
-| Fury (Easterling) | Self | 3+ |
-| Enchant Blades | 6" | 4+ |
+| [Bladewrath] | 6" | 3+ |
+| [Fury (X)] (Easterling) | Self | 3+ |
+| [Enchant Blades] | 6" | 4+ |
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a pike or two-handed weapon.
+This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
@@ -521,21 +508,21 @@ This weapon can be used as either a pike or two-handed weapon.
 
 **WARGEAR**
 
-- Armour
-- spear
-- hand weapon
+- [Armour]
+- [Spear]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Bow: 5 points
+- [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (bow)
+- [Poisoned Attacks] (bow)
 
 </div>
 
@@ -553,24 +540,23 @@ This weapon can be used as either a pike or two-handed weapon.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- whip
+- [Armour]
+- [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
+Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
@@ -583,21 +569,21 @@ Each time a friendly Hero model within 6" attempts a Heroic Move, March or Shoot
 
 **WARGEAR**
 
-- Dagger
-- throwing daggers
-- blowpipe
+- [Dagger]
+- Throwing Daggers
+- [Blowpipe]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Backstabbers
-- Bane of Kings
-- Stalk Unseen
-- General Hunter
+- [Backstabbers]
+- [Bane of Kings]
+- [Stalk Unseen]
+- [General Hunter]
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -606,7 +592,6 @@ A Hasharin can never be Trapped while still standing.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
@@ -619,19 +604,19 @@ A Hasharin can never be Trapped while still standing.
 
 **WARGEAR**
 
-- Armour
-- Spear
+- [Armour]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Bane of Kings
-- Leader (Serpent Guard)
-- Sworn Protector (Suladan)
+- [Bane of Kings]
+- [Leader] (Serpent Guard)
+- [Sworn Protector] (Suladan)
 
 - **The Serpent's Weapon** `ACTIVE`
 
@@ -640,12 +625,11 @@ At the start of the game, after both sides have deployed, secretly select one He
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [250 POINTS]
 
-*HERO OF FORTITUDE, 12 WARBAND*
+*MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -653,23 +637,13 @@ At the start of the game, after both sides have deployed, secretly select one He
 
 **WARGEAR**
 
-- Tusks and huge stomping feet (hand weapons)
-
-**OPTIONS**
-
-- Gnarled Hide: 25 points
-- Mahud Beastmaster Chieftain: 25 points
-- Rocks: 20 points
-- Sigils of Defiance: 20 points
-- Tusk Weapons: 20 points
-- Foul Temperament: 15 points
-- Rappelling Lines: 10 points
+- Tusks and Huge Stomping Feet (hand Weapons)
 
 **SPECIAL RULES**
 
-- Dominant (10)
-- Large Target
-- Terror
+- [Dominant] (10)
+- [Large Target]
+- [Terror]
 
 - **Trample** `ACTIVE`
 
@@ -677,21 +651,69 @@ When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly models treat this model as a banner with a range of 6".
+Friendly models treat this model as a [banner][Banner] with a range of 6".
 
-**ADDITIONAL PROFILES**
 
-- **Howdah**
-  - Mv -, Fv -, Sv -, S -, D 9, A -, W 5, C -, I -
-- **Haradrim Commander**
-  - Mv 6", Fv 4, Sv 4+, S 4, D 5, A 2, W 2, C 6+, I 6+
-- **Mahud Beastmaster Chieftain**
-  - Mv 6", Fv 5, Sv 3+, S 5, D 5, A 2, W 2, C 5+, I 6+
+**OPTIONS**
+
+- Rocks - 20 points
+- Sigils of Defiance - 20 points
+- Tusk Weapons - 20 points
+- Foul Temperament - 15 points
+- Rappelling Lines - 10 points
+
+
+**Howdah**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| - | - | - | - | 9 | - | 5 | - | - |
+
+---
+
+**Haradrim Commander**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
+
+**WARGEAR**
+
+- [Armour]
+- [Spear]
+
+**HEROIC ACTIONS**
+
+- [Heroic March]
+
+---
+
+**Mahud Beastmaster Chieftain**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 3+ | 5 | 5 | 2 | 2 | 5+ | 6+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Spear]
+- [War Horn]
+
+**HEROIC ACTIONS**
+
+- [Heroic March]
+
+**SPECIAL RULES**
+
+- **Mahud Beastmaster Chieftain** `PASSIVE`
+
+The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is placed on the forked wooden platform at the front of the Howdah.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EASTERLING DRAGON KNIGHT [70 POINTS]
@@ -704,33 +726,33 @@ Friendly models treat this model as a banner with a range of 6".
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapons
+- [Heavy Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- General Hunter
-- Unyielding Combat Stance
+- [General Hunter]
+- [Unyielding Combat Stance]
 
 - **Shield of Blades** `ACTIVE`
 
-can use the Shielding rule.
+can use the [Shielding] rule.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
 
 - **Knights of the Dragon Cult** `PASSIVE`
 
@@ -739,37 +761,36 @@ May only include Black Dragon Warrior models in his warband.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK DRAGON WARRIOR [10 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand weapon
+- [Heavy Armour]
+- [Shield]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange shield for banner: 25 points
-- Easterling Halberd: 1 point
+- Exchange [Shield] for [Banner] - 25 points
+- Easterling Halberd - 1 point
 
 **SPECIAL RULES**
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a pike or two-handed weapon.
+This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **Warriors of the Dragon Cult** `PASSIVE`
 
@@ -778,53 +799,53 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CORSAIR CROSSBOWMAN [10 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
 - Pavise
-- crossbow
-- hand weapon
+- [Crossbow]
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
 - **Pavise** `PASSIVE`
 
-A shield that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
+A [shield][Shield] that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CORSAIR OF UMBAR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
+- [Light Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Light shield and throwing weapons: 1 point
-- Spear: 1 point
+A Corsair of Umbar must have one of the following options for the listed points cost:
+
+- [Bow] - 1 point
+- [Light Shield] and [Throwing Weapons] - 1 point
+- [Spear] - 1 point
 
 </div>
 
@@ -836,19 +857,19 @@ A shield that provides +3 Defence, rather than +1. However, this model cannot ga
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 2 | 1 | 6+ | 6 | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 2 | 1 | 6+ | 6 |
 
 **WARGEAR**
 
-- Armour
-- throwing weapons
-- hand weapons
+- [Armour]
+- [Throwing Weapons]
+- Hand Weapons
 
 **SPECIAL RULES**
 
-- Unyielding Combat Stance
+- [Unyielding Combat Stance]
 
 - **Supreme Agility** `ACTIVE`
 
@@ -861,73 +882,73 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EASTERLING KATAPHRAKT [15 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand weapon
-- Armoured horse
+- [Heavy Armour]
+- [Shield]
+- [Hand Weapon]
+- [Armoured Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Exchange shield for war drum (Easterling): 25 points
+- [Banner] - 25 points
+- Exchange [Shield] for [War Drum] (Easterling) - 25 points
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield to benefit from this special rule.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARADRIM RAIDER [11 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Horse
+- [Armour]
+- [Hand Weapon]
+- [Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Bow & war spear: 2 points
-- Bow: 1 point
-- War spear: 1 point
+A Haradrim Raider must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- [Bow] & [War Spear] - 2 points
+- [Bow] - 1 point
+- [War Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (bow)
+- [Poisoned Attacks] (bow)
 
 </div>
 
@@ -939,25 +960,27 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn: 25 points
-- Banner: 25 points
-- Bow: 1 point
-- Spear: 1 point
+A Haradrim Warrior must have one of the following options for the listed points cost:
+
+- [War Horn] - 25 points
+- [Banner] - 25 points
+- [Bow] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (bow)
+- [Poisoned Attacks] (bow)
 
 </div>
 
@@ -969,18 +992,18 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **SPECIAL RULES**
 
-- Poisoned Attacks
+- [Poisoned Attacks]
 
 </div>
 
@@ -992,19 +1015,19 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- war spear
-- Horse
+- [Armour]
+- [War Spear]
+- [Horse]
 
 **SPECIAL RULES**
 
-- Poisoned Attacks
+- [Poisoned Attacks]
 
 </div>
 
@@ -1016,19 +1039,19 @@ While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider an
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 6+ | 4 | 5 | 2 | 2 | 6+ | 9+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 6+ | 4 | 5 | 2 | 2 | 6+ | 9+ |
 
 **WARGEAR**
 
-- Armour, claws and teeth (hand weapons)
+- [Armour], Claws And Teeth (hand Weapons)
 
 **SPECIAL RULES**
 
-- Dominant (2)
-- Terror
-- Venom
+- [Dominant] (2)
+- [Terror]
+- [Venom]
 
 - **Slow-acting Venom** `PASSIVE`
 
@@ -1037,7 +1060,6 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CORSAIR BALLISTA [70 POINTS]
@@ -1060,10 +1082,18 @@ A model that is hit by the shot of a Ballista will be flung back D6" directly aw
 
 A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
 
-**ADDITIONAL PROFILES**
 
-- **Corsair Siege Crew**
-  - Mv 6", Fv 4, Sv 4+, S 3, D 3, A 1, W 1, C 7+, I 7+
+
+**Corsair Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ |
+
+**WARGEAR**
+
+- [Light Armour]
+- [Hand Weapon]
 
 </div>
 

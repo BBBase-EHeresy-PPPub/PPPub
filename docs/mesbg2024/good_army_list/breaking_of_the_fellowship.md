@@ -65,9 +65,9 @@ Merry & Pippin - Daggers of the Noldorin - ACTIVE - These are Elven hand weapons
 Aragorn - Elven Dagger - ACTIVE - This is an Elven hand weapon with the Uruk-haibane special rule.
 Legolas - Bow of the Galadhrim - ACTIVE - Whilst within 3" of a friendly Lothlórien model, Legolas may re-roll failed To Hit rolls when making shooting attacks.
 Gimli - Galadriel's Locks - ACTIVE - Gimli may use this Wargear to re-roll a single D6 in a Duel Roll. Gimli may only use this Wargear three times during the course of the game.
-Boromir - Golden Belt - ACTIVE - Boromir gains the Woodland Creature special rule.
+Boromir - Golden Belt - ACTIVE - Boromir gains the [Woodland Creature] special rule.
 
-**"You have my sword"** - So long as Frodo is alive and on the battlefield, friendly Fellowship models gain the Fearless special rule. Additionally, a Breaking of the Fellowship Army can never be considered Broken whilst Frodo is alive, even if he escapes the battlefield in Scenarios where this applies.
+**"You have my sword"** - So long as Frodo is alive and on the battlefield, friendly Fellowship models gain the [Fearless] special rule. Additionally, a Breaking of the Fellowship Army can never be considered Broken whilst Frodo is alive, even if he escapes the battlefield in Scenarios where this applies.
 
 **Blessing of Galadriel** - Friendly models count as being under the effects of the Fortify Spirit Magical Power, even if they have no Will Points remaining.
 

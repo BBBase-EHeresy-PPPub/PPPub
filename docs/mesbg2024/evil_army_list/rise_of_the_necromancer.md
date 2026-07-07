@@ -52,6 +52,6 @@
 
 ## SPECIAL RULES
 
-**Power of the Necromancer** - Friendly models gain the Resistant to Magic special rule. Additionally, the Necromancer can attempt to Cast two Magical Powers when he Activates rather than one; however, he may not attempt to Cast the same Magical Power twice, or target the same enemy model twice.
+**Power of the Necromancer** - Friendly models gain the [Resistant to Magic] special rule. Additionally, the Necromancer can attempt to Cast two Magical Powers when he Activates rather than one; however, he may not attempt to Cast the same Magical Power twice, or target the same enemy model twice.
 
 **"His spirit has lost none of its potency"** - Each time the Necromancer attempts to Cast a Magical Power by expending one or more Will Points, he automatically adds an additional free Will Point to the Casting Test.

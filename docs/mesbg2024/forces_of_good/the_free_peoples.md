@@ -1,5 +1,3 @@
-# The Free Peoples
-
 <div class="unitCard" markdown>
 
 ### ARAGORN, STRIDER [160 POINTS]
@@ -13,28 +11,28 @@
 **WARGEAR**
 
 - Ring of Barahir
-- hand-and-a-half sword.
+- Hand-and-a-half [Sword].
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Bow: 5 points
-- Elven cloak: Free
+- [Bow] - 5 points
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Mighty Hero
-- Resistant to Magic
+- [Horse Lord]
+- [Mighty Hero]
+- [Resistant to Magic]
 
 - **Ring of Barahir** `PASSIVE`
 
@@ -42,7 +40,7 @@ When affected by a Magical Power, and after any resist tests have been made (if 
 
 - **Anduril, Flame of the West** `ACTIVE`
 
-Elven hand-and-a-half weapon, never needs more than a 4+ To Wound, or a 3+ if using Anduril as a two-handed weapon.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], never needs more than a 4+ To Wound, or a 3+ if using Anduril as a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -60,35 +58,35 @@ Elven hand-and-a-half weapon, never needs more than a 4+ To Wound, or a 3+ if us
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Protection of the Valar | 6" | 3+ |
-| Terrifying Aura | Self | 3+ |
-| Blinding Light | Self | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Transfix | 12" | 4+ |
-| Collapse Rocks | 12" | 5+ |
-| Foil Magic | 12" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Protection of the Valar] | 6" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Blinding Light] | Self | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Transfix] | 12" | 4+ |
+| [Collapse Rocks] | 12" | 5+ |
+| [Foil Magic] | 12" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **SPECIAL RULES**
 
 - **Glamdring** `ACTIVE`
 
-Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -110,20 +108,20 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Claws and beak (hand weapon)
+- Claws And Beak ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Dominant (4)
-- Fly
-- Large Target
-- Monstrous Charge
-- Terror
+- [Dominant] (4)
+- [Fly]
+- [Large Target]
+- [Monstrous Charge]
+- [Terror]
 
 - **The Windlord** `ACTIVE`
 
@@ -145,36 +143,36 @@ Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast or benefit fr
 
 **WARGEAR**
 
-- Staff of Power
-- hand weapon
+- [Staff of Power]
+- [Hand Weapon]
 - Sebastian
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Channelling
+- [Heroic Defence]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Panic Steed | 12" | 3+ |
-| Terrifying Aura | Self | 3+ |
-| Transfix | 12" | 4+ |
-| Renew | 12" | 4+ |
-| Nature's Wrath | 3" | 5+ |
-| Aura of Dismay | Self | 5+ |
-| Writhing Vines | Self | 5+ |
+| [Panic Steed] | 12" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Renew] | 12" | 4+ |
+| [Nature's Wrath] | 3" | 5+ |
+| [Aura of Dismay] | Self | 5+ |
+| [Writhing Vines] | Self | 5+ |
 
 **OPTIONS**
 
-- Exchange Staff for Great Eagle: 55 points
+- Exchange Staff for Great Eagle - 55 points
 
 **SPECIAL RULES**
 
-- Mountain Dweller
-- Stalk Unseen
-- Woodland Creature
+- [Mountain Dweller]
+- [Stalk Unseen]
+- [Woodland Creature]
 
 - **Sebastian** `ACTIVE`
 
@@ -182,7 +180,7 @@ During a Combat, Radagast may roll an additional D6 in the Duel roll, and an add
 
 - **Master of Birds** `PASSIVE`
 
-Radagast always has Line of Sight to any point on the battlefield. Friendly Eagle models within 12" of Radagast gain Resistant to Magic.
+Radagast always has Line of Sight to any point on the battlefield. Friendly Eagle models within 12" of Radagast gain [Resistant to Magic].
 
 </div>
 
@@ -200,24 +198,24 @@ Radagast always has Line of Sight to any point on the battlefield. Friendly Eagl
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 18" | 3+ |
-| Fog of Disarray | Self | 3+ |
-| Protection of the Valar | 12" | 3+ |
-| Terrifying Aura | Self | 3+ |
-| Transfix | 18" | 3+ |
-| Foil Magic | 18" | 4+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Compel] | 18" | 3+ |
+| [Fog of Disarray] | Self | 3+ |
+| [Protection of the Valar] | 12" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Transfix] | 18" | 3+ |
+| [Foil Magic] | 18" | 4+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **SPECIAL RULES**
 
@@ -249,33 +247,33 @@ At the start of each Move Phase, before the Declare Heroic Actions step, Saruman
 
 **WARGEAR**
 
-- Roots and branches (hand weapon)
+- Roots And Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic March
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic March]
 
 **OPTIONS**
 
-- Merry & Pippin: 10 points
-- Elven Cloak (Merry): 5 points
-- Elven Cloak (Pippin): 5 points
+- Merry & Pippin - 10 points
+- [Elven Cloak] (Merry) - 5 points
+- [Elven Cloak] (Pippin) - 5 points
 
 **SPECIAL RULES**
 
-- Dominant (5)
-- Fearless
-- Large Target
-- Throw Stones (range 18", Strength 10)
-- Terror
-- Woodland Creature
+- [Dominant] (5)
+- [Fearless]
+- [Large Target]
+- [Throw Stones] (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
 
 - **Merry & Pippin** `PASSIVE`
 
-Can ride as passengers and not be targeted by enemy attacks and shooting. Treebeard gains Resistant to Magic if one of them remains mounted. May use their Throw Stones rule without a -1 penalty for moving - see pg.24 of Armies of LOTR book for full details.
+Can ride as passengers and not be targeted by enemy attacks and shooting. Treebeard gains [Resistant to Magic] if one of them remains mounted. May use their [Throw Stones] rule without a -1 penalty for moving - see pg.24 of Armies of LOTR book for full details.
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -297,21 +295,21 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Two-handed weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Burly
-- Dominant (2)
-- Fearless
-- Resistant to Magic
-- Woodland Creature
+- [Burly]
+- [Dominant] (2)
+- [Fearless]
+- [Resistant to Magic]
+- [Woodland Creature]
 
 - **Skin-changer** `ACTIVE`
 
@@ -333,31 +331,31 @@ At the start of his Activation, Beorn can change his form from Man to Bear. If h
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 - Horn of Gondor
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic March]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Elven cloak: Free
+- [Shield] - 5 points
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
 - **Horn of Gondor** `ACTIVE`
 
-A war horn, where if Boromir is outnumbered in a Combat, you may ask your opponent to choose one of their models involved, who must take a Courage test. If they fail, Boromir wins the Duel roll.
+A [war horn][War Horn], where if Boromir is outnumbered in a Combat, you may ask your opponent to choose one of their models involved, who must take a Courage test. If they fail, Boromir wins the Duel roll.
 
 - **Protect the little ones!** `PASSIVE`
 
-Whilst within 3" of friendly Fellowship Hobbit models, Boromir gains Fearless, and may re-roll failed To Wound rolls when making Strikes.
+Whilst within 3" of friendly Fellowship Hobbit models, Boromir gains [Fearless], and may re-roll failed To Wound rolls when making Strikes.
 
 </div>
 
@@ -380,21 +378,21 @@ Whilst within 3" of friendly Fellowship Hobbit models, Boromir gains Fearless, a
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fortify Spirit | 12" | 3+ |
-| Banishment | 12" | 4+ |
+| [Fortify Spirit] | 12" | 3+ |
+| [Banishment] | 12" | 4+ |
 | Instill Fear | Self | 4+ |
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Nenya** `PASSIVE`
 
@@ -410,11 +408,11 @@ Galadriel gains a free Will point at the start of each turn. If it is not spent 
 
 - **War Aspect** `PASSIVE`
 
-Enemies within 6" of Galadriel suffer a -1 penalty to any Courage tests. Additionally, Galadriel never counts as Unarmed.
+Enemies within 6" of Galadriel suffer a -1 penalty to any Courage tests. Additionally, Galadriel never counts as [Unarmed].
 
 - **"Go back to the void, from whence you came!"** `ACTIVE`
 
-Galadriel may target any enemy with Banishment as if it were a Spirit model, though non-Spirit models targeted will gain an extra free Will point to their Resist test. Once per game instead of casting a Magical Power, as long as she has at least 1 Will point, she may choose an enemy within 6", who immediately suffers D3 Wounds. After doing this, her Will points becomes 0, she is placed Prone, and no longer benefits from her The Lady of Lorien or War Aspect special rules (and thus becomes Unarmed).
+Galadriel may target any enemy with Banishment as if it were a Spirit model, though non-Spirit models targeted will gain an extra free Will point to their Resist test. Once per game instead of casting a Magical Power, as long as she has at least 1 Will point, she may choose an enemy within 6", who immediately suffers D3 Wounds. After doing this, her Will points becomes 0, she is placed Prone, and no longer benefits from her The Lady of Lorien or War Aspect special rules (and thus becomes [Unarmed]).
 
 </div>
 
@@ -432,23 +430,23 @@ Galadriel may target any enemy with Banishment as if it were a Spirit model, tho
 
 **WARGEAR**
 
-- Hand weapon
-- spear
-- blowpipe
+- [Hand Weapon]
+- [Spear]
+- [Blowpipe]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Accuracy
+- [Heroic March]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Hatred (Goblin)
+- [Hatred] (Goblin)
 - Hated (Orc)
-- Hatred (Uruk-hai)
-- Poisoned Attacks
-- Stalk Unseen
-- Woodland Creature
+- [Hatred] (Uruk-hai)
+- [Poisoned Attacks]
+- [Stalk Unseen]
+- [Woodland Creature]
 
 - **Forest Stalker** `PASSIVE`
 
@@ -470,22 +468,22 @@ Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a p
 
 **WARGEAR**
 
-- Two-handed weapon
-- Great bow
+- [Two-handed Weapon]
+- Great [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Burly
-- Dominant (2)
-- Fearless
-- Resistant to Magic
-- Woodland Creature
+- [Burly]
+- [Dominant] (2)
+- [Fearless]
+- [Resistant to Magic]
+- [Woodland Creature]
 
 - **Skin-changer** `ACTIVE`
 
@@ -511,22 +509,22 @@ Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
 
 **WARGEAR**
 
-- Elven-made weapon
-- Elf bow
+- Elven-made Weapon
+- Elf [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven cloak: Free
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Woodland Creature
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **"Final Count, 42"** `ACTIVE`
 
@@ -556,30 +554,30 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Pony
+- [Armour]
+- [Hand Weapon]
+- [Pony]
 - Horn of the Riddermark
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic March
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven cloak: 5 points
-- Shield: 5 points
+- [Elven Cloak] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Horn of the Riddermark** `ACTIVE`
 
-A war horn. Additionally, Merry gains the Fearless special rule.
+A [war horn][War Horn]. Additionally, Merry gains the [Fearless] special rule.
 
 </div>
 
@@ -597,24 +595,24 @@ A war horn. Additionally, Merry gains the Fearless special rule.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Pony
+- [Armour]
+- [Hand Weapon]
+- [Pony]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic March
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Against all odds** `ACTIVE`
 
@@ -636,17 +634,17 @@ Pippin may re-roll any failed To Wound rolls when making Strikes against Hero or
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Sharpshooter
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Sharpshooter]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Champion Stone Skipper** `ACTIVE`
 
@@ -676,21 +674,21 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **WARGEAR**
 
-- Roots and branches (hand weapon)
+- Roots And Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strength
+- [Heroic Challenge]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Fearless
-- Large Target
-- Throw Stones (range 18", Strength 10)
-- Terror
-- Woodland Creature
+- [Dominant] (3)
+- [Fearless]
+- [Large Target]
+- [Throw Stones] (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
 
 - **Deep-rooted Hatred** `ACTIVE`
 
@@ -716,24 +714,24 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and branches (hand weapon)
+- Roots And Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Fearless
-- Large Target
-- Throw Stones (range 18", Strength 10)
-- Terror
-- Woodland Creature
+- [Dominant] (3)
+- [Fearless]
+- [Large Target]
+- [Throw Stones] (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
 
 - **Naturally Unhasty** `ACTIVE`
 
-Birchseed gets a free Heroic Move in the Move Phase of any turn in which the opposing player won Priority and chose to have Priority themselves that turn.
+Birchseed gets a free [Heroic Move] in the Move Phase of any turn in which the opposing player won Priority and chose to have Priority themselves that turn.
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -755,17 +753,17 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Two-handed weapon
+- [Two-handed Weapon]
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Get out of my fields!** `ACTIVE`
 
-Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a two-handed weapon.
+Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -787,17 +785,17 @@ Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Pitchfork** `PASSIVE`
 
-A Pitchfork can either be used as a spear or a two-handed weapon.
+A Pitchfork can either be used as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **"This is our Country"** `PASSIVE`
 
@@ -819,31 +817,31 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 - The One Ring
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Mithril Coat: 15 points
-- Sting: 5 points
-- Elven cloak: Free
+- Mithril Coat - 15 points
+- Sting - 5 points
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
-A piece of Mithril armour, additionally Frodo may re-roll Fate rolls of a 1.
+A piece of [Mithril armour][Mithril Armour], additionally Frodo may re-roll Fate rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-An Elven hand weapon, Frodo gains +1 Strength when making strikes with Sting.
+An Elven [hand weapon][Hand Weapon], Frodo gains +1 Strength when making strikes with Sting.
 
 </div>
 
@@ -862,24 +860,24 @@ An Elven hand weapon, Frodo gains +1 Strength when making strikes with Sting.
 **WARGEAR**
 
 - Mithril Coat
-- Pony
-- unarmed
+- [Pony]
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 - **Mithril Coat** `PASSIVE`
 
-Mithril armour. Additionally, the wearer may re-roll Fate Rolls of a 1.
+[Mithril armour][Mithril Armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
 
 - **"It will never really heal!"** `PASSIVE`
 
@@ -887,7 +885,7 @@ Frodo may never Charge enemy models under any circumstances. Additionally, Frodo
 
 - **Home is the Hero** `PASSIVE`
 
-Friendly Hobbit models treat Frodo as a banner with a range of 6".
+Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 
 </div>
 
@@ -905,21 +903,21 @@ Friendly Hobbit models treat Frodo as a banner with a range of 6".
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- Master Forged two-handed weapon
-- two hand weapons
-- Throwing weapons
+- [Heavy Dwarf Armour]
+- Master Forged [Two-handed Weapon]
+- Two Hand Weapons
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of a Combat, Gimli can choose either his two-handed axe, or an axe in each hand which gives him an Attack value of 3.
+At the beginning of a Combat, Gimli can choose either his [two-handed][Two-Handed] [axe][Axe], or an [axe][Axe] in each hand which gives him an Attack value of 3.
 
 - **"I myself am sitting pretty on 43"** `ACTIVE`
 
@@ -941,12 +939,12 @@ If Gimli has fewer kills than Legolas, he gets +1 bonus on To Wound rolls when m
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Leave my Flowers Alone!** `PASSIVE`
 
@@ -968,21 +966,21 @@ At the start of the game after deployments, Hamfast's player places three 25mm F
 
 **WARGEAR**
 
-- Hand-and-a-half weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Leader (Hobbit Shirriff)
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Leader] (Hobbit Shirriff)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their hand-and-a-half weapon as a two-handed weapon.
+Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their [hand-and-a-half weapon][Hand-and-a-half Weapon] as a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -1000,12 +998,12 @@ Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Family Rivalry** `PASSIVE`
 
@@ -1015,7 +1013,7 @@ Lotho may not take part in any Heroic Actions declared by either Bilbo Baggins o
 
 Lotho may spend his Will Points to pay off models around him in the following ways:
 At the start of a Fight Phase, before the Declare Heroic Actions step, Lotho can spend a Will Point to use this ability. If he does, until the End Phase of the turn, friendly Hobbit models within 3" of Lotho gain a +1 bonus to their Fight Value.
-At the start of a Move Phase, before the Declare Heroic Actions step, Lotho can spend a Will Point to use this ability. If he does, until the End Phase of the turn, friendly Ruffian models within 3" of Lotho count as having the Fearless special rule.
+At the start of a Move Phase, before the Declare Heroic Actions step, Lotho can spend a Will Point to use this ability. If he does, until the End Phase of the turn, friendly Ruffian models within 3" of Lotho count as having the [Fearless] special rule.
 When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to use this ability. If he does, roll a D6. On a 2+, the enemy model stops 1" away from Lotho instead of Charging him and their Activation immediately ends.
 
 </div>
@@ -1034,16 +1032,16 @@ When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to us
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **To me, Shire-folk!** `ACTIVE`
 
@@ -1069,17 +1067,17 @@ Friendly Tookish Hunters within 6" of Paladin gain a bonus of +1 To Wound when m
 
 **WARGEAR**
 
-- Hand-and-a-half weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Leader (Hobbit Shirriff)
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Leader] (Hobbit Shirriff)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **A Nose for Shortcuts** `PASSIVE`
 
@@ -1101,26 +1099,26 @@ In Scenarios where you roll for Warbands to arrive, or ones where you roll to se
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 - Frying Pan
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Elven cloak: Free
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **"Let him go or I'll have you, Longshanks!"** `ACTIVE`
 
-If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a Heroic Combat for free. If the action is successful, Sam must use the following move to join Frodo's combat, or move as close as possible to Frodo.
+If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Combat] for free. If the action is successful, Sam must use the following move to join Frodo's combat, or move as close as possible to Frodo.
 
 - **Frying Pan** `ACTIVE`
 
@@ -1143,31 +1141,31 @@ If Sam wins a Duel Roll, he may choose to use his frying pan instead of making S
 **WARGEAR**
 
 - Sting
-- Pony
+- [Pony]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Sworn Protector (Frodo)
-- Sworn Protector (Rosie)
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Sworn Protector] (Frodo)
+- [Sworn Protector] (Rosie)
+- [Throw Stones] (range 8", Strength 1)
 
 - **Sting** `ACTIVE`
 
-Elven hand weapon. This model gains a bonus of +1 Strength when making Strikes with Sting.
+Elven [hand weapon][Hand Weapon]. This model gains a bonus of +1 Strength when making Strikes with Sting.
 
 - **"There's some good in this world, Mr Frodo, and it's worth fighting for"** `ACTIVE`
 
-During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie are Engaged in Combat and are within 6" of Sam, then Sam may declare a free Heroic Combat. If this Heroic Combat is successful, then Sam must use the following Move to join either Frodo's or Rosie's Combat, as chosen by Sam's controlling player. If this is not possible, then Sam must Move as close as possible to either Frodo or Rosie. Sam cannot use this special rule if he is in the same Combat as either Frodo or Rosie.
+During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie are Engaged in Combat and are within 6" of Sam, then Sam may declare a free [Heroic Combat]. If this [Heroic Combat] is successful, then Sam must use the following Move to join either Frodo's or Rosie's Combat, as chosen by Sam's controlling player. If this is not possible, then Sam must Move as close as possible to either Frodo or Rosie. Sam cannot use this special rule if he is in the same Combat as either Frodo or Rosie.
 
 </div>
 
@@ -1185,17 +1183,17 @@ During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Leader (Hobbit Shirriff)
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Leader] (Hobbit Shirriff)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Mayor of Michel Delving** `ACTIVE`
 
@@ -1217,12 +1215,12 @@ At the beginning of a Fight Phase, before the Declare Heroic Actions step, Will 
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -1232,7 +1230,7 @@ If Barliman finishes his Move in base contact with a friendly Fellowship model, 
 
 - **Well fed, and ready to fight** `PASSIVE`
 
-Friendly Fellowship models within 6" of Barliman count as having the Dominant (2) special rule.
+Friendly Fellowship models within 6" of Barliman count as having the [Dominant] (2) special rule.
 
 </div>
 
@@ -1250,17 +1248,17 @@ Friendly Fellowship models within 6" of Barliman count as having the Dominant (2
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Dominant (2)
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Dominant] (2)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Live to fight another day** `PASSIVE`
 
-If Fredegar attempts to Charge an enemy model with the Terror special rule and fails the Courage Test, then Fredegar may still Move as normal; however, he may not Charge any model that turn.
+If Fredegar attempts to Charge an enemy model with the [Terror] special rule and fails the Courage Test, then Fredegar may still Move as normal; however, he may not Charge any model that turn.
 
 </div>
 
@@ -1278,34 +1276,34 @@ If Fredegar attempts to Charge an enemy model with the Terror special rule and f
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Mithril Coat: 15 points
-- Sting: 5 points
-- The One Ring: Free
+- Mithril Coat - 15 points
+- Sting - 5 points
+- The One Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
-A piece of Mithril armour, additionally Bilbo may re-roll Fate rolls of a 1.
+A piece of [Mithril armour][Mithril Armour], additionally Bilbo may re-roll Fate rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
+An Elven [hand weapon][Hand Weapon], Bilbo gains +1 Strength when making strikes with Sting.
 
 - **Slip Away** `PASSIVE`
 
-Whilst wearing the One Ring and Invisible, enemy models Engaged in Combat with Bilbo must halve their Fight value.
+Whilst wearing [the One Ring][The One Ring] and [Invisible], enemy models Engaged in Combat with Bilbo must halve their Fight value.
 
 </div>
 
@@ -1323,15 +1321,15 @@ Whilst wearing the One Ring and Invisible, enemy models Engaged in Combat with B
 
 **WARGEAR**
 
-- Iron-shod hooves (hand weapon)
+- Iron-shod Hooves ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Fearful
+- [Fearful]
 
 - **Official Meals** `PASSIVE`
 
-Fellowship models treat Bill as a banner.
+Fellowship models treat Bill as a [banner][Banner].
 
 - **Second Breakfast** `PASSIVE`
 
@@ -1357,12 +1355,12 @@ Bill never provides a Stand Fast. However, he can benefit from any Fellowship he
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **High Spirits** `PASSIVE`
 
@@ -1370,7 +1368,7 @@ Whenever a friendly Hobbit model within 6" of Folco spends a Might Point, they m
 
 - **A Helpful Sort** `ACTIVE`
 
-If Folco is within 3" of Frodo, then Frodo can spend Folco's Will Points to declare a Heroic Move instead of using one of his own Might Points.
+If Folco is within 3" of Frodo, then Frodo can spend Folco's Will Points to declare a [Heroic Move] instead of using one of his own Might Points.
 
 </div>
 
@@ -1388,7 +1386,7 @@ If Folco is within 3" of Frodo, then Frodo can spend Folco's Will Points to decl
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -1427,8 +1425,8 @@ At any point during her Activation, Goldberry may spend a Will Point to sing one
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Umbrella** `ACTIVE`
 
@@ -1458,16 +1456,16 @@ Once per turn during her Activation, Lobelia can spend a Will point, and choose 
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Elven cloak: Free
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **For the Shire!** `ACTIVE`
 
@@ -1489,16 +1487,16 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Elven cloak: Free
+- [Elven Cloak] - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 - **For the Shire!** `ACTIVE`
 
@@ -1520,13 +1518,13 @@ If Pippin is within 3" of Boromir of Gondor, Merry may spend his Might points as
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
-- Fearful
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Fearful]
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **If I were to marry anyone, it would've been her** `PASSIVE`
 
@@ -1534,7 +1532,7 @@ Whilst Sam is within 3" of Rosie, he may re-roll any failed To Wound rolls when 
 
 - **Sweet Maiden of the Golden Ale** `PASSIVE`
 
-Rosie is a banner of range 6" for friendly Hobbit models. She also counts as a banner towards Scenario Victory Points, as long as she is alive.
+Rosie is a [banner][Banner] of range 6" for friendly Hobbit models. She also counts as a [banner][Banner] towards Scenario Victory Points, as long as she is alive.
 
 </div>
 
@@ -1552,13 +1550,13 @@ Rosie is a banner of range 6" for friendly Hobbit models. She also counts as a b
 
 **WARGEAR**
 
-- Strangling fingers (never unarmed)
+- Strangling Fingers (never [Unarmed])
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Mountain Dweller
-- Stalk Unseen
+- [Cave Dweller]
+- [Mountain Dweller]
+- [Stalk Unseen]
 
 - **"Serve the Master of the Precious"** `PASSIVE`
 
@@ -1584,7 +1582,7 @@ Smeagol does not halve his Move value when moving through Difficult Terrain. Add
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -1612,13 +1610,13 @@ After Priority has been rolled, the Gatekeeper may spent a Will point and choose
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
 - **Shattered Spirit** `PASSIVE`
 
-At the start of the Move Phase, before the Declare Heroic Actions Step, Thrain must take an Intelligence Test. If the test is passed, Thrain acts normally during the turn. If the test is passed on a double (i.e., both dice show the same score) then until the end of the turn, Thrain increases his Attacks to 3, his Strength to 4, and gains the Fearless special rule. If the test is failed, then the opposing player controls Thrain as if he was one of their models, and will Activate Thrain during their own Activation Phase. Though he is being controlled by the opposing player, Thrain cannot be targeted with shooting attacks, Magical Powers or special rules that affect enemy models. Additionally, if Thrain was a Good model, then other Good models cannot make Strikes against him should they beat him in a Combat or make Shooting Attacks if he would be In The Way as with any other Good model.
+At the start of the Move Phase, before the Declare Heroic Actions Step, Thrain must take an Intelligence Test. If the test is passed, Thrain acts normally during the turn. If the test is passed on a double (i.e., both dice show the same score) then until the end of the turn, Thrain increases his Attacks to 3, his Strength to 4, and gains the [Fearless] special rule. If the test is failed, then the opposing player controls Thrain as if he was one of their models, and will Activate Thrain during their own Activation Phase. Though he is being controlled by the opposing player, Thrain cannot be targeted with shooting attacks, Magical Powers or special rules that affect enemy models. Additionally, if Thrain was a Good model, then other Good models cannot make Strikes against him should they beat him in a Combat or make Shooting Attacks if he would be In The Way as with any other Good model.
 
 - **Gandalf's Intervention** `ACTIVE`
 
@@ -1640,7 +1638,7 @@ If when Thrain takes his Intelligence Test for his Shattered Spirit special rule
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -1671,27 +1669,27 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 4 | 2 | 2 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 4+ | 4 | 4 | 2 | 2 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Hand-and-a-half weapon
-- Hand weapon
+- [Hand-and-a-half Weapon]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Swap hand-and-a-half weapon for great bow: Free
+- Swap [Hand-and-a-half Weapon] for Great [Bow] - Free
 
 **SPECIAL RULES**
 
-- Burly
-- Woodland Creature
+- [Burly]
+- [Woodland Creature]
 
 - **Followers of the Bear** `PASSIVE`
 
-This model treats friendly Bear models as a banner.
+This model treats friendly Bear models as a [banner][Banner].
 
 </div>
 
@@ -1703,29 +1701,29 @@ This model treats friendly Bear models as a banner.
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 7 | 4+ | 8 | 8 | 3 | 3 | 4+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 7 | 4+ | 8 | 8 | 3 | 3 | 4+ | 5+ |
 
 **WARGEAR**
 
-- Roots and branches (hand weapon)
+- Roots And Branches ([Hand Weapon])
 
 **OPTIONS**
 
-- Beech: Free
-- Oak: Free
-- Chestnut: Free
-- Ash: Free
+- Beech - Free
+- Oak - Free
+- Chestnut - Free
+- Ash - Free
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Fearless
-- Large Target
-- Throw Stones (range 18", Strength 10)
-- Terror
-- Woodland Creature
+- [Dominant] (3)
+- [Fearless]
+- [Large Target]
+- [Throw Stones] (range 18", Strength 10)
+- [Terror]
+- [Woodland Creature]
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -1741,21 +1739,21 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 12" | 6 | 4+ | 5 | 7 | 2 | 3 | 5+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 6 | 4+ | 5 | 7 | 2 | 3 | 5+ | 5+ |
 
 **WARGEAR**
 
-- Claws and beak (hand weapon)
+- Claws And Beak ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Dominant (2)
-- Fly
-- Large Target
-- Monstrous Charge
-- Terror
+- [Dominant] (2)
+- [Fly]
+- [Large Target]
+- [Monstrous Charge]
+- [Terror]
 
 </div>
 
@@ -1767,21 +1765,21 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 12" | 7 | 4+ | 6 | 8 | 2 | 3 | 4+ | 4+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 7 | 4+ | 6 | 8 | 2 | 3 | 4+ | 4+ |
 
 **WARGEAR**
 
-- Claws and beak (hand weapon)
+- Claws And Beak ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Fly
-- Large Target
-- Monstrous Charge
-- Terror
+- [Dominant] (3)
+- [Fly]
+- [Large Target]
+- [Monstrous Charge]
+- [Terror]
 
 </div>
 
@@ -1793,24 +1791,24 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 4" | 2 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 4" | 2 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Hand weapon
-- short bow
+- [Hand Weapon]
+- Short [Bow]
 
 **OPTIONS**
 
-- War horn: 25 points
-- Tookish Hunters: 1 point
+- [War Horn] - 25 points
+- Tookish Hunters - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -1822,22 +1820,22 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 4" | 1 | 3+ | 2 | 3 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 4" | 1 | 3+ | 2 | 3 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Battlin' Brandybucks: 1 point
+- Battlin' Brandybucks - 1 point
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1).
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -1849,18 +1847,18 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 4" | 3 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 4" | 3 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Hand-and-a-half weapon
+- [Hand-and-a-half Weapon]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -1872,24 +1870,24 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 3+ | 3 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 3+ | 3 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Hand weapon
-- spear
-- blowpipe
+- [Hand Weapon]
+- [Spear]
+- [Blowpipe]
 
 **SPECIAL RULES**
 
-- Hatred (Goblin)
+- [Hatred] (Goblin)
 - Hated (Orc)
-- Hatred (Uruk-hai)
-- Stalk Unseen
-- Poisoned Attacks
-- Woodland Creature
+- [Hatred] (Uruk-hai)
+- [Stalk Unseen]
+- [Poisoned Attacks]
+- [Woodland Creature]
 
 </div>
 

@@ -37,8 +37,8 @@
 
 **"Girion, lord of the city, rallied his bowmen to fire upon the beast"** - Friendly Dale models improve their Shoot Value to 3+.
 
-**Bring down the Dragon** - Friendly Dale models may apply their Hatred (Dragon) special rule to their shooting attacks. Additionally, friendly Dale models may re-roll failed To Hit Rolls when making a shooting attack targeting a Monster model.
+**Bring down the Dragon** - Friendly Dale models may apply their [Hatred] (Dragon) special rule to their shooting attacks. Additionally, friendly Dale models may re-roll failed To Hit Rolls when making a shooting attack targeting a Monster model.
 
-**Girion's Last Stand** - Girion gains the Fearless special rule. Additionally, friendly Dale models that can draw Line of Sight to Girion gain a bonus of +1 to any Courage Tests they are required to take.
+**Girion's Last Stand** - Girion gains the [Fearless] special rule. Additionally, friendly Dale models that can draw Line of Sight to Girion gain a bonus of +1 to any Courage Tests they are required to take.
 
 **Defenders of Dale** - Friendly Dale models that are within their deployment zone, and/or within 6" of a friendly Windlance, gain a bonus of +1 To Wound when making Strikes.

@@ -25,6 +25,7 @@
 [Heavy Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
 [Mithril Armour]: ../rules_manual/weapons_and_wargear.md#mithril-armour
+[Shield]: ../rules_manual/weapons_and_wargear.md#shields
 [Shields]: ../rules_manual/weapons_and_wargear.md#shields
 [Shielding]: ../rules_manual/weapons_and_wargear.md#shielding
 [Light Shield]: ../rules_manual/weapons_and_wargear.md#light-shield

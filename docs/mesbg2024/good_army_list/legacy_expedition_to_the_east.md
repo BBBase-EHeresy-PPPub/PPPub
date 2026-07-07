@@ -46,7 +46,7 @@
 
 ## SPECIAL RULES
 
-**Campaign in Rhûn** - Friendly models gain the Hatred (Easterling) special rule.
+**Campaign in Rhûn** - Friendly models gain the [Hatred] (Easterling) special rule.
 
 **Unlikely Allies** - Friendly Dwarf models may re-roll To Wound rolls of a natural 1 whilst within 1" of a friendly Gondor model. Friendly Gondor models may re-roll To Wound rolls of a natural 1 whilst within 1" of a friendly Dwarf model.
 

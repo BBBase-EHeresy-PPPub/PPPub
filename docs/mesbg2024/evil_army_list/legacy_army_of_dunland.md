@@ -46,7 +46,7 @@
 
 ## SPECIAL RULES
 
-**"Death to the Forgoil!"** - Friendly Dunland models gain the Hatred (Rohan) special rule.
+**"Death to the Forgoil!"** - Friendly Dunland models gain the [Hatred] (Rohan) special rule.
 
 **Dunlending Pride** - Friendly banners have a range of 6" rather than 3".
 

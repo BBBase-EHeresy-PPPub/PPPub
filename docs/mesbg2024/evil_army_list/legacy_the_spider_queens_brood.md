@@ -39,4 +39,4 @@
 
 **Pounce** - When a friendly Spider Warrior model Charges an enemy Infantry model, they gain the Knock to the Ground bonus as if they were Cavalry. This bonus is lost if they are subsequently Charged by an enemy Cavalry model.
 
-**The Queen's Cunning** - If the Spider Queen declares a Heroic Move in the same turn as an enemy Hero, and subsequently loses the roll-off to see which Heroic Move will go first, she may choose to cancel her Heroic Move and regain the Might point spent to declare it.
+**The Queen's Cunning** - If the Spider Queen declares a [Heroic Move] in the same turn as an enemy Hero, and subsequently loses the roll-off to see which [Heroic Move] will go first, she may choose to cancel her [Heroic Move] and regain the Might point spent to declare it.

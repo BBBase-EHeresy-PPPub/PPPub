@@ -79,4 +79,4 @@
 
 **"Ride for ruin and the world's ending"** - Friendly Rohan Cavalry models gain a bonus of +1 to their Strength on a turn in which they Charge.
 
-**Home of the Horse Lords** - When rolling for their Horse Lord special rule, friendly models will pass the roll on a natural 5+ rather than a natural 6.
+**Home of the Horse Lords** - When rolling for their [Horse Lord] special rule, friendly models will pass the roll on a natural 5+ rather than a natural 6.

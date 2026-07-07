@@ -58,6 +58,6 @@
 
 **"Ride for ruin and the world's ending"** - Friendly Rohan Cavalry models gain a bonus of +1 to their Strength on a turn in which they Charge.
 
-**"Death!"** - Once per game, at the start of any Fight Phase, Theoden can use this special rule so long as he is alive and on the battlefield. If he does, then each friendly Rohan Hero within 12" of Theoden can declare a free Heroic Combat or a free Heroic Strike (if able) during the declare Heroic Actions Step. This is treated as an Active ability belonging to Theoden.
+**"Death!"** - Once per game, at the start of any Fight Phase, Theoden can use this special rule so long as he is alive and on the battlefield. If he does, then each friendly Rohan Hero within 12" of Theoden can declare a free [Heroic Combat] or a free [Heroic Strike] (if able) during the declare Heroic Actions Step. This is treated as an Active ability belonging to Theoden.
 
-**"Forth Eorlingas!"** - Friendly Cavalry Warrior models within 3" of either Theoden or Eomer gain the Dominant (2) special rule.
+**"Forth Eorlingas!"** - Friendly Cavalry Warrior models within 3" of either Theoden or Eomer gain the [Dominant] (2) special rule.

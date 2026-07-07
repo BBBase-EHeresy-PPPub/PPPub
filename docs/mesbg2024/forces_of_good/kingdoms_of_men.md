@@ -1,5 +1,3 @@
-# Kingdoms of Men
-
 <div class="unitCard" markdown>
 
 ### BRAND, KING OF DALE [110 POINTS]
@@ -12,15 +10,15 @@
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -48,17 +46,17 @@ At the start of any Combat involving Brand, if he would be Trapped upon losing t
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Hatred (Dragon)
+- [Hatred] (Dragon)
 
 - **Windlance Trained** `PASSIVE`
 
@@ -84,22 +82,22 @@ Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-rol
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that Charged them this turn.
 
 </div>
 
@@ -117,19 +115,19 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fearful
+- [Fearful]
 
 - **Moneybags** `ACTIVE`
 
-At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a banner until the end of the turn.
+At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a [banner][Banner] until the end of the turn.
 
 - **Price of Greed** `PASSIVE`
 
@@ -155,7 +153,7 @@ Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as 
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -165,7 +163,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 1. The chosen Hero loses a Might Point and Alfrid gains a Might Point. If the chosen Hero has no Might Points remaining, this has no effect.
 2. The chosen Hero immediately regains a single Will Point spent earlier in the battle.
 3. The chosen Hero may re-roll To Wound Rolls of a natural 1 when making Strikes until the end of the turn.
-4. The chosen Hero gains the Fearless special rule until the end of the turn.
+4. The chosen Hero gains the [Fearless] special rule until the end of the turn.
 5. The chosen Hero increases their Fight Value by 1 until the end of the turn.
 6. The chosen Hero immediately regains a single Might Point spent earlier in the battle.
 
@@ -185,30 +183,30 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 
 **WARGEAR**
 
-- Hand weapon
-- great bow
+- [Hand Weapon]
+- Great [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Windlance: 50 points
+- Windlance - 50 points
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Sworn Protector (Bain)
-- Sworn Protector (Sigrid)
-- Sworn Protector (Tilda)
+- [Sharpshooter]
+- [Sworn Protector] (Bain)
+- [Sworn Protector] (Sigrid)
+- [Sworn Protector] (Tilda)
 
 - **Rapid Fire** `ACTIVE`
 
-If Bard hits a target with his great bow, he may make another shooting attack with his great bow that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
+If Bard hits a target with his great [bow][Bow], he may make another shooting attack with his great [bow][Bow] that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
 
 - **Swift Shot** `ACTIVE`
 
@@ -244,26 +242,26 @@ If Bard takes a Windlance, he will be the only crew. but can move more than 6" a
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Mithril Coat** `PASSIVE`
 
-A piece of Mithril armour, additionally Bilbo may re-roll Fate rolls of a 1.
+A piece of [Mithril armour][Mithril Armour], additionally Bilbo may re-roll Fate rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-An Elven hand weapon, Bilbo gains +1 Strength when making strikes with Sting.
+An Elven [hand weapon][Hand Weapon], Bilbo gains +1 Strength when making strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores the Sauron's Will section of the rules for the One Ring. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing the One Ring, he is not removed as a casualty as would usually be the case.
+Bilbo ignores the Sauron's Will section of the rules for [the One Ring][The One Ring]. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing [the One Ring][The One Ring], he is not removed as a casualty as would usually be the case.
 
 </div>
 
@@ -281,13 +279,13 @@ Bilbo ignores the Sauron's Will section of the rules for the One Ring. Furthermo
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -297,7 +295,7 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, Braga automatical
 
 - **Captain of the Guard** `PASSIVE`
 
-So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having Dominant (2).
+So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having [Dominant] (2).
 
 </div>
 
@@ -315,17 +313,17 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Hatred (Dragon)
+- [Hatred] (Dragon)
 
 </div>
 
@@ -343,11 +341,11 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 **WARGEAR**
 
-- Spear
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -371,12 +369,12 @@ If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she an
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -400,14 +398,14 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
-- spear
+- [Armour]
+- [Shield]
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -425,12 +423,12 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 **WARGEAR**
 
-- Hand weapon
-- bow
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
@@ -448,22 +446,73 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 *INDEPENDENT HERO, UNIQUE*
 
+**HEROIC ACTIONS**
+
+- [Heroic Strike]
+
+
+**Bain, Son of Bard**
+
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | 1 | 3 | 2 |
+| 6" | 3 | 4+ | 3 | 3 | 1 | 2 | 6+ | 7+ | 1 | 3 | 2 |
+
+**WARGEAR**
+
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
-**ADDITIONAL PROFILES**
+**SPECIAL RULES**
 
-- **Bain, Son of Bard**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 3, A 1, W 2, C 6+, I 7+
-- **Sigrid**
-  - Mv 6", Fv 2, Sv 4+, S 2, D 2, A 1, W 1, C 7+, I 7+
-- **Tilda**
-  - Mv 6", Fv 1, Sv 4+, S 2, D 2, A 1, W 1, C 8+, I 7+
+- **Family Bond** `PASSIVE`
+
+Whilst within 3" of Sigrid or Tilda, Bain increases his Attacks to 2, and gains a bonus of +1 to his Courage tests.
+
+
+---
+
+**Sigrid**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 2 | 4+ | 2 | 2 | 1 | 1 | 7+ | 7+ | 0 | 1 | 2 |
+
+**WARGEAR**
+
+- [Unarmed]
+
+**SPECIAL RULES**
+
+- [Fearful]
+
+- **Da! Down here!** `PASSIVE`
+
+Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a Heroic Combat for free. If this Heroic Combat is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
+
+
+---
+
+**Tilda**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 1 | 4+ | 2 | 2 | 1 | 1 | 8+ | 7+ | 0 | 1 | 2 |
+
+**WARGEAR**
+
+- [Unarmed]
+
+**SPECIAL RULES**
+
+- [Fearful]
+
+- **Da! Down here!** `PASSIVE`
+
+Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his Fight Value. If Bard the Bowman is within 6" of both Sigrid and Tilda, then he will gain a bonus of +1 to his Fight Value and may re-roll a single D6 when making a Duel Roll. Additionally, during the Declare Heroic Actions Step of the Fight Phase, if Sigrid or Tilda are within 6" of Bard and are Engaged in Combat, then Bard may declare a Heroic Combat for free. If this Heroic Combat is successful, then Bard must use the following Move to join Sigrid's or Tilda's Combat. If this is not possible, then Bard must move as close as possible to Sigrid or Tilda. Bard cannot use this special rule whilst he is in the same Combat as either Sigrid or Tilda, unless the other one of Sigrid or Tilda is in a different Combat within 6".
+
 
 </div>
 
@@ -475,22 +524,22 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [Spear]
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their spear against a model that Charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that Charged them this turn.
 
 </div>
 
@@ -502,19 +551,19 @@ This model gains a bonus of +1 To Wound when making Strikes with their spear aga
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Spear: 1 point
+- [Bow] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -532,20 +581,22 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 2 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 2 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
+- [Light Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Light shield: 1 point
-- Spear: 1 point
+A Lake-town Militia must have one of the following options for the listed points cost:
+
+- [Bow] - 1 point
+- [Light Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -563,26 +614,28 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is E
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn: 25 points
-- Banner: 25 points
-- Esgaroth bow: 2 points
-- Shield and spear: 2 points
-- Shield: 1 point
+A Warrior of Dale must have one of the following options for the listed points cost:
+
+- [War Horn] - 25 points
+- [Banner] - 25 points
+- Esgaroth [Bow] - 2 points
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Dragon)
+- [Hatred] (Dragon)
 
 </div>
 
@@ -600,8 +653,8 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is E
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -615,10 +668,22 @@ A Windlance will only scatter 3" rather than 6"
 
 A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
 
-**ADDITIONAL PROFILES**
 
-- **Dale Siege Crew**
-  - Mv 6", Fv 4, Sv 4+, S 3, D 4, A 1, W 1, C 7+, I 7+
+
+**Dale Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
+
+**SPECIAL RULES**
+
+- [Hatred] (Dragon)
 
 </div>
 

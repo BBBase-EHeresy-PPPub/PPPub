@@ -44,4 +44,4 @@
 
 **"Ride for ruin and the world's ending"** - Friendly Rohan Cavalry models gain a bonus of +1 to their Strength on a turn in which they Charge.
 
-**"To the King!"** - Eomer may declare a Heroic Combat each turn for free.
+**"To the King!"** - Eomer may declare a [Heroic Combat] each turn for free.

@@ -60,4 +60,4 @@
 
 **"Return to your posts"** - Friendly Gondor models within range of an Objective Marker may re-roll To Wound rolls of a natural 1 when making shooting attacks or making Strikes.
 
-**"Send these foul creatures into the abyss"** - Friendly Gondor models within 12" of Gandalf the White gain the Hatred (Mordor) special rule.
+**"Send these foul creatures into the abyss"** - Friendly Gondor models within 12" of Gandalf the White gain the [Hatred] (Mordor) special rule.

@@ -48,4 +48,4 @@
 
 **Shadow...** - Shooting attacks that target the Balrog will only ever hit on the roll of a 5+.
 
-**...and Flame** - Once per game, at the start of any Shoot Phase, the Balrog may select a single enemy model within 3" of it and roll a D6. On a 2+, the model is immediately Set Ablaze. This is an Active ability belonging to the Balrog, and after it has used this ability, the Balrog no longer benefits from the 'Shadow...' special rule.
+**...and Flame** - Once per game, at the start of any Shoot Phase, the Balrog may select a single enemy model within 3" of it and roll a D6. On a 2+, the model is immediately [Set Ablaze]. This is an Active ability belonging to the Balrog, and after it has used this ability, the Balrog no longer benefits from the 'Shadow...' special rule.

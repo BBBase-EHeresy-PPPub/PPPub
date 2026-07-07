@@ -52,4 +52,4 @@
 
 **A Desperate Defence** - Whilst this Army is considered to be Broken, friendly models gain a bonus of +1 To Wound when making Strikes.
 
-**Balin's Last Stand** - At the beginning of the Fight Phase, at the start of the Declare Heroic Actions Step, any friendly Dwarf Hero models that would be considered Trapped may declare a Heroic Defence for free, even if they could not normally declare a Heroic Defence.
+**Balin's Last Stand** - At the beginning of the Fight Phase, at the start of the Declare Heroic Actions Step, any friendly Dwarf Hero models that would be considered Trapped may declare a [Heroic Defence] for free, even if they could not normally declare a [Heroic Defence].

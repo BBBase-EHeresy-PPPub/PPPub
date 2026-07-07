@@ -49,6 +49,6 @@
 
 **Yanâd Durinul** - Friendly Infantry models may re-roll To Wound Rolls of a natural 1 when making Strikes, so long as they are in base contact with 2 or more friendly Infantry models.
 
-**Long March from the Iron Hills** - Friendly models gain the Mountain Dweller special rule.
+**Long March from the Iron Hills** - Friendly models gain the [Mountain Dweller] special rule.
 
-**"I've always found Thorin the more reasonable of the two..."** - Dain gains the Master of Battle (5+) special rule.
+**"I've always found Thorin the more reasonable of the two..."** - Dain gains the [Master of Battle] (5+) special rule.

@@ -91,6 +91,6 @@ Conjure Lightning - Choose a point on the battlefield at least 12" away from any
 
 Summon Gale - Until the end of the turn, enemy models halve their Move Value.
 
-Call Thunder - Until the end of the turn, enemy models have the Fearful special rule.
+Call Thunder - Until the end of the turn, enemy models have the [Fearful] special rule.
 
 **Spies of Saruman** - Saruman can draw Line of Sight from any friendly Crebain models on the battlefield.

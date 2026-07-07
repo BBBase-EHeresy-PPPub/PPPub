@@ -22,7 +22,7 @@
 
 ## SPECIAL RULES
 
-**The Campfire** - After both Armies have been deployed, you may place the Campfire anywhere on the battlefield outside of your opponent's deployment zone. The Campfire is on an 80mm base, and must be placed flat on the battlefield. Friendly Troll models treat the Campfire as a banner with a range of 6", and gain the Resistant to Magic special rule and a bonus of +1 to any Courage Tests whilst within 6" of it.
+**The Campfire** - After both Armies have been deployed, you may place the Campfire anywhere on the battlefield outside of your opponent's deployment zone. The Campfire is on an 80mm base, and must be placed flat on the battlefield. Friendly Troll models treat the Campfire as a banner with a range of 6", and gain the [Resistant to Magic] special rule and a bonus of +1 to any Courage Tests whilst within 6" of it.
 
 **A Troll's Hoard** - The Three Trolls Army works in an unusual way in that they are allowed to purchase additional special rules. Each of the special rules listed below can be purchased for 50 points, allowing The Three Trolls to be taken at many different points values and not just at 400 points.
 
@@ -34,15 +34,15 @@
 
 **Rumbling Momentum** - Bill, Bert and Tom increase their Attacks to 4 on a turn in which they Charge.
 
-**Bowl them over** - Instead of using their Throw Stones special rule as normal, Bill, Bert and Tom may use stones in the same way as a Throwing Weapon. These have a Strength of 8 and a range of 12". Additionally, Bill, Bert and Tom may re-roll the dice when determining the Hurl Distance when using the Hurl Brutal Power Attack.
+**Bowl them over** - Instead of using their [Throw Stones] special rule as normal, Bill, Bert and Tom may use stones in the same way as a Throwing Weapon. These have a Strength of 8 and a range of 12". Additionally, Bill, Bert and Tom may re-roll the dice when determining the Hurl Distance when using the Hurl Brutal Power Attack.
 
 **Dominant presence** - Whilst either Bill, Bert or Tom are within 3" of an Objective Marker, they are automatically considered to be holding it and the opposition are considered to have no models within range of the Objective Marker. If models from both sides have a special rule that confers this effect, and the applicable models are within range of the same Objective Marker, then neither Army will get their corresponding special rule.
 
-**Savvy Fighters** - Bill, Bert and Tom all gain Heroic Strike if they didn't already have it. Additionally, whenever an enemy model Engaged in Combat with Bill, Bert or Tom declares a Heroic Strike, roll a D6. On a 4+, the Troll in the same fight may declare a Heroic Strike for free.
+**Savvy Fighters** - Bill, Bert and Tom all gain [Heroic Strike] if they didn't already have it. Additionally, whenever an enemy model Engaged in Combat with Bill, Bert or Tom declares a [Heroic Strike], roll a D6. On a 4+, the Troll in the same fight may declare a [Heroic Strike] for free.
 
 **Tasty Livestock** - After both sides have deployed, but before the first turn begins, a player using The Three Trolls may place four 25mm Livestock Markers on the board. Livestock Markers cannot be set up within 3" of an enemy model or Objective Marker, and cannot be set up within 6" of the edge of the board or another Livestock Marker. If, during their Activation, Bill, Bert or Tom are within 3" of a friendly Livestock Marker they can remove it from the battlefield and immediately regain 1 Wound lost earlier in the battle.
 
-**Cover of Darkness** - At the start of each game using this Army List, you may choose for the Scenario to take place at night if you wish. Additionally, Bill, Bert and Tom gain the Cave Dweller special rule.
+**Cover of Darkness** - At the start of each game using this Army List, you may choose for the Scenario to take place at night if you wish. Additionally, Bill, Bert and Tom gain the [Cave Dweller] special rule.
 
 **Troll Cunning** - Bill, Bert and Tom can never be Trapped whilst still standing. Additionally, Bill, Bert and Tom may re-roll any failed To Wound Rolls when making Strikes against a Trapped model.
 

@@ -82,6 +82,6 @@
 
 **"This day we fight!"** - So long as Aragorn is alive and on the battlefield, friendly models automatically pass any Courage Tests they are required to take.
 
-**The Final Stand** - Friendly Infantry models within 3" of a friendly Hero model gain the Dominant (2) special rule.
+**The Final Stand** - Friendly Infantry models within 3" of a friendly Hero model gain the [Dominant] (2) special rule.
 
 **The White Wizard** - Gandalf may re-roll a single D6 in any Casting Rolls he makes.

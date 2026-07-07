@@ -1,5 +1,3 @@
-# Arnor & Angmar
-
 <div class="unitCard" markdown>
 
 ### ARVEDUI, LAST KING OF ARNOR [80 POINTS]
@@ -12,18 +10,18 @@
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 - **The King in the North** `ACTIVE`
 
@@ -32,7 +30,6 @@ The range of Arvedui's Stand Fast is 12", rather than 6"
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EARNUR, LAST KING OF GONDOR [110 POINTS]
@@ -45,25 +42,25 @@ The range of Arvedui's Stand Fast is 12", rather than 6"
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse and lance: 30 points
+- [Armoured Horse] and [Lance] - 30 points
 
 **SPECIAL RULES**
 
 - **A Fool's Challenge** `ACTIVE`
 
-Earnur must always Charge an enemy Hero if he able to do so when he Activates. Additionally, he may never decline a Heroic Challenge under any circumstances.
+Earnur must always Charge an enemy Hero if he able to do so when he Activates. Additionally, he may never decline a [Heroic Challenge] under any circumstances.
 
 - **Master Duellist** `ACTIVE`
 
@@ -72,7 +69,6 @@ At the start of a Combat involving Earnur, before Heroic Strikes are resolved, E
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GLORFINDEL, LORD OF THE WEST [160 POINTS]
@@ -85,31 +81,31 @@ At the start of a Combat involving Earnur, before Heroic Strikes are resolved, E
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
+- Elven [Hand-and-a-half Weapon]
 - Armour of Gondolin
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Challenge
-- Heroic Strength
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Challenge]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Asfaloth: 20 points
+- Asfaloth - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Expert Rider]
+- [Horse Lord]
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 
 - **Armour of Gondolin** `ACTIVE`
 
-Whilst Glorfindel is wearing the Armour of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
+Whilst Glorfindel is wearing the [Armour] of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
 
 - **Hero of the Elves** `ACTIVE`
 
@@ -122,7 +118,6 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
@@ -135,22 +130,22 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Dominant (5)
-- Fly
-- Harbinger of Evil (12")
-- Large Target
-- Monstrous Charge
-- Resistant to Magic
-- Terror
+- [Dominant] (5)
+- [Fly]
+- [Harbinger of Evil] (12")
+- [Large Target]
+- [Monstrous Charge]
+- [Resistant to Magic]
+- [Terror]
 
 - **Strength of Body, Strength of Will** `PASSIVE`
 
@@ -163,7 +158,6 @@ Each time Gulavhar slays a model in Combat, it regains a single Wound lost earli
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ALDRAC, WARLORD OF CARN DUM [120 POINTS]
@@ -176,19 +170,19 @@ Each time Gulavhar slays a model in Combat, it regains a single Wound lost earli
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strength
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Mighty Blow
+- [Mighty Blow]
 
 - **Warlord of Carn Dum** `PASSIVE`
 
@@ -196,12 +190,11 @@ Friendly Carn Dum models within 6" of Aldrac must re-roll failed Courage Tests.
 
 - **Battle Frenzy** `ACTIVE`
 
-If Aldrac slays an enemy model that he was Engaged in Combat with, then in the following turn Aldrac may declare a Heroic Combat for free.
+If Aldrac slays an enemy model that he was Engaged in Combat with, then in the following turn Aldrac may declare a [Heroic Combat] for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ARANARTH [80 POINTS]
@@ -214,29 +207,28 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Hatred (Angmar)
-- Sharpshooter
+- [Expert Shot]
+- [Hatred] (Angmar)
+- [Sharpshooter]
 
 - **Remnants of Arnor** `PASSIVE`
 
-Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
+Friendly Dunedain models treat Aranarth as a [banner][Banner]. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ARATHORN, CHIEFTAIN OF THE DUNEDAIN [80 POINTS]
@@ -249,18 +241,18 @@ Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Chieftain of the Dunedain** `ACTIVE`
 
@@ -269,7 +261,6 @@ Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BUHRDUR, HILL TROLL CHIEFTAIN [130 POINTS]
@@ -282,24 +273,24 @@ Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Dominant (4)
-- General Hunter
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (4)
+- [General Hunter]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Lead by Example** `ACTIVE`
 
-If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner. If Buhrdur has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a banner with a range of 6" instead.
+If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a [banner][Banner]. If Buhrdur has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a [banner][Banner] with a range of 6" instead.
 
 - **Brutish Cunning** `ACTIVE`
 
@@ -308,7 +299,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SHADOW OF RHUDAUR [80 POINTS]
@@ -321,27 +311,27 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 6" | 3+ |
-| Fog of Disarray | Self | 3+ |
-| Curse | 6" | 4+ |
-| Wither | 6" | 5+ |
+| [Drain Courage] | 6" | 3+ |
+| [Fog of Disarray] | Self | 3+ |
+| [Curse] | 6" | 4+ |
+| [Wither] | 6" | 5+ |
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
-- Spectral Walk
+- [Blades of the Dead]
+- [Terror]
+- [Spectral Walk]
 
 - **Herald of Doom** `PASSIVE`
 
@@ -354,7 +344,6 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN (GENERAL) [80 POINTS]
@@ -367,25 +356,24 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Packlord** `ACTIVE`
 
-Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the [Warg] keyword.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC CAPTAIN [45 POINTS]
@@ -398,13 +386,13 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -422,22 +410,22 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- war spear
-- Horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [War Spear]
+- [Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Hatred (Angmar)
-- Master of Battle (5+)
+- [Expert Rider]
+- [Hatred] (Angmar)
+- [Master of Battle] (5+)
 
 </div>
 
@@ -455,17 +443,17 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -483,13 +471,13 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -500,7 +488,6 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FRAECHT, VASSAL OF THE WITCH-KING [65 POINTS]
@@ -513,13 +500,13 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- hand-and-a-half weapon
+- [Armour]
+- [Hand Weapon]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -533,7 +520,6 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALBARAD [70 POINTS]
@@ -546,27 +532,26 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Strike
+- [Heroic Accuracy]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Banner of Arwen Evenstar** `PASSIVE`
 
-This is a banner with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a banner. Additionally, friendly models within 6" and Line of Sight of the Banner of Arwen Evenstar automatically pass any Courage Tests they are required to take.
+This is a [banner][Banner] with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a [banner][Banner]. Additionally, friendly models within 6" and Line of Sight of the [Banner] of Arwen Evenstar automatically pass any Courage Tests they are required to take.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MALBETH THE SEER [80 POINTS]
@@ -579,11 +564,11 @@ This is a banner with a range of 6" rather than 3", and Halbarad never suffers t
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -598,7 +583,6 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NAZTHAK, ORC CAPTAIN [50 POINTS]
@@ -611,23 +595,22 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Scavenge** `ACTIVE`
 
-Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of armour, living creatures, the One Ring, or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
+Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of [armour][Armour], living creatures, [the One Ring][The One Ring], or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHADE [75 POINTS]
@@ -640,14 +623,14 @@ Whenever Nazthak slays an enemy model in Combat (with the exception of Monster m
 
 **WARGEAR**
 
-- An amalgamation of grasping spectral hands (hand weapons)
+- An Amalgamation of Grasping Spectral Hands (hand Weapons)
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Spectral Walk
-- Terror
-- Blades of the Dead
+- [Dominant] (3)
+- [Spectral Walk]
+- [Terror]
+- [Blades of the Dead]
 
 - **Conduit of Angmar** `PASSIVE`
 
@@ -664,7 +647,6 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN [80 POINTS]
@@ -677,25 +659,24 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Packlord** `ACTIVE`
 
-Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the Warg keyword.
+Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the [Warg] keyword.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC SHAMAN [50 POINTS]
@@ -708,25 +689,25 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | Instill Fear | Self | 3+ |
-| Drain Courage | 12" | 4+ |
-| Wither | 12" | 4+ |
+| [Drain Courage] | 12" | 4+ |
+| [Wither] | 12" | 4+ |
 
 **OPTIONS**
 
-- Warg: 20 points
+- [Warg] - 20 points
 
 </div>
 
@@ -744,20 +725,20 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Paralyse | 6" | 3+ |
+| [Paralyse] | 6" | 3+ |
 
 **SPECIAL RULES**
 
-- Terror
-- Blades of the Dead
-- Spectral Walk
+- [Terror]
+- [Blades of the Dead]
+- [Spectral Walk]
 
 </div>
 
@@ -775,21 +756,21 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 **WARGEAR**
 
-- Hand weapon
-- bow
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **OPTIONS**
 
-- Armour: 5 points
-- Spear: 1 point
+- [Armour] - 5 points
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -801,22 +782,24 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
+An Angmar Orc Warrior must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -828,22 +811,24 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Warg
+- [Armour]
+- [Hand Weapon]
+- [Warg]
 
 **OPTIONS**
 
-- Shield and throwing spears: 2 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Throwing spears: 1 point
+An Angmar [Warg] Rider must have one of the following options for the listed points cost:
+
+- [Shield] and Throwing Spears - 2 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
 
 </div>
 
@@ -855,19 +840,19 @@ Friendly models may not benefit from the Heroic Actions or Stand Fast of this mo
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 6 | 4+ | 6 | 6 | 3 | 3 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 6 | 4+ | 6 | 6 | 3 | 3 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (3)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Brutish Cunning** `ACTIVE`
 
@@ -876,30 +861,29 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HOBBIT ARCHER [5 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 4" | 2 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 4" | 2 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Hand weapon
-- short bow
+- [Hand Weapon]
+- Short [Bow]
 
 **OPTIONS**
 
-- War horn: 25 points
+- [War Horn] - 25 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -911,21 +895,21 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- war spear
-- Horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [War Spear]
+- [Horse]
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -937,25 +921,25 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 3+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 3+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **OPTIONS**
 
-- Banner: 25 points
-- War horn: 25 points
-- Spear: 1 point
+- [Banner] - 25 points
+- [War Horn] - 25 points
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -967,24 +951,24 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- spear
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Spear]
+- [Shield]
 
 **OPTIONS**
 
-- Swap spear and shield for banner: 25 points
+- Swap [Spear] and [Shield] for [Banner] - 25 points
 
 **SPECIAL RULES**
 
-- Hatred (Angmar)
+- [Hatred] (Angmar)
 
 </div>
 
@@ -996,20 +980,20 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Spear: 1 point
+- [Banner] - 25 points
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -1020,25 +1004,24 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WEREWOLF [25 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 10" | 5 | 6+ | 5 | 5 | 2 | 2 | 5+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 5 | 6+ | 5 | 5 | 2 | 2 | 5+ | 8+ |
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **SPECIAL RULES**
 
-- Fell Sight
-- Terror
+- [Fell Sight]
+- [Terror]
 
 - **Feral Charge** `ACTIVE`
 
@@ -1047,20 +1030,19 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WILD WARG [7 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 </div>
 

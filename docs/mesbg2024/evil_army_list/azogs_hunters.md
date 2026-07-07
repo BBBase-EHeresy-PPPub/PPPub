@@ -45,6 +45,6 @@
 
 **"They Strike in the wee small hours when everyone's asleep"** - An Azog's Hunters Army has a Bow Limit of 50% rather than the usual 33%.
 
-**Relentless Hunters** - All models in this army list gain the Woodland Creature and Mountain Dweller special rules.
+**Relentless Hunters** - All models in this army list gain the [Woodland Creature] and [Mountain Dweller] special rules.
 
-**The Pale Orc's Demands** - Whilst within 6" of a friendly Hero, friendly Orc Warrior models gain a bonus of +1 to any Courage Tests to Charge an enemy model with the Terror special rule.
+**The Pale Orc's Demands** - Whilst within 6" of a friendly Hero, friendly Orc Warrior models gain a bonus of +1 to any Courage Tests to Charge an enemy model with the [Terror] special rule.

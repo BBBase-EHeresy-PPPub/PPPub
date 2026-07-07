@@ -46,6 +46,6 @@
 
 **Wall of Steel** - Friendly models that are Supporting gain a bonus of +1 To Wound when making Strikes.
 
-**"For Erebor!"** - Each friendly Hero model may, once per game, declare a Heroic Combat for free.
+**"For Erebor!"** - Each friendly Hero model may, once per game, declare a [Heroic Combat] for free.
 
 **Like Father, Like Son** - Whilst within 3" of each other, Gimli and Glóin may re-roll any failed To Wound Rolls when making Strikes.

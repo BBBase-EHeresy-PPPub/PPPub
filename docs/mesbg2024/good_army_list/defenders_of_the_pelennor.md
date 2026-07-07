@@ -133,4 +133,4 @@
 
 ## SPECIAL RULES
 
-**Defend the White City** - Each Hero in your Army can, once per game, declare a Heroic Combat for free.
+**Defend the White City** - Each Hero in your Army can, once per game, declare a [Heroic Combat] for free.

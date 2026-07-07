@@ -49,8 +49,8 @@
 
 ## SPECIAL RULES
 
-**Through the Forest** - Friendly Infantry models gain the Woodland Creature special rule.
+**Through the Forest** - Friendly Infantry models gain the [Woodland Creature] special rule.
 
-**Death to the Elves** - Friendly models gain the Hatred (Elf) special rule.
+**Death to the Elves** - Friendly models gain the [Hatred] (Elf) special rule.
 
 **The War Leader** - Whilst Engaged in Combat with an enemy Elf model, Razgûsh gains a bonus of +1 to his Fight Value.

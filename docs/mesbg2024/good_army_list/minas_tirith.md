@@ -58,4 +58,4 @@
 
 **"Is there a captain here who still has the courage to do his lord's will?"** - If your Army includes both Faramir and Denethor, then whilst Denethor is alive and on the battlefield, Faramir will automatically pass all Courage Tests he is required to make. Additionally, whilst Denethor is alive and on the battlefield, when Faramir Moves he must Charge if able to do so.
 
-**Faramir's Charge** - Whilst he has the Cavalry keyword, before Faramir Charges make a note of where he begins his Activation. Until the end of the turn, friendly Gondor Cavalry Warrior models within 6" of where Faramir begins his Activation gain the Fearless special rule and, if they Charge, gain a bonus of +1 to their Fight Value.
+**Faramir's Charge** - Whilst he has the Cavalry keyword, before Faramir Charges make a note of where he begins his Activation. Until the end of the turn, friendly Gondor Cavalry Warrior models within 6" of where Faramir begins his Activation gain the [Fearless] special rule and, if they Charge, gain a bonus of +1 to their Fight Value.

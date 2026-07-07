@@ -52,7 +52,7 @@
 
 **Surprise Attack** - Once per game, at the beginning of the Priority Phase, Azog can use this special rule if he is alive and on the battlefield. If he does, Azog's controlling player will automatically count as having won the roll to choose who has Priority for that turn, though must choose to have Priority. If both sides have a special rule allowing them to do this and both wish to use it in the same turn, players roll off as normal and both special rules count as being used. Enemy models cannot declare Heroic Moves in the turn in which this special rule is used.
 
-**Magical Void** - Friendly models gain the Resistant to Magic special rule.
+**Magical Void** - Friendly models gain the [Resistant to Magic] special rule.
 
 **Thrain's Imprisonment** - Thrain the Broken is an Evil model in this Army. Additionally, if Thrain fails his Intelligence Test for his Shattered Spirit special rule whilst within 6" of the Keeper of the Dungeons, then he will count as passing the test instead, though will not count as rolling a double.
 

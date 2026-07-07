@@ -50,6 +50,6 @@
 
 **"Now for wrath, now for ruin and the red dawn"** - When a friendly Cavalry model Moves, it must Charge if able. Additionally, on a turn in which a friendly Cavalry model Charges, they gain a bonus of +1 to their Strength and may re-roll any 1s during a Duel Roll that turn.
 
-**"The horn of Helm Hammerhand shall sound in the deep; one last time"** - Once per game, at the start of any Move phase, you can declare you are using this special rule. Until the end of the turn, friendly Cavalry models gain the Terror special rule.
+**"The horn of Helm Hammerhand shall sound in the deep; one last time"** - Once per game, at the start of any Move phase, you can declare you are using this special rule. Until the end of the turn, friendly Cavalry models gain the [Terror] special rule.
 
-**"For Death and Glory"** - Friendly models gain the Fearless special rule.
+**"For Death and Glory"** - Friendly models gain the [Fearless] special rule.

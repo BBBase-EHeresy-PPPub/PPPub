@@ -44,7 +44,7 @@
 
 ## SPECIAL RULES
 
-**Defend the Hornburg** - Friendly Rohan Infantry gain the Dominant (2) special rule.
+**Defend the Hornburg** - Friendly Rohan Infantry gain the [Dominant] (2) special rule.
 
 **A Desperate Defence** - Friendly Rohan Infantry Warrior models must re-roll To Wound Rolls of a natural 1 when making Strikes.
 

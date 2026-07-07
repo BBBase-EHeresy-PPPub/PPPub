@@ -44,7 +44,7 @@
 
 ## SPECIAL RULES
 
-**"The Dwarves, they're rallying"** - Any Infantry Hero in this Army may declare a Heroic March, even if it is not listed as one of their Heroic Actions. Additionally, Infantry models in this Army list can still charge after participating in a Heroic March.
+**"The Dwarves, they're rallying"** - Any Infantry Hero in this Army may declare a [Heroic March], even if it is not listed as one of their Heroic Actions. Additionally, Infantry models in this Army list can still charge after participating in a [Heroic March].
 
 **Family Ties** - The Dwarves of Thorin's Company are divided into Family Groups, which are as follows:
 Balin and Dwalin.

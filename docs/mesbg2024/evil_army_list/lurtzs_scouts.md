@@ -38,8 +38,8 @@
 
 ## SPECIAL RULES
 
-**Relentless March** - Friendly models increase their Move Value to 8". Additionally, friendly models gain the Woodland Creature special rule.
+**Relentless March** - Friendly models increase their Move Value to 8". Additionally, friendly models gain the [Woodland Creature] special rule.
 
 **"You do not know pain, you do not know fear"** - The Break Point for Lurtz's Scouts is 66% rather than 50%.
 
-**"Kill the others"** - Lurtz gains the General Hunter special rule and may declare a Heroic Combat each turn for free.
+**"Kill the others"** - Lurtz gains the [General Hunter] special rule and may declare a [Heroic Combat] each turn for free.

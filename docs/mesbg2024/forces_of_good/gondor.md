@@ -1,5 +1,3 @@
-# Gondor
-
 <div class="unitCard" markdown>
 
 ### ARAGORN, KING ELESSAR [225 POINTS]
@@ -12,28 +10,28 @@
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Ring of Barahir
 - Anduril, Flame of the West
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- Horse Lord
-- Mighty Hero
-- Resistant to Magic
+- [Horse Lord]
+- [Mighty Hero]
+- [Resistant to Magic]
 
 - **Ring of Barahir** `PASSIVE`
 
@@ -41,16 +39,15 @@ When affected by a Magical Power, and after any resist tests have been made (if 
 
 - **Anduril, Flame of the West** `ACTIVE`
 
-Elven hand-and-a-half weapon, never needs more than a 4+ To Wound, or a 3+ if using Anduril as a two-handed weapon.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], never needs more than a 4+ To Wound, or a 3+ if using Anduril as a [two-handed weapon][Two-handed Weapon].
 
 - **"Stand, Men of the West"** `PASSIVE`
 
-Friendly models treat Aragorn as a banner with a range of 6".
+Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELENDIL [175 POINTS]
@@ -63,22 +60,22 @@ Friendly models treat Aragorn as a banner with a range of 6".
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Narsil
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 - **Narsil** `ACTIVE`
 
-A Master-forged two-handed weapon, and the model carrying this weapon may call a Heroic Combat each turn for free.
+A [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon], and the model carrying this weapon may call a [Heroic Combat] each turn for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -87,7 +84,6 @@ The range of Elendil's Stand Fast is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [200 POINTS]
@@ -100,45 +96,45 @@ The range of Elendil's Stand Fast is 12" rather than 6".
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Terrifying Aura | Self | 3+ |
-| Blinding Light | Self | 3+ |
-| Transfix | 12" | 3+ |
-| Foil Magic | 12" | 4+ |
-| Fortify Spirit | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Banishment | 12" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Blinding Light] | Self | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Foil Magic] | 12" | 4+ |
+| [Fortify Spirit] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Banishment] | 12" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 | Your Staff is Broken | 12" | 5+ |
 
 **OPTIONS**
 
-- Pippin: 25 points
-- Shadowfax: 25 points
+- Pippin - 25 points
+- Shadowfax - 25 points
 
 **SPECIAL RULES**
 
 - **Pippin** `PASSIVE`
 
-Whilst Pippin is Mounted, Gandalf gains Resistant to Magic, can re-roll natural 1s on To Wound rolls, and spend Pippin's Might, Will and Fate points - see pg.53 of Armies of LOTR for full details.
+Whilst Pippin is Mounted, Gandalf gains [Resistant to Magic], can re-roll natural 1s on To Wound rolls, and spend Pippin's Might, Will and Fate points - see pg.53 of Armies of LOTR for full details.
 
 - **Glamdring** `ACTIVE`
 
-Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -147,7 +143,6 @@ Gandalf may re-roll any failed Fate rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING OF MEN (ARNOR) [75 POINTS]
@@ -160,25 +155,25 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 </div>
 
@@ -196,21 +191,21 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -221,7 +216,6 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING OF MEN (NUMENOR) [75 POINTS]
@@ -234,25 +228,25 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 </div>
 
@@ -270,27 +264,27 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Leader (Rohan Royal Guard)
-- Expert Rider
-- Horse Lord
+- [Leader] (Rohan Royal Guard)
+- [Expert Rider]
+- [Horse Lord]
 
 </div>
 
@@ -308,20 +302,20 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Armoured horse and lance: 30 points
+- [Armoured Horse] and [Lance] - 30 points
 
 **SPECIAL RULES**
 
@@ -331,12 +325,11 @@ The range of Prince Imrahil's Stand Fast is 12" rather than 6".
 
 - **Dol Amroth for Gondor!** `PASSIVE`
 
-Other friendly Dol Amroth models treat Prince Imrahil as a banner with a range of 6".
+Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with a range of 6".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOROMIR, CAPTAIN OF THE WHITE TOWER [160 POINTS]
@@ -349,32 +342,32 @@ Other friendly Dol Amroth models treat Prince Imrahil as a banner with a range o
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Horn of Gondor
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Shield: 5 points
+- [Horse] - 20 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Leader (Citadel Guard)
+- [Leader] (Citadel Guard)
 
 - **Horn of Gondor** `ACTIVE`
 
-A war horn, where if Boromir is outnumbered in a Combat, you may ask your opponent to choose one of their models involved, who must take a Courage test. If they fail, Boromir wins the Duel roll.
+A [war horn][War Horn], where if Boromir is outnumbered in a Combat, you may ask your opponent to choose one of their models involved, who must take a Courage test. If they fail, Boromir wins the Duel roll.
 
 - **The Banner of Minas Tirith** `PASSIVE`
 
-A banner with a range of 6". If a friendly Gondor Warrior model within range is involved in a Drawn Combat, and the Combat is tied at the Gondor Warriors' Fight value, they will automatically win (unless the enemy has the same special rule). Boromir does not suffer a -1 penalty in the Duel roll for carrying a banner.
+A [banner][Banner] with a range of 6". If a friendly Gondor Warrior model within range is involved in a Drawn Combat, and the Combat is tied at the Gondor Warriors' Fight value, they will automatically win (unless the enemy has the same special rule). Boromir does not suffer a -1 penalty in the Duel roll for carrying a [banner][Banner].
 
 - **Son of Gondor** `ACTIVE`
 
@@ -383,7 +376,6 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DENETHOR [50 POINTS]
@@ -396,17 +388,17 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Citadel Guard)
-- Leader (Guard of the Fountain Court)
+- [Leader] (Citadel Guard)
+- [Leader] (Guard of the Fountain Court)
 
 - **Broken Mind** `ACTIVE`
 
@@ -415,7 +407,6 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FARAMIR [100 POINTS]
@@ -428,36 +419,35 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Accuracy
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Accuracy]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Citadel Guard)
-- Resistant to Magic
-- Sharpshooter
-- Woodland Creature
+- [Leader] (Citadel Guard)
+- [Resistant to Magic]
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **"A Chance for Faramir, Captain of Gondor to show his Quality"** `ACTIVE`
 
-If Faramir's army is Broken, he may re-roll any failed To Wound rolls when making strikes, and declare a free Heroic Resolve each turn.
+If Faramir's army is Broken, he may re-roll any failed To Wound rolls when making strikes, and declare a free [Heroic Resolve] each turn.
 
 - **Wizard's Pupil** `PASSIVE`
 
-If Faramir is alive and you choose to give Priority to your opponent, then Faramir and friendly Warrior models within 3" of him gain Dominant (2) until the end of the turn.
+If Faramir is alive and you choose to give Priority to your opponent, then Faramir and friendly Warrior models within 3" of him gain [Dominant] (2) until the end of the turn.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FORLONG THE FAT [90 POINTS]
@@ -470,20 +460,20 @@ If Faramir is alive and you choose to give Priority to your opponent, then Faram
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- War spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [War Spear]
 - The Horn of Lossarnach
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
 - **The Horn of Lossarnach** `ACTIVE`
 
-A war horn. Once per game at the beginning of his Activation, Forlong may use it to give friendly models within 12" of him the Terror special rule until the end of the turn.
+A [war horn][War Horn]. Once per game at the beginning of his Activation, Forlong may use it to give friendly models within 12" of him the [Terror] special rule until the end of the turn.
 
 - **Lord of Lossarnach** `PASSIVE`
 
@@ -492,7 +482,6 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HURIN THE TALL, WARDEN OF THE KEYS [80 POINTS]
@@ -505,24 +494,24 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 
 **WARGEAR**
 
-- Heavy armour
-- Warden's Sword
+- [Heavy Armour]
+- Warden's [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
 - **The Warden's Sword** `ACTIVE`
 
-Master Forged hand-and-a-half weapon.
+Master Forged [hand-and-a-half weapon][Hand-and-a-half Weapon].
 
 - **In Defence of the King** `ACTIVE`
 
@@ -535,7 +524,6 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISILDUR [130 POINTS]
@@ -548,32 +536,31 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half weapon
+- [Heavy Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Horse: 20 points
-- The One Ring: Free
+- [Horse] - 20 points
+- The One Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
+- [Resistant to Magic]
 
 - **The Shards of Narsil** `ACTIVE`
 
-If your army also contains Elendil and he is slain, place a 25mm marker where he was killed. If Isildur ends his Activation within 1" of this marker, he gains the Shards of Narsil. This is a hand weapon for which Isildur gains a bonus of +1 To Wound when making strikes in a Combat.
+If your army also contains Elendil and he is slain, place a 25mm marker where he was killed. If Isildur ends his Activation within 1" of this marker, he gains the Shards of Narsil. This is a [hand weapon][Hand Weapon] for which Isildur gains a bonus of +1 To Wound when making strikes in a Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING OF MEN (GONDOR) [75 POINTS]
@@ -586,27 +573,27 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Lance: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Lance] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Leader (Citadel Guard)
-- Leader (Guard of the Fountain Court)
-- Shieldwall
+- [Leader] (Citadel Guard)
+- [Leader] (Guard of the Fountain Court)
+- [Shieldwall]
 
 </div>
 
@@ -624,19 +611,19 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
+- [Heroic March]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
-- Spectral Walk
+- [Blades of the Dead]
+- [Terror]
+- [Spectral Walk]
 
 - **Drain Soul** `ACTIVE`
 
@@ -649,7 +636,6 @@ Only friendly Dunharrow models may benefit from the King of the Dead's Stand Fas
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANGBOR THE FEARLESS [70 POINTS]
@@ -662,18 +648,18 @@ Only friendly Dunharrow models may benefit from the King of the Dead's Stand Fas
 
 **WARGEAR**
 
-- Armour
-- Two-handed weapon
+- [Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
+- [Heroic Strike]
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Fearless
-- Mighty Blow
+- [Fearless]
+- [Mighty Blow]
 
 - **Chief of Lamedon** `PASSIVE`
 
@@ -682,7 +668,6 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BEREGOND, GUARD OF THE CITADEL [65 POINTS]
@@ -695,17 +680,17 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Longbow
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 - **An Unlikely Friendship** `ACTIVE`
 
@@ -714,7 +699,6 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
@@ -727,17 +711,17 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 
 **WARGEAR**
 
-- Heavy amour
-- Hand weapon
-- Shield
+- Heavy Amour
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Armoured horse and lance: 30 points
+- [Armoured Horse] and [Lance] - 30 points
 
 **SPECIAL RULES**
 
@@ -748,7 +732,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF MINAS TIRITH [60 POINTS]
@@ -761,17 +744,17 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -789,13 +772,13 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -813,17 +796,17 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Well-aimed Shot** `ACTIVE`
 
@@ -832,7 +815,6 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUINHIR, LORD OF THE BLACKROOT VALE [65 POINTS]
@@ -845,20 +827,20 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Bow
-- Spear
+- [Armour]
+- [Hand Weapon]
+- [Bow]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Defence
+- [Heroic Accuracy]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
-- Sharpshooter
+- [Mountain Dweller]
+- [Sharpshooter]
 
 - **Go for the Eyes!** `ACTIVE`
 
@@ -871,7 +853,6 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HERALD OF THE DEAD [70 POINTS]
@@ -884,20 +865,20 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 - Pennant of the Dead
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
-- Spectral Walk
+- [Blades of the Dead]
+- [Terror]
+- [Spectral Walk]
 
 - **Pennant of the Dead** `PASSIVE`
 
-Friendly Dunharrow models within 3" gain Resistant to Magic.
+Friendly Dunharrow models within 3" gain [Resistant to Magic].
 
 - **The King's Counsel** `PASSIVE`
 
@@ -906,7 +887,6 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### INGOLD, WARDEN OF THE RAMMAS ECHOR [70 POINTS]
@@ -919,18 +899,18 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 - **Resolute Fighter** `PASSIVE`
 
@@ -939,7 +919,6 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
@@ -952,21 +931,21 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Citadel Guard)
-- Sworn Protector (Denethor)
+- [Leader] (Citadel Guard)
+- [Sworn Protector] (Denethor)
 
 - **Defend the White City** `ACTIVE`
 
-Irolas may use the Shielding special rule, even without a shield. If he wins a Combat whilst Shielding, he may make a single Strike against one enemy model.
+Irolas may use the [Shielding] special rule, even without a [shield][Shield]. If he wins a Combat whilst [Shielding], he may make a single Strike against one enemy model.
 
 - **Captain of the Citadel Guard** `PASSIVE`
 
@@ -975,7 +954,6 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MADRIL [60 POINTS]
@@ -988,18 +966,18 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Accuracy
+- [Heroic March]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Master of Reserves** `PASSIVE`
 
@@ -1008,7 +986,6 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [25 POINTS]
@@ -1021,21 +998,21 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -1047,83 +1024,83 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Axe of Lossarnach
 
 **SPECIAL RULES**
 
 - **Axe of Lossarnach** `ACTIVE`
 
-This weapon can be used as either a spear or two-handed weapon.
+This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 3+ | 3 | 4 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 3+ | 3 | 4 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **OPTIONS**
 
-- War horn: 25 points
-- Banner: 25 points
-- Spear: 1 point
+- [War Horn] - 25 points
+- [Banner] - 25 points
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 - **Dead-eye Shot** `PASSIVE`
 
-When benefiting from a Heroic Shoot, this model may re-roll failed To Wound rolls when making shooting attacks.
+When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound rolls when making shooting attacks.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CITADEL GUARD [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Longbow: 1 point
-- Spear: 1 point
+A Citadel Guard must have one of the following options for the listed points cost:
+
+- Longbow - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -1135,14 +1112,14 @@ When benefiting from a Heroic Shoot, this model may re-roll failed To Wound roll
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 6+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 6+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- two-handed weapon
+- [Armour]
+- [Two-handed Weapon]
 
 **SPECIAL RULES**
 
@@ -1153,58 +1130,56 @@ Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any r
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Spear]
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 - **Protectors of the White Tree** `PASSIVE`
 
-If within 6" of a friendly Gondor General, this model gains Dominant (2).
+If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Armoured horse and banner: 33 points
-- Armoured horse and war horn: 33 points
-- Banner: 25 points
-- War horn: 25 points
-- Armoured horse and lance: 9 points
+- [Armoured Horse] and [Banner] - 33 points
+- [Armoured Horse] and [War Horn] - 33 points
+- [Banner] - 25 points
+- [War Horn] - 25 points
+- [Armoured Horse] and [Lance] - 9 points
 
 </div>
 
@@ -1216,25 +1191,25 @@ If within 6" of a friendly Gondor General, this model gains Dominant (2).
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- lance
-- Horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [Lance]
+- [Horse]
 
 **OPTIONS**
 
-- Exchange shield and lance for banner: 25 points
+- Exchange [Shield] and [Lance] for [Banner] - 25 points
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -1246,24 +1221,26 @@ If within 6" of a friendly Gondor General, this model gains Dominant (2).
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
+An Osgiliath Veteran must have one of the following options for the listed points cost:
+
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Mordor)
+- [Hatred] (Mordor)
 
 - **Loyal to the Captains** `ACTIVE`
 
@@ -1272,32 +1249,31 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RANGER OF GONDOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **OPTIONS**
 
-- Banner: 25 points
-- War horn: 25 points
-- Spear: 1 point
+- [Banner] - 25 points
+- [War Horn] - 25 points
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 </div>
 
@@ -1309,22 +1285,22 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 8" | 3 | 4+ | 3 | 8 | 1 | 1 | 4+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 3 | 4+ | 3 | 8 | 1 | 1 | 4+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 - Spectral Steed
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
-- Spectral Walk
+- [Blades of the Dead]
+- [Terror]
+- [Spectral Walk]
 
 </div>
 
@@ -1336,26 +1312,28 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn and shield: 26 points
-- Banner: 25 points
-- Shield and spear: 2 points
-- Shield: 1 point
-- Bow: 1 point
+A Warrior of Minas Tirith must have one of the following options for the listed points cost:
+
+- [War Horn] and [Shield] - 26 points
+- [Banner] - 25 points
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
+- [Bow] - 1 point
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -1367,20 +1345,22 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Shield and spear: 2 points
-- Shield: 1 point
-- Longbow: 1 point
+A Warrior of Numenor must have one of the following options for the listed points cost:
+
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
+- Longbow - 1 point
 
 </div>
 
@@ -1392,27 +1372,27 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 8" | 3 | 4+ | 3 | 7 | 1 | 1 | 4+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 3 | 4+ | 3 | 7 | 1 | 1 | 4+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield and spear: 2 points
-- Shield: 1 point
-- Spear: 1 point
+- [Banner] - 25 points
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Blades of the Dead
-- Terror
-- Spectral Walk
+- [Blades of the Dead]
+- [Terror]
+- [Spectral Walk]
 
 </div>
 
@@ -1428,29 +1408,36 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 7 | 9 | - | 3 | - | - | 1 | 1 | 1 |
 
-**OPTIONS**
-
-- Swift Reload: 20 points
-
 **SPECIAL RULES**
 
 - **Swift Reload** `ACTIVE`
 
-AWhen firing the Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may take.
+AWhen firing the Bolt Thrower, you may roll two dice and [pick][Pick] the highest result when determining how many shots it may take.
 
 - **Rapid Fire** `ACTIVE`
 
 A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6 shoot attacks in the same way as a normal Missile Weapon. No Scatter is required for these shots, they will either hit or miss. Each shot may be fully resolved before determining the target of the next one. Shots fired by the Bolt Thrower do not kill their targets outright if they Wound them.
 
-**ADDITIONAL PROFILES**
 
-- **Minas Tirith Siege Crew**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 5, A 1, W 1, C 7+, I 7+
+**OPTIONS**
+
+- Swift Reload - 20 points
+
+
+**Minas Tirith Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- [Hand Weapon]
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GONDOR BATTLECRY TREBUCHET [100 POINTS]
@@ -1460,10 +1447,6 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 10 | 10 | - | 3 | - | - | 1 | 1 | 1 |
-
-**OPTIONS**
-
-- Flaming Ammunition: 10 points
 
 **SPECIAL RULES**
 
@@ -1476,12 +1459,24 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 
 - **Wall-breaker** `ACTIVE`
 
-When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
 
-**ADDITIONAL PROFILES**
 
-- **Minas Tirith Siege Crew**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 5, A 1, W 1, C 7+, I 7+
+**OPTIONS**
+
+- Flaming Ammunition - 10 points
+
+
+**Minas Tirith Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- [Hand Weapon]
 
 </div>
 

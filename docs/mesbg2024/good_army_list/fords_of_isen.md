@@ -52,8 +52,8 @@
 
 ## SPECIAL RULES
 
-**Protect the Prince** - Friendly models gain the Sworn Protector (Théodred) special rule.
+**Protect the Prince** - Friendly models gain the [Sworn Protector] (Théodred) special rule.
 
-**Resolute Rohirrim** - If your Army is Broken, friendly models gain the Dominant (2) special rule.
+**Resolute Rohirrim** - If your Army is Broken, friendly models gain the [Dominant] (2) special rule.
 
 **The Courage of Elfhelm** - If Théodred is Engaged in Combat within 6" of Elfhelm, then enemy models may not make Strikes against Théodred if there is another model they could make Strikes against instead.

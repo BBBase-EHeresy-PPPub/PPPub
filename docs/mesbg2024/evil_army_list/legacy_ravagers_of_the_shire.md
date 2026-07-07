@@ -35,7 +35,7 @@
 
 ## SPECIAL RULES
 
-**Golfimbul's Rage** - Golfimbul may declare a Heroic Combat each turn for free.
+**Golfimbul's Rage** - Golfimbul may declare a [Heroic Combat] each turn for free.
 
 **Courage from Ignorance** - Whilst Golfimbul is still alive and on the battlefield, friendly Orc models gain a bonus of +1 to any Courage Tests they are required to take.
 

@@ -44,7 +44,7 @@
 
 ## SPECIAL RULES
 
-**Wulf's Revenge** - Whenever Wulf Moves, he must always Charge an enemy model if possible. Additionally, once per game Wulf may declare a Heroic Challenge for free, though this Heroic Challenge must target the enemy General. Wulf may still do this even if the enemy General has a lower Heroic Tier.
+**Wulf's Revenge** - Whenever Wulf Moves, he must always Charge an enemy model if possible. Additionally, once per game Wulf may declare a [Heroic Challenge] for free, though this [Heroic Challenge] must target the enemy General. Wulf may still do this even if the enemy General has a lower Heroic Tier.
 
 **The Promise of Wealth** - Friendly Dunland Warrior models within range of an Objective Marker gain a bonus of +1 To Wound when making Strikes.
 

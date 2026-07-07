@@ -52,6 +52,6 @@
 
 **"You do not know pain, you do not know fear"** - The Break Point for a Muster of Isengard Army is 66% rather than 50%.
 
-**Isengard Unleashed** - During the first turn of the game, each friendly Uruk-hai Hero may declare a Heroic March for free. Additionally, Uruk-hai Captains gain Heroic Strike.
+**Isengard Unleashed** - During the first turn of the game, each friendly Uruk-hai Hero may declare a [Heroic March] for free. Additionally, Uruk-hai Captains gain [Heroic Strike].
 
-**"There will be no dawn for Men"** - Friendly Uruk-hai models gain the Hatred (Man) special rule.
+**"There will be no dawn for Men"** - Friendly Uruk-hai models gain the [Hatred] (Man) special rule.

@@ -36,10 +36,10 @@
 
 ## SPECIAL RULES
 
-**Leader of the Pack** - Sharku may declare a Heroic Combat each turn for free.
+**Leader of the Pack** - Sharku may declare a [Heroic Combat] each turn for free.
 
 **Savage Charge** - Friendly Cavalry models still gain the Extra Attack bonus even when they Charge a Cavalry model, and will retain it even if they are subsequently Charged by a Cavalry model.
 
 **Warg Scouts** - At the start of the game after both sides have deployed but before the first Priority has been rolled, you may select up to D6 friendly Warrior models. The selected models may immediately Move as if it were the Move Phase, and then make a shooting attack as if it were the Shoot Phase. During this Move, friendly models may not Move within 1" of an enemy model and therefore may not Charge. In Scenarios where models enter the board, the selected models will Move onto the board before the first turn of the game, treating any roll to enter the board as a 6. Each model is treated as a separate Warband in this instance.
 
-**Ambush** - In Scenarios that use the Maelstrom of Battle special rule a Wolves of Isengard Army will automatically win the roll to choose who has Priority on the first turn. If both Armies have rules that allow them to do this, roll for Priority as normal. Additionally, models from this Army may Charge on the turn they enter the board, even though they may not normally be allowed to do so. Models Charging in this manner do not need to take a Courage Test to Charge an enemy with the Terror special rule.
+**Ambush** - In Scenarios that use the Maelstrom of Battle special rule a Wolves of Isengard Army will automatically win the roll to choose who has Priority on the first turn. If both Armies have rules that allow them to do this, roll for Priority as normal. Additionally, models from this Army may Charge on the turn they enter the board, even though they may not normally be allowed to do so. Models Charging in this manner do not need to take a Courage Test to Charge an enemy with the [Terror] special rule.

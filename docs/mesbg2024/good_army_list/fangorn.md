@@ -42,6 +42,6 @@ Beech - The Ent may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 Oak - The Ent improves its Wounds characteristic to 4.
 
-Chestnut - The Ent gains the Mighty Blow special rule.
+Chestnut - The Ent gains the [Mighty Blow] special rule.
 
-Ash - The Ent improves their Shoot Value to 3+ and can still use its Throw Stones special rule even if it has Moved that turn (though not if it has Moved over half its Move Value).
+Ash - The Ent improves their Shoot Value to 3+ and can still use its [Throw Stones] special rule even if it has Moved that turn (though not if it has Moved over half its Move Value).

@@ -43,8 +43,8 @@
 
 ## SPECIAL RULES
 
-**The Fleetmaster** - The Corsair Captain that is your General increases their Attacks and Wounds to 3 each, and gains the Fearless and Sharpshooter special rules.
+**The Fleetmaster** - The Corsair Captain that is your General increases their Attacks and Wounds to 3 each, and gains the [Fearless] and [Sharpshooter] special rules.
 
-**The Last Stroke of Doom** - Friendly Corsair models gain the Backstabbers special rule.
+**The Last Stroke of Doom** - Friendly Corsair models gain the [Backstabbers] special rule.
 
 **Ballistae Assault** - After both sides have been deployed, but before the first turn of the game a single Corsair Ballista may make a shooting attack following all the normal rules for doing so.

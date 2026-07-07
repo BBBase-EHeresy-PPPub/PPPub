@@ -50,4 +50,4 @@
 
 **"Tangado haid, leithio i philinn!"** - Whilst within 3" of a friendly Hero friendly Warrior models may re-roll failed To Hit rolls when making a shooting attack, providing they didn't Move in the preceding Move Phase.
 
-**The Power of the Noldor** - Friendly models within 6" of Gil-galad gain the Resistant to Magic special rule.
+**The Power of the Noldor** - Friendly models within 6" of Gil-galad gain the [Resistant to Magic] special rule.

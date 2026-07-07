@@ -52,4 +52,4 @@
 
 **Rivals for Power** - Keep track of how many models Gorbag and Shagrat have each killed. If at any point either of them has fewer kills than the other, that model may re-roll a single D6 during a Duel Roll.
 
-**Swift Hunter** - During the declare Heroic Actions step of the Move Phase, Shelob can choose to kill a friendly model within 1" of her - remove the chosen model as a casualty. If she does, Shelob may declare a Heroic Move for free, though she may not shout With Me as part of this Heroic Move.
+**Swift Hunter** - During the declare Heroic Actions step of the Move Phase, Shelob can choose to kill a friendly model within 1" of her - remove the chosen model as a casualty. If she does, Shelob may declare a [Heroic Move] for free, though she may not shout With Me as part of this [Heroic Move].

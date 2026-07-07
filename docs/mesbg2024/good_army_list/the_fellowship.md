@@ -39,8 +39,8 @@
 
 ## SPECIAL RULES
 
-**"You have my sword"** - So long as Frodo is alive and on the battlefield, friendly Fellowship models gain the Fearless special rule. Additionally, a Fellowship Army can never be considered Broken whilst Frodo is alive, even if he escapes the battlefield in Scenarios where this applies.
+**"You have my sword"** - So long as Frodo is alive and on the battlefield, friendly Fellowship models gain the [Fearless] special rule. Additionally, a Fellowship Army can never be considered Broken whilst Frodo is alive, even if he escapes the battlefield in Scenarios where this applies.
 
 **The Bond of Fellowship** - Friendly models within 3" of another friendly Fellowship model may re-roll a single failed To Wound roll when making Strikes.
 
-**Traverse the Wilderness** - Friendly Fellowship models gain the Woodland Creature and Mountain Dweller special rules.
+**Traverse the Wilderness** - Friendly Fellowship models gain the [Woodland Creature] and [Mountain Dweller] special rules.

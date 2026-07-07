@@ -67,6 +67,6 @@
 
 **Éomer's Wrath** - Éomer is always treated as being under the effects of his The Price of Grief special rule. Additionally, Éomer gains a bonus of +1 to his Fight Value on a turn in which he Charges.
 
-**Fear no enemy** - Éomer gains the Fearless special rule. Additionally, friendly Rohan models that can draw Line of Sight to Éomer automatically pass any Courage Tests they are required to take.
+**Fear no enemy** - Éomer gains the [Fearless] special rule. Additionally, friendly Rohan models that can draw Line of Sight to Éomer automatically pass any Courage Tests they are required to take.
 
 **Ride of Dol Amroth** - Friendly Gondor models may re-roll To Wound Rolls of a natural 1 when making Strikes in a turn in which they Charged.

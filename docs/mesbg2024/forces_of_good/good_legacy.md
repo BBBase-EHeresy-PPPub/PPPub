@@ -1,5 +1,3 @@
-# Good Legacy
-
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF, KING OF MORIA [110 POINTS]
@@ -12,23 +10,23 @@
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Durin's Axe
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic March
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic March]
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Leader (Khazad Guard)
+- [Leader] (Khazad Guard)
 
 - **Durin's Axe** `ACTIVE`
 
-This is a Unique Master-forged two-handed weapon. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
+This is a Unique [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon]. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
 
 - **Longbeard** `ACTIVE`
 
@@ -37,7 +35,6 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EORL THE YOUNG [120 POINTS]
@@ -50,24 +47,24 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
-- throwing spears
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- Throwing Spears
 - Feralof
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Resolve
-- Heroic Strength
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic Resolve]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Leader (Sons of Eorl)
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Sons of Eorl)
 
 - **Legendary Hero** `ACTIVE`
 
@@ -75,12 +72,11 @@ The first time each turn Eorl spends a Might Point, roll a D6. On a 4+, the Migh
 
 - **Spear Mastery** `PASSIVE`
 
-This model may use its throwing spears as a normal spear during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BANDOBRAS TOOK [50 POINTS]
@@ -93,19 +89,19 @@ This model may use its throwing spears as a normal spear during the Fight Phase,
 
 **WARGEAR**
 
-- Hand weapon
-- Horse
+- [Hand Weapon]
+- [Horse]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Leader (Hobbit Shirriff)
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Leader] (Hobbit Shirriff)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Clean strike** `ACTIVE`
 
@@ -114,7 +110,6 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CIRION, LIEUTENANT OF AMON BARAD [65 POINTS]
@@ -127,27 +122,26 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 
 **WARGEAR**
 
-- Armour
-- Shield
-- Hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Boldest of the Bold** `ACTIVE`
 
-Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enemy with the Terror special rule. Additionally, when an enemy model with the Blades of the Dead special rule makes Strikes against Cirion, he treats his Courage value as 4+ rather than 6+ (before any modifiers are applied).
+Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enemy with the [Terror] special rule. Additionally, when an enemy model with the [Blades of the Dead] special rule makes Strikes against Cirion, he treats his Courage value as 4+ rather than 6+ (before any modifiers are applied).
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DRAR [70 POINTS]
@@ -160,19 +154,19 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 **WARGEAR**
 
-- Dwarf armour
-- Hand weapon
-- Dwarf bow
+- Dwarf [Armour]
+- [Hand Weapon]
+- Dwarf [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Sharpshooter
-- Mountain Dweller
+- [Expert Shot]
+- [Sharpshooter]
+- [Mountain Dweller]
 
 </div>
 
@@ -190,20 +184,19 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 **WARGEAR**
 
-- Dwarf armour
-- shield
-- hand weapon
+- Dwarf [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
 - **In Defence of the King** `ACTIVE`
 
-During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf General is Engaged in Combat and is within 6" of this model, then this model may declare a free Heroic Combat. If this Heroic Combat is successful, then this model must use the following Move to join the friendly Dwarf General model's Combat. If this is not possible, then this model must Move as close as possible to the Dwarf General. This model cannot use this special rule if it is in the same Combat as a friendly Dwarf General.
+During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf General is Engaged in Combat and is within 6" of this model, then this model may declare a free [Heroic Combat]. If this [Heroic Combat] is successful, then this model must use the following Move to join the friendly Dwarf General model's Combat. If this is not possible, then this model must Move as close as possible to the Dwarf General. This model cannot use this special rule if it is in the same Combat as a friendly Dwarf General.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ERESTOR [85 POINTS]
@@ -216,26 +209,25 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Noldorin Daggers
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 - **Noldorin Daggers** `ACTIVE`
 
-These are Elven hand weapons, which Erestor may also use as Elven throwing weapons. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
+These are Elven hand weapons, which Erestor may also use as Elven [throwing weapons][Throwing Weapons]. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ERKENBRAND, CAPTAIN OF ROHAN [90 POINTS]
@@ -248,30 +240,29 @@ These are Elven hand weapons, which Erestor may also use as Elven throwing weapo
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
-- Horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [Horse]
 - Horn of the Hammerhand
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strength
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Horn of the Hammerhand** `ACTIVE`
 
-This is a Unique war horn. Additionally, once per game at the start of any Move Phase, Erkenbrand can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Erkenbrand suffer a -1 penalty to any Courage Test they are required to make.
+This is a Unique [war horn][War Horn]. Additionally, once per game at the start of any Move Phase, Erkenbrand can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Erkenbrand suffer a -1 penalty to any Courage Test they are required to make.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FLOI STONEHAND [75 POINTS]
@@ -284,12 +275,12 @@ This is a Unique war horn. Additionally, once per game at the start of any Move 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -304,7 +295,6 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
@@ -317,27 +307,27 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **WARGEAR**
 
-- Elven weapon
-- Elven cloak
+- Elven Weapon
+- [Elven Cloak]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
-- Heroic March
-- Heroic Resolve
+- [Heroic Channelling]
+- [Heroic Defence]
+- [Heroic March]
+- [Heroic Resolve]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Transfix | 12" | 3+ |
-| Writhing Vines | Self | 4+ |
+| [Transfix] | 12" | 3+ |
+| [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
 
-- Terror
-- Woodland Creature
+- [Terror]
+- [Woodland Creature]
 
 </div>
 
@@ -355,16 +345,16 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **WARGEAR**
 
-- Armour
-- two-handed weapon
+- [Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Mighty Blow
+- [Mighty Blow]
 
 </div>
 
@@ -382,13 +372,13 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **WARGEAR**
 
-- Dwarf armour
-- hand weapons
+- Dwarf [Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
@@ -396,15 +386,35 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 This model receives a bonus of +1 to its Defence for each other friendly model with this special rule it is in base contact with. If you have multiple King's Champions in your Army, they will only get this bonus for being in base contact with models from their own Warband (i.e., a Herald from one King's Champion cannot provide the bonus to a model from another King's Champion).
 
-**ADDITIONAL PROFILES**
 
-- **Herald**
-  - Mv 5", Fv 4, Sv 4+, S 4, D 7, A 1, W 1, C 6+, I 6+
+
+**Herald**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 5" | 4 | 4+ | 4 | 7 | 1 | 1 | 6+ | 6+ | 0 | 1 | 2 |
+
+**WARGEAR**
+
+- Dwarf [Armour]
+- [Shield]
+- [Hand Weapon]
+- [Banner]
+
+**SPECIAL RULES**
+
+- **The Herald's Duty** `ACTIVE`
+
+This model receives a bonus of +1 to its Defence for each other friendly model with this special rule it is in base contact with. If you have multiple King's Champions in your Army, they will only get this bonus for being in base contact with models from their own Warband (i.e., a Herald from one King's Champion cannot provide the bonus to a model from another King's Champion).
+
+- **The Life Guard** `ACTIVE`
+
+If the King's Champion this Herald belongs to is Wounded, and this model is in base contact with it, this model may expend its Fate Points on behalf of the King's Champion. Note that they cannot suffer Wounds on the King's Champion's behalf - they may only spend their Fate Points.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KNIGHT OF THE WHITE TOWER [75 POINTS]
@@ -417,19 +427,19 @@ This model receives a bonus of +1 to its Defence for each other friendly model w
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - White Sword of Gondor
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **White Sword of Gondor** `ACTIVE`
 
-This is a two-handed weapon. Additionally, Strikes made with a White Sword of Gondor have the Mighty Blow special rule.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, Strikes made with a White [Sword] of Gondor have the [Mighty Blow] special rule.
 
 - **The Bladelord's Skill** `ACTIVE`
 
@@ -438,7 +448,6 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN STORMCALLER [65 POINTS]
@@ -451,24 +460,24 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 
 **WARGEAR**
 
-- Armour
-- Elven hand weapons
+- [Armour]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Call Winds | 12" | 3+ |
-| Enchant Blades | 12" | 4+ |
-| Writhing Vines | Self | 4+ |
+| [Call Winds] | 12" | 3+ |
+| [Enchant Blades] | 12" | 4+ |
+| [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Powers of Nature** `PASSIVE`
 
@@ -477,7 +486,6 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MURIN [70 POINTS]
@@ -490,26 +498,25 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 
 **WARGEAR**
 
-- Dwarf armour
-- Shield
+- Dwarf [Armour]
+- [Shield]
 - Kalazal
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 - **Kalazal** `ACTIVE`
 
-This is a Unique hand weapon. Murin gains a bonus of +1 To Wound when making Strikes against Orc, Goblin or Uruk-hai models.
+This is a Unique [hand weapon][Hand Weapon]. Murin gains a bonus of +1 To Wound when making Strikes against Orc, Goblin or Uruk-hai models.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ANBORN, RANGER OF ITHILIEN [40 POINTS]
@@ -522,18 +529,18 @@ This is a Unique hand weapon. Murin gains a bonus of +1 To Wound when making Str
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Sharpshooter
-- Woodland Creature
+- [Sharpshooter]
+- [Woodland Creature]
 
 - **Lethal Aim** `ACTIVE`
 
@@ -542,7 +549,6 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KING'S HUNTSMAN [55 POINTS]
@@ -555,17 +561,17 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
+- [Armour]
+- [Hand Weapon]
 - Longbow
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Sharpshooter
+- [Sharpshooter]
 
 - **Master Archer** `ACTIVE`
 
@@ -574,7 +580,6 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MABLUNG, RANGER OF ITHILIEN [40 POINTS]
@@ -587,26 +592,25 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Birdcalls** `ACTIVE`
 
-Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him gain the Stalk Unseen special rule. Additionally, Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him ignore the Stalk Unseen special rule of enemy models.
+Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him gain the [Stalk Unseen] special rule. Additionally, Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn) within 6" of him ignore the [Stalk Unseen] special rule of enemy models.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RIVENDELL STORMCALLER [65 POINTS]
@@ -619,24 +623,24 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 
 **WARGEAR**
 
-- Armour
-- Elven hand weapons
+- [Armour]
+- Elven Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Call Winds | 12" | 3+ |
-| Foil Magic | 12" | 4+ |
-| Strengthen Will | 12" | 4+ |
+| [Call Winds] | 12" | 3+ |
+| [Foil Magic] | 12" | 4+ |
+| [Strengthen Will] | 12" | 4+ |
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Powers of Nature** `PASSIVE`
 
@@ -645,22 +649,21 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MAN-AT-ARMS OF DOL AMROTH [10 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Pike
+- [Heavy Armour]
+- [Hand Weapon]
+- [Pike]
 
 **SPECIAL RULES**
 
@@ -671,64 +674,62 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NOLDORIN EXILES [9 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 8" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 
-- Elven hand-and-a-half weapon
-- Elven Cloak
+- Elven [Hand-and-a-half Weapon]
+- [Elven Cloak]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Elf bow: 2 points
-- Elven throwing weapons: 2 points
-- Wood Elf spear: 1 point
+- [Banner] - 25 points
+- Elf [Bow] - 2 points
+- Elven [Throwing Weapons] - 2 points
+- Wood Elf [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Woodland Creature
+- [Woodland Creature]
 
 - **Wood Elf spear** `ACTIVE`
 
-An Elven spear, and this model may use the Shielding rule even if they do not have a shield.
+An Elven [spear][Spear], and this model may use the [Shielding] rule even if they do not have a [shield][Shield].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ROHAN OUTRIDER [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **OPTIONS**
 
-- Horse: 5 points
+- [Horse] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Vanguard** `ACTIVE`
 
@@ -737,27 +738,26 @@ This model may benefit from a friendly Hero model's Stand Fast regardless of ran
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SON OF EORL [20 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 6 | 2 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 6 | 2 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
-- Armoured horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
+- [Armoured Horse]
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Riders of Eorl** `ACTIVE`
 

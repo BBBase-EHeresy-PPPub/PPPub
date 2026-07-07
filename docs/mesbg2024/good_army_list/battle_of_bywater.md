@@ -60,6 +60,6 @@
 • Move onto the board from any board edge via the rules for Reinforcements.
 • Deploy in, or within 1" of, a wood, building, rocky outcrop or other similar piece of terrain that Hobbits could hide in. A degree of common sense is required when deciding which pieces of terrain Hobbits can hide in - they shouldn't be leaping out of a river or from behind a single rock! You should always agree with your opponent at the beginning of the game which terrain pieces are eligible for Hobbits to ambush from. Models deployed in this way cannot be placed in base contact with, or within the Control Zones of, enemy models. Models that enter the board in this way do not Activate as part of the Move Phase, and will count as having Moved half their Move Value for the purposes of shooting.
 
-**"Fear! Fire! Foes!"** - Friendly Hobbit models gain the Woodland Creature and Mountain Dweller special rules.
+**"Fear! Fire! Foes!"** - Friendly Hobbit models gain the [Woodland Creature] and [Mountain Dweller] special rules.
 
 **Heroes of the Shire** - Friendly Hobbit Hero models may benefit from the Stand Fast of either Merry or Pippin.

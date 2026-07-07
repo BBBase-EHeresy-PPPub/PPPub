@@ -40,6 +40,6 @@
 
 **Skilled Bowmen** - Friendly Dale models improve their Shoot Value to 3+.
 
-**Protect the King** - Friendly models gain the Sworn Protector (Brand) special rule.
+**Protect the King** - Friendly models gain the [Sworn Protector] (Brand) special rule.
 
-**Stoic Defence** - Once per game, at the start of any Move Phase before the Declare Heroic Actions step, you may declare you are using this ability. If you do, then during the Move Phase friendly models cannot Move during their Activation (but can otherwise act normally). Additionally, until the End Phase of the turn, friendly models gain the Dominant (2) special rule and may re-roll any failed To Wound Rolls when making Strikes.
+**Stoic Defence** - Once per game, at the start of any Move Phase before the Declare Heroic Actions step, you may declare you are using this ability. If you do, then during the Move Phase friendly models cannot Move during their Activation (but can otherwise act normally). Additionally, until the End Phase of the turn, friendly models gain the [Dominant] (2) special rule and may re-roll any failed To Wound Rolls when making Strikes.

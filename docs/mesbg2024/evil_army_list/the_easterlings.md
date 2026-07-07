@@ -49,6 +49,6 @@
 
 **No quarter was asked...** - Friendly Easterling models gain a bonus of +1 to any Courage Tests they are required to take once their Army is Broken. Additionally, once per game in Scenarios in which a dice is rolled to see when the game ends, you may choose to have the dice re-rolled if the Scenario ends before you wish it to.
 
-**Press the advantage** - Whilst the enemy Army is Broken, friendly Easterling Hero models gain the Fearless special rule.
+**Press the advantage** - Whilst the enemy Army is Broken, friendly Easterling Hero models gain the [Fearless] special rule.
 
-**Raze the White City** - Friendly models gain the Ancient Enemies (Gondor) special rule.
+**Raze the White City** - Friendly models gain the [Ancient Enemies] (Gondor) special rule.

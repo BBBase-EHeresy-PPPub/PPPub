@@ -68,8 +68,8 @@
 
 ## SPECIAL RULES
 
-**The Dead City** - Mordor Orc Captains and Mordor Orc Warriors gain the Blades of the Dead special rule.
+**The Dead City** - Mordor Orc Captains and Mordor Orc Warriors gain the [Blades of the Dead] special rule.
 
 **Call of Morgul** - If the enemy Army contains a Ringbearer they will suffer a penalty when rolling for Sauron's Will.
 
-**Lead through fear** - Friendly Orc models within 3" of a friendly Spirit model automatically pass Courage Tests when attempting to Charge a model with the Terror special rule.
+**Lead through fear** - Friendly Orc models within 3" of a friendly Spirit model automatically pass Courage Tests when attempting to Charge a model with the [Terror] special rule.

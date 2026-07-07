@@ -1,5 +1,3 @@
-# Isengard
-
 <div class="unitCard" markdown>
 
 ### SARUMAN [170 POINTS]
@@ -12,30 +10,30 @@
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Palantir
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 18" | 3+ |
-| Terrifying Aura | Self | 3+ |
-| Transfix | 18" | 3+ |
-| Curse | 12" | 4+ |
-| Foil Magic | 18" | 4+ |
-| Aura of Dismay | Self | 5+ |
-| Sorcerous Blast | 12" | 5+ |
-| Flameburst | 12" | 5+ |
+| [Compel] | 18" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Transfix] | 18" | 3+ |
+| [Curse] | 12" | 4+ |
+| [Foil Magic] | 18" | 4+ |
+| [Aura of Dismay] | Self | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
+| [Flameburst] | 12" | 5+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
@@ -54,28 +52,73 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHARKEY & WORM [60 POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
+
+**Sharkey**
+
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | 2 | 4 | 1 |
+| 6" | 4 | 4+ | 4 | 4 | 1 | 2 | 6+ | 3+ | 2 | 4 | 1 |
 
-**ADDITIONAL PROFILES**
+**WARGEAR**
 
-- **Sharkey**
-  - Mv 6", Fv 4, Sv 4+, S 4, D 4, A 1, W 2, C 6+, I 3+
-- **Worm**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 3, A 1, W 1, C 8+, I 8+
+- [Hand Weapon]
+- [Two-handed Weapon]
+
+**HEROIC ACTIONS**
+
+- [Heroic Challenge]
+
+**MAGICAL POWERS**
+
+| Power | Range | Casting Value |
+|:--|:--:|:--:|
+| [Compel] | 12" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Transfix] | 12" | 3+ |
+
+**SPECIAL RULES**
+
+- [Hatred] (Hobbit)
+
+- **Whoever strikes me shall be accursed** `PASSIVE`
+
+After a model has resolved all of its Strikes against Sharkey during a Combat, they must take a Courage Test. If failed, the model immediately suffers a single Strength 4 hit.
+
+
+---
+
+**Worm**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 8+ | 8+ | 0 | 0 | 0 |
+
+**WARGEAR**
+
+- [Hand Weapon]
+
+**SPECIAL RULES**
+
+- [Stalk Unseen]
+
+- **Broken Loyalties** `PASSIVE`
+
+If at the start of any turn Sharkey has been reduced to 1 Wound and has no Fate remaining, Worm immediately becomes an enemy model for the remainder of the game. Also, after this, whenever Worm Activates he must Charge Sharkey if able to do so. If Sharkey is slain, then at the start of the next turn, Worm reverts back to being a friendly model.
+
+- **When He Sneaks** `ACTIVE`
+
+Before making a Duel Roll for Worm, check to see if any enemy models, with the exception of any models he is Engaged in Combat with, can see him. If no other enemy models can see him, then Worm increases his Fight Value to 4 and his Attacks to 3 for the duration of the Combat.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LURTZ [100 POINTS]
@@ -88,24 +131,24 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Uruk-hai bow
+- [Armour]
+- [Hand Weapon]
+- Uruk-hai [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic March]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Shield: Free
+- [Shield] - Free
 
 **SPECIAL RULES**
 
-- Sharpshooter
+- [Sharpshooter]
 
 - **Find the Halflings** `ACTIVE`
 
@@ -113,7 +156,7 @@ Lurtz may choose the result of the Maelstrom of Battle special rule for his warb
 
 - **Shield Throw** `PASSIVE`
 
-If Lurtz has a shield, he may use it as throwing weapon once per game with a Strength of 4. Any 25mm model hit will be knocked prone, and he may re-roll the To Hit roll. Once thrown, Lurtz will no longer carry the shield.
+If Lurtz has a [shield][Shield], he may use it as [throwing weapon][Throwing Weapon] once per game with a Strength of 4. Any 25mm model hit will be knocked prone, and he may re-roll the To Hit roll. Once thrown, Lurtz will no longer carry the [shield][Shield].
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -122,7 +165,6 @@ Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHARKU [70 POINTS]
@@ -135,22 +177,22 @@ Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Riding Dagger
-- Warg
+- [Warg]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
+- [Heroic March]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Riding Dagger** `ACTIVE`
 
-Whenever an enemy model resolves a strike against Sharku (but not his warg) and fails To Wound, Sharku may immediately make one Strength 4 Strike against that model.
+Whenever an enemy model resolves a strike against Sharku (but not his [warg][Warg]) and fails To Wound, Sharku may immediately make one Strength 4 Strike against that model.
 
 - **Fury of the Pack** `ACTIVE`
 
@@ -159,7 +201,6 @@ Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SID BRIARTHORN [50 POINTS]
@@ -172,20 +213,20 @@ Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and 
 
 **WARGEAR**
 
-- Hand weapon
-- whip
+- [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Terror (Hobbit)
+- [Terror] (Hobbit)
 
 - **With Me Lads!** `PASSIVE`
 
-Other friendly Ruffian models treat Sid as a banner.
+Other friendly Ruffian models treat Sid as a [banner][Banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
@@ -193,12 +234,11 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 - **Brawler** `ACTIVE`
 
-If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Duel roll. Sid also never counts as Unarmed.
+If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Duel roll. Sid also never counts as [Unarmed].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILL FERNY [40 POINTS]
@@ -211,15 +251,15 @@ If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Du
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Hatred (Hobbit)
+- [Hatred] (Hobbit)
 
 - **Sharkey's Spy** `PASSIVE`
 
@@ -232,7 +272,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GRISHNAKH [55 POINTS]
@@ -245,16 +284,16 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Backstabbers
+- [Backstabbers]
 
 - **Let's put a maggot hole in your belly** `ACTIVE`
 
@@ -263,7 +302,6 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC CAPTAIN [45 POINTS]
@@ -276,13 +314,13 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -300,17 +338,17 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
 - **Let 'em have it!** `ACTIVE`
 
-At the start of the Fight Phase, during the Declare Heroic Actions step, Rowan may declare a free Heroic Combat. If he does, he must using the ensuing Move to Charge an enemy Hobbit Hero model. If he cannot do so, then he cannot use this special rule.
+At the start of the Fight Phase, during the Declare Heroic Actions step, Rowan may declare a free [Heroic Combat]. If he does, he must using the ensuing Move to Charge an enemy Hobbit Hero model. If he cannot do so, then he cannot use this special rule.
 
 - **Put 'em in Chains** `ACTIVE`
 
@@ -318,30 +356,29 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 - **Burn it Down!** `ACTIVE`
 
-Once per game, if Rowan ends his Move within 1" of a single building or piece of woodland terrain, and he is not Engaged in Combat, roll a D6. On 3+, it is set on fire. Any model within base contact of it during the End Phase of any turn must roll a D6. On a 4+, they are immediately Set Ablaze.
+Once per game, if Rowan ends his Move within 1" of a single building or piece of woodland terrain, and he is not Engaged in Combat, roll a D6. On 3+, it is set on fire. Any model within base contact of it during the End Phase of any turn must roll a D6. On a 4+, they are immediately [Set Ablaze].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RUFFIAN [5 POINTS]
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 2 | 5+ | 3 | 3 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 2 | 5+ | 3 | 3 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Whip: 1 point
+- [Bow] - 1 point
+- [Whip] - 1 point
 
 **SPECIAL RULES**
 
@@ -356,7 +393,6 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SNAGA [50 POINTS]
@@ -369,12 +405,12 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
@@ -385,7 +421,6 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### TED SANDYMAN [30 POINTS]
@@ -398,12 +433,12 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **A Bad Influence** `PASSIVE`
 
@@ -412,7 +447,6 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### UGLUK [75 POINTS]
@@ -425,15 +459,15 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- whip
+- [Armour]
+- [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic March
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic March]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -443,12 +477,11 @@ If his army is Broken, instead of taking a Courage test, Ugluk can kill a friend
 
 - **"Looks like meat's back on the menu, boys!"** `ACTIVE`
 
-Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All friendly Uruk-hai within 6" gain Fearless, and +1 To Wound until the end of that turn. If Ugluk does this when the army is Broken, it will also count as triggering the Head Taker rule above.
+Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All friendly Uruk-hai within 6" gain [Fearless], and +1 To Wound until the end of that turn. If Ugluk does this when the army is Broken, it will also count as triggering the Head Taker rule above.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI CAPTAIN [65 POINTS]
@@ -461,17 +494,17 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -489,17 +522,17 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -517,12 +550,12 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **WARGEAR**
 
-- Armour
-- two-handed weapon
+- [Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -540,20 +573,20 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Light shield: 5 points
-- Two-handed weapon: 5 points
+- [Light Shield] - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 </div>
 
@@ -571,20 +604,20 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Fearless
-- Hatred (Rohan)
+- [Fearless]
+- [Hatred] (Rohan)
 
 - **Bloodoath** `PASSIVE`
 
-Friendly Dunland models within 6" of the Oathmaker gain the Fearless special rule.
+Friendly Dunland models within 6" of the Oathmaker gain the [Fearless] special rule.
 
 - **"We will die for Saruman"** `PASSIVE`
 
@@ -593,7 +626,6 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC SHAMAN [50 POINTS]
@@ -606,25 +638,25 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Isengard Orc) | Self | 3+ |
-| Enrage Beast | 6" | 4+ |
-| Transfix | 12" | 5+ |
+| [Fury (X)] (Isengard Orc) | Self | 3+ |
+| [Enrage Beast] | 6" | 4+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Warg: 20 points
+- [Warg] - 20 points
 
 </div>
 
@@ -642,24 +674,24 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 **WARGEAR**
 
-- Hand weapon
-- spear
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Isengard Uruk-hai) | Self | 3+ |
-| Bladewrath | 6" | 4+ |
-| Transfix | 12" | 5+ |
+| [Fury (X)] (Isengard Uruk-hai) | Self | 3+ |
+| [Bladewrath] | 6" | 4+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Armour: 5 points
+- [Armour] - 5 points
 
 </div>
 
@@ -677,7 +709,7 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -700,7 +732,6 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI DRUMMER [35 POINTS]
@@ -713,9 +744,9 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- war drum (Uruk-hai)
+- [Armour]
+- [Hand Weapon]
+- [War Drum] (Uruk-hai)
 
 </div>
 
@@ -727,21 +758,21 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 12" | 2 | 6+ | 2 | 3 | 2 | 4 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 2 | 6+ | 2 | 3 | 2 | 4 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Beaks and claws (hand weapon)
+- Beaks And Claws ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Fly
+- [Fly]
 
 - **Keen Sight** `PASSIVE`
 
-Enemy models within 12" of Crebain do not gain the benefit of the Stalk Unseen special rule.
+Enemy models within 12" of Crebain do not gain the benefit of the [Stalk Unseen] special rule.
 
 - **Cloud of Birds** `PASSIVE`
 
@@ -750,29 +781,30 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISENGARD ORC WARRIOR [5 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
+An Isengard Orc Warrior must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -784,26 +816,26 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 7 | 5+ | 7 | 8 | 3 | 4 | 6+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 7 | 5+ | 7 | 8 | 3 | 4 | 6+ | 8+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Swap shield for war drum (Isengard): 25 points
-- Spear: 5 points
+- Swap [Shield] for [War Drum] (Isengard) - 25 points
+- [Spear] - 5 points
 
 **SPECIAL RULES**
 
-- Terror
-- Throw Stones (range 12", Strength 8)
-- Dominant (3)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
+- [Dominant] (3)
 
 </div>
 
@@ -815,13 +847,13 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Teeth and claws (hand weapon)
+- Teeth And Claws ([Hand Weapon])
 
 </div>
 
@@ -833,22 +865,24 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Warg
+- [Armour]
+- [Hand Weapon]
+- [Warg]
 
 **OPTIONS**
 
-- Shield and throwing spears: 2 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Throwing spears: 1 point
+An Isengard [Warg] Rider must have one of the following options for the listed points cost:
+
+- [Shield] and Throwing Spears - 2 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
 
 </div>
 
@@ -860,20 +894,20 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 5 | 2 | 1 | 3+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 4+ | 4 | 5 | 2 | 1 | 3+ | 8+ |
 
 **WARGEAR**
 
-- Berserker blade
-- light armour
+- Berserker Blade
+- [Light Armour]
 
 **SPECIAL RULES**
 
 - **Berserker Blade** `ACTIVE`
 
-A hand-and-a-half weapon. If using as a two-handed weapon, the berserker can make a single Strike against every enemy model they were Engaged in Combat with.
+A [hand-and-a-half weapon][Hand-and-a-half Weapon]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can make a single Strike against every enemy model they were Engaged in Combat with.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -882,16 +916,11 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
 
 *WARRIOR*
-
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | - | - | - |
 
 **SPECIAL RULES**
 
@@ -907,37 +936,66 @@ A model with a torch can attempt to detonate the charge in the Fight phase, if t
 
 The charge has Defence 7 and Wounds 3. Charge can potentially go off when it takes a Wound. Charge can also be disabled by an enemy model who has only moved into base contact with it that turn. See pg.169 of Armies of LOTR book for full details.
 
-**ADDITIONAL PROFILES**
 
-- **Uruk-hai Siege Crew**
-  - Mv 6", Fv 4, Sv 4+, S 4, D 5, A 1, W 1, C 6+, I 7+
-- **Uruk-Hai Berserker**
-  - Mv 6", Fv 5, Sv 4+, S 4, D 5, A 2, W 1, C 3+, I 8+
+
+**Uruk-hai Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 6+ | 7+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- [Hand Weapon]
+
+---
+
+**Uruk-Hai Berserker**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 4+ | 4 | 5 | 2 | 1 | 3+ | 8+ |
+
+**WARGEAR**
+
+- Berserker Blade
+- [Light Armour]
+
+**SPECIAL RULES**
+
+- **Berserker Blade** `ACTIVE`
+
+A [hand-and-a-half weapon][Hand-and-a-half Weapon]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can make a single Strike against every enemy model they were Engaged in Combat with.
+
+- **Oblivious to Pain** `PASSIVE`
+
+When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### URUK-HAI SCOUT [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield: 1 point
-- Uruk-hai bow: 1 point
+- [Banner] - 25 points
+- [Shield] - 1 point
+- Uruk-hai [Bow] - 1 point
 
 </div>
 
@@ -949,25 +1007,27 @@ The charge has Defence 7 and Wounds 3. Charge can potentially go off when it tak
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Crossbow: 2 points
-- Pike: 1 point
-- Shield: 1 point
+An Uruk-Hai Warrior must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- [Crossbow] - 2 points
+- [Pike] - 1 point
+- [Shield] - 1 point
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 </div>
 
@@ -979,39 +1039,38 @@ The charge has Defence 7 and Wounds 3. Charge can potentially go off when it tak
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner and light shield: 26 points
-- War horn and light shield: 26 points
-- Banner: 25 points
-- War horn: 25 points
-- Light shield and Flaming Brand: 2 points
-- Bow: 1 point
-- Light shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
-- Flaming Brand: 1 point
+- [Banner] and [Light Shield] - 26 points
+- [War Horn] and [Light Shield] - 26 points
+- [Banner] - 25 points
+- [War Horn] - 25 points
+- [Light Shield] and Flaming Brand - 2 points
+- [Bow] - 1 point
+- [Light Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
+- Flaming Brand - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Rohan)
+- [Hatred] (Rohan)
 
 - **Flaming Brand** `PASSIVE`
 
-A model with a Flaming Brand has the Terror (Cavalry) and Terror (Beast) special rules. Additionally, this model will then count as 2 models rather than 1 when working out how many models are within range of an objective marker.
+A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, this model will then count as 2 models rather than 1 when working out how many models are within range of an objective marker.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ISENGARD ASSAULT BALLISTA [75 POINTS]
@@ -1038,10 +1097,18 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 An Isengard Assault Ballista can be used to raise a ladder onto enemy battlements in a siege game. Choose a point on the battlements within range and roll to hit. If successful, place a ladder within 6" of the wall base below the target point against the battlements. A model that was carrying the ladder can be placed at the top and will count as charging if there is a defender there. If not, the model can move normally.
 
-**ADDITIONAL PROFILES**
 
-- **Uruk-hai Siege Crew**
-  - Mv 6", Fv 4, Sv 4+, S 4, D 5, A 1, W 1, C 7+, I 7+
+
+**Uruk-hai Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
 
 </div>
 

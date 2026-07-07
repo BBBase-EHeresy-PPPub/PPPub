@@ -64,7 +64,7 @@
 
 ## SPECIAL RULES
 
-**Know All Paths** - If during the Declare Heroic Actions step of a Move Phase, both sides have declared a Heroic Move and a roll-off is required to see which side's Heroic Move happens first, this Army will gain a bonus to that roll. If they would normally win the roll-off on a 4+, they will instead win it on a 3+. If they would normally win the roll-off on a 1, 2, or 3, they will instead win the roll-off on a 1, 2, 3, or 4.
+**Know All Paths** - If during the Declare Heroic Actions step of a Move Phase, both sides have declared a [Heroic Move] and a roll-off is required to see which side's [Heroic Move] happens first, this Army will gain a bonus to that roll. If they would normally win the roll-off on a 4+, they will instead win it on a 3+. If they would normally win the roll-off on a 1, 2, or 3, they will instead win the roll-off on a 1, 2, 3, or 4.
 
 **Kill Orc-folk** - Friendly models may re-roll To Wound Rolls of a natural 1 when making Strikes against Orc, Goblin, or Uruk-hai models.
 

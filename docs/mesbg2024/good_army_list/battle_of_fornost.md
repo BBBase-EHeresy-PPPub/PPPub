@@ -66,6 +66,6 @@
 
 **The Charge of Gondor** - Friendly Gondor Cavalry models gain a bonus of +1 to their Fight Value on a turn in which they Charge.
 
-**Power of the Elves** - Friendly models gain the Resistant to Magic special rule.
+**Power of the Elves** - Friendly models gain the [Resistant to Magic] special rule.
 
 **Earnur's Defiance** - Earnur cannot have his Courage reduced by enemy special rules or Magical Powers.

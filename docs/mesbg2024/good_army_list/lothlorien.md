@@ -53,6 +53,6 @@
 
 ## SPECIAL RULES
 
-**"They say a great sorceress lives in these woods..."** - Friendly Lothlorien models gain the Resistant to Magic special rule.
+**"They say a great sorceress lives in these woods..."** - Friendly Lothlorien models gain the [Resistant to Magic] special rule.
 
 **"The Dwarf breathes so loud, we could have shot him in the dark"** - Friendly Lothlorien models may re-roll To Hit rolls of a 1 when making a shooting attack if the target of the shooting attack is unable to see them due to the effects of an Elven cloak.

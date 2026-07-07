@@ -1,5 +1,3 @@
-# The Misty Mountains
-
 <div class="unitCard" markdown>
 
 ### DRAGON [200 POINTS]
@@ -12,43 +10,43 @@
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Foil Magic | 12" | 4+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Foil Magic] | 12" | 4+ |
 
 **OPTIONS**
 
-- Breathe Fire: 50 points
-- Fly: 50 points
-- Superior Intellect: 50 points
-- Tough Hide: 50 points
-- Wyrm Magic: 50 points
+- Breathe Fire - 50 points
+- Fly - 50 points
+- Superior Intellect - 50 points
+- Tough Hide - 50 points
+- Wyrm Magic - 50 points
 
 **SPECIAL RULES**
 
-- Dominant (5)
-- Harbinger of Evil (12")
-- Large Target
-- Monstrous Charge
-- Resistant to Magic
-- Survival Instinct
-- Terror
+- [Dominant] (5)
+- [Harbinger of Evil] (12")
+- [Large Target]
+- [Monstrous Charge]
+- [Resistant to Magic]
+- [Survival Instinct]
+- [Terror]
 
 - **Breathe Fire** `ACTIVE`
 
-Used as a shooting attack during the Shoot Phase; treat this as a bow with a range 12". On a hit, the model that is hit suffers a Strength 10 hit, and if they suffer a Wound which is not prevented, they are automatically slain. All models (friend or foe) within 2" of the hit model are immediately Set Ablaze (though they are not automatically slain if Wounded). This is a fire-based attack.
+Used as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range 12". On a hit, the model that is hit suffers a Strength 10 hit, and if they suffer a Wound which is not prevented, they are automatically slain. All models (friend or foe) within 2" of the hit model are immediately [Set Ablaze] (though they are not automatically slain if Wounded). This is a fire-based attack.
 
 - **Fly** `ACTIVE`
 
@@ -69,7 +67,6 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE BALROG [350 POINTS]
@@ -82,21 +79,21 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 
 **WARGEAR**
 
-- Giant flaming hand weapon
+- Giant Flaming [Hand Weapon]
 - Fiery Lash
 
 **SPECIAL RULES**
 
-- Dominant (10)
-- Fearless
-- Large Target
-- Harbinger of Evil (18")
-- Terror
-- Resistant to Magic
+- [Dominant] (10)
+- [Fearless]
+- [Large Target]
+- [Harbinger of Evil] (18")
+- [Terror]
+- [Resistant to Magic]
 
 - **Fiery Lash** `ACTIVE`
 
-Throwing weapon with Strength 7, range 8. If the target is not slain and is not immune to fire-based attacks, it is pulled into base contact with the Balrog. For Cavalry, the whole model is dragged in this way. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only the Balrog.
+[Throwing weapon][Throwing Weapon] with Strength 7, range 8. If the target is not slain and is not immune to [fire-based attacks][Fire-based Attacks], it is pulled into base contact with the Balrog. for Cavalry, the whole model is dragged in this way. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only the Balrog.
 
 - **Goblin Mastery** `PASSIVE`
 
@@ -104,16 +101,15 @@ Moria Goblin models within 6" automatically pass Courage tests they are required
 
 - **Flame of Udun** `PASSIVE`
 
-If an enemy is Wounded, and not slain at the end of a Combat, roll a D6. On 6, the model is Set Ablaze, unless they are immune to fire-based attacks. The Balrog is itself immune to fire-based attacks.
+If an enemy is Wounded, and not slain at the end of a Combat, roll a D6. On 6, the model is [Set Ablaze], unless they are immune to [fire-based attacks][Fire-based Attacks]. The Balrog is itself immune to [fire-based attacks][Fire-based Attacks].
 
 - **Demon of the Ancient World** `PASSIVE`
 
-The Balrog may declare a Heroic Combat each turn for free. Special rules or wargear that would slay the Balrog instantly (such as a Morgul Blade) will only inflict half of the Balrog's starting Wounds rather than all of them.
+The Balrog may declare a [Heroic Combat] each turn for free. Special rules or wargear that would slay the Balrog instantly (such as a Morgul Blade) will only inflict half of the Balrog's starting Wounds rather than all of them.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE GOBLIN KING [150 POINTS]
@@ -126,20 +122,20 @@ The Balrog may declare a Heroic Combat each turn for free. Special rules or warg
 
 **WARGEAR**
 
-- Two-handed weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Resistant to Magic
-- Terror
-- Burly
+- [Cave Dweller]
+- [Resistant to Magic]
+- [Terror]
+- [Burly]
 
 - **Relentless Advance** `ACTIVE`
 
@@ -147,7 +143,7 @@ The Goblin King may Move through friendly Goblin models when he Charges into Com
 
 - **Goblin Projectile** `ACTIVE`
 
-During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack - this has a range of 12" and counts as a throwing weapon. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
+During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack - this has a range of 12" and counts as a [throwing weapon][Throwing Weapon]. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
 
 - **Blubbery Mass** `PASSIVE`
 
@@ -156,7 +152,6 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILL THE TROLL [150 POINTS]
@@ -169,19 +164,19 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Dominant (5)
-- Large Target
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (5)
+- [Large Target]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 
@@ -194,7 +189,6 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DRUZHAG THE BEASTCALLER [80 POINTS]
@@ -207,25 +201,25 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Enrage Beast | 6" | 3+ |
-| Fury (Beast) | Self | 3+ |
-| Writhing Vines | Self | 4+ |
+| [Enrage Beast] | 6" | 3+ |
+| [Fury (X)] (Beast) | Self | 3+ |
+| [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Master of the Dark Wild** `PASSIVE`
 
@@ -234,7 +228,6 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DURBURZ, GOBLIN-KING OF MORIA [75 POINTS]
@@ -247,18 +240,18 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Iron Fist** `ACTIVE`
 
@@ -271,7 +264,6 @@ Once per game, at the start of any Fight Phase, before the Declare Heroic Action
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BERT THE TROLL [130 POINTS]
@@ -284,19 +276,19 @@ Once per game, at the start of any Fight Phase, before the Declare Heroic Action
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Strength
+- [Heroic Defence]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Large Target
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (3)
+- [Large Target]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 
@@ -304,12 +296,11 @@ If this model wins a Duel Roll, they may choose a single enemy model on a 25mm b
 
 - **Roast 'em slowly** `BRUTAL POWER ATTACK`
 
-Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a single enemy model involved in the Combat. The chosen model is then placed in base contact with the Campfire and is immediately Set Ablaze.
+Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a single enemy model involved in the Combat. The chosen model is then placed in base contact with the Campfire and is immediately [Set Ablaze].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOBLIN CAPTAIN [40 POINTS]
@@ -322,24 +313,23 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
+This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GRINNAH, GOBLIN JAILER [50 POINTS]
@@ -352,16 +342,16 @@ This model may Support as if it had a spear, with the exception that they can on
 
 **WARGEAR**
 
-- Hand weapon
-- whip
+- [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Swap with Me** `ACTIVE`
 
@@ -369,12 +359,11 @@ At the start of the Fight Phase, before the Declare Heroic Actions Step, Grinnah
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
+This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN CAPTAIN [40 POINTS]
@@ -387,20 +376,20 @@ This model may Support as if it had a spear, with the exception that they can on
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Orc bow: 5 points
+- Orc [Bow] - 5 points
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -418,25 +407,25 @@ This model may Support as if it had a spear, with the exception that they can on
 
 **WARGEAR**
 
-- Armour
-- spear
-- hand weapon
+- [Armour]
+- [Spear]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Moria Goblin) | Self | 3+ |
+| [Fury (X)] (Moria Goblin) | Self | 3+ |
 | Instill Fear | Self | 4+ |
-| Transfix | 12" | 5+ |
+| [Transfix] | 12" | 5+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 
@@ -454,7 +443,7 @@ This model may Support as if it had a spear, with the exception that they can on
 
 **WARGEAR**
 
-- Unarmed
+- [Unarmed]
 
 **SPECIAL RULES**
 
@@ -464,12 +453,11 @@ The Goblin Scribe cannot Move, and will always count as Trapped should it lose a
 
 - **Always more where they came from** `ACTIVE`
 
-If the Goblin King declares a Heroic Move whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
+If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call with Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### TOM THE TROLL [120 POINTS]
@@ -482,18 +470,18 @@ If the Goblin King declares a Heroic Move whilst within 6" of the Goblin Scribe 
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Large Target
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (3)
+- [Large Target]
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Keep 'em for Later** `ACTIVE`
 
@@ -510,7 +498,6 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAVE DRAKE [150 POINTS]
@@ -523,26 +510,26 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Dominant(4)
-- Large Target
-- Monstrous Charge
-- Mountain Dweller
-- Resistant to Magic
-- Terror
-- Woodland Creature
+- [Cave Dweller]
+- [Dominant] (4)
+- [Large Target]
+- [Monstrous Charge]
+- [Mountain Dweller]
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
 
 - **Protect the Nest** `ACTIVE`
 
-At the beginning of the game, after both sides have deployed, you may place a single 25mm Nest Marker anywhere on the board. Whilst within 3" of a friendly Nest Marker, a Cave Drake has the Fearless special rule.
+At the beginning of the game, after both sides have deployed, you may place a single 25mm Nest Marker anywhere on the board. Whilst within 3" of a friendly Nest Marker, a Cave Drake has the [Fearless] special rule.
 
 - **Cornered Beast** `ACTIVE`
 
@@ -555,7 +542,6 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOLLUM [40 POINTS]
@@ -568,22 +554,21 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 
 **WARGEAR**
 
-- Strangling fingers
+- Strangling Fingers
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Mountain Dweller
-- Stalk Unseen
+- [Cave Dweller]
+- [Mountain Dweller]
+- [Stalk Unseen]
 
 - **The Precious** `ACTIVE`
 
-If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must always Charge the enemy Ringbearer if possible. Additionally, if Gollum kills the enemy Ringbearer in Combat, then he will automatically regain the One Ring - from that point onwards he counts as having it as part of his Wargear.
+If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must always Charge the enemy Ringbearer if possible. Additionally, if Gollum kills the enemy Ringbearer in Combat, then he will automatically regain [the One Ring][The One Ring] - from that point onwards he counts as having it as part of his Wargear.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE WATCHER IN THE WATER [200 POINTS]
@@ -596,15 +581,15 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 
 **WARGEAR**
 
-- Tentacles (hand weapon)
+- Tentacles ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Dominant (6)
-- Harbinger of Evil (12")
-- Large Target
-- Resistant to Magic
-- Terror
+- [Dominant] (6)
+- [Harbinger of Evil] (12")
+- [Large Target]
+- [Resistant to Magic]
+- [Terror]
 
 - **Many Tentacles** `PASSIVE`
 
@@ -612,7 +597,7 @@ At 3 Wounds or less, Attack value becomes 3.
 
 - **Water Dweller** `PASSIVE`
 
-Whilst within any water, The Watcher is never slowed, can still Shoot, and always counts as rolling a 6 on the Swim Chart. Also increases Move value to 8" and gains Monstrous Charge.
+Whilst within any water, The Watcher is never slowed, can still Shoot, and always counts as rolling a 6 on the Swim Chart. Also increases Move value to 8" and gains [Monstrous Charge].
 
 - **From the Deep** `ACTIVE`
 
@@ -629,25 +614,24 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 12" | 1 | 6+ | 3 | 3 | 2 | 4 | 8+ | 9+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 1 | 6+ | 3 | 3 | 2 | 4 | 8+ | 9+ |
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Fly
+- [Cave Dweller]
+- [Fly]
 
 - **Blinding Swarm** `ACTIVE`
 
@@ -656,16 +640,15 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAVE TROLL [75 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 6 | 4+ | 6 | 6 | 3 | 3 | 6+ | 9+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 6 | 4+ | 6 | 6 | 3 | 3 | 6+ | 9+ |
 
 **WARGEAR**
 
@@ -673,66 +656,66 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 
 **OPTIONS**
 
-- Hand-and-a-half weapon: 5 points
-- Troll Spear: 5 points
+A Cave Troll must have one of the following options for the listed points cost:
+
+- [Hand-and-a-half Weapon] - 5 points
+- Troll [Spear] - 5 points
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (3)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 - **Troll Chain** `ACTIVE`
 
-A throwing weapon with Strength 5 and range 3'.
+A [throwing weapon][Throwing Weapon] with Strength 5 and range 3'.
 
 - **Troll Spear** `ACTIVE`
 
-A spear that deals 2 Wounds rather than 1 when rolling a natural 6 on the To Wound roll when making Strikes. This rule only applies when this model is not Supporting.
+A [spear][Spear] that deals 2 Wounds rather than 1 when rolling a natural 6 on the To Wound roll when making Strikes. This rule only applies when this model is not Supporting.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOBLIN WARRIOR [5 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 2 | 5+ | 3 | 3 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 3 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Two-handed weapon: 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a spear, with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a two-handed weapon in the same Combat.
+This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN DRUM [75 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | 10 | - | 3 | - | - | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| - | - | - | - | 10 | - | 3 | - | - |
 
 **SPECIAL RULES**
 
@@ -753,36 +736,47 @@ For the Drum to be played, at least one Drummer must be in base contact with it,
 
 If a Drummer is slain, then they may pass on their wargear to a friendly Moria Goblin Warrior within 1" of them. The chosen model becomes a Moria Goblin Drummer and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Goblin Drummer.
 
-**ADDITIONAL PROFILES**
 
-- **Moria Goblin Drummer**
-  - Mv 5", Fv 2, Sv 5+, S 3, D 4, A 1, W 1, C 8+, I 8+
+
+**Moria Goblin Drummer**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
+
+**SPECIAL RULES**
+
+- [Cave Dweller]
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN PROWLER [7 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- two-handed weapon
-- throwing weapons
+- [Armour]
+- [Two-handed Weapon]
+- [Throwing Weapons]
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Backstabbers
-- Stalk Unseen
+- [Cave Dweller]
+- [Backstabbers]
+- [Stalk Unseen]
 
 </div>
 
@@ -794,24 +788,26 @@ If a Drummer is slain, then they may pass on their wargear to a friendly Moria G
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 2 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
+A Moria Goblin Warrior must have one of the following options for the listed points cost:
+
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 </div>
 

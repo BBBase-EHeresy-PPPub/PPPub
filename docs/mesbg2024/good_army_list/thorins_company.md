@@ -50,9 +50,9 @@
 
 ## SPECIAL RULES
 
-**March to the Lonely Mountain** - If your Army contains only Thorin's Company models, then friendly Dwarf models may spend their Will Points to declare a Heroic March instead of using Might Points, even if they do not normally have the ability to declare a Heroic March.
+**March to the Lonely Mountain** - If your Army contains only Thorin's Company models, then friendly Dwarf models may spend their Will Points to declare a [Heroic March] instead of using Might Points, even if they do not normally have the ability to declare a [Heroic March].
 
-**"We're making a long-term deposit"** - At the beginning of the game, choose one Objective Marker on the board. Friendly Dwarf models within range of the chosen Objective Marker gain the Dominant (2) special rule.
+**"We're making a long-term deposit"** - At the beginning of the game, choose one Objective Marker on the board. Friendly Dwarf models within range of the chosen Objective Marker gain the [Dominant] (2) special rule.
 
 **Family Ties** - The Dwarves of Thorin's Company are divided into Family Groups, which are as follows:
 Balin and Dwalin.

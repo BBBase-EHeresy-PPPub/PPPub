@@ -1,5 +1,3 @@
-# Dwarven Holds
-
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, KING UNDER THE MOUNTAIN [130 POINTS]
@@ -12,23 +10,23 @@
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Barazantathul
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Barazantathul** `ACTIVE`
 
-Master-forged two-handed weapon.
+[Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon].
 
 - **King Under the Mountain** `ACTIVE`
 
@@ -41,7 +39,6 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DURIN, KING OF KHAZAD-DUM [170 POINTS]
@@ -54,7 +51,7 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 
 **WARGEAR**
 
-- Exquisite Mithril armour
+- Exquisite Mithril Armour
 - The Ring of Durin
 - Durin's axe
 - The Crown of Kings
@@ -62,26 +59,26 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
-- Heroic Defence
+- [Heroic Challenge]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fearless
-- Leader (Khazad Guard)
+- [Fearless]
+- [Leader] (Khazad Guard)
 
 - **Exquisite Mithril Armour** `PASSIVE`
 
-Mithril armour that adds 4 to Durin's Defence rather than the usual 3 (already included in his profile).
+[Mithril armour][Mithril Armour] that adds 4 to Durin's Defence rather than the usual 3 (already included in his profile).
 
 - **Durin's axe** `ACTIVE`
 
-Master-forged two-handed weapon. Durin may re-roll a single D6 when making a Duel roll.
+[Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon]. Durin may re-roll a single D6 when making a Duel roll.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
-A war horn which also gives Durin the Terror special rule.
+A [war horn][War Horn] which also gives Durin the [Terror] special rule.
 
 - **The Ring of Durin** `PASSIVE`
 
@@ -94,7 +91,6 @@ For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN [130 POINTS]
@@ -107,37 +103,36 @@ For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand weapon
+- [Heavy Dwarf Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
-- Heroic March
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Fearless
-- Hatred (Gundabad)
+- [Fearless]
+- [Hatred] (Gundabad)
 
 - **Orcrist** `ACTIVE`
 
-Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], with Orcbane, Goblinbane and Uruk-haibane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **Du Bekar** `PASSIVE`
 
-Friendly Dwarf models treat Thorin as a banner.
+Friendly Dwarf models treat Thorin as a [banner][Banner].
 
 - **Ancestral Fury** `ACTIVE`
 
-If Thorin Charges into Combat with the Infantry keyword, he may declare a free Heroic Combat in the Fight phase.
+If Thorin Charges into Combat with the Infantry keyword, he may declare a free [Heroic Combat] in the Fight phase.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THROR, KING UNDER THE MOUNTAIN [130 POINTS]
@@ -150,20 +145,20 @@ If Thorin Charges into Combat with the Infantry keyword, he may declare a free H
 
 **WARGEAR**
 
-- Mithril armour
-- shield
-- hand weapon
+- Mithril [Armour]
+- [Shield]
+- [Hand Weapon]
 - Arkenstone
 - Ring of Durin
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Orc)
+- [Ancient Enemies] (Orc)
 
 - **Arkenstone** `PASSIVE`
 
@@ -176,7 +171,6 @@ Once per game, after the Priority roll has taken place, you may re-roll the Prio
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF [40 POINTS]
@@ -189,13 +183,13 @@ Once per game, after the Priority roll has taken place, you may re-roll the Prio
 
 **WARGEAR**
 
-- Light armour
-- hand-and-a-half weapon
+- [Light Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -206,7 +200,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -219,17 +212,17 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Longbeard** `ACTIVE`
 
@@ -238,7 +231,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, LORD OF THE IRON HILLS [160 POINTS]
@@ -251,20 +243,20 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
+- [Burly]
+- [Fearless]
 
 - **Lord of the Iron Hills** `PASSIVE`
 
@@ -276,7 +268,7 @@ After killing his first enemy, Dain must always Charge if able to do so for the 
 
 - **Fearsome Charge** `PASSIVE`
 
-If Dain Charges into Combat, he gains Terror for the rest of that turn.
+If Dain Charges into Combat, he gains [Terror] for the rest of that turn.
 
 - **Headbutt** `ACTIVE`
 
@@ -285,7 +277,6 @@ If Dain wins a Duel but fails to slay every enemy in his Combat, select one enem
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF [95 POINTS]
@@ -298,19 +289,19 @@ If Dain wins a Duel but fails to slay every enemy in his Combat, select one enem
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Grasper & Keeper
-- two-handed weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
+- [Burly]
+- [Fearless]
 
 - **Grasper & Keeper** `ACTIVE`
 
@@ -318,12 +309,11 @@ Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and a
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered Unarmed.
+Dwalin is never considered [Unarmed].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [110 POINTS]
@@ -336,20 +326,20 @@ Dwalin is never considered Unarmed.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Grasper & Keeper
-- two-handed weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Burly
-- Fearless
-- Sworn Protector (Thorin)
+- [Burly]
+- [Fearless]
+- [Sworn Protector] (Thorin)
 
 - **Grasper & Keeper** `ACTIVE`
 
@@ -357,7 +347,7 @@ Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and a
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered Unarmed.
+Dwalin is never considered [Unarmed].
 
 - **The King's Axemen** `ACTIVE`
 
@@ -366,7 +356,6 @@ At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF KING [85 POINTS]
@@ -379,24 +368,23 @@ At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand-and-a-half weapon
+- [Heavy Dwarf Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Resolve
+- [Heroic March]
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
 - **Dwarven Lords** `PASSIVE`
 
-A Dwarf King will always have the Faction keyword of the most common type of Dwarf model in the same Army. They will gain a special rule depending on the keyword they have: Erebor - gains Ancient Enemies (Orc) Iron Hills - gains Fearless. Khazad-dum - gains throwing weapons.
+A Dwarf King will always have the Faction keyword of the most common type of Dwarf model in the same Army. They will gain a special rule depending on the keyword they have: Erebor - gains [Ancient Enemies] (Orc) Iron Hills - gains [Fearless]. Khazad-dum - gains [throwing weapons][Throwing Weapons].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FILI THE DWARF, CHAMPION OF EREBOR [70 POINTS]
@@ -409,17 +397,17 @@ A Dwarf King will always have the Faction keyword of the most common type of Dwa
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand weapon
+- [Heavy Dwarf Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Combat Synergy** `ACTIVE`
 
@@ -428,7 +416,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
@@ -441,39 +428,39 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 **WARGEAR**
 
-- Staff of Power
+- [Staff of Power]
 - Glamdring
 - Narya
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Protection of the Valar | 6" | 3+ |
-| Terrifying Aura | Self | 3+ |
-| Blinding Light | Self | 4+ |
-| Strengthen Will | 12" | 4+ |
-| Transfix | 12" | 4+ |
-| Collapse Rocks | 12" | 5+ |
-| Foil Magic | 12" | 5+ |
-| Sorcerous Blast | 12" | 5+ |
+| [Protection of the Valar] | 6" | 3+ |
+| [Terrifying Aura] | Self | 3+ |
+| [Blinding Light] | Self | 4+ |
+| [Strengthen Will] | 12" | 4+ |
+| [Transfix] | 12" | 4+ |
+| [Collapse Rocks] | 12" | 5+ |
+| [Foil Magic] | 12" | 5+ |
+| [Sorcerous Blast] | 12" | 5+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
 - **Glamdring** `ACTIVE`
 
-Elven hand-and-a-half weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -482,7 +469,6 @@ Gandalf may re-roll any failed Fate rolls.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF, CHAMPION OF EREBOR [70 POINTS]
@@ -495,17 +481,17 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand weapon
+- [Heavy Dwarf Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Combat Synergy** `ACTIVE`
 
@@ -514,7 +500,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MARDIN, THE KING'S WARD [80 POINTS]
@@ -527,30 +512,29 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Torozul
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Durin)
+- [Sworn Protector] (Durin)
 
 - **Torozul** `ACTIVE`
 
-This is a Foe Spear, with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
+This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin adds +1 when rolling To Wound against Monster models.
 
 - **Durin's Protector** `ACTIVE`
 
-During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged in Combat within 6" of Mardin, then Mardin may declare a free Heroic Combat. If this is successful, Mardin must use the following Move to join Durin's Combat if able, or move as close as possible to him. Mardin cannot use this special rule if he is in the same Combat as Durin.
+During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged in Combat within 6" of Mardin, then Mardin may declare a free [Heroic Combat]. If this is successful, Mardin must use the following Move to join Durin's Combat if able, or move as close as possible to him. Mardin cannot use this special rule if he is in the same Combat as Durin.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THORIN III STONEHELM [110 POINTS]
@@ -563,15 +547,15 @@ During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged i
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- Shield
-- Hand weapon
+- [Heavy Dwarf Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -582,7 +566,6 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD [100 POINTS]
@@ -595,30 +578,30 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic March
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic March]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Orcrist: 10 points
-- The Oakenshield: 5 points
+- Orcrist - 10 points
+- The Oakenshield - 5 points
 
 **SPECIAL RULES**
 
 - **Orcrist** `ACTIVE`
 
-Elven hand-and-a-half weapon, with Orcbane, Goblinbane and Uruk-haibane, Terror (Goblin), Terror (Orc) and Terror (Uruk-hai) special rules.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], with Orcbane, Goblinbane and Uruk-haibane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **The Oakenshield** `ACTIVE`
 
-If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
+If Thorin uses [Shielding] in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
 
 - **"Loyalty, honour, a willing heart. I can ask no more than that"** `PASSIVE`
 
@@ -627,7 +610,6 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRAIN, SON OF THROR [130 POINTS]
@@ -640,17 +622,17 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- Master Forged two-handed weapon
+- [Heavy Dwarf Armour]
+- Master Forged [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Hatred (Gundabad)
+- [Hatred] (Gundabad)
 
 - **Durin's Heir** `PASSIVE`
 
@@ -663,7 +645,6 @@ If Thrain carries the Ring of Durin, once per game after the Priority roll has t
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [60 POINTS]
@@ -676,13 +657,13 @@ If Thrain carries the Ring of Durin, once per game after the Priority roll has t
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
+- [Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Resolve
+- [Heroic Defence]
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -693,7 +674,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [90 POINTS]
@@ -706,17 +686,17 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Grasper & Keeper
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strength
+- [Heroic Challenge]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Grasper & Keeper** `ACTIVE`
 
@@ -724,7 +704,7 @@ Hand weapons for which Dwalin gains +1 Attack when using Grasper & Keeper, and a
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered Unarmed.
+Dwalin is never considered [Unarmed].
 
 - **Dwarven Fury** `ACTIVE`
 
@@ -733,7 +713,6 @@ At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [110 POINTS]
@@ -746,22 +725,22 @@ At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - The Oakenshield
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
 - **The Oakenshield** `ACTIVE`
 
-If Thorin uses Shielding in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
+If Thorin uses [Shielding] in a Combat and wins, he may make a single Strength 4 Strike against one enemy involved in the Combat.
 
 - **To Arms!** `ACTIVE`
 
@@ -770,7 +749,6 @@ Once per game at the start of his Activation, this rule may be declared. All fri
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF [45 POINTS]
@@ -783,30 +761,29 @@ Once per game at the start of his Activation, this rule may be declared. All fri
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
+- [Light Armour]
+- [Hand Weapon]
 - Boar Spear
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Throw Stones (range 8", Strength 2)
+- [Throw Stones] (range 8", Strength 2)
 
 - **Boar Spear** `ACTIVE`
 
-Can be used as a spear or two-handed weapon.
+Can be used as a [spear][Spear] or [two-handed weapon][Two-handed Weapon].
 
 - **Embedded Axe-blade** `ACTIVE`
 
-If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a [Heroic Move] that turn for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -819,26 +796,25 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Throw Stones (range 8", Strength 2)
-- Sworn Protector (Thorin)
+- [Throw Stones] (range 8", Strength 2)
+- [Sworn Protector] (Thorin)
 
 - **Embedded Axe-blade** `ACTIVE`
 
-If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a Heroic Move that turn for free.
+If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one enemy in the Combat, but will not be doubled if they are Trapped. If he wounds them, the axe-blade in his skull is removed. From that point onwards in each Move phase, before the Declare Heroic Actions step, Bifur may take an Intelligence test. If passed, he may declare a [Heroic Move] that turn for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [55 POINTS]
@@ -851,36 +827,35 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Sting: 5 points
-- The One Ring: Free
+- Sting - 5 points
+- The One Ring - Free
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 - **Sting** `ACTIVE`
 
-Elven hand weapon. Bilbo gains a bonus of +1 to his Strength when making Strikes with Sting.
+Elven [hand weapon][Hand Weapon]. Bilbo gains a bonus of +1 to his Strength when making Strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
+Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF [45 POINTS]
@@ -893,27 +868,26 @@ Bilbo ignores Sauron's Will section of the One Ring rules. If Bilbo if the only 
 
 **WARGEAR**
 
-- Light armour
-- mattock
+- [Light Armour]
+- Mattock
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+[Two-handed weapon][Two-handed Weapon], where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
 
 - **Steadfast** `PASSIVE`
 
-When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+When a friendly Thorin's Company model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. for Magical Powers, any Resist tests must be made before using this special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
@@ -926,26 +900,25 @@ When a friendly Thorin's Company model within 3" of Bofur is affected by an enem
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
-- throwing weapons
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Steadfast** `ACTIVE`
 
-When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. For Magical Powers, any Resist tests must be made before using this special rule.
+When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy special rule or Magical Power, they may roll a D6. On a 3+, the model will ignore the effects. for Magical Powers, any Resist tests must be made before using this special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF [45 POINTS]
@@ -958,15 +931,15 @@ When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy spe
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Dominant (2)
+- [Dominant] (2)
 
 - **Lumbering** `PASSIVE`
 
@@ -979,7 +952,6 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -992,17 +964,17 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Flail
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Dominant (2)
-- Sworn Protector (Thorin)
+- [Dominant] (2)
+- [Sworn Protector] (Thorin)
 
 - **Lumbering** `PASSIVE`
 
@@ -1014,12 +986,11 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 
 - **Flail** `ACTIVE`
 
-Hand-and-a-half weapon, if the bearer wins a Duel roll then they can either make Strikes as normal, or make a single Strike against each enemy model involved in the Combat.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon], if the bearer wins a Duel roll then they can either make Strikes as normal, or make a single Strike against each enemy model involved in the Combat.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF [55 POINTS]
@@ -1032,12 +1003,12 @@ Hand-and-a-half weapon, if the bearer wins a Duel roll then they can either make
 
 **WARGEAR**
 
-- Light armour
-- hand weapons
+- [Light Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
@@ -1048,7 +1019,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
@@ -1061,17 +1031,17 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strength
+- [Heroic Resolve]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **A Good Sort** `PASSIVE`
 
@@ -1080,7 +1050,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF CAPTAIN [65 POINTS]
@@ -1093,13 +1062,13 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **WARGEAR**
 
-- Heavy armour
-- shield
-- hand weapon
+- [Heavy Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -1117,16 +1086,16 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapons
+- [Heavy Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -1144,14 +1113,14 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **WARGEAR**
 
-- Light armour
-- hand weapons
-- Throwing weapons
+- [Light Armour]
+- Hand Weapons
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -1162,7 +1131,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF [85 POINTS]
@@ -1175,14 +1143,14 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapons
-- throwing weapons
+- [Heavy Armour]
+- Hand Weapons
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -1193,7 +1161,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF, CHAMPION OF EREBOR [100 POINTS]
@@ -1206,17 +1173,17 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Axe Mastery** `ACTIVE`
 
@@ -1225,7 +1192,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER CAPTAIN [80 POINTS]
@@ -1238,26 +1204,25 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Mattock
-- throwing weapon
+- Throwing Weapon
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Orc)
+- [Ancient Enemies] (Orc)
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+[Two-handed weapon][Two-handed Weapon], where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IRON HILLS CAPTAIN [80 POINTS]
@@ -1270,32 +1235,31 @@ Two-handed weapon, where if this model wins a Duel roll, they may choose to try 
 
 **WARGEAR**
 
-- Heavy armour
-- spear
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Spear]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Exchange shield and spear for Mattock: Free
+- Exchange [Shield] and [Spear] for Mattock - Free
 
 **SPECIAL RULES**
 
-- Master of Battle (5+)
-- Shieldwall
+- [Master of Battle] (5+)
+- [Shieldwall]
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+[Two-handed weapon][Two-handed Weapon], where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF [50 POINTS]
@@ -1308,14 +1272,14 @@ Two-handed weapon, where if this model wins a Duel roll, they may choose to try 
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
-- Dwarf bow
+- [Light Armour]
+- [Hand Weapon]
+- Dwarf [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Accuracy
+- [Heroic Strike]
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
@@ -1326,7 +1290,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF [55 POINTS]
@@ -1339,19 +1302,19 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
-- two-handed weapon
+- [Light Armour]
+- [Hand Weapon]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered Unarmed.
+Nori is never considered [Unarmed].
 
 - **"Just a couple of keepsakes"** `ACTIVE`
 
@@ -1360,7 +1323,6 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
@@ -1373,22 +1335,22 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- hand weapon
-- shield
-- throwing weapons
+- [Heavy Dwarf Armour]
+- [Hand Weapon]
+- [Shield]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered Unarmed.
+Nori is never considered [Unarmed].
 
 - **"Just a couple of keepsakes"** `ACTIVE`
 
@@ -1397,7 +1359,6 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF [50 POINTS]
@@ -1410,12 +1371,12 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 
 **WARGEAR**
 
-- Hand-and-a-half weapon
+- [Hand-and-a-half Weapon]
 - Hearing Trumpet
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -1434,7 +1395,6 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
@@ -1447,14 +1407,14 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- shield
-- hand weapon
+- [Heavy Dwarf Armour]
+- [Shield]
+- [Hand Weapon]
 - Hearing Trumpet
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
@@ -1477,7 +1437,6 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF [40 POINTS]
@@ -1490,16 +1449,16 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 
 **WARGEAR**
 
-- Hand weapon
-- sling
+- [Hand Weapon]
+- [Sling]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Sharpshooter
+- [Sharpshooter]
 
 - **Chronicler** `ACTIVE`
 
@@ -1512,7 +1471,6 @@ If Ori scores a 6 when rolling To Hit, the target immediately suffers a single W
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF, CHAMPION OF EREBOR [50 POINTS]
@@ -1525,17 +1483,17 @@ If Ori scores a 6 when rolling To Hit, the target immediately suffers a single W
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
-- throwing weapons
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
+- [Throwing Weapons]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Sworn Protector (Thorin)
+- [Sworn Protector] (Thorin)
 
 - **Chronicler** `ACTIVE`
 
@@ -1543,36 +1501,37 @@ If a friendly Erebor Hero within 6" and Line of Sight of Ori slays an enemy Hero
 
 - **Protect the Young** `PASSIVE`
 
-Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a two-handed weapon.
+Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 3+ | 3 | 5 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 3+ | 3 | 5 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Dwarf longbow: 1 point
-- Throwing weapons: 1 point
-- Two-handed weapon: 1 point
+A Dwarf Ranger must have one of the following options for the listed points cost:
+
+- Dwarf Longbow - 1 point
+- [Throwing Weapons] - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 - **Mountain Fighters** `ACTIVE`
 
@@ -1581,29 +1540,30 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARF WARRIOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn: 25 points
-- Banner: 25 points
-- Dwarf bow: 1 point
-- Shield: 1 point
-- Two-handed weapon: 1 point
+A Dwarf Warrior must have one of the following options for the listed points cost:
+
+- [War Horn] - 25 points
+- [Banner] - 25 points
+- Dwarf [Bow] - 1 point
+- [Shield] - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -1615,24 +1575,26 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Shield and spear: 2 points
-- Shield: 1 point
-- Spear: 1 point
+An Erebor Dwarf Warrior must have one of the following options for the listed points cost:
+
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -1644,51 +1606,50 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 3 | 7 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 3 | 7 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy Dwarf armour
+- [Heavy Dwarf Armour]
 - Mattock
-- throwing weapons
+- [Throwing Weapons]
 
 **OPTIONS**
 
-- Upgrade to Guardians of the King: 1 point
+- Upgrade To Guardians of the King - 1 point
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Orc)
+- [Ancient Enemies] (Orc)
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+[Two-handed weapon][Two-handed Weapon], where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IRON GUARD [15 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 4 | 6 | 2 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 2 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Dwarf armour
-- Hand weapon
-- Throwing weapons
+- Dwarf [Armour]
+- [Hand Weapon]
+- [Throwing Weapons]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -1700,23 +1661,23 @@ Two-handed weapon, where if this model wins a Duel roll, they may choose to try 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 8" | 4 | 4+ | 4 | 8 | 2 | 4 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 4 | 4+ | 4 | 8 | 2 | 4 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Rapid-fire Bolt Thrower
 
 **SPECIAL RULES**
 
-- Dominant (4)
+- [Dominant] (4)
 
 - **Rapid-fire Bolt Thrower** `ACTIVE`
 
-A crossbow that fires D6 shots per turn. Only has a limited field of fire 45 degrees to its left or right (can be measured by placing Chariot Pivot Template with the X over the bolt thrower and dotted line running down the wooden shaft connecting the goats). This chariot may move and shoot without any -1 penalty. Can also shoot when Engaged in Combat, with no In The Way tests for models it is in Combat with.
+A [crossbow][Crossbow] that fires D6 shots per turn. Only has a limited field of fire 45 degrees to its left or right (can be measured by placing Chariot Pivot Template with the X over the bolt thrower and dotted line running down the wooden shaft connecting the goats). This chariot may move and shoot without any -1 penalty. Can also shoot when Engaged in Combat, with no In The Way tests for models it is in Combat with.
 
 - **Chariot Charge** `ACTIVE`
 
@@ -1729,27 +1690,26 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IRON HILLS GOAT RIDER [20 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- war spear
-- hand weapon
+- [Heavy Armour]
+- [War Spear]
+- [Hand Weapon]
 - War Goat
 
 **OPTIONS**
 
-- Exchange war spear for Mattock: Free
+- Exchange [War Spear] for Mattock - Free
 
 </div>
 
@@ -1761,58 +1721,59 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner and shield: 26 points
-- Banner: 25 points
-- Shield and spear: 2 points
-- Crossbow: 2 points
-- Mattock: 1 point
+An Iron Hills Warrior must have one of the following options for the listed points cost:
+
+- [Banner] and [Shield] - 26 points
+- [Banner] - 25 points
+- [Shield] and [Spear] - 2 points
+- [Crossbow] - 2 points
+- Mattock - 1 point
 
 **SPECIAL RULES**
 
-- Shieldwall
+- [Shieldwall]
 
 - **Mattock** `ACTIVE`
 
-Two-handed weapon, where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
+[Two-handed weapon][Two-handed Weapon], where if this model wins a Duel roll, they may choose to try and knock down an enemy instead of making Strikes. Choose a single enemy in the combat, and both models roll a D6, adding their Strength values. If this model has an equal or higher result, then the chosen enemy is knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHAZAD GUARD [12 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 5 | 4+ | 4 | 7 | 1 | 1 | 6+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 5 | 4+ | 4 | 7 | 1 | 1 | 6+ | 6+ |
 
 **WARGEAR**
 
-- Heavy Dwarf armour
-- two-handed weapon
-- hand weapon
+- [Heavy Dwarf Armour]
+- [Two-handed Weapon]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Hearthguard: 2 points
+- Hearthguard - 2 points
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 </div>
 
@@ -1824,21 +1785,49 @@ Two-handed weapon, where if this model wins a Duel roll, they may choose to try 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | - | - | - |
 
-**ADDITIONAL PROFILES**
+**Iron Shield Bearer**
 
-- **Iron Shield Bearer**
-  - Mv 5", Fv 4, Sv 4+, S 4, D 9, A 1, W 1, C 6+, I 6+
-- **Foe Spear Wielder**
-  - Mv 5", Fv 4, Sv 4+, S 4, D 6, A 1, W 1, C 6+, I 6+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 9 | 1 | 1 | 6+ | 6+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- [Hand Weapon]
+- Iron Shield
+
+**SPECIAL RULES**
+
+- **Iron Shield** `ACTIVE`
+
+A [shield][Shield] that provides +3 Defence to this model rather than the usual +1. Also, this model suffers a -1 penalty to their Duel rolls, unless they are Supported by a model with a Foe [Spear].
+
+
+---
+
+**Foe Spear Wielder**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- Foe Spear
+
+**SPECIAL RULES**
+
+- **Foe Spear** `ACTIVE`
+
+A [spear][Spear], if this model is Supporting a model with an Iron [Shield], they gain +1 To Wound when making Strikes against Monster models.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DWARVEN BALLISTA [70 POINTS]
@@ -1861,15 +1850,22 @@ A Dwarven Ballista will only Scatter 3" rather than 6".
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
 
-**ADDITIONAL PROFILES**
 
-- **Dwarf Siege Crew**
-  - Mv 5", Fv 4, Sv 4+, S 4, D 6, A 1, W 1, C 6+, I 6+
+
+**Dwarf Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### IRON HILLS BALLISTA [130 POINTS]
@@ -1896,10 +1892,18 @@ An Iron Hills Ballista will only Scatter 3" rather than 6"
 
 This ballista always counts as declaring a Heroic Shoot each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
 
-**ADDITIONAL PROFILES**
 
-- **Iron Hills Siege Crew**
-  - Mv 5", Fv 4, Sv 4+, S 4, D 6, A 1, W 1, C 6+, I 6+
+
+**Iron Hills Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
+
+**WARGEAR**
+
+- [Heavy Armour]
+- [Hand Weapon]
 
 </div>
 

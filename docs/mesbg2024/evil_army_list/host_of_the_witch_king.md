@@ -62,7 +62,7 @@
 
 ## SPECIAL RULES
 
-**"If that fell Kingdom should rise again, Rivendell, Lórien, the Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the Terror special rule.
+**"If that fell Kingdom should rise again, Rivendell, Lórien, the Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the [Terror] special rule.
 
 **Lord of the Nazgul** - The Witch-king only loses a Will Point for having been in a Combat if he loses a Combat during the Fight phase (for example, if he doesn't win the Duel Roll to see which side may make Strikes).
 

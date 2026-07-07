@@ -49,6 +49,6 @@
 
 **"Remember today, little brother"** - While Boromir and Faramir are within 3" of each other, they may spend each other's Might, Will and Fate points as if they were their own.
 
-**"This city was once the jewel of our kingdom"** - Friendly models gain the Mountain Dweller special rule.
+**"This city was once the jewel of our kingdom"** - Friendly models gain the [Mountain Dweller] special rule.
 
 **"For Gondor!"** - Once per game, at the start of any Fight Phase, Boromir can use this special rule so long as he is alive and on the battlefield. If he does, then friendly Gondor Warrior models within 6" of Boromir gain a bonus of +1 To Wound when making Strikes until the end of the turn. This is treated as an Active ability belonging to Boromir.

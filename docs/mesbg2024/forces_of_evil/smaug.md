@@ -1,5 +1,3 @@
-# Smaug
-
 <div class="unitCard" markdown>
 
 ### SMAUG [700 POINTS]
@@ -12,35 +10,35 @@
 
 **WARGEAR**
 
-- Razor-sharp teeth, massive talons (hand weapons)
+- Razor-sharp Teeth, Massive Talons (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Foil Magic | 12" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Foil Magic] | 12" | 5+ |
 
 **SPECIAL RULES**
 
-- Ancient Enemies (Dwarf)
-- Dominant (20)
-- Fearless
-- Fly
-- Harbinger of Evil (18")
-- Large Target
-- Monstrous Charge
-- Resistant to Magic
-- Terror
+- [Ancient Enemies] (Dwarf)
+- [Dominant] (20)
+- [Fearless]
+- [Fly]
+- [Harbinger of Evil] (18")
+- [Large Target]
+- [Monstrous Charge]
+- [Resistant to Magic]
+- [Terror]
 
 - **Breathe Fire** `ACTIVE`
 
-This is treated as a bow with range 18". If the shot hits, the target and all models within 2" suffer a Strength 10 hit. Any model that suffers a Wound which is not prevented is slain, otherwise they are Set Ablaze. If a model is immune to fire-based based attacks, they are immune to this shooting attack.
+This is treated as a [bow][Bow] with range 18". If the shot hits, the target and all models within 2" suffer a Strength 10 hit. Any model that suffers a Wound which is not prevented is slain, otherwise they are [Set Ablaze]. If a model is immune to fire-based based attacks, they are immune to this shooting attack.
 
 - **Immovable Object** `PASSIVE`
 
@@ -56,7 +54,7 @@ If a model rolls a natural 6 on a shooting attack against Smaug, and the To Woun
 
 - **"I am fire, I am death"** `PASSIVE`
 
-Immune to fire-based attacks.
+Immune to [fire-based attacks][Fire-based Attacks].
 
 - **Colossal Frame** `PASSIVE`
 

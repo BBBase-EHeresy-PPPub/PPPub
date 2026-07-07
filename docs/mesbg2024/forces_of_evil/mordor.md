@@ -1,5 +1,3 @@
-# Mordor
-
 <div class="unitCard" markdown>
 
 ### GOTHMOG [120 POINTS]
@@ -12,22 +10,22 @@
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Warg: 20 points
-- Shield: 5 points
+- [Warg] - 20 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Master of Battle (2+)
+- [Master of Battle] (2+)
 
 - **"The time of the Orc has come"** `ACTIVE`
 
@@ -35,12 +33,11 @@ Once per game, at the start of any Fight phase, all friendly Mordor Orc models w
 
 - **"The Age of Men is Over"** `PASSIVE`
 
-Friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
+Friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DARK LORD SAURON [400 POINTS]
@@ -53,34 +50,34 @@ Friendly Mordor Orc models within 3" gain the Hatred (Man) special rule.
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - The One Ring
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Channelling
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strength]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 18" | 3+ |
-| Fog of Disarray | Self | 3+ |
-| Transfix | 18" | 3+ |
-| Chill Soul | 12" | 4+ |
-| Drain Courage | 18" | 4+ |
+| [Compel] | 18" | 3+ |
+| [Fog of Disarray] | Self | 3+ |
+| [Transfix] | 18" | 3+ |
+| [Chill Soul] | 12" | 4+ |
+| [Drain Courage] | 18" | 4+ |
 | Instill Fear | Self | 5+ |
 
 **SPECIAL RULES**
 
-- Dominant (10)
-- Harbinger of Evil (18")
-- Resistant to Magic
-- Terror
+- [Dominant] (10)
+- [Harbinger of Evil] (18")
+- [Resistant to Magic]
+- [Terror]
 
 - **The Lord of the Rings** `ACTIVE`
 
@@ -88,7 +85,7 @@ Free point of Will to be spent each turn.
 
 - **The One Ring** `PASSIVE`
 
-Does not follow normal rules for the One Ring. Instead, roll a D6 each time Sauron loses his last Wound. On 2+, restore 1 Wound. May use Might to improve this roll
+Does not follow normal rules for [the One Ring][The One Ring]. Instead, roll a D6 each time Sauron loses his last Wound. On 2+, restore 1 Wound. May use Might to improve this roll
 
 - **Unstoppable!** `BRUTAL POWER ATTACK`
 
@@ -96,12 +93,11 @@ Can make one Strength 8 hit on all models involved in the Combat, including all 
 
 - **The Flames of Evil** `BRUTAL POWER ATTACK`
 
-Can make a Strength 10 strike against one model. If they survive, they are Set Ablaze and knocked Prone.
+Can make a Strength 10 strike against one model. If they survive, they are [Set Ablaze] and knocked Prone.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [0 POINTS]
@@ -114,44 +110,44 @@ Can make a Strength 10 strike against one model. If they survive, they are Set A
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Channelling
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Resolve]
+- [Heroic Channelling]
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Drain Courage | 12" | 4+ |
-| Enchant Blades | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Enchant Blades] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 5+ |
 | Your Staff is Broken | 12" | 5+ |
 
 **OPTIONS**
 
-- 3A / 3M / 18W / 3F: 150 points
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Crown of Morgul: 25 points
-- Horse: 20 points
-- Morgul Blade: 10 points
-- Two-handed weapon: 5 points
+- 3A / 3M / 18W / 3F - 150 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- Crown of Morgul - 25 points
+- [Horse] - 20 points
+- Morgul Blade - 10 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -159,12 +155,11 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 - **Crown of Morgul** `PASSIVE`
 
-Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for Heroic Resolve. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his hand weapon, and until the end of the turn, any model that suffers a Wound from the Witch-king is Set Ablaze.
+Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for [Heroic Resolve]. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his [hand weapon][Hand Weapon], and until the end of the turn, any model that suffers a Wound from the Witch-king is [Set Ablaze].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN (GENERAL) [150 POINTS]
@@ -177,20 +172,20 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Dominant (4)
-- Terror
-- Fearless
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (4)
+- [Terror]
+- [Fearless]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -208,30 +203,30 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half weapon
+- [Heavy Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Channelling
+- [Heroic March]
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Transfix | 12" | 4+ |
-| Curse | 12" | 4+ |
+| [Drain Courage] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
+| [Curse] | 12" | 4+ |
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (6")
-- Terror
+- [Harbinger of Evil] (6")
+- [Terror]
 
 - **Sense of Impending Doom** `PASSIVE`
 
@@ -240,7 +235,6 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [0 POINTS]
@@ -253,35 +247,35 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 
 **WARGEAR**
 
-- Heavy armour
-- sword
+- [Heavy Armour]
+- [Sword]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- 2A / 2M / 14W / 2F: 120 points
-- Armoured Fell Beast: 70 points
-- Fell Beast: 50 points
-- Morgul Blade: 10 points
+- 2A / 2M / 14W / 2F - 120 points
+- Armoured Fell Beast - 70 points
+- Fell Beast - 50 points
+- Morgul Blade - 10 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
@@ -290,7 +284,6 @@ Once per game, direct all attacks against one model, and if they suffer at least
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHAL [70 POINTS]
@@ -303,27 +296,26 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
-- Lance: 5 points
+- [Armoured Horse] - 25 points
+- [Lance] - 5 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Visage of Terror** `PASSIVE`
 
-If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to [Terror]), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful [Heroic Combat], but may otherwise act normally.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EASTERLING CAPTAIN [60 POINTS]
@@ -336,27 +328,26 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to Ter
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Easterling Halberd
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a pike or two-handed weapon.
+This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GORBAG [60 POINTS]
@@ -369,13 +360,13 @@ Easterlings can use pike and shield without penalty. If an Infantry model with t
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
@@ -390,7 +381,6 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOTHMOG'S ENFORCER [55 POINTS]
@@ -403,23 +393,22 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
 - **Gothmog's Right Hand** `PASSIVE`
 
-If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a Heroic Move or Heroic March, instead of spending his own Might points. Additionally, when Gothmog declares a Heroic March or Heroic Move within 3" of Gothmog's Enforcer, Gothmog can measure the range of the With Me or At the Double from Gothmog's Enforcer, rather than himself.
+If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Gothmog's Enforcer's Will points to declare a [Heroic Move] or [Heroic March], instead of spending his own Might points. Additionally, when Gothmog declares a [Heroic March] or [Heroic Move] within 3" of Gothmog's Enforcer, Gothmog can measure the range of the with Me or At the Double from Gothmog's Enforcer, rather than himself.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GURITZ [65 POINTS]
@@ -432,13 +421,13 @@ If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Got
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed weapon
-- hand weapon
+- [Heavy Armour]
+- [Two-handed Weapon]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -453,7 +442,6 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORANNON ORC CAPTAIN [55 POINTS]
@@ -466,17 +454,17 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Shield: 5 points
-- Two-handed weapon: 5 points
+- [Shield] - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -487,7 +475,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR ORC CAPTAIN [45 POINTS]
@@ -500,13 +487,13 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 **WARGEAR**
 
-- Armour
-- shield
-- hand weapon
+- [Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -524,24 +511,23 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- whip
+- [Armour]
+- [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March or Heroic Shoot, roll a D6. On a 4+, that action is free for that Hero.
+Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic March] or [Heroic Shoot], roll a D6. On a 4+, that action is free for that Hero.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN [150 POINTS]
@@ -554,19 +540,19 @@ Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March o
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
-- Dominant (4)
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (4)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -584,16 +570,16 @@ Each time a friendly Hero model within 6" attempts a Heroic Move, Heroic March o
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Two-handed weapon: 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -604,7 +590,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### SHAGRAT [110 POINTS]
@@ -617,18 +602,18 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- General Hunter
+- [General Hunter]
 
 - **Hands off the shiny shirt, that's mine!** `ACTIVE`
 
@@ -641,7 +626,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR ORC SHAMAN [50 POINTS]
@@ -654,25 +638,25 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Spear
+- [Heavy Armour]
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Mordor Orc) | Self | 3+ |
-| Curse | 12" | 4+ |
-| Transfix | 12" | 5+ |
+| [Fury (X)] (Mordor Orc) | Self | 3+ |
+| [Curse] | 12" | 4+ |
+| [Transfix] | 12" | 5+ |
 
 **OPTIONS**
 
-- Warg: 20 points
+- [Warg] - 20 points
 
 </div>
 
@@ -690,9 +674,9 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- war drum (Mordor Orc)
+- [Armour]
+- [Hand Weapon]
+- [War Drum] (Mordor Orc)
 
 </div>
 
@@ -710,16 +694,16 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Fangs (hand weapon)
+- Fangs ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Dominant (4)
-- Monstrous Charge
-- Survival Instinct
-- Swift Movement
-- Terror
-- Venom
+- [Dominant] (4)
+- [Monstrous Charge]
+- [Survival Instinct]
+- [Swift Movement]
+- [Terror]
+- [Venom]
 
 - **Lone Hunter** `PASSIVE`
 
@@ -740,127 +724,123 @@ Shelob can choose to direct a single strike at one model in the Combat. That mod
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN KNIGHT [20 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Lance
-- Shield
-- Armoured horse
+- [Heavy Armour]
+- [Hand Weapon]
+- [Lance]
+- [Shield]
+- [Armoured Horse]
 
 **OPTIONS**
 
-- Exchange lance for banner: 25 points
-- Exchange lance for war horn: 25 points
+- Exchange [Lance] for [Banner] - 25 points
+- Exchange [Lance] for [War Horn] - 25 points
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Visage of Terror** `PASSIVE`
 
-If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to [Terror]), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful [Heroic Combat], but may otherwise act normally.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN WARRIOR [10 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **SPECIAL RULES**
 
-- Terror
+- [Terror]
 
 - **Visage of Terror** `PASSIVE`
 
-If an enemy attempts to Charge this model and fails its Courage Test (due to Terror), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful Heroic Combat, but may otherwise act normally.
+If an enemy attempts to Charge this model and fails its Courage Test (due to [Terror]), then their Activation will immediately end rather than just not being able to Move than turn. They also cannot Shoot in the Shoot Phase, and cannot Move in the Fight Phase if part of a successful [Heroic Combat], but may otherwise act normally.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EASTERLING WARRIOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Heavy amour
-- hand weapon
+- Heavy Amour
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Easterling Halberd and shield: 2 points
-- Shield: 1 point
-- Bow: 1 point
+- [Banner] - 25 points
+- Easterling Halberd And [Shield] - 2 points
+- [Shield] - 1 point
+- [Bow] - 1 point
 
 **SPECIAL RULES**
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a pike or two-handed weapon.
+This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use pike and shield without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORANNON ORC WARRIOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Shield and spear: 2 points
-- Shield: 1 point
-- Spear: 1 point
+- [Banner] - 25 points
+- [Shield] and [Spear] - 2 points
+- [Shield] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -871,29 +851,30 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR ORC WARRIOR [5 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Spear: 1 point
-- Two-handed weapon: 1 point
+A Mordor Orc Warrior must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- [Spear] - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -905,24 +886,24 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 7 | 5+ | 7 | 7 | 3 | 4 | 6+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 7 | 5+ | 7 | 7 | 3 | 4 | 6+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
+- [Armour]
+- [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
-- War drum (Mordor): 25 points
+- [War Drum] (Mordor) - 25 points
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Terror
-- Throw Stones (range 12", Strength 8)
+- [Dominant] (3)
+- [Terror]
+- [Throw Stones] (range 12", Strength 8)
 
 </div>
 
@@ -934,18 +915,18 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 6+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 6+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Two-handed weapon: 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -956,29 +937,30 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR WARG RIDER [11 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- Warg
+- [Armour]
+- [Hand Weapon]
+- [Warg]
 
 **OPTIONS**
 
-- Shield and throwing spears: 2 points
-- Orc bow: 1 point
-- Shield: 1 point
-- Throwing spears: 1 point
+A Mordor [Warg] Rider must have one of the following options for the listed points cost:
+
+- [Shield] and Throwing Spears - 2 points
+- Orc [Bow] - 1 point
+- [Shield] - 1 point
+- Throwing Spears - 1 point
 
 </div>
 
@@ -990,20 +972,20 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 2 | 6+ | 3 | 6 | 1 | 1 | 4+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 2 | 6+ | 3 | 6 | 1 | 1 | 4+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Terror
-- Blades of the Dead
-- Spectral Walk
+- [Terror]
+- [Blades of the Dead]
+- [Spectral Walk]
 
 - **A Fell Light is in Them** `ACTIVE`
 
@@ -1012,7 +994,6 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR SIEGE BOW [50 POINTS]
@@ -1023,31 +1004,38 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 8 | 9 | - | 3 | - | - | 1 | 1 | 1 |
 
-**OPTIONS**
-
-- Flaming Ammunition: 10 points
-
 **SPECIAL RULES**
 
 - Direct Shot
 
 - **Accurate** `ACTIVE`
 
-A Mordor Siege Bow will only Scatter 3" rather than 6".
+A Mordor Siege [Bow] will only Scatter 3" rather than 6".
 
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
 
-**ADDITIONAL PROFILES**
 
-- **Mordor Orc Siege Crew**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 4, A 1, W 1, C 8+, I 8+
+**OPTIONS**
+
+- Flaming Ammunition - 10 points
+
+
+**Mordor Orc Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORDOR WAR CATAPULT [150 POINTS]
@@ -1057,11 +1045,6 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | - | - | - | 10 | 10 | - | 4 | - | - | 1 | 1 | 1 |
-
-**OPTIONS**
-
-- Severed Heads: 20 points
-- Flaming Ammunition: 10 points
 
 **SPECIAL RULES**
 
@@ -1077,14 +1060,42 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 
 - **Wall-breaker** `ACTIVE`
 
-When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
 
-**ADDITIONAL PROFILES**
 
-- **Mordor Orc Siege Crew**
-  - Mv 6", Fv 3, Sv 4+, S 3, D 4, A 1, W 1, C 8+, I 8+
-- **Mordor Siege Troll**
-  - Mv 6", Fv 7, Sv 4+, S 7, D 6, A 3, W 4, C 6+, I 7+
+**OPTIONS**
+
+- Severed Heads - 20 points
+- Flaming Ammunition - 10 points
+
+
+**Mordor Orc Siege Crew**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
+
+---
+
+**Mordor Siege Troll**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 7 | 4+ | 7 | 6 | 3 | 4 | 6+ | 7+ |
+
+**WARGEAR**
+
+- [Hand Weapon]
+
+**SPECIAL RULES**
+
+- [Dominant] (3)
+- [Terror]
 
 </div>
 

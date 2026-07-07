@@ -29,8 +29,8 @@
 
 ## SPECIAL RULES
 
-**Blood of Numenor** - Friendly Numenor models gain the Resistant to Magic special rule whilst they are within 6" of a friendly Unique Numenor Hero model.
+**Blood of Numenor** - Friendly Numenor models gain the [Resistant to Magic] special rule whilst they are within 6" of a friendly Unique Numenor Hero model.
 
 **The Resolve of Men** - Friendly Numenor models gain a bonus of +1 to any Courage tests they have to take.
 
-**The Line of Kings** - If they have the Unique keyword, your General gains the General Hunter special rule. Additionally, your General must always accept a Heroic Challenge directed at them.
+**The Line of Kings** - If they have the Unique keyword, your General gains the [General Hunter] special rule. Additionally, your General must always accept a [Heroic Challenge] directed at them.

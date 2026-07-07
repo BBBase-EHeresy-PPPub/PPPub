@@ -55,8 +55,8 @@
 
 ## SPECIAL RULES
 
-**The Scorpion's Sting** - Friendly models with the Poisoned Attacks (bow) special rule exchange it for Poisoned Attacks on all of their weapons.
+**The Scorpion's Sting** - Friendly models with the [Poisoned Attacks] (bow) special rule exchange it for [Poisoned Attacks] on all of their weapons.
 
-**Suladân's Bodyguard** - So long as Suladân has Will Points remaining, friendly Elite models gain the Sworn Protector (Suladân) special rule.
+**Suladân's Bodyguard** - So long as Suladân has Will Points remaining, friendly Elite models gain the [Sworn Protector] (Suladân) special rule.
 
-**Lethal Toxins** - Once per game, at the start of any Fight Phase, Suladân can use this special rule so long as he is alive and on the battlefield. If he does, then friendly Harad models gain the Bane of Kings special rule until the End Phase of the turn. This is treated as an Active ability belonging to Suladân.
+**Lethal Toxins** - Once per game, at the start of any Fight Phase, Suladân can use this special rule so long as he is alive and on the battlefield. If he does, then friendly Harad models gain the [Bane of Kings] special rule until the End Phase of the turn. This is treated as an Active ability belonging to Suladân.

@@ -52,7 +52,7 @@
 
 ## SPECIAL RULES
 
-**Greatest of the Trolls** - The Mordor Troll Chieftain that is your General gains the Fearless special rule, and an additional point each of Might, Will and Fate.
+**Greatest of the Trolls** - The Mordor Troll Chieftain that is your General gains the [Fearless] special rule, and an additional point each of Might, Will and Fate.
 
 **The Hordes of Mordor** - Friendly Mordor Orc models Engaged in Combat gain a bonus of +1 To Wound when making Strikes against an outnumbered opponent.
 

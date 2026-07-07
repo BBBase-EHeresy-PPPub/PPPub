@@ -1,5 +1,3 @@
-# Rohan
-
 <div class="unitCard" markdown>
 
 ### HELM HAMMERHAND, KING OF ROHAN [160 POINTS]
@@ -12,27 +10,27 @@
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed weapon
-- hand weapon
+- [Heavy Armour]
+- [Two-handed Weapon]
+- [Hand Weapon]
 - Horn of the Hammerhand
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
+- [Armoured Horse] - 25 points
 
 **SPECIAL RULES**
 
-- Burly
-- Expert Rider
-- Horse Lord
-- Leader (Rohan Royal Guard)
+- [Burly]
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Rohan Royal Guard)
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
@@ -40,16 +38,15 @@ Once per game at start of any Move phase, Helm can blow this horn. Until the end
 
 - **The Hammerhand** `ACTIVE`
 
-Helm never counts as unarmed.
+Helm never counts as [unarmed][Unarmed].
 
 - **Into the Fray** `ACTIVE`
 
-Helm may declare a free Heroic Combat each Fight phase. However, after he has slain an enemy model, he must always Charge an enemy model if possible, for the rest of the battle.
+Helm may declare a free [Heroic Combat] each Fight phase. However, after he has slain an enemy model, he must always Charge an enemy model if possible, for the rest of the battle.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HELM HAMMERHAND, WRAITH OF THE HORNBURG [180 POINTS]
@@ -62,22 +59,22 @@ Helm may declare a free Heroic Combat each Fight phase. However, after he has sl
 
 **WARGEAR**
 
-- Light armour
+- [Light Armour]
 - Horn of the Hammerhand
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Strength]
+- [Heroic Challenge]
 
 **SPECIAL RULES**
 
-- Burly
-- Dominant (4)
-- Fearless
-- Hatred (Dunland)
-- Mighty Blow
+- [Burly]
+- [Dominant] (4)
+- [Fearless]
+- [Hatred] (Dunland)
+- [Mighty Blow]
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
@@ -85,7 +82,7 @@ Once per game at start of any Move phase, Helm can blow this horn. Until the end
 
 - **The Hammerhand** `ACTIVE`
 
-Helm never counts as unarmed.
+Helm never counts as [unarmed][Unarmed].
 
 - **No Longer a Leader** `ACTIVE`
 
@@ -93,12 +90,11 @@ Helm can never be your General. He cannot call Stand Fast and models cannot bene
 
 - **Berserk Rage** `ACTIVE`
 
-Helm must always Charge if able to do so. When he Charges, he gains Terror until the end of the turn, and may declare a free Heroic Combat in the Fight phase.
+Helm must always Charge if able to do so. When he Charges, he gains [Terror] until the end of the turn, and may declare a free [Heroic Combat] in the Fight phase.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HERA, THE BRIDE OF DEATH [125 POINTS]
@@ -111,23 +107,23 @@ Helm must always Charge if able to do so. When he Charges, he gains Terror until
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Defence]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Shield: 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Fearless
-- Unyielding Combat Stance
+- [Fearless]
+- [Unyielding Combat Stance]
 
 - **Fury of the Hammerhand** `ACTIVE`
 
@@ -135,12 +131,11 @@ When Hera Charges, she must re-roll any failed To Wound rolls in that turn.
 
 - **The Warrior Bride** `PASSIVE`
 
-Enemy models Engaged in Combat with Hera cannot declare a Heroic Strike.
+Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THEODEN [75 POINTS]
@@ -153,25 +148,25 @@ Enemy models Engaged in Combat with Hera cannot declare a Heroic Strike.
 
 **WARGEAR**
 
-- Armour
+- [Armour]
 - Herugrim
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
-- Heroic Challenge
+- [Heroic March]
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Exchange armour for heavy armour: 5 points
-- Shield: 5 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Leader (Rohan Royal Guard)
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Rohan Royal Guard)
 
 - **Herugrim** `ACTIVE`
 
@@ -188,7 +183,6 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EOMER [110 POINTS]
@@ -201,25 +195,25 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Guthwine
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Firefoot with armour: 25 points
-- Shield: 5 points
-- Throwing spears: 5 points
+- Firefoot With [Armour] - 25 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Leader (Rohan Royal Guard)
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Rohan Royal Guard)
 
 - **Guthwine** `ACTIVE`
 
@@ -232,7 +226,6 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-ro
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FREALAF [100 POINTS]
@@ -245,35 +238,34 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-ro
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Mutual Respect** `ACTIVE`
 
-Whilst within 6" of Hera, Frealaf gains the Master of Battle (4+) special rule.
+Whilst within 6" of Hera, Frealaf gains the [Master of Battle] (4+) special rule.
 
 - **Lord of Harrowdale** `PASSIVE`
 
-Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdale. If they have Line of Sight to Frealaf, these warriors may re-roll failed Intelligence tests and gain Shieldwall.
+Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdale. If they have Line of Sight to Frealaf, these warriors may re-roll failed Intelligence tests and gain [Shieldwall].
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALETH, PRINCE OF ROHAN [100 POINTS]
@@ -286,24 +278,24 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Armoured horse: 25 points
-- Throwing spears: 5 points
+- [Armoured Horse] - 25 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Defender of Edoras** `ACTIVE`
 
@@ -312,7 +304,6 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HAMA, PRINCE OF ROHAN [70 POINTS]
@@ -325,24 +316,24 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- bow
+- [Heavy Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Defence
+- [Heroic Accuracy]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Sharpshooter
+- [Expert Rider]
+- [Horse Lord]
+- [Sharpshooter]
 
 - **The Warrior Poet** `PASSIVE`
 
@@ -351,7 +342,6 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THEODRED [85 POINTS]
@@ -364,24 +354,24 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Challenge
+- [Heroic Strike]
+- [Heroic Challenge]
 
 **OPTIONS**
 
-- Brego: 20 points
-- Shield: 5 points
+- Brego - 20 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Leader (Rohan Royal Guard)
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Rohan Royal Guard)
 
 - **Reckless Charge** `ACTIVE`
 
@@ -390,7 +380,6 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF ROHAN [45 POINTS]
@@ -403,23 +392,23 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 20 points
-- Exchange armour for heavy armour: 5 points
-- Shield: 5 points
+- [Horse] - 20 points
+- Exchange [Armour] for [Heavy Armour] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 </div>
 
@@ -437,34 +426,33 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Strike
+- [Heroic March]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Sworn Protector (Theoden)
-- Leader (Rohan Royal Guard)
+- [Expert Rider]
+- [Horse Lord]
+- [Sworn Protector] (Theoden)
+- [Leader] (Rohan Royal Guard)
 
 - **For Theoden!** `ACTIVE`
 
-During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged in Combat within 6", Deorwine may call a Heroic Combat for free. If the action is successful, you must use the following move to join Theoden's Combat, or get as close as possible to him. He cannot use this special rule if he is in the same Combat as Theoden.
+During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged in Combat within 6", Deorwine may call a [Heroic Combat] for free. If the action is successful, you must use the following move to join Theoden's Combat, or get as close as possible to him. He cannot use this special rule if he is in the same Combat as Theoden.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ELFHELM, CAPTAIN OF ROHAN [60 POINTS]
@@ -477,25 +465,25 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
-- throwing spears
+- [Armour]
+- [Hand Weapon]
+- [Shield]
+- Throwing Spears
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic Defence
-- Heroic March
+- [Heroic Accuracy]
+- [Heroic Defence]
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Pinpoint Accuracy** `ACTIVE`
 
@@ -504,7 +492,6 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### EOWYN [60 POINTS]
@@ -517,39 +504,38 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 
 **WARGEAR**
 
-- Hand weapon
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
-- Heroic Strike
-- Heroic Defence
+- [Heroic Resolve]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Merry: 25 points
-- Horse: 20 points
-- Armour: 5 points
-- Shield: 5 points
-- Throwing spears: 5 points
+- Merry - 25 points
+- [Horse] - 20 points
+- [Armour] - 5 points
+- [Shield] - 5 points
+- Throwing Spears - 5 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **I Shall Kill You if You Touch Him** `ACTIVE`
 
-Whilst within 3" of Theoden, Eowyn may re-roll To Wound rolls of a natural 1. If Theoden is slain, she becomes Fearless, and re-rolls any failed To Wound rolls when striking the model who slew Theoden.
+Whilst within 3" of Theoden, Eowyn may re-roll To Wound rolls of a natural 1. If Theoden is slain, she becomes [Fearless], and re-rolls any failed To Wound rolls when striking the model who slew Theoden.
 
 - **Merry** `PASSIVE`
 
-If taken as an option, Merry becomes a passenger on Eowyn's horse. He will have a shield, be an Independent Hero, and still count towards the army's total models and Break Point. He does not take up a space in Eowyn's warband. Whilst he remains mounted, Eowyn gains Resistant to Magic, Attack 3, and can spend Merry's Might, Will and Fate.
+If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He will have a [shield][Shield], be an Independent Hero, and still count towards the army's total models and Break Point. He does not take up a space in Eowyn's warband. Whilst he remains mounted, Eowyn gains [Resistant to Magic], Attack 3, and can spend Merry's Might, Will and Fate.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GAMLING [55 POINTS]
@@ -562,33 +548,32 @@ If taken as an option, Merry becomes a passenger on Eowyn's horse. He will have 
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
-- Heroic Defence
+- [Heroic March]
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Royal Standard of Rohan: 40 points
+- Royal Standard of Rohan - 40 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Leader (Rohan Royal Guard)
-- Sworn Protector (Theoden)
+- [Expert Rider]
+- [Horse Lord]
+- [Leader] (Rohan Royal Guard)
+- [Sworn Protector] (Theoden)
 
 - **Royal Standard of Rohan** `PASSIVE`
 
-Banner with range 6", Gamling does not suffer the -1 penalty in the Duel roll. If a friendly Rohan Hero model within 6" spends a Might point, they may roll a D6. On a natural 6, the point of Might is free.
+[Banner] with range 6", Gamling does not suffer the -1 penalty in the Duel roll. If a friendly Rohan Hero model within 6" spends a Might point, they may roll a D6. On a natural 6, the point of Might is free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HAMA, CAPTAIN OF ROHAN [60 POINTS]
@@ -601,26 +586,25 @@ Banner with range 6", Gamling does not suffer the -1 penalty in the Duel roll. I
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Rohan Royal Guard)
-- Sworn Protector (Theoden)
+- [Leader] (Rohan Royal Guard)
+- [Sworn Protector] (Theoden)
 
 - **Doorward of Meduseld** `PASSIVE`
 
-As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Guard within 6" of him count as having the Dominant (2) special rule.
+As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Guard within 6" of him count as having the [Dominant] (2) special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HERA, DAUGHTER OF HELM [70 POINTS]
@@ -633,28 +617,28 @@ As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Gua
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 - Spyglass
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Defence
-- Heroic Resolve
+- [Heroic Strike]
+- [Heroic Defence]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Ashere: 20 points
+- Ashere - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
+- [Expert Rider]
+- [Horse Lord]
 
 - **Spyglass** `ACTIVE`
 
-Hera may ignore the Stalk Unseen special rule of enemy models, and may draw Line of Sight to them as normal.
+Hera may ignore the [Stalk Unseen] special rule of enemy models, and may draw Line of Sight to them as normal.
 
 - **Daughter of Rohan** `PASSIVE`
 
@@ -663,7 +647,6 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### OLWYN, SHIELDMAIDEN OF ROHAN [80 POINTS]
@@ -676,24 +659,24 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 
 **WARGEAR**
 
-- Light armour
-- shield
-- hand weapon
+- [Light Armour]
+- [Shield]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Resolve
+- [Heroic Defence]
+- [Heroic Resolve]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Expert Rider
-- Horse Lord
-- Sworn Protector (Hera)
+- [Expert Rider]
+- [Horse Lord]
+- [Sworn Protector] (Hera)
 
 - **Stalwart Fighter** `ACTIVE`
 
@@ -702,7 +685,6 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### LIEF, PAGE OF HELM [50 POINTS]
@@ -715,34 +697,33 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 
 **WARGEAR**
 
-- Light armour
-- hand weapon
+- [Light Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Horse Lord
+- [Horse Lord]
 
 - **Orders from Edoras** `PASSIVE`
 
-Lief may spend a Will point at the end of his Activation, as long as he is not Engaged in Combat, to pick one of the following orders that last until the end of the turn. Each order can only be chosen once per game.
-1. Friendly Rohan Hero models within 3" can declare a free Heroic Combat.
-2. Friendly Rohan models within 3" gain the Fearless special rule.
+Lief may spend a Will point at the end of his Activation, as long as he is not Engaged in Combat, to [pick][Pick] one of the following orders that last until the end of the turn. Each order can only be chosen once per game.
+1. Friendly Rohan Hero models within 3" can declare a free [Heroic Combat].
+2. Friendly Rohan models within 3" gain the [Fearless] special rule.
 3. Friendly Rohan models with 3" do not suffer the -1 penalty To Hit when moving and shooting, and may re-roll failed To Hit rolls.
-4. Friendly Rohan models that start their Activation within 3" of Lief gain Woodland Creature and Mountain Dweller.
+4. Friendly Rohan models that start their Activation within 3" of Lief gain [Woodland Creature] and [Mountain Dweller].
 5. Friendly Rohan models that start their Activation within 3" of Lief increase their Move value by 2".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ALDOR [20 POINTS]
@@ -755,17 +736,17 @@ Lief may spend a Will point at the end of his Activation, as long as he is not E
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
+- [Heroic Accuracy]
 
 **SPECIAL RULES**
 
-- Fearful
+- [Fearful]
 
 - **Unsteady nerves** `ACTIVE`
 
@@ -778,7 +759,6 @@ Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attac
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALETH, SON OF HAMA [30 POINTS]
@@ -791,17 +771,17 @@ Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attac
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- bow
+- [Armour]
+- [Hand Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Fearful
+- [Fearful]
 
 - **There is Always Hope** `ACTIVE`
 
@@ -814,7 +794,6 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MERIADOC BRANDYBUCK [25 POINTS]
@@ -827,22 +806,22 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Elven Cloak: 5 points
-- Shield: 5 points
+- [Elven Cloak] - 5 points
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Resistant to Magic
-- Throw Stones (range 8", Strength 1)
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
 
 </div>
 
@@ -854,26 +833,26 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
-- bow
-- Horse
+- [Armour]
+- [Hand Weapon]
+- [Shield]
+- [Bow]
+- [Horse]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Throwing spears: 2 points
+- [Banner] - 25 points
+- Throwing Spears - 2 points
 
 **SPECIAL RULES**
 
-- Expert Rider
+- [Expert Rider]
 
 - **Arise, Riders of Rohan!** `ACTIVE`
 
@@ -881,38 +860,37 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, it r
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ROHAN ROYAL GUARD [11 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Horse and throwing spears: 7 points
-- Horse: 5 points
-- Throwing spears: 2 points
+- [Horse] and Throwing Spears - 7 points
+- [Horse] - 5 points
+- Throwing Spears - 2 points
 
 **SPECIAL RULES**
 
-- Bodyguard
-- Expert Rider
+- [Bodyguard]
+- [Expert Rider]
 
 - **Arise, Riders of Rohan!** `ACTIVE`
 
@@ -920,40 +898,41 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, it r
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WARRIOR OF ROHAN [6 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 6+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
 
 **WARGEAR**
 
 - Amour
-- hand weapon
+- [Hand Weapon]
 
 **OPTIONS**
 
-- War horn, shield, throwing spears: 28 points
-- Banner: 25 points
-- Shield and throwing spears: 3 points
-- Shield: 1 point
-- Bow: 1 point
+A Warrior of Rohan must have one of the following options for the listed points cost:
+
+- [War Horn], [Shield], Throwing Spears - 28 points
+- [Banner] - 25 points
+- [Shield] and Throwing Spears - 3 points
+- [Shield] - 1 point
+- [Bow] - 1 point
 
 **SPECIAL RULES**
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal spear during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
 
 </div>
 

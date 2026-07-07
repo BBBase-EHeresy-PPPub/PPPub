@@ -1,5 +1,3 @@
-# Evil Legacy
-
 <div class="unitCard" markdown>
 
 ### ASHRAK [60 POINTS]
@@ -12,23 +10,23 @@
 
 **WARGEAR**
 
-- Armour
-- two-handed weapon
+- [Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Fury (Spider) | Self | 3+ |
-| Compel | 12" | 4+ |
+| [Fury (X)] (Spider) | Self | 3+ |
+| [Compel] | 12" | 4+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Death-touch** `PASSIVE`
 
@@ -36,12 +34,11 @@ Any model that Wounds Ashrak in Combat, or is Wounded by Ashrak in Combat, must 
 
 - **Spider-kin** `PASSIVE`
 
-Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Additionally, whilst within 3" of a friendly Spider model, Ashrak gains the Terror special rule.
+Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Additionally, whilst within 3" of a friendly Spider model, Ashrak gains the [Terror] special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HARADRIM KING [70 POINTS]
@@ -54,30 +51,29 @@ Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Addit
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic March
+- [Heroic Strength]
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Bane of Kings
+- [Bane of Kings]
 
 - **Tribal King** `ACTIVE`
 
-If this model is your General, it increases its Attacks characteristic to 3 and gains the General Hunter special rule.
+If this model is your General, it increases its Attacks characteristic to 3 and gains the [General Hunter] special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [130 POINTS]
@@ -90,35 +86,35 @@ If this model is your General, it increases its Attacks characteristic to 3 and 
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Channelling
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Channelling]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Bladewrath | 12" | 4+ |
-| Compel | 12" | 4+ |
-| Transfix | 12" | 4+ |
-| Drain Courage | 12" | 5+ |
-| Black Dart | 6" | 6+ |
+| [Bladewrath] | 12" | 4+ |
+| [Compel] | 12" | 4+ |
+| [Transfix] | 12" | 4+ |
+| [Drain Courage] | 12" | 5+ |
+| [Black Dart] | 6" | 6+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Essence Leech** `ACTIVE`
 
@@ -127,7 +123,6 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHANDISH KING [100 POINTS]
@@ -140,30 +135,29 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half weapon
-- bow
+- [Heavy Armour]
+- [Hand-and-a-half Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Resolve
-- Heroic March
+- [Heroic Strike]
+- [Heroic Resolve]
+- [Heroic March]
 
 **OPTIONS**
 
-- Khandish Chariot: 35 points
+- Khandish Chariot - 35 points
 
 **SPECIAL RULES**
 
 - **Commanding Presence** `PASSIVE`
 
-Friendly Khand models treat a Khandish King as a banner with a range of 6".
+Friendly Khand models treat a Khandish King as a [banner][Banner] with a range of 6".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
@@ -176,18 +170,18 @@ Friendly Khand models treat a Khandish King as a banner with a range of 6".
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- War Camel: 25 points
+- War Camel - 25 points
 
 </div>
 
@@ -205,23 +199,23 @@ Friendly Khand models treat a Khandish King as a banner with a range of 6".
 
 **WARGEAR**
 
-- Heavy armour
+- [Heavy Armour]
 - Bone-breaker
-- shield
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
 - Elfbane
-- Hatred (Elf)
+- [Hatred] (Elf)
 
 - **Bone-breakers** `ACTIVE`
 
-This is a Unique hand weapon. Enemy models with an Elven weapon Engaged in Combat with, or supporting a model Engaged in Combat with, Razgush do not receive the bonus to the roll-off should the Duel Roll result in a Drawn Combat.
+This is a Unique [hand weapon][Hand Weapon]. Enemy models with an [Elven weapon][Elven Weapon] Engaged in Combat with, or supporting a model Engaged in Combat with, Razgush do not receive the bonus to the roll-off should the Duel Roll result in a Drawn Combat.
 
 - **The Beasts of Mirkwood** `PASSIVE`
 
@@ -234,7 +228,6 @@ The range of Razgush's Stand Fast is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [130 POINTS]
@@ -247,43 +240,42 @@ The range of Razgush's Stand Fast is 12" rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half weapon
+- [Heavy Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 4+ |
-| Transfix | 12" | 4+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 4+ |
-| Panic Steed | 12" | 5+ |
+| [Compel] | 12" | 4+ |
+| [Transfix] | 12" | 4+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 4+ |
+| [Panic Steed] | 12" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Bane of Kings
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Bane of Kings]
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Master of Poisons** `PASSIVE`
 
-At the start of the Move Phase, before the Declare Heroic Actions step, the Betrayer may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly models with the Poisoned Attacks special rule within 6" of the Betrayer may re-roll all failed To Wound rolls for their Poisoned Attacks, rather than just To Wound rolls of a natural 1.
+At the start of the Move Phase, before the Declare Heroic Actions step, the Betrayer may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly models with the [Poisoned Attacks] special rule within 6" of the Betrayer may re-roll all failed To Wound rolls for their [Poisoned Attacks], rather than just To Wound rolls of a natural 1.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DARK MARSHAL [130 POINTS]
@@ -296,42 +288,41 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Aura of Command | Self | 3+ |
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Aura of Command] | Self | 3+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a banner with a range of 6".
+At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a [banner][Banner] with a range of 6".
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [130 POINTS]
@@ -344,33 +335,33 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed weapon
+- [Heavy Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Curse | 12" | 4+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Curse] | 12" | 4+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Sap Fortitude** `PASSIVE`
 
@@ -379,7 +370,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE GOLDEN KING OF ABRAKHAN [130 POINTS]
@@ -392,16 +382,16 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 **WARGEAR**
 
-- Two-handed weapon
+- [Two-handed Weapon]
 - The Golden Throne
 
 **HEROIC ACTIONS**
 
-- Heroic Resolve
+- [Heroic Resolve]
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 </div>
 
@@ -419,37 +409,37 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 4+ |
-| Transfix | 12" | 4+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 4+ |
-| Enchant Blades | 12" | 5+ |
+| [Compel] | 12" | 4+ |
+| [Transfix] | 12" | 4+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 4+ |
+| [Enchant Blades] | 12" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Armour of the Sundered Land** `PASSIVE`
 
-This is Unique heavy armour. Additionally, the Knight of Umbar only loses a Will Point for having been in a Combat, as per the Will of Evil special rule, if his side loses a Combat during the Fight Phase.
+This is Unique [heavy armour][Heavy Armour]. Additionally, the Knight of Umbar only loses a Will Point for having been in a Combat, as per the [Will of Evil] special rule, if his side loses a Combat during the Fight Phase.
 
 - **Combat Mimicry** `ACTIVE`
 
@@ -458,7 +448,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SHADOW LORD [130 POINTS]
@@ -471,33 +460,33 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Fog of Disarray | Self | 3+ |
-| Transfix | 12" | 3+ |
-| Drain Courage | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Fog of Disarray] | Self | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Pall of Darkness** `PASSIVE`
 
@@ -506,7 +495,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE SPIDER QUEEN [120 POINTS]
@@ -519,34 +507,45 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 
 **WARGEAR**
 
-- Large venomous fangs (hand weapons)
+- Large Venomous Fangs (hand Weapons)
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Monstrous Charge
-- Swift Movement
-- Terror
-- Venom
+- [Dominant] (3)
+- [Monstrous Charge]
+- [Swift Movement]
+- [Terror]
+- [Venom]
 
 - **Progeny** `ACTIVE`
 
 At the beginning of her Activation, the Spider Queen may spend any number of Will Points she has remaining to summon a Broodling. For each Will Point spent, place a single Broodling anywhere within 3" of the Spider Queen. Broodlings placed in this manner can never be placed in base contact with enemy models, but may be placed within the Control Zones of enemy models. Broodlings may be Activated on a turn in which they were summoned, though may not Activate as part of a Heroic Move or Heroic March declared by a friendly model that turn as they were not on the board when the Heroic Action was declared. Broodlings are never taken into account when working out if an Army is Broken or reduced to 25%.
 
-**ADDITIONAL PROFILES**
 
-- **Broodling**
-  - Mv 10", Fv 2, Sv 6+, S 3, D 3, A 1, W 1, C 8+, I 8+
+
+**Broodling**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 3 | 1 | 1 | 8+ | 8+ |
+
+**WARGEAR**
+
+- Fangs (hand Weapons)
+
+**SPECIAL RULES**
+
+- [Poisoned Attacks]
+- [Swift Movement]
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE TAINTED [130 POINTS]
@@ -559,22 +558,22 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Miasmatic Presence** `PASSIVE`
 
@@ -582,12 +581,11 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Tain
 
 - **Seeping Decay** `PASSIVE`
 
-At the start of the Fight Phase, before the Declare Heroic Actions step, roll a D6 for every non-Spirit model in base contact with the Tainted, both friendly and enemy. On the roll of a natural 6, the model immediately suffers a Wound. If the model in base contact is a Cavalry model, roll for both the rider and the Mount separately. If after this special rule has been resolved the Tainted is no longer in base contact with any enemy models, then he will not count as being Engaged in Combat that turn (unless he is subsequently Charged as a result of a Heroic Combat).
+At the start of the Fight Phase, before the Declare Heroic Actions step, roll a D6 for every non-Spirit model in base contact with the Tainted, both friendly and enemy. On the roll of a natural 6, the model immediately suffers a Wound. If the model in base contact is a Cavalry model, roll for both the rider and the Mount separately. If after this special rule has been resolved the Tainted is no longer in base contact with any enemy models, then he will not count as being Engaged in Combat that turn (unless he is subsequently Charged as a result of a [Heroic Combat]).
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THE UNDYING [130 POINTS]
@@ -600,33 +598,33 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 
 **WARGEAR**
 
-- Heavy armour
-- hand-and-a-half weapon
+- [Heavy Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Compel | 12" | 3+ |
-| Transfix | 12" | 3+ |
-| Drain Courage | 12" | 4+ |
-| Foil Magic | 12" | 4+ |
-| Black Dart | 6" | 5+ |
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Foil Magic] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
 | Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Harbinger of Evil (12")
-- Terror
-- Will of Evil
+- [Harbinger of Evil] (12")
+- [Terror]
+- [Will of Evil]
 
 - **Arcana Leech** `PASSIVE`
 
@@ -639,7 +637,6 @@ The Undying can spend his Will Points as if they were Fate Points.
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### THRYDAN WOLFSBANE [90 POINTS]
@@ -652,23 +649,23 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Two-handed weapon
+- [Armour]
+- [Hand Weapon]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
-- Leader (Dunlending Huscarl)
-- Mighty Blow
+- [Leader] (Dunlending Huscarl)
+- [Mighty Blow]
 
 - **Lord of Dunland** `ACTIVE`
 
@@ -677,7 +674,6 @@ The range of Thrydan's Stand Fast is 12" rather than 6".
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF THE BLACK GUARD [70 POINTS]
@@ -690,13 +686,13 @@ The range of Thrydan's Stand Fast is 12" rather than 6".
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
-- Shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -707,7 +703,6 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING CHIEFTAIN [55 POINTS]
@@ -720,13 +715,13 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Two-handed weapon
+- [Armour]
+- [Hand Weapon]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 </div>
 
@@ -744,19 +739,19 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Spear
-- Shield
+- [Armour]
+- [Hand Weapon]
+- [Spear]
+- [Shield]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Dunlending Huscarl)
+- [Leader] (Dunlending Huscarl)
 
 - **Readied Stance** `ACTIVE`
 
@@ -769,7 +764,6 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOLFIMBUL, ORC CAPTAIN [45 POINTS]
@@ -782,17 +776,17 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
+- [Armour]
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Challenge
-- Heroic Strike
+- [Heroic Challenge]
+- [Heroic Strike]
 
 **OPTIONS**
 
-- Warg: 20 points
+- [Warg] - 20 points
 
 **SPECIAL RULES**
 
@@ -803,7 +797,6 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GOROTH, CAPTAIN OF THE MORANNON [85 POINTS]
@@ -816,17 +809,17 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed weapon
+- [Heavy Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Burly
-- Dominant (2)
+- [Burly]
+- [Dominant] (2)
 
 - **Come here maggot!** `ACTIVE`
 
@@ -835,7 +828,6 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GORULF IRONSKIN [70 POINTS]
@@ -848,27 +840,26 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 
 **WARGEAR**
 
-- Armour
-- hand weapons
+- [Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic Strike
-- Heroic Defence
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
 
 **SPECIAL RULES**
 
-- Leader (Dunlending Huscarl)
+- [Leader] (Dunlending Huscarl)
 
 - **Ironskin** `ACTIVE`
 
-If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Hero model, he may declare a Heroic Defence for free.
+If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Hero model, he may declare a [Heroic Defence] for free.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GREAT BEAST OF GORGOROTH [175 POINTS]
@@ -881,29 +872,60 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 
 **WARGEAR**
 
-- Hooves (hand weapon)
+- Hooves ([Hand Weapon])
 
 **SPECIAL RULES**
 
-- Dominant (6)
-- Large Target
-- Terror
+- [Dominant] (6)
+- [Large Target]
+- [Terror]
 
 - **Trample** `ACTIVE`
 
 When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 
-**ADDITIONAL PROFILES**
 
-- **Howdah**
-  - Mv -, Fv -, Sv 5+, S -, D 7, A -, W 9, C -, I -
-- **Orc Commander**
-  - Mv 6", Fv 4, Sv 5+, S 4, D 5, A 2, W 2, C 6+, I 7+
+
+**Howdah**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| - | - | 5+ | - | 7 | - | 9 | - | - |
+
+**SPECIAL RULES**
+
+- **Orc Archers** `PASSIVE`
+
+The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an Orc [bow][Bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
+
+
+---
+
+**Orc Commander**
+
+| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
+| 6" | 4 | 5+ | 4 | 5 | 2 | 2 | 6+ | 7+ | 2 | 1 | 1 |
+
+**WARGEAR**
+
+- [Armour]
+- [Spear]
+
+**HEROIC ACTIONS**
+
+- [Heroic March]
+
+**SPECIAL RULES**
+
+- **Plenty of Orcs** `PASSIVE`
+
+If the Orc Commander would lose its last Wound whilst riding the Great Beast, then the Howdah will suffer the Wound instead (this represents an Orc from the Howdah taking command). If the Great Beast is slain, then the Orc Commander will also be slain and removed as a casualty.
+
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### GROBLOG [55 POINTS]
@@ -916,27 +938,26 @@ When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Mithril Crown
 
 **HEROIC ACTIONS**
 
-- Heroic Defence
-- Heroic Strike
+- [Heroic Defence]
+- [Heroic Strike]
 
 **SPECIAL RULES**
 
-- Cave Dweller
+- [Cave Dweller]
 
 - **Mithril Crown** `ACTIVE`
 
-This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Groblog gain the Dominant (2) special rule.
+This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Groblog gain the [Dominant] (2) special rule.
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KARDUSH THE FIRECALLER [65 POINTS]
@@ -949,19 +970,19 @@ This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Gro
 
 **WARGEAR**
 
-- Armour
-- spear
+- [Armour]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Flameburst | 6" | 3+ |
-| Fury (Mordor Orc) | Self | 3+ |
+| [Flameburst] | 6" | 3+ |
+| [Fury (X)] (Mordor Orc) | Self | 3+ |
 
 **SPECIAL RULES**
 
@@ -976,7 +997,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHANDISH CHIEFTAIN [55 POINTS]
@@ -989,17 +1009,17 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
-- bow
+- [Armour]
+- [Hand-and-a-half Weapon]
+- [Bow]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **OPTIONS**
 
-- Horse: 20 points
+- [Horse] - 20 points
 
 </div>
 
@@ -1017,24 +1037,24 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic March
+- [Heroic Strength]
+- [Heroic March]
 
 **OPTIONS**
 
-- War Camel: 25 points
-- Blowpipe: 5 points
-- Shield: 5 points
-- War Spear: 5 points
+- War Camel - 25 points
+- [Blowpipe] - 5 points
+- [Shield] - 5 points
+- [War Spear] - 5 points
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (blowpipe)
+- [Poisoned Attacks] (blowpipe)
 
 </div>
 
@@ -1052,13 +1072,13 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **WARGEAR**
 
-- Armour
-- Hand weapons
+- [Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strength
-- Heroic March
+- [Heroic Strength]
+- [Heroic March]
 
 **SPECIAL RULES**
 
@@ -1069,7 +1089,6 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD CAPTAIN [45 POINTS]
@@ -1082,17 +1101,17 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 
 **WARGEAR**
 
-- Heavy armour
-- two-handed weapon
+- [Heavy Armour]
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic March
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 </div>
 
@@ -1110,22 +1129,22 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Spear
+- [Armour]
+- [Hand Weapon]
+- [Spear]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
-- Heroic Defence
+- [Heroic Channelling]
+- [Heroic Defence]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Drain Courage | 12" | 3+ |
-| Wither | 12" | 3+ |
-| Transfix | 12" | 4+ |
+| [Drain Courage] | 12" | 3+ |
+| [Wither] | 12" | 3+ |
+| [Transfix] | 12" | 4+ |
 
 **SPECIAL RULES**
 
@@ -1136,7 +1155,6 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### VRASKU [70 POINTS]
@@ -1149,19 +1167,19 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Crossbow
+- [Armour]
+- [Hand Weapon]
+- [Crossbow]
 
 **HEROIC ACTIONS**
 
-- Heroic Accuracy
-- Heroic March
+- [Heroic Accuracy]
+- [Heroic March]
 
 **SPECIAL RULES**
 
-- Expert Shot
-- Sharpshooter
+- [Expert Shot]
+- [Sharpshooter]
 
 </div>
 
@@ -1179,13 +1197,13 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 
 **WARGEAR**
 
-- Armour
-- hand weapons
+- [Armour]
+- Hand Weapons
 
 **HEROIC ACTIONS**
 
-- Heroic Strike
-- Heroic Strength
+- [Heroic Strike]
+- [Heroic Strength]
 
 **SPECIAL RULES**
 
@@ -1196,7 +1214,6 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD SHAMAN [50 POINTS]
@@ -1209,24 +1226,24 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
-- Heroic Channelling
+- [Heroic Channelling]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Collapse Rocks | 6" | 4+ |
-| Tremor | Self | 5+ |
+| [Collapse Rocks] | 6" | 4+ |
+| [Tremor] | Self | 5+ |
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 </div>
 
@@ -1244,9 +1261,9 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- War drum (Mordor Uruk-Hai)
+- [Heavy Armour]
+- [Hand Weapon]
+- [War Drum] (Mordor Uruk-Hai)
 
 </div>
 
@@ -1264,18 +1281,18 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 - Morgul Blade
 
 **SPECIAL RULES**
 
-- Terror
-- Will of Evil
+- [Terror]
+- [Will of Evil]
 
 - **Morgul Blade** `ACTIVE`
 
-This is a hand weapon. Once per game, a model with a Morgul Blade can use it during a Combat instead of the normal hand weapon; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use Strength and Attacks of the rider rather than their Mount.
+This is a [hand weapon][Hand Weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of the normal [hand weapon][Hand Weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use Strength and Attacks of the rider rather than their Mount.
 
 - **Automatons** `PASSIVE`
 
@@ -1292,24 +1309,23 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### ABRAKHAN MERCHANT GUARD [9 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Two-handed weapon
+- [Two-handed Weapon]
 
 **SPECIAL RULES**
 
-- Burly
+- [Burly]
 
 </div>
 
@@ -1321,19 +1337,19 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 5 | 6 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 5 | 6 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Exchange shield for banner: 25 points
+- Exchange [Shield] for [Banner] - 25 points
 
 </div>
 
@@ -1345,17 +1361,17 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 3 | 2 | 1 | 6+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 3 | 2 | 1 | 6+ | 8+ |
 
 **WARGEAR**
 
-- Hand weapons
+- Hand Weapons
 
 **SPECIAL RULES**
 
-- Fearless
+- [Fearless]
 
 - **Mindless Killers** `ACTIVE`
 
@@ -1364,23 +1380,22 @@ If this model starts its Activation more than 6" away from a friendly Corsair Bo
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING HORSEMAN [12 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
-- shield
-- Horse
+- [Armour]
+- [Hand Weapon]
+- [Shield]
+- [Horse]
 
 **SPECIAL RULES**
 
@@ -1391,30 +1406,29 @@ Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a na
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING HUSCARL [11 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Heavy armour
-- Hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Dunlending War Axe
 
 **SPECIAL RULES**
 
-- Bodyguard
+- [Bodyguard]
 
 - **Dunlending War Axe** `ACTIVE`
 
-This can be used as either a spear or a two-handed weapon.
+This can be used as either a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -1423,28 +1437,29 @@ If this model is Supporting a Combat, and is within 3" of a friendly Dunland Her
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### DUNLENDING WARRIOR [7 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Banner: 25 points
-- Bow: 1 point
-- Shield: 1 point
-- Two-handed weapon: 1 point
+A Dunlending Warrior must have one of the following options for the listed points cost:
+
+- [Banner] - 25 points
+- [Bow] - 1 point
+- [Shield] - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -1456,19 +1471,19 @@ If this model is Supporting a Combat, and is within 3" of a friendly Dunland Her
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 8" | 7 | 4+ | 5 | 5 | 3 | 3 | 3+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 7 | 4+ | 5 | 5 | 3 | 3 | 3+ | 8+ |
 
 **WARGEAR**
 
-- Claws and teeth (hand weapons)
+- Claws and Teeth (hand Weapons)
 
 **SPECIAL RULES**
 
-- Dominant (3)
-- Resistant to Magic
-- Terror
+- [Dominant] (3)
+- [Resistant to Magic]
+- [Terror]
 
 - **Murderous Power** `ACTIVE`
 
@@ -1477,25 +1492,24 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### FERAL URUK-HAI [13 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 4 | 2 | 1 | 5+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 4 | 4 | 2 | 1 | 5+ | 8+ |
 
 **WARGEAR**
 
-- Light armour
-- Hand weapons
+- [Light Armour]
+- Hand Weapons
 
 **SPECIAL RULES**
 
-- Hatred (Man)
+- [Hatred] (Man)
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -1504,30 +1518,29 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### HALF TROLL [25 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 6+ | 5 | 6 | 2 | 2 | 8+ | 9+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 5 | 6+ | 5 | 6 | 2 | 2 | 8+ | 9+ |
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange hand weapon for two-handed weapon: Free
+- Exchange [Hand Weapon] for [Two-handed Weapon] - Free
 
 **SPECIAL RULES**
 
-- Dominant (2)
-- Terror
+- [Dominant] (2)
+- [Terror]
 
 </div>
 
@@ -1539,23 +1552,23 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 10" | 4 | 4+ | 3 | 7 | 1 | 3 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 4 | 4+ | 3 | 7 | 1 | 3 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
-- hand weapon
+- [Armour]
+- [Hand-and-a-half Weapon]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange hand-and-a-half weapon for bow: Free
+- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
 
 **SPECIAL RULES**
 
-- Dominant (3)
+- [Dominant] (3)
 
 - **Chariot Charge** `ACTIVE`
 
@@ -1564,24 +1577,23 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### KHANDISH HORSEMAN [14 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
-- hand weapon
-- bow
-- Horse
+- [Armour]
+- [Hand-and-a-half Weapon]
+- [Hand Weapon]
+- [Bow]
+- [Horse]
 
 </div>
 
@@ -1593,19 +1605,19 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand-and-a-half weapon
-- hand weapon
+- [Armour]
+- [Hand-and-a-half Weapon]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange hand-and-a-half weapon for bow: Free
+- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
 
 </div>
 
@@ -1617,25 +1629,25 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 3+ | 4 | 5 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 3+ | 4 | 5 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 - War Camel
 
 **OPTIONS**
 
-- Blowpipe: 1 point
-- Spear: 1 point
+- [Blowpipe] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (blowpipe)
+- [Poisoned Attacks] (blowpipe)
 
 </div>
 
@@ -1647,24 +1659,24 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 3+ | 4 | 5 | 1 | 1 | 8+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 3+ | 4 | 5 | 1 | 1 | 8+ | 8+ |
 
 **WARGEAR**
 
-- Armour
-- Hand weapon
-- Shield
+- [Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Blowpipe: 1 point
-- Spear: 1 point
+- [Blowpipe] - 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Poisoned Attacks (blowpipe)
+- [Poisoned Attacks] (blowpipe)
 
 </div>
 
@@ -1676,18 +1688,18 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 5+ | 4 | 4 | 2 | 1 | 7+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 5+ | 4 | 4 | 2 | 1 | 7+ | 7+ |
 
 **WARGEAR**
 
-- Armour
-- hand weapon
+- [Armour]
+- [Hand Weapon]
 
 **SPECIAL RULES**
 
-- Stalk Unseen
+- [Stalk Unseen]
 
 </div>
 
@@ -1699,24 +1711,24 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 2 | 5+ | 3 | 5 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 5 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
+- [Heavy Armour]
+- [Hand Weapon]
 - Drum
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 - **Run and Drum** `ACTIVE`
 
-The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a banner. • Whilst being played, the Moria Blackshield Drum counts as a banner for the purpose of Victory Points.
+The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner]. • Whilst being played, the Moria Blackshield Drum counts as a [banner][Banner] for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 
@@ -1725,31 +1737,30 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD WARRIOR [8 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 5" | 2 | 5+ | 3 | 6 | 1 | 1 | 7+ | 8+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 6 | 1 | 1 | 7+ | 8+ |
 
 **WARGEAR**
 
-- Heavy armour
-- hand weapon
-- shield
+- [Heavy Armour]
+- [Hand Weapon]
+- [Shield]
 
 **OPTIONS**
 
-- Spear: 1 point
+- [Spear] - 1 point
 
 **SPECIAL RULES**
 
-- Cave Dweller
-- Hatred (Dwarf)
+- [Cave Dweller]
+- [Hatred] (Dwarf)
 
 </div>
 
@@ -1761,18 +1772,18 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 8+ | 7+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 8+ | 7+ |
 
 **WARGEAR**
 
-- Hand weapon
-- orc bow
+- [Hand Weapon]
+- Orc [Bow]
 
 **SPECIAL RULES**
 
-- Mountain Dweller
+- [Mountain Dweller]
 
 </div>
 
@@ -1784,46 +1795,70 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | - | - | - | - | - | - | - | - | - |
 
-**ADDITIONAL PROFILES**
+**Moria Goblin Warrior**
 
-- **Moria Goblin Warrior**
-  - Mv 5", Fv 2, Sv 5+, S 3, D 4, A 1, W 1, C 8+, I 8+
-- **Warg**
-  - Mv 10", Fv 3, Sv 6+, S 4, D 4, A 1, W 1, C 8+, I 8+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 5" | 2 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
+
+**WARGEAR**
+
+- [Armour]
+- [Hand Weapon]
+- Either [Shield] or Orc [Bow]
+
+**SPECIAL RULES**
+
+- [Cave Dweller]
+
+- **On the Hunt** `ACTIVE`
+
+During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an Orc [bow][Bow] for each Moria Goblin Warrior with an Orc [bow][Bow] still alive upon the [Warg]. These shooting attacks can still be made even if the [Warg] Marauder has Moved further than half its Move Value that turn, and even if it is Engaged in Combat.
+
+- **Lethal Union** `ACTIVE`
+
+Whilst the Goblins remain mounted upon the [Warg], the entire model gains the Terror special rule and gains a bonus of +1 to any Courage Tests it is required to take. Additionally, during a Combat a [Warg] Marauder gains an additional Attack for each Goblin after the first that is still mounted upon the [Warg], provided they did not shoot during the Shoot Phase.
+
+
+---
+
+**Warg**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
 
 </div>
 
 ---
-
 <div class="unitCard" markdown>
 
 ### WATCHER OF KARNA [9 POINTS]
 
 *WARRIOR*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 3+ | 3 | 3 | 1 | 1 | 7+ | 5+ | - | - | - |
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 3+ | 3 | 3 | 1 | 1 | 7+ | 5+ |
 
 **WARGEAR**
 
-- Light armour
-- Hand weapon
+- [Light Armour]
+- [Hand Weapon]
 
 **OPTIONS**
 
-- Bow: 1 point
-- Twin Blades: 1 point
+A Watcher of Karna must have one of the following options for the listed points cost:
+
+- [Bow] - 1 point
+- Twin Blades - 1 point
 
 **SPECIAL RULES**
 
-- Hatred (Spirit)
-- Poisoned Attacks (bow)
-- Resistant to Magic
+- [Hatred] (Spirit)
+- [Poisoned Attacks] (bow)
+- [Resistant to Magic]
 
 - **Twin Blades** `ACTIVE`
 
@@ -1831,7 +1866,7 @@ A Watcher of Karna with Twin Blades increases its Attacks to 2.
 
 - **Steely Nerve** `ACTIVE`
 
-Watchers of Karna gain a bonus of +2 to their Courage Test when attempting to Charge an enemy with the Terror special rule. Additionally, when an enemy model with the Blades of the Dead makes Strikes against this model, this model will treat its Courage value as 5+ rather than 7+ (before any modifiers are applied).
+Watchers of Karna gain a bonus of +2 to their Courage Test when attempting to Charge an enemy with the [Terror] special rule. Additionally, when an enemy model with the [Blades of the Dead] makes Strikes against this model, this model will treat its Courage value as 5+ rather than 7+ (before any modifiers are applied).
 
 </div>
 

@@ -62,4 +62,4 @@
 
 **"Forth Eorlingas!"** - Once per game, at the start of any Fight Phase, your General can use this special rule if they Charged in the preceding Move Phase. If they do, then until the end of the turn friendly Rohan models within 12" of your General must re-roll all failed To Wound Rolls when making Strikes.
 
-**Protect the King** - When a friendly Rohan Hero Charges, until the end of the turn friendly Rohan Warrior models within 6" of them will automatically pass all Courage Tests they are required to take for Charging an enemy with the Terror special rule.
+**Protect the King** - When a friendly Rohan Hero Charges, until the end of the turn friendly Rohan Warrior models within 6" of them will automatically pass all Courage Tests they are required to take for Charging an enemy with the [Terror] special rule.

@@ -46,8 +46,8 @@
 
 ## SPECIAL RULES
 
-**"If that fell Kingdom should rise again, Rivendell, Lórien, the Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the Terror special rule.
+**"If that fell Kingdom should rise again, Rivendell, Lórien, the Shire, even Gondor itself shall fall."** - Friendly Angmar Orc models within 3" of a friendly Spirit Hero model gain the [Terror] special rule.
 
 **Sense of Hopelessness** - If an enemy Hero model is slain in Combat, then for the duration of the following turn, all enemy models suffer a -1 penalty to any Courage Tests they are required to take.
 
-**The Shadows of Angmar** - Friendly Spirit models gain the Stalk Unseen special rule.
+**The Shadows of Angmar** - Friendly Spirit models gain the [Stalk Unseen] special rule.
