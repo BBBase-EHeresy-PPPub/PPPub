@@ -28,9 +28,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-- For each Objective Marker, you score 1 Victory Point if you have more models within 3" than your opponent. If you have at least twice as many models as your opponent within 3", you instead score 2 Victory Points. If you are the only player to have models within 3", you instead score 3 Victory Points.
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
-- You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
+* For each Objective Marker, you score 1 Victory Point if you have more models within 3" than your opponent. If you have at least twice as many models as your opponent within 3", you instead score 2 Victory Points. If you are the only player to have models within 3", you instead score 3 Victory Points.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
+* You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
 ![](../media/scenarios/rules_manual/domination.jpg)
 
@@ -66,12 +66,12 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General has been wounded, and only has 1 Wound remaining, then you instead score 3 Victory Points. If the enemy General was removed as a casualty, you instead score 5 Victory Points.
-- You score 3 Victory Points if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 5 Victory Points.
-- You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
-- You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score 2 Victory Points.
-- You score 3 Victory Points if the enemy Army has been reduced to 25% of its starting models at the end of the game.
-- You score 1 Victory Point for each enemy Hero model that has been removed as a casualty, up to a maximum of 3 Victory Points.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General has been wounded, and only has 1 Wound remaining, then you instead score 3 Victory Points. If the enemy General was removed as a casualty, you instead score 5 Victory Points.
+* You score 3 Victory Points if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 5 Victory Points.
+* You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score 2 Victory Points.
+* You score 3 Victory Points if the enemy Army has been reduced to 25% of its starting models at the end of the game.
+* You score 1 Victory Point for each enemy Hero model that has been removed as a casualty, up to a maximum of 3 Victory Points.
 
 ![](../media/scenarios/rules_manual/to_the_death.jpg)
 
@@ -107,10 +107,10 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SCORING VICTORY POINTS**
 
-- You score 4 Victory Points if you have more models within 6" of the objective than your opponent. If you have twice as many models within 6" of the objective than your opponent, then you instead score 8 Victory Points. If you have three times as many models within 6" of the objective than your opponent, or you are the only player to have models within 6" of the objective, then you instead score 12 Victory Points.
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
-- You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
-- You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score 4 Victory Points if you have more models within 6" of the objective than your opponent. If you have twice as many models within 6" of the objective than your opponent, then you instead score 8 Victory Points. If you have three times as many models within 6" of the objective than your opponent, or you are the only player to have models within 6" of the objective, then you instead score 12 Victory Points.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
+* You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
+* You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 
 **SPECIAL RULES**
 
@@ -161,13 +161,13 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-- You score 3 Victory Points for each enemy Supply Marker that has been destroyed.
-- You score 1 Victory Point for each enemy Supply Marker that has not been destroyed, but you have more models within 3" than your opponent.
-- If you have destroyed more Supply Markers than your opponent, you score 1 Victory Point.
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
-- You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
-- You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
-- You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score 2 Victory Points.
+* You score 3 Victory Points for each enemy Supply Marker that has been destroyed.
+* You score 1 Victory Point for each enemy Supply Marker that has not been destroyed, but you have more models within 3" than your opponent.
+* If you have destroyed more Supply Markers than your opponent, you score 1 Victory Point.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
+* You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
+* You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score 1 Victory Point if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score 2 Victory Points.
 
 **SPECIAL RULES**
 
@@ -205,10 +205,10 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-- You score 4 Victory Points if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score 8 Victory Points. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score 12 Victory Points.
-- You score 1 Victory Point for each of your Hero models that escapes the board, to a maximum of 3 Victory Points.
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
-- You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
+* You score 4 Victory Points if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score 8 Victory Points. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score 12 Victory Points.
+* You score 1 Victory Point for each of your Hero models that escapes the board, to a maximum of 3 Victory Points.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
+* You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
 **SPECIAL RULES**
 
@@ -259,11 +259,11 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SCORING VICTORY POINTS**
 
-- At the start of the game, secretly note down one of your own Hero models - this may not be your General unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points. If the nominated Hero is still alive and has suffered no Wounds, and spent no Fate Points, you instead score 5 Victory Points.
-- At the start of the game, secretly note down one of your opponent's Hero models - this may not be your opponent's General unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If the nominated Hero has been removed as a casualty, you instead score 3 Victory Points. If the nominated Hero has been removed as a casualty as a result of one of your models wounding them in Combat, you instead score 5 Victory Points.
-- At the start of the game secretly note down a single terrain piece wholly within your opponent's half of the board. You score 1 Victory Point if at the end of the game you have more models than your opponent on or in base contact with your chosen terrain piece. If at the end of the game, you have at least two models and twice as many as your opponent on or in base contact with your chosen terrain piece, you instead score 3 Victory Points. If your opponent has no models on or in base contact with your chosen terrain piece and you have at least two, you instead score 5 Victory Points.
-- You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
-- You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
+* At the start of the game, secretly note down one of your own Hero models - this may not be your General unless you only have one Hero. You score 1 Victory Point if the nominated Hero is still alive at the end of the game. If the nominated Hero is still alive and has suffered no Wounds, you instead score 3 Victory Points. If the nominated Hero is still alive and has suffered no Wounds, and spent no Fate Points, you instead score 5 Victory Points.
+* At the start of the game, secretly note down one of your opponent's Hero models - this may not be your opponent's General unless they only have one Hero. You score 1 Victory Point for causing one or more Wounds on the nominated Hero. Wounds prevented by a successful Fate roll do not count. If the nominated Hero has been removed as a casualty, you instead score 3 Victory Points. If the nominated Hero has been removed as a casualty as a result of one of your models wounding them in Combat, you instead score 5 Victory Points.
+* At the start of the game secretly note down a single terrain piece wholly within your opponent's half of the board. You score 1 Victory Point if at the end of the game you have more models than your opponent on or in base contact with your chosen terrain piece. If at the end of the game, you have at least two models and twice as many as your opponent on or in base contact with your chosen terrain piece, you instead score 3 Victory Points. If your opponent has no models on or in base contact with your chosen terrain piece and you have at least two, you instead score 5 Victory Points.
+* You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
+* You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
 **Designer's Note** - In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.
 
