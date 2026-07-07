@@ -204,7 +204,7 @@ As a war drum allows a model to declare a free Heroic March, models cannot be af
 
 ### WAR HORN
 
-Models within 24" of a friendly model with a war horn gain a bonus of +1 to any Courage Tests they take. Additionally, a model with a war horn gains the Dominant (2) special rule and can use it once per game to increase the range of a friendly Hero model's Stand Fast by 3", so long as the model with the war horn is in range of the Hero model's Stand Fast before this increase. If a Hero model has a war horn themselves, they may use it to increase the range of their own Stand Fast by 3" instead. A war horn is treated as an Active ability (see page 123).
+Models within 24" of a friendly model with a war horn gain a bonus of +1 to any Courage Tests they take. Additionally, a model with a war horn gains the Dominant (2) special rule and can use it once per game to increase the range of a friendly Hero model's [Stand Fast] by 3", so long as the model with the war horn is in range of the Hero model's [Stand Fast] before this increase. If a Hero model has a war horn themselves, they may use it to increase the range of their own [Stand Fast] by 3" instead. A war horn is treated as an Active ability (see page 123).
 
 ## ARMOUR
 

@@ -87,7 +87,7 @@ Helm never counts as [unarmed][Unarmed].
 
 - **No Longer a Leader** `ACTIVE`
 
-Helm can never be your General. He cannot call Stand Fast and models cannot benefit from his Heroic Actions.
+Helm can never be your General. He cannot call [Stand Fast] and models cannot benefit from his Heroic Actions.
 
 - **Berserk Rage** `ACTIVE`
 
@@ -177,7 +177,7 @@ If a Combat is tied at Fight value, Theoden wins. If both sides have a similar s
 
 - **Forth, and Fear no Darkness** `ACTIVE`
 
-Theoden's [Stand Fast!] Is 12" rather than 6".
+Theoden's [Stand Fast] Is 12" rather than 6".
 
 - **The will of Men is easily corrupted** `PASSIVE`
 

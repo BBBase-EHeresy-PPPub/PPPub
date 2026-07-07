@@ -87,7 +87,9 @@ When choosing your forces for a siege game, both the attacker and the defender c
 ### ATTACKER EQUIPMENT
 
 **Siege Ladder - 5 points**
+
 **Battering Ram - 15 points**
+
 **Siege Tower - 40 points**
 
 ### DEFENDER EQUIPMENT

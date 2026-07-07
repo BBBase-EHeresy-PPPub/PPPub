@@ -62,4 +62,4 @@
 
 **"Fear! Fire! Foes!"** - Friendly Hobbit models gain the [Woodland Creature] and [Mountain Dweller] special rules.
 
-**Heroes of the Shire** - Friendly Hobbit Hero models may benefit from the Stand Fast of either Merry or Pippin.
+**Heroes of the Shire** - Friendly Hobbit Hero models may benefit from the [Stand Fast] of either Merry or Pippin.

@@ -25,7 +25,7 @@
 
 - **The King in the North** `ACTIVE`
 
-The range of Arvedui's Stand Fast is 12", rather than 6"
+The range of Arvedui's [Stand Fast] is 12", rather than 6"
 
 </div>
 
@@ -133,7 +133,7 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -365,7 +365,7 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -378,7 +378,7 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 - **Packlord** `ACTIVE`
 
-Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the [Warg] keyword.
+Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this model unless they have the [Warg] keyword.
 
 </div>
 
@@ -638,7 +638,7 @@ Whenever Nazthak slays an enemy model in Combat (with the exception of Monster m
 
 **WARGEAR**
 
-- An Amalgamation of Grasping Spectral Hands (hand Weapons)
+- An Amalgamation of Grasping Spectral Hands  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -675,7 +675,7 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -688,7 +688,7 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 - **Packlord** `ACTIVE`
 
-Friendly models may not benefit from the Heroic Actions or Stand Fast of this model unless they have the [Warg] keyword.
+Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this model unless they have the [Warg] keyword.
 
 </div>
 
@@ -1035,7 +1035,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1062,7 +1062,7 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 </div>
 

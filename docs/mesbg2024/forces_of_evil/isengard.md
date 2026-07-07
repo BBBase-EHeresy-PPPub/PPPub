@@ -43,7 +43,7 @@ Once per game, you may automatically win the Priority roll. Must be declared bef
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's [Stand Fast!] Range is 12", and affects Hero models.
+Saruman's [Stand Fast] Range is 12", and affects Hero models.
 
 - **Saruman's Deceit** `PASSIVE`
 
@@ -58,6 +58,7 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 ### SHARKEY & WORM [60 POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
 **Sharkey**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -480,7 +481,7 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 
 - **Head Taker** `ACTIVE`
 
-If his army is Broken, instead of taking a Courage test, Ugluk can kill a friendly Warrior within 2" to pass the test, with a Stand Fast Range of 12" that affects both Warrior and Hero models.
+If his army is Broken, instead of taking a Courage test, Ugluk can kill a friendly Warrior within 2" to pass the test, with a [Stand Fast] Range of 12" that affects both Warrior and Hero models.
 
 - **"Looks like meat's back on the menu, boys!"** `ACTIVE`
 
@@ -659,7 +660,7 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Fury (X)] (Isengard Orc) | Self | 3+ |
+| [Fury] (Isengard Orc) | Self | 3+ |
 | [Enrage Beast] | 6" | 4+ |
 | [Transfix] | 12" | 5+ |
 
@@ -694,7 +695,7 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Fury (X)] (Isengard Uruk-hai) | Self | 3+ |
+| [Fury] (Isengard Uruk-hai) | Self | 3+ |
 | [Bladewrath] | 6" | 4+ |
 | [Transfix] | 12" | 5+ |
 
@@ -774,7 +775,7 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 
 **WARGEAR**
 
-- Beaks and Claws ([hand Weapon][Hand Weapon])
+- Beaks and Claws ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -864,7 +865,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 **WARGEAR**
 
-- Teeth and Claws ([hand Weapon][Hand Weapon])
+- Teeth and Claws ([hand weapon][Hand Weapon])
 
 </div>
 

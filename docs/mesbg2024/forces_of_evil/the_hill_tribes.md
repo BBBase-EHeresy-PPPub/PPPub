@@ -180,6 +180,7 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 ### SHANK & WROT [150 POINTS]
 
 *MINOR HERO, UNIQUE, 6 WARBAND*
+
 **Shank**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -246,7 +247,7 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 **WARGEAR**
 
-- Claws ([hand Weapon][Hand Weapon])
+- Claws ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 

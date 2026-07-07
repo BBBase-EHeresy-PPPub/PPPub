@@ -664,7 +664,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Fury (X)] (Mordor Orc) | Self | 3+ |
+| [Fury] (Mordor Orc) | Self | 3+ |
 | [Curse] | 12" | 4+ |
 | [Transfix] | 12" | 5+ |
 
@@ -708,7 +708,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **WARGEAR**
 
-- Fangs ([hand Weapon][Hand Weapon])
+- Fangs ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 

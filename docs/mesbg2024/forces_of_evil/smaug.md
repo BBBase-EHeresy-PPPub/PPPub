@@ -10,7 +10,7 @@
 
 **WARGEAR**
 
-- Razor-sharp Teeth, Massive Talons (hand Weapons)
+- Razor-sharp Teeth, Massive Talons  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 

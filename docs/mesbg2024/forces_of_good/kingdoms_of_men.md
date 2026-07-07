@@ -24,7 +24,7 @@
 
 - **Lord of Dale** `ACTIVE`
 
-Brand's [Stand Fast!] Is 12" rather than 6".
+Brand's [Stand Fast] Is 12" rather than 6".
 
 - **Stoic Fighter** `ACTIVE`
 
@@ -64,7 +64,7 @@ If Girion takes a Windlance, he will be the only crew, but can move more than 6"
 
 - **Lord of Dale** `PASSIVE`
 
-Girion's Stand Fast is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
+Girion's [Stand Fast] is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 </div>
 

@@ -748,7 +748,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 - **Vanguard** `ACTIVE`
 
-This model may benefit from a friendly Hero model's Stand Fast regardless of range.
+This model may benefit from a friendly Hero model's [Stand Fast] regardless of range.
 
 </div>
 

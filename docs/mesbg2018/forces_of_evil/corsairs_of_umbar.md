@@ -143,8 +143,8 @@ A Hasharin can never be trapped while still standing.
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**

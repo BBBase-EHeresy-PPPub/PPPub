@@ -337,7 +337,7 @@ A Vagabond, and any friendly models within 6" of them, does not suffer any penal
 
 *Dwarves commonly wander Middle-earth for many reasons; to venture out from their homesteads in search of fortune, to hone their skills in the wilds, or simply to hunt down the foes of their people. It is not uncommon for these Dwarves to come across a company of travelers that share their own ambitions.*
 
-If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Dwarf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from its Heroic Actions. Only Good Battle Companies may hire a Wandering Dwarf. A Wandering Dwarf has the following profile and has the **Dwarf**, **Infantry** and **Hero** keywords.
+If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Dwarf does not provide a [Stand Fast!] and other members of the Battle Company cannot benefit from its Heroic Actions. Only Good Battle Companies may hire a Wandering Dwarf. A Wandering Dwarf has the following profile and has the **Dwarf**, **Infantry** and **Hero** keywords.
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -353,7 +353,7 @@ If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that 
 
 *Throughout Middle-earth's rich history, many Elves have been known to wander its paths for reasons known only unto them. Sometimes they will offer help to those in need and accompany a band of travelers on their journey.*
 
-If a Battle Company hires a Wandering Elf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Elf does not provide a Stand Fast! and other members of the Battle Company cannot benefit from their Heroic Actions. Only Good Battle Companies may hire a Wandering Elf. A Wandering Elf has the following profile and has the **Elf**, **Infantry **and **Hero** keywords.
+If a Battle Company hires a Wandering Elf, they will count as a **Hero** that cannot gain Experience Points - although they will still roll on the Hero Injury chart as normal. A Wandering Elf does not provide a [Stand Fast!] and other members of the Battle Company cannot benefit from their Heroic Actions. Only Good Battle Companies may hire a Wandering Elf. A Wandering Elf has the following profile and has the **Elf**, **Infantry **and **Hero** keywords.
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

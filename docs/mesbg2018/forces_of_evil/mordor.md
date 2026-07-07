@@ -43,8 +43,8 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 
 **OPTIONS**
 
-- Armoured Fell Beast - 75 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 75 points
+- [Fell Beast] - 50 points
 - Crown of Morgul - 25 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
@@ -146,8 +146,8 @@ Gothmog and all friendly Mordor Orc models within 3" gain the [Hatred] (Man) spe
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 
@@ -276,8 +276,8 @@ Razgush's warband may only include Orc Warriors, [Warg] Riders, Bat Swarms, Mirk
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**
@@ -326,8 +326,8 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 
@@ -376,8 +376,8 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 
@@ -426,8 +426,8 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**
@@ -479,8 +479,8 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**
@@ -528,8 +528,8 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 
@@ -582,8 +582,8 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**
@@ -1106,8 +1106,8 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 
 **OPTIONS**
 
-- Armoured Fell Beast - 75 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 75 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 - Might - 5 points
 - Will - 5 points

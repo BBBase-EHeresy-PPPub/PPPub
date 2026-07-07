@@ -42,6 +42,6 @@
 
 **"They're dangerous folk, wandering the wilds"** - Rangers of the North increase their Attacks value to 2.
 
-**Passing of the Grey Company** - Rangers of the North may benefit from the Stand Fast of any friendly Unique Hero model.
+**Passing of the Grey Company** - Rangers of the North may benefit from the [Stand Fast] of any friendly Unique Hero model.
 
 **Masters of the Wild** - Friendly models are not slowed by difficult terrain of any type.

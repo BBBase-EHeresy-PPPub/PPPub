@@ -43,8 +43,8 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 
 **OPTIONS**
 
-- Armoured Fell Beast - 75 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 75 points
+- [Fell Beast] - 50 points
 - Crown of Morgul - 25 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
@@ -209,8 +209,8 @@ Attack and Courage value are equal to remaining wounds.
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 
@@ -259,8 +259,8 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 

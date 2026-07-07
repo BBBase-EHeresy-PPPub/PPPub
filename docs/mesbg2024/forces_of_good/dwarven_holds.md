@@ -30,7 +30,7 @@
 
 - **King Under the Mountain** `ACTIVE`
 
-Dain's Stand Fast will cover the entire battlefield, regardless of range. Additionally, friendly Erebor Dwarf Hero models may benefit from his Stand Fast.
+Dain's [Stand Fast] will cover the entire battlefield, regardless of range. Additionally, friendly Erebor Dwarf Hero models may benefit from his Stand Fast.
 
 - **Venerable** `PASSIVE`
 
@@ -652,7 +652,7 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 
 - **Durin's Heir** `PASSIVE`
 
-Thrain's Stand Fast has a range of 12" and also affects friendly Dwarf Hero models.
+Thrain's [Stand Fast] has a range of 12" and also affects friendly Dwarf Hero models.
 
 - **The Ring of Durin** `PASSIVE`
 
@@ -1829,6 +1829,7 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 ### VAULT WARDEN TEAM [25 POINTS]
 
 *WARRIOR*
+
 **Iron Shield Bearer**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |

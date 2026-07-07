@@ -62,10 +62,10 @@ The following rule applies only to Courage tests which are taken on account of t
 
 **Warrior** models do not have to take their Courage test for their force being Broken if there is a visible friendly **Hero** model within 6" who has already taken and passed their Courage test that turn (including those **Hero** models that pass this test automatically because of a Magical Power or special rule). For a **Warrior** model to benefit from this rule, a **Hero** model must test and move before testing for the **Warrior** model. Remember that other **Hero** models are not affected by this rule, and must therefore take a test even if a **Hero** model within 6" has already passed their test.
 
-**Hero** models that are Engaged in combat do not test on their Courage, so they cannot use the Stand Fast! rule (they are too busy defending themselves to rally the troops around them).
+**Hero** models that are Engaged in combat do not test on their Courage, so they cannot use the [Stand Fast!] rule (they are too busy defending themselves to rally the troops around them).
 
 ***STAND FAST!***
 
 ![](../media/rules_manual/stand_fast_1.jpg)
 
-*Éomer's army has been Broken. At the start of the next Move phase, Éomer takes a Courage test and passes it. After Éomer finishes his movement, Warriors of Rohan A, B and C are within 6" so they automatically pass their Courage test due to Éomer's Stand Fast! rule. Warrior of Rohan D, however, is not within 6" and so is not subject to Éomer's Stand Fast! rule. Warrior of Rohan D must make their own Courage test.*
+*Éomer's army has been Broken. At the start of the next Move phase, Éomer takes a Courage test and passes it. After Éomer finishes his movement, Warriors of Rohan A, B and C are within 6" so they automatically pass their Courage test due to Éomer's [Stand Fast!] rule. Warrior of Rohan D, however, is not within 6" and so is not subject to Éomer's [Stand Fast!] rule. Warrior of Rohan D must make their own Courage test.*

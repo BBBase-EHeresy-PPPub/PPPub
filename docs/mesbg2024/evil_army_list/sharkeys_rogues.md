@@ -39,7 +39,7 @@
 
 ## SPECIAL RULES
 
-**"You do what Sharkey says!"** - Sharkey's Stand Fast will cover the entire battlefield, regardless of range
+**"You do what Sharkey says!"** - Sharkey's [Stand Fast] will cover the entire battlefield, regardless of range
 
 **Strength in Numbers** - Whilst this Army is not Broken, friendly Ruffian models gain a +1 bonus to any Courage Tests they are required to take.
 

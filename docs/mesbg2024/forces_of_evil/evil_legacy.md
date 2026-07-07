@@ -21,7 +21,7 @@
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Fury (X)] (Spider) | Self | 3+ |
+| [Fury] (Spider) | Self | 3+ |
 | [Compel] | 12" | 4+ |
 
 **SPECIAL RULES**
@@ -34,7 +34,7 @@ Any model that Wounds Ashrak in Combat, or is Wounded by Ashrak in Combat, must 
 
 - **Spider-kin** `PASSIVE`
 
-Only Spider models may benefit from Ashrak's Stand Fast or Heroic Actions. Additionally, whilst within 3" of a friendly Spider model, Ashrak gains the [Terror] special rule.
+Only Spider models may benefit from Ashrak's [Stand Fast] or Heroic Actions. Additionally, whilst within 3" of a friendly Spider model, Ashrak gains the [Terror] special rule.
 
 </div>
 
@@ -227,7 +227,7 @@ Razgush may include Bat Swarms, Mirkwood Giant Spiders, Mirkwood Hunting Spiders
 
 - **War Leader of the North** `PASSIVE`
 
-The range of Razgush's Stand Fast is 12" rather than 6".
+The range of Razgush's [Stand Fast] is 12" rather than 6".
 
 </div>
 
@@ -517,7 +517,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 
 **WARGEAR**
 
-- Large Venomous Fangs (hand Weapons)
+- Large Venomous Fangs  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -544,7 +544,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Fangs (hand Weapons)
+- Fangs  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -586,7 +586,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 - **Miasmatic Presence** `PASSIVE`
 
-At the start of the Move Phase, before the Declare Heroic Actions step, the Tainted may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, all Warrior models (both friendly and enemy) within 6" of the Tainted may not benefit from the Stand Fast rule, nor take part in any Heroic Actions.
+At the start of the Move Phase, before the Declare Heroic Actions step, the Tainted may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, all Warrior models (both friendly and enemy) within 6" of the Tainted may not benefit from the [Stand Fast] rule, nor take part in any Heroic Actions.
 
 - **Seeping Decay** `PASSIVE`
 
@@ -680,7 +680,7 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 - **Lord of Dunland** `ACTIVE`
 
-The range of Thrydan's Stand Fast is 12" rather than 6".
+The range of Thrydan's [Stand Fast] is 12" rather than 6".
 
 </div>
 
@@ -889,7 +889,7 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 
 **WARGEAR**
 
-- Hooves ([hand Weapon][Hand Weapon])
+- Hooves ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -997,7 +997,7 @@ This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Gro
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Flameburst] | 6" | 3+ |
-| [Fury (X)] (Mordor Orc) | Self | 3+ |
+| [Fury] (Mordor Orc) | Self | 3+ |
 
 **SPECIAL RULES**
 
@@ -1315,7 +1315,7 @@ This is a [hand weapon][Hand Weapon]. Once per game, a model with a Morgul Blade
 
 - **Automatons** `PASSIVE`
 
-This model may never provide a Stand Fast to nearby Warrior models.
+This model may never provide a [Stand Fast] to nearby Warrior models.
 
 - **Will of the Necromancer** `PASSIVE`
 
@@ -1500,7 +1500,7 @@ A Dunlending Warrior must have one of the following options for the listed point
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1821,6 +1821,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 ### WARG MARAUDER [35 POINTS]
 
 *WARRIOR*
+
 **Moria Goblin Warrior**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |

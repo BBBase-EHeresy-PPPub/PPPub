@@ -48,4 +48,4 @@
 
 **The Promise of Wealth** - Friendly Dunland Warrior models within range of an Objective Marker gain a bonus of +1 To Wound when making Strikes.
 
-**Shank & Wrot** - Friendly Mordor models cannot benefit from the Heroic Actions or Stand Fast of friendly Dunland models and friendly Dunland models cannot benefit from the Heroic Actions or Stand Fast of friendly Mordor models.
+**Shank & Wrot** - Friendly Mordor models cannot benefit from the Heroic Actions or [Stand Fast] of friendly Dunland models and friendly Dunland models cannot benefit from the Heroic Actions or [Stand Fast] of friendly Mordor models.

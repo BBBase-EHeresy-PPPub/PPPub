@@ -41,13 +41,13 @@ If the Courage Test is passed, the model will stay and fight. If this Courage Te
 
 ### STAND FAST (47)
 
-Stand Fast is a rule that only applies to Courage Tests taken by Hero models as part of the rules for a Broken Army.
+[Stand Fast] is a rule that only applies to Courage Tests taken by Hero models as part of the rules for a Broken Army.
 
 When a Hero model takes a Courage Test for being part of a Broken Army and passes, then at the end of their Activation they must call Stand Fast. Any friendly Warrior model that Activates within 6" of a Hero who has called Stand Fast, and who can draw Line of Sight to the Hero, will automatically pass their Courage Test for being part of a Broken Army. Other Hero models are not affected by this rule and make their own Courage Test as normal.
 
 Remember that Hero models that are Engaged in Combat or affected by a special rule or Magical Power that renders them unable to Activate, cannot Activate and do not take this Courage Test, and therefore cannot provide a Stand Fast.
 
-***Example 47:** Haleth's Army has been Broken. At the start of his next Activation, Haleth takes his Courage Test and passes it. At the end of Haleth's Activation he calls Stand Fast, which has a range of 6". Warriors of Rohan A, B and C are all within range of Haleth's Stand Fast and can draw Line of Sight to him. Warrior of Rohan D is within range of Haleth's Stand Fast, but cannot draw Line of Sight to him - they must take their own Courage Test. Warrior of Rohan E is not within range of Haleth's Stand Fast, and so must also take a Courage Test.*
+***Example 47:** Haleth's Army has been Broken. At the start of his next Activation, Haleth takes his Courage Test and passes it. At the end of Haleth's Activation he calls Stand Fast, which has a range of 6". Warriors of Rohan A, B and C are all within range of Haleth's [Stand Fast] and can draw Line of Sight to him. Warrior of Rohan D is within range of Haleth's Stand Fast, but cannot draw Line of Sight to him - they must take their own Courage Test. Warrior of Rohan E is not within range of Haleth's Stand Fast, and so must also take a Courage Test.*
 
 ![](../media/rules_manual/example_47.jpg)
 

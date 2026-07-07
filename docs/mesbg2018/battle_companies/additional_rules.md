@@ -30,9 +30,9 @@ However, you can always play an alternative if you wish in that the other compan
 
 #### LEADER'S COURAGE
 
-A Battle Company can often end up having multiple Heroes, which means that when the company Breaks during a game they will all have to take their Courage tests individually, as **Hero** models cannot normally benefit from the Stand Fast! of other **Hero** models.
+A Battle Company can often end up having multiple Heroes, which means that when the company Breaks during a game they will all have to take their Courage tests individually, as **Hero** models cannot normally benefit from the [Stand Fast!] of other **Hero** models.
 
-One additional rule you can use is allowing the Sergeants of your Battle Company to benefit from the Stand Fast! of your leader, meaning that your leader can keep your force fighting as one. This also helps to speed up the game, as not every model has to take a Courage test each time you are Broken.
+One additional rule you can use is allowing the Sergeants of your Battle Company to benefit from the [Stand Fast!] of your leader, meaning that your leader can keep your force fighting as one. This also helps to speed up the game, as not every model has to take a Courage test each time you are Broken.
 
 #### WARGEAR LIMITATIONS
 

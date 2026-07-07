@@ -80,7 +80,7 @@ A [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon], and the
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
-The range of Elendil's Stand Fast is 12" rather than 6".
+The range of Elendil's [Stand Fast] is 12" rather than 6".
 
 </div>
 
@@ -214,7 +214,7 @@ Gandalf may re-roll any failed Fate rolls.
 
 - **Kingdoms of Men** `PASSIVE`
 
-A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
+A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 
 </div>
 
@@ -325,7 +325,7 @@ A King off Dale's Stand Fast is 12", and also affects Dale Hero models.
 
 - **The Lineage of Numenor** `ACTIVE`
 
-The range of Prince Imrahil's Stand Fast is 12" rather than 6".
+The range of Prince Imrahil's [Stand Fast] is 12" rather than 6".
 
 - **Dol Amroth for Gondor!** `PASSIVE`
 
@@ -642,7 +642,7 @@ Any model that suffers a Wound from the King of the Dead, that is not prevented 
 
 - **The Dead and the Living** `PASSIVE`
 
-Only friendly Dunharrow models may benefit from the King of the Dead's Stand Fast or Heroic Actions.
+Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fast] or Heroic Actions.
 
 </div>
 

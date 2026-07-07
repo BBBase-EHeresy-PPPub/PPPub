@@ -108,7 +108,7 @@ Gandalf may re-roll any failed Fate rolls.
 
 **WARGEAR**
 
-- Claws and Beak ([hand Weapon][Hand Weapon])
+- Claws and Beak ([hand weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -125,7 +125,7 @@ Gandalf may re-roll any failed Fate rolls.
 
 - **The Windlord** `ACTIVE`
 
-Only Eagle and Wizard models may benefit from Gwaihir's Stand Fast or benefit from his Heroic Actions.
+Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast] or benefit from his Heroic Actions.
 
 </div>
 
@@ -221,7 +221,7 @@ Radagast always has Line of Sight to any point on the battlefield. Friendly Eagl
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's [Stand Fast!] Range is 12", and affects Hero models.
+Saruman's [Stand Fast] Range is 12", and affects Hero models.
 
 - **Consuming Rivalry** `PASSIVE`
 
@@ -247,7 +247,7 @@ At the start of each Move Phase, before the Declare Heroic Actions step, Saruman
 
 **WARGEAR**
 
-- Roots and Branches ([hand Weapon][Hand Weapon])
+- Roots and Branches ([hand weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -674,7 +674,7 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **WARGEAR**
 
-- Roots and Branches ([hand Weapon][Hand Weapon])
+- Roots and Branches ([hand weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -714,7 +714,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and Branches ([hand Weapon][Hand Weapon])
+- Roots and Branches ([hand weapon][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -1045,7 +1045,7 @@ When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to us
 
 - **To me, Shire-folk!** `ACTIVE`
 
-Paladin's Stand Fast has a range of 12"; however, only friendly Hobbit models may benefit from Paladin's Stand Fast.
+Paladin's [Stand Fast] has a range of 12"; however, only friendly Hobbit models may benefit from Paladin's Stand Fast.
 
 - **For Tuckborough!** `PASSIVE`
 
@@ -1321,7 +1321,7 @@ Whilst wearing [the One Ring][The One Ring] and [Invisible], enemy models Engage
 
 **WARGEAR**
 
-- Iron-shod Hooves ([hand Weapon][Hand Weapon])
+- Iron-shod Hooves ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1434,7 +1434,7 @@ If Lobelia wins a Combat, she may not make Strikes.
 
 - **Furious Tirade** `ACTIVE`
 
-Enemy Warrior models from may not benefit from a Hero model's Stand Fast whilst within 6" of Lobelia.
+Enemy Warrior models from may not benefit from a Hero model's [Stand Fast] whilst within 6" of Lobelia.
 
 - **A Stern Scolding** `ACTIVE`
 
@@ -1707,7 +1707,7 @@ This model treats friendly Bear models as a [banner][Banner].
 
 **WARGEAR**
 
-- Roots and Branches ([hand Weapon][Hand Weapon])
+- Roots and Branches ([hand weapon][Hand Weapon])
 
 **OPTIONS**
 
@@ -1745,7 +1745,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Claws and Beak ([hand Weapon][Hand Weapon])
+- Claws and Beak ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1771,7 +1771,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Claws and Beak ([hand Weapon][Hand Weapon])
+- Claws and Beak ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 

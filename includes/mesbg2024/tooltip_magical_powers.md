@@ -17,7 +17,7 @@
 [Fog of Disarray]: ../rules_manual/magic.md#fog-of-disarray
 [Foil Magic]: ../rules_manual/magic.md#foil-magic
 [Fortify Spirit]: ../rules_manual/magic.md#fortify-spirit
-[Fury (X)]: ../rules_manual/magic.md#fury-x
+[Fury]: ../rules_manual/magic.md#fury-x
 [Instil Fear]: ../rules_manual/magic.md#instil-fear
 [Nature's Wrath]: ../rules_manual/magic.md#natures-wrath
 [Panic Steed]: ../rules_manual/magic.md#panic-steed

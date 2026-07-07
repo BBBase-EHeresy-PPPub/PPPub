@@ -56,4 +56,4 @@
 
 **Clear the Nests** - Friendly models gain the [Hatred] (Spider) special rule.
 
-**"If you think I'm giving you a weapon Dwarf, you are sorely mistaken"** - Friendly Dwarf models cannot benefit from the Heroic Actions or Stand Fast of friendly Elf models and friendly Elf models cannot benefit from the Heroic Actions or Stand Fast of friendly Dwarf models. Additionally, Tauriel's Vengeful Fury special rule does not apply in this Army List.
+**"If you think I'm giving you a weapon Dwarf, you are sorely mistaken"** - Friendly Dwarf models cannot benefit from the Heroic Actions or [Stand Fast] of friendly Elf models and friendly Elf models cannot benefit from the Heroic Actions or [Stand Fast] of friendly Dwarf models. Additionally, Tauriel's Vengeful Fury special rule does not apply in this Army List.

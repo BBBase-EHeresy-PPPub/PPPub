@@ -147,7 +147,7 @@ Historical Allies are those that risked everything to fight alongside each other
 
 As mentioned earlier, there are some armies in Middle-earth that simply just did not co-exist (Isildur had been dead for over 3,000 years by the time of the *War of The Ring*!). Whilst it is possible for you to make these alliances in your Points Match games, there are a few disadvantages for crossing time lines. []
 
-Impossible Allies lose their Army Bonus. Additionally, all models may only benefit from Heroic Actions or the Stand Fast! special rule if they were called by a **Hero** from the same army list.
+Impossible Allies lose their Army Bonus. Additionally, all models may only benefit from Heroic Actions or the [Stand Fast!] special rule if they were called by a **Hero** from the same army list.
 
 ### MORE THAN TWO ALLIES
 

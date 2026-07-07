@@ -237,7 +237,7 @@ Every model with this Magical Power will have a bracket after Fury denoting the 
 
 `DURATION: TEMPORARY`
 
-This power targets one enemy model within range. While this power is in effect, the target model may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a Stand Fast! or use Active abilities and may not Strike if they win a Duel.
+This power targets one enemy model within range. While this power is in effect, the target model may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a [Stand Fast!] or use Active abilities and may not Strike if they win a Duel.
 
 **Channelled** - Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up).
 

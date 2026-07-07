@@ -132,8 +132,8 @@ All Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enem
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 

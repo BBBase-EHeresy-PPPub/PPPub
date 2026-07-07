@@ -34,7 +34,7 @@
 
 - **General of the North** `ACTIVE`
 
-Azog's Stand Fast has a range of 12", and also affects friendly Orc Hero models.
+Azog's [Stand Fast] has a range of 12", and also affects friendly Orc Hero models.
 
 - **I am the Master** `ACTIVE`
 
@@ -56,7 +56,7 @@ When making Strikes against an enemy Hero, he may use this rule. A To Wound roll
 
 **WARGEAR**
 
-- Spectral Hands (hand Weapons)
+- Spectral Hands  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -770,7 +770,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
 **WARGEAR**
 
-- Claws and Teeth ([hand Weapon][Hand Weapon])
+- Claws and Teeth ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1017,7 +1017,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **WARGEAR**
 
-- Fangs (hand Weapons)
+- Fangs  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1045,7 +1045,7 @@ A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon
 
 **WARGEAR**
 
-- Fangs (hand Weapons)
+- Fangs  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1074,7 +1074,7 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a fo
 
 **WARGEAR**
 
-- Razor-sharp Teeth and Talons (hand Weapons)
+- Razor-sharp Teeth and Talons  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

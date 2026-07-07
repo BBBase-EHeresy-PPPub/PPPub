@@ -106,8 +106,8 @@ Single strike against one model. If they survive, they are [Set Ablaze].
 
 **OPTIONS**
 
-- Armoured Fell Beast - 75 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 75 points
+- [Fell Beast] - 50 points
 - Crown of Morgul - 25 points
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
@@ -295,8 +295,8 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 
 **OPTIONS**
 
-- Armoured Fell Beast - 75 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 75 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 - Might - 5 points
 - Will - 5 points

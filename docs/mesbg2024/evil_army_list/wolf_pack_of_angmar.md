@@ -19,7 +19,7 @@
 
 ## ADDITIONAL RULES
 
-- Werewolves may benefit from the Heroic Actions and Stand Fast of friendly Wild [Warg] Chieftains even though they do not have the [Warg] keyword.
+- Werewolves may benefit from the Heroic Actions and [Stand Fast] of friendly Wild [Warg] Chieftains even though they do not have the [Warg] keyword.
 - Friendly models can still [pick][Pick] up Objective Markers even though they have the Beast keyword.
 
 ## SPECIAL RULES

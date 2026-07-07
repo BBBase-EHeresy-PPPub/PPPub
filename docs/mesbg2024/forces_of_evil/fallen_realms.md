@@ -72,7 +72,7 @@ Whilst mounted on the Royal War Mumak, the first time each turn an enemy model d
 
 - **High King of the South** `PASSIVE`
 
-The Mumak War [Leader]'s Stand Fast is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
+The Mumak War Leader's [Stand Fast] is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
 
 </div>
 
@@ -117,7 +117,7 @@ The Mumak War [Leader]'s Stand Fast is 12", and his warband may deploy within 12
 
 - **Ascendant** `ACTIVE`
 
-Suladan's [Stand Fast!] is 12" rather than 6".
+Suladan's [Stand Fast] is 12" rather than 6".
 
 </div>
 
@@ -155,7 +155,7 @@ Elven [spear][Spear], may use [Shielding] rule despite not having a [shield][Shi
 
 - **Emperor of the Easterlings** `ACTIVE`
 
-The Dragon Emperor's [Stand Fast!] has unlimited range, and affects Easterling Hero models.
+The Dragon Emperor's [Stand Fast] has unlimited range, and affects Easterling Hero models.
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
@@ -315,7 +315,7 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Bladewrath] | 12" | 3+ |
-| [Fury (X)] (Easterling) | Self | 3+ |
+| [Fury] (Easterling) | Self | 3+ |
 | Enchanted Blades | 12" | 4+ |
 | [Tremor] | Self | 5+ |
 
@@ -490,7 +490,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Bladewrath] | 6" | 3+ |
-| [Fury (X)] (Easterling) | Self | 3+ |
+| [Fury] (Easterling) | Self | 3+ |
 | [Enchant Blades] | 6" | 4+ |
 
 **OPTIONS**
@@ -651,7 +651,7 @@ At the start of the game, after both sides have deployed, secretly select one He
 
 **WARGEAR**
 
-- Tusks and Huge Stomping Feet (hand Weapons)
+- Tusks and Huge Stomping Feet  ([hand weapons][Hand Weapon])
 
 **OPTIONS**
 
@@ -1064,7 +1064,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **WARGEAR**
 
-- [Armour], Claws and Teeth (hand Weapons)
+- [Armour], Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

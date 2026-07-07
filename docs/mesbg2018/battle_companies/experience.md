@@ -76,7 +76,7 @@ Any Hero may embark on the Path of the General.
 | 2 | **Battle Veteran** - At the end of each game the Hero participates in, their Battle Company receives an additional 1 Influence Point. |
 | 3 | **Inspiring Presence** - Friendly models within 6" of the Hero count as being in range of a banner. |
 | 4 | **Lead by Example** - Friendly models within 6" of the Hero gain a bonus of +1 to their Courage value. |
-| 5 | **'Rally to me!'** - The Hero increases the range of their Stand Fast! by 3" to a maximum of 12". |
+| 5 | **'Rally to me!'** - The Hero increases the range of their [Stand Fast!] by 3" to a maximum of 12". |
 | 6 | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 6. |
 | 7 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 6. |
 | 8 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |

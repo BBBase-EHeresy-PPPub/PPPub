@@ -116,8 +116,8 @@ Suladan's [Stand Fast!] is 12" rather than 6".
 
 **OPTIONS**
 
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - [Horse] - 10 points
 
 **SPECIAL RULES**

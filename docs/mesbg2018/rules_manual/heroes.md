@@ -102,7 +102,7 @@ the following three Heroic Actions:
 
 *Amidst the chaos and confusion of battle, the hero's bold voice rings out, spurring their troops to quickly surge into motion.*
 
-A Heroic Move enables a **Hero** model to move before other models - essentially defying the usual Priority system. The **Hero** can then move, jump, climb, Charge and even use their Stand Fast! ([see page 55]) in the usual manner.
+A Heroic Move enables a **Hero** model to move before other models - essentially defying the usual Priority system. The **Hero** can then move, jump, climb, Charge and even use their [Stand Fast!] ([see page 55]) in the usual manner.
 
 This Heroic Action can prove extremely valuable, so when a Heroic Move is declared by the player without Priority, the opposing player will often choose to also declare a Heroic Move in an attempt to keep the initiative.
 

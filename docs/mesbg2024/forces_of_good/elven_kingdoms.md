@@ -87,7 +87,7 @@ Elven [spear][Spear], and a model wielding Aiglos gains a bonus of +1 To Wound w
 
 - **High King of the Elves** `ACTIVE`
 
-Gil-galad's Stand Fast is 12", and friendly Elf Hero models may also benefit from it.
+Gil-galad's [Stand Fast] is 12", and friendly Elf Hero models may also benefit from it.
 
 - **Lord of the West** `ACTIVE`
 

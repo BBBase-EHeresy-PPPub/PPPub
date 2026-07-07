@@ -10,7 +10,7 @@
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -218,7 +218,7 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Enrage Beast] | 6" | 3+ |
-| [Fury (X)] (Beast) | Self | 3+ |
+| [Fury] (Beast) | Self | 3+ |
 | [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
@@ -260,7 +260,7 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 
 - **Iron Fist** `ACTIVE`
 
-Durburz's Stand Fast range is 12" rather than 6".
+Durburz's [Stand Fast] range is 12" rather than 6".
 
 - **Callous Leadership** `ACTIVE`
 
@@ -428,7 +428,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Fury (X)] (Moria Goblin) | Self | 3+ |
+| [Fury] (Moria Goblin) | Self | 3+ |
 | Instill Fear | Self | 4+ |
 | [Transfix] | 12" | 5+ |
 
@@ -521,7 +521,7 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -594,7 +594,7 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 
 **WARGEAR**
 
-- Tentacles ([hand Weapon][Hand Weapon])
+- Tentacles ([hand weapon][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -640,7 +640,7 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 
 **WARGEAR**
 
-- Claws and Teeth (hand Weapons)
+- Claws and Teeth  ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
