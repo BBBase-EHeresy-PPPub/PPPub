@@ -1,5 +1,11 @@
 ## CROSSING OF THE RIVER CARNEN
 
+**PARTICIPANTS**
+
+**Good:** Brand, King of Dale; Captain of Dale with shield; 20 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow.
+
+**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; 20 Easterling Warriors: 8 with shield, 4 with pike and shield, 8 with bow; 5 Easterling Kataphrakts.
+
 **LAYOUT**
 
 The board represents the River Carnen and the surrounding area. There should be a 6" wide river running through the centre of the board from north to south. In the centre of the board, there should be a ford that is at least 6" wide that crosses the river, allowing for an easy place for the forces to cross. The rest of the board should be relatively barren and dotted with the odd tree, bush, and hedge.
@@ -24,17 +30,17 @@ The River counts as Deep Water.
 
 Easterling models may re-roll failed To Wound rolls in the Fight phase.
 
-**PARTICIPANTS**
-
-**Good:** Brand, King of Dale; Captain of Dale with shield; 20 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow.
-
-**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; 20 Easterling Warriors: 8 with shield, 4 with pike and shield, 8 with bow; 5 Easterling Kataphrakts.
-
 ![](../media/scenarios/defence_of_the_north/crossing_of_the_river_carnen.jpg)
 
 ---
 
 ## THE HOSTS CLASH
+
+**PARTICIPANTS**
+
+**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; Captain of Dale with shield; Iron Hills Captain; 22 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner, 1 with war horn; 12 Knights of Dale; 25 Iron Hills Dwarves: 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
+
+**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; Easterling Dragon Knight; 31 Easterling Warriors: 12 with shield, 6 with shield and pike, 12 with bow, 1 with banner; 5 Easterling Kataphrakts; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 4 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -62,17 +68,17 @@ If either Dáin or Brand would be Trapped in the Fight phase, then the other may
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
-**PARTICIPANTS**
-
-**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; Captain of Dale with shield; Iron Hills Captain; 22 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner, 1 with war horn; 12 Knights of Dale; 25 Iron Hills Dwarves: 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
-
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with armoured horse, sword and shield; Easterling War Priest; Easterling Dragon Knight; 31 Easterling Warriors: 12 with shield, 6 with shield and pike, 12 with bow, 1 with banner; 5 Easterling Kataphrakts; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 4 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/the_hosts_clash.jpg)
 
 ---
 
 ## PLAINS OF EREBOR
+
+**PARTICIPANTS**
+
+**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; 12 Warriors of Dale: 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner, 1 with war horn; 6 Knights of Dale; 13 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow, 1 with banner.
+
+**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -100,17 +106,17 @@ If either Dáin or Brand would be Trapped at the start of the Fight phase, then 
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
-**PARTICIPANTS**
-
-**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; 12 Warriors of Dale: 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner, 1 with war horn; 6 Knights of Dale; 13 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow, 1 with banner.
-
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/plains_of_erebor.jpg)
 
 ---
 
 ## DEATH OF BRAND
+
+**PARTICIPANTS**
+
+**Good:** Brand, King of Dale; Dáin Ironfoot, King Under the Mountain; 6 Knights of Dale; 12 Iron Hills Dwarves with spear.
+
+**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -136,17 +142,17 @@ In this Scenario, Brand increases his Fight value to 6.
 
 Dáin may declare a Heroic Combat each turn without spending Might.
 
-**PARTICIPANTS**
-
-**Good:** Brand, King of Dale; Dáin Ironfoot, King Under the Mountain; 6 Knights of Dale; 12 Iron Hills Dwarves with spear.
-
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/death_of_brand.jpg)
 
 ---
 
 ## DÁIN'S LAST STAND
+
+**PARTICIPANTS**
+
+**Good:** Dáin Ironfoot, King Under the Mountain; 12 Iron Hills Dwarves with spear.
+
+**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -170,17 +176,17 @@ Dáin Ironfoot must re-roll all failed To Wound rolls.
 
 Easterling models within 3" of the center of the board count as being in range of a banner.
 
-**PARTICIPANTS**
-
-**Good:** Dáin Ironfoot, King Under the Mountain; 12 Iron Hills Dwarves with spear.
-
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/dains_last_stand.jpg)
 
 ---
 
 ## RETREAT TO EREBOR
+
+**PARTICIPANTS**
+
+**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 11 Warriors of Dale: 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner; 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow.
+
+**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -208,17 +214,17 @@ Additionally, whenever Bard or Thorin declare a Heroic March, they do not need t
 
 If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
-**PARTICIPANTS**
-
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 11 Warriors of Dale: 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner; 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow.
-
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/retreat_to_erebor.jpg)
 
 ---
 
 ## SIEGE OF EREBOR
+
+**PARTICIPANTS**
+
+**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 10 Warriors of Dale: 3 with shield, 4 with spear & shield, 3 with Esgaroth bow; 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow.
+
+**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes.
 
 **LAYOUT**
 
@@ -244,17 +250,17 @@ Each time an Easterling Warrior is slain, keep it to one side. At the end of eac
 
 The southern edge of the walls of Erebor is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
-**PARTICIPANTS**
-
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 10 Warriors of Dale: 3 with shield, 4 with spear & shield, 3 with Esgaroth bow; 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with spear, 3 with mattock, 3 with crossbow.
-
-**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 Dragon Cult Acolytes.
-
 ![](../media/scenarios/defence_of_the_north/siege_of_erebor.jpg)
 
 ---
 
 ## THE TIDE TURNS
+
+**PARTICIPANTS**
+
+**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; Captain of Dale with shield; Iron Hills Dwarf Captain; 21 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner; 6 Knights of Dale; 25 Iron Hills Dwarves: 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
+
+**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -280,17 +286,17 @@ If either Thorin III Stonehelm or Bard II would be Trapped in the Fight phase, t
 
 The Evil force counts as Broken for this Scenario, and must test to see if they flee, even though forces do not normally break in Narrative Play games.
 
-**PARTICIPANTS**
-
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; Captain of Dale with shield; Iron Hills Dwarf Captain; 21 Warriors of Dale: 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner; 6 Knights of Dale; 25 Iron Hills Dwarves: 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
-
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with shield; Easterling Dragon Knight; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
-
 ![](../media/scenarios/defence_of_the_north/the_tide_turns.jpg)
 
 ---
 
 ## GOLLUM'S ESCAPE
+
+**PARTICIPANTS**
+
+**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+
+**Evil:** Gollum; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Fell Wargs.
 
 **LAYOUT**
 
@@ -316,17 +322,17 @@ Gollum does not have the Ring in this Scenario. Additionally, Gollum may not cha
 
 If Gollum is slain, the best result the Good player can achieve is a draw.
 
-**PARTICIPANTS**
-
-**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
-
-**Evil:** Gollum; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Fell Wargs.
-
 ![](../media/scenarios/defence_of_the_north/gollums_escape.jpg)
 
 ---
 
 ## AN UNEASY ALLIANCE
+
+**PARTICIPANTS**
+
+**'Good':** The Spider Queen; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms.
+
+**Evil:** Razgûsh, War Leader of the North; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 3 Orc Trackers.
 
 **LAYOUT**
 
@@ -356,17 +362,17 @@ If the Spider Queen is slain, the game immediately ends and is a draw.
 
 Evil models treat Spider Nests as difficult terrain. Additionally, whenever a Spider model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each Spider model kept aside in this manner. On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter, roll a further D6. On a 1-3, the Evil player chooses which Spider Nest the model enters from; on a 4+, the 'Good' player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
-**PARTICIPANTS**
-
-**'Good':** The Spider Queen; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms.
-
-**Evil:** Razgûsh, War Leader of the North; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 3 Orc Trackers.
-
 ![](../media/scenarios/defence_of_the_north/an_uneasy_alliance.jpg)
 
 ---
 
 ## ATTACK ON THE BEORNINGS
+
+**PARTICIPANTS**
+
+**Good:** Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
+
+**Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 **LAYOUT**
 
@@ -392,17 +398,17 @@ From turn 2 onwards, roll a D6 at the start of each turn before Priority is dete
 
 Grimbeorn must re-roll all failed To Wound rolls.
 
-**PARTICIPANTS**
-
-**Good:** Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
-
-**Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
-
 ![](../media/scenarios/defence_of_the_north/attack_on_the_beornings.jpg)
 
 ---
 
 ## BURNING OF MIRKWOOD
+
+**PARTICIPANTS**
+
+**Good:** Tauriel; Mirkwood Captain; Mirkwood Ranger Captain; 12 Mirkwood Elves: 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 Mirkwood Rangers.
+
+**Evil:** Razgûsh, War Leader of the North; The Spider Queen; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 2 Mirkwood Spiders; 2 Giant Spiders; 1 Bat Swarm.
 
 **LAYOUT**
 
@@ -439,17 +445,17 @@ Whenever a tree is destroyed, it will fall to the ground; roll a D6 to determine
 
 When a tree falls, draw a 1mm wide line from the center of the tree that extends 6" in the required direction. Any model whose base is under that line suffers a Strength 8 hit and is knocked Prone. The tree is then removed from play.
 
-**PARTICIPANTS**
-
-**Good:** Tauriel; Mirkwood Captain; Mirkwood Ranger Captain; 12 Mirkwood Elves: 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 Mirkwood Rangers.
-
-**Evil:** Razgûsh, War Leader of the North; The Spider Queen; Orc Captain with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 2 Mirkwood Spiders; 2 Giant Spiders; 1 Bat Swarm.
-
 ![](../media/scenarios/defence_of_the_north/burning_of_mirkwood.jpg)
 
 ---
 
 ## BATTLE UNDER THE TREES
+
+**PARTICIPANTS**
+
+**Good:** Thranduil, King of the Woodland Realm, with heavy armour and additional Elven-made hand-and-a-half sword; Tauriel; Palace Guard Captain with shield; Mirkwood Captain; Mirkwood Ranger Captain; 10 Palace Guard: 4 with shield, 4 with spear, 2 with spear & shield; 12 Mirkwood Elves: 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 Mirkwood Rangers.
+
+**Evil:** Razgûsh, War Leader of the North; The Spider Queen; 2 Orc Captains with shield; Orc Shaman; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms; 6 Fell Wargs.
 
 **LAYOUT**
 
@@ -485,17 +491,17 @@ Razgûsh gains a bonus of +1 to his Fight value when engaged with an enemy Elf m
 
 Elf models must re-roll 1s To Wound during the Fight phase.
 
-**PARTICIPANTS**
-
-**Good:** Thranduil, King of the Woodland Realm, with heavy armour and additional Elven-made hand-and-a-half sword; Tauriel; Palace Guard Captain with shield; Mirkwood Captain; Mirkwood Ranger Captain; 10 Palace Guard: 4 with shield, 4 with spear, 2 with spear & shield; 12 Mirkwood Elves: 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 Mirkwood Rangers.
-
-**Evil:** Razgûsh, War Leader of the North; The Spider Queen; 2 Orc Captains with shield; Orc Shaman; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms; 6 Fell Wargs.
-
 ![](../media/scenarios/defence_of_the_north/battle_under_the_trees.jpg)
 
 ---
 
 ## CROSSING OF THE ANDUIN
+
+**PARTICIPANTS**
+
+**Good:** Wood Elf Captain with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 1 Wood Elf Sentinel.
+
+**Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 **LAYOUT**
 
@@ -521,17 +527,17 @@ Good models may not willingly move further than 12" away from the western board 
 
 The river is Deep Water, with the exception of the ford, which is treated as open ground. Additionally, any model that makes a Swim test for trying to cross the Anduin suffers an additional -1 penalty to their roll.
 
-**PARTICIPANTS**
-
-**Good:** Wood Elf Captain with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 1 Wood Elf Sentinel.
-
-**Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
-
 ![](../media/scenarios/defence_of_the_north/crossing_of_the_anduin.jpg)
 
 ---
 
 ## ATTACK ON LÓRIEN
+
+**PARTICIPANTS**
+
+**Good:** Orophin; Wood Elf Captain with Elf bow; 12 Galadhrim Warriors: 4 with shield, 4 with spear and shield, 4 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow.
+
+**Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
 
 **LAYOUT**
 
@@ -563,17 +569,17 @@ This Magical Power may only target the Mallorn tree, has a range of 6" and is ca
 
 Additionally, both Muzgúr and the Orc Shaman gain a free Will point per turn, which can only be used to cast the Decay Magical Power.
 
-**PARTICIPANTS**
-
-**Good:** Orophin; Wood Elf Captain with Elf bow; 12 Galadhrim Warriors: 4 with shield, 4 with spear and shield, 4 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow.
-
-**Evil:** Muzgúr, Orc Shaman; Orc Captain with shield; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers.
-
 ![](../media/scenarios/defence_of_the_north/attack_on_lorien.jpg)
 
 ---
 
 ## TRAPPED ON BOTH SIDES
+
+**PARTICIPANTS**
+
+**Good:** Rúmil; Orophin; Wood Elf Captain with Elf bow; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 1 Wood Elf Sentinel.
+
+**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 2 Warg Marauders.
 
 **LAYOUT**
 
@@ -603,17 +609,17 @@ Evil models may re-roll any number of D6s when making a Casting roll.
 
 All Good models automatically pass any Courage tests they are required to make.
 
-**PARTICIPANTS**
-
-**Good:** Rúmil; Orophin; Wood Elf Captain with Elf bow; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 1 Wood Elf Sentinel.
-
-**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 2 Warg Marauders.
-
 ![](../media/scenarios/defence_of_the_north/trapped_on_both_sides.jpg)
 
 ---
 
 ## FINAL ASSAULT ON LOTHLÓRIEN
+
+**PARTICIPANTS**
+
+**Good:** Galadriel with mirror of Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 3 Wood Elf Sentinels.
+
+**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 3 Warg Marauders.
 
 **LAYOUT**
 
@@ -647,17 +653,17 @@ Evil models may re-roll any number of D6s when making a Casting roll.
 
 All Good models automatically pass any Courage tests they are required to make.
 
-**PARTICIPANTS**
-
-**Good:** Galadriel with mirror of Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 Guard of the Galadhrim Court; 3 Wood Elf Sentinels.
-
-**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Warg Riders: 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 Orc Trackers; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 3 Warg Marauders.
-
 ![](../media/scenarios/defence_of_the_north/final_assault_on_lothlorien.jpg)
 
 ---
 
 ## FALL OF DOL GULDUR
+
+**PARTICIPANTS**
+
+**Good:** Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 4 Guard of the Galadhrim Court.
+
+**Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
 
 **LAYOUT**
 
@@ -688,17 +694,17 @@ This Magical Power may only target the ruins of Dol Guldur, has a range of 3" an
 
 Each Good Hero model starts the game with one fewer Might point than usual.
 
-**PARTICIPANTS**
-
-**Good:** Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; Rúmil; Orophin; 24 Galadhrim Warriors: 8 with shield, 8 with spear and shield, 8 with Elf bow; 4 Guard of the Galadhrim Court.
-
-**Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
-
 ![](../media/scenarios/defence_of_the_north/fall_of_dol_guldur.jpg)
 
 ---
 
 ## APPENDIX - DESTRUCTION OF DALE
+
+**PARTICIPANTS**
+
+**Good:**  Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
+
+**Evil:**  Smaug.
 
 **LAYOUT**
 
@@ -726,17 +732,17 @@ Smaug is not subject to his Missing Scale rule in this Scenario.
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
-**PARTICIPANTS**
-
-**Good:**  Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
-
-**Evil:**  Smaug.
-
 ![](../media/scenarios/defence_of_the_north/destruction_of_dale.jpg)
 
 ---
 
 ## APPENDIX - BATTLE FOR DALE
+
+**PARTICIPANTS**
+
+**Good:** Bard the Bowman with armor; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar; Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
+
+**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
 
 **LAYOUT**
 
@@ -764,17 +770,27 @@ Alfrid may not use his Dubious Counsel special rule.
 
 Whenever Gandalf declares that he is casting a Magical Power, declare how many Will points are being used, then roll a single D6 before rolling to cast. On a 1 or 2, the Magical Power is not cast, and any Will points declared are lost.
 
-**PARTICIPANTS**
-
-**Good:** Bard the Bowman with armor; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar; Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
-
-**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
-
 ![](../media/scenarios/defence_of_the_north/battle_for_dale.jpg)
 
 ---
 
 ## APPENDIX - THE BATTLE OF FIVE ARMIES
+
+**PARTICIPANTS**
+
+**GOOD**
+
+**Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
+
+**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
+
+**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.
+
+**Radagast's Alliance:** Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
+
+**EVIL**
+
+**Azog's Legion:** Azog with heavy armor, stone flail, and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
 **LAYOUT**
 
@@ -808,27 +824,17 @@ At the end of the Good player's seventh Move phase, the Good player moves Radaga
 
 Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts. Beorn may not transform into a bear while mounted upon the eagle, but will automatically transform as soon as he dismounts.
 
-**PARTICIPANTS**
-
-**GOOD**
-
-**Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
-
-**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
-
-**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.
-
-**Radagast's Alliance:** Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
-
-**EVIL**
-
-**Azog's Legion:** Azog with heavy armor, stone flail, and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
-
 ![](../media/scenarios/defence_of_the_north/the_battle_of_five_armies.jpg)
 
 ---
 
 ## APPENDIX - THE HIGH PASS
+
+**PARTICIPANTS**
+
+**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
+
+**Evil:** 3 Orc Captains with shield; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
 
 **LAYOUT**
 
@@ -849,11 +855,5 @@ The game lasts until one force completes their objective. The Evil player wins i
 * **Thick Fog**
 
 Models cannot see, and therefore cannot shoot, enemy models that are further than 12" away. Additionally, if a model wishes to shoot or charge a model that is over 6" away, they must first roll a D6. On a 4+, they may act as normal; however, on the roll of a 1-3, they cannot see the model and so cannot shoot or charge the selected model but may otherwise act as normal, even rolling to see if they can see a different model if they wish.
-
-**PARTICIPANTS**
-
-**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
-
-**Evil:** 3 Orc Captains with shield; 36 Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
 
 ![](../media/scenarios/defence_of_the_north/the_high_pass.jpg)

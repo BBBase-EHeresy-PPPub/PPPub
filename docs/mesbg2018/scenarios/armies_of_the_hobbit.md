@@ -1,5 +1,11 @@
 ## DESTRUCTION OF DALE
 
+**PARTICIPANTS**
+
+**Good:** Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale.
+
+**Evil:** Smaug.
+
 **LAYOUT**
 
 This battle takes place within Dale, City of Men. To represent this, you will want a board covered in buildings, roads, pathways and, of course, plenty of towers to fire at the Dragon from. The centre of the playing area should have the highest tower on the board (this needs to be accessible), and the Windlance should be placed on top of this - Dale's only hope at stopping the dreaded Smaug!
@@ -26,17 +32,17 @@ Smaug is not subject to his Missing Scale rule in this Scenario.
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
-**PARTICIPANTS**
-
-**Good:** Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale.
-
-**Evil:** Smaug.
-
 ![](../media/scenarios/armies_of_the_hobbit/destruction_of_dale.jpg)
 
 ---
 
 ## BATTLE OF AZANULBIZAR
+
+**PARTICIPANTS**
+
+**Good:** Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim Hammers.
+
+**Evil:** Azog; The Keeper of the Dungeons; 3 Gundabad Orc Captains; 48 Gundabad Orcs.
 
 **LAYOUT**
 
@@ -64,17 +70,17 @@ If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a 
 
 Whenever an Evil **Warrior** model is slain, place it to one side. At the end of each subsequent Evil Move phase, roll a D6 for each model set aside in this manner. On a 3+, it may enter play, via the rules for Reinforcements, from the Dimrill Gate or either of the two points marked Reinforcements. These Reinforcements stop immediately if Azog is slain. The Evil force cannot be Broken in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim Hammers.
-
-**Evil:** Azog; The Keeper of the Dungeons; 3 Gundabad Orc Captains; 48 Gundabad Orcs.
-
 ![](../media/scenarios/armies_of_the_hobbit/battle_of_azanulbizar.jpg)
 
 ---
 
 ## ROAST MUTTON
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
+
+**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
 
 **LAYOUT**
 
@@ -102,17 +108,17 @@ At the end of the Good player's first Move phase, roll a D6 for each member of T
 
 The Trolls may not make Strikes against Bilbo until the start of the third turn, or until Bilbo charges one of them.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
-
-**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
-
 ![](../media/scenarios/armies_of_the_hobbit/roast_mutton.jpg)
 
 ---
 
 ## HUNTING PARTY
+
+**PARTICIPANTS**
+
+**Good:** Elrond with heavy armour and horse; 12 Rivendell Knights with shield.
+
+**Evil:** Yazneg on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
 
 **LAYOUT**
 
@@ -134,17 +140,17 @@ The game lasts for ten turns. The Good player wins if they can slay 50% of the E
 
 The Good player has Priority in the first two turns of this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Elrond with heavy armour and horse; 12 Rivendell Knights with shield.
-
-**Evil:** Yazneg on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
-
 ![](../media/scenarios/armies_of_the_hobbit/hunting_party.jpg)
 
 ---
 
 ## ESCAPE FROM GOBLIN-TOWN
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
+
+**Evil:** The Goblin King; Grinnah; The Goblin Scribe; Goblin Captain; 36 Goblin Warriors.
 
 **LAYOUT**
 
@@ -178,17 +184,17 @@ At the end of each of the Evil player's Move phase, the Evil player may move up 
 
 The Goblin King may not move during the first turn of the game.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
-
-**Evil:** The Goblin King; Grinnah; The Goblin Scribe; Goblin Captain; 36 Goblin Warriors.
-
 ![](../media/scenarios/armies_of_the_hobbit/escape_from_goblin-town.jpg)
 
 ---
 
 ## OUT OF THE FRYING PAN, AND INTO THE FIRE
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Bilbo Baggins with Sting; Gwaihir; 4 Great Eagles.
+
+**Evil:** Azog on White Warg; Fimbul the Hunter on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
 
 **LAYOUT**
 
@@ -222,17 +228,17 @@ During each Good Move phase, Thorin must move as close as possible to Azog, char
 
 At the start of any Fight phase, the Good player may place Bilbo in base contact with any model involved in a fight with Thorin. If Bilbo enters this way, he must also be rescued (otherwise, he counts as being included with one of the markers).
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Bilbo Baggins with Sting; Gwaihir; 4 Great Eagles.
-
-**Evil:** Azog on White Warg; Fimbul the Hunter on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
-
 ![](../media/scenarios/armies_of_the_hobbit/out_of_the_frying_pan_and_into_the_fire.jpg)
 
 ---
 
 ## FLIES AND SPIDERS
+
+**PARTICIPANTS**
+
+**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
+
+**Evil:** 10 Mirkwood Spiders.
 
 **LAYOUT**
 
@@ -262,17 +268,17 @@ At the end of the Good player's fourth Move phase, they may move Legolas, Taurie
 
 Any Mirkwood Spiders that are slain are kept to one side. At the start of each turn, before Priority is rolled, the Evil player may place any previously slain Mirkwood Spiders on the board at least 10" away from any Good models. These Spiders may act as normal.
 
-**PARTICIPANTS**
-
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
-
-**Evil:** 10 Mirkwood Spiders.
-
 ![](../media/scenarios/armies_of_the_hobbit/flies_and_spiders.jpg)
 
 ---
 
 ## FIRE AND WATER
+
+**PARTICIPANTS**
+
+**Good:** Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake-town Guard: 8 with sword, 8 with spear and 8 with bow.
+
+**Evil:** Smaug.
 
 **LAYOUT**
 
@@ -308,17 +314,17 @@ Any model that has been Set Ablaze that moves into the waters of the Long Lake w
 
 Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit - this is cumulative with other such penalties, such as moving and shooting.
 
-**PARTICIPANTS**
-
-**Good:** Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake-town Guard: 8 with sword, 8 with spear and 8 with bow.
-
-**Evil:** Smaug.
-
 ![](../media/scenarios/armies_of_the_hobbit/fire_and_water.jpg)
 
 ---
 
 ## THE FALL OF THE NECROMANCER
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light and Elrond, Master of Rivendell.
+
+**Evil:** The Necromancer; All 9 Nazgûl of Dol Guldur and the Keeper of the Dungeons.
 
 **LAYOUT**
 
@@ -358,17 +364,37 @@ The Good player may choose to have Radagast arrive at the end of any Good Move p
 
 At the end of the ninth game turn, the Evil player places the Necromancer touching any board edge.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light and Elrond, Master of Rivendell.
-
-**Evil:** The Necromancer; All 9 Nazgûl of Dol Guldur and the Keeper of the Dungeons.
-
 ![](../media/scenarios/armies_of_the_hobbit/the_fall_of_the_necromancer.jpg)
 
 ---
 
 ## BATTLE OF THE FIVE ARMIES
+
+**PARTICIPANTS**
+
+**GOOD**
+
+**Erebor Reclaimed**
+
+Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
+
+**The Iron Hills**
+
+Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
+
+**Halls of Thranduil**
+
+Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with shield; 12 with Elven-made glaive; 12 with Elf bow.
+
+**Radagast's Alliance**
+
+Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
+
+**EVIL**
+
+**Azog's Legion**
+
+Azog with heavy armour, stone flail and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
 **LAYOUT**
 
@@ -406,37 +432,18 @@ At the end of the Good player's seventh Move phase, the Good player moves Radaga
 
 Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts. Beorn may not transform into a bear whilst mounted upon this eagle, but will automatically transform as soon as he dismounts.
 
-**PARTICIPANTS**
-
-**GOOD**
-
-**Erebor Reclaimed**
-
-Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
-
-**The Iron Hills**
-
-Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
-
-**Halls of Thranduil**
-
-Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with shield; 12 with Elven-made glaive; 12 with Elf bow.
-
-**Radagast's Alliance**
-
-Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
-
-**EVIL**
-
-**Azog's Legion**
-
-Azog with heavy armour, stone flail and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
-
 ![](../media/scenarios/armies_of_the_hobbit/battle_of_the_five_armies.jpg)
 
 ---
 
 ## BATTLE FOR DALE
+
+**PARTICIPANTS**
+
+**Good:** Bard the Bowman with armour; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar;
+Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
+
+**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
 
 **LAYOUT**
 
@@ -463,12 +470,5 @@ Alfrid may not use his Dubious Counsel special rule.
 * **Radagast's Staff**
 
 Whenever Gandalf declares that he is casting a Magical Power, declare how many Will points are being used, then roll a single D6 before rolling to cast. On a 1 or 2, the Magical Power is not cast and any Will points declared are lost.
-
-**PARTICIPANTS**
-
-**Good:** Bard the Bowman with armour; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar;
-Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
-
-**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
 
 ![](../media/scenarios/armies_of_the_hobbit/battle_for_dale.jpg)

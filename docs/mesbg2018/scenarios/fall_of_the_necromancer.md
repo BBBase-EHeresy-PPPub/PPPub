@@ -1,5 +1,13 @@
 ## THE FOUNDING OF DOL GULDUR
 
+**PARTICIPANTS**
+
+**Good:** Woodsmen Chieftain with shield; 12 Woodsmen: 4 with shield, 4 with throwing spear and shield, 4 with bow.
+
+***Note:** The Woodsmen Chieftain uses the same profile as a Captain of Rohan, the Woodsmen use the same profile as a Warrior of Rohan.*
+
+**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
+
 **LAYOUT**
 
 The board represents the area around Amon Lanc. It should be densely covered with trees, rocky outcrops, hedges, and other undergrowth. Place a Woodsman's hut in the center of the board.
@@ -24,19 +32,17 @@ The Necromancer begins the game with only 12 points of Will.
 
 All Evil models have the Terror special rule in this scenario.
 
-**PARTICIPANTS**
-
-**Good:** Woodsmen Chieftain with shield; 12 Woodsmen: 4 with shield, 4 with throwing spear and shield, 4 with bow.
-
-***Note:** The Woodsmen Chieftain uses the same profile as a Captain of Rohan, the Woodsmen use the same profile as a Warrior of Rohan.*
-
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
-
 ![](../media/scenarios/fall_of_the_necromancer/the_founding_of_dol_guldur.jpg)
 
 ---
 
 ## THE GATHERING EVIL
+
+**PARTICIPANTS**
+
+**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+
+**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -62,17 +68,17 @@ The Necromancer begins the game with only 12 points of Will.
 
 Good models can only see up to 6" in this Scenario. Therefore, they cannot shoot enemy models that are more than 6" away from them. Sauron and his Orcs are accustomed to the darkness and can see as normal.
 
-**PARTICIPANTS**
-
-**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
-
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
-
 ![](../media/scenarios/fall_of_the_necromancer/the_gathering_evil.jpg)
 
 ---
 
 ## CORRUPTION OF THE GREENWOOD
+
+**PARTICIPANTS**
+
+**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
+
+**Evil:** 4 Castellans of Dol Guldur; 6 Giant Spiders; 6 Mirkwood Spiders; 6 Fell Wargs; 2 Bat Swarms.
 
 **LAYOUT**
 
@@ -98,17 +104,17 @@ If, during the End phase of any turn, there is a non-Prone Evil model in base co
 
 If, during the End phase of any turn, there is a non-Prone Good model in base contact with a corrupted objective marker, and that model did not shoot or fight during that turn, then that objective is no longer considered to be corrupted.
 
-**PARTICIPANTS**
-
-**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
-
-**Evil:** 4 Castellans of Dol Guldur; 6 Giant Spiders; 6 Mirkwood Spiders; 6 Fell Wargs; 2 Bat Swarms.
-
 ![](../media/scenarios/fall_of_the_necromancer/corruption_of_the_greenwood.jpg)
 
 ---
 
 ## LURKING IN THE SHADOWS
+
+**PARTICIPANTS**
+
+**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
+
+**Evil:** The Spider Queen; 6 Giant Spiders; 6 Mirkwood Spiders; 2 Bat Swarms.
 
 **LAYOUT**
 
@@ -136,17 +142,17 @@ Additionally, whenever a **Spider** model is slain, with the exception of the Sp
 
 Shooting attacks that target the Spider Queen suffer a -1 penalty when rolling To Hit. Additionally, shooting attacks will only Wound the Spider Queen on the roll of a natural 6.
 
-**PARTICIPANTS**
-
-**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
-
-**Evil:** The Spider Queen; 6 Giant Spiders; 6 Mirkwood Spiders; 2 Bat Swarms.
-
 ![](../media/scenarios/fall_of_the_necromancer/lurking_in_the_shadows.jpg)
 
 ---
 
 ## FLIGHT TO THE EAST
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey.
+
+**Evil:** The Necromancer of Dol Guldur; 4 Castellans of Dol Guldur.
 
 **LAYOUT**
 
@@ -182,17 +188,17 @@ The Necromancer loses a point of Will at the end of each Move phase in which he 
 
 Gandalf has 2 Attacks in this scenario.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the Grey.
-
-**Evil:** The Necromancer of Dol Guldur; 4 Castellans of Dol Guldur.
-
 ![](../media/scenarios/fall_of_the_necromancer/flight_to_the_east.jpg)
 
 ---
 
 ## THE WATCHFUL PEACE
+
+**PARTICIPANTS**
+
+**Good:** Legolas Greenleaf, Prince of Mirkwood; Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+
+**Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow.
 
 **LAYOUT**
 
@@ -218,17 +224,17 @@ If Legolas is slain, then the game ends immediately and the Evil side wins.
 
 Good models may re-roll failed To Hit rolls when making shooting attacks if they did not move during the preceding Move phase.
 
-**PARTICIPANTS**
-
-**Good:** Legolas Greenleaf, Prince of Mirkwood; Mirkwood Ranger Captain; 10 Mirkwood Rangers.
-
-**Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow.
-
 ![](../media/scenarios/fall_of_the_necromancer/the_watchful_peace.jpg)
 
 ---
 
 ## CLEARING THE NESTS
+
+**PARTICIPANTS**
+
+**Good:** Legolas Greenleaf, Prince of Mirkwood; Tauriel; 10 Mirkwood Rangers.
+
+**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
 
 **LAYOUT**
 
@@ -256,17 +262,17 @@ The Spider Nest has 3 Wounds and will only ever be wounded on the roll of a natu
 
 Whenever a **Spider** model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each **Spider** model kept aside in this way. On a 5+, the Evil player may place that **Spider** model within 6" of the Spider Nest, but not within the Control Zones of enemy models. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
-**PARTICIPANTS**
-
-**Good:** Legolas Greenleaf, Prince of Mirkwood; Tauriel; 10 Mirkwood Rangers.
-
-**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
-
 ![](../media/scenarios/fall_of_the_necromancer/clearing_the_nests.jpg)
 
 ---
 
 ## ATTACK ON RHOSGOBEL
+
+**PARTICIPANTS**
+
+**Good:** Radagast the Brown.
+
+**Evil:** 4 Mirkwood Spiders.
 
 **LAYOUT**
 
@@ -292,17 +298,17 @@ The six objective markers represent the woodland creatures in need of rescue. Ra
 
 Whenever Radagast rescues a creature, he may restore one Fate point spent earlier in the battle.
 
-**PARTICIPANTS**
-
-**Good:** Radagast the Brown.
-
-**Evil:** 4 Mirkwood Spiders.
-
 ![](../media/scenarios/fall_of_the_necromancer/attack_on_rhosgobel.jpg)
 
 ---
 
 ## EXPLORATION OF DOL GULDUR
+
+**PARTICIPANTS**
+
+**Good:** Radagast the Brown with Sebastian.
+
+**Evil:** The Witch-king of Angmar, Nazgûl of Dol Guldur.
 
 **LAYOUT**
 
@@ -338,17 +344,19 @@ In this Scenario, the Witch-king does not benefit from his *Unholy Resurrection*
 
 Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *Resistant to Magic* special rule.
 
-**PARTICIPANTS**
-
-**Good:** Radagast the Brown with Sebastian.
-
-**Evil:** The Witch-king of Angmar, Nazgûl of Dol Guldur.
-
 ![](../media/scenarios/fall_of_the_necromancer/exploration_of_dol_guldur.jpg)
 
 ---
 
 ## THRÁIN THE BROKEN
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey.
+
+**Evil:** Thráin the Broken; 5 Hunter Orcs.
+
+*Designer's Note:* *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this supplement.*
 
 **LAYOUT**
 
@@ -390,19 +398,17 @@ Gandalf may not strike blows against Thráin if he wins a fight against him. Thi
 
 Gandalf may not use the *Sorcerous Blast* or *Collapse Rocks* Magical Powers in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the Grey.
-
-**Evil:** Thráin the Broken; 5 Hunter Orcs.
-
-*Designer's Note:* *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this supplement.*
-
 ![](../media/scenarios/fall_of_the_necromancer/thrain_the_broken.jpg)
 
 ---
 
 ## CAPTURE OF THE GREY WIZARD
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey; Thráin the Broken.
+
+**Evil:** The Necromancer of Dol Guldur; Azog; 6 Hunter Orcs on Fell Wargs; 12 Hunter Orcs.
 
 **LAYOUT**
 
@@ -445,12 +451,6 @@ If your roll on the chart exceeds the number of models remaining to enter the bo
 
 During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 - on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a Jump test.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the Grey; Thráin the Broken.
-
-**Evil:** The Necromancer of Dol Guldur; Azog; 6 Hunter Orcs on Fell Wargs; 12 Hunter Orcs.
-
 **Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
 ![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg)
@@ -458,6 +458,12 @@ During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. 
 ---
 
 ## MAKE HASTE TO DOL GULDUR
+
+**PARTICIPANTS**
+
+**Good:** Radagast the Brown on Sleigh.
+
+**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
 
 **LAYOUT**
 
@@ -485,17 +491,17 @@ On a 5+, that model will re-enter the board via one of the Spider Nests. To dete
 
 Whilst riding his Sleigh, whenever Radagast charges into combat, the Sleigh will inflict two Strength 3 hits upon one model it has charged. If, after this charge, Radagast is unengaged and has movement remaining, he may complete his move in any way the Good player wishes, and may even charge again if able.
 
-**PARTICIPANTS**
-
-**Good:** Radagast the Brown on Sleigh.
-
-**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
-
 ![](../media/scenarios/fall_of_the_necromancer/make_haste_to_dol_guldur.jpg)
 
 ---
 
 ## THE FALL OF THE NECROMANCER
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light; Elrond, Master of Rivendell.
+
+**Evil:** The Necromancer; all 9 Nazgûl of Dol Guldur; and the Keeper of the Dungeons.
 
 **LAYOUT**
 
@@ -536,12 +542,6 @@ The Good player may choose to have Radagast arrive at the end of any Good Move p
 * **Sauron's Return**
 
 At the end of the ninth game turn, the Evil player places the Necromancer touching any board edge.
-
-**PARTICIPANTS**
-
-**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light; Elrond, Master of Rivendell.
-
-**Evil:** The Necromancer; all 9 Nazgûl of Dol Guldur; and the Keeper of the Dungeons.
 
 ![](../media/scenarios/fall_of_the_necromancer/the_fall_of_the_necromancer.jpg
 )

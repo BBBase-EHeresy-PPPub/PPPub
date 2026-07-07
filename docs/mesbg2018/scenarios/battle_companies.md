@@ -545,6 +545,12 @@ If the Attacker successfully slays the Defender's **Hero**, then the model that 
 
 ## NARRATIVE SCENARIO 1 - SKIRMISH IN BREE
 
+**PARTICIPANTS**
+
+Your Battle Company.
+
+12 Ruffians.
+
 **LAYOUT**
 
 The board represents the village of Bree, and as such should have plenty of houses and buildings on the board. In the centre should be the Prancing Pony, with the door facing towards the southern board edge.
@@ -586,12 +592,6 @@ Ruffians may not use their bows in the Shoot phase.  Additionally, all members o
 
 If the leader of your company is removed as a casualty then the best result the company can achieve is a draw.
 
-**PARTICIPANTS**
-
-Your Battle Company.
-
-12 Ruffians.
-
 **REWARDS**
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
@@ -614,6 +614,12 @@ If you are playing an Evil Battle Company, then the Breelanders are probably mor
 ---
 
 ## NARRATIVE SCENARIO 2 - RUINS OF ANNÚMINAS
+
+**PARTICIPANTS**
+
+Your Battle Company.
+
+1 Barrow-wight, 4 Angmar Orcs with shield, 4 Angmar Orcs with spear, 2 Angmar Orcs with two-handed weapon,  2 Angmar Orcs with Orc bow, 3 Orc Trackers.
 
 **LAYOUT**
 
@@ -645,12 +651,6 @@ All Orc models from the Angmar force gain the Terror special rule whilst within 
 
 Any model that slays the Barrow-wight gains an additional 1 Experience Point.
 
-**PARTICIPANTS**
-
-Your Battle Company.
-
-1 Barrow-wight, 4 Angmar Orcs with shield, 4 Angmar Orcs with spear, 2 Angmar Orcs with two-handed weapon,  2 Angmar Orcs with Orc bow, 3 Orc Trackers.
-
 **REWARDS**
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
@@ -673,6 +673,12 @@ There is no difference in this Scenario. The Orcs are still trying to kill you a
 ---
 
 ## NARRATIVE SCENARIO 3 - AMBUSH IN THE HILLS
+
+**PARTICIPANTS**
+
+Your Battle Company.
+
+1 Wild Warg Chieftain, 18 Wild Wargs.
 
 **LAYOUT**
 
@@ -708,12 +714,6 @@ Whilst the Wild Warg Chieftain is alive, the Warg force does not break. As soon 
 
 The Wargs must always move towards the Battle Company, charging if possible.
 
-**PARTICIPANTS**
-
-Your Battle Company.
-
-1 Wild Warg Chieftain, 18 Wild Wargs.
-
 **REWARDS**
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
@@ -736,6 +736,14 @@ If you roll a 4 on the Rewards chart, you do not gain a Dúnedain for your compa
 ---
 
 ## NARRATIVE SCENARIO 4 - ICEBAY OF FOROCHEL
+
+**PARTICIPANTS**
+
+Your Battle Company.
+
+2 Tribesfolk Captains, 4 Tribesfolk with shield, 4 Tribesfolk with two-handed axe, 4 Tribesfolk with bow.
+
+*\*The Tribesfolk Captains use the same profile as the Dunlending Captain, the Tribesfolk use the same profile as Dunlending Warriors.*
 
 **LAYOUT**
 
@@ -763,14 +771,6 @@ The ice follows the same rules for Slippery Walkways, as presented on **page 87*
 
 At the end of each model's Movement where they are at least partially on the ice, roll a D6. On a 2+ everything is fine. On the roll of a 1, they slip - roll a further D6. On a 6, the model keeps their footing, however, they may only move half their Move allowance next turn. On a 2-5, the model is knocked Prone. On the roll of a 1, the ice breaks and the model falls into the freezing waters of Forochel - remove the model as a casualty. Any model from your Battle Company removed in this way suffers a -1 penalty when making their Injury roll.
 
-**PARTICIPANTS**
-
-Your Battle Company.
-
-2 Tribesfolk Captains, 4 Tribesfolk with shield, 4 Tribesfolk with two-handed axe, 4 Tribesfolk with bow.
-
-*\*The Tribesfolk Captains use the same profile as the Dunlending Captain, the Tribesfolk use the same profile as Dunlending Warriors.*
-
 **REWARDS**
 
 If you were victorious in the Scenario, roll on the chart below to see what reward your Battle Company receives.
@@ -795,6 +795,12 @@ If you are using an Evil Battle Company, then if your company is victorious and 
 ---
 
 ## NARRATIVE SCENARIO 5 - THE DRAKE'S TREASURE
+
+**PARTICIPANTS**
+
+Your Battle Company.
+
+Cave Drake, 4 Moria Goblins with shield, 4 Moria Goblins with spear, 4 Moria Goblins with bow.
 
 **LAYOUT**
 
@@ -821,12 +827,6 @@ The company knows that this is their final test, and they will not back down und
 * **The Drake's Lair**
 
 The company has entered the Cave Drake's nest, and it will ferociously protect it at any cost. Do not place a marker for the Cave Drake's Protect the Nest special rule as normal; instead, the Cave Drake always counts as being within 3" of the marker and so will always gain the benefits.
-
-**PARTICIPANTS**
-
-Your Battle Company.
-
-Cave Drake, 4 Moria Goblins with shield, 4 Moria Goblins with spear, 4 Moria Goblins with bow.
 
 **REWARDS**
 

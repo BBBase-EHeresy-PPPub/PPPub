@@ -1,5 +1,11 @@
 ## DEFENCE OF OSGILIATH
 
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+
+**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
+
 **LAYOUT**
 
 The board represents the ruined city of Osgiliath, and as such should be covered in ruins, buildings, statues and piles of rubble of all shapes and sizes. The board should have a variety of walkways of different sizes. Some could represent the major roads through the city and would be big enough for whole warbands to fight side- by-side upon. Others will be the narrow alleyways that separate the buildings and may fit one or two models through them. Three objectives should be placed, as shown on the map.
@@ -27,17 +33,17 @@ Faramir must always Charge if able to do so, however, he may spend a Will point 
 
 Any Evil model can destroy an objective by being in base contact with it during the End phase of any turn, so long as they did not take part in a Fight (including supporting) in the preceding Fight phase.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
-
-**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
-
 ![](../media/scenarios/gondor_at_war/defence_of_osgiliath.jpg)
 
 ---
 
 ## RETAKING OF OSGILIATH
+
+**PARTICIPANTS**
+
+**Good:** Boromir, Captain of the White Tower, with the Banner of Minas Tirith; Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+
+**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -63,17 +69,17 @@ Evil models may re-roll failed To Wound rolls against Boromir and Faramir.
 
 In a turn in which Boromir or Faramir Charges into combat, all Gondor Warrior models that also Charged within 3" of either of them gain a bonus of +1 To Wound during the Fight phase.
 
-**PARTICIPANTS**
-
-**Good:** Boromir, Captain of the White Tower, with the Banner of Minas Tirith; Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
-
-**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 1 Mordor Troll.
-
 ![](../media/scenarios/gondor_at_war/retaking_of_osgiliath.jpg)
 
 ---
 
 ## AMBUSH IN ITHILIEN
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional wargear, 8 with spear.
+
+**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
 
 **LAYOUT**
 
@@ -95,17 +101,17 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 At the start of the game, before the first Priority is rolled for, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special rule and may re-roll any 1s To Wound when making a shooting attack.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional wargear, 8 with spear.
-
-**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
-
 ![](../media/scenarios/gondor_at_war/ambush_in_ithilien.jpg)
 
 ---
 
 ## RAIDING OF PELARGIR
+
+**PARTICIPANTS**
+
+**Good:** Angbor the Fearless; 24 Clansmen of Lamedon.
+
+**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 24 Corsairs of Umbar: 8 with shield, 8 with spear, 8 with bow; 6 Corsair Arbalesters; 6 Corsair Reavers.
 
 **LAYOUT**
 
@@ -135,17 +141,17 @@ Corsair models may shoot at any of the selected buildings as if they were enemy 
 
 Any Good model that ends its move in base contact with a building that is on fire may attempt to put it out. Roll a D6. On a 6, the fire has been put out. However, should the Good player roll a 1, then the building will be consumed by the flames and cannot be put out for the remainder of the game.
 
-**PARTICIPANTS**
-
-**Good:** Angbor the Fearless; 24 Clansmen of Lamedon.
-
-**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 24 Corsairs of Umbar: 8 with shield, 8 with spear, 8 with bow; 6 Corsair Arbalesters; 6 Corsair Reavers.
-
 ![](../media/scenarios/gondor_at_war/raiding_of_pelargir.jpg)
 
 ---
 
 ## FALL OF OSGILIATH
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -169,17 +175,17 @@ Each time an Evil Warrior model is slain, place it to one side. At the end of ea
 
 At the start of each turn, the Evil player may select a single Good Warrior and roll a D6. On a 3+, this Warrior becomes paralyzed by fear and may not Move or Shoot that turn. They may fight if they are subsequently Engaged in combat, although their Fight value will be reduced to 1.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
-
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
 ![](../media/scenarios/gondor_at_war/fall_of_osgiliath.jpg)
 
 ---
 
 ## THE WHITE RIDER
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow on horse; Gandalf the White on Shadowfax; 12 Knights of Minas Tirith with shield.
+
+**Evil:** 3 Ringwraiths on Fell Beast, each with 2 Might, 14 Will and 2 Fate.
 
 **LAYOUT**
 
@@ -205,17 +211,17 @@ The Good player automatically has Priority on the first turn.
 
 At the end of the first Evil Move phase, the Evil player may move all of their models onto the board from any point on the eastern board edge via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow on horse; Gandalf the White on Shadowfax; 12 Knights of Minas Tirith with shield.
-
-**Evil:** 3 Ringwraiths on Fell Beast, each with 2 Might, 14 Will and 2 Fate.
-
 ![](../media/scenarios/gondor_at_war/the_white_rider.jpg)
 
 ---
 
 ## FARAMIR'S CHARGE
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow on horse; 12 Knights of Minas Tirith with shield.
+
+**Evil:** Gothmog, Lieutenant of Sauron; 12 Orc Trackers; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -241,12 +247,6 @@ Any Orc Tracker can choose to shoot their Orc bow at a target up to 36" away, ra
 
 Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an enemy model within 12".
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow on horse; 12 Knights of Minas Tirith with shield.
-
-**Evil:** Gothmog, Lieutenant of Sauron; 12 Orc Trackers; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
-
 **Designer's Notes:** *On paper, this Scenario may seem far more in favor of the Evil player, and the fact is that it is. In the films, Faramir and his Knights don't even get close to Osgiliath before they are peppered by Orc arrows - hopefully in this Scenario the Good player will have a bit more luck!*
 
 ![](../media/scenarios/gondor_at_war/faramirs_charge.jpg)
@@ -254,6 +254,12 @@ Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an en
 ---
 
 ## THE BATTLE FOR PELARGIR
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; Harbarad with Banner of Arwen Evenstar; Elladan & Elrohir; The King of the Dead; 2 Heralds of the Dead; Angbor the Fearless; 20 Warriors of the Dead; 12 Clansmen of Lamedon.
+
+**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 2 Corsair Captains; 2 Corsair Bo'suns; 36 Corsairs of Umbar: 12 with shield, 12 with spear, 12 with bow; 12 Corsair Arbalesters; 12 Corsair Reavers.
 
 **LAYOUT**
 
@@ -277,17 +283,17 @@ The game lasts until there are no Corsair Hero models left on the board. The Evi
 
 Corsair models within 6" of the King of the Dead suffer a -1 penalty to all Courage tests.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; Harbarad with Banner of Arwen Evenstar; Elladan & Elrohir; The King of the Dead; 2 Heralds of the Dead; Angbor the Fearless; 20 Warriors of the Dead; 12 Clansmen of Lamedon.
-
-**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 2 Corsair Captains; 2 Corsair Bo'suns; 36 Corsairs of Umbar: 12 with shield, 12 with spear, 12 with bow; 12 Corsair Arbalesters; 12 Corsair Reavers.
-
 ![](../media/scenarios/gondor_at_war/the_battle_for_pelargir.jpg)
 
 ---
 
 ## ATOP THE WALLS
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the White; Peregrin Took, Guard of the Citadel; Irolas, Captain of the Guard; Beregond; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
+
+**Evil:** Zagdûsh, Orc Captain; 2 Orc Captains with shield; 36 Mordor Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon.
 
 **LAYOUT**
 
@@ -317,17 +323,17 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 The eastern edge of the walls of Minas Tirith are lined with battlements that can trap a model against them. Additionally, any model that is pushed from the edge of a siege tower and onto the Pelennor is automatically slain - it's a rather long fall!
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the White; Peregrin Took, Guard of the Citadel; Irolas, Captain of the Guard; Beregond; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
-
-**Evil:** Zagdûsh, Orc Captain; 2 Orc Captains with shield; 36 Mordor Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon.
-
 ![](../media/scenarios/gondor_at_war/atop_the_walls.jpg)
 
 ---
 
 ## THE GATE IS BREACHED
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the White on Shadowfax; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; Beregond; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
+
+**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
 
 **LAYOUT**
 
@@ -353,17 +359,17 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 Good models do not have to take Courage tests to Charge a Mordor Troll.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the White on Shadowfax; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; Beregond; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
-
-**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
-
 ![](../media/scenarios/gondor_at_war/the_gate_is_breached.jpg)
 
 ---
 
 ## THE STREETS OF MINAS TIRITH
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
+
+**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
 
 **LAYOUT**
 
@@ -388,12 +394,6 @@ Pippin counts as wearing an Elven cloak. Additionally, any Evil model that wishe
 * **Gandalf**
 
 If, during the End phase of any turn, Pippin and Gandalf are in base contact and Gandalf is mounted, Pippin may mount Shadowfax and be treated as a passenger. Gandalf may not enter the western half of the board until Pippin has reached him.
-
-**PARTICIPANTS**
-
-**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
-
-**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
 
 ![](../media/scenarios/gondor_at_war/the_streets_of_minas_tirith.jpg)
 
@@ -453,6 +453,12 @@ The turn then ends and the next turn begins.
 
 ## CHARGE OF THE ROHIRRIM
 
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan, with heavy armour, shield, and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield, and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; Déorwine, Chief of the King's Knights; Elfhelm, Captain of Rohan, with horse; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+
 **LAYOUT**
 
 The board represents the fields of Pelennor, the barren ground upon which the battles outside the gates of Minas Tirith are fought. As there is very little terrain on the fields, there is not much to place on the board apart from a few small areas of rocks and scrubland.
@@ -477,17 +483,17 @@ The Good player always counts as having Priority. Additionally, Good models must
 
 After the Evil force has been reduced to less than 50% of their starting models, Gothmog may attempt to escape the battle by exiting the board via the southern board edge. If Gothmog manages to escape in this way, the best result the Good player can achieve is a draw.
 
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan, with heavy armour, shield, and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield, and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; Déorwine, Chief of the King's Knights; Elfhelm, Captain of Rohan, with horse; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
-
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
 ![](../media/scenarios/gondor_at_war/charge_of_the_rohirrim.jpg)
 
 ---
 
 ## DENETHOR'S MADNESS
+
+**PARTICIPANTS**
+
+**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Beregond; Faramir, Captain of Gondor.
+
+**Evil:** Denethor, Steward of Gondor; 4 Citadel Guard.
 
 **LAYOUT**
 
@@ -517,17 +523,17 @@ Gandalf does not have his Staff of Power in this Scenario, and begins the game w
 
 Good models may not make shooting attacks and may not make Strikes if they win a Duel roll. However, in his madness, Denethor and his guard have ignored the city's ruling - they may act as normal.
 
-**PARTICIPANTS**
-
-**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Beregond; Faramir, Captain of Gondor.
-
-**Evil:** Denethor, Steward of Gondor; 4 Citadel Guard.
-
 ![](../media/scenarios/gondor_at_war/denethors_madness.jpg)
 
 ---
 
 ## WAR BEASTS FROM THE SOUTH
+
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+
+**Evil:** The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah; 2 War Mûmaks of Harad with Mahûd Beastmaster and 12 Haradrim Warriors in the Howdah.
 
 **LAYOUT**
 
@@ -553,17 +559,17 @@ Good models automatically pass Courage tests to Charge any Mûmak models.
 
 If the Mûmak War Leader is slain, the best result the Evil player can achieve is a draw.
 
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
-
-**Evil:** The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah; 2 War Mûmaks of Harad with Mahûd Beastmaster and 12 Haradrim Warriors in the Howdah.
-
 ![](../media/scenarios/gondor_at_war/war_beasts_from_the_south.jpg)
 
 ---
 
 ## THE HORSE AND THE SERPENT
+
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+
+**Evil:** Suladân the Serpent Lord on armoured horse; Râza, Fang of the Serpent; Haradrim Captain; 12 Serpent Riders; 24 Haradrim Warriors: 12 with bow, 12 with spear.
 
 **LAYOUT**
 
@@ -587,17 +593,17 @@ Both Théoden and Suladân must Charge each other if they are able to do so.
 
 Râza may select two targets for his The Serpent's Weapon special rule, rather than one.
 
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
-
-**Evil:** Suladân the Serpent Lord on armoured horse; Râza, Fang of the Serpent; Haradrim Captain; 12 Serpent Riders; 24 Haradrim Warriors: 12 with bow, 12 with spear.
-
 ![](../media/scenarios/gondor_at_war/the_horse_and_the_serpent.jpg)
 
 ---
 
 ## DEATH OF THE KING
+
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; 12 Riders of Rohan: 8 with no additional wargear and 4 with throwing spears.
+
+**Evil:** The Witch-king of Angmar with Crown of Morgul, Fell Beast, 2 Might, 14 Will and 2 Fate; Morannon Orc Captain with shield; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -622,12 +628,6 @@ At the end of each game turn, roll a D6 and add the number of the turn you are o
 * **The King of Rohan**
 
 Each time Théoden slays an enemy model, he may immediately regain a single point of either Might, Will, or Fate that was spent earlier in the battle.
-
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; 12 Riders of Rohan: 8 with no additional wargear and 4 with throwing spears.
-
-**Evil:** The Witch-king of Angmar with Crown of Morgul, Fell Beast, 2 Might, 14 Will and 2 Fate; Morannon Orc Captain with shield; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
 
 ![](../media/scenarios/gondor_at_war/death_of_the_king.jpg)
 
@@ -669,6 +669,12 @@ If the Witch-king suffers three Wounds then Merry has managed to bring the Lord 
 
 ## THE RIDE OF THE FIEFDOMS
 
+**PARTICIPANTS**
+
+**Good:** Prince Imrahil of Dol Amroth with lance and armored horse; Forlong the Fat; Húrin the Tall, Warden of the Keys with horse; 12 Knights of Dol Amroth with armored horse and lance; 12 Axemen of Lossarnach.
+
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
+
 **LAYOUT**
 
 The board represents the fields of Pelennor, the barren ground upon which the battles outside the gates of Minas Tirith are fought. As there is very little terrain on the fields, there is not much to place on the board apart from a few small areas of rocks and scrubland.
@@ -693,17 +699,17 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 Prince Imrahil may call a Heroic Move at the start of each Move phase without spending Might; however, Imrahil must always Charge if able to do so.
 
-**PARTICIPANTS**
-
-**Good:** Prince Imrahil of Dol Amroth with lance and armored horse; Forlong the Fat; Húrin the Tall, Warden of the Keys with horse; 12 Knights of Dol Amroth with armored horse and lance; 12 Axemen of Lossarnach.
-
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
-
 ![](../media/scenarios/gondor_at_war/the_ride_of_the_fiefdoms.jpg)
 
 ---
 
 ## THE GRIEF OF ÉOMER
+
+**PARTICIPANTS**
+
+**Good:** Éomer, Marshal of the Riddermark; Prince Imrahil of Dol Amroth with lance and armoured horse; Húrin the Tall, Warden of the Keys with horse; 6 Warriors of Rohan with shield; 12 Knights of Dol Amroth with lance and armoured horse.
+
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -729,17 +735,17 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 At the end of the Good player's first Move phase, the rest of the Good models move onto the board from the center of the western board edge.
 
-**PARTICIPANTS**
-
-**Good:** Éomer, Marshal of the Riddermark; Prince Imrahil of Dol Amroth with lance and armoured horse; Húrin the Tall, Warden of the Keys with horse; 6 Warriors of Rohan with shield; 12 Knights of Dol Amroth with lance and armoured horse.
-
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
-
 ![](../media/scenarios/gondor_at_war/the_grief_of_eomer.jpg)
 
 ---
 
 ## DEFEND THE GATE
+
+**PARTICIPANTS**
+
+**Good:** Forlong the Fat; Duinhir; Ingold, Warden of the Rammas Echor; Déorwine, Chief of the King's Knights; 12 Axemen of Lossarnach; 12 Blackroot Vale Archers; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** Goroth, Captain of the Morannon; Morannon Orc Captain with shield; War Mûmak of Harad with 12 Haradrim Warriors: 6 with bow, 6 with spear; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -765,17 +771,17 @@ Good models may re-roll failed To Wound rolls in the Fight phase whilst they are
 
 Each time Goroth slays a Good Hero, his Might is restored to its starting value.
 
-**PARTICIPANTS**
-
-**Good:** Forlong the Fat; Duinhir; Ingold, Warden of the Rammas Echor; Déorwine, Chief of the King's Knights; 12 Axemen of Lossarnach; 12 Blackroot Vale Archers; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
-
-**Evil:** Goroth, Captain of the Morannon; Morannon Orc Captain with shield; War Mûmak of Harad with 12 Haradrim Warriors: 6 with bow, 6 with spear; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
 ![](../media/scenarios/gondor_at_war/defend_the_gate.jpg)
 
 ---
 
 ## THE DOCKS OF HARLOND
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; The King of the Dead; 20 Warriors of the Dead; 6 Riders of the Dead.
+
+**Evil:** Guritz, Master of the Reserves; 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -799,12 +805,6 @@ The Good player wins if Aragorn and either Legolas or Gimli can move off of the 
 
 Good models within 6" of Aragorn count as being in range of a banner.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; The King of the Dead; 20 Warriors of the Dead; 6 Riders of the Dead.
-
-**Evil:** Guritz, Master of the Reserves; 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
 **Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the banner of Arwen Evenstar, Angbor the Fearless, 12 Rangers of the North, and 12 Clansmen of Lamedon.*
 
 ![](../media/scenarios/gondor_at_war/the_docks_of_harlond.jpg)
@@ -812,6 +812,12 @@ Good models within 6" of Aragorn count as being in range of a banner.
 ---
 
 ## DEATH OF GOTHMOG
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with Andúril, Flame of the West; Gimli, son of Glóin; Éowyn, Shield Maiden of Rohan, with armour.
+
+**Evil:** Gothmog, Lieutenant of Sauron; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -837,25 +843,11 @@ The Good player wins immediately if Gothmog is slain. The Evil player wins immed
 
 Gothmog is the only Evil model that may Charge Éowyn.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with Andúril, Flame of the West; Gimli, son of Glóin; Éowyn, Shield Maiden of Rohan, with armour.
-
-**Evil:** Gothmog, Lieutenant of Sauron; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
-
 ![](../media/scenarios/gondor_at_war/death_of_gothmog.jpg)
 
 ---
 
 ## THAT STILL ONLY COUNTS AS ONE!
-
-*This Scenario is represented by a mini-game, and as such does not follow the usual rules for the Strategy Battle Game. Instead, it uses the series of unique rules provided here to help capture the feel of the scene.*
-
-**OBJECTIVES**
-
-Legolas must slay all of the Haradrim in the Howdah and then reach its front (marked X) by the end of the fourth turn, otherwise Aragorn, Gimli, and their allies will be flattened by the Mûmak's massive bulk. The Haradrim win if they can slay Legolas or if he cannot complete his objective in time.
-
-Once one player has played a game as Legolas, we would suggest swapping over and playing it again; whoever can accomplish the mission the quickest will earn the title of the Hero of Pelennor!
 
 **PARTICIPANTS**
 
@@ -973,11 +965,25 @@ Spear: Score to Wound - 5+
 
 **Lethal Poison:** This model may re-roll all To Wound rolls when fighting.
 
+*This Scenario is represented by a mini-game, and as such does not follow the usual rules for the Strategy Battle Game. Instead, it uses the series of unique rules provided here to help capture the feel of the scene.*
+
+**OBJECTIVES**
+
+Legolas must slay all of the Haradrim in the Howdah and then reach its front (marked X) by the end of the fourth turn, otherwise Aragorn, Gimli, and their allies will be flattened by the Mûmak's massive bulk. The Haradrim win if they can slay Legolas or if he cannot complete his objective in time.
+
+Once one player has played a game as Legolas, we would suggest swapping over and playing it again; whoever can accomplish the mission the quickest will earn the title of the Hero of Pelennor!
+
 ![](../media/scenarios/gondor_at_war/that_still_only_counts_as_one.jpg)
 
 ---
 
 ## THE DEAD ARRIVE
+
+**PARTICIPANTS**
+
+**Good:** The King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 14 with shield, 6 with spear.
+
+**Evil:** 2 War Mûmakil of Harad, each with 12 Haradrim Warriors: 6 with bow, 6 with spear; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with spear & shield, 6 with no additional wargear.
 
 **LAYOUT**
 
@@ -999,17 +1005,25 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 The King of the Dead may call a Heroic Combat each turn without expending Might to do so.
 
-**PARTICIPANTS**
-
-**Good:** The King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 14 with shield, 6 with spear.
-
-**Evil:** 2 War Mûmakil of Harad, each with 12 Haradrim Warriors: 6 with bow, 6 with spear; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with spear & shield, 6 with no additional wargear.
-
 ![](../media/scenarios/gondor_at_war/the_dead_arrive.jpg)
 
 ---
 
 ## THE BATTLE OF PELENNOR FIELDS
+
+**PARTICIPANTS**
+
+- **Gondor:** Prince Imrahil of Dol Amroth with lance and armoured horse; Forlong the Fat; Duinhir; Húrin the Tall, Warden of the Keys on horse; Ingold, Warden of the Rammas Echor; 12 Knights of Dol Amroth on armoured horse with lance; 12 Axemen of Lossarnach; Blackroot Vale Archers; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
+
+- **Rohan:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshal of the Riddermark, with throwing spears, shield and armoured horse; Dernhelm; Gamling, Captain of Rohan, with Royal Standard of Rohan and horse; Déorwine, Chief of the King's Knights, on horse; Elfhelm, Captain of Rohan, on horse; 36 Riders of Rohan.
+
+- **Grey Company:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf with armour; Gimli, son of Glóin; Elladan & Elrohir with heavy armour; Halbarad with the banner of Arwen Evenstar; 12 Rangers of the North; Angbor the Fearless; The King of the Dead; 2 Heralds of the Dead with Pennant of the Dead; 12 Clansmen of Lamedon; 20 Warriors of the Dead.
+
+- **Mordor:** The Witch-king of Angmar with full Might, Will and Fate, Crown of Morgul, Flail and Fell Beast; Gothmog, Lieutenant of Sauron, with Warg; Gothmog's Enforcer; Goroth, Captain of the Morannon; Guritz, Master of the Reserves; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear & shield, 12 with no additional wargear; 2 Mordor Trolls.
+
+- **Harad:** Suladân the Serpent Lord on horse; The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah (this is an exception to the normal rules for what may be included in the Mûmak War Leader's Howdah); 2 War Mûmaks of Harad each with 12 Haradrim Warriors in the Howdah; The Golden King of Abrakhân; Râza, Fang of the Serpent; 12 Serpent Riders; 12 Haradrim Raiders; 12 Abrakhân Guard; 12 Mahûd Raiders.
+
+- **Easterlings & Khand:** Amdûr, Lord of Blades, on armoured horse; 2 Easterling Captains with shield; Khandish King on Chariot; Khandish Chieftain; 12 Easterling Kataphrakts; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield; 9 Khandish Warriors: 6 with two-handed axe, 3 with bow; 6 Khandish Horsemen; 2 Khandish Charioteers.
 
 *Whilst the previous Scenarios break the epic Battle of Pelennor Fields down into a series of bite-size games, each focusing on a particular event, this Scenario tackles the whole battle at once! If you are going to play this game, we suggest gathering a group of friends, plenty of tea and seed cake, and taking the whole weekend to play out the most important battle of the Third Age!*
 
@@ -1055,25 +1069,17 @@ At the end of the Evil player's seventh Move phase, the Evil player moves the Wi
 
 **Designer's Notes:** *This Scenario represents the entire Battle of Pelennor Fields and so will take a long time and a lot of models. We suggest gathering a number of players for this Scenario; six is ideal as then a different player can take control of each force. As this Scenario essentially combines several of the other narrative Scenarios listed previously, it is not considered part of the campaign listed on pages 68-73.*
 
-**PARTICIPANTS**
-
-- **Gondor:** Prince Imrahil of Dol Amroth with lance and armoured horse; Forlong the Fat; Duinhir; Húrin the Tall, Warden of the Keys on horse; Ingold, Warden of the Rammas Echor; 12 Knights of Dol Amroth on armoured horse with lance; 12 Axemen of Lossarnach; Blackroot Vale Archers; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
-
-- **Rohan:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshal of the Riddermark, with throwing spears, shield and armoured horse; Dernhelm; Gamling, Captain of Rohan, with Royal Standard of Rohan and horse; Déorwine, Chief of the King's Knights, on horse; Elfhelm, Captain of Rohan, on horse; 36 Riders of Rohan.
-
-- **Grey Company:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf with armour; Gimli, son of Glóin; Elladan & Elrohir with heavy armour; Halbarad with the banner of Arwen Evenstar; 12 Rangers of the North; Angbor the Fearless; The King of the Dead; 2 Heralds of the Dead with Pennant of the Dead; 12 Clansmen of Lamedon; 20 Warriors of the Dead.
-
-- **Mordor:** The Witch-king of Angmar with full Might, Will and Fate, Crown of Morgul, Flail and Fell Beast; Gothmog, Lieutenant of Sauron, with Warg; Gothmog's Enforcer; Goroth, Captain of the Morannon; Guritz, Master of the Reserves; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear & shield, 12 with no additional wargear; 2 Mordor Trolls.
-
-- **Harad:** Suladân the Serpent Lord on horse; The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah (this is an exception to the normal rules for what may be included in the Mûmak War Leader's Howdah); 2 War Mûmaks of Harad each with 12 Haradrim Warriors in the Howdah; The Golden King of Abrakhân; Râza, Fang of the Serpent; 12 Serpent Riders; 12 Haradrim Raiders; 12 Abrakhân Guard; 12 Mahûd Raiders.
-
-- **Easterlings & Khand:** Amdûr, Lord of Blades, on armoured horse; 2 Easterling Captains with shield; Khandish King on Chariot; Khandish Chieftain; 12 Easterling Kataphrakts; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield; 9 Khandish Warriors: 6 with two-handed axe, 3 with bow; 6 Khandish Horsemen; 2 Khandish Charioteers.
-
 ![](../media/scenarios/gondor_at_war/the_battle_of_pelennor_fields.jpg)
 
 ---
 
 ## THE BLACK GATE
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Éomer, Marshal of the Riddermark; Meriadoc, Knight of the Mark; Peregrin, Guard of the Citadel; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
+
+**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; 3 Morannon Orc Captains with shield; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear.
 
 **LAYOUT**
 
@@ -1111,12 +1117,6 @@ Mordor Orc models gain a bonus of +1 To Wound in a Duel in which they outnumber 
 
 Good models may not willingly move more than 12" away from the center of the board.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Éomer, Marshal of the Riddermark; Meriadoc, Knight of the Mark; Peregrin, Guard of the Citadel; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
-
-**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; 3 Morannon Orc Captains with shield; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear.
-
 **Designer's Notes:** *This Scenario is designed to depict the Black Gate as seen in the movies, and as such the Scenario only contains the characters that can be seen in those scenes. If you would rather play through the Black Gate as portrayed in the books, turn to pages 64-67, where you can find two Scenarios that recreate the event from that perspective.*
 
 ![](../media/scenarios/gondor_at_war/the_black_gate.jpg)
@@ -1124,6 +1124,12 @@ Good models may not willingly move more than 12" away from the center of the boa
 ---
 
 ## THE BLACK GATE: THE LEFT HILL
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Peregrin Took, Guard of the Citadel; Beregond; Elladan & Elrohir; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow, 1 with banner.
+
+**Evil:** Mordor Troll Chieftain; 2 Morannon Orc Captains with shield; 2 Haradrim Chieftains; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 24 Haradrim Warriors: 12 with bow, 12 with spear.
 
 **LAYOUT**
 
@@ -1149,17 +1155,17 @@ Gandalf does not have his Staff of Power, and therefore does not gain a free poi
 
 The range of all Good banners is increased by 3".
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Peregrin Took, Guard of the Citadel; Beregond; Elladan & Elrohir; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow, 1 with banner.
-
-**Evil:** Mordor Troll Chieftain; 2 Morannon Orc Captains with shield; 2 Haradrim Chieftains; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 24 Haradrim Warriors: 12 with bow, 12 with spear.
-
 ![](../media/scenarios/gondor_at_war/the_black_gate_the_left_hill.jpg)
 
 ---
 
 ## THE BLACK GATE: THE RIGHT HILL
+
+**PARTICIPANTS**
+
+**Good:** Prince Imrahil of Dol Amroth; Éomer, Marshal of the Riddermark; Captain of Dol Amroth; Captain of Rohan with shield; 12 Knights of Dol Amroth: 1 with banner; 13 Warriors of Rohan: 4 with shield, 4 with throwing spears, 4 with bow, 1 with banner.
+
+**Evil:** 2 Morannon Orc Captains with shield; 2 Easterling Captains with shield; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield.
 
 **LAYOUT**
 
@@ -1180,12 +1186,6 @@ The game lasts until the end of a turn where the Good force has been reduced to 
 * **Inspiring Heraldry**
 
 The range of all Good banners is increased by 3".
-
-**PARTICIPANTS**
-
-**Good:** Prince Imrahil of Dol Amroth; Éomer, Marshal of the Riddermark; Captain of Dol Amroth; Captain of Rohan with shield; 12 Knights of Dol Amroth: 1 with banner; 13 Warriors of Rohan: 4 with shield, 4 with throwing spears, 4 with bow, 1 with banner.
-
-**Evil:** 2 Morannon Orc Captains with shield; 2 Easterling Captains with shield; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield.
 
 **Designer's Notes:** *To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
 

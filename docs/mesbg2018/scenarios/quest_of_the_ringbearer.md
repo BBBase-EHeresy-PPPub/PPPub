@@ -1,5 +1,13 @@
 ## FARMER MAGGOT'S CROP
 
+**PARTICIPANTS**
+
+**Good:** Farmer Maggot.
+
+**'Evil':** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
+
+Whilst the Hobbits definitely are not Evil, the fact that they are stealing crops from Farmer Maggot means they will play the role of the Evil force in this Scenario.
+
 **LAYOUT**
 
 The board represents the area of Maggot's farm immediately surrounding his house. Farmer Maggot's house should be placed 6" from the center of the northern board edge, with his hounds' kennel within 6" of the house as shown on the map. A fenced field, 4" long and 6" wide, should be in the middle of the board, with a couple of exits to the field around the edges. A Stash Marker should be placed 12" from the center of the southern board edge. The rest of the board should be dotted with a few hedges, trees, and bushes.
@@ -34,14 +42,6 @@ If, during the End phase of any turn, any of the Hobbits are within Maggot's fie
 
 If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately drop the token within 1" of itself. Hobbits may only carry one Plunder Token at a time and may only voluntarily drop them when in base contact with the Stash Marker.
 
-**PARTICIPANTS**
-
-**Good:** Farmer Maggot.
-
-**'Evil':** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
-
-Whilst the Hobbits definitely are not Evil, the fact that they are stealing crops from Farmer Maggot means they will play the role of the Evil force in this Scenario.
-
 **Designer's Notes:** *This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/farmer_maggots_crop.jpg)
@@ -49,6 +49,12 @@ Whilst the Hobbits definitely are not Evil, the fact that they are stealing crop
 ---
 
 ## SHORT CUTS MAKE LONG DELAYS
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Peregrin Took; Gildor Inglorion.
+
+**Evil:** 3 Ringwraiths with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -80,17 +86,17 @@ Until the alarm has been raised, at the start of each of the Hobbits' move, they
 
 Once per game, after the alarm has been raised, the Evil player can use this special rule. After Priority has been determined, the Evil player can unleash the screech of the Nazgûl. Until the end of the turn, all Good models reduce their Courage value by 3.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Peregrin Took; Gildor Inglorion.
-
-**Evil:** 3 Ringwraiths with no additional Might, Will, or Fate.
-
 ![](../media/scenarios/quest_of_the_ringbearer/short_cuts_make_long_delays.jpg)
 
 ---
 
 ## BUCKLEBERRY FERRY
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
+
+**Evil:** 3 Ringwraiths with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -124,17 +130,17 @@ The Brandywine is Deep Water. Additionally, any Hobbit in the water must make a 
 
 Once per game, after the alarm has been raised, the Evil player can use this special rule. After Priority has been determined, the Evil player can unleash the screech of the Nazgûl. Until the end of the turn, all Good models reduce their Courage value by 3.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
-
-**Evil:** 3 Ringwraiths with no additional Might, Will, or Fate.
-
 ![](../media/scenarios/quest_of_the_ringbearer/bucklebury_ferry.jpg)
 
 ---
 
 ## THE OLD FOREST
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
+
+**Evil:** None. No, really!
 
 **LAYOUT**
 
@@ -166,17 +172,17 @@ Trees that lose a fight can still be struck, but will not be slain if they suffe
 
 Any Hobbit that suffers its last Wound and would be slain will be knocked unconscious rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took.
-
-**Evil:** None. No, really!
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_old_forest.jpg)
 
 ---
 
 ## FOG ON THE BARROW-DOWNS
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Tom Bombadil; Goldberry.
+
+**Evil:** 4 Barrow-wights.
 
 **LAYOUT**
 
@@ -210,17 +216,17 @@ During each Hobbit model's Move phase, if that Hobbit has seen a Barrow-wight, t
 
 Any Hobbit that suffers its last Wound and would be slain will instead be paralyzed rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power. A Barrow-wight may drag a paralyzed Hobbit at full speed but will immediately drop them if Charged. Should a Hobbit recover from paralysis while being dragged, the Good player may place them within 1" of where they were. Should a Barrow-wight start its move in base contact with both a Barrow and a paralyzed Hobbit, they can attempt to sacrifice them. Roll a D6, on a 4+ the Hobbit has been sacrificed and removed as a casualty. The Barrow-wight may then act as normal.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Tom Bombadil; Goldberry.
-
-**Evil:** 4 Barrow-wights.
-
 ![](../media/scenarios/quest_of_the_ringbearer/fog_on_the_barrow-downs.jpg)
 
 ---
 
 ## NAZGÛL IN BREE
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Barliman Butterbur; Harry Goatleaf.
+
+**Evil:** 4 Ringwraiths on horse with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -256,17 +262,17 @@ Before Frodo tries to move, he must take a Courage test.
 
 If he passes, everything is fine; however, if he fails, he must put the Ring on. Frodo suffers an additional -1 to this Courage test for each Ringwraith within 12" after the first. Frodo gains a bonus of +1 to this test for each friendly model in base contact. If Frodo puts the Ring on, the Heroes immediately count as being spotted and each Ringwraith may immediately move towards Frodo if able.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Barliman Butterbur; Harry Goatleaf.
-
-**Evil:** 4 Ringwraiths on horse with no additional Might, Will, or Fate.
-
 ![](../media/scenarios/quest_of_the_ringbearer/nazgul_in_bree.jpg)
 
 ---
 
 ## WEATHERTOP
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider.
+
+**Evil:** The Witch-king of Angmar with Morgul Blade; 4 Ringwraiths, each with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -298,17 +304,17 @@ Once per game, the Evil player may use this special rule.
 
 Until the end of the turn, all Good models reduce their Courage value by 3. If this is used before Aragorn has arrived, then Aragorn will automatically arrive the next turn.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider.
-
-**Evil:** The Witch-king of Angmar with Morgul Blade; 4 Ringwraiths, each with no additional Might, Will, or Fate.
-
 ![](../media/scenarios/quest_of_the_ringbearer/weathertop.jpg)
 
 ---
 
 ## FLIGHT TO THE FORD
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Arwen Undómiel on Asfaloth.
+
+**Evil:** The Witch-king of Angmar on horse, and 8 Ringwraiths on horse, each with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -340,12 +346,6 @@ At the start of the game, the river is treated as Deep Water and the ford is ope
 
 From the second turn onwards, roll a D6 for each Ringwraith that has not yet arrived. On a 4+ they may enter the board from any point on the northern or southern board edges via the rules for Reinforcements. However, they may not enter the board east of, or in, the Bruinen. If a Ringwraith rolls a 1 to arrive, it has suffered an accident on its journey and is instead removed as a casualty.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Arwen Undómiel on Asfaloth.
-
-**Evil:** The Witch-king of Angmar on horse, and 8 Ringwraiths on horse, each with no additional Might, Will, or Fate.
-
 **Designer's Notes:** *If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/flight_to_the_ford.jpg)
@@ -353,6 +353,12 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 ---
 
 ## THE PASS OF CARADHRAS
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** None!
 
 **SET-UP**
 
@@ -378,17 +384,17 @@ The turn then ends and the next turn begins.
 
 At the end of each turn, the Evil player can play a card from their hand to bring down more of the mountain. The Evil player may choose a card in the playing area that matches the number they played, including picture cards, that has no models currently on it. That card is then buried, and models cannot move over it. Cards in the eastern-most column cannot be chosen. Only one card per column may be buried in this manner.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** None!
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_pass_of_caradhras.jpg)
 
 ---
 
 ## WARGS IN THE NIGHT
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Bill the Pony.
+
+**Evil:** Wild Warg Chieftain; 18 Wild Wargs.
 
 **LAYOUT**
 
@@ -416,17 +422,17 @@ At the start of each turn, any Evil Warrior models that have previously been sla
 
 All Evil models gain the Fearless special rule.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Bill the Pony.
-
-**Evil:** Wild Warg Chieftain; 18 Wild Wargs.
-
 ![](../media/scenarios/quest_of_the_ringbearer/wargs_in_the_night.jpg)
 
 ---
 
 ## THE GATES OF MORIA
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** The Watcher in the Water.
 
 **LAYOUT**
 
@@ -454,17 +460,17 @@ Whenever the Watcher in the Water suffers a Wound, it will immediately retreat D
 
 The Pool is shallow water. However, each time a Good model starts its Move within the Pool, they must roll a D6. On a 1, the model is knocked Prone and cannot move any further that turn. On a 2-5, the model counts as moving through difficult terrain. On a 6, the model may move as normal. Legolas gains a bonus of +1 to this roll. Additionally, as the water is too shallow, the Watcher in the Water may not use its Dragged to the Depths special rule.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** The Watcher in the Water.
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_gates_of_moria.jpg)
 
 ---
 
 ## BALIN'S TOMB
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
 
 **LAYOUT**
 
@@ -490,17 +496,17 @@ During the end of each of the Evil player's Move phases, any Goblin Warrior mode
 
 During the Evil player's fourth Move phase, the Cave Troll may enter the board from the doorway and may Charge the turn it arrives. During the turn it enters the board, the Cave Troll may move 'through' friendly Goblin models. Any Goblin model moved through in this manner suffers a Strength 3 hit, and any Goblin model that the Cave Troll finishes its move on is automatically slain.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
-
 ![](../media/scenarios/quest_of_the_ringbearer/balins_tomb.jpg)
 
 ---
 
 ## ESCAPE FROM DWARROWDELF
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
 
 **LAYOUT**
 
@@ -526,17 +532,17 @@ At the end of each Evil Move phase, the Evil player rolls a D6 to determine how 
 
 Any model that leaves the walkways for any reason (except when a Good model escapes the board) will automatically be slain as they fall into the depths of Moria. Additionally, if the roll for Priority is ever tied, then the Evil player may place a Chasm Marker on one of the walkways. Chasm Markers should stretch across a walkway and be 1" wide. These can be jumped as normal, but any model that rolls a 1 will fall into the depths of Moria and be slain. Chasm Markers cannot be placed on models or within 3" of another Chasm Marker.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
-
 ![](../media/scenarios/quest_of_the_ringbearer/escape_from_dwarrowdelf.jpg)
 
 ---
 
 ## THE BRIDGE OF KHAZAD-DÛM
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+
+**Evil:** The Balrog; 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow.
 
 **LAYOUT**
 
@@ -568,17 +574,17 @@ Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical 
 | 2-5 | The bridge is damaged but still standing. You may add 1 to further rolls on this chart. These modifiers are cumulative. |
 | 6 | The bridge is destroyed. Any models on the bridge are removed as a casualty. |
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
-
-**Evil:** The Balrog; 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow.
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_bridge_of_khazad-dum.jpg)
 
 ---
 
 ## LOTHLÓRIEN
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Haldir with Elf bow; 6 Wood Elf Warriors with Elf bow.
+
+**Evil:** 2 Moria Goblin Captains; Wild Warg Chieftain; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 18 Wild Wargs.
 
 **LAYOUT**
 
@@ -608,17 +614,19 @@ Good models may not use Heroic March in this Scenario.
 
 At the end of each Evil Move phase, D6 Warg models may enter the board via the rules for Reinforcements, from a board edge chosen by the player with Priority. A different board edge may be chosen for each Warg.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Haldir with Elf bow; 6 Wood Elf Warriors with Elf bow.
-
-**Evil:** 2 Moria Goblin Captains; Wild Warg Chieftain; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 18 Wild Wargs.
-
 ![](../media/scenarios/quest_of_the_ringbearer/lothlorien.jpg)
 
 ---
 
 ## ARAGORN'S STAND
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
+
+All Good models have an Elven Cloak.
+
+**Evil:** Lurtz; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
 
 **LAYOUT**
 
@@ -644,19 +652,19 @@ At the end of each Good Move phase, the Good player rolls a D6 and adds the turn
 
 At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai model not currently on the board. On a 4+, that model may move onto the board from a board edge chosen by the player with Priority via the rules for Reinforcements. Previously slain Warrior models may also return to the board in this manner.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
-
-All Good models have an Elven Cloak.
-
-**Evil:** Lurtz; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
-
 ![](../media/scenarios/quest_of_the_ringbearer/aragorns_stand.jpg)
 
 ---
 
 ## BOROMIR'S REDEMPTION
+
+**PARTICIPANTS**
+
+**Good:** Boromir of Gondor; Meriadoc Brandybuck; Peregrin Took.
+
+All Good models have an Elven Cloak.
+
+**Evil:** Uruk-hai Scout Captain with two-handed weapon; 18 Uruk-hai Scouts: 6 with shield, 6 with Uruk-hai bow, 6 with no additional wargear.
 
 **LAYOUT**
 
@@ -682,19 +690,19 @@ From the 11th turn onwards, if the roll for Priority is ever a draw, then the ga
 
 Evil models may not target a Hobbit with shooting attacks. Additionally, any Hobbit that loses its final Wound is not slain but knocked unconscious; they count as being under the effects of the *Paralyse* Magical Power. Uruk-hai models treat Hobbit models as Light Objects.
 
-**PARTICIPANTS**
-
-**Good:** Boromir of Gondor; Meriadoc Brandybuck; Peregrin Took.
-
-All Good models have an Elven Cloak.
-
-**Evil:** Uruk-hai Scout Captain with two-handed weapon; 18 Uruk-hai Scouts: 6 with shield, 6 with Uruk-hai bow, 6 with no additional wargear.
-
 ![](../media/scenarios/quest_of_the_ringbearer/boromirs_redemption.jpg)
 
 ---
 
 ## BREAKING OF THE FELLOWSHIP
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+
+All Good models have an Elven Cloak.
+
+**Evil:** Lurtz with shield; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
 
 **LAYOUT**
 
@@ -720,19 +728,19 @@ Boromir starts the game with 3 Might points and only a single Wound. Additionall
 
 Once per game, Lurtz can choose to use his shield as a throwing weapon. This has a Strength of 4, and any Man-sized (or smaller) model hit by the shield is automatically knocked Prone. Once Lurtz has thrown his shield, he no longer carries it and cannot use it for the remainder of the battle.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
-
-All Good models have an Elven Cloak.
-
-**Evil:** Lurtz with shield; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
-
 ![](../media/scenarios/quest_of_the_ringbearer/breaking_of_the_fellowship.jpg)
 
 ---
 
 ## AMBUSH AT AMON HEN
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+
+All Good models have an Elven Cloak.
+
+**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with shield, 8 with Uruk-hai bow.
 
 **LAYOUT**
 
@@ -764,19 +772,17 @@ Should a Hobbit suffer their final Wound, instead of being slain they will recov
 
 At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, eastern, or southern board edges.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
-
-All Good models have an Elven Cloak.
-
-**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with shield, 8 with Uruk-hai bow.
-
 ![](../media/scenarios/quest_of_the_ringbearer/ambush_at_amon_hen.jpg)
 
 ---
 
 ## THE TAMING OF SMÉAGOL
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
+
+**Evil:** Sméagol.
 
 **LAYOUT**
 
@@ -807,17 +813,17 @@ If Gollum suffers his last Wound then he is subdued rather than slain. However, 
 
 Each time Gollum loses a Fight against Frodo, he must make a Courage test. If the test is failed, Gollum surrenders to the Hobbits and is automatically subdued.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
-
-**Evil:** Sméagol.
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_taming_of_smeagol.jpg)
 
 ---
 
 ## THE DEAD MARSHES
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol.
+
+**Evil:** Ringwraith on Fell Beast with 0 Might, 10 Will, and 0 Fate; 6 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -847,17 +853,17 @@ If a Good model is moved into any of the marshland as a result of a Spectre's 'A
 
 If Frodo puts the Ring on, then the Ringwraith will no longer be a Sentry and will act as normal.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol.
-
-**Evil:** Ringwraith on Fell Beast with 0 Might, 10 Will, and 0 Fate; 6 Dead Marsh Spectres.
-
 ![](../media/scenarios/quest_of_the_ringbearer/the_dead_marshes.jpg)
 
 ---
 
 ## AMBUSH AT ITHILIEN
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with spear.
+
+**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
 
 **LAYOUT**
 
@@ -879,17 +885,17 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the *Stalk Unseen* special rule and may re-roll any 1s To Wound when making a shooting attack.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with spear.
-
-**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
-
 ![](../media/scenarios/quest_of_the_ringbearer/ambush_at_ithilien.jpg)
 
 ---
 
 ## OSGILIATH
+
+**PARTICIPANTS**
+
+**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; 13 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow, 1 with banner; 12 Rangers of Gondor: 4 with spear, 8 with no additional wargear; 6 Osgiliath Veterans: 2 with shield, 2 with spear, 2 with bow.
+
+**Evil:** 3 Orc Captains with shield; 1 Ringwraith on Fell Beast with 2 Might, 10 Will, and 2 Fate; 37 Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon, 1 with banner.
 
 **LAYOUT**
 
@@ -923,17 +929,17 @@ Each time a Warrior model is removed as a casualty, roll a D6. On a 1-3, that mo
 
 Sméagol is under the control of the Good player; however, Good models may not benefit from any Heroic Action that Sméagol declares.
 
-**PARTICIPANTS**
-
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; 13 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow, 1 with banner; 12 Rangers of Gondor: 4 with spear, 8 with no additional wargear; 6 Osgiliath Veterans: 2 with shield, 2 with spear, 2 with bow.
-
-**Evil:** 3 Orc Captains with shield; 1 Ringwraith on Fell Beast with 2 Might, 10 Will, and 2 Fate; 37 Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon, 1 with banner.
-
 ![](../media/scenarios/quest_of_the_ringbearer/osgiliath.jpg)
 
 ---
 
 ## SMÉAGOL'S TREACHERY
+
+**PARTICIPANTS**
+
+**Good:** Samwise Gamgee.
+
+**Evil:** Gollum.
 
 **SET-UP**
 
@@ -977,17 +983,17 @@ It is important to remember that since the cards each player is moving along bel
 
 Additionally, you will often know what is on your opponent's side of the Path, and they will know what is on your side. This can lead to a very interesting game where both players try to figure out the best possible cards to play each turn.
 
-**PARTICIPANTS**
-
-**Good:** Samwise Gamgee.
-
-**Evil:** Gollum.
-
 ![](../media/scenarios/quest_of_the_ringbearer/smeagols_treachery.jpg)
 
 ---
 
 ## SHELOB'S LAIR
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
+
+**Evil:** Shelob; Sméagol.
 
 **LAYOUT**
 
@@ -1021,17 +1027,17 @@ Shelob may not spend Will points to pass Courage tests in this Scenario.
 
 Strikes from Sting will automatically Wound Shelob. If Frodo is slain, place a 25mm marker where he fell. If Sam moves into base contact with this marker, he may pick up and wield Sting from that point on.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
-
-**Evil:** Shelob; Sméagol.
-
 ![](../media/scenarios/quest_of_the_ringbearer/shelobs_lair.jpg)
 
 ---
 
 ## CIRITH UNGOL
+
+**PARTICIPANTS**
+
+**Good:** Samwise Gamgee with Elven Cloak and Sting.
+
+**Evil:** Shagrat, Captain of Cirith Ungol; 15 Mordor Uruk-hai; Gorbag, Orc Captain; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
 
 **LAYOUT**
 
@@ -1075,17 +1081,17 @@ Sam carries Sting in this Scenario and increases his Attacks characteristic to 2
 Any model that starts its Move in base contact with a doorway on the inner wall, or a trapdoor on the base of the tower, may spend their entire Move allowance to move through them.
 If moving from a trapdoor, place the model in base contact with the nearest door. If moving from a door, place the model in base contact with the nearest trapdoor. If Sam begins his move in base contact with the door on the main tower, he may move through it to reach Frodo. It will take Sam until the end of the following turn to climb the tower, at which point he will reach Frodo and the game will end.
 
-**PARTICIPANTS**
-
-**Good:** Samwise Gamgee with Elven Cloak and Sting.
-
-**Evil:** Shagrat, Captain of Cirith Ungol; 15 Mordor Uruk-hai; Gorbag, Orc Captain; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
-
 ![](../media/scenarios/quest_of_the_ringbearer/cirith_ungol.jpg)
 
 ---
 
 ## PLATEAU OF GORGOROTH
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins in Orc armour; Samwise Gamgee in Orc armour.
+
+**Evil:** Orc Captain with shield; Orc Taskmaster; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
 
 **LAYOUT**
 
@@ -1119,17 +1125,17 @@ Until the Hobbits are discovered, the Orcs must move at least 2" towards the nor
 
 During the End phase of each turn, check to see if either of the Hobbits are within 6" of any enemy models. If so, roll a D6. On a 6, the Hobbits have been discovered and are at the mercy of the Orcs. Additionally, the Hobbits will automatically be discovered if they Charge an enemy model or target an enemy model with their Throw Stones special rule.
 
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins in Orc armour; Samwise Gamgee in Orc armour.
-
-**Evil:** Orc Captain with shield; Orc Taskmaster; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
-
 ![](../media/scenarios/quest_of_the_ringbearer/plateau_of_gorgoroth.jpg)
 
 ---
 
 ## THE END OF ALL THINGS
+
+**PARTICIPANTS**
+
+**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc, Knight of the Mark, with shield; Peregrin, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, and 1 with banner; 25 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow, and 1 with banner.
+
+**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear and shield, 12 with no additional wargear, and 2 with banner.
 
 **LAYOUT**
 
@@ -1180,11 +1186,5 @@ Good models may not willingly move more than 12" away from the center of the Bla
 * **Greatest of the Trolls**
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will, and Fate.
-
-**PARTICIPANTS**
-
-**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc, Knight of the Mark, with shield; Peregrin, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, and 1 with banner; 25 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow, and 1 with banner.
-
-**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear and shield, 12 with no additional wargear, and 2 with banner.
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_end_of_all_things.jpg)

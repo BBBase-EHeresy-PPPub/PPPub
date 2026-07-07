@@ -1,5 +1,11 @@
 ## BURNING OF THE WESTFOLD
 
+**PARTICIPANTS**
+
+**Good:** 2 Captains of Rohan with shield; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
+
+**Evil:** Gorûlf Ironskin; Frida Tallspear; The Wild Man Oathmaker; 12 Wild Men of Dunland; 6 Dunlending Warriors with shield; 6 Dunlending Warriors with bow; 6 Dunlending Huscarls.
+
 **LAYOUT**
 
 The board represents one of the many villages that make up the Westfold of Rohan and, as such, should have a selection of houses, fences, and hedges dotted around the board. There should be a total of seven Rohan houses on the board, one in the center and three in each of the eastern and western board halves.
@@ -32,17 +38,17 @@ Any Good model that ends its move in base contact with a Rohan house that is on 
 
 At the end of the Evil player's first Move phase, they may roll a D6 for each Dunlending model not yet in play. On a 3+, that model may enter play from any point on any board edge via the rules for Reinforcements. On a 1-2, that model may roll again on the following turn, adding 1 to the result.
 
-**PARTICIPANTS**
-
-**Good:** 2 Captains of Rohan with shield; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
-
-**Evil:** Gorûlf Ironskin; Frida Tallspear; The Wild Man Oathmaker; 12 Wild Men of Dunland; 6 Dunlending Warriors with shield; 6 Dunlending Warriors with bow; 6 Dunlending Huscarls.
-
 ![](../media/scenarios/war_in_rohan/burning_of_the_westfold.jpg)
 
 ---
 
 ## FIRST BATTLE OF THE FORDS OF ISEN
+
+**PARTICIPANTS**
+
+**Good:** Théodred, Heir of Rohan with horse and shield; Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
+
+**Evil:** Vraskû; Thrydan Wolfsbane; 24 Uruk-hai Scouts: 8 with Uruk-hai bow, 8 with shield, 8 with no additional equipment; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears.
 
 **LAYOUT**
 
@@ -70,17 +76,17 @@ Evil models must re-roll failed To Wound rolls against Théodred in the Fight ph
 
 During the End phase of each turn, the Good player must roll a D6 and add the turn number to the result. If the result is 8 or more, Elfhelm and the remaining Good models will arrive at the end of the Good player's next Move phase from the eastern board edge via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** Théodred, Heir of Rohan with horse and shield; Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
-
-**Evil:** Vraskû; Thrydan Wolfsbane; 24 Uruk-hai Scouts: 8 with Uruk-hai bow, 8 with shield, 8 with no additional equipment; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears.
-
 ![](../media/scenarios/war_in_rohan/first_battle_of_the_fords_of_isen.jpg)
 
 ---
 
 ## SECOND BATTLE OF THE FORDS OF ISEN
+
+**PARTICIPANTS**
+
+**Good:** Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
+
+**Evil:** Uruk-hai Captain with shield; Thrydan Wolfsbane with horse; Gorûlf Ironskin; 24 Uruk-hai Warriors: 10 with pike, 10 with shield, 4 with crossbow; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears; 6 Dunlending Horsemen.
 
 **LAYOUT**
 
@@ -106,17 +112,17 @@ The river is counted as deep water for all purposes.
 
 Rohan models re-roll 1s To Wound in the Fight phase whilst they are on the ford.
 
-**PARTICIPANTS**
-
-**Good:** Elfhelm, Captain of Rohan with horse; Grimbold of Grimslade; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow (half of the Warriors of Rohan may be upgraded to be Helmingas); 3 Rohan Outriders on horse.
-
-**Evil:** Uruk-hai Captain with shield; Thrydan Wolfsbane with horse; Gorûlf Ironskin; 24 Uruk-hai Warriors: 10 with pike, 10 with shield, 4 with crossbow; 9 Dunlending Warriors: 3 with shield, 3 with two-handed axe, 3 with bow; 6 Warg Riders: 2 with shield, 2 with Orc bow, 2 with throwing spears; 6 Dunlending Horsemen.
-
 ![](../media/scenarios/war_in_rohan/second_battle_of_the_fords_of_isen.jpg)
 
 ---
 
 ## AMBUSH AT NIGHT
+
+**PARTICIPANTS**
+
+**Good:** Éomer, Marshall of the Riddermark with horse; Meriadoc Brandybuck; Peregrin Took; Captain of Rohan with horse and shield; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 3 Rohan Outriders on horse.
+
+**Evil:** Uglúk; Mauhúr; Grishnákh, Orc Captain; Snaga, Orc Captain; 12 Uruk-hai Scouts: 4 with Uruk-hai bow, 4 with shield, 4 with no additional wargear; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon.
 
 **LAYOUT**
 
@@ -149,12 +155,6 @@ At the end of each of Merry's and Pippin's move, they roll a D6 for each Hobbit.
 * **Grishnákh**
 
 Grishnákh follows the same rules for movement as the Hobbits, except that he moves 3" when crawling and cannot cut his bonds, as he is not bound. Grishnákh is the only model that may charge the Hobbits, and will Fight them in the Fight phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are Prone, ignoring any rules for fighting whilst Prone. Additionally, as he is wounded, Grishnákh starts the game with only a single point of Might and only has 1 Attack.
-
-**PARTICIPANTS**
-
-**Good:** Éomer, Marshall of the Riddermark with horse; Meriadoc Brandybuck; Peregrin Took; Captain of Rohan with horse and shield; 12 Riders of Rohan: 4 with throwing spears, 8 with no additional equipment; 3 Rohan Outriders on horse.
-
-**Evil:** Uglúk; Mauhúr; Grishnákh, Orc Captain; Snaga, Orc Captain; 12 Uruk-hai Scouts: 4 with Uruk-hai bow, 4 with shield, 4 with no additional wargear; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon.
 
 ![](../media/scenarios/war_in_rohan/ambush_at_night.jpg)
 
@@ -253,6 +253,12 @@ The contents of the discard pile are common knowledge; you will need to use all 
 
 ## WARG ATTACK
 
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan with horse; Aragorn - Strider with horse; Legolas Greenleaf with horse; Gimli, son of Glóin; Gamling, Captain of Rohan with horse; Háma, Captain of Rohan; 6 Riders of Rohan: 2 with shield, 2 with throwing spear, 2 with no additional equipment.
+
+**Evil:** Sharku with Warg; Orc Captain on Warg; 18 Warg Riders: 6 with shield, 6 with Orc bow, 6 with throwing spear.
+
 **LAYOUT**
 
 The board represents the hills and plains the Rohirrim travel across on their way to Helm's Deep and, as such, should have a few hills, rocky outcrops, and hedges dotted around.
@@ -283,17 +289,17 @@ At the end of each player's Move phase, they roll a D6 for each model not curren
 
 Gimli starts the game as a passenger on Legolas' horse.
 
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan with horse; Aragorn - Strider with horse; Legolas Greenleaf with horse; Gimli, son of Glóin; Gamling, Captain of Rohan with horse; Háma, Captain of Rohan; 6 Riders of Rohan: 2 with shield, 2 with throwing spear, 2 with no additional equipment.
-
-**Evil:** Sharku with Warg; Orc Captain on Warg; 18 Warg Riders: 6 with shield, 6 with Orc bow, 6 with throwing spear.
-
 ![](../media/scenarios/war_in_rohan/warg_attack.jpg)
 
 ---
 
 ## RAISE THE LADDERS
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor and Elf bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+
+**Evil:** 4 Uruk-hai Captains with shield; 32 Uruk-hai Warriors: 10 with shield, 10 with pike, 12 with crossbow; 16 Uruk-hai Berserkers; 5 siege ladders.
 
 **LAYOUT**
 
@@ -325,17 +331,17 @@ When a Siege Ladder is raised, a single Uruk-hai Berserker within 1" of the ladd
 
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor and Elf bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
-
-**Evil:** 4 Uruk-hai Captains with shield; 32 Uruk-hai Warriors: 10 with shield, 10 with pike, 12 with crossbow; 16 Uruk-hai Berserkers; 5 siege ladders.
-
 ![](../media/scenarios/war_in_rohan/raise_the_ladders.jpg)
 
 ---
 
 ## THE WALLS OF HELM'S DEEP
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor & Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+
+**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 16 Uruk-hai Berserkers.
 
 **LAYOUT**
 
@@ -361,17 +367,17 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 The eastern edge of the Deeping Wall is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Aldor; Haleth, son of Háma; Haldir with heavy armor & Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
-
-**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 16 Uruk-hai Berserkers.
-
 ![](../media/scenarios/war_in_rohan/the_walls_of_helm's_deep.jpg)
 
 ---
 
 ## PLANT THE CHARGES
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+
+**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers; 3 Uruk-hai Demolition Teams.
 
 **LAYOUT**
 
@@ -397,17 +403,17 @@ Each time an Uruk-hai Warrior is slain (with the exception of the Uruk-hai Berse
 
 Evil models add 1 to the result when rolling on the Detonation table.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
-
-**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers; 3 Uruk-hai Demolition Teams.
-
 ![](../media/scenarios/war_in_rohan/plant_the_charges.jpg)
 
 ---
 
 ## THE DEEPING WALL IS BREACHED
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** 3 Uruk-hai Captains with heavy armor and shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
 **LAYOUT**
 
@@ -447,17 +453,17 @@ All Good Hero models start the game with 0 Fate.
 
 Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
-
-**Evil:** 3 Uruk-hai Captains with heavy armor and shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
-
 ![](../media/scenarios/war_in_rohan/the_deeping_wall_is_breached.jpg)
 
 ---
 
 ## RETREAT TO THE HORNBURG
+
+**PARTICIPANTS**
+
+**Good:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
+
+**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers.
 
 **LAYOUT**
 
@@ -483,17 +489,17 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 Evil models may re-roll failed To Wound rolls in the Fight phase.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear, 4 with bow; 12 Galadhrim Warriors: 4 with spear & shield, 4 with Elf bow, 4 with no additional equipment.
-
-**Evil:** 4 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike; 8 Uruk-hai Berserkers.
-
 ![](../media/scenarios/war_in_rohan/retreat_to_the_hornburg.jpg)
 
 ---
 
 ## THE CAUSEWAY
+
+**PARTICIPANTS**
+
+**Good:** Aragorn (Strider) with armor; Gimli, son of Glóin.
+
+**Evil:** 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
 **LAYOUT**
 
@@ -517,17 +523,17 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 The Gate has a Defence of 8 and only a single Wound remaining.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn (Strider) with armor; Gimli, son of Glóin.
-
-**Evil:** 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
-
 ![](../media/scenarios/war_in_rohan/the_causeway.jpg)
 
 ---
 
 ## FALL BACK TO THE KEEP
+
+**PARTICIPANTS**
+
+**Good:** Aragorn (Strider) with armor; Gimli, son of Glóin; Legolas Greenleaf; Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow.
+
+**Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
 
 **LAYOUT**
 
@@ -553,17 +559,17 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 Théoden and Gamling may not escape the board until any one of Aragorn, Legolas, or Gimli has escaped the board first.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn (Strider) with armor; Gimli, son of Glóin; Legolas Greenleaf; Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear, 8 with bow.
-
-**Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
-
 ![](../media/scenarios/war_in_rohan/fall_back_to_the_keep.jpg)
 
 ---
 
 ## RIDE OUT
+
+**PARTICIPANTS**
+
+**Good:** Aragorn (Strider) with armor and horse; Legolas Greenleaf with armor and horse; Théoden, King of Rohan with armored horse, heavy armor, and shield; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; 4 Rohan Royal Guard with horse and throwing spears.
+
+**Evil:** 3 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
 **LAYOUT**
 
@@ -585,17 +591,17 @@ The game lasts until one player's force is wiped out, at which point the other p
 
 Friendly Cavalry models gain a bonus of +1 Strength on a turn in which they charged.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn (Strider) with armor and horse; Legolas Greenleaf with armor and horse; Théoden, King of Rohan with armored horse, heavy armor, and shield; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; 4 Rohan Royal Guard with horse and throwing spears.
-
-**Evil:** 3 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
-
 ![](../media/scenarios/war_in_rohan/ride_out.jpg)
 
 ---
 
 ## ÉOMER'S RETURN
+
+**PARTICIPANTS**
+
+**Good:** Éomer, Marshall of the Riddermark on horse; Erkenbrand, Captain of Rohan on horse; Gandalf the White on Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
+
+**Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
 
 **LAYOUT**
 
@@ -621,17 +627,25 @@ Friendly Rohan Cavalry models within 12" of Éomer gain +1 Strength on a turn in
 
 Once per battle, so long as Gandalf is alive and in your force, you can declare you are using this ability at the start of any friendly Move phase. Until the end of the turn, enemy models that are Engaged with, or supporting a model Engaged with, any friendly Cavalry models that made a Charge that turn, suffer a penalty of -1 to their Duel rolls.
 
-**PARTICIPANTS**
-
-**Good:** Éomer, Marshall of the Riddermark on horse; Erkenbrand, Captain of Rohan on horse; Gandalf the White on Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
-
-**Evil:** 3 Uruk-hai Captains with shield; 30 Uruk-hai Warriors: 15 with shield, 15 with pike.
-
 ![](../media/scenarios/war_in_rohan/eomer's_return.jpg)
 
 ---
 
 ## THE BATTLE OF HELM'S DEEP
+
+**PARTICIPANTS**
+
+**GOOD**
+
+**Defenders of the Hornburg:** Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears and shield, 8 with bow, 1 with banner.
+
+**Defenders of the Deeping Wall:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; Haleth, son of Háma; Aldor; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears & shield, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+
+**Relief Force:** Éomer, Marshall of the Riddermark with horse; Erkenbrand, Captain of Rohan with horse; Gandalf the White with Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
+
+**EVIL**
+
+**Legions of Isengard:** 5 Uruk-hai Captains with shield; Uruk-hai Siege Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers.
 
 **LAYOUT**
 
@@ -677,25 +691,17 @@ Siege Ladders are Heavy Objects that require four or more models to move them at
 
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
 
-**PARTICIPANTS**
-
-**GOOD**
-
-**Defenders of the Hornburg:** Théoden, King of Rohan with heavy armor and shield; Gamling, Captain of Rohan; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears and shield, 8 with bow, 1 with banner.
-
-**Defenders of the Deeping Wall:** Aragorn (Strider) with armor; Legolas Greenleaf with armor; Gimli, son of Glóin; Haldir with heavy armor and Elf bow; Haleth, son of Háma; Aldor; 25 Warriors of Rohan: 8 with shield, 8 with throwing spears & shield, 8 with bow, 1 with banner; 25 Galadhrim Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
-
-**Relief Force:** Éomer, Marshall of the Riddermark with horse; Erkenbrand, Captain of Rohan with horse; Gandalf the White with Shadowfax; 24 Riders of Rohan: 8 with throwing spears, 16 with no additional equipment.
-
-**EVIL**
-
-**Legions of Isengard:** 5 Uruk-hai Captains with shield; Uruk-hai Siege Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 Uruk-hai Berserkers.
-
 ![](../media/scenarios/war_in_rohan/the_battle_of_helm's_deep.jpg)
 
 ---
 
 ## THE DEFENCE OF EDORAS
+
+**PARTICIPANTS**
+
+**Good:** Elfhelm, Captain of Rohan; 2 Captains of Rohan with shield; 37 Warriors of Rohan: 12 with shield, 12 with throwing spear & shield, 12 with bow, 1 with banner.
+
+**Evil:** Gorûlf Ironskin; Frída Tallspear; The Wild Man Oathmaker; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 12 Warg Riders: 4 with shield, 4 with throwing spear, 4 with bow.
 
 **LAYOUT**
 
@@ -719,17 +725,17 @@ Good models may re-roll To Wound rolls of a 1 against any Evil models that are f
 
 The Evil player may have up to four ladders in their army, which they can use to climb the walls of Edoras.
 
-**PARTICIPANTS**
-
-**Good:** Elfhelm, Captain of Rohan; 2 Captains of Rohan with shield; 37 Warriors of Rohan: 12 with shield, 12 with throwing spear & shield, 12 with bow, 1 with banner.
-
-**Evil:** Gorûlf Ironskin; Frída Tallspear; The Wild Man Oathmaker; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 12 Warg Riders: 4 with shield, 4 with throwing spear, 4 with bow.
-
 ![](../media/scenarios/war_in_rohan/the_defence_of_edoras.jpg)
 
 ---
 
 ## LAST MARCH OF THE ENTS
+
+**PARTICIPANTS**
+
+**Good:** Treebeard with Merry & Pippin; Quickbeam; Beechbone; 3 Ents.
+
+**Evil:** 4 Orc Captains with shield; 48 Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
 
 **LAYOUT**
 
@@ -759,17 +765,17 @@ If an Ent loses a Fight, all Orc models involved in the Fight may choose to try 
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 
-**PARTICIPANTS**
-
-**Good:** Treebeard with Merry & Pippin; Quickbeam; Beechbone; 3 Ents.
-
-**Evil:** 4 Orc Captains with shield; 48 Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
-
 ![](../media/scenarios/war_in_rohan/last_march_of_the_ents.jpg)
 
 ---
 
 ## THE URUK-HAI RETREAT
+
+**PARTICIPANTS**
+
+**Good:** 3 Ents.
+
+**Evil:** 2 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
 
 **LAYOUT**
 
@@ -789,17 +795,19 @@ With the Battle of Helm's Deep lost, the Uruk-hai are trying to flee back to Ise
 
 During the End phase of each turn, each Uruk-hai model within 2" of a tree suffers a Strength 4 hit. As there are a lot of trees in this scenario, this will be happening quite a lot!
 
-**PARTICIPANTS**
-
-**Good:** 3 Ents.
-
-**Evil:** 2 Uruk-hai Captains with shield; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
-
 ![](../media/scenarios/war_in_rohan/the_uruk-hai_retreat.jpg)
 
 ---
 
 ## PATHS OF THE DRÚADAN
+
+**PARTICIPANTS**
+
+**Good:** Théoden, King of Rohan; Éomer, Marshal of the Riddermark; Éowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with throwing spears); Ghân-buri-Ghân; 9 Woses.
+
+All Rohan models must be mounted and may have armor and shields if they are able to.
+
+**Evil:** 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -825,19 +833,17 @@ All Good models gain the Fleetfoot and Woodland Creature special rules whilst th
 
 Evil models may not move at all on the first turn of the game.
 
-**PARTICIPANTS**
-
-**Good:** Théoden, King of Rohan; Éomer, Marshal of the Riddermark; Éowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with throwing spears); Ghân-buri-Ghân; 9 Woses.
-
-All Rohan models must be mounted and may have armor and shields if they are able to.
-
-**Evil:** 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
-
 ![](../media/scenarios/war_in_rohan/paths_of_the_druadan.jpg)
 
 ---
 
 ## APPENDIX - FIELD OF CELEBRANT
+
+**PARTICIPANTS**
+
+**Good:** Eorl the Young; King of Men with heavy armour, shield and horse (representing Cirion); 12 Riders of Rohan: 4 with throwing spear, 8 with no additional equipment; 6 Sons of Eorl; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 6 Knights of Minas Tirith with shield.
+
+**Evil:** Khandish King on Chariot; Khandish Chieftain on Chariot; 3 Khandish Charioteers; 12 Khandish Horsemen; 18 Khandish Warriors: 6 with bow, 12 with hand-and-a-half axe.
 
 **LAYOUT**
 
@@ -861,17 +867,17 @@ The area of the Anduin that is the ford is treated as Shallow Water. The rest of
 
 At the end of the Good player's fourth Move phase, the Rohan models may move onto the board from the northern board edge via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** Eorl the Young; King of Men with heavy armour, shield and horse (representing Cirion); 12 Riders of Rohan: 4 with throwing spear, 8 with no additional equipment; 6 Sons of Eorl; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 6 Knights of Minas Tirith with shield.
-
-**Evil:** Khandish King on Chariot; Khandish Chieftain on Chariot; 3 Khandish Charioteers; 12 Khandish Horsemen; 18 Khandish Warriors: 6 with bow, 12 with hand-and-a-half axe.
-
 ![](../media/scenarios/war_in_rohan/field_of_celebrant.jpg)
 
 ---
 
 ## APPENDIX - ASSAULT ON EDORAS
+
+**PARTICIPANTS**
+
+**Good:** 3 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Horsemen.
 
 **LAYOUT**
 
@@ -901,17 +907,17 @@ Once per game, at the start of any Fight phase, one Dunlending Chieftain can dec
 
 To capture the Golden Hall, the Evil player must have five Dunlending models, including at least one Hero model, move into the Golden Hall via the doors. Models that move into the Golden Hall do not count as slain but cannot move out again once they are inside.
 
-**PARTICIPANTS**
-
-**Good:** 3 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
-
-**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Horsemen.
-
 ![](../media/scenarios/war_in_rohan/assault_on_edoras.jpg)
 
 ---
 
 ## APPENDIX - BIRTH OF HELM'S DEEP
+
+**PARTICIPANTS**
+
+**Good:** Helm Hammerhand on horse; 2 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear and horse; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+
+**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Huscarls; 6 Dunlending Horsemen.
 
 **LAYOUT**
 
@@ -940,11 +946,5 @@ Once per game, at the start of any Fight phase, one Dunlending Chieftain can dec
 * **The King of Rohan**
 
 Helm Hammerhand may declare a Heroic Combat each turn without spending Might.
-
-**PARTICIPANTS**
-
-**Good:** Helm Hammerhand on horse; 2 Captains of Rohan with shield; 12 Rohan Royal Guard with throwing spear and horse; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
-
-**Evil:** 3 Dunlending Chieftains; 12 Dunlending Warriors: 4 with shield, 4 with two-handed axe, 4 with bow; 12 Wild Men of Dunland; 6 Dunlending Huscarls; 6 Dunlending Horsemen.
 
 ![](../media/scenarios/war_in_rohan/birth_of_helms_deep.jpg)

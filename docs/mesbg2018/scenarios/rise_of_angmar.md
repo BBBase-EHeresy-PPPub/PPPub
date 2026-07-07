@@ -1,5 +1,11 @@
 ## THE FOUNDING OF ANGMAR
 
+**PARTICIPANTS**
+
+**Good:** 3 Captains of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor.
+
+**Evil:** The Witch-king on horse with Morgul Blade, 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
+
 **LAYOUT**
 
 The board represents an Arnor stronghold in the northern reaches of Rhudaur. The board should have plenty of buildings on it, as well as the odd tree and bush dotted around. The largest building should be placed in the center of the board.
@@ -30,17 +36,17 @@ Good models may not willingly move further than 12" away from the center of the 
 
 Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** 3 Captains of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor.
-
-**Evil:** The Witch-king on horse with Morgul Blade, 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
-
 ![](../media/scenarios/rise_of_angmar/the_founding_of_angmar.jpg)
 
 ---
 
 ## ASSAULT ON RIVENDELL
+
+**PARTICIPANTS**
+
+**Good:** Elrond, Master of Rivendell with heavy armour; Erestor; 25 High Elf Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+
+**Evil:** 2 Angmar Orc Captains with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 6 Angmar Warg Riders: 2 with shield, 2 with throwing spears, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -68,17 +74,17 @@ Evil Hero models may declare 1 Heroic March each turn without reducing their own
 
 Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Elrond, Master of Rivendell with heavy armour; Erestor; 25 High Elf Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
-
-**Evil:** 2 Angmar Orc Captains with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 6 Angmar Warg Riders: 2 with shield, 2 with throwing spears, 2 with Orc bow.
-
 ![](../media/scenarios/rise_of_angmar/assault_on_rivendell.jpg)
 
 ---
 
 ## WAR BEGINS
+
+**PARTICIPANTS**
+
+**Good:** Argeleb (King of Men with heavy armour and shield); Captain of Arnor; 16 Warriors of Arnor; 1 Warrior of Arnor with banner; 8 Rangers of Arnor.
+
+**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
 **LAYOUT**
 
@@ -106,17 +112,17 @@ Carn Dum models gain the Hatred (Arnor) special rule.
 
 Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Argeleb (King of Men with heavy armour and shield); Captain of Arnor; 16 Warriors of Arnor; 1 Warrior of Arnor with banner; 8 Rangers of Arnor.
-
-**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
-
 ![](../media/scenarios/rise_of_angmar/war_begins.jpg)
 
 ---
 
 ## FALL OF RHUDAUR
+
+**PARTICIPANTS**
+
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+
+**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
 **LAYOUT**
 
@@ -140,17 +146,17 @@ Evil models cause Terror in this Scenario.
 
 Good models gain the Woodland Creature special rule.
 
-**PARTICIPANTS**
-
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
-
-**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
-
 ![](../media/scenarios/rise_of_angmar/fall_of_rhudaur.jpg)
 
 ---
 
 ## DEFENCE OF TYRN GORTHAD
+
+**PARTICIPANTS**
+
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+
+**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -178,17 +184,17 @@ Models that target an enemy model with a shooting attack that is more than 12" a
 
 Rangers of the North have 2 Attacks in this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
-
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Wild Wargs.
-
 ![](../media/scenarios/rise_of_angmar/defence_of_tyrn_gorthad.jpg)
 
 ---
 
 ## FALL OF AMON SUL
+
+**PARTICIPANTS**
+
+**Good:** Arveleg (King of Men with heavy armour and shield); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
 
 **LAYOUT**
 
@@ -222,17 +228,17 @@ Arveleg has the *Resistant to Magic* special rule, and may re-roll failed Fate r
 
 The Witch-king increases his Attacks to 2 for this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Arveleg (King of Men with heavy armour and shield); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
-
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
-
 ![](../media/scenarios/rise_of_angmar/fall_of_amon_sul.jpg)
 
 ---
 
 ## DEFENCE OF FORNOST
+
+**PARTICIPANTS**
+
+**Good:** 2 Captains of Arnor; 16 Warriors of Arnor; 8 Rangers of Arnor.
+
+**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear; 6 siege ladders.
 
 **LAYOUT**
 
@@ -258,17 +264,17 @@ Evil models that are fighting from a ladder do not treat the battlements as a ba
 
 Evil models that are on the walls cause *Terror*.
 
-**PARTICIPANTS**
-
-**Good:** 2 Captains of Arnor; 16 Warriors of Arnor; 8 Rangers of Arnor.
-
-**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear; 6 siege ladders.
-
 ![](../media/scenarios/rise_of_angmar/defence_of_fornost.jpg)
 
 ---
 
 ## MARAUDING OF CARDOLAN
+
+**PARTICIPANTS**
+
+**Good:** Prince of Cardolan (King of Men with heavy armour); 16 Warriors of Arnor.
+
+**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
 **LAYOUT**
 
@@ -294,17 +300,17 @@ The Prince of Cardolan has 3 Attacks rather than 2 and has the Hatred (Angmar) s
 
 Other Good models within 3" of the Prince of Cardolan count as being in range of a banner. If the Prince of Cardolan suffers a Wound, then the range of this special rule is increased to 6".
 
-**PARTICIPANTS**
-
-**Good:** Prince of Cardolan (King of Men with heavy armour); 16 Warriors of Arnor.
-
-**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
-
 ![](../media/scenarios/rise_of_angmar/marauding_of_cardolan.jpg)
 
 ---
 
 ## AN UNLIKELY ALLY
+
+**PARTICIPANTS**
+
+**Good:** Glorfindel, Lord of the West, with Armour of Gondolin; Círdan; High Elf Captain with shield; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+
+**Evil:** 2 Angmar Orc Captains with shield; 2 Captains of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
 
 **LAYOUT**
 
@@ -330,17 +336,17 @@ Evil models gain the Hatred (Elf) special rule.
 
 Whenever an Evil Hero model is slain in combat, place a 25mm marker where they were slain. During the End phase, each Evil model within 3" of a marker must take a Courage test. If they fail, they flee the board and are removed as a casualty; Hero models that pass this Courage test may use Stand Fast!. Remove the marker at the end of the End phase.
 
-**PARTICIPANTS**
-
-**Good:** Glorfindel, Lord of the West, with Armour of Gondolin; Círdan; High Elf Captain with shield; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
-
-**Evil:** 2 Angmar Orc Captains with shield; 2 Captains of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
-
 ![](../media/scenarios/rise_of_angmar/an_unlikely_ally.jpg)
 
 ---
 
 ## THE GREAT PLAGUE
+
+**PARTICIPANTS**
+
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+
+**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 3 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -366,17 +372,17 @@ From turn 2 onwards, at the start of the Move phase, roll a D6 for each model le
 
 Good models gain the Woodland Creature and Mountain Dweller special rules.
 
-**PARTICIPANTS**
-
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
-
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 3 Dead Marsh Spectres.
-
 ![](../media/scenarios/rise_of_angmar/the_great_plague.jpg)
 
 ---
 
 ## RAISING OF THE BARROW-DOWNS
+
+**PARTICIPANTS**
+
+**Good:** Tom Bombadil; 6 Rangers of the North; 6 Dúnedain.
+
+**Evil:** 4 Barrow-wights; 12 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -406,17 +412,17 @@ While within 3" of a Barrow, a Barrow-wight may spend a single point of Will eac
 
 From turn 3 onwards, at the end of each Good move phase, the Good player rolls a D6. On a 5+, Tom Bombadil has heard the plight of the Men of Cardolan and arrives to aid them. Tom may enter the board from any board edge via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** Tom Bombadil; 6 Rangers of the North; 6 Dúnedain.
-
-**Evil:** 4 Barrow-wights; 12 Dead Marsh Spectres.
-
 ![](../media/scenarios/rise_of_angmar/raising_of_the_barrow-downs.jpg)
 
 ---
 
 ## ASSAULT ON FORNOST
+
+**PARTICIPANTS**
+
+**Good:** Arvedui, Last King of Arnor; Argadir, Captain of Arnor; Malbeth the Seer; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional wargear; 6 Knights of Arnor.
+
+**Evil:** Aldrac, Warlord of Carn Dum; Fraecht, Vassal of the Witch-king; Nazthak, Orc Captain; Captain of Carn Dum; 36 Warriors of Carn Dum: 18 with no additional equipment, 18 with spear; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner.
 
 **LAYOUT**
 
@@ -448,17 +454,17 @@ Once per game, after Priority has been determined, the Evil player can use this 
 
 Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 3+ rather than a 5+.
 
-**PARTICIPANTS**
-
-**Good:** Arvedui, Last King of Arnor; Argadir, Captain of Arnor; Malbeth the Seer; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional wargear; 6 Knights of Arnor.
-
-**Evil:** Aldrac, Warlord of Carn Dum; Fraecht, Vassal of the Witch-king; Nazthak, Orc Captain; Captain of Carn Dum; 36 Warriors of Carn Dum: 18 with no additional equipment, 18 with spear; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner.
-
 ![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
 
 ---
 
 ## THE FALL OF ARNOR
+
+**PARTICIPANTS**
+
+**Good:** Arvedui, Last King of Arnor; Malbeth the Seer; Argadir, Captain of Arnor; Aranarth, First Chieftain of the Dúnedain; Captain of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor; 6 Knights of Arnor.
+
+**Evil:** Nazthak, Orc Captain; The Shadow of Rhudaur; Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 5 Werewolves; 2 Hill Trolls.
 
 **LAYOUT**
 
@@ -484,17 +490,17 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 Arvedui has the Fearless special rule.
 
-**PARTICIPANTS**
-
-**Good:** Arvedui, Last King of Arnor; Malbeth the Seer; Argadir, Captain of Arnor; Aranarth, First Chieftain of the Dúnedain; Captain of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor; 6 Knights of Arnor.
-
-**Evil:** Nazthak, Orc Captain; The Shadow of Rhudaur; Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 5 Werewolves; 2 Hill Trolls.
-
 ![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
 
 ---
 
 ## FLIGHT TO THE NORTH
+
+**PARTICIPANTS**
+
+**Good:** Arvedui, Last King of Arnor; Captain of Arnor; 12 Warriors of Arnor; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+
+**Evil:** Gulavhar, the Terror of Arnor; Barrow-wight; 6 Angmar Orc Warriors: 3 with shield, 3 with Orc bow; 4 Werewolves.
 
 **LAYOUT**
 
@@ -520,17 +526,17 @@ At the end of each Evil Move phase, the Evil player rolls a D6 and adds the turn
 
 At the start of the game, Arvedui is in possession of the Palantiri. This is a Light Object that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
 
-**PARTICIPANTS**
-
-**Good:** Arvedui, Last King of Arnor; Captain of Arnor; 12 Warriors of Arnor; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
-
-**Evil:** Gulavhar, the Terror of Arnor; Barrow-wight; 6 Angmar Orc Warriors: 3 with shield, 3 with Orc bow; 4 Werewolves.
-
 ![](../media/scenarios/rise_of_angmar/flight_to_the_north.jpg)
 
 ---
 
 ## AID TO FORNOST
+
+**PARTICIPANTS**
+
+**Good:** 3 Rangers of the North; 12 Hobbit Archers.
+
+**Evil:** Angmar Orc Captain with shield; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -556,17 +562,24 @@ Good models gain the Woodland Creature special rule.
 
 Evil models begin the game as Sentries as described in the main rules manual.
 
-**PARTICIPANTS**
-
-**Good:** 3 Rangers of the North; 12 Hobbit Archers.
-
-**Evil:** Angmar Orc Captain with shield; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
-
 ![](../media/scenarios/rise_of_angmar/aid_to_fornost.jpg)
 
 ---
 
 ## THE BATTLE OF FORNOST
+
+**PARTICIPANTS**
+
+**GOOD**
+
+**Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;
+25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, 1 with banner; 6 Knights of Minas Tirith with shield.
+
+**Rivendell:** Glorfindel, Lord of the West, with Asfaloth and Armour of Gondolin; Círdan; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+
+**Arnor:** Aranarth, First Chieftain of the Dúnedain; 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment; 8 Hobbit Archers.
+
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik; The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow, 2 with banner; 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
 
 **LAYOUT**
 
@@ -596,24 +609,17 @@ The Witch-king of Angmar has 3 Attacks in this scenario. Additionally, while the
 
 If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the board at the end of the game, the best result the Good player can achieve is a draw.
 
-**PARTICIPANTS**
-
-**GOOD**
-
-**Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;
-25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, 1 with banner; 6 Knights of Minas Tirith with shield.
-
-**Rivendell:** Glorfindel, Lord of the West, with Asfaloth and Armour of Gondolin; Círdan; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
-
-**Arnor:** Aranarth, First Chieftain of the Dúnedain; 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment; 8 Hobbit Archers.
-
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik; The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow, 2 with banner; 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
-
 ![](../media/scenarios/rise_of_angmar/the_battle_of_fornost.jpg)
 
 ---
 
 ## FALL OF MINAS ITHIL
+
+**PARTICIPANTS**
+
+**Good:** 3 Captains of Minas Tirith with shield; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear and shield, 12 with bow.
+
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 3 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -639,17 +645,20 @@ The Evil force is considered to be controlling an Objective marker if there are 
 
 Whenever an Evil Warrior model is slain, keep it to one side. At the end of each Evil Move phase, roll a D6 for each model kept aside in this manner. On a 4+, that model may enter the board from the center of the western board edge via the rules for Reinforcements.
 
-**PARTICIPANTS**
-
-**Good:** 3 Captains of Minas Tirith with shield; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear and shield, 12 with bow.
-
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 3 Dead Marsh Spectres.
-
 ![](../media/scenarios/rise_of_angmar/fall_of_minas_ithil.jpg)
 
 ---
 
 ## LAST SIGHTING OF EARNUR
+
+**PARTICIPANTS**
+
+**Good:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
+
+**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;
+24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
+
+***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
 
 **LAYOUT**
 
@@ -683,20 +692,17 @@ If a model, other than Earnur or the Witch-king, causes a Wound to either Earnur
 
 Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch-king does not give up a Will point for being involved in a combat during this Scenario.
 
-**PARTICIPANTS**
-
-**Good:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
-
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;
-24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
-
-***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
-
 ![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg)
 
 ---
 
 ## APPENDIX 1 - AMBUSH IN RHUDAUR
+
+**PARTICIPANTS**
+
+**Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
+
+**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 1 Hill Troll.
 
 **LAYOUT**
 
@@ -722,17 +728,17 @@ After both sides have deployed, but before the first turn of the game, each Good
 
 If the Hill Troll escapes the board, the best result the Good player can achieve is a draw. While the Hill Troll is still on the board, the game cannot end.
 
-**PARTICIPANTS**
-
-**Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
-
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 1 Hill Troll.
-
 ![](../media/scenarios/rise_of_angmar/ambush_in_rhudaur.jpg)
 
 ---
 
 ## APPENDIX 2 - THE TRAP IS SPRUNG
+
+**PARTICIPANTS**
+
+**Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
+
+**Evil:** Buhrdur, Troll Chieftain; Angmar Orc Captain with shield; Wild Warg Chieftain; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -762,17 +768,17 @@ Arathorn may re-roll a single D6 when making a Duel roll.
 
 Once per game, at the start of the Fight phase, the Evil player may declare that Buhrdur has let out a fearsome war cry. If they do, then until the end of the turn, all Evil models receive a bonus of +1 when rolling To Wound.
 
-**PARTICIPANTS**
-
-**Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
-
-**Evil:** Buhrdur, Troll Chieftain; Angmar Orc Captain with shield; Wild Warg Chieftain; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
-
 ![](../media/scenarios/rise_of_angmar/the_trap_is_sprung.jpg)
 
 ---
 
 ## APPENDIX 3 - ARAGORN'S REVENGE
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with bow; Halbarad; Elladan & Elrohir with heavy armour; 9 Rangers of the North; 9 Dunedain.
+
+**Evil:** Buhrdur, Troll Chieftain; 2 Angmar Orc Captains with shield; Wild Warg Chieftain; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -804,17 +810,17 @@ From the third turn onwards, at the end of each Good Move phase, the Good player
 
 Aragorn does not have the Mighty Hero special rule in this scenario.
 
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with bow; Halbarad; Elladan & Elrohir with heavy armour; 9 Rangers of the North; 9 Dunedain.
-
-**Evil:** Buhrdur, Troll Chieftain; 2 Angmar Orc Captains with shield; Wild Warg Chieftain; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
-
 ![](../media/scenarios/rise_of_angmar/aragorns_revenge.jpg)
 
 ---
 
 ## APPENDIX 4 - THE TERROR OF ARNOR
+
+**PARTICIPANTS**
+
+**Good:** Aragorn - Strider with bow; Halbarad; 6 Rangers of the North; 6 Dunedain.
+
+**Evil:** Gulavhar, Terror of Arnor; 6 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -843,11 +849,5 @@ Aragorn does not have the Mighty Hero special rule in this scenario.
 * **Chieftain of the Dunedain**
 
 Aragorn gains the Fearless special rule in this scenario.
-
-**PARTICIPANTS**
-
-**Good:** Aragorn - Strider with bow; Halbarad; 6 Rangers of the North; 6 Dunedain.
-
-**Evil:** Gulavhar, Terror of Arnor; 6 Dead Marsh Spectres.
 
 ![](../media/scenarios/rise_of_angmar/the_terror_of_arnor.jpg)
