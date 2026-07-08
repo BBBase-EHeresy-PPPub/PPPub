@@ -2,7 +2,7 @@
 
 <div class="unitCard" markdown>
 
-- **THE DRAGON EMPEROR**: 200 points
+- **THE DRAGON EMPEROR**: <span style="color: darkmagenta">200 points</span>
 - **RUTABI**: 110 points
 - **BRORGIR**: 80 points
 - **EASTERLING CAPTAIN**: 50 points

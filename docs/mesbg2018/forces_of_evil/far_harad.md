@@ -55,7 +55,7 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

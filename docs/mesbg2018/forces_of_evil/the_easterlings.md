@@ -1,16 +1,16 @@
 ## ARMY COMPOSITION
 
-This army may include: The Dragon Emperor; Amdur; Khamul; Rutabi; Brorgir; Easterling Captain; Easterling War Priest; Easterling Dragon Knight; Dragon Cult Acolyte; Easterling Kataphrakt; Easterling Kataphrakt; Easterling Warrior; Easterling Warrior; Rhunish War Drake.
+This army may include: The Dragon Emperor; Amdur; <span style="color: darkmagenta">Khamul</span>; Rutabi; Brorgir; Easterling Captain; Easterling War Priest; Easterling Dragon Knight; Dragon Cult Acolyte; Easterling Kataphrakt; Easterling Kataphrakt; Easterling Warrior; Easterling Warrior; Rhunish War Drake.
 
 ## ARMY BONUS
 
-**"No quarter was asked..."** - Easterling models receive +1 Courage when their force is Broken. Additionally, once per game, in Scenarios in which a die is rolled to see when the game ends, so long as there is at least one Easterling Hero model alive and on the battlefield, the Easterling player may choose to have the dice re-rolled if the Scenario ends before they wish it to. If there is an Easterling contingent as part of an army that contains an alliance, this Army Bonus is only in effect if 25% or more of the total models in the army have the Easterling keyword.
+**"No quarter was asked..."** - Easterling models receive +1 Courage when their force is Broken. Additionally, once per game, in Scenarios in which a die is rolled to see when the game ends, so long as there is at least one Easterling Hero model alive and on the battlefield, the Easterling player may choose to have the dice re-rolled if the Scenario ends before they wish it to. <span style="color: darkmagenta">If there is an Easterling contingent as part of an army that contains an alliance, this Army Bonus is only in effect if 25% or more of the total models in the army have the Easterling keyword.</span>
 
 ## HEROES OF THE EASTERLINGS
 
 <div class="unitCard" markdown>
 
-### THE DRAGON EMPEROR [200 POINTS]
+### THE DRAGON EMPEROR [<span style="color: darkmagenta">200</span> POINTS]
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -340,7 +340,7 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 
 - **Knights of the Dragon Cult** `PASSIVE`
 
-May only include Black Dragons or Dragon Cult Acolytes in his warband.
+~~May only include Black Dragons or Dragon Cult Acolytes in his warband.~~ <span style="color: darkmagenta">Dragon Knights may only include Easterling models with the Black Dragon upgrade or Dragon Cult Acolytes in their warband.</span>
 
 </div>
 

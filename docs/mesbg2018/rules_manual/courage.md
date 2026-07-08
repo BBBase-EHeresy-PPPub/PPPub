@@ -10,11 +10,11 @@ Then, add the model's Courage value. If the total is equal to 10 or more, then t
 
 The most common circumstances that cause a Courage test to be undertaken are:
 
-* **Broken Force:** When a model's force is reduced to below half of its starting number of models, usually during a Matched Play game ([see page 128]).
+* **Broken Force:** When a model's force is reduced to below half of its starting number of models, usually during a Matched Play game (see [page 128]).
 
-* **Separated Mounts:** If a mount loses its rider, it must immediately take a Courage test ([see page 59]).
+* **Separated Mounts:** If a mount loses its rider, it must immediately take a Courage test (see [page 59]).
 
-* **Terror:** When a model wishes to charge an enemy model that has the Terror special rule ([see page 107]).
+* **Terror:** When a model wishes to charge an enemy model that has the Terror special rule (see [page 107]).
 
 There are other situations that require a model to take a Courage test. When these occur, it will be clearly stated in the relevant special rules.
 
@@ -50,7 +50,7 @@ During the game, you should keep track of how many casualties your force has suf
 
 If the test is passed, the model stays in the fight. Complete its move before proceeding on to the next model. If the test is failed, the model has lost its nerve and is removed as if it had lost its last Wound. Whether this means they have turned tail and fled, surrendered or are simply playing dead, the result is the same.
 
-**Cavalry** models require an adjustment to this in terms as to when the model counts as slain, [see page 63].
+**Cavalry** models require an adjustment to this in terms as to when the model counts as slain, see [page 63].
 
 ***BROKEN FORCE***
 

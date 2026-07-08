@@ -85,12 +85,14 @@ If the score rolled is not high enough, the shot misses its target and causes no
 
 Often, you will find that there are objects (or even other models) obscuring the shots you wish to make. When you are taking a look to see if your model can see its target, keep an eye out for any obstructions such as these. If you pass your Shoot roll, you will need to take an In The Way test for each obstruction.
 
-Taking an In The Way test is simple - roll a D6 and compare the result to the In The Way chart below. If the result equals or beats the number given by the In The Way chart, the shot continues on its way to the target. Should you fail, the shot hits the obstruction instead. If the obstruction in question is another model, the shot may even result in some damage ([see page 40]).
+Taking an In The Way test is simple - roll a D6 and compare the result to the In The Way chart below. If the result equals or beats the number given by the In The Way chart, the shot continues on its way to the target. Should you fail, the shot hits the obstruction instead. If the obstruction in question is another model, the shot may even result in some damage (see [page 40]).
 
 Depending on what is between your model and their target, the roll will be easier or harder. If two or more obstructions stand In The Way of your shot, you will need to take an In The Way test for each of them, starting with the obstruction closest to the shooter.
 
 There are rare situations where a model will be able to draw multiple Lines of Sight to a large model, and it can be difficult to know which path the shot will take. Normally, common sense will prevail and it will be obvious which route the shot takes. However, there may be situations where there is some dispute. In these situations, the shooting model's controlling player should roll a D6 before rolling To Hit. On a 1-3, their opponent chooses the path that the shot takes. On a 4+, the shooting model's controlling player may choose. If their opponent is allowed to choose, the controlling player may elect to target a different model instead should the shot no longer be preferable. Note that if there are models In The Way, then a path must be selected that goes through at least one model. Good
 models still cannot shoot at enemy models that are obscured by friendly models.
+
+<span style="color: darkmagenta">When a model makes a shooting attack that targets a War Beast or a Monster with the Fly special rule, when they are determining models that are In The Way, they ignore models (both friendly and enemy) that do not have any of the following keywords: Monster, Siege Engine, War Beast. If the target model is Engaged in a fight, then the In The Way test for being in combat is still applied.</span>
 
 ### IN THE WAY CHART
 

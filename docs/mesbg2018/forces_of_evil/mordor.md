@@ -20,7 +20,7 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 **WARGEAR**
 
 - [Heavy Armour]
-- [Sword]
+- ~~[Sword]~~ <span style="color: darkmagenta">[Mace] or [Sword]</span>
 
 **HEROIC ACTIONS**
 
@@ -1352,7 +1352,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **OPTIONS**
 
-- Swap [Shield] for [Banner] - 25 points
+- <span style="color: darkmagenta">Swap [Shield] for [Banner] - 25 points</span>
 - Swap Weapon - 1 point
 
 </div>
@@ -1733,7 +1733,7 @@ Always fires using Volley Fire, with range 12" - 96".
 
 - **Area Effect**
 
-If a Battlefield target is hit, all models within 2" also suffer one Strength 5 hit and are knocked prone.
+~~If a Battlefield target is hit, all models within 2" also suffer one Strength 5 hit and are knocked prone.~~ <span style="color: darkmagenta">If a Catapult scores a hit against a Battlefield target, all models within 2" of the target suffer one Strength 5 hit and are knocked Prone (this additional hit does not kill a target outright).</span>
 
 - **Wall-breaker**
 

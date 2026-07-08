@@ -744,6 +744,8 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 **SPECIAL RULES**
 
+- <span style="color: darkmagenta">[Cave Dweller]</span>
+
 - **Lethal Union** `PASSIVE`
 
 Whilst Goblins remain mounted, entire model gains [Terror], and +1 Courage. In combat, the model makes +1 Attack for each Goblin still mounted after the first, as long as they didn't shoot.

@@ -49,7 +49,7 @@ Frodo Baggins *is trying to keep up with the rest of The Fellowship. A ruler is 
 
 Although all of the models are immobile, we imagine that they are, in fact, quite dynamic, ready to fight in the swirling maelstrom of battle. To represent this, every model has a Control Zone - a 1" imaginary ring that extends out from the edge of the model's base. No model may enter the Control Zone of an enemy unless they are charging the model in question (we will cover the rules for charging in a moment).
 
-There may be occasions when a model is forced into an enemy model's Control Zone due to some other rule, such as being forced to Back Away after losing a Fight ([see page 44]) or failing a Jump test or Climb test. In these instances, it is acceptable to move the model into the Control Zone, making sure that a small distance still separates the models' bases. Note that a model cannot choose to enter an enemy's Control Zone without charging - it can only happen when another rule forces it to.
+There may be occasions when a model is forced into an enemy model's Control Zone due to some other rule, such as being forced to Back Away after losing a Fight (see [page 44]) or failing a Jump test or Climb test. In these instances, it is acceptable to move the model into the Control Zone, making sure that a small distance still separates the models' bases. Note that a model cannot choose to enter an enemy's Control Zone without charging - it can only happen when another rule forces it to.
 
 Control Zones can be a very useful tool, allowing you to keep your enemies out of a certain area of the battlefield. This can be particularly handy for protecting an objective, or an individual, from attack.
 
@@ -97,11 +97,11 @@ There are times when a model who is especially skilled in combat (or desperate) 
 
 Charging multiple enemies is very straightforward. As long as your model has a high enough Move characteristic to reach all of its intended targets, and its base is large enough to touch multiple models, move its base into contact with its enemies.
 
-Remember that a model ignores subsequent Control Zones after the first one it enters, so it is free to enter the Control Zones of a second, or even third model, etc., to fight in a Multiple Combat ([see page 47)].
+Remember that a model ignores subsequent Control Zones after the first one it enters, so it is free to enter the Control Zones of a second, or even third model, etc., to fight in a Multiple Combat (see [page 47]).
 
 ### DEFENDED POSITIONS
 
-Sometimes, a model will wish to Charge a model that is on the other side of a wall, hedge or other barrier. The rules for this are more fully detailed in the Fight phase section ([see page 48]).
+Sometimes, a model will wish to Charge a model that is on the other side of a wall, hedge or other barrier. The rules for this are more fully detailed in the Fight phase section (see [page 48]).
 
 ***CHARGING 1***
 
@@ -133,9 +133,9 @@ Aragorn *charges the nearest Uruk-hai - entering its Control Zone first. As soon
 
 ## PAIRING OFF FIGHTS
 
-At the end of the Move phase, it is important to work out which models are Engaged in combat with one another, for the sake of clarity. Any models that are Engaged in combat with an enemy need to be paired off into Fights, which are more fully detailed in the Fight Phase section ([see page 42]).
+At the end of the Move phase, it is important to work out which models are Engaged in combat with one another, for the sake of clarity. Any models that are Engaged in combat with an enemy need to be paired off into Fights, which are more fully detailed in the Fight Phase section (see [page 42]).
 
-You may have situations where two, or maybe more, enemies face a single model. This is called a Multiple Combat. At the end of the Move phase, opponents are always paired off into one-on-one Fights where possible.
+You may have situations where two, or maybe more, enemies face a single model. This is called a Multiple Combat. ~~At the end of the Move phase, opponents are always paired off into one-on-one Fights where possible.~~
 
 First, all models in base contact with an enemy must fight, so make sure all models Engaged in combat are still in a Fight when you are done.
 
@@ -187,13 +187,13 @@ The term Obstacle describes linear objects on the battlefield that impede moveme
 
 Any model can automatically cross an Obstacle that is less than half its height, without penalty - simply move the model over the Obstacle, imagining that it is stepping over it. This means that a Man will be able to stride effortlessly over an Obstacle that a Hobbit or Dwarf might struggle - with while this may seem unfair, it is true that little folk would find some obstacles to be much more difficult than big folk might.
 
-A model can attempt to cross an Obstacle that is greater than half its height, but must take a Jump test or Climb test to do so ([see pages 28 and 30] respectively). Usually, you can tell whether a model can cross an Obstacle without a test just by looking at it. In those rare situations where you must know exactly, measure the model from the top of its head to the bottom of its feet. Be sure to work out the model's 'true height', not the height of it in a strange pose (crouching low or perched on something, for example), and be sure to agree with your opponent. Once you have determined the height of the model, compare it to the height of the Obstacle to see if a test is needed.
+A model can attempt to cross an Obstacle that is greater than half its height, but must take a Jump test or Climb test to do so (see [pages 28 and 30] respectively). Usually, you can tell whether a model can cross an Obstacle without a test just by looking at it. In those rare situations where you must know exactly, measure the model from the top of its head to the bottom of its feet. Be sure to work out the model's 'true height', not the height of it in a strange pose (crouching low or perched on something, for example), and be sure to agree with your opponent. Once you have determined the height of the model, compare it to the height of the Obstacle to see if a test is needed.
 
 ## JUMPING
 
 From fallen trees to low walls, there are many items that impede movement on the battlefield. Jumping represents vaulting (or, in the case of Hobbits, a type of mad scrambling) to get across an Obstacle. Any attempt to do this is resolved with a Jump test.
 
-A model may jump an Obstacle that is up to (but no greater than) its own height. If the top of the Obstacle is higher than the top of the model's head, it must instead make a Climb test ([see page 30]).
+A model may jump an Obstacle that is up to (but no greater than) its own height. If the top of the Obstacle is higher than the top of the model's head, it must instead make a Climb test (see [page 30]).
 
 Making a Jump test is simple. Move your model into base contact with the Obstacle that you wish to jump over, roll a D6, compare the result to the Jump table on the left and follow the instructions given.
 
@@ -245,7 +245,7 @@ Making a Leap test is simple. Move your model up to the gap that you wish it to 
 
 When faced with especially tall Obstacles, the likes of a rock face, a tumble- down pile of statuary or raised scaffolding, a Climb test is often in order. The major difference between jumping and climbing is whether a model is attempting to increase its altitude by more than its own height.
 
-When a model attempts to make a Climb test, it is important that there is some way for it to scale the surface - handholds, jutting rocks, wooden crosspieces, and so on. Whenever a model climbs in this manner, they are moving through difficult terrain ([see page 26]). Areas that do not have these are considered to be unscalable (see below).
+When a model attempts to make a Climb test, it is important that there is some way for it to scale the surface - handholds, jutting rocks, wooden crosspieces, and so on. Whenever a model climbs in this manner, they are moving through difficult terrain (see [page 26]). Areas that do not have these are considered to be unscalable (see below).
 
 Making a Climb test is simple. Move your model to the bottom of the surface you wish to scale, roll a D6, compare the result to the Climb table on the left and follow the instructions given.
 
@@ -293,7 +293,7 @@ A model may automatically descend a distance equal to its own height without any
 
 ### FALLING
 
-A model that falls is knocked Prone at the base of the surface they have fallen from. If the model has fallen a distance greater than its own height, it immediately suffers falling damage: one Strength 3 hit ([see page 40)], plus one additional Strength 3 hit for every 1" more than its height it has fallen.
+A model that falls is knocked Prone at the base of the surface they have fallen from. If the model has fallen a distance greater than its own height, it immediately suffers falling damage: one Strength 3 hit (see [page 40]), plus one additional Strength 3 hit for every 1" more than its height it has fallen.
 
 ***LADDER***
 

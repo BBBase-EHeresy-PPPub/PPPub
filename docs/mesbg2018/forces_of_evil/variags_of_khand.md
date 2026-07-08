@@ -99,7 +99,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 
 **SPECIAL RULES**
 
-- **Defensive Bulwark** `PASSIVE`
+- **Defensive Bulwark** `<span style="color: darkmagenta">PASSIVE</span>`
 
 In the Way tests against the Chariot hit the rider on a 5+. In the Way tests must also be taken for Strikes against the Chariot.
 

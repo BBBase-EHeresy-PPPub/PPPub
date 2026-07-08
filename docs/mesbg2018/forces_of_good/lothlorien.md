@@ -110,7 +110,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### HALDIR [70 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+*<span style="color: darkmagenta">HERO OF VALOUR</span>, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -204,7 +204,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **SPECIAL RULES**
 
-- [Woodland Creature]
+- <span style="color: darkmagenta">[Woodland Creature]</span>
 
 - **Whirl of Blades** `ACTIVE`
 
@@ -337,7 +337,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- ~~[Elven-made] [Sword]~~ <span style="color: darkmagenta">[Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]</span>
 - [Heavy Armour]
 - [Armoured Horse]
 

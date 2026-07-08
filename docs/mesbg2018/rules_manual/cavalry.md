@@ -42,13 +42,13 @@ Any **Cavalry** model that moves whilst within difficult terrain counts the dist
 
 ### JUMPING AND LEAPING
 
-**Cavalry** models make Jump tests and Leap tests in the same way as other models - roll a D6 and consult the appropriate table (see pages 28 and 29, respectively). Jumping fences and leaping divides from the back of a horse or Warg is not without risk, however, so beware rolls of a 1. If a **Cavalry** model fails their Jump test or Leap test, there is a chance that the rider has been thrown from their steed. Roll a further D6; on a 1, the rider is Knocked Flying exactly as if it had rolled a 1 on a Thrown Rider test ([see page 61]).
+**Cavalry** models make Jump tests and Leap tests in the same way as other models - roll a D6 and consult the appropriate table (see pages 28 and 29, respectively). Jumping fences and leaping divides from the back of a horse or Warg is not without risk, however, so beware rolls of a 1. If a **Cavalry** model fails their Jump test or Leap test, there is a chance that the rider has been thrown from their steed. Roll a further D6; on a 1, the rider is Knocked Flying exactly as if it had rolled a 1 on a Thrown Rider test (see [page 61]).
 
 ### DESCENDING
 
 **Cavalry** models find it more difficult to descend than **Infantry** models - while they may descend from drops that are equal to or less than the height of the mount without penalty, they may not descend further than this without risking injury.
 
-If a **Cavalry** model descends a distance greater than the height of the mount, the mount takes one Strength 3 hit, plus one additional Strength 3 hit for every 1" more than its height it has descended. If the mount is slain, the rider must take the same number of Strength 3 hits as their mount, followed by a Thrown Rider test ([see page 61]).
+If a **Cavalry** model descends a distance greater than the height of the mount, the mount takes one Strength 3 hit, plus one additional Strength 3 hit for every 1" more than its height it has descended. If the mount is slain, the rider must take the same number of Strength 3 hits as their mount, followed by a Thrown Rider test (see [page 61]).
 
 ***CAVALRY DESCENDING***
 
@@ -70,7 +70,7 @@ Whilst **Cavalry** models cannot climb ropes or ladders, they may well be able t
 
 ### WATER FEATURES
 
-**Cavalry** models can swim - in fact, they receive a bonus on the Swim chart ([see page 109]).
+**Cavalry** models can swim - in fact, they receive a bonus on the Swim chart (see [page 109]).
 
 ## CAVALRY AND COURAGE TESTS
 
@@ -84,7 +84,7 @@ Whenever a mount loses its rider, whether the rider is slain, knocked from his s
 
 Mounts that have a value of 0 for either their Attacks or Courage characteristic (such as horses or ponies) are considered too timid to stand their ground and automatically fail this test - fleeing as soon as they no longer have a rider.
 
-If, at any point, a **Cavalry** model is knocked Prone for any reason, the rider will automatically suffer the effects of the Knocked Flying result on the Thrown Rider chart ([see page 61]).
+If, at any point, a **Cavalry** model is knocked Prone for any reason, the rider will automatically suffer the effects of the Knocked Flying result on the Thrown Rider chart (see [page 61]).
 
 ### REMOUNTING
 
@@ -100,7 +100,7 @@ When shooting at a **Cavalry** model, a successful Shoot roll might hit either t
 
 ### HITS ON RIDERS AND MOUNTS
 
-If the rider is slain, remove the rider from the model or replace the **Cavalry** model with a suitable unridden mount (if you don't have such a model, remove it as described earlier). Remember that when a rider is slain, their steed becomes a Separated Mount and there is a good chance that it will run away immediately ([see page 59]).
+If the rider is slain, remove the rider from the model or replace the **Cavalry** model with a suitable unridden mount (if you don't have such a model, remove it as described earlier). Remember that when a rider is slain, their steed becomes a Separated Mount and there is a good chance that it will run away immediately (see [page 59]).
 
 Should a mount be slain, make a Thrown Rider test (see [page 61]). If the rider survives, remove the **Cavalry** model and replace it with a dismounted **Infantry** version within the footprint of the **Cavalry** model's base as close to the centre as possible - the **Infantry** model replaces the **Cavalry** model in all regards (if you don't have such a model, you can instead mark the **Cavalry** model's base with a counter to remind yourself that the mount is slain). If the model was in a Fight, it will remain in the Fight with all models that were Engaging it. This may create a weird encounter where they are no longer in base contact with an enemy model they are Engaged with, just remember who they were fighting.
 
@@ -110,7 +110,7 @@ Should a mount be slain, make a Thrown Rider test (see [page 61]). If the rider 
 
 ### DISMOUNTING
 
-A **Cavalry** model may dismount from their steed at any point in their Move. Dismounting is automatic - there is no roll required. Place the newly dismounted **Infantry** model in base contact with the original **Cavalry** model. If the model has any remaining move left (subtract the distance that the **Cavalry** model has moved prior to the dismount) then the **Infantry** model may complete its remaining move. The steed automatically becomes a Separated Mount ([see page 59]) and, if it stays on the battlefield, may not move any further during the Move phase. Models may not dismount directly into combat, but may dismount and then move into combat if they have Movement allowance remaining.
+A **Cavalry** model may dismount from their steed at any point in their Move. Dismounting is automatic - there is no roll required. Place the newly dismounted **Infantry** model in base contact with the original **Cavalry** model. If the model has any remaining move left (subtract the distance that the **Cavalry** model has moved prior to the dismount) then the **Infantry** model may complete its remaining move. The steed automatically becomes a Separated Mount (see [page 59]) and, if it stays on the battlefield, may not move any further during the Move phase. Models may not dismount directly into combat, but may dismount and then move into combat if they have Movement allowance remaining.
 
 ***DISMOUNTING 1***
 
@@ -212,7 +212,7 @@ Note that, even if the rider is using the Attacks value of their mount (see left
 
 If a **Cavalry** model with this bonus wins a Fight, all of their opponents are Knocked to the Ground, except for Monster models or other models with a Strength of 6 or more.
 
-A model that is Knocked to the Ground is knocked Prone after Backing Away. This means that they will also be Trapped, as described in the rules for Prone models ([see page 32]).
+A model that is Knocked to the Ground is knocked Prone after Backing Away. This means that they will also be Trapped, as described in the rules for Prone models (see [page 32]).
 
 ### STRIKES AGAINST CAVALRY MODELS
 
@@ -220,7 +220,7 @@ If you win a Duel roll against a **Cavalry** model, you may choose to Strike eit
 
 If the rider is slain, their mount becomes a Separated Mount (see [page 59]) and there is a chance that it will run away.
 
-If the mount is slain after all Attacks against the mount and rider have been resolved, the rider must roll on the Thrown Rider table ([see page 61)].
+If the mount is slain after all Attacks against the mount and rider have been resolved, the rider must roll on the Thrown Rider table (see [page 61]).
 
 ### FIGHTING ACROSS BARRIERS
 
@@ -228,7 +228,7 @@ Cavalry models can defend and Fight across Barriers, but they do not receive any
 
 ### CAVALRY AND MAGICAL POWERS
 
-If a model employs a Magical Power against a **Cavalry** model, the whole model is considered to be the target of the power. This means that either the rider or the mount can use Will points to resist the Magical Power, and if the power is successful, both feel the effects unless otherwise stated ([see page 95]).
+If a model employs a Magical Power against a **Cavalry** model, the whole model is considered to be the target of the power. This means that either the rider or the mount can use Will points to resist the Magical Power, and if the power is successful, both feel the effects unless otherwise stated (see [page 95]).
 
 ***CAVALRY AND MAGIC***
 

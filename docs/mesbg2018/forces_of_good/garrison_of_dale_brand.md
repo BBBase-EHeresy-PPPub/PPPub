@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of Dale; Knight of Dale; Warrior of Dale; Windlance.
+This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of Dale; Knight of Dale; Warrior of Dale; <span style="color: darkmagenta">Windlance</span>.
 
 ## ARMY BONUS
 

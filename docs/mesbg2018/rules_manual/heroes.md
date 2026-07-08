@@ -69,7 +69,7 @@ Here is the list of situations in which Might points can be used to alter a dice
 
 * **Using Will** - A **Hero** can use Might to modify the dice roll to succeed when casting a Magical Power or attempting to pass a Resist test.
 
-* **Using Fate** - A **Hero** can use Might to succeed in a Fate roll ([see page 75]).
+* **Using Fate** - A **Hero** can use Might to succeed in a Fate roll (see [page 75]).
 
 ## HEROIC ACTIONS
 
@@ -102,7 +102,7 @@ the following three Heroic Actions:
 
 *Amidst the chaos and confusion of battle, the hero's bold voice rings out, spurring their troops to quickly surge into motion.*
 
-A Heroic Move enables a **Hero** model to move before other models - essentially defying the usual Priority system. The **Hero** can then move, jump, climb, Charge and even use their [Stand Fast!] ([see page 55]) in the usual manner.
+A Heroic Move enables a **Hero** model to move before other models - essentially defying the usual Priority system. The **Hero** can then move, jump, climb, Charge and even use their [Stand Fast!] (see [page 55]) in the usual manner.
 
 This Heroic Action can prove extremely valuable, so when a Heroic Move is declared by the player without Priority, the opposing player will often choose to also declare a Heroic Move in an attempt to keep the initiative.
 
@@ -183,7 +183,7 @@ Any model in range of the Heroic March that does not move, cannot choose to move
 
 *Summoning power from the depths of their being, the hero unleashes the most powerful magic that they can call upon.*
 
-A **Hero** model who uses Heroic Channelling uses the Channelled versions of any Magical Powers that they cast this turn ([see page 95)].
+A **Hero** model who uses Heroic Channelling uses the Channelled versions of any Magical Powers that they cast this turn (see [page 95]).
 
 ### HEROIC ACCURACY (SHOOT PHASE)
 
@@ -229,7 +229,7 @@ A **Hero** model who declares they are using Heroic Strength adds D3 to their St
 
 *Upon the field of battle, there are times when a hero will come face-to-face with an enemy who rivals their skill with a blade, and will seek to prove themselves as the better combatant of the two.*
 
-A **Hero** that is in base contact with an enemy Hero, of the same Heroic Tier ([see page 132]) or higher, may declare a Heroic Challenge.
+A **Hero** that is in base contact with an enemy Hero, of the same Heroic Tier (see [page 132]) or higher, may declare a Heroic Challenge.
 
 If the enemy **Hero** accepts the Heroic Challenge, all other models that are part of the same combat, including supporting models, may not roll dice for the Duel roll, provide their Fight value to the fight or makes Strikes if their side wins the fight. From this point on, both **Hero** models involved in a Heroic Challenge must Charge each other if able to do so until one of them has been slain. Other models may not Charge either of the **Hero** models involved in the Heroic Challenge. Whichever **Hero** is successful in slaying their opponent (they must be the one to cause the final blow) will immediately gain D3 Might points; this can take them above their starting level.
 
@@ -247,11 +247,11 @@ Many of the heroes of Middle-earth are possessed of a superhuman strength of pur
 
 ### CAST A MAGICAL POWER
 
-To cast a Magical Power, a **Hero** expends one or more Will points - this is the number of dice the controlling player rolls in their casting attempt. Note that the player must choose how many Will points they will expend before they roll any dice. For more on casting Magical Powers, [see pages 92-101].
+To cast a Magical Power, a **Hero** expends one or more Will points - this is the number of dice the controlling player rolls in their casting attempt. Note that the player must choose how many Will points they will expend before they roll any dice. For more on casting Magical Powers, see [pages 92-101].
 
 ### RESIST A MAGICAL POWER
 
-A **Hero** who is the victim of a Magical Power cast by an enemy model may attempt to Resist it by expending Will points. For more on resisting Magical Powers, [see page 95].
+A **Hero** who is the victim of a Magical Power cast by an enemy model may attempt to Resist it by expending Will points. For more on resisting Magical Powers, see [page 95].
 
 ### PASS A COURAGE TEST
 

@@ -404,7 +404,7 @@ This is a [war horn][War Horn] that adds +2 Courage rather than +1, but only aff
 
 - **Royal Standard of Rohan** `PASSIVE`
 
-As well as being a [banner][Banner], a single Rohan Hero model with no Might left and within 3" may regain 1 Might point. Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this [banner][Banner].
+As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might left and within 3" may regain 1 Might point.~~ <span style="color: darkmagenta">a single Rohan Hero model within 3" of the Royal Standard of Rohan at the start of the turn, that has no Might remaining, may automatically add 1 point of Might to their store.</span> Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this [banner][Banner].
 
 </div>
 

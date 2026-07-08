@@ -16,7 +16,7 @@ Models move around fortresses in the same way as the rest of the battlefield. St
 
 Defending models can pass through doorways, gates and hatches freely.
 
-Attacking models have to batter them down to pass through ([see page 122]).
+Attacking models have to batter them down to pass through (see [page 122]).
 
 ### MOVING WITHIN A FORTRESS
 
@@ -57,7 +57,7 @@ A fancy term for trying to storm the battlements of a castle or fortress, the es
 
 ## SIEGE LADDERS
 
-Siege ladders are Heavy Objects ([see page 110]). If uncarried, siege ladders can be attacked; they have a Defence of 8, 2 Wounds and automatically lose Duel rolls. If models carrying a siege ladder move into base contact with a wall, the ladder is automatically raised. Place it in position against the wall. Defending models can smash down a siege ladder if they are in contact with it (see Pushing Down Siege Ladders below).
+Siege ladders are Heavy Objects (see [page 110]). If uncarried, siege ladders can be attacked; they have a Defence of 8, 2 Wounds and automatically lose Duel rolls. If models carrying a siege ladder move into base contact with a wall, the ladder is automatically raised. Place it in position against the wall. Defending models can smash down a siege ladder if they are in contact with it (see Pushing Down Siege Ladders below).
 
 ### FIGHTING UP LADDERS
 
@@ -79,7 +79,7 @@ Roll a D6. On a 4+, the ladder falls to the ground. For every additional model h
 
 ## BATTERINGRAMS
 
-A battering ram is a special siege weapon used to smash open doors, usually a large log that is carried or pushed towards the foe. Battering rams are Heavy Objects ([see page 110]). In the case of very large battering rams, you may wish to increase the number of models that it takes to carry it.
+A battering ram is a special siege weapon used to smash open doors, usually a large log that is carried or pushed towards the foe. Battering rams are Heavy Objects (see [page 110]). In the case of very large battering rams, you may wish to increase the number of models that it takes to carry it.
 
 ### BATTERINGGATES AND DOORS
 

@@ -302,7 +302,7 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 <div class="unitCard" markdown>
 
 ### KING OF MEN [60 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -858,7 +858,7 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 
 <div class="unitCard" markdown>
 
-### AVENGER BOLT THROWER [50 POINTS]
+### AVENGER BOLT THROWER [50 POINTS] <span style="color: darkmagenta">(Crew: 3)</span>
 *SIEGE ENGINE, 6 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |

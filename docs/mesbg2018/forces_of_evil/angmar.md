@@ -489,7 +489,7 @@ Angmar Ringwraith models within 6" of a Shade may use this model to determine Li
 
 - **Swirling Mists** `ACTIVE`
 
-At the start of a Shoot phase before Heroics are declared, a Shade may spend a point of Will to cause a -1 To Hit penalty for any shooting attack targeting a friendly model within 6" of the Shade. If the enemy model who is shooting is within 12" of the Shade, they suffer a -2 penalty instead.
+~~At the start of a Shoot phase before Heroics are declared, a Shade may spend a point of Will to cause a -1 To Hit penalty for any shooting attack targeting a friendly model within 6" of the Shade. If the enemy model who is shooting is within 12" of the Shade, they suffer a -2 penalty instead.~~ <span style="color: darkmagenta">At the start of the Fight phase, before Heroic Actions are declared, a Shade may spend a point of Will to activate this ability. All models (both friend and foe) within 6" of one or more Shades that have activated this ability suffer a -1 penalty to its Duel roll. This is cumulative with other such penalties, such as for wielding a two-handed weapon. Friendly Angmar models are not affected by this special rule.</span>
 
 - **Ghostly Resolve** `PASSIVE`
 

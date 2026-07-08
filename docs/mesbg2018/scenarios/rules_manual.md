@@ -211,7 +211,7 @@ Victory Points are scored for the following:
 
 **SPECIAL RULES**
 
-**Reinforcements**: At the end of your Move phase, roll a D6 for each of your warbands that are not on the battlefield and consult the chart below (the warband's captain can use Might to alter the roll). Models enter the board via the rules for Reinforcements ([see page 33)].
+**Reinforcements**: At the end of your Move phase, roll a D6 for each of your warbands that are not on the battlefield and consult the chart below (the warband's captain can use Might to alter the roll). Models enter the board via the rules for Reinforcements (see [page 33]).
 
 Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for determining if your force is Broken. Warbands that have still not arrived by the start of the fourth turn will automatically arrive on turn 4.
 
@@ -307,7 +307,7 @@ Victory Points are scored for the following:
 
 **The Artefact:** The artefact must be dug out of the soil before it can be carried anywhere. An **Infantry** model who is in base contact with the Artefact marker at the end of its Move may attempt to free it.
 
-Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object ([see page 109]). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
+Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object (see [page 109]). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
 
 ![](../media/scenarios/rules_manual/scenario_seize_the_prize.jpg)
 

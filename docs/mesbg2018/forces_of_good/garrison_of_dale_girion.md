@@ -1,6 +1,6 @@
 ## ARMY COMPOSITION
 
-This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Warrior of Dale; Windlance.
+This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Warrior of Dale; <span style="color: darkmagenta">Windlance</span>.
 
 ## ARMY BONUS
 

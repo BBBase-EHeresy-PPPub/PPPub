@@ -941,6 +941,8 @@ An Assault Ballista will only scatter 3" rather than 6"
 
 - **Piercing Shot**
 
+<span style="color: darkmagenta">An Isengard Assault Ballista has a range of 6"-48".</span>
+
 If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Ballista. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
 
 - **Raise the Ladders!**

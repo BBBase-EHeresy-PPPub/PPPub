@@ -221,8 +221,8 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Axe]
-- [Axe]
+- <span style="color: darkmagenta">[Hand-and-a-half][Hand-And-A-Half] [Axe]</span>
+- <span style="color: darkmagenta">[Axe]</span>
 
 **OPTIONS**
 

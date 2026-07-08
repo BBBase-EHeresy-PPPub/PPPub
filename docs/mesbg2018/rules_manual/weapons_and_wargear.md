@@ -34,7 +34,7 @@ A model using a two-handed weapon in close combat suffers a -1 penalty to Duel r
 
 ### SPECIAL STRIKES
 
-Many different types of single-handed weapons, hand-and-a-half weapons and two-handed weapons can be used to make Special Strikes. Look at the model's profile to see if they are armed with one of the following weapons: axe, club, dagger, flail, hammer, mace, maul, pick, scourge, staff, sword or whip. A model fighting with one of these weapons can make the relevant Special Strike for that weapon ([see page 87]).
+Many different types of single-handed weapons, hand-and-a-half weapons and two-handed weapons can be used to make Special Strikes. Look at the model's profile to see if they are armed with one of the following weapons: axe, club, dagger, flail, hammer, mace, maul, pick, scourge, staff, sword or whip. A model fighting with one of these weapons can make the relevant Special Strike for that weapon (see [page 87]).
 
 ### UNARMED MODELS
 
@@ -116,7 +116,7 @@ A Staff of Power is a hand-and-a-half staff, and may use the Stun Special Strike
 
 *Whips are long leather strips used to lash out at those nearby. With a powerful crack, whips can tear into the flesh of their targets and on rare occasions even inflict fatal wounds.*
 
-A whip counts as a throwing weapon ([see page 88]) with a range of 2" and Strength 1.
+A whip counts as a throwing weapon (see [page 88]) with a range of 2" and Strength 1.
 
 ### CHANGING THE WEAPONS ON A MODEL
 
@@ -264,7 +264,7 @@ A **Warrior** model carrying a banner who is slain may pass it on to a friendly 
 
 *Elven cloaks are woven through with wondrous enchantments that hide the wearer from even the most piercing gaze.*
 
-A model wearing an Elven cloak has the Stalk Unseen special rule ([see page 106]).
+A model wearing an Elven cloak has the Stalk Unseen special rule (see [page 106]).
 
 ### WAR DRUM (X)
 

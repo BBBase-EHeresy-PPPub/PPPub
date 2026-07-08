@@ -50,7 +50,7 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

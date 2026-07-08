@@ -42,7 +42,7 @@
 
 ## ADDITIONAL RULES
 
-- An Assault on Lothlórien force must always include Muzgúr and at least one named Goblin Hero model. Muzgúr must always be the army's leader. This Legendary Legion may not include more Goblin models than Orc models
+- An Assault on Lothlórien force must always include Muzgúr and at least one named Goblin Hero model. <span style="color: darkmagenta">Muzgúr must always be the army's leader.</span> <span style="color: darkmagenta">This Legendary Legion may not include more Goblin models than Orc models.</span>
 - Only Orc Hero models may lead Orc Warrior models. Only Goblin Hero models may lead Goblin Warrior models.
 - Spider models may only be included in warbands led by Drûzhag or Ashrâk.
 - In this Legendary Legion, Muzgúr, Drûzhag and Ashrâk are Heroes of Valour, and Shamans are Heroes of Fortitude.

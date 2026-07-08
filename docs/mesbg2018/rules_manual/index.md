@@ -91,10 +91,10 @@ This provides the name of the profile in question, sometimes these are quite lon
 Here you will find the cost in points of the model. The points cost given is for the full profile, with the exception of any options they may be able to purchase - these are explained in point 9.
 
 #### 3. KEYWORDS
- ere you will find the list of all the keywords that are associated with the profile. Many special rules will reference certain keywords in order to explain which models will be affected. Here we can see that Elrond has four different keywords: **Elf**, ***Rivendell***, **Infantry** and **Hero**. For more on keywords, [see page 16].
+ ere you will find the list of all the keywords that are associated with the profile. Many special rules will reference certain keywords in order to explain which models will be affected. Here we can see that Elrond has four different keywords: **Elf**, ***Rivendell***, **Infantry** and **Hero**. For more on keywords, see [page 16].
 
 #### 4. HEROIC TIER
-Profiles that have the **Hero** keyword will also have a Heroic Tier associated with them. This represents how high up the ranks of their particular army they are and, depending on their Heroic Tier, how many followers they can have in their warband. For more on Heroic Tiers, [see page 132].
+Profiles that have the **Hero** keyword will also have a Heroic Tier associated with them. This represents how high up the ranks of their particular army they are and, depending on their Heroic Tier, how many followers they can have in their warband. For more on Heroic Tiers, see [page 132].
 
 #### 5. CHARACTERISTICS
 MF Here you will find all of the profile's characteristics as mentioned on [page 7]. If the model has the **Hero** keyword, then you will also find their Might, Will and Fate characteristics here as well.
@@ -103,16 +103,16 @@ MF Here you will find all of the profile's characteristics as mentioned on [page
 In some rare situations, a profile may have an additional rule that will affect how an army is built. This could be anything from which other **Hero** models they can be in a force with, to how the model's inclusion affects the force's bow limit. If the profile has such a rule, it will be found here.
 
 #### 7. WARGEAR
-Every model in the Strategy Battle Game has a selection of wargear that comes with their profile, as listed here. The rules for these can usually be found in the Weapons & Wargear section of this rules manual ([see pages 82-91]). Sometimes, a model will have specific wargear that has its own special rules. When this is the case, they will be listed below the profile's list of wargear. For example, Elrond has the wargear '*Vilya*', the rules for which as listed here.
+Every model in the Strategy Battle Game has a selection of wargear that comes with their profile, as listed here. The rules for these can usually be found in the Weapons & Wargear section of this rules manual (see [pages 82-91]). Sometimes, a model will have specific wargear that has its own special rules. When this is the case, they will be listed below the profile's list of wargear. For example, Elrond has the wargear '*Vilya*', the rules for which as listed here.
 
 #### 8. HEROIC ACTIONS
-**Hero** models have the ability to spend Might points to declare certain Heroic Actions. Some of these are available to every **Hero**, whilst others are only available to certain **Hero** models. Here will be listed all of the additional Heroic Actions available to the **Hero**. If there are no Heroic Actions listed here, then the **Hero** cannot declare any of the additional Heroic Actions. For more on Heroic Actions, [see page 68].
+**Hero** models have the ability to spend Might points to declare certain Heroic Actions. Some of these are available to every **Hero**, whilst others are only available to certain **Hero** models. Here will be listed all of the additional Heroic Actions available to the **Hero**. If there are no Heroic Actions listed here, then the **Hero** cannot declare any of the additional Heroic Actions. For more on Heroic Actions, see [page 68].
 
 #### 9. OPTIONS
 Some profiles have a list of options available to the warrior or hero. These can include weaponry, armour, mounts, and even other more unusual items. Every option has a points cost associated with it that will increase the cost of the profile if taken.
 
 #### 10. SPECIAL RULES
-Some profiles will have special rules that represent the wide variety of abilities and skills that many of the characters and creatures of Middle-earth have. Some of these will just have the name of the special rule under the header. The effects of these can be found in the Special Rules section of this manual ([see page 102]). Others will have the full effects of the special rule, including whether it is Active or Passive or not ([see page 103]). Finally, others reference the specific page of the same book that the special rule can be found on.
+Some profiles will have special rules that represent the wide variety of abilities and skills that many of the characters and creatures of Middle-earth have. Some of these will just have the name of the special rule under the header. The effects of these can be found in the Special Rules section of this manual (see [page 102]). Others will have the full effects of the special rule, including whether it is Active or Passive or not (see [page 103]). Finally, others reference the specific page of the same book that the special rule can be found on.
 
 #### 11. MAGICAL POWERS
 In Middle-earth, there are many beings that have the ability to use Magical Powers to aid them or defeat their enemies. Here will be listed all of the Magical Powers available to the profile, the range of the powers, and their Casting value. The full effects of the Magical Powers can be found on [pages 92-101].

@@ -636,7 +636,7 @@ Always fires using Volley Fire, with range 12" - 96".
 
 - **Area Effect**
 
-If a Battlefield target is hit, all models within 2" also suffer one Strength 5 hit and are knocked prone.
+~~If a Battlefield target is hit, all models within 2" also suffer one Strength 5 hit and are knocked prone.~~ <span style="color: darkmagenta">If a Catapult scores a hit against a Battlefield target, all models within 2" of the target suffer one Strength 5 hit and are knocked Prone (this additional hit does not kill a target outright).</span>
 
 - **Wall-breaker**
 

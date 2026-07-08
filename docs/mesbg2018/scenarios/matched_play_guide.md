@@ -577,8 +577,7 @@ at the end of the game. If the enemy force is Broken and your force is unbroken,
 
 **SPECIAL RULES**
 
-**The Campsite:** The campsites are the deployment areas of the two armies. A campsite is captured if during the End phase of any turn you have more models entirely within your opponent's campsite than they do. Should your models subsequently leave a captured campsite, it will no longer count as being captured. In order to keep an opponent's campsite captured, you will need to keep your models within your opponent's
-campsite.
+**The Campsite:** ~~The campsites are the deployment areas of the two armies. A campsite is captured if during the End phase of any turn you have more models entirely within your opponent's campsite than they do. Should your models subsequently leave a captured campsite, it will no longer count as being captured. In order to keep an opponent's campsite captured, you will need to keep your models within your opponent's campsite.~~ <span style="color: darkmagenta">The campsites are the deployment areas of the two armies. A campsite is captured if at the end of the game you have more models entirely within your opponent's campsite than they do.</span>
 
 Models that are within their own campsite will defend it at all costs. Any model that is within its own campsite at the start of a turn will automatically pass any Courage tests it is required to make for the remainder of that turn.
 

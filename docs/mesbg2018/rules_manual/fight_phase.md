@@ -70,7 +70,7 @@ If the Fight values of the models are also drawn, then the player with Priority 
 
 ![](../media/rules_manual/drawn_combats_1.jpg)
 
-*Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin - a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*[see page 46]*) against the unfortunate cave dweller.*
+*Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin - a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*see [page 46]*) against the unfortunate cave dweller.*
 
 ### MULTIPLE ATTACKS
 
@@ -86,7 +86,7 @@ Many models have more than one Attack listed on their profiles. When a model suc
 
 With the Duel's winner determined, the loser must Back Away in a direction chosen by the controlling player. To Back Away, the loser must move 1" in a straight line away from the winner (though this does not have to be directly away). When a loser Backs Away, it can move through enemy Control Zones, but cannot move into base contact with an enemy model.
 
-Backing away is not slowed by difficult terrain. Backing away cannot be used to cross Obstacles or to take Jump, Leap or Climb tests. However, a loser at the edge of a vertical drop, with nowhere else to Back Away to, must move off the edge. If the drop is equal to or less than the model's height, they suffer no damage. If the drop is greater than the height of the model, then the model suffers falling damage ([see page 31)].
+Backing away is not slowed by difficult terrain. Backing away cannot be used to cross Obstacles or to take Jump, Leap or Climb tests. However, a loser at the edge of a vertical drop, with nowhere else to Back Away to, must move off the edge. If the drop is equal to or less than the model's height, they suffer no damage. If the drop is greater than the height of the model, then the model suffers falling damage (see [page 31]).
 
 ***LOSER BACKS AWAY 1***
 
@@ -98,7 +98,7 @@ Backing away is not slowed by difficult terrain. Backing away cannot be used to 
 
 ![](../media/rules_manual/loser_backs_away_2.jpg)
 
-Bombur *has lost a Fight and now finds himself pinned into place by two Goblins, with his back to a sheer drop. Bombur is forced over the edge! First resolve the Strikes of the two Goblins (as he falls off the edge) and then, assuming Bombur survives, resolve any falling damage [(see page 31)].*
+Bombur *has lost a Fight and now finds himself pinned into place by two Goblins, with his back to a sheer drop. Bombur is forced over the edge! First resolve the Strikes of the two Goblins (as he falls off the edge) and then, assuming Bombur survives, resolve any falling damage [(see page 31]).*
 
 ### TRAPPED
 
@@ -106,13 +106,13 @@ In the swirl of close combat, it is quite common for a model to be unable to mak
 
 If a model cannot Back Away a full 1" when they lose a Fight, they are Trapped. Usually this occurs when the model is backed against terrain, such as a wall or boulder, or is completely surrounded by enemy models.
 
-It is important for any surviving models to be separated once the Fight has been resolved, so be sure to back the loser away enough to separate the bases of the models if you can. If the losing model is unable to Back Away at all (because it is pinned in place by multiple attackers or by an Obstacle) then it does not move and the models are left in base contact until after the winners have made their Strikes ([see page 46]), after which separate them by just enough that you can see a little space between them (a few millimetres should suffice), so that they are no longer in base contact.
+It is important for any surviving models to be separated once the Fight has been resolved, so be sure to back the loser away enough to separate the bases of the models if you can. If the losing model is unable to Back Away at all (because it is pinned in place by multiple attackers or by an Obstacle) then it does not move and the models are left in base contact until after the winners have made their Strikes (see [page 46]), after which separate them by just enough that you can see a little space between them (a few millimetres should suffice), so that they are no longer in base contact.
 
 ### PRONE MODELS
 
 Sometimes, models that are lying down will find themselves Engaged in a Fight - this can be a very dangerous predicament for the unfortunate model on the ground.
 
-Whilst Prone, models may never Charge an enemy, if a Prone model is charged, they fight as normal - with one exception. If the Prone model wins the Fight, they will make no Strikes against their enemies ([see page 46)], but may immediately stand up instead if they wish.
+Whilst Prone, models may never Charge an enemy, if a Prone model is charged, they fight as normal - with one exception. If the Prone model wins the Fight, they will make no Strikes against their enemies (see [page 46]), but may immediately stand up instead if they wish.
 
 If the Prone model loses the Duel roll, they will Back Away as normal, moving 1" whilst remaining Prone. Backing away cannot be used to stand a model up. When resolving Strikes against a Prone model, they are always considered to be Trapped.
 
@@ -139,11 +139,11 @@ Théoden *has lost a Duel roll to* The Witch-king*, and finds himself Trapped by
 
 ### WINNER MAKES STRIKES
 
-Once the loser has backed away, the winner of the Duel roll must Strike against their opponent. To make a Strike, roll To Wound, comparing the Strength of the winner against the loser's Defence to find the target number, in the same way as rolling To Wound when shooting ([see page 40]). If the target is wounded, reduce its remaining Wounds by 1 - if this reduces the model's Wounds total to 0, remove it as a casualty. If the To Wound roll is failed, there is no effect except a bruised ego (and possibly a few real bruises too!).
+Once the loser has backed away, the winner of the Duel roll must Strike against their opponent. To make a Strike, roll To Wound, comparing the Strength of the winner against the loser's Defence to find the target number, in the same way as rolling To Wound when shooting (see [page 40]). If the target is wounded, reduce its remaining Wounds by 1 - if this reduces the model's Wounds total to 0, remove it as a casualty. If the To Wound roll is failed, there is no effect except a bruised ego (and possibly a few real bruises too!).
 
 ### MULTIPLE ATTACKS
 
-If a model with multiple Attacks wins a Fight, they make one Strike for each Attack on their profile when striking their victim. You may choose to fully resolve these Strikes one at a time (including using any Might - [see page 66]) or all together if you wish, so long as both players understand exactly what is happening. For more on resolving multiple Attacks, [see page 47].
+If a model with multiple Attacks wins a Fight, they make one Strike for each Attack on their profile when striking their victim. You may choose to fully resolve these Strikes one at a time (including using any Might - see [page 66]) or all together if you wish, so long as both players understand exactly what is happening. For more on resolving multiple Attacks, see [page 47].
 
 ### STRIKING A TRAPPED MODEL
 
@@ -295,7 +295,7 @@ Models positioned on high ground, which is at least half the height of the enemy
 
 If any enemy wishes to Charge a Defender positioned in this way, check that their maximum Move distance is enough to reach the intended target (including the distance required to climb the cliff if it is too large to jump) and then move the charger to the bottom of the slope, as close to the target as possible. This counts as a Charge and both models are Engaged in combat.
 
-Resolve the Fight as described for defending a Barrier. If the Attacker wins and kills their foe, they can immediately move to the top of the slope and take the place of the slain Defender. If the Defender survives, the Attacker must Back Away. If the elevated position is high enough that the model would have required a Climb test, then the defeated Attacker will fall and suffer any relevant falling damage ([see page 31)].
+Resolve the Fight as described for defending a Barrier. If the Attacker wins and kills their foe, they can immediately move to the top of the slope and take the place of the slain Defender. If the Defender survives, the Attacker must Back Away. If the elevated position is high enough that the model would have required a Climb test, then the defeated Attacker will fall and suffer any relevant falling damage (see [page 31]).
 
 If the Defender at the top of the slope is attacked by a model already at the top, then it becomes an ordinary combat (so it is almost always easier to
 clamber up somewhere that isn't defended).

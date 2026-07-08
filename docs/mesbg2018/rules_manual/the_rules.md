@@ -70,7 +70,7 @@ Some rules may list more than one keyword. Where this is the case, a model must 
 
 ### INFANTRY, **Cavalry** AND MONSTERS
 
-All of the models within the *Middle-earth* Strategy Battle Game can be divided into one of three categories: **Infantry**, **Cavalry** or **Monster**. If you look at the keywords in a model's profile, it will state whether it is **Infantry**, a **Monster** or **Cavalry**. It is possible for a model to have more than one of these keywords. A model could be both a **Monster** and **Infantry** for example. If the model is **Cavalry** ([see page 56]) or a **Monster** ([see page
+All of the models within the *Middle-earth* Strategy Battle Game can be divided into one of three categories: **Infantry**, **Cavalry** or **Monster**. If you look at the keywords in a model's profile, it will state whether it is **Infantry**, a **Monster** or **Cavalry**. It is possible for a model to have more than one of these keywords. A model could be both a **Monster** and **Infantry** for example. If the model is **Cavalry** (see [page 56]) or a **Monster** (see [page
 76]) then they will have a number of additional special rules that govern them, as listed later in this manual. If an **Infantry** model purchases a mount as an option, then whilst they remain mounted, they will replace the **Infantry** keyword with the **Cavalry** keyword. If a **Cavalry** model is dismounted, it will replace its **Cavalry** keyword with the **Infantry** keyword.
 
 ### MODELS AND BASES

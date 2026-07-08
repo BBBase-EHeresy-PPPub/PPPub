@@ -4,7 +4,7 @@ This army may include: The King of the Dead; Herald of the Dead; Rider of the De
 
 ## ARMY BONUS
 
-**"The Dead do not suffer the Living to pass"** - The King of the Dead gains the [Harbinger of Evil] special rule. Additionally, warbands from this army that contain eight or more models, do not need a Hero to be the Captain of the Warband. Instead, one of the Warrior models within the warband takes on the role of the warband's Captain for the purpose of deployment. A Dead of Dunharrow army list is automatically Impossible Allies with any force that doesn't also include Aragorn.
+**"The Dead do not suffer the Living to pass"** - The King of the Dead gains the [Harbinger of Evil] special rule. ~~Additionally, warbands from this army that contain eight or more models, do not need a Hero to be the Captain of the Warband.~~ <span style="color: darkmagenta">Additionally, warbands from this army list that contain between 8 and 12 models do not need a Hero to be the Captain of the warband.</span> Instead, one of the Warrior models within the warband takes on the role of the warband's Captain for the purpose of deployment. A Dead of Dunharrow army list is automatically Impossible Allies with any force that doesn't also include Aragorn.
 
 ## HEROES OF THE DEAD OF DUNHARROW
 

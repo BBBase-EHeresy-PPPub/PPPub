@@ -50,7 +50,7 @@ Sometimes **Hero** models are bought as a pair or more, such as *Sigrid & Tilda*
 
 ### FOLLOWERS
 
-Once your warband's captain is chosen, you can select a number of **Warrior** models from the same army to be their followers. The number of **Warrior** models that the captain can lead depends upon their Heroic Tier ([see page 132]). A captain does
+Once your warband's captain is chosen, you can select a number of **Warrior** models from the same army to be their followers. The number of **Warrior** models that the captain can lead depends upon their Heroic Tier (see [page 132]). A captain does
 not have to take followers, although you cannot take a warband that contains only **Warrior** models and no **Hero** models (except in a couple of rare situations). Similarly, you cannot usually include more than one **Hero** per warband (the captain). Other **Hero** models must form warbands of their own, even if they don't have any followers.
 
 ### WARGEAR AND BOW LIMIT
@@ -117,7 +117,7 @@ Once you have selected all the warbands for your force, you will need to indicat
 
 ## ARMY BONUS
 
-If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus - [see page 134]).
+If your army consists entirely of models from a single army list, then the army receives its own unique Army Bonus. Each Army Bonus will be listed in the introduction for each army list. Note that, unless otherwise stated, the Army Bonus will only come into effect as long as your force only contains models from a single army list (although certain alliances will allow for the forces to keep their Army Bonus - see [page 134]).
 
 ## ADDING ALLIES
 
@@ -191,7 +191,7 @@ The quickest (and fairest) way of setting up the battlefield is for one player t
 
 ## STARTING POSITIONS
 
-This is the section of the Scenario that tells you where to deploy your force. Some Scenarios tell you to deploy all of your models at the start of the game. Others direct you to bring your warbands on as Reinforcements as the game goes on ([see page 33]).
+This is the section of the Scenario that tells you where to deploy your force. Some Scenarios tell you to deploy all of your models at the start of the game. Others direct you to bring your warbands on as Reinforcements as the game goes on (see [page 33]).
 
 ## INITIAL PRIORITY
 

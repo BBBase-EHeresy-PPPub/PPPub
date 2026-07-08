@@ -97,7 +97,7 @@ While they are a passenger, a model cannot shoot or fight in close combat - alth
 
 When shooting at **Cavalry** models carrying passengers, any shots that would hit the rider may hit the passenger instead - roll a D6. On a 1-3, they hit the passenger, on a 4-6, the rider. Strikes in close combat may be targeted upon either model at the Attacker's discretion.
 
-Should the rider be thrown from their horse, be killed or dismount, the passenger is automatically thrown, and must immediately roll on the Thrown Rider table ([see page 61]).
+Should the rider be thrown from their horse, be killed or dismount, the passenger is automatically thrown, and must immediately roll on the Thrown Rider table (see [page 61]).
 
 ## SENTRIES
 

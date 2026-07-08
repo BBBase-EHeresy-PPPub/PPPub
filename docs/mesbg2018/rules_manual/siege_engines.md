@@ -107,7 +107,7 @@ When you deploy your **Siege Engine**, its crew must be placed in base contact w
 
 ### UNTRAINED CREW
 
-A **Siege Engine** that is being operated by more untrained crew than regular crew will only ever hit on the roll of a 6. Additionally, only Siege Veterans and Engineer Captains (see page 119) may use Might to influence rolls To Hit, rolls To Wound or Scatter chart rolls made for the **Siege Engine** ([see page 115]).
+A **Siege Engine** that is being operated by more untrained crew than regular crew will only ever hit on the roll of a 6. Additionally, only Siege Veterans and Engineer Captains (see page 119) may use Might to influence rolls To Hit, rolls To Wound or Scatter chart rolls made for the **Siege Engine** (see [page 115]).
 
 ### COURAGE TESTS
 
@@ -144,13 +144,13 @@ A demolition charge is a Heavy Object, as described on [page 110]. It may never 
 
 ### DETONATING THE CHARGE
 
-To use the demolition charge, it must be dropped. A model with a flaming brand that is in base contact with the charge, which is not also Engaged in combat, may attempt to set it off at the start of the Fight phase. The model attempting to set off the charge must pass a Courage test. If they fail, they cannot detonate the charge. If they succeed, the controlling player rolls on the Detonation table below to determine the effects.
+To use the demolition charge, it must be dropped. A model with a flaming brand that is in base contact with the charge, which is not also Engaged in combat, may attempt to set it off at the start of the Fight phase. <span style="color: darkmagenta">A model may only attempt to detonate the charge if the resulting explosion would affect at least two enemy models, or an enemy Siege target; meaning there must be at least two enemy models within 2" of the charge to detonate it.</span> The model attempting to set off the charge must pass a Courage test. If they fail, they cannot detonate the charge. If they succeed, the controlling player rolls on the Detonation table below to determine the effects.
 
 ### DETONATION TABLE
 
 | D6 | Result |
 |-----------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | **Dud.** The charge has been damaged in some way and will not detonate yet - roll again next turn and add +1 to the roll. |
+| 1 | **Dud.** The charge has been damaged in some way and will not detonate yet - roll again next turn <span style="color: darkmagenta">and add +1 to the roll</span>. |
 | 2-5 | **Instant Reaction.** The charge catches instantly, exploding in a roar of smoke and flame, see below. |
 | 6 | **Titanic Explosion.** The powder in the charge detonates with colossal fury as described below, but inflicts 2D6 Wounds rather than D6. |
 

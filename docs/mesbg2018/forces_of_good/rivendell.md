@@ -50,7 +50,7 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 
 [Hand-and-a-half][Hand-And-A-Half] [sword][Sword], +1 To Wound when striking Spirit models.
 
-- **Vilya** `PASSIVE`
+- **Vilya** `<span style="color: darkmagenta">PASSIVE</span>`
 
 You may re-roll your dice when using Fate points
 
@@ -60,7 +60,7 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 
 - **Foresight of the Eldar** `PASSIVE`
 
-D6 Foresight points, each point can alter opponents priority by +1/-1.
+~~D6 Foresight points, each point can alter opponents priority by +1/-1.~~ <span style="color: darkmagenta">During the Priority phase, after the dice has been rolled, so long as he is alive and on the battlefield, Elrond may choose to alter the controlling player's dice roll.</span>
 
 </div>
 
@@ -70,6 +70,8 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 
 ### GIL-GALAD [170 POINTS]
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+<span style="color: darkmagenta">If your force contains Gil-galad, then every alliance will be Impossible Allies with the following exceptions: Númenor will still be Historical Allies, and Lothlórien, Fangorn, and the Misty Mountains will still be Convenient Allies.</span>
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -322,7 +324,9 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 <div class="unitCard" markdown>
 
 ### ARWEN [60 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+*<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
+
+<span style="color: darkmagenta">Arwen may be included in a Fellowship army as part of the Fellowship army list, so long as it also includes Aragorn - Strider.</span>
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -362,7 +366,7 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 <div class="unitCard" markdown>
 
 ### CIRDAN [80 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+*<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -426,7 +430,7 @@ Cirdan may spend a single point of Will each turn for free.
 
 - [Woodland Creature]
 
-- **Powers of Nature** `PASSIVE`
+- **Powers of Nature** `<span style="color: darkmagenta">PASSIVE</span>`
 
 If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points spent in that roll.
 
