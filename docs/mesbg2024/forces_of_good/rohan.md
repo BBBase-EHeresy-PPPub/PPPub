@@ -120,7 +120,7 @@ Helm must always Charge if able to do so. When he Charges, he gains [Terror] unt
 
 **OPTIONS**
 
-- [Shield] - 5 points
+- [Shield] - <span style="color: darkmagenta">5 points</span>
 
 **SPECIAL RULES**
 
@@ -211,7 +211,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 - Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- <span style="color: darkmagenta">Throwing Spears - 5 points</span>
 
 **SPECIAL RULES**
 
@@ -730,7 +730,7 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 
 - **Orders from Edoras** `PASSIVE`
 
-Lief may spend a Will point at the end of his Activation, as long as he is not Engaged in Combat, to [pick][Pick] one of the following orders that last until the end of the turn. Each order can only be chosen once per game.
+Lief may spend a Will point at the end of his Activation, as long as he is not Engaged in Combat, to pick one of the following orders that last until the end of the turn. Each order can only be chosen once per game.
 1. Friendly Rohan Hero models within 3" can declare a free [Heroic Combat].
 2. Friendly Rohan models within 3" gain the [Fearless] special rule.
 3. Friendly Rohan models with 3" do not suffer the -1 penalty To Hit when moving and shooting, and may re-roll failed To Hit rolls.

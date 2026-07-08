@@ -12,7 +12,7 @@
 **HEROES OF VALOUR**
 
 - **Beorn**: 200 points
-- **Gwaihir**: 200 points
+- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
 
 **WARRIORS**
 

@@ -42,7 +42,7 @@
 
 ## SPECIAL RULES
 
-**Drums in the Deep** - Once per game, at the start of any Move Phase, a Depths of Moria player can declare they are using this special rule. If they do, until the End Phase of the turn, enemy models suffer a -1 penalty to any Courage Tests they are required to take, whilst friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. Additionally, until the End Phase of the turn, friendly Moria Goblin models count as being in range of a [banner][Banner].
+**Drums in the Deep** - <span style="color: darkmagenta">Once per game, at the start of any Move Phase, a Depths of Moria player can declare they are using this special rule. If they do, until the End Phase of the turn, enemy models suffer a -1 penalty to any Courage Tests they are required to take, whilst friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. Additionally, until the End Phase of the turn, friendly Moria Goblin models count as being in range of a [banner][Banner].</span>
 
 **Dominion of the Balrog** - Friendly Moria Goblin models within 6" of the Balrog gain a bonus of +1 to their Fight Value. Additionally, so long as the Balrog has at least 6 Wounds remaining, a Depths of Moria Army can never count as being Broken. Should the Balrog have 5 or fewer Wounds remaining, a Depths of Moria Army will Break as normal. However, should the Balrog ever be removed as a casualty, a Depths of Moria Army will immediately count as being Broken.
 

@@ -981,7 +981,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
-| 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 6+ |
+| 6" | 5 | 3+ | <span style="color: darkmagenta">3</span> | 5 | 1 | 1 | 5+ | 6+ |
 
 **WARGEAR**
 

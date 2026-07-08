@@ -296,7 +296,7 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 
 <div class="unitCard" markdown>
 
-### PRINCE IMRAHIL [140 POINTS]
+### PRINCE IMRAHIL [<span style="color: darkmagenta">140</span> POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -1442,7 +1442,7 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 - **Swift Reload** `ACTIVE`
 
-AWhen firing the Bolt Thrower, you may roll two dice and [pick][Pick] the highest result when determining how many shots it may take.
+AWhen firing the Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may take.
 
 - **Rapid Fire** `ACTIVE`
 
@@ -1488,7 +1488,7 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 
 - **Wall-breaker** `ACTIVE`
 
-When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
 
 **Minas Tirith Siege Crew**
 

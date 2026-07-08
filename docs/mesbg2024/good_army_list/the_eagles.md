@@ -6,7 +6,7 @@
 
 **HEROES OF LEGEND**
 
-- **Gwaihir**: 200 points
+- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
 
 **WARRIORS**
 
@@ -23,4 +23,4 @@
 
 **"The Eagles are Coming!"** - Friendly Eagle models gain a bonus of +1 to their Strength on a turn in which they Charge.
 
-**Piercing Cry** - Once per game, at the start of any Move Phase, Gwaihir can use this special rule so long as he is alive and on the battlefield. If he does, then enemy models within 6" of Gwaihir cannot Charge during that turn, but may otherwise act normally.
+**Piercing Cry** - Once per game, at the start of any Move Phase, Gwaihir can use this special rule so long as he is alive and on the battlefield. <span style="color: darkmagenta">If he does, then enemy models within 6" of Gwaihir cannot Charge during that turn, but may otherwise act normally.</span>

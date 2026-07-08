@@ -21,7 +21,7 @@
 
 **MINOR HEROES**
 
-- **War Mumak of Harad**: 250 points
+- <span style="color: darkmagenta">**War Mumak of Harad**: 250 points</span>
     - Rocks: 20 points
     - Sigils of Defiance: 20 points
     - Tusk Weapons: 20 points
@@ -31,7 +31,7 @@
 **WARRIORS**
 
 - **Crebain**: 20 points
-- **Haradrim Warrior**: 6 points
+- <span style="color: darkmagenta">**Haradrim Warrior**: 6 points</span>
     - Bow: 1 point
     - Spear: 1 point
 - **Hill Tribesman**: 5 points
@@ -58,8 +58,8 @@
 
 - If your Army includes Freca, then he must be your General.
 - Rohirrim Traitors can only be included in Lord Thorne's Warband.
-- If a Usurpers of Edoras Army includes Freca, it cannot include any Harad models.
-- Harad Warrior models can only be included in the Warband of a War Mûmak of Harad. Additionally, they must deploy within the howdah.
+- <span style="color: darkmagenta">If a Usurpers of Edoras Army includes Freca, it cannot include any Harad models.</span>
+- <span style="color: darkmagenta">Harad Warrior models can only be included in the Warband of a War Mûmak of Harad. Additionally, they must deploy within the howdah.</span>
 
 ## SPECIAL RULES
 

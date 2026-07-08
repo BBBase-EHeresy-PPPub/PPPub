@@ -6,7 +6,7 @@
 
 **HEROES OF LEGEND**
 
-- **Prince Imrahil**: 140 points
+- **Prince Imrahil**: <span style="color: darkmagenta">140 points</span>
     - Armoured horse and lance: 30 points
 
 **HEROES OF VALOUR**

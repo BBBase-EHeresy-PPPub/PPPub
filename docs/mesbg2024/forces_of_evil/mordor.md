@@ -698,7 +698,7 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 <div class="unitCard" markdown>
 
-### SHELOB [100 POINTS]
+### SHELOB [<span style="color: darkmagenta">100</span> POINTS]
 
 *INDEPENDENT HERO, UNIQUE*
 
@@ -1085,7 +1085,7 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 
 - **Wall-breaker** `ACTIVE`
 
-When rolling To Wound against a Siege Target, make two To Wound rolls and [pick][Pick] the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
 
 **Mordor Orc Siege Crew**
 

@@ -10,7 +10,7 @@
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -46,7 +46,7 @@
 
 - **Breathe Fire** `ACTIVE`
 
-Used as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range 12". On a hit, the model that is hit suffers a Strength 10 hit, and if they suffer a Wound which is not prevented, they are automatically slain. All models (friend or foe) within 2" of the hit model are immediately [Set Ablaze] (though they are not automatically slain if Wounded). This is a fire-based attack.
+<span style="color: darkmagenta">Used as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range 12". On a hit, the model that is hit suffers a Strength 10 hit, and if they suffer a Wound which is not prevented, they are automatically slain. All models (friend or foe) within 2" of the hit model are immediately [Set Ablaze] (though they are not automatically slain if Wounded). This is a fire-based attack.</span>
 
 - **Fly** `ACTIVE`
 
@@ -217,8 +217,8 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Enrage Beast] | 6" | 3+ |
-| [Fury] (Beast) | Self | 3+ |
+| [Enrage Beast] | <span style="color: darkmagenta">6"</span> | 3+ |
+| [Fury] (Beast) | <span style="color: darkmagenta">Self</span> | 3+ |
 | [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
@@ -312,7 +312,7 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 
 ### GOBLIN CAPTAIN [40 POINTS]
 
-*HERO OF FORTITUDE, 18 WARBAND*
+*<span style="color: darkmagenta">HERO</span> OF FORTITUDE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -521,7 +521,7 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -640,7 +640,7 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

@@ -47,4 +47,4 @@
 
 **Hold the Streets** - Friendly Warrior models within range of an Objective Marker may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
-**Master Burglar** - Whilst Bilbo is wearing [the One Ring][The One Ring] and is [Invisible], if he Moves through an enemy model that is holding an Objective Marker in Scenarios where this is relevant, Bilbo may roll a D6; on a 2+, Bilbo immediately gains control of the Objective Marker. Bilbo cannot use this ability if he cannot carry the Objective Marker in question for whatever reason.
+**Master Burglar** - ~~Whilst Bilbo is holding an Objective Marker in Scenarios where this is relevant, he increases his Attacks to 2.~~ Whilst Bilbo is wearing [the One Ring][The One Ring] and is [Invisible], if he Moves through an enemy model that is holding an Objective Marker in Scenarios where this is relevant, Bilbo may roll a D6; on a 2+, Bilbo immediately gains control of the Objective Marker. Bilbo cannot use this ability if he cannot carry the Objective Marker in question for whatever reason.

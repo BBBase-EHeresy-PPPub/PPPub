@@ -22,7 +22,7 @@
 **MINOR HEROES**
 
 - **Angmar Orc Shaman**: 50 points
-    - Warg: 20 points
+    - <span style="color: darkmagenta">Warg: 20 points</span>
 - **Barrow-wight**: 50 points
 
 **WARRIORS**

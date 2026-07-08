@@ -15,7 +15,7 @@
     - Horse: 20 points
 - **Haleth, Prince of Rohan**: 100 points
     - Armoured horse: 25 points
-    - Throwing spears: 5 points
+    - <span style="color: darkmagenta">Throwing spears: 5 points</span>
 - **Hama, Prince of Rohan**: 70 points
     - Horse: 20 points
 
@@ -42,7 +42,7 @@
     - Banner: 25 points
     - Throwing spears: 2 points
 - **Rohan Royal Guard**: 11 points
-    - Horse and throwing spears: 7 points
+    - <span style="color: darkmagenta">Horse and throwing spears: 7 points</span>
     - Horse: 5 points
     - Throwing spears: 2 points
 - **Warrior of Rohan**: 6 points

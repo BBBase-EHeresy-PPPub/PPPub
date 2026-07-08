@@ -23,7 +23,7 @@
 **INDEPENDENT HEROES**
 
 - **Grima**: 25 points
-- **Uruk-Hai Drummer**: 35 points
+- <span style="color: darkmagenta">**Uruk-Hai Drummer**: 35 points</span>
 
 **WARRIORS**
 

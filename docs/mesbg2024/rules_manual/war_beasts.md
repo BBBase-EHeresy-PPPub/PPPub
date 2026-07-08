@@ -57,7 +57,7 @@ Models in the Howdah cannot be knocked out of it, and if they would be forced ou
 
 Models may target a War Beast with Magical Powers, though must select either the Commander, one of the models in the Howdah or the War Beast as the target. Magical Powers that affect all models in a given range will affect the War Beast, and the Commander/models in the Howdah if they are in range.
 
-A War Beast is completely immune to any Magical Power that would prevent it from Activating, moving its full Move Value, or that would attempt to Move it.
+~~A War Beast is completely immune to any Magical Power that would prevent it from Activating, moving its full Move Value, or that would attempt to Move it.~~ <span style="color: darkmagenta">A War Beast is completely unaffected by special rules that would prevent it from Activating, moving its full Move Value, or that would attempt to Move it.</span>
 
 If the Commander is affected by a Magical Power (or special rule) that would prevent it from Activating, then this will only affect the Commander. The War Beast will still Activate as normal, however, it will not be able to pivot before it Tramples. Additionally, in these instances, the War Beast cannot use the Commander's Courage if it is required to take any Courage Tests to see if it Stampedes, and must instead use its own.
 

@@ -26,7 +26,7 @@
 - **Beorn**: 200 points
 - **Dwalin the Dwarf, Champion of Erebor**: 110 points
 - **Fili the Dwarf, Champion of Erebor**: 70 points
-- **Gwaihir**: 200 points
+- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
 - **Kili the Dwarf, Champion of Erebor**: 70 points
 - **Legolas Greenleaf, Prince of Mirkwood**: 105 points
     - Horse: 20 points

@@ -59,6 +59,8 @@ A Heavy Object cannot be Moved twice in the same Move Phase, and cannot be place
 
 Cavalry models cannot carry a Heavy Object. Monster models can still Move their full Move Value whilst carrying a Heavy Object.
 
+<span style="color: darkmagenta">A War Beast cannot pick up Light or Heavy objects.</span>
+
 ### OTHER MODELS
 
 In Narrative Play, there may be situations where models need to carry a fallen ally or prisoner - when this is the case it will be stated in the special rules for that Scenario. The weight of the model being carried, compared to how strong the carrying model is, will determine how the carried model is treated.

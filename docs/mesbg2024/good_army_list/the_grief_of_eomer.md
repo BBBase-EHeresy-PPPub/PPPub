@@ -10,7 +10,7 @@
     - Firefoot with armour: 25 points
     - Shield: 5 points
     - Throwing spears: 5 points
-- **Prince Imrahil**: 140 points
+- **Prince Imrahil**: <span style="color: darkmagenta">140 points</span>
     - Armoured horse and lance: 30 points
 
 **HEROES OF VALOUR**

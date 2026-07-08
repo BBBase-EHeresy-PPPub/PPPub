@@ -43,8 +43,8 @@
 ## ADDITIONAL RULES
 
 - A Cirith Ungol Army must always contain Shagrat and Gorbag; Shagrat must always be your General.
-- Orc Warrior models can only be included in the Warband of an Orc Hero.
-- Uruk-hai Warrior models can only be included in the Warband of an Uruk-hai Hero.
+- <span style="color: darkmagenta">Orc Warrior models can only be included in the Warband of an Orc Hero.</span>
+- <span style="color: darkmagenta">Uruk-hai Warrior models can only be included in the Warband of an Uruk-hai Hero.</span>
 
 ## SPECIAL RULES
 

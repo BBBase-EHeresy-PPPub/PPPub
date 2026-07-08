@@ -44,7 +44,7 @@
 - **Dunlending Horseman**: 12 points
 - **Dunlending Huscarl**: 11 points
 - **Dunlending Warrior**: 7 points
-    - Banner: 25 points
+    - <span style="color: darkmagenta">Banner: 25 points</span>
     - Bow: 1 point
     - Shield: 1 point
     - Two-handed weapon: 1 point
@@ -68,10 +68,10 @@
     - Shield: 1 point
     - Uruk-hai bow: 1 point
 - **Wild Man of Dunland**: 5 points
-    - Banner and light shield: 26 points
-    - War horn and light shield: 26 points
+    - <span style="color: darkmagenta">Banner and light shield: 26 points</span>
+    - <span style="color: darkmagenta">War horn and light shield: 26 points</span>
     - Banner: 25 points
-    - War horn: 25 points
+    - <span style="color: darkmagenta">War horn: 25 points</span>
     - Light shield and Flaming Brand: 2 points
     - Bow: 1 point
     - Flaming Brand: 1 point
@@ -87,7 +87,7 @@
 
 **The Voice of Saruman** - During his Activation, Saruman can use one of the following abilities instead of Casting a Magical Power. Each of these abilities can only be used once per game.
 
-Conjure Lightning - Choose a point on the battlefield at least 12" away from any friendly model (including Grima Wormtongue). Each model within 2" of the chosen point suffers a Strength 6 hit. If a Cavalry model is affected, both the rider and Mount will suffer a Strength 6 hit.
+Conjure Lightning - <span style="color: darkmagenta">Choose a point on the battlefield at least 12" away from any friendly model (including Grima Wormtongue).</span> Each model within 2" of the chosen point suffers a Strength 6 hit. If a Cavalry model is affected, both the rider and Mount will suffer a Strength 6 hit.
 
 Summon Gale - Until the end of the turn, enemy models halve their Move Value.
 

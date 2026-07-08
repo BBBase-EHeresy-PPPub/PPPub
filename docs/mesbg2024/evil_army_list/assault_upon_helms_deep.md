@@ -43,4 +43,4 @@
 
 **Commander of the Uruk-hai** - The Uruk-hai Captain that is your General increases its Attacks and Wounds to 3 each.
 
-**Break the Walls** - Friendly Isengard Assault Ballistae may re-roll To Hit and Scatter Rolls of a 1. Additionally, when a friendly Demolition Charge is detonated, you may roll two dice on the Detonation Table rather than one and [pick][Pick] either result.
+**Break the Walls** - Friendly Isengard Assault Ballistae may re-roll To Hit and Scatter Rolls of a 1. Additionally, when a friendly Demolition Charge is detonated, you may roll two dice on the Detonation Table rather than one and pick either result.

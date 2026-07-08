@@ -735,9 +735,9 @@ If Grima chooses to be deployed as part of the enemy Army, he must select an ene
 
 If Grima is deployed as part of the enemy Army, then enemy models treat him as a friendly model, and therefore cannot shoot him, Charge him, make Strikes against him, target him with special rules, or make a shooting attack in which Grima would be In The Way. They may also ignore his Control Zone. They can, however, target him with Magical Powers like any other enemy model.
 
-Whilst Grima is considered a friendly model, he does not have a Control Zone and may ignore the Control Zones of enemy models and may Move through enemy models as if they weren't there. When Grima Moves this way, he cannot end his Move overlapping or in base contact with an enemy model. Additionally, whilst Gríma is considered a friendly model, enemy models may Move through Grima in the same manner as described above. Grima can choose to Charge an enemy model as normal if he wishes.
+<span style="color: darkmagenta">Whilst Grima is considered a friendly model, he does not have a Control Zone and may ignore the Control Zones of enemy models and may Move through enemy models as if they weren't there. When Grima Moves this way, he cannot end his Move overlapping or in base contact with an enemy model. Additionally, whilst Gríma is considered a friendly model, enemy models may Move through Grima in the same manner as described above. Grima can choose to Charge an enemy model as normal if he wishes.</span>
 
-These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima Charges an enemy model, if Grima destroys an enemy Siege Engine, or if Grima interacts with an Objective Marker (such as destroying a Supply Marker or picking up an objective), at which point Grima is treated as a normal enemy model and can be Charged, shot and slain like any other model. Additionally, Grima can never be chosen as a target in Scenarios that require players to select friendly or enemy Hero models, such as Fog of War or Assassination.
+<span style="color: darkmagenta">These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima Charges an enemy model, if Grima destroys an enemy Siege Engine, or if Grima interacts with an Objective Marker (such as destroying a Supply Marker or picking up an objective), at which point Grima is treated as a normal enemy model and can be Charged, shot and slain like any other model. Additionally, Grima can never be chosen as a target in Scenarios that require players to select friendly or enemy Hero models, such as Fog of War or Assassination.</span>
 
 </div>
 
@@ -771,7 +771,7 @@ These restrictions immediately end if Saruman suffers an unsaved Wound, if Grima
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
-| 12" | 2 | 6+ | 2 | 3 | 2 | 4 | 8+ | 7+ |
+| 12" | 2 | 6+ | 2 | <span style="color: darkmagenta">3</span> | 2 | <span style="color: darkmagenta">4</span> | 8+ | 7+ |
 
 **WARGEAR**
 

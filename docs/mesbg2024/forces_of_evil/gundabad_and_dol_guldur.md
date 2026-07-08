@@ -56,7 +56,7 @@ When making Strikes against an enemy Hero, he may use this rule. A To Wound roll
 
 **WARGEAR**
 
-- Spectral Hands  ([hand weapons][Hand Weapon])
+- Spectral Hands ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -1017,7 +1017,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **WARGEAR**
 
-- Fangs  ([hand weapons][Hand Weapon])
+- Fangs ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1045,7 +1045,7 @@ A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon
 
 **WARGEAR**
 
-- Fangs  ([hand weapons][Hand Weapon])
+- Fangs ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1074,7 +1074,7 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a fo
 
 **WARGEAR**
 
-- Razor-sharp Teeth and Talons  ([hand weapons][Hand Weapon])
+- Razor-sharp Teeth and Talons ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

@@ -651,7 +651,7 @@ At the start of the game, after both sides have deployed, secretly select one He
 
 **WARGEAR**
 
-- Tusks and Huge Stomping Feet  ([hand weapons][Hand Weapon])
+- Tusks and Huge Stomping Feet ([hand weapons][Hand Weapon])
 
 **OPTIONS**
 
@@ -1064,7 +1064,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **WARGEAR**
 
-- [Armour], Claws and Teeth  ([hand weapons][Hand Weapon])
+- [Armour], Claws and Teeth ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

@@ -98,7 +98,7 @@ Gandalf may re-roll any failed Fate rolls.
 
 <div class="unitCard" markdown>
 
-### GWAIHIR [200 POINTS]
+### GWAIHIR [<span style="color: darkmagenta">200</span> POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -160,7 +160,7 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast] or benefit 
 | [Terrifying Aura] | Self | 3+ |
 | [Transfix] | 12" | 4+ |
 | [Renew] | 12" | 4+ |
-| [Nature's Wrath] | 3" | 5+ |
+| [Nature's Wrath] | <span style="color: darkmagenta">3"</span> | 5+ |
 | [Aura of Dismay] | Self | 5+ |
 | [Writhing Vines] | Self | 5+ |
 

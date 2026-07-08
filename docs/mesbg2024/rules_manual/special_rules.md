@@ -72,6 +72,8 @@ A model with this special rule does not suffer the -1 penalty to the Duel Roll f
 
 A model with this special rule applies a +1 modifier to any Jump, Leap and Climb Tests they take. Additionally, a model with this special rule suffers no penalties to how far they can see when fighting in the dark.
 
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>
+
 ### DOMINANT (X)
 
 `PASSIVE`
@@ -123,6 +125,8 @@ If a model wishes to do something part way through its Move whilst it is Flying 
 A model with this special rule can choose not to Fly, and in which case will treat its Move Value as 4" rather than that listed in its profile (usually 12"). If it does, then it gains none of the benefits of the Fly special rule, though it may enter a piece of woodland terrain; however, if it enters a piece of woodland terrain, it cannot elect to Fly again until it has completely left the woods.
 
 A model that chooses to Fly will ignore enemy Control Zones as it Moves. A model that wishes to Charge when it is flying can Charge any model whose Control Zone it finishes its Move in. If a Flying model wishes to Charge a model that is already Engaged in Combat (or has otherwise lost their Control Zone) then it can only do so if it can land in a position where is is not within the Control Zones of other enemy models.
+
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>
 
 ### GENERAL HUNTER
 
@@ -210,6 +214,8 @@ A model with this special rule may Move through areas of rocky terrain that are 
 
 Additionally, a model with this special rule may re-roll any Jump, Leap or Climb Tests.
 
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>
+
 ### POISONED ATTACKS
 
 `ACTIVE`
@@ -254,6 +260,8 @@ Models that are Prone or have the Cavalry keyword cannot benefit from, or provid
 
 A model with this special rule is never slowed by Difficult Terrain. Additionally, a model with this special rule always counts as rolling a 6 for any Climb, Jump, Leap or Swim Tests.
 
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>
+
 ### STALK UNSEEN
 
 `PASSIVE`
@@ -273,6 +281,8 @@ Every time a model with this special rule suffers a Wound that is not prevented,
 A model with this special rule is never slowed by Difficult Terrain, with the exception of water features. It can also ignore Obstacles as it Moves, allowing it to Move at any angle without having to make a Climb or Jump Test, though it will still count any vertical distance it has Moved towards its Move Value.
 
 A model with this special rule must finish its Move as flat to the playing surface as possible - no models finishing upside down, halfway up a wall, or at an angle, for example!
+
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>
 
 ### SWORN PROTECTOR (X)
 
@@ -327,3 +337,5 @@ Additionally, this model ignores the Invisible special rule and, if it was invol
 `ACTIVE`
 
 A model with this special rule may Move through woods and forests that are classed as Difficult Terrain as if they are Open Ground. If a Cavalry model has this special rule, but their Mount does not, then this rule does not apply to the Mount. If a Mount has this special rule, then they will still gain their Cavalry Charge bonuses when they Charge, even if the rider does not have this special rule.
+
+<span style="color: darkmagenta">This special rule may be used by models that are not yet on the battlefield.</span>

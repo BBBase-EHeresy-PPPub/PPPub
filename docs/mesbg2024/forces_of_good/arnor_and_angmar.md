@@ -123,17 +123,17 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 
 <div class="unitCard" markdown>
 
-### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
+### GULAVHAR, THE TERROR OF ARNOR [<span style="color: darkmagenta">200</span> POINTS]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 12" | 7 | 5+ | 8 | 5 | * | 4 | 6+ | 4+ | 3 | 3 | 0 |
+| <span style="color: darkmagenta">12"</span> | 7 | 5+ | 8 | 5 | * | 4 | 6+ | 4+ | 3 | 3 | 0 |
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -365,7 +365,7 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -638,7 +638,7 @@ Whenever Nazthak slays an enemy model in Combat (with the exception of Monster m
 
 **WARGEAR**
 
-- An Amalgamation of Grasping Spectral Hands  ([hand weapons][Hand Weapon])
+- An Amalgamation of Grasping Spectral Hands ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -675,7 +675,7 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -1035,7 +1035,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1062,7 +1062,7 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 </div>
 

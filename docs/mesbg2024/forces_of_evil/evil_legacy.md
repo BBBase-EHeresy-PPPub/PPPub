@@ -517,7 +517,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 
 **WARGEAR**
 
-- Large Venomous Fangs  ([hand weapons][Hand Weapon])
+- Large Venomous Fangs ([hand weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -544,7 +544,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Fangs  ([hand weapons][Hand Weapon])
+- Fangs ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1500,7 +1500,7 @@ A Dunlending Warrior must have one of the following options for the listed point
 
 **WARGEAR**
 
-- Claws and Teeth  ([hand weapons][Hand Weapon])
+- Claws and Teeth ([hand weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

@@ -6,7 +6,7 @@
 
 **HEROES OF LEGEND**
 
-- **Elrond**: 170 points
+- **Elrond**: <span style="color: darkmagenta">170 points</span>
 - **Saruman**: 170 points
 
 **HEROES OF VALOUR**

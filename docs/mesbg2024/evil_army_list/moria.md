@@ -58,7 +58,7 @@
 
 ## ADDITIONAL RULES
 
-- Beast Warrior models may only be included in Drûzhag's Warband.
+- <span style="color: darkmagenta">Beast Warrior models may only be included in Drûzhag's Warband.</span>
 
 ## SPECIAL RULES
 

@@ -16,7 +16,7 @@
 - **Dwalin the Dwarf**: 95 points
 - **Fili the Dwarf**: 50 points
 - **Gandalf the Grey**: 170 points
-- **Gwaihir**: 200 points
+- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
 - **Kili the Dwarf**: 50 points
 - **Radagast the Brown**: 145 points
     - Radagast's Sleigh: 35 points

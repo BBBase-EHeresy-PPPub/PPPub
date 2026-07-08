@@ -20,6 +20,8 @@ Models that are riding on a horse, Warg or some other ridden beast are classed a
 
 The part of a Cavalry model that is being ridden will often have the Mount keyword. A Mount has no specific rules associated with it, though will be referred to often in the Cavalry section (see page 66). There may be rare situations where the ridden part of a Cavalry model does not have the Mount keyword.
 
+<span style="color: darkmagenta">A Mount that is also a Hero cannot declare Heroic Actions.</span>
+
 ### MONSTER
 
 Monster models are those big, imposing creatures that can have a great impact on the direction a battle can take. As a result, Monster models have a number of additional rules that govern how they work. These are covered in the Monsters section on page 88. Many Monster models will also have another Unit Type keyword, usually either Infantry or Cavalry.

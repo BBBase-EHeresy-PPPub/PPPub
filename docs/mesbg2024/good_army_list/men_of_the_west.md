@@ -8,8 +8,8 @@
 
 - **Aragorn, King Elessar**: 225 points
     - Armoured horse: 25 points
-- **Gwaihir**: 200 points
-- **Prince Imrahil**: 140 points
+- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
+- **Prince Imrahil**: <span style="color: darkmagenta">140 points</span>
 
 **HEROES OF VALOUR**
 
