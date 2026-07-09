@@ -58,7 +58,7 @@ When you select a model to Shoot, you need to check if they have Line of Sight t
 
 ***Example 21:** Háma is readying himself to take a shot and there are four Hill Tribesmen (A, B, C and D) before him. Hill Tribesman A is in the open and therefore is an eligible target. Hill Tribesman B is partially concealed by a rock but is still a viable target. Hill Tribesman C is almost entirely obstructed but as Háma can see its head, it is still a viable target. Hill Tribesman D on the other hand is completely concealed apart from the flaming brand it is waving around - it cannot be targeted.*
 
-![](../media/rules_manual/example_21.jpg)
+![](../media/rules_manual/example_21.jpg){ width=560 height=452 }
 
 #### MEASURE RANGE
 
@@ -86,7 +86,7 @@ If there are multiple obstructions In The Way of the shot, you will need to make
 
 ***Example 22:** Bard wants to Shoot at the Hunter Orc bearing down on Bain. However, the Hunter Orc is partially concealed by a house and so Bard would require an In The Way Test to see whether or not he hits the Hunter Orc. Bard rolls To Hit and rolls a 5 - a hit! He then rolls an In The Way Test and rolls a 3, meaning the arrow will stick firmly in the house and not hit the Hunter Orc - bad news for Bain!*
 
-![](../media/rules_manual/example_22.jpg)
+![](../media/rules_manual/example_22.jpg){ width=562 height=485 }
 
 ### MODELS IN THE WAY (23)
 
@@ -98,7 +98,7 @@ The shooter must still be able to see their target; if the intervening models bl
 
 ***Example 23:** Bard wants to take a shot at the Hunter Orc closing in on Bain. Bard's controlling player takes a look to see if the shot is clear and realises that Bain is obscuring the shot. Because Bard is a Good model, he may not risk hurting a friendly model and so the shot cannot be made.*
 
-![](../media/rules_manual/example_23.jpg)
+![](../media/rules_manual/example_23.jpg){ width=562 height=635 }
 
 ### SHOOTING FROM BEHIND COVER (24)
 
@@ -108,7 +108,7 @@ A degree of common sense is required here; this does not allow for a model to Sh
 
 ***Example 24:** Háma is behind a low wall and wishes to Shoot at the Hill Tribesman beyond it. As Háma is in base contact with the wall, he can Shoot across it without penalty.*
 
-![](../media/rules_manual/example_24.jpg)
+![](../media/rules_manual/example_24.jpg){ width=562 height=673 }
 
 ### SHOOTING FROM BEHIND FRIENDS (25)
 
@@ -118,7 +118,7 @@ If a model is Shooting from behind a friendly model in this manner, and that fri
 
 ***Example 25:** Kíli is standing behind Dwalin and wishes to Shoot at the Goblin dashing towards them. Because he is in base contact with Dwalin, and Dwalin has the same base size as him, Kíli can Shoot past him and no In The Way Test is required.*
 
-![](../media/rules_manual/example_25.jpg)
+![](../media/rules_manual/example_25.jpg){ width=562 height=633 }
 
 ### SHOOTING INTO A COMBAT (26)
 
@@ -130,7 +130,7 @@ Finally, if the shot reaches the Combat, the shooter will need to make a special
 
 ***Example 26:** Narzug wants to Shoot at Thorin who is Engaged in Combat with two Hunter Orcs. Because he is an Evil model, Narzug may take the shot. First he rolls To Hit, and rolls a 6 - a very clear hit! Next, Narzug must make a special In The Way Test to see who he hits in the Combat, either Thorin or one of his allies. Narzug rolls a 2, meaning that he will hit a friendly model rather than Thorin, and therefore hits the Hunter Orc closest to him.*
 
-![](../media/rules_manual/example_26.jpg)
+![](../media/rules_manual/example_26.jpg){ width=869 height=338 }
 
 ## ROLLING TO WOUND (27)
 
@@ -177,4 +177,4 @@ If you have multiple models Shooting at multiple targets, it is best to break th
 
 ***Example 28:** Bilbo Baggins is in trouble - five Hunter Orcs are lining up shots against him. Two of the Hunter Orcs will need to take an In The Way Test, indicated by the red lines, whilst three will be unobscured, indicated by the white lines. To keep track of this and to make rolling all of the dice quicker, the Evil player rolls two red dice for the Hunter Orcs that need an In The Way Test, and three white dice for the Hunter Orcs that do not. Once it is clear which shots have hit, all of the To Wound Rolls can be made together.*
 
-![](../media/rules_manual/example_28.jpg)
+![](../media/rules_manual/example_28.jpg){ width=563 height=447 }

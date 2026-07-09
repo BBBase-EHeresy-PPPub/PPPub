@@ -2,7 +2,7 @@
 
 Playing battles of the Middle-earth Strategy Battle Game is a rather simple thing to do. However, there are a few things you will want to organise before you settle down to play your game - a willing opponent, of course, is the first vital thing! Here we will go through all you will need to play a game, explain some of them in a bit more detail, and help you understand what you need to get started in your first games in Middle-earth.
 
-[![](media/playfield_thumbnail.jpg)](media/playfield.jpg)
+[![](media/playfield_thumbnail.jpg){ width=1000 height=420 }](media/playfield.jpg)
 
 ## 1. Citadel or Forge World Miniatures
 

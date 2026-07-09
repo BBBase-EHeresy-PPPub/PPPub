@@ -1,4 +1,4 @@
-![](../media/forces_of_evil.jpg)
+![](../media/forces_of_evil.jpg){ width=750 height=750 }
 
 - [Evil Legacy](evil_legacy.md)
 - [Fallen Realms](fallen_realms.md)

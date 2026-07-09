@@ -14,7 +14,7 @@ In the case of a **Cavalry** model, as the rider is directing their mount, Line 
 
 ### CHARACTERISTICS FOR MOUNTS
 
-![](../media/rules_manual/orc_warrior.jpg) ![](../media/rules_manual/warg.jpg)
+![](../media/rules_manual/orc_warrior.jpg){ width=328 height=453 } ![](../media/rules_manual/warg.jpg){ width=341 height=350 }
 
 A **Cavalry** model has two sets of characteristics: one for the rider and one for the mount:
 
@@ -36,7 +36,7 @@ Any **Cavalry** model that moves whilst within difficult terrain counts the dist
 
 ***CAVALRY AND DIFFICULT TERRAIN***
 
-![](../media/rules_manual/cavalry_and_difficult_terrain_1.jpg)
+![](../media/rules_manual/cavalry_and_difficult_terrain_1.jpg){ width=517 height=561 }
 
 *Éowyn is riding her horse towards the Orcs at the* Pelennor Fields, *however she needs to pass through a rocky outcrop. A horse can move 10" in total. Éowyn spends 2" of movement to move up to the difficult terrain, leaving her with 8" of movement remaining. This allows Éowyn to move 2" through the rocks this turn.*
 
@@ -52,7 +52,7 @@ If a **Cavalry** model descends a distance greater than the height of the mount,
 
 ***CAVALRY DESCENDING***
 
-![](../media/rules_manual/cavalry_descending_1.jpg)
+![](../media/rules_manual/cavalry_descending_1.jpg){ width=519 height=656 }
 
 *Éomer and his horse wish to descend from a large boulder. Because the drop is taller than the mount, there is a risk that they will be injured. The horse suffers one Strength 3 hit. If it survives, it may complete its move as normal.*
 
@@ -114,13 +114,13 @@ A **Cavalry** model may dismount from their steed at any point in their Move. Di
 
 ***DISMOUNTING 1***
 
-![](../media/rules_manual/dismounting_1.jpg)
+![](../media/rules_manual/dismounting_1.jpg){ width=519 height=594 }
 
 *Éomer wishes to move under a low arch, whilst riding his horse. The arch, however, is too low - and he cannot fit underneath it. Éomer must either dismount and walk through, or find an alternative route.*
 
 ***DISMOUNTING 2***
 
-![](../media/rules_manual/dismounting_2.jpg)
+![](../media/rules_manual/dismounting_2.jpg){ width=656 height=495 }
 
 *Aragorn has chased his enemy, Gothmog, down, and now wishes to fight him. Because he is in difficult terrain, Aragorn decides to dismount and fight the Orc. Aragorn dismounts and then moves 3" to Charge Gothmog on foot.*
 
@@ -176,9 +176,9 @@ To represent this, **Cavalry** models fight as one model, with both rider and mo
 
 To illustrate this point, compare the characteristics of a Knight of Minas Tirith mounted on a horse with those of a Warg Rider.
 
-![](../media/rules_manual/knight_of_minas_tirith_horse.jpg)
+![](../media/rules_manual/knight_of_minas_tirith_horse.jpg){ width=634 height=109 }
 
-![](../media/rules_manual/orc_warrior_warg.jpg)
+![](../media/rules_manual/orc_warrior_warg.jpg){ width=629 height=111 }
 
 The Knight of Minas Tirith uses their own characteristics (except for Move, of course), as they are better than (or at least the same as) those of the horse they are riding. The Orc Warrior, on the other hand, uses its Warg's Strength of 4 when rolling To Wound against its opponents - a considerable advantage!
 
@@ -192,13 +192,13 @@ These bonuses do not apply when charging enemy Cavalry. In order to claim these 
 
 ***CAVALRY CHARGE 1***
 
-![](../media/rules_manual/cavalry_charge_1.jpg)
+![](../media/rules_manual/cavalry_charge_1.jpg){ width=515 height=491 }
 
 *Théoden charges into a pair of Morannon Orcs, meaning he will receive the Extra Attack bonus. Having won the Duel roll against them, he knocks them both to the ground. With 3 Attacks (2 on his profile and +1 for the Extra Attack bonus for charging as a Cavalry model), Théoden must now choose how to assign them. He assigns the first Attack to the first Orc, which becomes two Strikes. He rolls these and checks the results before deciding which Orc to assign the next attack (pair of Strikes) to.*
 
 ***CAVALRY CHARGE 2***
 
-![](../media/rules_manual/cavalry_charge_2.jpg)
+![](../media/rules_manual/cavalry_charge_2.jpg){ width=655 height=500 }
 
 *Éomer has charged a Morannon Orc and is subsequently charged by a Warg Rider. Since Éomer is no longer fighting against just Infantry models, he no longer gets the Knock to the Ground and Extra Attack bonuses he would normally get for charging. This means that Éomer only rolls three dice, the number of attacks on his profile, when seeing who wins the Fight.*
 
@@ -232,7 +232,7 @@ If a model employs a Magical Power against a **Cavalry** model, the whole model 
 
 ***CAVALRY AND MAGIC***
 
-![](../media/rules_manual/cavalry_and_magic_1.jpg)
+![](../media/rules_manual/cavalry_and_magic_1.jpg){ width=656 height=600 }
 
 Gandalf the White *is mounted upon* Shadowfax *and is the target of Saruman's Flameburst Magical Power. As this is a **Cavalry** model, both* Gandalf *and his mount feel the effects of the Magical Power and so both will suffer its effects.*
 

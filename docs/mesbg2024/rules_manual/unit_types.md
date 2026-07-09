@@ -2,7 +2,7 @@ To be successful in battle, an army will need to muster various types of warrior
 
 Every profile in the Middle-earth Strategy Battle Game has a number of keywords on it (as described on page 19), divided into three sections: Race, Faction and Unit Type - the latter of which we will cover here.
 
-![](../media/rules_manual/unit_type.jpg)
+![](../media/rules_manual/unit_type.jpg){ width=1000 height=783 }
 
 A profile's Unit Type keywords denote the model's role on the battlefield. Whether it be a simple Warrior designed to make up the battleline of a force, or a Hero whose job it is to lead the army in the art of warfare, and so on.
 

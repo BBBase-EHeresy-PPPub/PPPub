@@ -24,7 +24,7 @@ Depending on the configuration of your fortress, there may be doorways and trapd
 
 ***MOVING WITHIN A FORTRESS***
 
-![](../media/rules_manual/moving_within_a_fortress_1.jpg)
+![](../media/rules_manual/moving_within_a_fortress_1.jpg){ width=516 height=525 }
 
 *Théoden wishes to climb a staircase within the walls of Helm's Deep. The players have agreed that if Théoden enters this turn in one Move phase, he can emerge from the doorway in the next Move phase with half of his Movement allowance remaining.*
 
@@ -39,7 +39,7 @@ Fighting on staircases is the same as fighting anywhere else, with one exception
 
 ***FIGHTING ON STAIRS***
 
-![](../media/rules_manual/fighting_on_stairs_1.jpg)
+![](../media/rules_manual/fighting_on_stairs_1.jpg){ width=516 height=557 }
 
 Haldir *is fighting an Uruk-hai on a staircase within Helm's Deep. As the Uruk-hai is lower down on the staircase, if it loses the Duel roll against Haldir, it will need to roll to see if it slips and is knocked Prone. Conversely, as he is higher up, Haldir's footing is more secure and so he will not fall should he lose the Fight.*
 
@@ -67,7 +67,7 @@ If a model on a ladder loses a Fight, there is a chance they will fall from thei
 
 ***FIGHTING UP LADDERS***
 
-![](../media/rules_manual/fighting_up_ladders_1.jpg)
+![](../media/rules_manual/fighting_up_ladders_1.jpg){ width=656 height=491 }
 
 *These Uruk-hai are attacking from siege ladders. This combat is treated as a Fight across a Barrier as described on [page 48]. If the Uruk-hai wins and slays their opponent, they will automatically cross the wall onto the battlements. If they lose, they may fall backwards and fall to the ground and will take additional damage.*
 
@@ -87,6 +87,6 @@ To use the ram, it must end its move touching the target doorway. In the Fight p
 
 **BATTERINGDOWN GATES**
 
-![](../media/rules_manual/batteringdown_gates_1.jpg)
+![](../media/rules_manual/batteringdown_gates_1.jpg){ width=655 height=888 }
 
 *The gates of the* Hornburg *are being hammered by this battering ram. In the Fight phase, the battering ram gets a single Attack. Because there are six Uruk-hai crewing the ram, the ram makes the Attack at Strength 9 (Strength 4 for the first Uruk, plus 5 for the extra fighters carrying it). The gate is in deep trouble!*

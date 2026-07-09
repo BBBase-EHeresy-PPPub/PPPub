@@ -38,7 +38,7 @@ Any Good model that ends its move in base contact with a Rohan house that is on 
 
 At the end of the Evil player's first Move phase, they may roll a D6 for each Dunlending model not yet in play. On a 3+, that model may enter play from any point on any board edge via the rules for Reinforcements. On a 1-2, that model may roll again on the following turn, adding 1 to the result.
 
-![](../media/scenarios/war_in_rohan/burning_of_the_westfold.jpg)
+![](../media/scenarios/war_in_rohan/burning_of_the_westfold.jpg){ width=500 height=500 }
 
 ---
 
@@ -76,7 +76,7 @@ Evil models must re-roll failed To Wound rolls against Théodred in the Fight ph
 
 During the End phase of each turn, the Good player must roll a D6 and add the turn number to the result. If the result is 8 or more, Elfhelm and the remaining Good models will arrive at the end of the Good player's next Move phase from the eastern board edge via the rules for Reinforcements.
 
-![](../media/scenarios/war_in_rohan/first_battle_of_the_fords_of_isen.jpg)
+![](../media/scenarios/war_in_rohan/first_battle_of_the_fords_of_isen.jpg){ width=500 height=500 }
 
 ---
 
@@ -112,7 +112,7 @@ The river is counted as deep water for all purposes.
 
 Rohan models re-roll 1s To Wound in the Fight phase whilst they are on the ford.
 
-![](../media/scenarios/war_in_rohan/second_battle_of_the_fords_of_isen.jpg)
+![](../media/scenarios/war_in_rohan/second_battle_of_the_fords_of_isen.jpg){ width=500 height=500 }
 
 ---
 
@@ -156,7 +156,7 @@ At the end of each of Merry's and Pippin's move, they roll a D6 for each Hobbit.
 
 Grishnákh follows the same rules for movement as the Hobbits, except that he moves 3" when crawling and cannot cut his bonds, as he is not bound. Grishnákh is the only model that may charge the Hobbits, and will Fight them in the Fight phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are Prone, ignoring any rules for fighting whilst Prone. Additionally, as he is wounded, Grishnákh starts the game with only a single point of Might and only has 1 Attack.
 
-![](../media/scenarios/war_in_rohan/ambush_at_night.jpg)
+![](../media/scenarios/war_in_rohan/ambush_at_night.jpg){ width=500 height=500 }
 
 ---
 
@@ -201,7 +201,7 @@ If at any point there are no cards left in the deck, shuffle the cards and start
 - **Sprint:** Grishnákh may move 6" this turn.
 - **Grab Hobbit:** If Grishnákh is in base contact with Treebeard, and a Hobbit has climbed the Ent, Grishnákh may pull them to the floor. Grishnákh may then fight the Hobbit in the following Fight phase.
 
-![](../media/scenarios/war_in_rohan/grishnakh's_end.jpg)
+![](../media/scenarios/war_in_rohan/grishnakh's_end.jpg){ width=500 height=500 }
 
 ---
 
@@ -247,7 +247,7 @@ Here are the effects and power type of each card:
 
 The contents of the discard pile are common knowledge; you will need to use all of your cunning and wits in order to stay one step ahead of your opponent!
 
-![](../media/scenarios/war_in_rohan/the_white_wizard.jpg)
+![](../media/scenarios/war_in_rohan/the_white_wizard.jpg){ width=1000 height=195 }
 
 ---
 
@@ -289,7 +289,7 @@ At the end of each player's Move phase, they roll a D6 for each model not curren
 
 Gimli starts the game as a passenger on Legolas' horse.
 
-![](../media/scenarios/war_in_rohan/warg_attack.jpg)
+![](../media/scenarios/war_in_rohan/warg_attack.jpg){ width=500 height=500 }
 
 ---
 
@@ -331,7 +331,7 @@ When a Siege Ladder is raised, a single Uruk-hai Berserker within 1" of the ladd
 
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
 
-![](../media/scenarios/war_in_rohan/raise_the_ladders.jpg)
+![](../media/scenarios/war_in_rohan/raise_the_ladders.jpg){ width=500 height=500 }
 
 ---
 
@@ -367,7 +367,7 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 The eastern edge of the Deeping Wall is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
-![](../media/scenarios/war_in_rohan/the_walls_of_helm's_deep.jpg)
+![](../media/scenarios/war_in_rohan/the_walls_of_helm's_deep.jpg){ width=271 height=500 }
 
 ---
 
@@ -403,7 +403,7 @@ Each time an Uruk-hai Warrior is slain (with the exception of the Uruk-hai Berse
 
 Evil models add 1 to the result when rolling on the Detonation table.
 
-![](../media/scenarios/war_in_rohan/plant_the_charges.jpg)
+![](../media/scenarios/war_in_rohan/plant_the_charges.jpg){ width=500 height=500 }
 
 ---
 
@@ -453,7 +453,7 @@ All Good Hero models start the game with 0 Fate.
 
 Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
 
-![](../media/scenarios/war_in_rohan/the_deeping_wall_is_breached.jpg)
+![](../media/scenarios/war_in_rohan/the_deeping_wall_is_breached.jpg){ width=500 height=500 }
 
 ---
 
@@ -489,7 +489,7 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 Evil models may re-roll failed To Wound rolls in the Fight phase.
 
-![](../media/scenarios/war_in_rohan/retreat_to_the_hornburg.jpg)
+![](../media/scenarios/war_in_rohan/retreat_to_the_hornburg.jpg){ width=270 height=500 }
 
 ---
 
@@ -523,7 +523,7 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 The Gate has a Defence of 8 and only a single Wound remaining.
 
-![](../media/scenarios/war_in_rohan/the_causeway.jpg)
+![](../media/scenarios/war_in_rohan/the_causeway.jpg){ width=500 height=500 }
 
 ---
 
@@ -559,7 +559,7 @@ Each time an Uruk-hai Warrior is slain, keep it to one side. At the end of each 
 
 Théoden and Gamling may not escape the board until any one of Aragorn, Legolas, or Gimli has escaped the board first.
 
-![](../media/scenarios/war_in_rohan/fall_back_to_the_keep.jpg)
+![](../media/scenarios/war_in_rohan/fall_back_to_the_keep.jpg){ width=500 height=500 }
 
 ---
 
@@ -591,7 +591,7 @@ The game lasts until one player's force is wiped out, at which point the other p
 
 Friendly Cavalry models gain a bonus of +1 Strength on a turn in which they charged.
 
-![](../media/scenarios/war_in_rohan/ride_out.jpg)
+![](../media/scenarios/war_in_rohan/ride_out.jpg){ width=500 height=500 }
 
 ---
 
@@ -627,7 +627,7 @@ Friendly Rohan Cavalry models within 12" of Éomer gain +1 Strength on a turn in
 
 Once per battle, so long as Gandalf is alive and in your force, you can declare you are using this ability at the start of any friendly Move phase. Until the end of the turn, enemy models that are Engaged with, or supporting a model Engaged with, any friendly Cavalry models that made a Charge that turn, suffer a penalty of -1 to their Duel rolls.
 
-![](../media/scenarios/war_in_rohan/eomer's_return.jpg)
+![](../media/scenarios/war_in_rohan/eomer's_return.jpg){ width=500 height=973 }
 
 ---
 
@@ -691,7 +691,7 @@ Siege Ladders are Heavy Objects that require four or more models to move them at
 
 Ladders can be pushed down as described on page 122 of the main rules manual. Models that were on a ladder that is pushed down will suffer falling damage as normal.
 
-![](../media/scenarios/war_in_rohan/the_battle_of_helm's_deep.jpg)
+![](../media/scenarios/war_in_rohan/the_battle_of_helm's_deep.jpg){ width=750 height=750 }
 
 ---
 
@@ -725,7 +725,7 @@ Good models may re-roll To Wound rolls of a 1 against any Evil models that are f
 
 The Evil player may have up to four ladders in their army, which they can use to climb the walls of Edoras.
 
-![](../media/scenarios/war_in_rohan/the_defence_of_edoras.jpg)
+![](../media/scenarios/war_in_rohan/the_defence_of_edoras.jpg){ width=500 height=500 }
 
 ---
 
@@ -765,7 +765,7 @@ If an Ent loses a Fight, all Orc models involved in the Fight may choose to try 
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 
-![](../media/scenarios/war_in_rohan/last_march_of_the_ents.jpg)
+![](../media/scenarios/war_in_rohan/last_march_of_the_ents.jpg){ width=500 height=500 }
 
 ---
 
@@ -795,7 +795,7 @@ With the Battle of Helm's Deep lost, the Uruk-hai are trying to flee back to Ise
 
 During the End phase of each turn, each Uruk-hai model within 2" of a tree suffers a Strength 4 hit. As there are a lot of trees in this scenario, this will be happening quite a lot!
 
-![](../media/scenarios/war_in_rohan/the_uruk-hai_retreat.jpg)
+![](../media/scenarios/war_in_rohan/the_uruk-hai_retreat.jpg){ width=500 height=500 }
 
 ---
 
@@ -833,7 +833,7 @@ All Good models gain the Fleetfoot and Woodland Creature special rules whilst th
 
 Evil models may not move at all on the first turn of the game.
 
-![](../media/scenarios/war_in_rohan/paths_of_the_druadan.jpg)
+![](../media/scenarios/war_in_rohan/paths_of_the_druadan.jpg){ width=500 height=500 }
 
 ---
 
@@ -867,7 +867,7 @@ The area of the Anduin that is the ford is treated as Shallow Water. The rest of
 
 At the end of the Good player's fourth Move phase, the Rohan models may move onto the board from the northern board edge via the rules for Reinforcements.
 
-![](../media/scenarios/war_in_rohan/field_of_celebrant.jpg)
+![](../media/scenarios/war_in_rohan/field_of_celebrant.jpg){ width=500 height=500 }
 
 ---
 
@@ -907,7 +907,7 @@ Once per game, at the start of any Fight phase, one Dunlending Chieftain can dec
 
 To capture the Golden Hall, the Evil player must have five Dunlending models, including at least one Hero model, move into the Golden Hall via the doors. Models that move into the Golden Hall do not count as slain but cannot move out again once they are inside.
 
-![](../media/scenarios/war_in_rohan/assault_on_edoras.jpg)
+![](../media/scenarios/war_in_rohan/assault_on_edoras.jpg){ width=500 height=500 }
 
 ---
 
@@ -947,4 +947,4 @@ Once per game, at the start of any Fight phase, one Dunlending Chieftain can dec
 
 Helm Hammerhand may declare a Heroic Combat each turn without spending Might.
 
-![](../media/scenarios/war_in_rohan/birth_of_helms_deep.jpg)
+![](../media/scenarios/war_in_rohan/birth_of_helms_deep.jpg){ width=500 height=500 }

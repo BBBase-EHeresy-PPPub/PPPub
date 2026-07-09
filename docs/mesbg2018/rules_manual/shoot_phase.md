@@ -26,7 +26,7 @@ Shooting is a fairly simple practice, especially after you have done it a few ti
 
 All models have a Shoot value listed in their profile - it is the second number beneath the Fight characteristic (and is always followed by a plus sign). Here you can see Legolas has a Shoot value of 3+.
 
-![](../media/rules_manual/legolas.jpg)
+![](../media/rules_manual/legolas.jpg){ width=469 height=486 }
 
 *For example: Having worked out that he can see his target, and that his target is in range, Legolas lets his arrow loose against the Hunter Orc. To see if the shot is a hit, Legolas rolls a D6, which results in a 5. This is enough to hit the target, but if he had rolled a 1 or a 2, the shot would have missed.*
 
@@ -48,7 +48,7 @@ When you select a model to make a shot, you need to check if they have any enemy
 
 ***LINE OF SIGHT***
 
-![](../media/rules_manual/line_of_sight_1.jpg)
+![](../media/rules_manual/line_of_sight_1.jpg){ width=517 height=524 }
 
 *Legolas is readying himself to make a shot and there are four Hunter Orcs (A, B, C, D) before him. Hunter Orc A is in the open, and therefore is an eligible target. Hunter Orc B is partially concealed by the tree trunk, but is still a viable target. Hunter Orc C is almost completely concealed, but Legolas can see some of his face, so he is still a legitimate target. Hunter Orc D, on the other hand, is completely concealed except for his hand and a waving weapon - he cannot be targeted.*
 
@@ -104,7 +104,7 @@ models still cannot shoot at enemy models that are obscured by friendly models.
 
 ***TERRAIN IN THE WAY***
 
-![](../media/rules_manual/terrain_in_the_way_1.jpg)
+![](../media/rules_manual/terrain_in_the_way_1.jpg){ width=516 height=523 }
 
 *Here,* Bard *wants to shoot at the Hunter Orc scout bearing down upon* Bain. *However, Bard cannot see the whole Hunter Orc model. Some of it is being blocked by a house, so the house is In The Way. Bard rolls To Hit, scoring a 5 - a hit! He must then make his In The Way roll for the house, needing a 4+ to succeed. Bard rolls a 2 and his arrow sticks firmly in the wooden house - bad news for* Bain!
 
@@ -118,13 +118,13 @@ The shooter must still be able to see their target; if the intervening model blo
 
 ***MODELS IN THE WAY 1***
 
-![](../media/rules_manual/models_in_the_way_1.jpg)
+![](../media/rules_manual/models_in_the_way_1.jpg){ width=517 height=524 }
 
 *Adam wants his* Narzug *to shoot at Jay's* Beorn *with his Orc bow. However, there are two Hunter Orcs In The Way of Beorn to the right, and *Radagast *is In The Way of Beorn to the left. Adam and Jay have differing ideas as to which is the correct path for the shots to take, so to speed things up Adam (as Narzug's controlling player) rolls a D6 - and rolls a 2 meaning that the shot will pass through the two Hunter Orcs. Adam now has to decide whether he wants to risk hitting his own warriors or whether to look for another target.*
 
 ***MODELS IN THE WAY 2***
 
-![](../media/rules_manual/models_in_the_way_2.jpg)
+![](../media/rules_manual/models_in_the_way_2.jpg){ width=516 height=490 }
 
 *Bard wants to take a shot at a Hunter Orc, who is closing in on Bain. The controlling player takes a look to see if the shot is clear and realises Bain is in The Way of the shot. Because Bard is a Good model, he may not risk hurting a friendly model, and so the shot cannot be made.*
 
@@ -134,7 +134,7 @@ A model that is in base contact with an Obstacle or piece of cover that it can s
 
 ***SHOOTING FROM BEHIND COVER***
 
-![](../media/rules_manual/shooting_from_behing_cover_1.jpg)
+![](../media/rules_manual/shooting_from_behing_cover_1.jpg){ width=657 height=393 }
 
 *Legolas, behind a low wall, wishes to shoot at the Hunter Orcs that are closing in on him. Because he is in base contact with the wall, he can shoot across it without penalty.*
 
@@ -144,7 +144,7 @@ Whilst other models are typically considered to be obstructions when it comes to
 
 ***SHOOTING FROM BEHIND FRIENDS***
 
-![](../media/rules_manual/shooting_from_behing_friends_1.jpg)
+![](../media/rules_manual/shooting_from_behing_friends_1.jpg){ width=653 height=557 }
 
 Kili *is standing behind* Dwalin *(a rather safe place to be!), and wishes to take a shot at the Goblin rushing towards them. Because he is in base contact with Dwalin, Kili can shoot past him and no In The Way test is required.*
 
@@ -158,7 +158,7 @@ Finally, you'll need to make a special In The Way test: roll a D6 to see who in 
 
 ***SHOOTING INTO COMBAT***
 
-![](../media/rules_manual/shooting_into_combat_1.jpg)
+![](../media/rules_manual/shooting_into_combat_1.jpg){ width=655 height=669 }
 
 Fimbul *wants to shoot at* Thorin*, *who is Engaged in combat against a pair of Hunter Orcs. Because he is an Evil model, Fimbul may take the shot. First he rolls To Hit, scoring a 6 a very clear hit! Next, he takes the special In The Way test to see if he hits Thorin, or one of the Hunter Orcs. Fimbul rolls a 2, meaning that he instead hits the Hunter Orc closest to him!*
 
@@ -172,7 +172,7 @@ Note that turning on the spot does not count as movement (in fact, it's a great 
 
 ***MOVING AND SHOOTING***
 
-![](../media/rules_manual/moving_and_shooting_1.jpg)
+![](../media/rules_manual/moving_and_shooting_1.jpg){ width=656 height=587 }
 
 *Kili is trying to keep up with his friends, whilst also whittling down the Goblins bearing down upon them. He wishes to shoot at the Goblin nearest to him, and has moved this turn. Normally Kili needs a 3+ to hit a target with his bow, but because he has moved this turn, he instead needs a 4+. Kili rolls a 4, which is a hit!*
 
@@ -188,7 +188,7 @@ First, compare the Strength of the weapon to the Defence of your target on the T
 
 ### TO WOUND CHART
 
-![](../media/rules_manual/to_wound_chart.jpg)
+![](../media/rules_manual/to_wound_chart.jpg){ width=724 height=716 }
 
 **ROLLING TO WOUND**
 
@@ -212,6 +212,6 @@ If you have multiple models shooting at multiple targets, it is best to break th
 
 ***TAKING SHOTS TOGETHER***
 
-![](../media/rules_manual/taking_shots_together.jpg)
+![](../media/rules_manual/taking_shots_together.jpg){ width=655 height=457 }
 
 Bilbo Baggins *is in trouble - five Hunter Orcs are lining up to take shots at him. Two of the Hunter Orcs will need to take an In The Way test for a low wall, however (indicated by the red lines). To keep track of these and to make rolling all of the dice quicker, the dice can be rolled in two batches: the three shots that are unobstructed, and the two shots that will require In The Way rolls. Once it is clear which shots have hit, all of the To Wound rolls can be made at once.*

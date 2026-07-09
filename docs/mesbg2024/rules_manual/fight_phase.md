@@ -34,7 +34,7 @@ Sometimes there may be a situation where a rule will target or affect a model in
 
 *However, as Moria Goblin F could be fighting either Pippin or Aragorn, and both are already in a Combat it is up to the player with Priority to decide which Combat it will be Paired Off into. As the Evil player has Priority, they choose to Pair Off Moria Goblin F into Pippin's Combat - bad news for the Hobbit!*
 
-![](../media/rules_manual/example_29.jpg)
+![](../media/rules_manual/example_29.jpg){ width=720 height=745 }
 
 ## WHEN TO FIGHT
 
@@ -71,11 +71,11 @@ Many things can affect a Duel Roll, so when making a Duel Roll follow these step
 
 ***Example 30:** Frodo is fighting for his life against this Moria Goblin. They need to make a Duel Roll, and both roll a dice to see who wins. Frodo rolls a 5, whilst the Moria Goblin rolls a 2. With the highest result, Frodo wins the Duel Roll and the Moria Goblin must Back Away.*
 
-![](../media/rules_manual/example_30.jpg)
+![](../media/rules_manual/example_30.jpg){ width=715 height=635 }
 
 ***Example 31:** Here, Aragorn is fighting an Uruk-hai. As a skilled combatant, Aragorn has 3 Attacks on his profile. This allows him to roll three dice for his Duel Roll, compared to the Uruk-hai's 1, and pick the highest result.*
 
-![](../media/rules_manual/example_31.jpg)
+![](../media/rules_manual/example_31.jpg){ width=715 height=485 }
 
 #### WHO RE-ROLLS FIRST?
 
@@ -89,7 +89,7 @@ If this is still a tie, then the player with Priority will need to roll a D6 to 
 
 ***Example 32:** Frodo is fighting yet another Moria Goblin. Making a Duel Roll, both Frodo and the Moria Goblin roll a 3 - a tie. Comparing their Fight Values, we see that Frodo has a Fight Value of 3, whilst the Moria Goblin has a Fight Value of 2, meaning that Frodo wins the Duel Roll and the Moria Goblin must Back Away. Frodo will then have the opportunity to make a Strike.*
 
-![](../media/rules_manual/example_32.jpg)
+![](../media/rules_manual/example_32.jpg){ width=714 height=333 }
 
 ### LOSER BACKS AWAY (33, 34)
 
@@ -99,11 +99,11 @@ When a model must Back Away it may Move through the Control Zones of enemy model
 
 ***Example 33:** Haleth has beaten Wulf in a Duel Roll, and so Wulf must now Back Away 1". The direction in which Wulf Backs Away is up to his controlling player, as long as he Moves the full 1" away from Haleth. As Wulf retreats backwards, Haleth readies his weapon to make Strikes.*
 
-![](../media/rules_manual/example_33.jpg)
+![](../media/rules_manual/example_33.jpg){ width=714 height=258 }
 
 ***Example 34:** Bombur has lost a Duel Roll and finds himself pinned in place by two Goblins with his back to a sheer drop. As he must Back Away, Bombur is forced over the edge! First the Goblins resolve their Strikes as normal and then, assuming Bombur survives, he will fall and suffer Falling Damage.*
 
-![](../media/rules_manual/example_34.jpg)
+![](../media/rules_manual/example_34.jpg){ width=714 height=407 }
 
 #### TRAPPED
 
@@ -127,7 +127,7 @@ A Make Way Move is entirely optional, though not doing so will likely result in 
 
 ***Example 35:** Théoden has lost a Duel Roll against the Witch-king, and finds himself Trapped by Éowyn and Merry. Not wanting Théoden to take double Strikes from the Lord of the Nazgûl, the Good player has Merry Make Way to allow Théoden the space he needs to Back Away.*
 
-![](../media/rules_manual/example_35.jpg)
+![](../media/rules_manual/example_35.jpg){ width=715 height=634 }
 
 #### PRONE MODELS
 
@@ -151,7 +151,7 @@ Whenever a model resolves a Strike against a Trapped model, they make two To Wou
 
 ***Example 36:** Gandalf has forced this Moria Goblin against a rocky wall, trapping it. The Wizard wins the Duel Roll, causing the Moria Goblin to be Trapped. Gandalf makes a Strike against the Moria Goblin and rolls two To Wound Rolls against his Trapped foe, applying both results.*
 
-![](../media/rules_manual/example_36.jpg)
+![](../media/rules_manual/example_36.jpg){ width=714 height=670 }
 
 ### REMOVE CASUALTIES
 
@@ -177,7 +177,7 @@ A model that wins a Duel Roll against multiple models may make Strikes against a
 
 ***Example 37:** Aragorn is fighting two Uruk-hai: one Trapped against a rocky wall, and another that has Charged in against him. Aragorn wins the Duel Roll and now gets to resolve his Strikes. He chooses to use his first Strike against the Trapped Uruk-hai and makes two To Wound Rolls simultaneously as it is Trapped. If the Uruk-hai survives, Aragorn can direct another Strike at it (for a further two To Wound Rolls) or he can choose to use his Strikes against the other Uruk-hai, which will only make a single To Wound Roll each as the other Uruk-hai is not Trapped.*
 
-![](../media/rules_manual/example_37.jpg)
+![](../media/rules_manual/example_37.jpg){ width=715 height=483 }
 
 #### MULTIPLE ATTACKS (37)
 
@@ -211,7 +211,7 @@ Prone models may never defend a Barrier.
 
 ***Example 38:** Haleth is in base contact with a low wall and is therefore defending it, with his Control Zone extending over it. No enemy model may cross the wall within Haleth's Control Zone unless they first Charge and slay him. The Hill Tribesman must decide whether to cross the wall further away from Haleth, or whether to risk taking on a skilled fighter behind the barricade.*
 
-![](../media/rules_manual/example_38.jpg)
+![](../media/rules_manual/example_38.jpg){ width=715 height=671 }
 
 #### CHARGING A MODEL BEHIND A BARRIER
 
@@ -225,7 +225,7 @@ The rules for making a Duel Roll over a Barrier are exactly the same as those fo
 
 ***Example 39:** Here, Haleth and General Targg are fighting over a Barrier with Haleth as the defender. Haleth wins the Duel Roll and makes his Strikes against General Targg without needing to make an In The Way Test for each Strike. If General Targg had won, he would have needed to take an In The Way Test for each of his Strikes.*
 
-![](../media/rules_manual/example_39.jpg)
+![](../media/rules_manual/example_39.jpg){ width=714 height=633 }
 
 #### MAKING STRIKES OVER BARRIERS
 
@@ -249,7 +249,7 @@ In an alternative situation, if the attacking model is Charged by another model 
 
 ***Example 40:** Haleth is still defending the low wall against General Targg but now a Hill Tribesman has arrived. Because the Hill Tribesman is on the same side of the Barrier as him, Haleth will receive no protection from the Barrier. Should Haleth lose the Duel Roll, General Targg and his ally will be able to make Strikes against Haleth without needing to take an In The Way Test for each Strike.*
 
-![](../media/rules_manual/example_40.jpg)
+![](../media/rules_manual/example_40.jpg){ width=713 height=569 }
 
 ### DOORWAYS (41)
 
@@ -259,7 +259,7 @@ Only a single model can defend a Doorway at a time. If two models could stand in
 
 ***Example 41:** Here, Gothmog is blocking a Doorway he is standing in. Because Aragorn cannot Move through the Doorway without Moving into base contact with Gothmog, the sneaky Orc gets the advantage of defending the Doorway.*
 
-![](../media/rules_manual/example_41.jpg)
+![](../media/rules_manual/example_41.jpg){ width=714 height=672 }
 
 ### ELEVATED POSITIONS (42, 43)
 
@@ -271,8 +271,8 @@ Models may not Charge a model defending an Elevated Position that is greater tha
 
 ***Example 42:** Kíli and Fíli are atop a ledge, facing a tide of Goblins. Because their Elevated Position is higher than half the height of the Goblins, both brothers will receive the bonuses for defending a Barrier.*
 
-![](../media/rules_manual/example_42.jpg)
+![](../media/rules_manual/example_42.jpg){ width=713 height=633 }
 
 ***Example 43:** The Mordor Troll has Charged the Warrior of Minas Tirith which is atop this ruin. As the ruin is taller than half the height of the Troll, but not taller than it, the Warrior of Minas Tirith will count as defending a Barrier. If the ruin had been less than half the height of the Troll, then it would have provided no benefit to the Warrior of Minas Tirith and the Combat would have been resolved as normal.*
 
-![](../media/rules_manual/example_43.jpg)
+![](../media/rules_manual/example_43.jpg){ width=715 height=782 }

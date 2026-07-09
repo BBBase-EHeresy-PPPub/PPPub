@@ -52,7 +52,7 @@ If, during a battle, two or more models win a Duel roll and the number of Wounds
 
 *For example: Two Orc Warriors are in combat with a Warrior of Minas Tirith. They win the Duel roll and both score a Wound. As the Warrior of Minas Tirith only has 1 Wound, only one of the Wounds inflicted can count for the purposes of gaining Experience. The player controlling the Orcs chooses which of the Orc Warriors (it cannot be both) has slain the Warrior of Minas Tirith.*
 
-![](../media/battle_companies/warrior_experience_example.jpg)
+![](../media/battle_companies/warrior_experience_example.jpg){ width=505 height=602 }
 
 ---
 

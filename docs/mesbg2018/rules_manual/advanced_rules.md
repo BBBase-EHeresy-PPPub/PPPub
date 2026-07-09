@@ -34,7 +34,7 @@ Note: Models that are heavily laden may fall foul of their burdens in deep water
 
 ***SWIM TEST***
 
-![](../media/rules_manual/swim_test_1.jpg)
+![](../media/rules_manual/swim_test_1.jpg){ width=516 height=392 }
 
 *Samwise Gamgee has lost a Fight against an Uruk-hai Scout, and now finds himself in the river. He must immediately take a Swim test. He rolls a 3, which means that he doesn't drown. At the start of his Move phase in the following turn, he must roll again. This time Sam rolls a 6 and, defying all of the stereotypes about Hobbits, swims strongly for the riverbank, moving his full Move allowance.*
 
@@ -71,7 +71,7 @@ A model is a Light Object if its Defence value is half of the Strength of the be
 
 ***CARRYING OTHER MODELS***
 
-![](../media/rules_manual/carrying_other_models_1.jpg)
+![](../media/rules_manual/carrying_other_models_1.jpg){ width=515 height=558 }
 
 *Frodo has fallen foul of Shelob's stinger, and as such has fallen unconscious - he will need to be carried. Sam wishes to carry his friend to safety, but as Frodo's Defence is more than half of Sam's Strength, he will count as a Heavy Object. Sam moves 2" so that he is in base contact with his friend who he then picks up. Sam then carries on with his movement, halving his remaining Move allowance of 2", and moves a further 1" whilst carrying Frodo.*
 

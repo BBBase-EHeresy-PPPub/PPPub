@@ -32,7 +32,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
 * You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
-![](../media/scenarios/rules_manual/domination.jpg)
+![](../media/scenarios/rules_manual/domination.jpg){ width=967 height=655 }
 
 ---
 
@@ -73,7 +73,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score 3 Victory Points if the enemy Army has been reduced to 25% of its starting models at the end of the game.
 * You score 1 Victory Point for each enemy Hero model that has been removed as a casualty, up to a maximum of 3 Victory Points.
 
-![](../media/scenarios/rules_manual/to_the_death.jpg)
+![](../media/scenarios/rules_manual/to_the_death.jpg){ width=969 height=677 }
 
 ---
 
@@ -125,7 +125,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 | 5 | You choose a point on either the east or west board edges at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 | 6 | You choose a point on any board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
-![](../media/scenarios/rules_manual/hold_ground.jpg)
+![](../media/scenarios/rules_manual/hold_ground.jpg){ width=967 height=677 }
 
 ---
 
@@ -173,7 +173,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Supply Markers** - The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not Cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
 
-![](../media/scenarios/rules_manual/destroy_the_supplies.jpg)
+![](../media/scenarios/rules_manual/destroy_the_supplies.jpg){ width=969 height=677 }
 
 ---
 
@@ -223,7 +223,7 @@ Roll for each Warband separately, Activate the models in the Warband, then roll 
 
 ***Designer's Note** - Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
-![](../media/scenarios/rules_manual/reconnoitre.jpg)
+![](../media/scenarios/rules_manual/reconnoitre.jpg){ width=967 height=677 }
 
 ---
 
@@ -267,4 +267,4 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **Designer's Note** - In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.
 
-![](../media/scenarios/rules_manual/fog_of_war.jpg)
+![](../media/scenarios/rules_manual/fog_of_war.jpg){ width=967 height=647 }

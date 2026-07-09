@@ -54,7 +54,7 @@ A Siege Engine isn't able to Shoot just in any direction, and needs to be facing
 
 A Siege Engine cannot make a Shooting Attack if there is an enemy model in base contact with it.
 
-![](../media/rules_manual/siege_engine_template.jpg)
+![](../media/rules_manual/siege_engine_template.jpg){ width=466 height=340 }
 
 When making a Shooting Attack with a Siege Engine, start by picking a target model within the range of the Siege Engine, in Line of Sight from the Siege Engine and within its Arc of Sight. Many Siege Engine models have a minimum and maximum range (e.g., 12"-60") and as such they cannot choose a target that is closer than their minimum range or further than its maximum range. Every model can be described as either a Battlefield Target or a Siege Target, which will determine how easy it is to hit.
 

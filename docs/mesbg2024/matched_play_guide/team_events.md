@@ -96,28 +96,28 @@ Once the teams have been matched up, it's time to decide who plays who from each
 
 *For example: Team 1 is composed of Keith, Jay, Gavin and Becky. Team 2 is composed of Dan, Rob, Luke and Lewis.*
 
-![](../media/matched_play_guide/team_pairing_system.jpg)
+![](../media/matched_play_guide/team_pairing_system.jpg){ width=710 height=173 }
 
 **Step 1.** Both teams secretly nominate one player on their team to put forward - this person will be the Vanguard Player. Once both teams are happy with their Vanguard Player selection, they reveal their choice simultaneously.
 
 *Both secretly nominate their Vanguard Player, revealing their choice simultaneously. Team 1 puts forward Jay and Team 2 puts forward Rob.*
 
-![](../media/matched_play_guide/team_pairing_step_1.jpg)
+![](../media/matched_play_guide/team_pairing_step_1.jpg){ width=710 height=275 }
 
 **Step 2.** Each team then secretly nominates two of their players to put forward against the opposing team's Vanguard Player - these are the team's Battleline Players. The remaining person on the team becomes the Reserve Player. Once both teams are happy with their chosen Battleline Players, they reveal their choices simultaneously.
 
 *Both teams then secretly nominate their two Battleline Players to put forward against the Vanguard Players. Team 1 puts Becky and Gavin forward, and Team 2 puts Dan and Luke forward.*
 
-![](../media/matched_play_guide/team_pairing_step_2.jpg)
+![](../media/matched_play_guide/team_pairing_step_2.jpg){ width=712 height=277 }
 
 **Step 3.** The Vanguard Player from each team will then choose which of the two opposing Battleline Players they wish to play against. This will establish the first two match-ups.
 
 *The Vanguard Players now get to choose which of the opposing two Battleline Players they wish to play against, revealing their choices simultaneously. Jay decides that he wants to play against Luke, and Rob chooses to play against Becky.*
 
-![](../media/matched_play_guide/team_pairing_step_3.jpg)
+![](../media/matched_play_guide/team_pairing_step_3.jpg){ width=712 height=276 }
 
 **Step 4.** Finally, the Reserve player will match-up against the Battleline Player on the opposing team who was not chosen by the team's Vanguard Player.
 
 *The Reserve Players then match-up against the opposing Battleline Player who does not yet have an opponent. This means that Gavin would match up against Lewis, and Dan would play against Keith, meaning all eight players are now matched up.*
 
-![](../media/matched_play_guide/team_pairing_step_4.jpg)
+![](../media/matched_play_guide/team_pairing_step_4.jpg){ width=712 height=275 }

@@ -50,15 +50,15 @@ Sometimes a model will be unable to Move for one reason or another, and when thi
 
 ***Example 1:** Frodo is trying to keep up with the rest of the Fellowship. A ruler is placed next to Frodo to measure his Move Value of 4". It's important not to exceed a model's Move Value (frankly, that's cheating!). With the distance determined, Frodo Moves level with the 4" mark.*
 
-![](../media/rules_manual/example_01.jpg)
+![](../media/rules_manual/example_01.jpg){ width=563 height=449 }
 
 ***Example 2:** The wall shown here is in Frodo's path. Frodo's player measures around it to work out where the Hobbit's Move will end.*
 
-![](../media/rules_manual/example_02.jpg)
+![](../media/rules_manual/example_02.jpg){ width=563 height=333 }
 
 ***Example 3:** With the other members of the Fellowship blocking his way, Frodo can only fit his base through the gap in between Sam and Gimli - note how this is the only gap big enough to fit Frodo's base through.*
 
-![](../media/rules_manual/example_03.jpg)
+![](../media/rules_manual/example_03.jpg){ width=563 height=487 }
 
 ## CONTROL ZONES (4)
 
@@ -80,7 +80,7 @@ If a model starts its Move within the Control Zone of an enemy model, then it ha
 
 ***Example 4:** Boromir is facing off against two Uruk-hai Scouts. Due to Boromir's Control Zone, the Uruk- hai cannot go within 1" of him unless they are Charging.*
 
-![](../media/rules_manual/example_04.jpg)
+![](../media/rules_manual/example_04.jpg){ width=563 height=636 }
 
 ## CHARGING ENEMIES (5)
 
@@ -106,27 +106,27 @@ The fourth rule is that a model that wishes to Charge an enemy model that has lo
 
 ***Example 5:** Gimli has Charged this Uruk-hai Scout. Because it is now Engaged in Combat, the Uruk-hai has lost its Control Zone and cannot be Activated during its player's Activation Phase, and therefore may not Move.*
 
-![](../media/rules_manual/example_05.jpg)
+![](../media/rules_manual/example_05.jpg){ width=563 height=412 }
 
 ***Example 6:** Aragorn Charges the nearest Uruk-hai - entering its Control Zone first. As soon as he enters the Control Zone of the first Uruk-hai, Aragorn is free to Move within that Control Zone, so long as he ends up Charging the Uruk- hai whose Control Zone he entered first.*
 
-![](../media/rules_manual/example_06.jpg)
+![](../media/rules_manual/example_06.jpg){ width=563 height=596 }
 
 ***Example 7:** Here there is a gap between Aragorn and Boromir which the Uruk-hai would like to Move through in order to Charge Pippin. However, because of the Control Zones of Aragorn and Boromir, the Uruk-hai cannot pass through without Charging one of the two Men.*
 
-![](../media/rules_manual/example_07_1.jpg)
+![](../media/rules_manual/example_07_1.jpg){ width=732 height=334 }
 
 *To avoid this, the Evil player has two other Uruk- hai Charge Aragorn and Boromir. Now that they are Engaged in Combat, Aragorn and Boromir have no Control Zones and so the Uruk-hai is free to Charge Pippin.*
 
-![](../media/rules_manual/example_07_2.jpg)
+![](../media/rules_manual/example_07_2.jpg){ width=702 height=334 }
 
 ***Example 8:** Here, the Uruk-hai nearest to the Fellowship are all Engaged in Combat with either Legolas or Gimli and therefore have no Control Zones. Aragorn wishes to Charge the Uruk-hai nearest to him, however, he would be entering the Control Zones of the Uruk- hai behind their Engaged allies in order to do so. As there is no way of Aragorn Charging the model whose Control Zone he would be entering, he may ignore it and simply Charge the Uruk-hai he is nearest to.*
 
-![](../media/rules_manual/example_08_1.jpg)
+![](../media/rules_manual/example_08_1.jpg){ width=871 height=559 }
 
 *Here, Aragorn wishes to Charge the Morannon Orc straight in front of him. As that Morannon Orc is already Engaged in Combat with Gimli, and therefore has no Control Zone, it may seem at first glance that the Control Zone of the Morannon Orc with spear behind the target of Aragorn's Charge is preventing him from Charging. Luckily for Aragorn, as there is no physical way for him to Charge this Morannon Orc with spear as it is blocked off by the Orcs Engaged in Combat with Gimli and Legolas respectively, Aragorn can ignore their Control Zone and Charge his target freely.*
 
-![](../media/rules_manual/example_08_2.jpg)
+![](../media/rules_manual/example_08_2.jpg){ width=871 height=559 }
 
 ### CHARGING MULTIPLE ENEMIES (9)
 
@@ -136,7 +136,7 @@ Remember that after a model has entered the Control Zone of an enemy model it wi
 
 ***Example 9:** Boromir wants to Charge two Uruk-hai at once. After entering the Control Zone of the first Uruk-hai, he continues to Move within its Control Zone in order to Move into base contact with two Uruk-hai and therefore Charge both of them.*
 
-![](../media/rules_manual/example_09.jpg)
+![](../media/rules_manual/example_09.jpg){ width=563 height=596 }
 
 ### DEFENDED POSITIONS
 
@@ -158,11 +158,11 @@ At the start of a battle, it is good practice to discuss with your opponent what
 
 ***Example 10:** Boromir is racing through the thick undergrowth to rescue Merry and Pippin. As this is Difficult Terrain, every 1" Boromir Moves will count as 2". Boromir has a Move Value of 6", allowing him to Move 3" through the Difficult Terrain.*
 
-![](../media/rules_manual/example_10_1.jpg)
+![](../media/rules_manual/example_10_1.jpg){ width=566 height=376 }
 
  *Here, Boromir Moves across 2" of Open Ground before he reaches Difficult Terrain. Since he only has 4" of his Move Value remaining, Boromir can only Move 2" into the Difficult Terrain.*
 
-![](../media/rules_manual/example_10_2.jpg)
+![](../media/rules_manual/example_10_2.jpg){ width=566 height=296 }
 
 ### OBSTACLES (11)
 
@@ -174,7 +174,7 @@ A model can attempt to cross over an Obstacle greater than half its height, but 
 
 ***Example 11:** Aragorn wishes to Move over this low wall. As the wall is less than half of Aragorn's height, he may simply Move over it with no penalty.*
 
-![](../media/rules_manual/example_11.jpg)
+![](../media/rules_manual/example_11.jpg){ width=563 height=634 }
 
 ## JUMPING (12)
 
@@ -204,9 +204,9 @@ The horizontal distance a model Moves when it Jumps will still count towards the
 
 *Finally, seeing his friends clamber over the wall, Sam tries to do the same. Unfortunately, Sam rolls a 1 for his Jump Test and so fails to cross the wall and his Activation immediately ends - leaving him at the mercy of the Nazgûl.*
 
-![](../media/rules_manual/example_12_1.jpg)
+![](../media/rules_manual/example_12_1.jpg){ width=719 height=710 }
 
-![](../media/rules_manual/example_12_2.jpg)
+![](../media/rules_manual/example_12_2.jpg){ width=720 height=710 }
 
 ## LEAPING (13, 14)
 
@@ -226,11 +226,11 @@ To make a Leap Test, the model Moves to the edge of the gap it wishes to Leap ov
 
 ***Example 13:** Gimli is being chased by two Moria Goblins and wishes to put some distance between them by Leaping over a chasm to safety. Gimli Moves to the edge of the gap and takes a Leap Test. Rolling a 4, Gimli successfully Leaps the gap and is placed on the other side. His Move then immediately ends.*
 
-![](../media/rules_manual/example_13.jpg)
+![](../media/rules_manual/example_13.jpg){ width=749 height=846 }
 
 ***Example 14:** The Balrog is hot on the heels of the Fellowship and they must do all they can to escape. Aragorn decides to Move over a small fallen pillar - he must take a Jump Test. Boromir wants to put some height between himself and the fiery demon, and so chooses to scramble up a rocky cliff - he must take a Climb Test.*
 
-![](../media/rules_manual/example_14.jpg)
+![](../media/rules_manual/example_14.jpg){ width=562 height=601 }
 
 ## CLIMBING (14, 15)
 
@@ -246,7 +246,7 @@ In order to climb Obstacles that are greater than a model's height, such as tall
 
 ***Example 15:** Aragorn, Legolas and Gimli are cut off from their allies at Helm's Deep and need to Climb the scaffolding to reach them. Aragorn spends 1" of his Move Value to reach the scaffolding and then takes a Climb Test. Rolling a 4, Aragorn is successful and Moves to the top. Legolas follows suit and rolls a 6 for his Climb Test. He Moves up the scaffold and then spends his remaining Move Value (note that, as Climbing is considered to be done in Difficult Terrain, he has precious little left!). Finally, Gimli reaches the bottom of the scaffold but rolls a 1 for his Climb Test. He fails and becomes Prone. A Prone Marker is placed next to him and his Activation immediately ends.*
 
-![](../media/rules_manual/example_15.jpg)
+![](../media/rules_manual/example_15.jpg){ width=563 height=558 }
 
 ### CLIMBING TALL STRUCTURES
 
@@ -262,7 +262,7 @@ The use of a ladder or length of rope makes Climbing significantly easier. Climb
 
 ***Example 16:** Frodo doesn't fancy Climbing this rockface and so finds a ladder to use instead. The ladder is 3" high, and so he Moves up it at the cost of 3" of his Move Value.*
 
-![](../media/rules_manual/example_16.jpg)
+![](../media/rules_manual/example_16.jpg){ width=562 height=673 }
 
 ### DESCENDING
 
@@ -278,7 +278,7 @@ If a model falls a distance greater than their own height, then they will suffer
 
 ***Example 17:** Gimli has tried to Climb down this rockface to aid his allies. However, Gimli has rolled a 1 for his Climb Test and so falls to the ground at the bottom of the rockface and, as the distance he fell was greater than his own height he will suffer Falling Damage. The distance Gimli fell was two full inches taller than his height, and so he will suffer three Strength 3 hits - one for the Falling Damage, and a further two for the extra distance he has fallen.*
 
-![](../media/rules_manual/example_17.jpg)
+![](../media/rules_manual/example_17.jpg){ width=562 height=633 }
 
 ## PRONE MODELS
 
@@ -302,7 +302,7 @@ Prone models may not Charge - they must Stand Up first.
 
 ***Example 18:** Frodo is currently Prone and wishes to Crawl during his Move. Frodo Crawls 1" and then Stands Up, which because he Crawled is all the Moving he can do during his Move. As Frodo has now stood up, the Prone Marker is removed and he is free to use his full Move Value next turn.*
 
-![](../media/rules_manual/example_18.jpg)
+![](../media/rules_manual/example_18.jpg){ width=563 height=671 }
 
 ### STANDING UP AND LYING DOWN
 
@@ -324,7 +324,7 @@ Models may attempt to Jump Over Prone models exactly as if they were an Obstacle
 
 ***Example 19:** This Moria Goblin is Prone and Gimli wishes to Jump Over it, and so must make a Jump Test. Rolling a 5, Gimli successfully Jumps Over the Goblin and is placed on the other side of it, slightly separated from being in base contact. Gimli then has two choices: either to end his Move where he is, or to Move into base contact with the Goblin and Charge him - Gimli chooses the latter.*
 
-![](../media/rules_manual/example_19.jpg)
+![](../media/rules_manual/example_19.jpg){ width=563 height=633 }
 
 ## REINFORCEMENTS (20)
 
@@ -338,4 +338,4 @@ The player who chooses where the Warband will enter the board must choose a plac
 
 ***Example 20:** Haleth's Warband has arrived via the rules for Reinforcements. First, Haleth Moves onto the board from the chosen point. After this, all of Haleth's Followers may Move onto the board from any point within 3" of the chosen point, one by one.*
 
-![](../media/rules_manual/example_20.jpg)
+![](../media/rules_manual/example_20.jpg){ width=563 height=670 }

@@ -33,7 +33,7 @@ Faramir must always Charge if able to do so, however, he may spend a Will point 
 
 Any Evil model can destroy an objective by being in base contact with it during the End phase of any turn, so long as they did not take part in a Fight (including supporting) in the preceding Fight phase.
 
-![](../media/scenarios/gondor_at_war/defence_of_osgiliath.jpg)
+![](../media/scenarios/gondor_at_war/defence_of_osgiliath.jpg){ width=500 height=500 }
 
 ---
 
@@ -69,7 +69,7 @@ Evil models may re-roll failed To Wound rolls against Boromir and Faramir.
 
 In a turn in which Boromir or Faramir Charges into combat, all Gondor Warrior models that also Charged within 3" of either of them gain a bonus of +1 To Wound during the Fight phase.
 
-![](../media/scenarios/gondor_at_war/retaking_of_osgiliath.jpg)
+![](../media/scenarios/gondor_at_war/retaking_of_osgiliath.jpg){ width=500 height=500 }
 
 ---
 
@@ -101,7 +101,7 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 At the start of the game, before the first Priority is rolled for, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special rule and may re-roll any 1s To Wound when making a shooting attack.
 
-![](../media/scenarios/gondor_at_war/ambush_in_ithilien.jpg)
+![](../media/scenarios/gondor_at_war/ambush_in_ithilien.jpg){ width=500 height=500 }
 
 ---
 
@@ -141,7 +141,7 @@ Corsair models may shoot at any of the selected buildings as if they were enemy 
 
 Any Good model that ends its move in base contact with a building that is on fire may attempt to put it out. Roll a D6. On a 6, the fire has been put out. However, should the Good player roll a 1, then the building will be consumed by the flames and cannot be put out for the remainder of the game.
 
-![](../media/scenarios/gondor_at_war/raiding_of_pelargir.jpg)
+![](../media/scenarios/gondor_at_war/raiding_of_pelargir.jpg){ width=500 height=500 }
 
 ---
 
@@ -175,7 +175,7 @@ Each time an Evil Warrior model is slain, place it to one side. At the end of ea
 
 At the start of each turn, the Evil player may select a single Good Warrior and roll a D6. On a 3+, this Warrior becomes paralyzed by fear and may not Move or Shoot that turn. They may fight if they are subsequently Engaged in combat, although their Fight value will be reduced to 1.
 
-![](../media/scenarios/gondor_at_war/fall_of_osgiliath.jpg)
+![](../media/scenarios/gondor_at_war/fall_of_osgiliath.jpg){ width=500 height=500 }
 
 ---
 
@@ -211,7 +211,7 @@ The Good player automatically has Priority on the first turn.
 
 At the end of the first Evil Move phase, the Evil player may move all of their models onto the board from any point on the eastern board edge via the rules for Reinforcements.
 
-![](../media/scenarios/gondor_at_war/the_white_rider.jpg)
+![](../media/scenarios/gondor_at_war/the_white_rider.jpg){ width=500 height=500 }
 
 ---
 
@@ -249,7 +249,7 @@ Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an en
 
 **Designer's Notes:** *On paper, this Scenario may seem far more in favor of the Evil player, and the fact is that it is. In the films, Faramir and his Knights don't even get close to Osgiliath before they are peppered by Orc arrows - hopefully in this Scenario the Good player will have a bit more luck!*
 
-![](../media/scenarios/gondor_at_war/faramirs_charge.jpg)
+![](../media/scenarios/gondor_at_war/faramirs_charge.jpg){ width=500 height=500 }
 
 ---
 
@@ -283,7 +283,7 @@ The game lasts until there are no Corsair Hero models left on the board. The Evi
 
 Corsair models within 6" of the King of the Dead suffer a -1 penalty to all Courage tests.
 
-![](../media/scenarios/gondor_at_war/the_battle_for_pelargir.jpg)
+![](../media/scenarios/gondor_at_war/the_battle_for_pelargir.jpg){ width=500 height=500 }
 
 ---
 
@@ -323,7 +323,7 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 The eastern edge of the walls of Minas Tirith are lined with battlements that can trap a model against them. Additionally, any model that is pushed from the edge of a siege tower and onto the Pelennor is automatically slain - it's a rather long fall!
 
-![](../media/scenarios/gondor_at_war/atop_the_walls.jpg)
+![](../media/scenarios/gondor_at_war/atop_the_walls.jpg){ width=272 height=500 }
 
 ---
 
@@ -359,7 +359,7 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 Good models do not have to take Courage tests to Charge a Mordor Troll.
 
-![](../media/scenarios/gondor_at_war/the_gate_is_breached.jpg)
+![](../media/scenarios/gondor_at_war/the_gate_is_breached.jpg){ width=500 height=500 }
 
 ---
 
@@ -395,7 +395,7 @@ Pippin counts as wearing an Elven cloak. Additionally, any Evil model that wishe
 
 If, during the End phase of any turn, Pippin and Gandalf are in base contact and Gandalf is mounted, Pippin may mount Shadowfax and be treated as a passenger. Gandalf may not enter the western half of the board until Pippin has reached him.
 
-![](../media/scenarios/gondor_at_war/the_streets_of_minas_tirith.jpg)
+![](../media/scenarios/gondor_at_war/the_streets_of_minas_tirith.jpg){ width=500 height=500 }
 
 ---
 
@@ -447,7 +447,7 @@ The turn then ends and the next turn begins.
 | Q | Gandalf ignores all card effects until the end of the turn. |
 | K | Your opponent loses D6 Power tokens. |
 
-![](../media/scenarios/gondor_at_war/the_witch_kings_arrival.jpg)
+![](../media/scenarios/gondor_at_war/the_witch_kings_arrival.jpg){ width=505 height=505 }
 
 ---
 
@@ -483,7 +483,7 @@ The Good player always counts as having Priority. Additionally, Good models must
 
 After the Evil force has been reduced to less than 50% of their starting models, Gothmog may attempt to escape the battle by exiting the board via the southern board edge. If Gothmog manages to escape in this way, the best result the Good player can achieve is a draw.
 
-![](../media/scenarios/gondor_at_war/charge_of_the_rohirrim.jpg)
+![](../media/scenarios/gondor_at_war/charge_of_the_rohirrim.jpg){ width=500 height=500 }
 
 ---
 
@@ -523,7 +523,7 @@ Gandalf does not have his Staff of Power in this Scenario, and begins the game w
 
 Good models may not make shooting attacks and may not make Strikes if they win a Duel roll. However, in his madness, Denethor and his guard have ignored the city's ruling - they may act as normal.
 
-![](../media/scenarios/gondor_at_war/denethors_madness.jpg)
+![](../media/scenarios/gondor_at_war/denethors_madness.jpg){ width=500 height=500 }
 
 ---
 
@@ -559,7 +559,7 @@ Good models automatically pass Courage tests to Charge any Mûmak models.
 
 If the Mûmak War Leader is slain, the best result the Evil player can achieve is a draw.
 
-![](../media/scenarios/gondor_at_war/war_beasts_from_the_south.jpg)
+![](../media/scenarios/gondor_at_war/war_beasts_from_the_south.jpg){ width=500 height=500 }
 
 ---
 
@@ -593,7 +593,7 @@ Both Théoden and Suladân must Charge each other if they are able to do so.
 
 Râza may select two targets for his The Serpent's Weapon special rule, rather than one.
 
-![](../media/scenarios/gondor_at_war/the_horse_and_the_serpent.jpg)
+![](../media/scenarios/gondor_at_war/the_horse_and_the_serpent.jpg){ width=500 height=500 }
 
 ---
 
@@ -629,7 +629,7 @@ At the end of each game turn, roll a D6 and add the number of the turn you are o
 
 Each time Théoden slays an enemy model, he may immediately regain a single point of either Might, Will, or Fate that was spent earlier in the battle.
 
-![](../media/scenarios/gondor_at_war/death_of_the_king.jpg)
+![](../media/scenarios/gondor_at_war/death_of_the_king.jpg){ width=500 height=500 }
 
 ---
 
@@ -663,7 +663,7 @@ If Éowyn suffers three Wounds, she has been slain by the Witch-king and the Evi
 
 If the Witch-king suffers three Wounds then Merry has managed to bring the Lord of the Nazgûl to his knees, allowing for Éowyn to deliver the death blow - the Good player is the winner.
 
-![](../media/scenarios/gondor_at_war/final_fate_of_the_witch_king.jpg)
+![](../media/scenarios/gondor_at_war/final_fate_of_the_witch_king.jpg){ width=506 height=506 }
 
 ---
 
@@ -699,7 +699,7 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 Prince Imrahil may call a Heroic Move at the start of each Move phase without spending Might; however, Imrahil must always Charge if able to do so.
 
-![](../media/scenarios/gondor_at_war/the_ride_of_the_fiefdoms.jpg)
+![](../media/scenarios/gondor_at_war/the_ride_of_the_fiefdoms.jpg){ width=500 height=500 }
 
 ---
 
@@ -735,7 +735,7 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 At the end of the Good player's first Move phase, the rest of the Good models move onto the board from the center of the western board edge.
 
-![](../media/scenarios/gondor_at_war/the_grief_of_eomer.jpg)
+![](../media/scenarios/gondor_at_war/the_grief_of_eomer.jpg){ width=500 height=500 }
 
 ---
 
@@ -771,7 +771,7 @@ Good models may re-roll failed To Wound rolls in the Fight phase whilst they are
 
 Each time Goroth slays a Good Hero, his Might is restored to its starting value.
 
-![](../media/scenarios/gondor_at_war/defend_the_gate.jpg)
+![](../media/scenarios/gondor_at_war/defend_the_gate.jpg){ width=500 height=500 }
 
 ---
 
@@ -807,7 +807,7 @@ Good models within 6" of Aragorn count as being in range of a banner.
 
 **Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the banner of Arwen Evenstar, Angbor the Fearless, 12 Rangers of the North, and 12 Clansmen of Lamedon.*
 
-![](../media/scenarios/gondor_at_war/the_docks_of_harlond.jpg)
+![](../media/scenarios/gondor_at_war/the_docks_of_harlond.jpg){ width=500 height=500 }
 
 ---
 
@@ -843,7 +843,7 @@ The Good player wins immediately if Gothmog is slain. The Evil player wins immed
 
 Gothmog is the only Evil model that may Charge Éowyn.
 
-![](../media/scenarios/gondor_at_war/death_of_gothmog.jpg)
+![](../media/scenarios/gondor_at_war/death_of_gothmog.jpg){ width=500 height=500 }
 
 ---
 
@@ -973,7 +973,7 @@ Legolas must slay all of the Haradrim in the Howdah and then reach its front (ma
 
 Once one player has played a game as Legolas, we would suggest swapping over and playing it again; whoever can accomplish the mission the quickest will earn the title of the Hero of Pelennor!
 
-![](../media/scenarios/gondor_at_war/that_still_only_counts_as_one.jpg)
+![](../media/scenarios/gondor_at_war/that_still_only_counts_as_one.jpg){ width=506 height=713 }
 
 ---
 
@@ -1005,7 +1005,7 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 The King of the Dead may call a Heroic Combat each turn without expending Might to do so.
 
-![](../media/scenarios/gondor_at_war/the_dead_arrive.jpg)
+![](../media/scenarios/gondor_at_war/the_dead_arrive.jpg){ width=500 height=500 }
 
 ---
 
@@ -1069,7 +1069,7 @@ At the end of the Evil player's seventh Move phase, the Evil player moves the Wi
 
 **Designer's Notes:** *This Scenario represents the entire Battle of Pelennor Fields and so will take a long time and a lot of models. We suggest gathering a number of players for this Scenario; six is ideal as then a different player can take control of each force. As this Scenario essentially combines several of the other narrative Scenarios listed previously, it is not considered part of the campaign listed on pages 68-73.*
 
-![](../media/scenarios/gondor_at_war/the_battle_of_pelennor_fields.jpg)
+![](../media/scenarios/gondor_at_war/the_battle_of_pelennor_fields.jpg){ width=706 height=500 }
 
 ---
 
@@ -1119,7 +1119,7 @@ Good models may not willingly move more than 12" away from the center of the boa
 
 **Designer's Notes:** *This Scenario is designed to depict the Black Gate as seen in the movies, and as such the Scenario only contains the characters that can be seen in those scenes. If you would rather play through the Black Gate as portrayed in the books, turn to pages 64-67, where you can find two Scenarios that recreate the event from that perspective.*
 
-![](../media/scenarios/gondor_at_war/the_black_gate.jpg)
+![](../media/scenarios/gondor_at_war/the_black_gate.jpg){ width=500 height=500 }
 
 ---
 
@@ -1155,7 +1155,7 @@ Gandalf does not have his Staff of Power, and therefore does not gain a free poi
 
 The range of all Good banners is increased by 3".
 
-![](../media/scenarios/gondor_at_war/the_black_gate_the_left_hill.jpg)
+![](../media/scenarios/gondor_at_war/the_black_gate_the_left_hill.jpg){ width=500 height=500 }
 
 ---
 
@@ -1189,4 +1189,4 @@ The range of all Good banners is increased by 3".
 
 **Designer's Notes:** *To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
 
-![](../media/scenarios/gondor_at_war/the_black_gate_the_right_hill.jpg)
+![](../media/scenarios/gondor_at_war/the_black_gate_the_right_hill.jpg){ width=500 height=500 }

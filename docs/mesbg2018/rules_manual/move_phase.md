@@ -29,19 +29,19 @@ Some events or abilities occur 'at the end of your Move phase'. Such events and 
 
 ***MOVEMENT 1***
 
-![](../media/rules_manual/movement_1.jpg)
+![](../media/rules_manual/movement_1.jpg){ width=516 height=430 }
 
 Frodo Baggins *is trying to keep up with the rest of The Fellowship. A ruler is placed next to Frodo to measure his Move allowance of 4". It is important to not exceed a model's Move allowance (frankly, that's cheating!). With the distance determined, the Hobbit moves level with the 4" mark.*
 
 ***MOVEMENT 2***
 
-![](../media/rules_manual/movement_2.jpg)
+![](../media/rules_manual/movement_2.jpg){ width=516 height=428 }
 
 *The ruined wall shown here is in Frodo Baggins' path. The controlling player measures around it to work out where the Hobbit's move will end.*
 
 ***MOVEMENT 3***
 
-![](../media/rules_manual/movement_3.jpg)
+![](../media/rules_manual/movement_3.jpg){ width=516 height=395 }
 
 *With other members of The Fellowship blocking the way, Frodo Baggins can only just squeeze his base through the gap between their bases - note how the gap between* Gimli *and* Sam *is just wide enough for him to pass through.*
 
@@ -63,7 +63,7 @@ It is possible for a model to start its move already within an enemy model's Con
 
 ***CONTROL ZONES***
 
-![](../media/rules_manual/control_zones_1.jpg)
+![](../media/rules_manual/control_zones_1.jpg){ width=516 height=374 }
 
 Boromir *is facing off against two* Uruk-hai *Scouts. Due to Boromir's Control Zone, the Uruk-hai may not enter this space unless they are charging Boromir.*
 
@@ -105,21 +105,21 @@ Sometimes, a model will wish to Charge a model that is on the other side of a wa
 
 ***CHARGING 1***
 
-![](../media/rules_manual/charging_1.jpg)
+![](../media/rules_manual/charging_1.jpg){ width=516 height=391 }
 
 *Gimli has charged into this Uruk-hai Scout. Because it is now Engaged, the Uruk-hai may not move any further this Move phase.*
 
 ***CHARGING 2***
 
-![](../media/rules_manual/charging_2_1.jpg)
+![](../media/rules_manual/charging_2_1.jpg){ width=516 height=314 }
 
 Aragorn *charges the nearest Uruk-hai - entering its Control Zone first. As soon as he enters the Control Zone of the first model, he is free to continue moving within that Control Zone, so long as he ends up charging the model whose Control Zone he entered first.*
 
-![](../media/rules_manual/charging_2_2.jpg)
+![](../media/rules_manual/charging_2_2.jpg){ width=516 height=383 }
 
 *Here, there is a narrow gap between Aragorn and Boromir, but the Uruk-hai would like to Charge the much weaker* Pippin. *However, because of Aragorn's and Boromir's Control Zones, the Uruk- hai cannot pass through without first charging one of the two Men.*
 
-![](../media/rules_manual/charging_2_3.jpg)
+![](../media/rules_manual/charging_2_3.jpg){ width=516 height=359 }
 
 *To get around this, the Evil player has two other Uruk-hai Charge Aragorn and Boromir. Now that they are Engaged in combat, Aragorn's and Boromir's Control Zones have been cancelled out.*
 
@@ -127,7 +127,7 @@ Aragorn *charges the nearest Uruk-hai - entering its Control Zone first. As soon
 
 ***CHARGING 3***
 
-![](../media/rules_manual/charging_3.jpg)
+![](../media/rules_manual/charging_3.jpg){ width=477 height=339 }
 
 *Boromir is an incredibly mighty hero, and can fearlessly face multiple Uruk-hai at once. With this in mind, the Good player Charges him headlong into a pair of nearby Uruks.*
 
@@ -147,7 +147,7 @@ Sometimes, there will be situations whereby a rule will target or affect a model
 
 ***PAIRING OFF FIGHTS***
 
-![](../media/rules_manual/pairing_off_fights_1.jpg)
+![](../media/rules_manual/pairing_off_fights_1.jpg){ width=795 height=424 }
 
 *Frodo is in base contact with Moria Goblin A. As it's clear who Frodo is fighting, and there are no other models in the fight, no pairing off is required.*
 
@@ -171,11 +171,11 @@ Any model that enters difficult terrain counts the distance it moves whilst in i
 
 ***DIFFICULT TERRAIN 1***
 
-![](../media/rules_manual/difficult_terrain_1.jpg)
+![](../media/rules_manual/difficult_terrain_1.jpg){ width=516 height=428 }
 
 *Boromir of* Gondor *(a Man with a Move of 6") is racing through the thick undergrowth of* Amon Hen *to rescue* Merry *and Pippin. For every 1" Boromir moves, he counts as having moved 2".*
 
-![](../media/rules_manual/difficult_terrain_2.jpg)
+![](../media/rules_manual/difficult_terrain_2.jpg){ width=516 height=464 }
 
 *Merry and Pippin are in need of more help, so Boromir rushes into the difficult terrain to save them. Boromir moves across 2" of open ground before he reaches the difficult terrain. Since he only has 4" of movement remaining, he can only move 2" into the thick undergrowth.*
 
@@ -209,13 +209,13 @@ The horizontal movement your model makes when it jumps an Obstacle still counts 
 
 ***JUMPING***
 
-![](../media/rules_manual/jumping_1.jpg)
+![](../media/rules_manual/jumping_1.jpg){ width=663 height=723 }
 
 *Merry is fleeing from the* Nazgûl *as they pursue the Hobbits, and now wishes to cross over a low wall. As the wall is no taller than Merry, he may attempt to jump over it. He moves into base contact with it and makes his Jump test. He rolls a 3 and moves over the wall to the other side.*
 
 *Pippin catches up with his friend and also attempts to jump over the same wall. He takes his test and rolls a 6. Pippin therefore not only crosses the wall, but may continue his move with his remaining allowance.*
 
-![](../media/rules_manual/jumping_2.jpg)
+![](../media/rules_manual/jumping_2.jpg){ width=664 height=593 }
 
 *Seeing his friends jump over the wall ahead of him, Sam desperately attempts to jump the same wall and takes his Jump test. However, Sam only rolls a 1, meaning that he fails to jump the wall and must now face the wrath of the* Black Riders*.
 
@@ -237,7 +237,7 @@ Making a Leap test is simple. Move your model up to the gap that you wish it to 
 
 ***LEAPING***
 
-![](../media/rules_manual/leaping_1.jpg)
+![](../media/rules_manual/leaping_1.jpg){ width=657 height=721 }
 
 *Being chased by two Moria Goblins, Gimli decides to leap across a chasm to safety. Trusting to luck, he rolls a dice and consults the Leap table to see if he makes it to the other side. Rolling a 4, the Leap is a success, and he moves to the other side of the gap.*
 
@@ -273,13 +273,13 @@ There are a number of ways to make climbing easier, such as using a ladder, a ro
 
 ***LEAPING AND CLIMBING***
 
-![](../media/rules_manual/leaping_and_climbing_1.jpg)
+![](../media/rules_manual/leaping_and_climbing_1.jpg){ width=659 height=688 }
 
 *With the* Balrog *hot on the heels of The Fellowship, they must do everything they can to escape. Aragorn decides to try to move over a small fallen pillar - he must take a Jump test. Boromir, on the other hand, wants to put some height between himself and the demon, and so chooses to scramble up a rocky cliff - he must take a Climb test.*
 
 ***CLIMBING***
 
-![](../media/rules_manual/climbing_1.jpg)
+![](../media/rules_manual/climbing_1.jpg){ width=801 height=503 }
 
 *Aragorn,* Legolas *and Gimli are cut off from their allies in* Helm's Deep *and need to climb the scaffolding to reach them. Aragorn spends 1" of movement to reach the base of the scaffold and then takes a Climb test. Rolling a 4, he is successful and moves to the top. Legolas follows suit and rolls a 6 on his Climb test. He moves up the scaffold and then spends his remaining movement (note that climbing is considered difficult terrain, so he has precious little left). Finally, Gimli reaches the bottom of the scaffold, but rolls a 1 for his Climb test. He fails to climb and instead falls to the floor, and a Prone marker is placed next to him.*
 
@@ -297,7 +297,7 @@ A model that falls is knocked Prone at the base of the surface they have fallen 
 
 ***LADDER***
 
-![](../media/rules_manual/ladder_1.jpg)
+![](../media/rules_manual/ladder_1.jpg){ width=516 height=428 }
 
 *Frodo Baggins doesn't fancy climbing this rockface, and so finds a ladder to scale instead. The ladder is 3" high, and so he moves up it at the cost of 3" of movement.*
 
@@ -331,13 +331,13 @@ You may attempt to jump over a Prone model by moving your model as close as you 
 
 ***PRONE MODELS***
 
-![](../media/rules_manual/prone_models_1.jpg)
+![](../media/rules_manual/prone_models_1.jpg){ width=516 height=490 }
 
 *In previous iterations of the game, we used to lie our models down to represent them being Prone. However, over the years this has caused some of our beloved models to be chipped or damaged and so the rules for this have changed in order to protect our models from harm.*
 
 ***PRONE & MOVEMENT***
 
-![](../media/rules_manual/prone_and_movement_1.jpg)
+![](../media/rules_manual/prone_and_movement_1.jpg){ width=516 height=556 }
 
 *Frodo Baggins has been knocked Prone by a pursuing Ringwraith. The Hobbit crawls 1" towards safety and then stands up - enabling him to move his full Move allowance in the following turn.*
 
@@ -351,6 +351,6 @@ In Matched Play games, whole warbands will move onto the board from the same poi
 
 ***REINFORCEMENTS***
 
-![](../media/rules_manual/reinforcements_1.jpg)
+![](../media/rules_manual/reinforcements_1.jpg){ width=516 height=554 }
 
 *Faramir's warband have arrived via the rules for Reinforcements. First, Faramir moves onto the board from the point chosen, followed by his warband, one by one.*

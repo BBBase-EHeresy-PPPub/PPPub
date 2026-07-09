@@ -30,7 +30,7 @@ Nominate one enemy model involved in the Fight, all of the Monster model's Attac
 
 ***REND***
 
-![](../media/rules_manual/rend_1.jpg)
+![](../media/rules_manual/rend_1.jpg){ width=516 height=459 }
 
 *Thorin goes toe-to-toe with The Goblin King. Thorin loses the Fight, and The Goblin King decides to use the Rend Brutal Power Attack against him. The Goblin King will now compare his Strength of 5 against Thorin's Strength of 4 instead of his Defence of 7. Looking at the To Wound chart, these Strikes will wound on a 4+... Thorin is in serious trouble.*
 
@@ -56,7 +56,7 @@ Before models Back Away, nominate a single enemy model involved in the Fight, an
 
 ***HURL***
 
-![](../media/rules_manual/hurl_1.jpg)
+![](../media/rules_manual/hurl_1.jpg){ width=656 height=424 }
 
 *Beorn has won a Duel roll against a* Gundabad *Orc and decides to Hurl it. He rolls a dice and scores a 3, a D3 result of 2. Beorn is Strength 8 whilst the Gundabad Orc is Strength 4, a difference of 4, so the total Hurl distance is 6" (4 for the difference in Strength + 2 for the D3 roll). Beorn's controlling player draws an imaginary line that goes through the centre of both Beorn's and the Gundabad Orc's bases. The Orc is then Hurled along this line 6" directly away from Beorn, passing through two other Gundabad Orcs (A & B) on the way. The Hurled Orc suffers one Strength 6 hit for being Hurled and two Strength 3 hits for passing through two models. If it survives then it will be knocked Prone.*
 

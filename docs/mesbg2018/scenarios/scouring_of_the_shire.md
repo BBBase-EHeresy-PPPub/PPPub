@@ -36,7 +36,7 @@ Bree Villagers count as being armed with a dagger; however, they may not use Spe
 
 Bill Ferny must cause at least two casualties before the Evil player can win. If the Good player is reduced to 25%, and Bill Ferny has not caused at least two casualties, then the game is a draw.
 
-![](../media/scenarios/scouring_of_the_shire/skirmish_in_bree.jpg)
+![](../media/scenarios/scouring_of_the_shire/skirmish_in_bree.jpg){ width=500 height=500 }
 
 ---
 
@@ -70,7 +70,7 @@ The Ruffians must capture Holfoot and Robin to win the game. To do this, they wi
 
 Hobbit models cannot attempt to swim across the Brandywine River.
 
-![](../media/scenarios/scouring_of_the_shire/the_ruffians_arrive.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_ruffians_arrive.jpg){ width=500 height=500 }
 
 ---
 
@@ -108,7 +108,7 @@ Once the alarm has been raised, the Good player may roll a D6 at the start of ea
 
 Shooting attacks will only ever hit on the roll of a 6 in this Scenario. Additionally, Grip, Fang, and Wolf gain the Terror special rule.
 
-![](../media/scenarios/scouring_of_the_shire/maggots_farm.jpg)
+![](../media/scenarios/scouring_of_the_shire/maggots_farm.jpg){ width=500 height=500 }
 
 ---
 
@@ -142,7 +142,7 @@ The doors to the Old Mill can be attacked in the Fight phase by a model in base 
 
 If, during the End phase of any turn, Ted Sandyman is in base contact with the doors to the Mill, and hasn't been involved in a fight that turn, he may unlock and open the doors to the Mill. Additionally, Hobbit Militia may add 1 when rolling To Wound Ted Sandyman in the Fight phase.
 
-![](../media/scenarios/scouring_of_the_shire/the_old_mill.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_old_mill.jpg){ width=500 height=500 }
 
 ---
 
@@ -180,7 +180,7 @@ To do this, they will need to bind him in chains using their At 'em Lads or Put 
 
 Will Whitfoot may not move during the first turn of the game.
 
-![](../media/scenarios/scouring_of_the_shire/the_mayors_arrest.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_mayors_arrest.jpg){ width=500 height=500 }
 
 ---
 
@@ -220,7 +220,7 @@ Worm gains the Stalk Unseen special rule and always counts as being concealed by
 
 Hobbit Militia must always Charge a Ruffian if able to do so.
 
-![](../media/scenarios/scouring_of_the_shire/the_death_of_lotho.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_death_of_lotho.jpg){ width=500 height=500 }
 
 ---
 
@@ -258,7 +258,7 @@ Ruffian models may shoot at any Hobbit-hole as if they were enemy models, withou
 
 Any Good model that ends its move in base contact with a Hobbit-hole that is on fire, and is not Engaged in a Fight, may attempt to put it out. Roll a D6. On a 6, the fire has been put out. Models that attempt to put out a fire may not shoot in the following Shoot phase. However, should the Good player roll a 1, then the Hobbit-hole will be consumed by flame and cannot be put out for the remainder of the game. At the end of each Move phase, any model that is on a Hobbit-hole that has been consumed by flames immediately takes a Strength 3 hit.
 
-![](../media/scenarios/scouring_of_the_shire/the_burning_of_woody_end.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_burning_of_woody_end.jpg){ width=500 height=500 }
 
 ---
 
@@ -296,7 +296,7 @@ Bill Ferny must always Charge if able to do so.
 
 Hobbit models must Charge if able to do so.
 
-![](../media/scenarios/scouring_of_the_shire/uprooting_of_bagshot_row.jpg)
+![](../media/scenarios/scouring_of_the_shire/uprooting_of_bagshot_row.jpg){ width=500 height=500 }
 
 ---
 
@@ -330,7 +330,7 @@ Whenever an 'Evil' model wins a Fight against a Good model, they will not make S
 
 Neither side may Throw Stones at each other in this Scenario. Additionally, if a Shirriff is removed as a casualty in the Scenario, it is probably better to assume they were sent packing by the other Hobbits rather than being slain.
 
-![](../media/scenarios/scouring_of_the_shire/arrest_of_folco_boffin.jpg)
+![](../media/scenarios/scouring_of_the_shire/arrest_of_folco_boffin.jpg){ width=500 height=500 }
 
 ---
 
@@ -374,7 +374,7 @@ Any Hobbit that is in base contact with the storehouse during the End phase of a
 
 Models cannot be seen or targeted by shooting attacks at distances over 12" away. However, as it is harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound.
 
-![](../media/scenarios/scouring_of_the_shire/the_old_storehouse.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_old_storehouse.jpg){ width=500 height=500 }
 
 ---
 
@@ -404,7 +404,7 @@ The Ruffians are trying to make their way to Tuckborough in order to arrest Pala
 
 After both players have deployed their models, the Good player may deploy 20 Trap markers on the board (five Tripwire, five Snare, five Pitfall, five Dummy), following the rules detailed on page 64.
 
-![](../media/scenarios/scouring_of_the_shire/the_bounders_strike_back.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_bounders_strike_back.jpg){ width=987 height=500 }
 
 ---
 
@@ -434,7 +434,7 @@ Having been discovered, the Hobbits must escape the Ruffians. Sharkey has ordere
 
 The Ruffians must capture Lobelia and Fatty to win the game. To do this, they will need to bind them in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Lobelia and Fatty are treated as Heavy Objects. If either Lobelia or Fatty is slain, then the game is a draw.
 
-![](../media/scenarios/scouring_of_the_shire/brockenborings.jpg)
+![](../media/scenarios/scouring_of_the_shire/brockenborings.jpg){ width=500 height=500 }
 
 ---
 
@@ -476,7 +476,7 @@ To free an imprisoned Hobbit, a Good model must be in base contact with the Lock
 
 Escaping prisoners may not Charge or Throw Stones but will fight as normal if Charged. Before moving an escaping prisoner, the Good player rolls a D6. On a 1, the Hobbit is overcome with exhaustion and collapses. The Hobbit becomes Prone and may not move any further that turn.
 
-![](../media/scenarios/scouring_of_the_shire/the_lockholes.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_lockholes.jpg){ width=500 height=500 }
 
 ---
 
@@ -506,7 +506,7 @@ Both sides are battling over control of Tuckborough; the Hobbits must defend the
 
 At the start of each player's Move phase, roll a D6 for each Warrior model removed as a casualty. On a 5+, that model may re-enter the board from the center of the eastern or western board edge, or any point on their controlling player's board edge via the rules for Reinforcements.
 
-![](../media/scenarios/scouring_of_the_shire/attack_on_tuckborough.jpg)
+![](../media/scenarios/scouring_of_the_shire/attack_on_tuckborough.jpg){ width=500 height=500 }
 
 ---
 
@@ -540,7 +540,7 @@ Hobbit models must Charge if able to do so.
 
 Ruffian models must re-roll To Wound rolls of 1 during the Fight phase. Additionally, if Rowan Thistlewood is Engaged in combat or has been involved in a Fight this turn, and has not been removed as a casualty, Ruffian models treat him as a banner.
 
-![](../media/scenarios/scouring_of_the_shire/old_cottons_farm.jpg)
+![](../media/scenarios/scouring_of_the_shire/old_cottons_farm.jpg){ width=500 height=500 }
 
 ---
 
@@ -580,7 +580,7 @@ At the end of each Evil Move phase, roll a D6 for each Ruffian Warrior model tha
 
 Once per game, both Merry and Pippin can each declare a Heroic Combat without spending Might.
 
-![](../media/scenarios/scouring_of_the_shire/the_battle_of_bywater.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_battle_of_bywater.jpg){ width=500 height=500 }
 
 ---
 
@@ -622,7 +622,7 @@ Before the game begins, but after all models have been deployed, each of the Ran
 
 The Rangers may not willingly move beyond the tree-line. Should they find themselves beyond this point, they must move back as quickly as possible.
 
-![](../media/scenarios/scouring_of_the_shire/battle_of_greenfields.jpg)
+![](../media/scenarios/scouring_of_the_shire/battle_of_greenfields.jpg){ width=984 height=500 }
 
 ---
 
@@ -660,7 +660,7 @@ Warg models must always move as fast as they can towards enemy models, Charging 
 
 The Evil player has Priority in the first turn.
 
-![](../media/scenarios/scouring_of_the_shire/the_wolves_of_winter.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_wolves_of_winter.jpg){ width=500 height=500 }
 
 ---
 
@@ -696,4 +696,4 @@ Models enter the board via the rules for Reinforcements.
 
 From the second turn onwards, at the end of each Evil Move phase, the Evil player rolls a D6. On a 2+, one of the Warg Riders may enter the board in the same way as the Rangers as described above.
 
-![](../media/scenarios/scouring_of_the_shire/the_road_to_rivendell.jpg)
+![](../media/scenarios/scouring_of_the_shire/the_road_to_rivendell.jpg){ width=500 height=500 }

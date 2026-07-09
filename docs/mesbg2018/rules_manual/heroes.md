@@ -15,7 +15,7 @@ Unlike other characteristics, Might, Will and Fate points are expended when they
 
 All **Hero** models have an extra section to their characteristic profile, which shows how much Might, Will and Fate they have at their disposal.
 
-![](../media/rules_manual/bard.jpg)
+![](../media/rules_manual/bard.jpg){ width=387 height=242 }
 
 Bard has 3 points of Might (M), 3 points of Will (W) and 3 points of Fate (F).
 
@@ -37,19 +37,19 @@ Hero models can only use Might points to alter their own dice rolls, not those o
 
 ***MIGHT 1***
 
-![](../media/rules_manual/might_1.jpg)
+![](../media/rules_manual/might_1.jpg){ width=516 height=364 }
 
 *Bard takes a shot at a Hunter Orc and scores a hit. There is a wall In The Way, however, so* Bard *must pass an In The Way test in order to hit the Orc. Bard rolls his In The Way test and scores a 3. Walls require an In The Way roll of a 4+, so Bard must spend a Might point in order for the test to be successful.*
 
 ***MIGHT 2***
 
-![](../media/rules_manual/might_2.jpg)
+![](../media/rules_manual/might_2.jpg){ width=516 height=383 }
 
 *Jay and Adam are both using **Hero** models in a Fight. Adam is using Thorin (Fight 6 and 3 Might) and Jay is using Azog (Fight 7 and 3 Might). Adam rolls his dice for the Duel roll, scoring a 1, 2 and 3 whilst Jay scores a 2, 3 and 4. As Adam is currently losing, he elects to use Might, but as Thorin has the lower Fight value, he must use 2 Might points to boost his 3 to a 5 in order to win the Fight. As Jay is now losing, he elects to use a Might point to boost his 4 to a 5, and as Azog has the higher Fight value, Jay is now winning the fight. Adam now has another opportunity to use Might as he is once again losing the Fight, he elects to use his last Might point to boost his 5 to a 6 and once again win the Fight. Jay then elects to use another Might point to also boost his 5 to a 6 and win the Fight. As both players are now at a 6, no more Might can be used: Azog wins the Fight - bad news for Adam and Thorin!*
 
 ***MIGHT 3***
 
-![](../media/rules_manual/might_3.jpg)
+![](../media/rules_manual/might_3.jpg){ width=516 height=558 }
 
 *Beorn is in a Fight against* Bolg. *Looking at their Duel roll, Beorn scores a 1, 3 and 4. Bolg rolls a 2, 4 and a 6 - beating the hulking bear's score by 2. Beorn now has to decide whether he loses the Fight or if he is willing to spend 2 Might points to even draw with Bolg (and with his higher Fight value, that's a pretty sensible thing to do).*
 
@@ -110,7 +110,7 @@ If a **Hero** declares that they will attempt a Heroic Move, but is charged befo
 
 ***HEROIC MOVES***
 
-![](../media/rules_manual/heroic_moves_1.jpg)
+![](../media/rules_manual/heroic_moves_1.jpg){ width=517 height=557 }
 
 *The Evil side has Priority, and* Tom the Troll *is closer to Thorin's Company than they would like. Bilbo Baggins uses a Might Point to declare a Heroic Move, enabling him and all friendly models within 6" to move first, outside of the normal order of Priority.*
 
@@ -145,7 +145,7 @@ If any of the models involved in the Heroic Combat Charge into new enemies, the 
 
 ***HEROIC COMBAT***
 
-![](../media/rules_manual/heroic_combat_1.jpg)
+![](../media/rules_manual/heroic_combat_1.jpg){ width=516 height=523 }
 
 *Thorin is fighting a lone Goblin, a combat he is very likely to win. Because of this, his controlling player spends a Might point to declare a Heroic Combat. If Thorin wins the Duel roll and kills the Goblin, he will be able to move straight away and even charge a new foe - in which case he will also fight again following the normal order of Fights.*
 
@@ -169,7 +169,7 @@ If a **Hero** declares that they will attempt a Heroic March, but is charged bef
 
 ***HEROIC MARCH***
 
-![](../media/rules_manual/heroic_march_1.jpg)
+![](../media/rules_manual/heroic_march_1.jpg){ width=656 height=718 }
 
 Grinnah *and his Goblins wish to catch the fleeing Dwarves as quickly as possible. Grinnah declares a Heroic March. When they move, Grinnah and the Goblins within 6" of him move 5" as per their Move characteristic, plus 3" more for the Heroic March.*
 
@@ -197,7 +197,7 @@ weapon to declare a Heroic Accuracy.
 
 ***HEROIC ACCURACY***
 
-![](../media/rules_manual/heroic_accuracy_1.jpg)
+![](../media/rules_manual/heroic_accuracy_1.jpg){ width=516 height=392 }
 
 Tauriel *and her* Mirkwood *Rangers are about to fire at some Hunter Orcs. Because the Orcs are protected by obstructions, Tauriel spends a point of Might to declare a Heroic Accuracy. When she, and any friendly models within 6" shoot this turn, they may re-roll any failed In The Way rolls.*
 
@@ -259,7 +259,7 @@ A **Hero** who has attempted, and failed, a Courage test may spend Will points t
 
 ***PASS A COURAGE TEST***
 
-![](../media/rules_manual/pass_a_courage_test_1.jpg)
+![](../media/rules_manual/pass_a_courage_test_1.jpg){ width=516 height=655 }
 
 Nori *wishes to Charge* The Goblin King. *Although he is usually brave, Nori is unlucky and only scores a 4 for his Courage test (he has a Courage value of 5). His controlling player decides to spend a Will point to increase his score to 5, and therefore pass the test!*
 
@@ -283,12 +283,12 @@ Whilst a **Hero** can use Fate to prevent any manner of Wound (whether caused by
 
 **FATE 1**
 
-![](../media/rules_manual/fate_1.jpg)
+![](../media/rules_manual/fate_1.jpg){ width=516 height=525 }
 
 *Thorin has defeated Grinnah in a fight and prepares to make his Strikes. Swinging* Orcrist *above his head, Thorin scores a 1, 5 and 6 for his To Wound rolls - causing 2 Wounds! Grinnah decides to use a Fate point against one of these wounding Strikes, rolling a 4. This prevents the Wound and stops it from doing D3 Wounds - if the Fate roll had been failed, then Grinnah would have suffered D3 Wounds as Orcrist has the Goblinbane special rule. However, Grinnah does not have another Fate point to use to prevent the second Wounding Strike, so it will do D3 Wounds. Thorin rolls a 5 and inflicts 3 Wounds, cleaving the Goblin's head clean off!*
 
 **FATE 2**
 
-![](../media/rules_manual/fate_2.jpg)
+![](../media/rules_manual/fate_2.jpg){ width=796 height=391 }
 
 *Kili has been shot by a Hunter Orc's arrow and suffered a Wound. Kili decides to spend a Fate point in an attempt to prevent the Wound and rolls a dice. On a 4+, the Wound is ignored. Unfortunately, Kili only scores a 3. Determined to avoid injury, the controlling player spends a Might point to turn the 3 into a 4 and prevent the Wound.*

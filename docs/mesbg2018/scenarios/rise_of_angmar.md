@@ -36,7 +36,7 @@ Good models may not willingly move further than 12" away from the center of the 
 
 Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
-![](../media/scenarios/rise_of_angmar/the_founding_of_angmar.jpg)
+![](../media/scenarios/rise_of_angmar/the_founding_of_angmar.jpg){ width=500 height=500 }
 
 ---
 
@@ -74,7 +74,7 @@ Evil Hero models may declare 1 Heroic March each turn without reducing their own
 
 Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
 
-![](../media/scenarios/rise_of_angmar/assault_on_rivendell.jpg)
+![](../media/scenarios/rise_of_angmar/assault_on_rivendell.jpg){ width=500 height=500 }
 
 ---
 
@@ -112,7 +112,7 @@ Carn Dum models gain the Hatred (Arnor) special rule.
 
 Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
-![](../media/scenarios/rise_of_angmar/war_begins.jpg)
+![](../media/scenarios/rise_of_angmar/war_begins.jpg){ width=500 height=500 }
 
 ---
 
@@ -146,7 +146,7 @@ Evil models cause Terror in this Scenario.
 
 Good models gain the Woodland Creature special rule.
 
-![](../media/scenarios/rise_of_angmar/fall_of_rhudaur.jpg)
+![](../media/scenarios/rise_of_angmar/fall_of_rhudaur.jpg){ width=500 height=500 }
 
 ---
 
@@ -184,7 +184,7 @@ Models that target an enemy model with a shooting attack that is more than 12" a
 
 Rangers of the North have 2 Attacks in this Scenario.
 
-![](../media/scenarios/rise_of_angmar/defence_of_tyrn_gorthad.jpg)
+![](../media/scenarios/rise_of_angmar/defence_of_tyrn_gorthad.jpg){ width=500 height=500 }
 
 ---
 
@@ -228,7 +228,7 @@ Arveleg has the *Resistant to Magic* special rule, and may re-roll failed Fate r
 
 The Witch-king increases his Attacks to 2 for this Scenario.
 
-![](../media/scenarios/rise_of_angmar/fall_of_amon_sul.jpg)
+![](../media/scenarios/rise_of_angmar/fall_of_amon_sul.jpg){ width=500 height=500 }
 
 ---
 
@@ -264,7 +264,7 @@ Evil models that are fighting from a ladder do not treat the battlements as a ba
 
 Evil models that are on the walls cause *Terror*.
 
-![](../media/scenarios/rise_of_angmar/defence_of_fornost.jpg)
+![](../media/scenarios/rise_of_angmar/defence_of_fornost.jpg){ width=500 height=500 }
 
 ---
 
@@ -300,7 +300,7 @@ The Prince of Cardolan has 3 Attacks rather than 2 and has the Hatred (Angmar) s
 
 Other Good models within 3" of the Prince of Cardolan count as being in range of a banner. If the Prince of Cardolan suffers a Wound, then the range of this special rule is increased to 6".
 
-![](../media/scenarios/rise_of_angmar/marauding_of_cardolan.jpg)
+![](../media/scenarios/rise_of_angmar/marauding_of_cardolan.jpg){ width=500 height=500 }
 
 ---
 
@@ -336,7 +336,7 @@ Evil models gain the Hatred (Elf) special rule.
 
 Whenever an Evil Hero model is slain in combat, place a 25mm marker where they were slain. During the End phase, each Evil model within 3" of a marker must take a Courage test. If they fail, they flee the board and are removed as a casualty; Hero models that pass this Courage test may use Stand Fast!. Remove the marker at the end of the End phase.
 
-![](../media/scenarios/rise_of_angmar/an_unlikely_ally.jpg)
+![](../media/scenarios/rise_of_angmar/an_unlikely_ally.jpg){ width=500 height=500 }
 
 ---
 
@@ -372,7 +372,7 @@ From turn 2 onwards, at the start of the Move phase, roll a D6 for each model le
 
 Good models gain the Woodland Creature and Mountain Dweller special rules.
 
-![](../media/scenarios/rise_of_angmar/the_great_plague.jpg)
+![](../media/scenarios/rise_of_angmar/the_great_plague.jpg){ width=500 height=500 }
 
 ---
 
@@ -412,7 +412,7 @@ While within 3" of a Barrow, a Barrow-wight may spend a single point of Will eac
 
 From turn 3 onwards, at the end of each Good move phase, the Good player rolls a D6. On a 5+, Tom Bombadil has heard the plight of the Men of Cardolan and arrives to aid them. Tom may enter the board from any board edge via the rules for Reinforcements.
 
-![](../media/scenarios/rise_of_angmar/raising_of_the_barrow-downs.jpg)
+![](../media/scenarios/rise_of_angmar/raising_of_the_barrow-downs.jpg){ width=500 height=500 }
 
 ---
 
@@ -454,7 +454,7 @@ Once per game, after Priority has been determined, the Evil player can use this 
 
 Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound on a 3+ rather than a 5+.
 
-![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
+![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg){ width=501 height=501 }
 
 ---
 
@@ -490,7 +490,7 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 Arvedui has the Fearless special rule.
 
-![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg)
+![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg){ width=501 height=501 }
 
 ---
 
@@ -526,7 +526,7 @@ At the end of each Evil Move phase, the Evil player rolls a D6 and adds the turn
 
 At the start of the game, Arvedui is in possession of the Palantiri. This is a Light Object that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
 
-![](../media/scenarios/rise_of_angmar/flight_to_the_north.jpg)
+![](../media/scenarios/rise_of_angmar/flight_to_the_north.jpg){ width=500 height=743 }
 
 ---
 
@@ -562,7 +562,7 @@ Good models gain the Woodland Creature special rule.
 
 Evil models begin the game as Sentries as described in the main rules manual.
 
-![](../media/scenarios/rise_of_angmar/aid_to_fornost.jpg)
+![](../media/scenarios/rise_of_angmar/aid_to_fornost.jpg){ width=340 height=500 }
 
 ---
 
@@ -609,7 +609,7 @@ The Witch-king of Angmar has 3 Attacks in this scenario. Additionally, while the
 
 If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the board at the end of the game, the best result the Good player can achieve is a draw.
 
-![](../media/scenarios/rise_of_angmar/the_battle_of_fornost.jpg)
+![](../media/scenarios/rise_of_angmar/the_battle_of_fornost.jpg){ width=500 height=500 }
 
 ---
 
@@ -645,7 +645,7 @@ The Evil force is considered to be controlling an Objective marker if there are 
 
 Whenever an Evil Warrior model is slain, keep it to one side. At the end of each Evil Move phase, roll a D6 for each model kept aside in this manner. On a 4+, that model may enter the board from the center of the western board edge via the rules for Reinforcements.
 
-![](../media/scenarios/rise_of_angmar/fall_of_minas_ithil.jpg)
+![](../media/scenarios/rise_of_angmar/fall_of_minas_ithil.jpg){ width=500 height=500 }
 
 ---
 
@@ -692,7 +692,7 @@ If a model, other than Earnur or the Witch-king, causes a Wound to either Earnur
 
 Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch-king does not give up a Will point for being involved in a combat during this Scenario.
 
-![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg)
+![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg){ width=500 height=500 }
 
 ---
 
@@ -728,7 +728,7 @@ After both sides have deployed, but before the first turn of the game, each Good
 
 If the Hill Troll escapes the board, the best result the Good player can achieve is a draw. While the Hill Troll is still on the board, the game cannot end.
 
-![](../media/scenarios/rise_of_angmar/ambush_in_rhudaur.jpg)
+![](../media/scenarios/rise_of_angmar/ambush_in_rhudaur.jpg){ width=500 height=500 }
 
 ---
 
@@ -768,7 +768,7 @@ Arathorn may re-roll a single D6 when making a Duel roll.
 
 Once per game, at the start of the Fight phase, the Evil player may declare that Buhrdur has let out a fearsome war cry. If they do, then until the end of the turn, all Evil models receive a bonus of +1 when rolling To Wound.
 
-![](../media/scenarios/rise_of_angmar/the_trap_is_sprung.jpg)
+![](../media/scenarios/rise_of_angmar/the_trap_is_sprung.jpg){ width=500 height=500 }
 
 ---
 
@@ -810,7 +810,7 @@ From the third turn onwards, at the end of each Good Move phase, the Good player
 
 Aragorn does not have the Mighty Hero special rule in this scenario.
 
-![](../media/scenarios/rise_of_angmar/aragorns_revenge.jpg)
+![](../media/scenarios/rise_of_angmar/aragorns_revenge.jpg){ width=500 height=500 }
 
 ---
 
@@ -850,4 +850,4 @@ Aragorn does not have the Mighty Hero special rule in this scenario.
 
 Aragorn gains the Fearless special rule in this scenario.
 
-![](../media/scenarios/rise_of_angmar/the_terror_of_arnor.jpg)
+![](../media/scenarios/rise_of_angmar/the_terror_of_arnor.jpg){ width=500 height=500 }

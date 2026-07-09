@@ -38,7 +38,7 @@ At the end of the Good player's first Activation Phase, roll a D6 for each Thori
 
 The Trolls may not make Strikes against Bilbo until the start of the third turn, or until Bilbo Charges one of them.
 
-![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/roast_mutton.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/roast_mutton.jpg){ width=861 height=845 }
 
 ---
 
@@ -86,7 +86,7 @@ Any model that is pushed off of a platform or rocky outcrop, or who fails to jum
 
 In the first turn of the game, the Goblin King may not Move or declare Heroic Actions.
 
-![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/escape_from_goblin_town.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/escape_from_goblin_town.jpg){ width=874 height=861 }
 
 ---
 
@@ -130,7 +130,7 @@ When Thorin Moves, he must always Charge an enemy model if possible; prioritisin
 
 At the start of any Fight Phase, the Good player may place Bilbo in base contact with any model Engaged in Combat with Thorin. If Bilbo enters the battlefield in this way, he must also be rescued by the Eagles (otherwise he counts as having been rescued along with one of the other Dwarf Markers).
 
-![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/out_of_the_frying_pan_and_into_the_fire.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_an_unexpected_journey/out_of_the_frying_pan_and_into_the_fire.jpg){ width=880 height=863 }
 
 ---
 
@@ -174,7 +174,7 @@ Spiders may not be Moved off the battlefield and must always Move the full amoun
 
 If Bilbo is touching a Marker in the End Phase, the Good player rolls a D6. On a 3+, the Evil player must remove the Marker and reveal if it contained any Dwarves.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_1_the_unseen_hero.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_1_the_unseen_hero.jpg){ width=866 height=850 }
 
 ---
 
@@ -214,7 +214,7 @@ At the end of the Good player's fourth Move Phase, they may move Legolas, Taurie
 
 Any Mirkwood Giant Spiders that are slain should be put to one side. At the start of each Priority Phase, before Priority is rolled, the Evil player may place any previously slain Mirkwood Giant Spiders onto the board at least 10" away from any Good models. These Spiders may act as normal.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_2_the_elves_of_mirkwood.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/flies_and_spiders_part_2_the_elves_of_mirkwood.jpg){ width=865 height=850 }
 
 ---
 
@@ -256,7 +256,7 @@ In this Scenario Legolas increases his Attacks to 3 and his Fight Value to 7.
 
 Bolg has 3 Fate Points in this Scenario. Additionally, whilst he has all of his Wounds remaining Bolg may not leave the board and when he Activates Bolg must always Charge Legolas if possible (unless he is still acting as a Sentry, of course). However, if Bolg is ever reduced to a single Wound then he is considered to be seriously injured. If Bolg escapes the board whilst he is seriously injured then the best result the Evil player can achieve is a draw.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/lake_town_escape.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_desolation_of_smaug/lake_town_escape.jpg){ width=865 height=850 }
 
 ---
 
@@ -306,7 +306,7 @@ Bard gains the Mighty Hero special rule. Additionally, Bard may ignore the rule 
 
 The water is always Deep Water. Additionally, any model that has been Set Ablaze that enters the water for any reason will no longer be Set Ablaze.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/fire_and_water.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/fire_and_water.jpg){ width=866 height=853 }
 
 ---
 
@@ -354,7 +354,7 @@ Any model that Moves on the frozen river during their Activation, and ends its M
 
 If Tauriel is slain, Legolas immediately increases his Fight Value to 7 and his Attacks to 3.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/assault_on_ravenhill.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/assault_on_ravenhill.jpg){ width=867 height=850 }
 
 ---
 
@@ -423,7 +423,7 @@ If Bofur is Engaged in Combat with the Troll Brute and the Good player wins the 
 
 In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on page 147 of *Armies of The Hobbit*.
 
-![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg)
+![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg){ width=1000 height=680 }
 
 ---
 
@@ -465,7 +465,7 @@ From turn 2 onwards, the Good player may roll a D6 at the end of each of their A
 
 Once per game, at the start of any Move Phase, the Evil player can declare they are unleashing the screech of the Nazgûl. If they do, then until the End Phase of the turn all Good models suffer an additional -3 to any Courage Tests they are required to take. If this is used before Aragorn has arrived, he will automatically arrive this turn.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/weathertop.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/weathertop.jpg){ width=861 height=864 }
 
 ---
 
@@ -505,7 +505,7 @@ At the beginning of the Evil player's fourth Activation Phase, the Cave Troll ma
 
 The Cave Troll gains a bonus of +1 to its Fight Value during a turn in which it Charges.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/balins_tomb.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/balins_tomb.jpg){ width=857 height=859 }
 
 ---
 
@@ -543,7 +543,7 @@ The game lasts until Frodo leaves the board under any circumstance. The Good pla
 
 **The Legions of Isengard** - At the start of each of the Evil player's Activation Phases, they may roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, southern or eastern board edges via the rules for Reinforcements.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/amon_hen.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/amon_hen.jpg){ width=857 height=864 }
 
 ---
 
@@ -581,7 +581,7 @@ The game lasts until the end of a turn in which one side has been reduced to 25%
 
 **Grishnákh** - Grishnákh follows the same rules for Movement as the Hobbits, except that he crawls 3" and cannot cut his bonds as he is not bound. Grishnákh is the only model that can Charge the Hobbits, and he will fight them in the Fight Phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are both Prone; ignoring the rules for being Prone. Additionally, as he is wounded, Grishnákh begins the game with only a single point of Might, Will and Fate, and only has 1 Attack.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/ambush_at_night.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/ambush_at_night.jpg){ width=847 height=852 }
 
 ---
 
@@ -621,7 +621,7 @@ If an Ent loses a Combat against at least 3 Evil models, then the Evil player ma
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in Combat.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/last_march_of_the_ents.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/last_march_of_the_ents.jpg){ width=847 height=852 }
 
 ---
 
@@ -677,7 +677,7 @@ The Siege of Helm's Deep is a huge battle fought across the entire fortress; as 
 
 **A Great Siege** - This scenario follows all of the rules for Sieges, including siege equipment, as found in the Middle-earth Strategy Battle Game Rules Manual.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/siege_of_helms_deep.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/siege_of_helms_deep.jpg){ width=847 height=852 }
 
 ---
 
@@ -719,7 +719,7 @@ At the start of each of the Evil player's Activation Phases, they may roll a D6 
 
 At the start of each Move Phase, the Evil player may select a single Good Warrior and roll a D6. On a 3+ the chosen Warrior becomes paralysed by fear and may not Activate this turn. Additionally, they may still fight if Engaged in Combat, however, their Fight Value will be reduced to 1 for the duration of the turn.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/escape_from_osgiliath.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/escape_from_osgiliath.jpg){ width=996 height=998 }
 
 ---
 
@@ -775,7 +775,7 @@ At the end of the Evil player's fourth Activation Phase, the Witch-king will Mov
 
 At the end of the Good player's sixth Activation Phase, the Gondor force will Move onto the battlefield via the Gates of Minas Tirith.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/battle_of_pelennor_fields.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/battle_of_pelennor_fields.jpg){ width=1000 height=708 }
 
 ---
 
@@ -835,4 +835,4 @@ Good models may not willingly Move more than 12" away from the centre of the Bla
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will and Fate.
 
-![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/the_end_of_all_things.jpg)
+![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/the_end_of_all_things.jpg){ width=1000 height=542 }

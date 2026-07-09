@@ -1,4 +1,4 @@
-![](../media/matched_play_guide/cover.jpg)
+![](../media/matched_play_guide/cover.jpg){ width=891 height=920 }
 
 Welcome to the Middle-earth Strategy Battle Game: Matched Play Guide; your way to get the very best from your Matched Play experiences, be they high-stakes tournaments or casual games at your local gaming club.
 

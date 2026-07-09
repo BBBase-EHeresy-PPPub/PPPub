@@ -1,4 +1,4 @@
-![](../media/good_army_lists.jpg)
+![](../media/good_army_lists.jpg){ width=750 height=750 }
 
 - [Arathorn's Stand](arathorns_stand.md)
 - [Army of Dale](army_of_dale.md)

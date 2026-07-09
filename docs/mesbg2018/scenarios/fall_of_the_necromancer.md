@@ -32,7 +32,7 @@ The Necromancer begins the game with only 12 points of Will.
 
 All Evil models have the Terror special rule in this scenario.
 
-![](../media/scenarios/fall_of_the_necromancer/the_founding_of_dol_guldur.jpg)
+![](../media/scenarios/fall_of_the_necromancer/the_founding_of_dol_guldur.jpg){ width=500 height=500 }
 
 ---
 
@@ -68,7 +68,7 @@ The Necromancer begins the game with only 12 points of Will.
 
 Good models can only see up to 6" in this Scenario. Therefore, they cannot shoot enemy models that are more than 6" away from them. Sauron and his Orcs are accustomed to the darkness and can see as normal.
 
-![](../media/scenarios/fall_of_the_necromancer/the_gathering_evil.jpg)
+![](../media/scenarios/fall_of_the_necromancer/the_gathering_evil.jpg){ width=500 height=500 }
 
 ---
 
@@ -104,7 +104,7 @@ If, during the End phase of any turn, there is a non-Prone Evil model in base co
 
 If, during the End phase of any turn, there is a non-Prone Good model in base contact with a corrupted objective marker, and that model did not shoot or fight during that turn, then that objective is no longer considered to be corrupted.
 
-![](../media/scenarios/fall_of_the_necromancer/corruption_of_the_greenwood.jpg)
+![](../media/scenarios/fall_of_the_necromancer/corruption_of_the_greenwood.jpg){ width=500 height=500 }
 
 ---
 
@@ -142,7 +142,7 @@ Additionally, whenever a **Spider** model is slain, with the exception of the Sp
 
 Shooting attacks that target the Spider Queen suffer a -1 penalty when rolling To Hit. Additionally, shooting attacks will only Wound the Spider Queen on the roll of a natural 6.
 
-![](../media/scenarios/fall_of_the_necromancer/lurking_in_the_shadows.jpg)
+![](../media/scenarios/fall_of_the_necromancer/lurking_in_the_shadows.jpg){ width=500 height=500 }
 
 ---
 
@@ -188,7 +188,7 @@ The Necromancer loses a point of Will at the end of each Move phase in which he 
 
 Gandalf has 2 Attacks in this scenario.
 
-![](../media/scenarios/fall_of_the_necromancer/flight_to_the_east.jpg)
+![](../media/scenarios/fall_of_the_necromancer/flight_to_the_east.jpg){ width=500 height=500 }
 
 ---
 
@@ -224,7 +224,7 @@ If Legolas is slain, then the game ends immediately and the Evil side wins.
 
 Good models may re-roll failed To Hit rolls when making shooting attacks if they did not move during the preceding Move phase.
 
-![](../media/scenarios/fall_of_the_necromancer/the_watchful_peace.jpg)
+![](../media/scenarios/fall_of_the_necromancer/the_watchful_peace.jpg){ width=500 height=500 }
 
 ---
 
@@ -262,7 +262,7 @@ The Spider Nest has 3 Wounds and will only ever be wounded on the roll of a natu
 
 Whenever a **Spider** model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each **Spider** model kept aside in this way. On a 5+, the Evil player may place that **Spider** model within 6" of the Spider Nest, but not within the Control Zones of enemy models. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
-![](../media/scenarios/fall_of_the_necromancer/clearing_the_nests.jpg)
+![](../media/scenarios/fall_of_the_necromancer/clearing_the_nests.jpg){ width=500 height=500 }
 
 ---
 
@@ -298,7 +298,7 @@ The six objective markers represent the woodland creatures in need of rescue. Ra
 
 Whenever Radagast rescues a creature, he may restore one Fate point spent earlier in the battle.
 
-![](../media/scenarios/fall_of_the_necromancer/attack_on_rhosgobel.jpg)
+![](../media/scenarios/fall_of_the_necromancer/attack_on_rhosgobel.jpg){ width=500 height=500 }
 
 ---
 
@@ -344,7 +344,7 @@ In this Scenario, the Witch-king does not benefit from his *Unholy Resurrection*
 
 Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *Resistant to Magic* special rule.
 
-![](../media/scenarios/fall_of_the_necromancer/exploration_of_dol_guldur.jpg)
+![](../media/scenarios/fall_of_the_necromancer/exploration_of_dol_guldur.jpg){ width=500 height=500 }
 
 ---
 
@@ -398,7 +398,7 @@ Gandalf may not strike blows against Thráin if he wins a fight against him. Thi
 
 Gandalf may not use the *Sorcerous Blast* or *Collapse Rocks* Magical Powers in this Scenario.
 
-![](../media/scenarios/fall_of_the_necromancer/thrain_the_broken.jpg)
+![](../media/scenarios/fall_of_the_necromancer/thrain_the_broken.jpg){ width=500 height=500 }
 
 ---
 
@@ -453,7 +453,7 @@ During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. 
 
 **Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
-![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg)
+![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg){ width=500 height=325 }
 
 ---
 
@@ -491,7 +491,7 @@ On a 5+, that model will re-enter the board via one of the Spider Nests. To dete
 
 Whilst riding his Sleigh, whenever Radagast charges into combat, the Sleigh will inflict two Strength 3 hits upon one model it has charged. If, after this charge, Radagast is unengaged and has movement remaining, he may complete his move in any way the Good player wishes, and may even charge again if able.
 
-![](../media/scenarios/fall_of_the_necromancer/make_haste_to_dol_guldur.jpg)
+![](../media/scenarios/fall_of_the_necromancer/make_haste_to_dol_guldur.jpg){ width=500 height=500 }
 
 ---
 

@@ -1,4 +1,4 @@
-![](../media/rules_manual/cover.jpg)
+![](../media/rules_manual/cover.jpg){ width=891 height=920 }
 
 Welcome to the Middle-earth Strategy Battle Game, the hobby of collecting, painting and gaming with all of your favourite characters and warriors from *The Lord of the Rings*™, *The Hobbit*™ and *The War of the Rohirrim*™ using beautifully detailed Forge World and Citadel miniatures. If you have ever wanted to explore the wonderful world of Middle-earth, its races, factions and memorable heroes, then this is the hobby for you.
 
@@ -54,7 +54,7 @@ The rules are what make the game work on the tabletop. They govern all aspects o
 
 ### CHARACTERISTICS
 
-![](../media/rules_manual/characteristics.jpg)
+![](../media/rules_manual/characteristics.jpg){ width=432 height=318 }
 
 Every model, from the most valorous of Men to the most repulsive of Orc, has a profile that reflects how powerful they are and what they can do on the battlefield. A profile is a collection of letters and numbers that at first glance may seem confusing but is quite simple once it has been explained. Each of these relates to a specific aspect, and during the course of a battle you will often be referring to these to see which model wins a fight, if a model delivers a wounding blow, and all manner of situations.
 
@@ -86,7 +86,7 @@ A model's Strength can never be increased to more than 10. However, should a mod
 
 ### ANATOMY OF A PROFILE
 
-![](../media/rules_manual/profile.jpg)
+![](../media/rules_manual/profile.jpg){ width=720 height=1000 }
 
 Shown opposite is an example of a profile for the Middle-earth Strategy Battle Game, in this case Elrond, Master of Rivendell. Whilst at first glance this profile may seem rather confusing if you haven't seen one before, it is actually really simple to understand. Here we will take you through each part of a model's profile and explain what each bit means - that way you will be able to understand it all in no time!
 

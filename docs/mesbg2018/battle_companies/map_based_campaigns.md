@@ -8,7 +8,7 @@ The first thing you will need to do is gather a group of players for your campai
 
 We recommend between 4-10 players for this campaign, as that way the map does not get too crowded and each faction has room to expand their own territories. However, this is by no means a hard and fast rule, and if you want to have more players in the campaign, that is absolutely fine - just be prepared for some companies to be right on top of each other from the start!
 
-Once you have gathered your players and they have chosen their Battle Companies, each player will need to choose their starting location. These are all spaces in the wilderness of Middle-earth where your Battle Company currently resides, and are denoted on the map by the shaded yellow hexes and the ![](../media/battle_companies/starting_symbol.jpg) symbol. As there are only 10 of these starting locations on the map, if you have more than 10 players in your campaign, you will have to agree on some other starting locations for the extra players.
+Once you have gathered your players and they have chosen their Battle Companies, each player will need to choose their starting location. These are all spaces in the wilderness of Middle-earth where your Battle Company currently resides, and are denoted on the map by the shaded yellow hexes and the ![](../media/battle_companies/starting_symbol.jpg){ width=22 height=22 } symbol. As there are only 10 of these starting locations on the map, if you have more than 10 players in your campaign, you will have to agree on some other starting locations for the extra players.
 
 When selecting starting locations, randomly determine an order for players to choose them in. The first player may select any of the starting locations; the second player may then choose any of the remaining starting locations, and so on until each player has a starting location for their Battle Company. Once every player has chosen where their company will start, you are ready to play!
 
@@ -60,11 +60,11 @@ In this campaign, turns don't take very long at all, probably no more than an ho
 
 ***Example 1**: Jay has just won a game of Battle Companies and, as he is only adjacent to unoccupied territories, chooses one of them to claim for his Battle Company.*
 
-![](../media/battle_companies/campaign_example_1.jpg)
+![](../media/battle_companies/campaign_example_1.jpg){ width=700 height=346 }
 
 ***Example 2**: Here, Jay's Minas Tirith Battle Company has just defeated Ben's Moria Battle Company. Jay could choose to take control of territory A as he was victorious and it is currently unoccupied. Jay could also choose to take control of either territory B or territory C as both are owned by Ben, who Jay has just defeated in the previous game. Jay could not choose to take control of territory D as it is owned by Adam's Easterling Battle Company and, although he was victorious, Jay would need to defeat Adam specifically to lay claim to that territory.*
 
-![](../media/battle_companies/campaign_example_2.jpg)
+![](../media/battle_companies/campaign_example_2.jpg){ width=698 height=344 }
 
 ---
 
@@ -98,122 +98,122 @@ As mentioned previously, dotted around the campaign map is a selection of 30 Spe
 
 Over the next three pages we will highlight each of these Special Territories and the special rules associated with them. The special rule for each of these applies as soon as a Battle & Company takes control of the territory, but is also lost as soon as a company loses control of the territory.
 
-![](../media/battle_companies/abrakhan_symbol.jpg) **ABRAKHAN**
+![](../media/battle_companies/abrakhan_symbol.jpg){ width=32 height=24 } **ABRAKHAN**
 
 At the end of each Battle phase, a Battle Company that controls Abrakhân gains an additional 1 Influence Point.
 
-![](../media/battle_companies/blue_mountains_symbol.jpg) **BLUE MOUNTAINS**
+![](../media/battle_companies/blue_mountains_symbol.jpg){ width=30 height=23 } **BLUE MOUNTAINS**
 
 A Battle Company that controls the Blue Mountains may swap their hand weapons for another type for free rather than having to pay an Influence Point to do so.
 
-![](../media/battle_companies/brandywine_symbol.jpg) **BRANDYWINE**
+![](../media/battle_companies/brandywine_symbol.jpg){ width=33 height=31 } **BRANDYWINE**
 
 At the end of each Expansion phase, a Battle Company that controls the Brandywine may roll a D6. On a 4+, they may immediately make another expansion just as if it was the Expansion phase. This additional expansion does not allow the controlling Battle Company to roll again after doing so.
 
-![](../media/battle_companies/cirith_ungol_symbol.jpg) **CIRITH UNGOL**
+![](../media/battle_companies/cirith_ungol_symbol.jpg){ width=24 height=33 } **CIRITH UNGOL**
 
 If a Battle Company controls Cirith Ungol then all of the models within the company benefit from the Poisoned Weapons special rule for all of their weapons.
 
-![](../media/battle_companies/dead_marshes_symbol.jpg) **DEAD MARSHES**
+![](../media/battle_companies/dead_marshes_symbol.jpg){ width=33 height=30 } **DEAD MARSHES**
 
 If a Battle Company controls the Dead Marshes, then **Infantry** models in the company are not slowed by difficult terrain. Additionally, **Cavalry** models in the company may move at half of their Move allowance whilst within difficult terrain, rather than a quarter.
 
-![](../media/battle_companies/dol_amroth_symbol.jpg) **DOL AMROTH**
+![](../media/battle_companies/dol_amroth_symbol.jpg){ width=30 height=33 } **DOL AMROTH**
 
 If a Battle Company controls Dol Amroth then any **Hero** models in the company may choose to re-roll the results on Progression charts. If they do this, they must take the second result.
 
-![](../media/battle_companies/edoras_symbol.jpg) **EDORAS**
+![](../media/battle_companies/edoras_symbol.jpg){ width=33 height=23 } **EDORAS**
 
 A Battle Company that controls Edoras may purchase horses or armoured horses for one fewer Influence point than they would normally pay. Alternatively, if the Battle Company cannot purchase horses normally, they will now be able to do so at the normal cost in Influence Points.
 
-![](../media/battle_companies/erebor_symbol.jpg) **EREBOR**
+![](../media/battle_companies/erebor_symbol.jpg){ width=29 height=26 } **EREBOR**
 
 At the end of each Battle phase, a Battle Company that controls Erebor gains an additional 1 Influence Point.
 
-![](../media/battle_companies/erech_symbol.jpg) **ERECH**
+![](../media/battle_companies/erech_symbol.jpg){ width=32 height=25 } **ERECH**
 
 At the start of each Battle phase, a Battle Company that controls Erech rolls a D6. On a 4+, a single Warrior of the Dead joins the Battle Company for the upcoming game. Immediately after the game is completed, the Warrior of the Dead fades to dust and is not added to your company's roster.
 
-![](../media/battle_companies/fangorn_symbol.jpg) **FANGORN**
+![](../media/battle_companies/fangorn_symbol.jpg){ width=32 height=23 } **FANGORN**
 
 All models in a Battle Company that controls Fangorn gain the Woodland Creature special rule.
 
-![](../media/battle_companies/fornost_symbol.jpg) **FORNOST**
+![](../media/battle_companies/fornost_symbol.jpg){ width=31 height=31 } **FORNOST**
 
 If a Battle Company controls Fornost then any **Hero **models in the company may choose to re-roll results on Progression charts. If they do this, they must take the second result.
 
-![](../media/battle_companies/the_gray_havens_symbol.jpg) **THE GREY HAVENS**
+![](../media/battle_companies/the_gray_havens_symbol.jpg){ width=31 height=28 } **THE GREY HAVENS**
 
 A Battle Company that controls the Grey Havens may expand into any unoccupied territory that is along the coastline of Middle-earth as if they were adjacent to them. They may do this either during the Expansion phase or during the Consolidation phase.
 
-![](../media/battle_companies/gundabad_symbol.jpg) **GUNDABAD**
+![](../media/battle_companies/gundabad_symbol.jpg){ width=24 height=33 } **GUNDABAD**
 
 A Battle Company that controls Gundabad may swap their hand weapons for another type for free rather than having to pay an Influence Point to do so.
 
-![](../media/battle_companies/icebay_of_forochel_symbol.jpg) **ICEBAY OF FOROCHEL**
+![](../media/battle_companies/icebay_of_forochel_symbol.jpg){ width=32 height=32 } **ICEBAY OF FOROCHEL**
 
 Models in a Battle Company that controls the Icebay of Forochel gain a bonus of +2 to all Swim tests.
 
-![](../media/battle_companies/iron_hills_symbol.jpg) **IRON HILLS**
+![](../media/battle_companies/iron_hills_symbol.jpg){ width=27 height=34 } **IRON HILLS**
 
 All models in a Battle Company that controls the Iron Hills gain the Mountain Dweller special rule.
 
-![](../media/battle_companies/isengard_symbol.jpg) **ISENGARD**
+![](../media/battle_companies/isengard_symbol.jpg){ width=18 height=30 } **ISENGARD**
 
 Once per game, a Battle Company that controls Isengard can choose to have Priority rather than either player rolling as normal. This must be done before either player rolls their dice.
 
-![](../media/battle_companies/karna_symbol.jpg) **KARNA**
+![](../media/battle_companies/karna_symbol.jpg){ width=19 height=32 } **KARNA**
 
 Models in a Battle Company that controls Kârna gain a bonus of +1 to their Courage value.
 
-![](../media/battle_companies/khand_symbol.jpg) **KHAND**
+![](../media/battle_companies/khand_symbol.jpg){ width=32 height=32 } **KHAND**
 
 A Battle Company that controls Khand may purchase horses or armoured horses for one fewer Influence point than they would normally pay. Alternatively, if the Battle Company cannot purchase horses normally, they will now be able to do so at the normal cost in Influence Points.
 
-![](../media/battle_companies/lake_of_rhun_symbol.jpg) **LAKE OF RHÛN**
+![](../media/battle_companies/lake_of_rhun_symbol.jpg){ width=21 height=34 } **LAKE OF RHÛN**
 
 At the end of each Expansion phase, a Battle Company that controls the Lake of Rhûn may roll a D6. On a 4+, they may immediately make another expansion just as if it was the Expansion phase. This additional expansion does not allow the controlling Battle Company to roll again after doing so.
 
-![](../media/battle_companies/lake_town_symbol.jpg) **LAKE-TOWN**
+![](../media/battle_companies/lake_town_symbol.jpg){ width=30 height=28 } **LAKE-TOWN**
 
 A Battle Company that controls Lake-town may purchase wargear and Equipment (with the exception of mounts) for 1 Influence Point fewer than normal (to a minimum of 1 Influence Point).
 
-![](../media/battle_companies/lothlorien_symbol.jpg) **LOTHLÓRIEN**
+![](../media/battle_companies/lothlorien_symbol.jpg){ width=66 height=66 } **LOTHLÓRIEN**
 
 All models in a Battle Company that controls Lothlórien gain the Woodland Creature special rule.
 
-![](../media/battle_companies/minas_tirith_symbol.jpg) **MINAS TIRITH**
+![](../media/battle_companies/minas_tirith_symbol.jpg){ width=24 height=35 } **MINAS TIRITH**
 
 A Battle Company that controls Minas Tirith gains a bonus of +1 to their Reinforcement rolls.
 
-![](../media/battle_companies/mirkwood_symbol.jpg) **MIRKWOOD**
+![](../media/battle_companies/mirkwood_symbol.jpg){ width=24 height=35 } **MIRKWOOD**
 
 At the start of each Battle phase, a Battle Company that controls Mirkwood rolls a D6. If the company is Good, then on a 4+, a single Mirkwood Ranger joins the Battle Company for the upcoming game. If the company is Evil, then on a 4+ a single Mirkwood Spider joins the Battle Company for the upcoming game. Immediately after the game is completed, the Mirkwood Ranger or Mirkwood Spider wanders back into the forest and is not added to your company roster.
 
-![](../media/battle_companies/moria_symbol.jpg) **MORIA**
+![](../media/battle_companies/moria_symbol.jpg){ width=34 height=31 } **MORIA**
 
 All models in a Battle Company that controls Moria gain the Mountain Dweller special rule.
 
-![](../media/battle_companies/mount_doom_symbol.jpg) **MOUNT DOOM**
+![](../media/battle_companies/mount_doom_symbol.jpg){ width=33 height=33 } **MOUNT DOOM**
 
 A Battle Company that controls Mount Doom gains a bonus of +1 to their Reinforcement rolls.
 
-![](../media/battle_companies/osgiliath_minas_morgul_symbol.jpg) **OSGILIATH/MINAS MORGUL**
+![](../media/battle_companies/osgiliath_minas_morgul_symbol.jpg){ width=32 height=32 } **OSGILIATH/MINAS MORGUL**
 
 At the start of each Battle phase, a Battle Company that controls Osgiliath/Minas Morgul rolls a D6. If the company is Good, then on a 4+ a single Ranger of Gondor joins the Battle Company for the upcoming game. If the company is Evil, then on a 4+ a single Dead Marsh Spectre joins the Battle Company for the upcoming game. Immediately after the game is completed, the Ranger or Spectre wanders back to their own city and is not added to your company roster.
 
-![](../media/battle_companies/rhosgobel_symbol.jpg) **RHOSGOBEL**
+![](../media/battle_companies/rhosgobel_symbol.jpg){ width=33 height=21 } **RHOSGOBEL**
 
 All models in a Battle Company that controls Rhosgobel gain the Resistant to Magic special rule.
 
-![](../media/battle_companies/the_shire_symbol.jpg) **THE SHIRE**
+![](../media/battle_companies/the_shire_symbol.jpg){ width=31 height=31 } **THE SHIRE**
 
 Models from a Battle Company that controls the Shire gain a bonus of +1 when making Injury rolls. This bonus is ignored if the model rolls the Dead result - they are beyond saving.
 
-![](../media/battle_companies/umbar_symbol.jpg) **UMBAR**
+![](../media/battle_companies/umbar_symbol.jpg){ width=32 height=28 } **UMBAR**
 
 A Battle Company that controls Umbar may expand into any unoccupied territory that is along the coastline of Middle-earth as if they were adjacent to them. They may do this either during the Expansion phase or during the Consolidation phase.
 
-![](../media/battle_companies/weathertop_symbol.jpg) **WEATHERTOP**
+![](../media/battle_companies/weathertop_symbol.jpg){ width=33 height=32 } **WEATHERTOP**
 
 Once per game, a Battle Company that controls Weathertop can choose to have Priority rather than either player rolling as normal. This must be done before either player rolls their dice.

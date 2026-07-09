@@ -64,11 +64,11 @@ A model can only gain Support from one spear-armed model at a time, and a spear-
 
 ***SPEARS AND PIKES***
 
-![](../media/rules_manual/spears_and_pikes_1.jpg)
+![](../media/rules_manual/spears_and_pikes_1.jpg){ width=516 height=430 }
 
 *Bard is locked in a Fight against a pair of Gundabad Orcs, so a Lake-town Militia, who is armed with a spear, rushes to his aid. Because the Lake-town Militia is in base contact with Bard, the Militia can provide Support. In the Duel roll, the controlling player will roll three dice for Bard as usual, and one extra dice for the Militia.*
 
-![](../media/rules_manual/spears_and_pikes_2.jpg)
+![](../media/rules_manual/spears_and_pikes_2.jpg){ width=516 height=525 }
 
 *An Uruk-hai Captain is holding the centre of the Uruk-hai battle line. Because the Captain is Supported by two Uruk-hai with pikes, in addition to his own 2 Attacks, their controlling player will roll one extra dice for each of the Supporting Uruk-hai with pikes.*
 
@@ -154,11 +154,11 @@ A model armed with a dagger or sword, who has a lower Fight value at the start o
 
 ***FEINT OR STAB***
 
-![](../media/rules_manual/feint_or_stab_1.jpg)
+![](../media/rules_manual/feint_or_stab_1.jpg){ width=516 height=525 }
 
 *Aragorn is fighting against* Lurtz *upon Amon Hen, and they both decide that they wish to use a Special Strike with their sword. As Aragorn has the higher Fight value of 6 he elects to Feint, reducing his Fight value by D3. Rolling a 3, Aragorn reduces his Fight value by 2 and is now Fight 4. As Lurtz started the Fight with the lower Fight value (Fight 5), he may only elect to Stab - even though Aragorn has Feinted and is now Fight 4.*
 
-![](../media/rules_manual/feint_or_stab_2.jpg)
+![](../media/rules_manual/feint_or_stab_2.jpg){ width=515 height=558 }
 
 *This Warrior of Númenor is fighting a* Mordor *Troll with sword and an* Orc *Warrior with sword, and is being supported by Gil-galad. The* Orc *may only choose to Stab as its Fight value is lower than its opponent's. The Warrior of Númenor can also only choose to Stab, as the Mordor Troll has a higher Fight value. Even though the Mordor Troll has a higher Fight value than the Warrior of Númenor, it can also only choose to Stab as Gil-galad's Fight value is even higher.*
 

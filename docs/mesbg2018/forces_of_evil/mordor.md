@@ -43,6 +43,9 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 
 **OPTIONS**
 
+<a id="armoured-fell-beast"></a>
+<a id="fell-beast"></a>
+
 - [Armoured Fell Beast] - 75 points
 - [Fell Beast] - 50 points
 - Crown of Morgul - 25 points

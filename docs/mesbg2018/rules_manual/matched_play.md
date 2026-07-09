@@ -135,15 +135,15 @@ Some armies have long-standing friendships and will ride to war in aid of their 
 
 On the next page we feature a cut down version of the Allies Matrix, one that covers a selection of the major factions within Middle-earth, as well as all the information that you need to use the Allies Matrix within your games. There is one Allies Matrix for Good, and a separate one for Evil, and each denote which armies have which level of alliance with each other. There are three varying levels of alliance - each with their own effects:
 
-![](../media/rules_manual/historical_allies.jpg) **HISTORICAL ALLIES - GREEN**
+![](../media/rules_manual/historical_allies.jpg){ width=71 height=71 } **HISTORICAL ALLIES - GREEN**
 
 Historical Allies are those that risked everything to fight alongside each other, such as Minas Tirith and Rohan at the battle of the Pelennor. They could also represent those forces that provided invaluable help to each other for a common goal, such as Rivendell and The Fellowship. Historical Allies are allowed to keep all of their Army Bonuses even though the force is selected from more than one army list.
 
-![](../media/rules_manual/convenient_allies.jpg) **CONVENIENT ALLIES - YELLOW**
+![](../media/rules_manual/convenient_allies.jpg){ width=71 height=71 } **CONVENIENT ALLIES - YELLOW**
 
  Convenient Allies are those armies that were around at the same point in time, but never actually fought together (such as Isengard and *The Serpent Horde*). While they may not have fought side-by-side, it is possible that, given the right circumstances, they might have found themselves upon the same battlefield. Convenient Allies lose their Army Bonus, but suffer no further effects.
 
-![](../media/rules_manual/impossible_allies.jpg) **IMPOSSIBLE ALLIES - RED**
+![](../media/rules_manual/impossible_allies.jpg){ width=71 height=71 } **IMPOSSIBLE ALLIES - RED**
 
 As mentioned earlier, there are some armies in Middle-earth that simply just did not co-exist (Isildur had been dead for over 3,000 years by the time of the *War of The Ring*!). Whilst it is possible for you to make these alliances in your Points Match games, there are a few disadvantages for crossing time lines. []
 
@@ -167,9 +167,9 @@ If your army contains several allied contingents, your leader must still be the 
 
 The full Allies Matrix, complete with all of the armies present within the Middle-earth Strategy Battle Game, can be found within the pages of The Armies of *The Lord of the Rings*™ and The Armies of *The Hobbit*™.
 
-![](../media/rules_manual/good_armies_alliance_matrix.jpg)
+![](../media/rules_manual/good_armies_alliance_matrix.jpg){ width=1255 height=873 }
 
-![](../media/rules_manual/evil_armies_alliance_matrix.jpg)
+![](../media/rules_manual/evil_armies_alliance_matrix.jpg){ width=1062 height=690 }
 
 ## THE ARMIES
 

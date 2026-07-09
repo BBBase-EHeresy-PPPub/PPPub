@@ -44,7 +44,7 @@ If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately
 
 **Designer's Notes:** *This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.*
 
-![](../media/scenarios/quest_of_the_ringbearer/farmer_maggots_crop.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/farmer_maggots_crop.jpg){ width=500 height=500 }
 
 ---
 
@@ -86,7 +86,7 @@ Until the alarm has been raised, at the start of each of the Hobbits' move, they
 
 Once per game, after the alarm has been raised, the Evil player can use this special rule. After Priority has been determined, the Evil player can unleash the screech of the Nazgûl. Until the end of the turn, all Good models reduce their Courage value by 3.
 
-![](../media/scenarios/quest_of_the_ringbearer/short_cuts_make_long_delays.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/short_cuts_make_long_delays.jpg){ width=500 height=500 }
 
 ---
 
@@ -130,7 +130,7 @@ The Brandywine is Deep Water. Additionally, any Hobbit in the water must make a 
 
 Once per game, after the alarm has been raised, the Evil player can use this special rule. After Priority has been determined, the Evil player can unleash the screech of the Nazgûl. Until the end of the turn, all Good models reduce their Courage value by 3.
 
-![](../media/scenarios/quest_of_the_ringbearer/bucklebury_ferry.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/bucklebury_ferry.jpg){ width=500 height=500 }
 
 ---
 
@@ -172,7 +172,7 @@ Trees that lose a fight can still be struck, but will not be slain if they suffe
 
 Any Hobbit that suffers its last Wound and would be slain will be knocked unconscious rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_old_forest.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_old_forest.jpg){ width=500 height=500 }
 
 ---
 
@@ -216,7 +216,7 @@ During each Hobbit model's Move phase, if that Hobbit has seen a Barrow-wight, t
 
 Any Hobbit that suffers its last Wound and would be slain will instead be paralyzed rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power. A Barrow-wight may drag a paralyzed Hobbit at full speed but will immediately drop them if Charged. Should a Hobbit recover from paralysis while being dragged, the Good player may place them within 1" of where they were. Should a Barrow-wight start its move in base contact with both a Barrow and a paralyzed Hobbit, they can attempt to sacrifice them. Roll a D6, on a 4+ the Hobbit has been sacrificed and removed as a casualty. The Barrow-wight may then act as normal.
 
-![](../media/scenarios/quest_of_the_ringbearer/fog_on_the_barrow-downs.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/fog_on_the_barrow-downs.jpg){ width=500 height=500 }
 
 ---
 
@@ -262,7 +262,7 @@ Before Frodo tries to move, he must take a Courage test.
 
 If he passes, everything is fine; however, if he fails, he must put the Ring on. Frodo suffers an additional -1 to this Courage test for each Ringwraith within 12" after the first. Frodo gains a bonus of +1 to this test for each friendly model in base contact. If Frodo puts the Ring on, the Heroes immediately count as being spotted and each Ringwraith may immediately move towards Frodo if able.
 
-![](../media/scenarios/quest_of_the_ringbearer/nazgul_in_bree.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/nazgul_in_bree.jpg){ width=500 height=500 }
 
 ---
 
@@ -304,7 +304,7 @@ Once per game, the Evil player may use this special rule.
 
 Until the end of the turn, all Good models reduce their Courage value by 3. If this is used before Aragorn has arrived, then Aragorn will automatically arrive the next turn.
 
-![](../media/scenarios/quest_of_the_ringbearer/weathertop.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/weathertop.jpg){ width=500 height=500 }
 
 ---
 
@@ -348,7 +348,7 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 
 **Designer's Notes:** *If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.*
 
-![](../media/scenarios/quest_of_the_ringbearer/flight_to_the_ford.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/flight_to_the_ford.jpg){ width=500 height=500 }
 
 ---
 
@@ -384,7 +384,7 @@ The turn then ends and the next turn begins.
 
 At the end of each turn, the Evil player can play a card from their hand to bring down more of the mountain. The Evil player may choose a card in the playing area that matches the number they played, including picture cards, that has no models currently on it. That card is then buried, and models cannot move over it. Cards in the eastern-most column cannot be chosen. Only one card per column may be buried in this manner.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_pass_of_caradhras.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_pass_of_caradhras.jpg){ width=500 height=500 }
 
 ---
 
@@ -422,7 +422,7 @@ At the start of each turn, any Evil Warrior models that have previously been sla
 
 All Evil models gain the Fearless special rule.
 
-![](../media/scenarios/quest_of_the_ringbearer/wargs_in_the_night.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/wargs_in_the_night.jpg){ width=500 height=500 }
 
 ---
 
@@ -460,7 +460,7 @@ Whenever the Watcher in the Water suffers a Wound, it will immediately retreat D
 
 The Pool is shallow water. However, each time a Good model starts its Move within the Pool, they must roll a D6. On a 1, the model is knocked Prone and cannot move any further that turn. On a 2-5, the model counts as moving through difficult terrain. On a 6, the model may move as normal. Legolas gains a bonus of +1 to this roll. Additionally, as the water is too shallow, the Watcher in the Water may not use its Dragged to the Depths special rule.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_gates_of_moria.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_gates_of_moria.jpg){ width=500 height=500 }
 
 ---
 
@@ -496,7 +496,7 @@ During the end of each of the Evil player's Move phases, any Goblin Warrior mode
 
 During the Evil player's fourth Move phase, the Cave Troll may enter the board from the doorway and may Charge the turn it arrives. During the turn it enters the board, the Cave Troll may move 'through' friendly Goblin models. Any Goblin model moved through in this manner suffers a Strength 3 hit, and any Goblin model that the Cave Troll finishes its move on is automatically slain.
 
-![](../media/scenarios/quest_of_the_ringbearer/balins_tomb.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/balins_tomb.jpg){ width=500 height=500 }
 
 ---
 
@@ -532,7 +532,7 @@ At the end of each Evil Move phase, the Evil player rolls a D6 to determine how 
 
 Any model that leaves the walkways for any reason (except when a Good model escapes the board) will automatically be slain as they fall into the depths of Moria. Additionally, if the roll for Priority is ever tied, then the Evil player may place a Chasm Marker on one of the walkways. Chasm Markers should stretch across a walkway and be 1" wide. These can be jumped as normal, but any model that rolls a 1 will fall into the depths of Moria and be slain. Chasm Markers cannot be placed on models or within 3" of another Chasm Marker.
 
-![](../media/scenarios/quest_of_the_ringbearer/escape_from_dwarrowdelf.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/escape_from_dwarrowdelf.jpg){ width=500 height=323 }
 
 ---
 
@@ -574,7 +574,7 @@ Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical 
 | 2-5 | The bridge is damaged but still standing. You may add 1 to further rolls on this chart. These modifiers are cumulative. |
 | 6 | The bridge is destroyed. Any models on the bridge are removed as a casualty. |
 
-![](../media/scenarios/quest_of_the_ringbearer/the_bridge_of_khazad-dum.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_bridge_of_khazad-dum.jpg){ width=500 height=500 }
 
 ---
 
@@ -614,7 +614,7 @@ Good models may not use Heroic March in this Scenario.
 
 At the end of each Evil Move phase, D6 Warg models may enter the board via the rules for Reinforcements, from a board edge chosen by the player with Priority. A different board edge may be chosen for each Warg.
 
-![](../media/scenarios/quest_of_the_ringbearer/lothlorien.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/lothlorien.jpg){ width=500 height=500 }
 
 ---
 
@@ -652,7 +652,7 @@ At the end of each Good Move phase, the Good player rolls a D6 and adds the turn
 
 At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai model not currently on the board. On a 4+, that model may move onto the board from a board edge chosen by the player with Priority via the rules for Reinforcements. Previously slain Warrior models may also return to the board in this manner.
 
-![](../media/scenarios/quest_of_the_ringbearer/aragorns_stand.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/aragorns_stand.jpg){ width=264 height=500 }
 
 ---
 
@@ -690,7 +690,7 @@ From the 11th turn onwards, if the roll for Priority is ever a draw, then the ga
 
 Evil models may not target a Hobbit with shooting attacks. Additionally, any Hobbit that loses its final Wound is not slain but knocked unconscious; they count as being under the effects of the *Paralyse* Magical Power. Uruk-hai models treat Hobbit models as Light Objects.
 
-![](../media/scenarios/quest_of_the_ringbearer/boromirs_redemption.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/boromirs_redemption.jpg){ width=500 height=500 }
 
 ---
 
@@ -728,7 +728,7 @@ Boromir starts the game with 3 Might points and only a single Wound. Additionall
 
 Once per game, Lurtz can choose to use his shield as a throwing weapon. This has a Strength of 4, and any Man-sized (or smaller) model hit by the shield is automatically knocked Prone. Once Lurtz has thrown his shield, he no longer carries it and cannot use it for the remainder of the battle.
 
-![](../media/scenarios/quest_of_the_ringbearer/breaking_of_the_fellowship.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/breaking_of_the_fellowship.jpg){ width=500 height=500 }
 
 ---
 
@@ -772,7 +772,7 @@ Should a Hobbit suffer their final Wound, instead of being slain they will recov
 
 At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, eastern, or southern board edges.
 
-![](../media/scenarios/quest_of_the_ringbearer/ambush_at_amon_hen.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/ambush_at_amon_hen.jpg){ width=500 height=500 }
 
 ---
 
@@ -813,7 +813,7 @@ If Gollum suffers his last Wound then he is subdued rather than slain. However, 
 
 Each time Gollum loses a Fight against Frodo, he must make a Courage test. If the test is failed, Gollum surrenders to the Hobbits and is automatically subdued.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_taming_of_smeagol.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_taming_of_smeagol.jpg){ width=500 height=500 }
 
 ---
 
@@ -853,7 +853,7 @@ If a Good model is moved into any of the marshland as a result of a Spectre's 'A
 
 If Frodo puts the Ring on, then the Ringwraith will no longer be a Sentry and will act as normal.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_dead_marshes.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_dead_marshes.jpg){ width=500 height=500 }
 
 ---
 
@@ -885,7 +885,7 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the *Stalk Unseen* special rule and may re-roll any 1s To Wound when making a shooting attack.
 
-![](../media/scenarios/quest_of_the_ringbearer/ambush_at_ithilien.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/ambush_at_ithilien.jpg){ width=500 height=500 }
 
 ---
 
@@ -929,7 +929,7 @@ Each time a Warrior model is removed as a casualty, roll a D6. On a 1-3, that mo
 
 Sméagol is under the control of the Good player; however, Good models may not benefit from any Heroic Action that Sméagol declares.
 
-![](../media/scenarios/quest_of_the_ringbearer/osgiliath.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/osgiliath.jpg){ width=500 height=267 }
 
 ---
 
@@ -983,7 +983,7 @@ It is important to remember that since the cards each player is moving along bel
 
 Additionally, you will often know what is on your opponent's side of the Path, and they will know what is on your side. This can lead to a very interesting game where both players try to figure out the best possible cards to play each turn.
 
-![](../media/scenarios/quest_of_the_ringbearer/smeagols_treachery.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/smeagols_treachery.jpg){ width=1000 height=196 }
 
 ---
 
@@ -1027,7 +1027,7 @@ Shelob may not spend Will points to pass Courage tests in this Scenario.
 
 Strikes from Sting will automatically Wound Shelob. If Frodo is slain, place a 25mm marker where he fell. If Sam moves into base contact with this marker, he may pick up and wield Sting from that point on.
 
-![](../media/scenarios/quest_of_the_ringbearer/shelobs_lair.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/shelobs_lair.jpg){ width=500 height=500 }
 
 ---
 
@@ -1081,7 +1081,7 @@ Sam carries Sting in this Scenario and increases his Attacks characteristic to 2
 Any model that starts its Move in base contact with a doorway on the inner wall, or a trapdoor on the base of the tower, may spend their entire Move allowance to move through them.
 If moving from a trapdoor, place the model in base contact with the nearest door. If moving from a door, place the model in base contact with the nearest trapdoor. If Sam begins his move in base contact with the door on the main tower, he may move through it to reach Frodo. It will take Sam until the end of the following turn to climb the tower, at which point he will reach Frodo and the game will end.
 
-![](../media/scenarios/quest_of_the_ringbearer/cirith_ungol.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/cirith_ungol.jpg){ width=500 height=500 }
 
 ---
 
@@ -1125,7 +1125,7 @@ Until the Hobbits are discovered, the Orcs must move at least 2" towards the nor
 
 During the End phase of each turn, check to see if either of the Hobbits are within 6" of any enemy models. If so, roll a D6. On a 6, the Hobbits have been discovered and are at the mercy of the Orcs. Additionally, the Hobbits will automatically be discovered if they Charge an enemy model or target an enemy model with their Throw Stones special rule.
 
-![](../media/scenarios/quest_of_the_ringbearer/plateau_of_gorgoroth.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/plateau_of_gorgoroth.jpg){ width=500 height=500 }
 
 ---
 
@@ -1187,4 +1187,4 @@ Good models may not willingly move more than 12" away from the center of the Bla
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will, and Fate.
 
-![](../media/scenarios/quest_of_the_ringbearer/the_end_of_all_things.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/the_end_of_all_things.jpg){ width=500 height=774 }

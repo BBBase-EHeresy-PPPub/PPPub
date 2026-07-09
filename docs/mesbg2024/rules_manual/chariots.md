@@ -28,7 +28,7 @@ A Chariot that is entering the board via the rules for Reinforcements cannot Cha
 
 *Chariot Pivot Template*
 
-![](../media/rules_manual/chariot_pivot_template.jpg)
+![](../media/rules_manual/chariot_pivot_template.jpg){ width=533 height=410 }
 
 ## CHARIOTS AND MAGIC
 

@@ -157,7 +157,7 @@ When rolling To Wound, compare the Strength of the missile weapon (found on the 
 
 ### TO WOUND CHART
 
-![](../media/rules_manual/to_wound_chart.jpg)
+![](../media/rules_manual/to_wound_chart.jpg){ width=724 height=716 }
 
 ### MOVING AND SHOOTING
 
@@ -519,4 +519,4 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 This is a battle to the death; the first side to wipe out all their opponent's models is the winner!
 
-![](../media/quick_start/the_forces_clash_map.jpg)
+![](../media/quick_start/the_forces_clash_map.jpg){ width=750 height=746 }

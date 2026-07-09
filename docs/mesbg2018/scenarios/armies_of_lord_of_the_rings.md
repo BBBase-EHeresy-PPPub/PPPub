@@ -38,7 +38,7 @@ If Gil-galad is slain, from that point onwards Elrond may call a Heroic Strike e
 
 If Elendil is slain, from that point onwards Isildur may call a Heroic Strike each turn without expending Might.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_last_alliance.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_last_alliance.jpg){ width=558 height=377 }
 
 ---
 
@@ -74,7 +74,7 @@ At the end of each Evil Move phase, roll a D6 for each Goblin Warrior that has p
 
 All Dwarf Hero models may re-roll any failed To Wound rolls.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_khazad-dum.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_khazad-dum.jpg){ width=551 height=548 }
 
 ---
 
@@ -110,7 +110,7 @@ Whenever Arvedui suffers a Wound within 6 " of Malbeth, he will ignore the Wound
 
 Arvedui has the Fearless special rule.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_arnor.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_arnor.jpg){ width=550 height=549 }
 
 ---
 
@@ -154,7 +154,7 @@ Should a **Hobbit** suffer their final Wound, instead of being slain they will r
 
 At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, eastern or southern board edges.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_amon_hen.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_amon_hen.jpg){ width=551 height=549 }
 
 ---
 
@@ -186,7 +186,7 @@ The game lasts until there are no Mumakil left on the board. The Evil side wins 
 
 At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special mle and may re-roll any Is To Wound when making a shooting attack.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_ithilien.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_ithilien.jpg){ width=550 height=551 }
 
 ---
 
@@ -236,7 +236,7 @@ All Good **Hero** models start the game with 0 Fate.
 
 Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_deeping_wall_is_breached.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_deeping_wall_is_breached.jpg){ width=437 height=434 }
 
 ---
 
@@ -276,7 +276,7 @@ If an Ent loses a Fight, all Orc models involved in the Fight may choose to try 
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/last_march_of_the_ents.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/last_march_of_the_ents.jpg){ width=551 height=548 }
 
 ---
 
@@ -314,7 +314,7 @@ All Good models gain the Fleetfoot and Woodland Creature special rules whilst th
 
 Evil models may not move at all on the first turn of the game.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/paths_of_the_druadan.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/paths_of_the_druadan.jpg){ width=552 height=550 }
 
 ---
 
@@ -352,7 +352,7 @@ Good models in base contact with a Corsair ship may move onto it without making 
 
 The King of the Dead counts as a banner with a range of 6" to all Good models. Additionally, after he has killed three or more models, the King of the Dead gains the Harbinger of Evil special rule.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_black_ships.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_black_ships.jpg){ width=551 height=549 }
 
 ---
 
@@ -432,7 +432,7 @@ At the end of the Evil player's seventh Move phase, the Evil player moves the Wi
 
 **Merry** - Merry starts as a passenger upon the back of Eowyn's horse.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/battle_of_pelennor_fields.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/battle_of_pelennor_fields.jpg){ width=1000 height=709 }
 
 ---
 
@@ -472,4 +472,4 @@ At the end of each Evil Move phase, roll a D6 for each Ruffian that has been pre
 
 Once per game, both Merry and Pippin can each call a Heroic Combat without spending Might.
 
-![](../media/scenarios/armies_of_lord_of_the_rings/the_battle_of_bywater.jpg)
+![](../media/scenarios/armies_of_lord_of_the_rings/the_battle_of_bywater.jpg){ width=551 height=548 }

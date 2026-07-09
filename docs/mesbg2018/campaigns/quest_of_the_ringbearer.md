@@ -285,7 +285,7 @@ There are a few additional rules to take into account when selecting your Fantas
 
 *Below is an example of a Fantasy Fellowship. You will notice that Bilbo hasn't been given Sting or the Mithril Coat; this is because he will receive them when he reaches Rivendell and it is better to save precious points rather than spend them now.*
 
-![](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship_example.jpg)
+![](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship_example.jpg){ width=1000 height=609 }
 
 **CAMPAIGN**
 
@@ -570,4 +570,4 @@ Before setting out for the Black Gate, Aragorn dons the armour and robes of the 
 
 Here we present you with a roster for your Fantasy Fellowship. This includes space for you to write down each of your members, what wargear they have, and their current Might, Will, Fate and Wounds.
 
-[![](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship.jpg)](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship_full.jpg)
+[![](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship.jpg){ width=864 height=1000 }](../media/scenarios/quest_of_the_ringbearer/fantasy_fellowship_full.jpg)

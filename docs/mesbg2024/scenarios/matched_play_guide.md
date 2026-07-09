@@ -34,7 +34,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
 * You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
-![](../media/scenarios/matched_play_guide/domination.jpg)
+![](../media/scenarios/matched_play_guide/domination.jpg){ width=1000 height=681 }
 
 ---
 
@@ -77,7 +77,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score 3 Victory Points if the enemy Army has been reduced to 25% of its starting models at the end of the game.
 * You score 1 Victory Point for each enemy Hero model that has been removed as a casualty, up to a maximum of 3 Victory Points.
 
-![](../media/scenarios/matched_play_guide/to_the_death.jpg)
+![](../media/scenarios/matched_play_guide/to_the_death.jpg){ width=1000 height=681 }
 
 ---
 
@@ -122,7 +122,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **Maelstrom of Battle**
 
-![](../media/scenarios/matched_play_guide/hold_ground.jpg)
+![](../media/scenarios/matched_play_guide/hold_ground.jpg){ width=1000 height=681 }
 
 ---
 
@@ -172,7 +172,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Supply Markers:** The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
 
-![](../media/scenarios/matched_play_guide/destroy_the_supplies.jpg)
+![](../media/scenarios/matched_play_guide/destroy_the_supplies.jpg){ width=1000 height=681 }
 
 ---
 
@@ -226,7 +226,7 @@ Roll for each Warband separately. Activate the models in the Warband, then roll 
 
 ***Designer's Note:** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
-![](../media/scenarios/matched_play_guide/reconnoitre.jpg)
+![](../media/scenarios/matched_play_guide/reconnoitre.jpg){ width=1000 height=681 }
 
 ---
 
@@ -272,7 +272,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
 * You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
-![](../media/scenarios/matched_play_guide/fog_of_war.jpg)
+![](../media/scenarios/matched_play_guide/fog_of_war.jpg){ width=1000 height=682 }
 
 ---
 
@@ -320,7 +320,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **Controlling Objectives:** At the start of the game, all of the objectives are considered to be neutral and do not belong to either side. If, during the End Phase of any turn, one or more of your models are in base contact with an objective, then that objective comes under your control. If, during the End Phase both sides have models in base contact with an objective, then that objective returns to being a neutral objective.
 
-![](../media/scenarios/matched_play_guide/capture_and_control.jpg)
+![](../media/scenarios/matched_play_guide/capture_and_control.jpg){ width=1000 height=679 }
 
 ---
 
@@ -364,7 +364,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 * You score 1 Victory Point if the model with the highest points cost in your opponent's army, that is not their General, was wounded during the game. If the most expensive model that is not their General was removed as a casualty, you instead score 2 Victory Points.
 
-![](../media/scenarios/matched_play_guide/breakthrough.jpg)
+![](../media/scenarios/matched_play_guide/breakthrough.jpg){ width=1000 height=681 }
 
 ---
 
@@ -411,7 +411,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 ***Designer's Note:** For this Scenario, it is really important that players make sure they keep an accurate track of the number of Fortification Points they accumulate each turn as once the game finishes, it will be nigh on impossible to work it out retrospectively!*
 
-![](../media/scenarios/matched_play_guide/stake_a_claim.jpg)
+![](../media/scenarios/matched_play_guide/stake_a_claim.jpg){ width=1000 height=669 }
 
 ---
 
@@ -458,7 +458,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **A Time of Heroes**
 
-![](../media/scenarios/matched_play_guide/lords_of_battle.jpg)
+![](../media/scenarios/matched_play_guide/lords_of_battle.jpg){ width=1000 height=681 }
 
 ---
 
@@ -510,7 +510,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **The Assassin:** At the start of the game, secretly note down one of your Hero models; this is your Assassin. This may not be your General unless you only have one Hero.
 
-![](../media/scenarios/matched_play_guide/assassination.jpg)
+![](../media/scenarios/matched_play_guide/assassination.jpg){ width=1000 height=679 }
 
 ---
 
@@ -564,7 +564,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Stand and Fight:** At the start of every Move Phase, the Champion that currently has scored the fewest number of kills, see the first bullet point of Scoring Victory Points above, may declare a Heroic Move for free during that Move Phase. If they do, they must Charge an enemy model.
 
-![](../media/scenarios/matched_play_guide/contest_of_champions.jpg)
+![](../media/scenarios/matched_play_guide/contest_of_champions.jpg){ width=1000 height=679 }
 
 ---
 
@@ -616,7 +616,7 @@ If the Objective Marker is one of the five decoys, remove it from play. If the O
 
 If at the end of the game the Heirloom has not been uncovered, flip any remaining Objective Markers over to reveal the Heirloom before working out any Victory Points.
 
-![](../media/scenarios/matched_play_guide/heirloom_of_ages_past.jpg)
+![](../media/scenarios/matched_play_guide/heirloom_of_ages_past.jpg){ width=1000 height=679 }
 
 ---
 
@@ -667,7 +667,7 @@ Dark of Night, Maelstrom of Battle
 | 3-4 | Until the end of the turn, models within 3" of an Objective Marker automatically pass any Courage Tests they are required to take. |
 | 4-6 | Until the end of the turn, models within 3" of an Objective Marker may re-roll any To Wound Rolls of a 1 when making Strikes. |
 
-![](../media/scenarios/matched_play_guide/sites_of_power.jpg)
+![](../media/scenarios/matched_play_guide/sites_of_power.jpg){ width=1000 height=680 }
 
 ---
 
@@ -712,7 +712,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Worthless Land:** The centre of the battlefield provides very little tactical value, and so is not much use to either force. Models wholly within 12" of the centre of the battlefield do not count as being in any quarter of the battlefield for working out Victory Points.
 
-![](../media/scenarios/matched_play_guide/command_the_battlefield.jpg)
+![](../media/scenarios/matched_play_guide/command_the_battlefield.jpg){ width=1000 height=681 }
 
 ---
 
@@ -761,7 +761,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **The Relic:** Each Relic is a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). A Relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If your Relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then you must try to return it to its original position as quickly as possible. A model may never carry both Relics at the same time under any circumstances, and if they are carrying their opponent's Relic they may entirely ignore their own Relic and continue to move as normal. Until it has been picked up by an enemy model, friendly models may not pick up their own Relic.
 
-![](../media/scenarios/matched_play_guide/retrieval.jpg)
+![](../media/scenarios/matched_play_guide/retrieval.jpg){ width=1000 height=671 }
 
 ---
 
@@ -807,7 +807,7 @@ The game lasts until either all three Artefacts have been carried off the board,
 
 **Uncovering Artefacts**
 
-![](../media/scenarios/matched_play_guide/seize_the_prizes.jpg)
+![](../media/scenarios/matched_play_guide/seize_the_prizes.jpg){ width=1000 height=671 }
 
 ---
 
@@ -852,7 +852,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Uncovering Artefacts**
 
-![](../media/scenarios/matched_play_guide/treasure_hoard.jpg)
+![](../media/scenarios/matched_play_guide/treasure_hoard.jpg){ width=1000 height=670 }
 
 ---
 
@@ -897,7 +897,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 Models that are within their own Campsite will defend it at all costs. Any model that is within its own Campsite at the start of a turn will automatically pass any Courage Tests it is required to make for the remainder of that turn.
 
-![](../media/scenarios/matched_play_guide/storm_the_camp.jpg)
+![](../media/scenarios/matched_play_guide/storm_the_camp.jpg){ width=1000 height=671 }
 
 ---
 
@@ -943,7 +943,7 @@ At the end of the game, the Army that has scored the most Victory Points wins th
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
 * You score 2 Victory Points if at the end of the game your General is within 3" of the central objective.
 
-![](../media/scenarios/matched_play_guide/divide_and_conquer.jpg)
+![](../media/scenarios/matched_play_guide/divide_and_conquer.jpg){ width=1000 height=669 }
 
 ---
 
@@ -992,7 +992,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Wounded Allies:** The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
 
-![](../media/scenarios/matched_play_guide/escort_the_wounded.jpg)
+![](../media/scenarios/matched_play_guide/escort_the_wounded.jpg){ width=1000 height=670 }
 
 ---
 
@@ -1039,7 +1039,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Dark of Night**
 
-![](../media/scenarios/matched_play_guide/clash_by_moonlight.jpg)
+![](../media/scenarios/matched_play_guide/clash_by_moonlight.jpg){ width=1000 height=671 }
 
 ---
 
@@ -1085,7 +1085,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **A Time of Heroes**
 
-![](../media/scenarios/matched_play_guide/lead_from_the_front.jpg)
+![](../media/scenarios/matched_play_guide/lead_from_the_front.jpg){ width=1000 height=671 }
 
 ---
 
@@ -1134,4 +1134,4 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **Heirloom of Power**
 
-![](../media/scenarios/matched_play_guide/convergence.jpg)
+![](../media/scenarios/matched_play_guide/convergence.jpg){ width=1000 height=671 }

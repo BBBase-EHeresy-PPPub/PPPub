@@ -14,7 +14,7 @@ If a special rule allows for a Hero to do something that would usually cost a Mi
 
 *All Hero models have an extra section to their characteristics that looks like this, which shows how many Might, Will and Fate Points they have at their disposal.*
 
-![](../media/rules_manual/might_will_fate.jpg)
+![](../media/rules_manual/might_will_fate.jpg){ width=185 height=79 }
 
 *Haleth has 3 Might Points, 2 Will Points and 1 Fate Point.*
 
@@ -42,15 +42,15 @@ Hero models can only ever use Might Points to alter their own dice rolls, and ne
 
 ***Example 58:** Háma takes a shot at a Hill Tribesman and scores a hit. There is a wall In The Way, however, so Háma must pass an In The Way Test in order to hit the Hill Tribesman. Háma rolls a D6 and scores a 3, which will mean the arrow hits the wall. If Háma wants to hit the Hill Tribesman, he will need to spend 1 Might Point to make the In The Way Test successful.*
 
-![](../media/rules_manual/example_58.jpg)
+![](../media/rules_manual/example_58.jpg){ width=563 height=371 }
 
 ***Example 59:** Jay and Rob are both using Hero models in a Combat. Rob is using Gothmog (Fight Value 5 and 3 Might) and Jay is using Éomer (Fight Value 6 and 3 Might). Rob rolls his dice for the Duel Roll and scores a 1 and a 3, whilst Jay scores a 2, 3 and a 4. As Rob is currently losing, he has the first opportunity to spend Might. Rob chooses to spend Might, though as Gothmog has a lower Fight Value than Éomer, Rob must spend 2 Might Points to improve his 3 to a 5 in order to be winning the Combat. As Rob is now winning, Jay can now spend Might and chooses to spend 1 Might Point to improve his 4 to a 5, meaning that Éomer is now winning thanks to his higher Fight Value. Rob then chooses to spend his last Might Point to improve his 5 to a 6 and be winning once more, and so then Jay chooses to do the same and wins the Combat. As both players are now at a 6, no more Might can be used and Éomer wins the Combat. Might*
 
-![](../media/rules_manual/example_59.jpg)
+![](../media/rules_manual/example_59.jpg){ width=569 height=486 }
 
 ***Example 60:** Beorn is in a Combat against Bolg. Looking at their Duel Roll, Beorn has scored a 1, 3 and 4, whilst Bolg has rolled a 2, 5 and 6. Beorn must now decide whether he loses the Combat, or whether he spends 2 Might Points in order to boost his 4 to a 6 - and with the higher Fight Value, that may well be a very sensible thing to do!*
 
-![](../media/rules_manual/example_60.jpg)
+![](../media/rules_manual/example_60.jpg){ width=562 height=633 }
 
 ### CAN I USE MIGHT?
 
@@ -108,7 +108,7 @@ If a Hero who has declared a Heroic Move is Charged and Engaged in Combat, or re
 
 ***Example 63:** The Evil side has Priority, and Tom the Troll is closer to Thorin's Company than they would like! Bilbo Baggins uses 1 Might Point to declare a Heroic Move, enabling him (and any friendly models within 6" if he shouts With Me) to Activate first, outside the normal order of Priority. If Tom decided to also spend 1 Might Point to declare a Heroic Move, then the player with Priority (the Evil player) would roll a D6 to see whose Heroic Move takes place first. Universal Heroic Actions*
 
-![](../media/rules_manual/example_63.jpg)
+![](../media/rules_manual/example_63.jpg){ width=714 height=521 }
 
 #### WITH ME
 
@@ -152,7 +152,7 @@ There may be a situation where two opposing Hero models in the same Combat both 
 
 ***Example 64:** Haleth is fighting a lone Hill Tribesman, a Combat he is very likely to win. Because of this, Haleth has declared a Heroic Combat and spends 1 Might Point. Haleth wins the Duel Roll and slays the Hill Tribesman, allowing him to Move again and even Charge if he wishes. Haleth uses this extra Move to Charge the other Hill Tribesman, and will fight it during the normal order of Combats.*
 
-![](../media/rules_manual/example_64.jpg)
+![](../media/rules_manual/example_64.jpg){ width=713 height=675 }
 
 ## SPECIALISED HEROIC ACTIONS
 
@@ -170,7 +170,7 @@ If a Hero who has declared a Heroic March is Charged and Engaged in Combat, or r
 
 ***Example 65:** The Goblins are trying to catch the fleeing Thorin's Company, and so the Goblin Captain declares a Heroic March. When they Move as part of their Activation, the Goblin Captain and friendly models within 6" of it will be able to Move 5" (as per their Move Value) plus an additional 3" for the Heroic March; though they must finish their Move within 6" of the Goblin Captain.*
 
-![](../media/rules_manual/example_65.jpg)
+![](../media/rules_manual/example_65.jpg){ width=561 height=633 }
 
 #### AT THE DOUBLE
 
@@ -192,7 +192,7 @@ Additionally, a Hero who declares a Heroic Resolve will automatically pass any C
 
 ***Example 66:** Gandalf the White's Army has been Broken and he has declared a Heroic Resolve. Friendly models within 6" of Gandalf gain an additional free dice to any Resist Tests they take this turn. During the Move Phase, Gandalf has been Charged by the Witch-king before he can Activate. Normally, this would mean that Gandalf could not provide a [Stand Fast] to keep his allies fighting; however, as he declared a Heroic Resolve, Gandalf will automatically pass his Courage Test for being Broken, and may still provide his [Stand Fast] even though he is Engaged in Combat.*
 
-![](../media/rules_manual/example_66.jpg)
+![](../media/rules_manual/example_66.jpg){ width=562 height=446 }
 
 ### HEROIC ACCURACY (SHOOT PHASE) (67)
 
@@ -202,7 +202,7 @@ A Hero may not declare a Heroic Accuracy if they are Engaged in Combat or otherw
 
 ***Example 67:** Tauriel and her Mirkwood Rangers are about to loose arrows at some Hunter Orcs. Because the Orcs are protected by some terrain, Tauriel spends 1 Might Point to declare a Heroic Accuracy. Tauriel gains the Sharpshooter special rule, and when she or any friendly models within 6" of her Shoot this turn, they may re-roll any failed In The Way Tests.*
 
-![](../media/rules_manual/example_67.jpg)
+![](../media/rules_manual/example_67.jpg){ width=561 height=521 }
 
 #### TAKE AIM
 
@@ -226,11 +226,11 @@ A Hero who has already issued a Heroic Challenge against a target cannot declare
 
 ***Example 68:** Thorin has declared a Heroic Challenge against Azog, who is within 6" of him. Azog decides to accept Thorin's challenge. Until one of them is slain, both Thorin and Azog must Charge each other if possible and both will gain a bonus of +1 Attack when fighting against each other and +1 To Wound when making Strikes against the other. Whoever slays their opponent will gain 1 Might Point.*
 
-![](../media/rules_manual/example_68.jpg)
+![](../media/rules_manual/example_68.jpg){ width=563 height=563 }
 
 ***Example 69:** Haleth has declared a Heroic Challenge against Wulf, who is within 6" of him. Wulf doesn't want to fight Haleth and so chooses to decline. If Haleth gets into a Combat with Wulf, then he will still gain the +1 Attack and +1 To Wound when making Strikes against Wulf; however, as he chose to decline, Wulf doesn't gain any of the benefits himself though he isn't required to Charge Haleth. If Haleth slays Wulf, he will gain 1 Might Point.*
 
-![](../media/rules_manual/example_69.jpg)
+![](../media/rules_manual/example_69.jpg){ width=564 height=526 }
 
 ### HEROIC DEFENCE (FIGHT PHASE)
 
@@ -258,7 +258,7 @@ A Hero may spend one or more Will Points to increase the result of a Courage Tes
 
 ***Example 70:** Bofur wishes to Charge the Goblin King and must take a Courage Test to do so due to the Terror special rule. Bofur has a Courage characteristic of 5+, however, he has rolled a 1 and a 3 for his Courage Test for a total of 4 - a fail. Bofur decides to spend 1 Will Point to improve his Courage Test by one, to 5. Bofur has now passed his Courage Test and can Charge the Goblin King. Will*
 
-![](../media/rules_manual/example_70.jpg)
+![](../media/rules_manual/example_70.jpg){ width=715 height=633 }
 
 ### CAST A MAGICAL POWER
 
@@ -286,12 +286,12 @@ Whilst Fate can prevent any manner of Wound dealt to a Hero, it cannot save them
 
 ***Example 71:** Éowyn has been wounded by Gothmog and decides to spend 1 Fate Point. Unfortunately, she only rolls a 1 and the Wound is not prevented. Éowyn then decides to spend a second Fate Point, and this time rolls a 5 - preventing the Wound entirely.*
 
-![](../media/rules_manual/example_71.jpg)
+![](../media/rules_manual/example_71.jpg){ width=563 height=671 }
 
 ***Example 72:** Thorin has defeated Grinnah in Combat and has inflicted 2 Wounds upon the Goblin. Orcrist has the Goblinbane special rule, which will mean that each successful Wound will do D3 Wounds instead. Grinnah spends his 1 Fate Point to try to prevent the first Wound, rolling a 5 and preventing the Wound, which will therefore not become D3 Wounds. However, as he has no Fate remaining, the other Wound is successful and will then become D3 Wounds. Thorin rolls a 6, dealing 3 Wounds and cleaving the Goblin's head right off! Fate*
 
-![](../media/rules_manual/example_72.jpg)
+![](../media/rules_manual/example_72.jpg){ width=868 height=411 }
 
 ***Example 73:** Háma has been shot by a Hill Tribesman and suffered a Wound. Háma spends 1 Fate Point and rolls a 3, which is not enough to prevent the Wound. Háma decides to spend 1 Might Point to improve his Fate Roll to a 4, meaning the roll is successful and the Wound is ignored.*
 
-![](../media/rules_manual/example_73.jpg)
+![](../media/rules_manual/example_73.jpg){ width=563 height=634 }

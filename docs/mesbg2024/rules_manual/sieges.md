@@ -46,7 +46,7 @@ Models can Move freely up and down stairs, though Cavalry have some alternative 
 
 ***Example 82:** These Uruk-hai have both Charged up ladders and become Engaged in Combat with the Warriors of Rohan. Uruk-hai A wins their Combat and successfully kills their target; they may then Move onto the walls. However, Uruk-hai B loses their Combat though is not slain by the Warrior of Rohan. After the Strikes have been resolved, Uruk-hai B rolls a D6, scoring a 2 meaning they fall and suffer Falling Damage.*
 
-![](../media/rules_manual/example_82.jpg)
+![](../media/rules_manual/example_82.jpg){ width=714 height=559 }
 
 ### ASSAULTING THE FORTRESS
 
@@ -74,7 +74,7 @@ To use a Battering Ram, it must be in base contact with a door or gate at the st
 
 ***Example 83:** These Uruk-hai are about to use a Battering Ram against the gates of the Hornburg. The Strength of the battering ram is 4 (the Strength of the Uruk-hai) plus 5 for the additional 5 Uruk-hai that are carrying it, for a total Strength of 9. The Battering Ram can then make one Strike against the gates, making two To Wound Rolls because the gate is considered to be Trapped - the gate is in deep trouble!*
 
-![](../media/rules_manual/example_83.jpg)
+![](../media/rules_manual/example_83.jpg){ width=713 height=896 }
 
 ### SIEGE TOWER
 
@@ -153,4 +153,4 @@ The game lasts until the end of a turn in which one player has completed their o
 
 **Breach the Gates** - If the gates are destroyed by the attacker, then defending models within the fortress suffer a -1 penalty to any Courage Test they have to take as a result of being part of a Broken Army.
 
-![](../media/rules_manual/the_grand_siege.jpg)
+![](../media/rules_manual/the_grand_siege.jpg){ width=939 height=567 }

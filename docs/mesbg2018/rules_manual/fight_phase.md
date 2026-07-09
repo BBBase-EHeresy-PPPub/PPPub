@@ -40,7 +40,7 @@ To see who wins a Fight, you must make a Duel roll. To make a Duel roll, each pl
 
 ***DUEL ROLL***
 
-![](../media/rules_manual/duel_roll_1.jpg)
+![](../media/rules_manual/duel_roll_1.jpg){ width=655 height=557 }
 
 *Frodo Baggins is in a fight for his life against a Moria Goblin. The Hobbit and the Goblin roll a dice to see who wins the Fight. Frodo Baggins scores a 5, while the Moria Goblin only manages to score a 2. With the highest dice roll, the Hobbit wins the Fight, and the Goblin must Back Away.*
 
@@ -68,7 +68,7 @@ If the Fight values of the models are also drawn, then the player with Priority 
 
 ***DRAWN COMBATS***
 
-![](../media/rules_manual/drawn_combats_1.jpg)
+![](../media/rules_manual/drawn_combats_1.jpg){ width=656 height=756 }
 
 *Frodo Baggins is in battle against yet another Moria Goblin. Making a Duel roll, he scores a 3, and so does the Goblin - a tie! Comparing their Fight values; we see that Frodo Baggins has a Fight value of 3, while the Goblin's is only 2. Thus, Frodo Baggins wins the Fight. The Goblin Backs Away and the Hobbit makes a Strike (*see [page 46]*) against the unfortunate cave dweller.*
 
@@ -78,7 +78,7 @@ Many models have more than one Attack listed on their profiles. When a model suc
 
 ***MULTIPLE ATTACKS***
 
-![](../media/rules_manual/multiple_attacks_1.jpg)
+![](../media/rules_manual/multiple_attacks_1.jpg){ width=655 height=557 }
 
 *Here,* Éomer *is in combat with an Uruk-hai. Being an expert fighter, Éomer has 3 Attacks on his profile. This allows him to roll three dice, compared to the Uruk-hai's one, when making the Duel roll.*
 
@@ -90,13 +90,13 @@ Backing away is not slowed by difficult terrain. Backing away cannot be used to 
 
 ***LOSER BACKS AWAY 1***
 
-![](../media/rules_manual/loser_backs_away_1.jpg)
+![](../media/rules_manual/loser_backs_away_1.jpg){ width=655 height=490 }
 
 *Aragorn has defeated* Gothmog *in a fight and won the Duel roll. Gothmog must now Back Away 1". The direction that Gothmog moves is up to his controlling player, as long as he moves the full 1" away from the victor. As the Orc retreats backwards, Aragorn readies *Andûril, Flame of the West*, for the kill.*
 
 ***LOSER BACKS AWAY 2***
 
-![](../media/rules_manual/loser_backs_away_2.jpg)
+![](../media/rules_manual/loser_backs_away_2.jpg){ width=517 height=557 }
 
 Bombur *has lost a Fight and now finds himself pinned into place by two Goblins, with his back to a sheer drop. Bombur is forced over the edge! First resolve the Strikes of the two Goblins (as he falls off the edge) and then, assuming Bombur survives, resolve any falling damage [(see page 31]).*
 
@@ -133,7 +133,7 @@ What this means is that large mobs of troops will often find themselves in situa
 
 ***MAKING WAY***
 
-![](../media/rules_manual/making_way_1.jpg)
+![](../media/rules_manual/making_way_1.jpg){ width=517 height=557 }
 
 Théoden *has lost a Duel roll to* The Witch-king*, and finds himself Trapped by* Éowyn *and Merry. Not wanting to risk taking double Strikes from the formidable Lord of the Nazgûl, the Good player has Merry Make Way to allow Théoden the space he needs to Back Away.*
 
@@ -155,7 +155,7 @@ If a Trapped model was unable to Back Away, and survives the Strikes made agains
 
 ***STRIKING A TRAPPED MODEL***
 
-![](../media/rules_manual/striking_a_trapped_model_1.jpg)
+![](../media/rules_manual/striking_a_trapped_model_1.jpg){ width=516 height=558 }
 
 *In a frantic fight,* Gandalf the Grey *has forced this Moria Goblin against a rocky wall, trapping it. The Wizard wins the Fight and rolls To Wound - as the Goblin is Trapped, Gandalf the Grey's one Attack becomes two Strikes.*
 
@@ -189,7 +189,7 @@ If the winner of a Multiple Combat has more than one Attack, they may choose to 
 
 ***STRIKES ON MULTIPLE TARGETS***
 
-![](../media/rules_manual/strikes_on_multiple_targets_1.jpg)
+![](../media/rules_manual/strikes_on_multiple_targets_1.jpg){ width=516 height=557 }
 
 *Aragorn has an Uruk-hai Trapped against a wall, and another Uruk-hai has charged in against him. Aragorn easily bests his opponents and wins the Fight, and can now resolve his Strikes. He chooses to Strike against the Trapped Uruk-hai first, so this Attack becomes two Strikes. He rolls both dice together. If the Uruk-hai survives, Aragorn can direct another Attack against him (for a further two Strikes) or he can choose to Strike against the other opponent, instead making one Strike for each Attack.*
 
@@ -219,7 +219,7 @@ As a note, a model that is on the same side of the Barrier as a defending model 
 
 ***DEFENDED POSITION***
 
-![](../media/rules_manual/defended_position_1.jpg)
+![](../media/rules_manual/defended_position_1.jpg){ width=653 height=524 }
 
 *Frodo Baggins is in base contact with a low wall. No enemy models may cross the low wall within 1" of the Hobbit unless they first Charge him and defeat him. The Moria Goblin must therefore decide whether to cross the wall further away from Frodo Baggins, or risk taking on a determined fighter behind a barricade!*
 
@@ -229,7 +229,7 @@ The rules for a combat being fought across a Barrier are much the same as for ot
 
 ***DUELLING ACROSS BARRIERS***
 
-![](../media/rules_manual/duelling_across_barriers_1.jpg)
+![](../media/rules_manual/duelling_across_barriers_1.jpg){ width=660 height=524 }
 
 *Following our previous example, the Moria Goblin and the Hobbit make their Duel rolls. Frodo Baggins wins the Fight. Because he is the Defender, he makes his Strike against the Goblin without needing an In The Way roll. If the Goblin had won, he would have needed to pass an In The Way test for his Strike.*
 
@@ -253,7 +253,7 @@ If a single Attacker is in the Control Zones of two or more Defenders, they must
 
 ***FIGHTING MULTIPLE OPPONENTS OVER A BARRIER***
 
-![](../media/rules_manual/fighting_multiple_opponents_over_a_barrier_1.jpg)
+![](../media/rules_manual/fighting_multiple_opponents_over_a_barrier_1.jpg){ width=660 height=523 }
 
 *Faramir is defending this low wall against Gothmog and two other Orcs. When the player with Priority decides to resolve these fights, Faramir will fight the Orcs one-on-one (in an order chosen by the attacking player). In this instance, the Attacker opts to have Gothmog fight Faramir first, just in case Gothmog is able to slay the young captain of Gondor.*
 
@@ -273,7 +273,7 @@ In an alternative situation, where an Attacker is charged by another model from 
 
 **ATTACKED FROM BOTH SIDES**
 
-![](../media/rules_manual/attacked_from_both_sides_1.jpg)
+![](../media/rules_manual/attacked_from_both_sides_1.jpg){ width=517 height=494 }
 
 *Frodo Baggins is still defending his low wall, but now another* Moria *Goblin has arrived. Because this second Goblin is on his side of the wall, the* Hobbit *loses the advantage for defending a Barrier. If he loses the Duel roll, the Goblins will make their Strikes against him without needing to take In The Way tests. Frodo is now in for the fight of his life!*
 
@@ -283,7 +283,7 @@ A model in a doorway counts as defending a Barrier if they are charged, provided
 
 ***DEFENDED DOORWAY***
 
-![](../media/rules_manual/defended_doorway_1.jpg)
+![](../media/rules_manual/defended_doorway_1.jpg){ width=784 height=702 }
 
 *Here Gothmog is blocking a doorway by standing in it. Because Aragorn cannot move through the doorway without first touching Gothmog, the sneaky Orc gets the advantage of defending the doorway - and he will need all the advantages he can get if he is to defeat the heir of Isildur!*
 
@@ -302,6 +302,6 @@ clamber up somewhere that isn't defended).
 
 ***DEFENDING ELEVATED POSITIONS***
 
-![](../media/rules_manual/defending_elevated_positions_1.jpg)
+![](../media/rules_manual/defending_elevated_positions_1.jpg){ width=517 height=529 }
 
 Legolas *and Gimli are atop a ledge, facing an onslaught of fighting* Uruk-hai*. Because their elevated position is higher than half the height of the *Uruk-hai*, both* Legolas *and Gimli will receive the bonuses for defending a Barrier.*

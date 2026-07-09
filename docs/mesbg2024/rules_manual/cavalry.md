@@ -16,7 +16,7 @@ To determine whether or not a Cavalry model has Line of Sight to another model, 
 
 A Cavalry model has two sets of characteristics: one for the rider and one for the Mount.
 
-![](../media/rules_manual/cavalry_characteristics.jpg)
+![](../media/rules_manual/cavalry_characteristics.jpg){ width=663 height=584 }
 
 One of the benefits of riding a Mount is that the rider uses some of the Mount model's characteristics. Cavalry models must use the Move Value of the Mount. Additionally, during a Combat, the rider must use the Fight Value, Strength and Attacks characteristics of their Mount if they are higher than their own.
 
@@ -40,7 +40,7 @@ Additionally, whilst within Difficult Terrain, Cavalry models never get any of t
 
 ***Example 50:** Éowyn is riding towards Pelennor Fields, however she needs to pass through a rocky outcrop on her way. A horse can move 10" in total: Éowyn spends 2" of her Move Value moving up to the Difficult Terrain, leaving her with 8" remaining. This is enough to allow Éowyn to Move 2" through the rocky outcrop this turn.*
 
-![](../media/rules_manual/example_50.jpg)
+![](../media/rules_manual/example_50.jpg){ width=563 height=597 }
 
 ### JUMPING AND LEAPING
 
@@ -52,7 +52,7 @@ A Cavalry model may Descend a distance equal to the height of the model without 
 
 ***Example 51:** Wulf is on his horse and wishes to Descend from atop this large boulder. Because the drop is taller than the model, there is a chance that it will be injured. The horse suffers one Strength 3 hit. If it survives, it may continue to Move as normal.*
 
-![](../media/rules_manual/example_51.jpg)
+![](../media/rules_manual/example_51.jpg){ width=563 height=676 }
 
 ### STAIRS, DOORWAYS AND WATER FEATURES
 
@@ -98,11 +98,11 @@ The choice of which wargear is discarded is always down to the model's controlli
 
 ***Example 52:** Wulf wishes to Move under a low arch whilst mounted. However, the arch is too low for Wulf and his horse together, and so he must Dismount and continue on foot, or find an alternative route.*
 
-![](../media/rules_manual/example_52.jpg)
+![](../media/rules_manual/example_52.jpg){ width=562 height=635 }
 
 ***Example 53:** Aragorn and Legolas are chasing down Gothmog, who has moved through a gap too small for a Cavalry model to fit through. As he is further away, Legolas has to Move 8" to get close to Gothmog and Dismount; though as he has now Moved over the 6" he can Move on foot, Legolas cannot Move any further. Aragorn Moves 3" before Dismounting, which then gives him 3" of his Move Value remaining - enough to Charge Gothmog.*
 
-![](../media/rules_manual/example_53.jpg)
+![](../media/rules_manual/example_53.jpg){ width=560 height=557 }
 
 ## CAVALRY AND SHOOTING
 
@@ -114,7 +114,7 @@ When a model targets a Cavalry model with a Shooting Attack, they must always ta
 
 ***Example 54:** Kíli is Shooting at the Hunter Orc on Fell Warg, targeting the rider. After successfully rolling To Hit, Kíli must now take a special In The Way Test to see whether he hits the Mount (on a 1-3) or the rider (on a 4+). Rolling a 5, Kíli's shot hits the rider and he must now roll To Wound.*
 
-![](../media/rules_manual/example_54.jpg)
+![](../media/rules_manual/example_54.jpg){ width=560 height=638 }
 
 ### SLAIN RIDERS AND MOUNTS
 
@@ -263,11 +263,11 @@ These bonuses will still apply even if the Cavalry model is subsequently Charged
 
 ***Example 55:** Théoden Charges a pair of Morannon Orcs. As they are both Infantry, Théoden will get the Extra Attack and Knock to the Ground bonuses. Théoden rolls three dice for his Duel Roll (2 for his Attacks +1 for Extra Attack) and wins the roll, knocking both Morannon Orcs Prone. Théoden then gets to make three Strikes, and may choose how to assign them. As his Strikes are being made against Prone enemies, Théoden will roll two dice rather than one and apply both results. He assigns the first Strike to the first Orc, rolls two dice, and then checks the results before deciding which Orc to assign the next Strike to.*
 
-![](../media/rules_manual/example_55.jpg)
+![](../media/rules_manual/example_55.jpg){ width=563 height=524 }
 
 ***Example 56:** Théoden has Charged another Morannon Orc. However, this time a Warg Rider has subsequently Charged Théoden as well. Since Théoden is no longer fighting solely against Infantry models, he no longer gains the Extra Attack and Knock to the Ground bonuses he would normally get. This means that Théoden will only roll two dice (the number of Attacks on his profile) when making his Duel Roll.*
 
-![](../media/rules_manual/example_56.jpg)
+![](../media/rules_manual/example_56.jpg){ width=563 height=559 }
 
 #### EXTRA ATTACK
 
@@ -301,7 +301,7 @@ If a model uses a Magical Power that targets a Cavalry model, then the whole mod
 
 ***Example 57:** Gandalf is mounted upon Shadowfax and is the target of Saruman's Flameburst Magical Power. As this is a Cavalry model, both Gandalf and his Mount, Shadowfax, will feel the effects.*
 
-![](../media/rules_manual/example_57.jpg)
+![](../media/rules_manual/example_57.jpg){ width=563 height=559 }
 
 ## CAVALRY AND BREAK POINTS
 

@@ -48,7 +48,7 @@ A Hero that is Supporting may use Might Points to improve a Duel Roll or To Woun
 
 ***Example 78:** Wulf is fighting a pair of Warriors of Rohan, and so a Hill Tribesman with a spear has come to aid him. Because the Hill Tribesman is in base contact with Wulf, they can Support. In the Duel Roll, the controlling player will roll three dice for Wulf as usual, and one extra dice for the Hill Tribesman.*
 
-![](../media/rules_manual/example_78.jpg)
+![](../media/rules_manual/example_78.jpg){ width=564 height=634 }
 
 ### PIKE (79)
 
@@ -64,7 +64,7 @@ Additionally, if a Cavalry model Charges a model armed with a pike, then the mod
 
 ***Example 79:** This Uruk-hai Captain is holding the centre of a battleline. Because the Uruk-hai Captain is Supported by two Uruk-hai Warriors with pike, in addition to its own 2 Attacks, the controlling player will roll an additional two dice in the Duel Roll - one for each Supporting Uruk-hai with pike.*
 
-![](../media/rules_manual/example_79.jpg)
+![](../media/rules_manual/example_79.jpg){ width=562 height=671 }
 
 ### LANCE
 
@@ -186,7 +186,7 @@ If a Warrior carrying a banner (not a Hero) is removed from the battlefield as a
 
 ***Example 80:** Here a Warrior of Minas Tirith carrying a banner is within 3" of four different Combats: A, B, C and D. The Warrior of Minas Tirith in Combat A is within 3" of the banner bearer, and so may benefit. Combat B may benefit as it has one friendly model within 3" of the banner, allowing either model to re-roll even if they are not in range of the banner themselves. Combat C may also benefit from the banner as it has a Supporting model within 3" of the banner. Combat D may not benefit as, even though it is within 3" of the banner, only enemy models are in range. Wargear Equipment*
 
-![](../media/rules_manual/example_80.jpg)
+![](../media/rules_manual/example_80.jpg){ width=563 height=633 }
 
 ### ELVEN CLOAK
 

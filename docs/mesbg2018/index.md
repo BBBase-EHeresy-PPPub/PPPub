@@ -2,7 +2,7 @@
 
 Playing battles with the Middle-earth Strategy Battle Game is a rather simple thing to do. However, there are a few things that you will want to organise before you settle down to play (a willing opponent, of course, is vital). Over the next couple of pages, we will take a look at the things you will need, explain some of the more unusual items and help you work out how to get started.
 
-[![](media/playfield_thumbnail.jpg)](media/playfield.jpg)
+[![](media/playfield_thumbnail.jpg){ width=1000 height=625 }](media/playfield.jpg)
 
 ## 1. CITADEL OR FORGE WORLD MODELS
 

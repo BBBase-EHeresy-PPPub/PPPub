@@ -92,7 +92,7 @@ For subsequent rounds, players are paired as follows:
 
 The player who is highest in the rankings will play the player who is second in the rankings; the player in third will play the player in fourth; the player in fifth will play the player in sixth and so on until all players are paired up. If a player is supposed to play an opponent they have already played, the lowest ranked of the two will swap places with the highest ranked player on the table below them.
 
-![](../media/matched_play_guide/subsequent_rounds.jpg)
+![](../media/matched_play_guide/subsequent_rounds.jpg){ width=504 height=381 }
 
 Here we can see the draw for the next round of an event. Keith and Gavin have already played each other in a previous round and so cannot play each other again as this is not the final round. As Gavin is currently the lower ranked of the two players, he will swap with the highest ranked player on the table below - in this case Dan.
 

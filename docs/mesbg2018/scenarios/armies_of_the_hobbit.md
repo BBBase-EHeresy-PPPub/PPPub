@@ -32,7 +32,7 @@ Smaug is not subject to his Missing Scale rule in this Scenario.
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
-![](../media/scenarios/armies_of_the_hobbit/destruction_of_dale.jpg)
+![](../media/scenarios/armies_of_the_hobbit/destruction_of_dale.jpg){ width=550 height=548 }
 
 ---
 
@@ -70,7 +70,7 @@ If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a 
 
 Whenever an Evil **Warrior** model is slain, place it to one side. At the end of each subsequent Evil Move phase, roll a D6 for each model set aside in this manner. On a 3+, it may enter play, via the rules for Reinforcements, from the Dimrill Gate or either of the two points marked Reinforcements. These Reinforcements stop immediately if Azog is slain. The Evil force cannot be Broken in this Scenario.
 
-![](../media/scenarios/armies_of_the_hobbit/battle_of_azanulbizar.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_of_azanulbizar.jpg){ width=564 height=548 }
 
 ---
 
@@ -108,7 +108,7 @@ At the end of the Good player's first Move phase, roll a D6 for each member of T
 
 The Trolls may not make Strikes against Bilbo until the start of the third turn, or until Bilbo charges one of them.
 
-![](../media/scenarios/armies_of_the_hobbit/roast_mutton.jpg)
+![](../media/scenarios/armies_of_the_hobbit/roast_mutton.jpg){ width=550 height=548 }
 
 ---
 
@@ -140,7 +140,7 @@ The game lasts for ten turns. The Good player wins if they can slay 50% of the E
 
 The Good player has Priority in the first two turns of this Scenario.
 
-![](../media/scenarios/armies_of_the_hobbit/hunting_party.jpg)
+![](../media/scenarios/armies_of_the_hobbit/hunting_party.jpg){ width=550 height=548 }
 
 ---
 
@@ -184,7 +184,7 @@ At the end of each of the Evil player's Move phase, the Evil player may move up 
 
 The Goblin King may not move during the first turn of the game.
 
-![](../media/scenarios/armies_of_the_hobbit/escape_from_goblin-town.jpg)
+![](../media/scenarios/armies_of_the_hobbit/escape_from_goblin-town.jpg){ width=550 height=548 }
 
 ---
 
@@ -228,7 +228,7 @@ During each Good Move phase, Thorin must move as close as possible to Azog, char
 
 At the start of any Fight phase, the Good player may place Bilbo in base contact with any model involved in a fight with Thorin. If Bilbo enters this way, he must also be rescued (otherwise, he counts as being included with one of the markers).
 
-![](../media/scenarios/armies_of_the_hobbit/out_of_the_frying_pan_and_into_the_fire.jpg)
+![](../media/scenarios/armies_of_the_hobbit/out_of_the_frying_pan_and_into_the_fire.jpg){ width=550 height=548 }
 
 ---
 
@@ -268,7 +268,7 @@ At the end of the Good player's fourth Move phase, they may move Legolas, Taurie
 
 Any Mirkwood Spiders that are slain are kept to one side. At the start of each turn, before Priority is rolled, the Evil player may place any previously slain Mirkwood Spiders on the board at least 10" away from any Good models. These Spiders may act as normal.
 
-![](../media/scenarios/armies_of_the_hobbit/flies_and_spiders.jpg)
+![](../media/scenarios/armies_of_the_hobbit/flies_and_spiders.jpg){ width=551 height=548 }
 
 ---
 
@@ -314,7 +314,7 @@ Any model that has been Set Ablaze that moves into the waters of the Long Lake w
 
 Good models may shoot at Smaug even if he is Engaged in combat, with no risk of hitting friendly models. Any model that shoots at Smaug in this way suffers a -1 penalty when rolling To Hit - this is cumulative with other such penalties, such as moving and shooting.
 
-![](../media/scenarios/armies_of_the_hobbit/fire_and_water.jpg)
+![](../media/scenarios/armies_of_the_hobbit/fire_and_water.jpg){ width=552 height=549 }
 
 ---
 
@@ -364,7 +364,7 @@ The Good player may choose to have Radagast arrive at the end of any Good Move p
 
 At the end of the ninth game turn, the Evil player places the Necromancer touching any board edge.
 
-![](../media/scenarios/armies_of_the_hobbit/the_fall_of_the_necromancer.jpg)
+![](../media/scenarios/armies_of_the_hobbit/the_fall_of_the_necromancer.jpg){ width=552 height=548 }
 
 ---
 
@@ -432,7 +432,7 @@ At the end of the Good player's seventh Move phase, the Good player moves Radaga
 
 Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts. Beorn may not transform into a bear whilst mounted upon this eagle, but will automatically transform as soon as he dismounts.
 
-![](../media/scenarios/armies_of_the_hobbit/battle_of_the_five_armies.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_of_the_five_armies.jpg){ width=743 height=500 }
 
 ---
 
@@ -471,4 +471,4 @@ Alfrid may not use his Dubious Counsel special rule.
 
 Whenever Gandalf declares that he is casting a Magical Power, declare how many Will points are being used, then roll a single D6 before rolling to cast. On a 1 or 2, the Magical Power is not cast and any Will points declared are lost.
 
-![](../media/scenarios/armies_of_the_hobbit/battle_for_dale.jpg)
+![](../media/scenarios/armies_of_the_hobbit/battle_for_dale.jpg){ width=550 height=548 }

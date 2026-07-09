@@ -10,4 +10,4 @@ As you play more games and gain experience, you'll quickly realise there are bot
 
 *A battle is taking place, and it is now the Priority phase. Each player rolls a D6 to determine who has Priority. Adam rolls a 4, whilst Jay rolls a 2, resulting in Adam gaining Priority. If the result had been a tie, Priority would have gone to Jay as Adam had Priority in the previous turn.*
 
-![](../media/rules_manual/priority_phase.jpg)
+![](../media/rules_manual/priority_phase.jpg){ width=657 height=227 }

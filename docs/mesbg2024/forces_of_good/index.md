@@ -1,4 +1,4 @@
-![](../media/forces_of_good.jpg)
+![](../media/forces_of_good.jpg){ width=750 height=750 }
 
 - [Arnor & Angmar](arnor_and_angmar.md)
 - [Dwarven Holds](dwarven_holds.md)

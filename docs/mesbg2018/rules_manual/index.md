@@ -1,4 +1,4 @@
-![](../media/rules_manual/cover.jpg)
+![](../media/rules_manual/cover.jpg){ width=727 height=1000 }
 
 Welcome to the Middle-earth Strategy Battle Game, the hobby of collecting, painting and gaming with all of your favourite characters from *The Lord of the Rings*™ and *The Hobbit*™ using beautifully detailed Forge World and Citadel models. If you have ever wanted to explore the world of Middle-earth, its races and its heroes then this is definitely the hobby for you.
 
@@ -54,7 +54,7 @@ The rules are what make the game work on the tabletop - they govern all aspects 
 
 ### CHARACTERISTICS
 
-![](../media/rules_manual/faramir.jpg)
+![](../media/rules_manual/faramir.jpg){ width=487 height=474 }
 
 Every model, from the most heroic of Men to the most craven Orc, has a profile that reflects how powerful, brave and skilled they are in battle.
 
@@ -80,7 +80,7 @@ A **Hero** can use these points to perform special actions throughout the course
 
 ### ANATOMY OF A PROFILE
 
-![](../media/rules_manual/elrond.jpg)
+![](../media/rules_manual/elrond.jpg){ width=954 height=1000 }
 
 Shown opposite is an example of a profile for the Middle-earth Strategy Battle Game, using the profile for *Elrond*, Master of Rivendell, from the Rivendell army list. While at first this may seem rather confusing if you haven't seen one before, it is actually really simple to understand. Here we will take you through each part of a character's profile and explain what they all mean - that way you'll be able to understand them in no time at all!
 

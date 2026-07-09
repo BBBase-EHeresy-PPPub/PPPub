@@ -30,7 +30,7 @@ The River counts as Deep Water.
 
 Easterling models may re-roll failed To Wound rolls in the Fight phase.
 
-![](../media/scenarios/defence_of_the_north/crossing_of_the_river_carnen.jpg)
+![](../media/scenarios/defence_of_the_north/crossing_of_the_river_carnen.jpg){ width=500 height=500 }
 
 ---
 
@@ -68,7 +68,7 @@ If either Dáin or Brand would be Trapped in the Fight phase, then the other may
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
-![](../media/scenarios/defence_of_the_north/the_hosts_clash.jpg)
+![](../media/scenarios/defence_of_the_north/the_hosts_clash.jpg){ width=500 height=500 }
 
 ---
 
@@ -106,7 +106,7 @@ If either Dáin or Brand would be Trapped at the start of the Fight phase, then 
 
 Easterling Hero models may re-roll a D6 in a Duel roll.
 
-![](../media/scenarios/defence_of_the_north/plains_of_erebor.jpg)
+![](../media/scenarios/defence_of_the_north/plains_of_erebor.jpg){ width=500 height=500 }
 
 ---
 
@@ -142,7 +142,7 @@ In this Scenario, Brand increases his Fight value to 6.
 
 Dáin may declare a Heroic Combat each turn without spending Might.
 
-![](../media/scenarios/defence_of_the_north/death_of_brand.jpg)
+![](../media/scenarios/defence_of_the_north/death_of_brand.jpg){ width=500 height=500 }
 
 ---
 
@@ -176,7 +176,7 @@ Dáin Ironfoot must re-roll all failed To Wound rolls.
 
 Easterling models within 3" of the center of the board count as being in range of a banner.
 
-![](../media/scenarios/defence_of_the_north/dains_last_stand.jpg)
+![](../media/scenarios/defence_of_the_north/dains_last_stand.jpg){ width=500 height=500 }
 
 ---
 
@@ -214,7 +214,7 @@ Additionally, whenever Bard or Thorin declare a Heroic March, they do not need t
 
 If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then the other may declare a Heroic Combat without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
-![](../media/scenarios/defence_of_the_north/retreat_to_erebor.jpg)
+![](../media/scenarios/defence_of_the_north/retreat_to_erebor.jpg){ width=500 height=500 }
 
 ---
 
@@ -250,7 +250,7 @@ Each time an Easterling Warrior is slain, keep it to one side. At the end of eac
 
 The southern edge of the walls of Erebor is lined with battlements that can trap a model against them. Additionally, a model that is pushed from the battlements and onto the ground below is automatically slain - it's a rather steep fall!
 
-![](../media/scenarios/defence_of_the_north/siege_of_erebor.jpg)
+![](../media/scenarios/defence_of_the_north/siege_of_erebor.jpg){ width=500 height=276 }
 
 ---
 
@@ -286,7 +286,7 @@ If either Thorin III Stonehelm or Bard II would be Trapped in the Fight phase, t
 
 The Evil force counts as Broken for this Scenario, and must test to see if they flee, even though forces do not normally break in Narrative Play games.
 
-![](../media/scenarios/defence_of_the_north/the_tide_turns.jpg)
+![](../media/scenarios/defence_of_the_north/the_tide_turns.jpg){ width=500 height=500 }
 
 ---
 
@@ -322,7 +322,7 @@ Gollum does not have the Ring in this Scenario. Additionally, Gollum may not cha
 
 If Gollum is slain, the best result the Good player can achieve is a draw.
 
-![](../media/scenarios/defence_of_the_north/gollums_escape.jpg)
+![](../media/scenarios/defence_of_the_north/gollums_escape.jpg){ width=500 height=500 }
 
 ---
 
@@ -362,7 +362,7 @@ If the Spider Queen is slain, the game immediately ends and is a draw.
 
 Evil models treat Spider Nests as difficult terrain. Additionally, whenever a Spider model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each Spider model kept aside in this manner. On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter, roll a further D6. On a 1-3, the Evil player chooses which Spider Nest the model enters from; on a 4+, the 'Good' player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
-![](../media/scenarios/defence_of_the_north/an_uneasy_alliance.jpg)
+![](../media/scenarios/defence_of_the_north/an_uneasy_alliance.jpg){ width=500 height=500 }
 
 ---
 
@@ -398,7 +398,7 @@ From turn 2 onwards, roll a D6 at the start of each turn before Priority is dete
 
 Grimbeorn must re-roll all failed To Wound rolls.
 
-![](../media/scenarios/defence_of_the_north/attack_on_the_beornings.jpg)
+![](../media/scenarios/defence_of_the_north/attack_on_the_beornings.jpg){ width=500 height=500 }
 
 ---
 
@@ -445,7 +445,7 @@ Whenever a tree is destroyed, it will fall to the ground; roll a D6 to determine
 
 When a tree falls, draw a 1mm wide line from the center of the tree that extends 6" in the required direction. Any model whose base is under that line suffers a Strength 8 hit and is knocked Prone. The tree is then removed from play.
 
-![](../media/scenarios/defence_of_the_north/burning_of_mirkwood.jpg)
+![](../media/scenarios/defence_of_the_north/burning_of_mirkwood.jpg){ width=500 height=500 }
 
 ---
 
@@ -491,7 +491,7 @@ Razgûsh gains a bonus of +1 to his Fight value when engaged with an enemy Elf m
 
 Elf models must re-roll 1s To Wound during the Fight phase.
 
-![](../media/scenarios/defence_of_the_north/battle_under_the_trees.jpg)
+![](../media/scenarios/defence_of_the_north/battle_under_the_trees.jpg){ width=500 height=500 }
 
 ---
 
@@ -527,7 +527,7 @@ Good models may not willingly move further than 12" away from the western board 
 
 The river is Deep Water, with the exception of the ford, which is treated as open ground. Additionally, any model that makes a Swim test for trying to cross the Anduin suffers an additional -1 penalty to their roll.
 
-![](../media/scenarios/defence_of_the_north/crossing_of_the_anduin.jpg)
+![](../media/scenarios/defence_of_the_north/crossing_of_the_anduin.jpg){ width=500 height=500 }
 
 ---
 
@@ -569,7 +569,7 @@ This Magical Power may only target the Mallorn tree, has a range of 6" and is ca
 
 Additionally, both Muzgúr and the Orc Shaman gain a free Will point per turn, which can only be used to cast the Decay Magical Power.
 
-![](../media/scenarios/defence_of_the_north/attack_on_lorien.jpg)
+![](../media/scenarios/defence_of_the_north/attack_on_lorien.jpg){ width=500 height=500 }
 
 ---
 
@@ -609,7 +609,7 @@ Evil models may re-roll any number of D6s when making a Casting roll.
 
 All Good models automatically pass any Courage tests they are required to make.
 
-![](../media/scenarios/defence_of_the_north/trapped_on_both_sides.jpg)
+![](../media/scenarios/defence_of_the_north/trapped_on_both_sides.jpg){ width=500 height=500 }
 
 ---
 
@@ -653,7 +653,7 @@ Evil models may re-roll any number of D6s when making a Casting roll.
 
 All Good models automatically pass any Courage tests they are required to make.
 
-![](../media/scenarios/defence_of_the_north/final_assault_on_lothlorien.jpg)
+![](../media/scenarios/defence_of_the_north/final_assault_on_lothlorien.jpg){ width=500 height=500 }
 
 ---
 
@@ -694,7 +694,7 @@ This Magical Power may only target the ruins of Dol Guldur, has a range of 3" an
 
 Each Good Hero model starts the game with one fewer Might point than usual.
 
-![](../media/scenarios/defence_of_the_north/fall_of_dol_guldur.jpg)
+![](../media/scenarios/defence_of_the_north/fall_of_dol_guldur.jpg){ width=500 height=500 }
 
 ---
 
@@ -732,7 +732,7 @@ Smaug is not subject to his Missing Scale rule in this Scenario.
 
 Girion automatically passes all Courage tests for this Scenario. Additionally, Girion may choose to re-roll a single D6 in each turn.
 
-![](../media/scenarios/defence_of_the_north/destruction_of_dale.jpg)
+![](../media/scenarios/defence_of_the_north/destruction_of_dale.jpg){ width=500 height=500 }
 
 ---
 
@@ -770,7 +770,7 @@ Alfrid may not use his Dubious Counsel special rule.
 
 Whenever Gandalf declares that he is casting a Magical Power, declare how many Will points are being used, then roll a single D6 before rolling to cast. On a 1 or 2, the Magical Power is not cast, and any Will points declared are lost.
 
-![](../media/scenarios/defence_of_the_north/battle_for_dale.jpg)
+![](../media/scenarios/defence_of_the_north/battle_for_dale.jpg){ width=500 height=500 }
 
 ---
 
@@ -824,7 +824,7 @@ At the end of the Good player's seventh Move phase, the Good player moves Radaga
 
 Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts. Beorn may not transform into a bear while mounted upon the eagle, but will automatically transform as soon as he dismounts.
 
-![](../media/scenarios/defence_of_the_north/the_battle_of_five_armies.jpg)
+![](../media/scenarios/defence_of_the_north/the_battle_of_five_armies.jpg){ width=1000 height=671 }
 
 ---
 
@@ -856,4 +856,4 @@ The game lasts until one force completes their objective. The Evil player wins i
 
 Models cannot see, and therefore cannot shoot, enemy models that are further than 12" away. Additionally, if a model wishes to shoot or charge a model that is over 6" away, they must first roll a D6. On a 4+, they may act as normal; however, on the roll of a 1-3, they cannot see the model and so cannot shoot or charge the selected model but may otherwise act as normal, even rolling to see if they can see a different model if they wish.
 
-![](../media/scenarios/defence_of_the_north/the_high_pass.jpg)
+![](../media/scenarios/defence_of_the_north/the_high_pass.jpg){ width=500 height=500 }

@@ -39,7 +39,7 @@ If none of the dice have a high enough score, the Magical Power is not cast and 
 
 ***CASTING ROLL***
 
-![](../media/rules_manual/casting_roll_1.jpg)
+![](../media/rules_manual/casting_roll_1.jpg){ width=517 height=524 }
 
 *Frodo has been sapped of his Will at the hands of the Nazgûl, so Gandalf decides to attempt to replenish him with the Strengthen Will Magical Power.*
 
@@ -55,7 +55,7 @@ Some powers can affect a model indirectly - for instance, a **Hero** might be ca
 
 ***CASTING AND RESISTING***
 
-![](../media/rules_manual/casting_and_resisting_1.jpg)
+![](../media/rules_manual/casting_and_resisting_1.jpg){ width=516 height=822 }
 
 *Gandalf is trying to help Thorin's Company escape from the Goblins pursuing them. Seeing that Grinnah is in range to charge* Ori, *Gandalf attempts to cast Immobilise (requiring a Casting roll of a 3+) in order to slow Grinnah down. Gandalf chooses Grinnah as his target and expends two Will points. Rolling his dice, Gandalf rolls a 1 and a 4, which is enough to cast the Magical Power. Grinnah, not wanting to be prevented from moving, decides to spend a Will point to make a Resist test and rolls a 5. The magical power has been resisted and Grinnah can continue its relentless pursuit of Thorin's Company.*
 

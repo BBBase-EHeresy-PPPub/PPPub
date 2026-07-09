@@ -37,7 +37,7 @@ A War Beast can still be Activated even if it has been Charged, and may even sti
 A War Beast that is entering the board via the rules for Reinforcements cannot Trample any models on the turn in which it arrives.
 
 ***Example 77:** These Mûmakil have been Charged and Engaged in Combat before they have been Activated. The Mûmak on the left has been Charged by Théoden and three Riders of Rohan, whose combined Strength adds up to 13 - this Mûmak cannot Trample. The Mûmak on the right has been Charged by two Riders of Rohan, whose combined Strength adds up to 6, which is less than the Mûmak's Strength. The right Mûmak can therefore Trample, and does so on the two Riders of Rohan it is in Combat with first, killing them both. It may then pivot and Trample as normal.*
-![](../media/rules_manual/example_77.jpg)
+![](../media/rules_manual/example_77.jpg){ width=1000 height=481 }
 
 ### THE COMMANDER
 

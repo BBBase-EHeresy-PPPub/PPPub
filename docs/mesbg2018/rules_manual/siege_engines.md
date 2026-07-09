@@ -12,7 +12,7 @@ A **Siege Engine** also always comes with a crew specified in its profile -- the
 
 Additionally, a single member of every **Siege Engine** crew is always a Siege Veteran. A Siege Veteran has exactly the same profile as the rest of the crew, except they also have a single point each of Might, Will and Fate, and will replace the Warrior keyword with the **Hero** keyword. Unlike other **Hero** models, Siege Veterans may use their Might to influence To Hit, To Wound and Scatter rolls for the Siege Engine.
 
-![](../media/rules_manual/siege_veteran.jpg)
+![](../media/rules_manual/siege_veteran.jpg){ width=468 height=528 }
 
 A Siege Veteran is a Minor **Hero** with the following exception:
 
@@ -34,7 +34,7 @@ Roll To Hit as normal, using the Shoot value of the crew. If different crew memb
 
 ***FIRING THE SIEGE ENGINE***
 
-![](../media/rules_manual/firing_the_siege_engine_1.jpg)
+![](../media/rules_manual/firing_the_siege_engine_1.jpg){ width=521 height=457 }
 
 *A Battlecry Trebuchet is defending a Minas Tirith outpost from a horde of attacking Mordor Orcs. The Trebuchet nominates an* Orc *as a target and rolls To Hit; scoring a 5 - a clear hit! Because Infantry models are Battlefield targets, the Battlecry Trebuchet now rolls on the Scatter table, scoring a 6, and so the* Orc *Warrior suffers one Strength 10 hit and is Knocked to the Ground.*
 
@@ -158,7 +158,7 @@ When it explodes, a demolition charge automatically strikes everything within 2"
 
 **DETONATING THE CHARGE**
 
-![](../media/rules_manual/detonating_the_charge_1.jpg)
+![](../media/rules_manual/detonating_the_charge_1.jpg){ width=782 height=894 }
 
 *Here, the Uruk-hai wishes to blast the gates open with a demolition charge. The Uruk-hai moves the charge to the gate and drops it. Once in place, an Uruk-hai Berserker carrying a burning brand moves into base contact. He takes a Courage test (which he easily passes) and then rolls on the Detonation table and applies the result.*
 

@@ -40,7 +40,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 * You score 1 Victory Point for each of your Hero models within 3" of the centre of the board at the end of the game, to a maximum of 3 Victory Points.
 
-![](../media/scenarios/doubles_events/no_escape.jpg)
+![](../media/scenarios/doubles_events/no_escape.jpg){ width=1000 height=669 }
 
 ---
 
@@ -82,7 +82,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 Maelstrom of Battle
 
-![](../media/scenarios/doubles_events/total_conquest.jpg)
+![](../media/scenarios/doubles_events/total_conquest.jpg){ width=1000 height=669 }
 
 ---
 
@@ -127,7 +127,7 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 **Old Magic:** The area that both Armies are fighting over is an ancient place of great power that is said to be imbued with magic. Models within 6" of the Objective Marker gain the Resistant to Magic special rule, and may re-roll failed Fate Rolls.
 
-![](../media/scenarios/doubles_events/take_and_hold.jpg)
+![](../media/scenarios/doubles_events/take_and_hold.jpg){ width=1000 height=669 }
 
 ---
 
@@ -173,7 +173,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **Friendly Rivalry:** Whilst the two General models are fighting alongside each other, they are still both trying to prove that they are the better fighter of the two. Keep a record of how many kills the General of each force has in Combat individually. For each Army, whichever General has the fewest kills out of the two in Combat gains a bonus of +1 To Wound when making Strikes. This bonus ends immediately as soon as they have drawn equal to or overtaken their ally.
 
-![](../media/scenarios/doubles_events/clash_of_champions.jpg)
+![](../media/scenarios/doubles_events/clash_of_champions.jpg){ width=1000 height=669 }
 
 ---
 
@@ -223,7 +223,7 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 * You score **2 Victory Points** if the most expensive model in the opposing team's Secondary Force has been removed as a casualty.
 
-![](../media/scenarios/doubles_events/cornered.jpg)
+![](../media/scenarios/doubles_events/cornered.jpg){ width=1000 height=671 }
 
 ---
 
@@ -275,4 +275,4 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 
 **Dark of Night**
 
-![](../media/scenarios/doubles_events/duel_of_wits.jpg)
+![](../media/scenarios/doubles_events/duel_of_wits.jpg){ width=1000 height=671 }

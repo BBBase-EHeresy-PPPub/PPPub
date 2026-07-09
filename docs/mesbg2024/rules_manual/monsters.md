@@ -16,7 +16,7 @@ Whenever a Monster model makes a Strike against an enemy model that it is Engage
 
 ***Example 74:** This Mordor Troll has won the Combat against the Warriors of Minas Tirith. It makes its first Strike against Warrior A, killing it. It then makes its second Strike against Warrior B, killing them as well. As Warrior C was Supporting Warrior B, the Troll may now make a free Strike against Warrior C; however, it doesn't kill them in this instance. As that was a free Strike, the Troll still has one remaining and chooses to Strike Warrior D, killing them as well. As Warrior E was Supporting Warrior D, the Troll may now make a free Strike against them as well, and this time the Troll successfully kills its victim!*
 
-![](../media/rules_manual/example_74.jpg)
+![](../media/rules_manual/example_74.jpg){ width=563 height=671 }
 
 ## BRUTAL POWER ATTACKS
 
@@ -34,7 +34,7 @@ When a Monster uses this Brutal Power Attack, they must nominate one enemy model
 
 ***Example 75:** The Goblin King has beaten Thorin in a Combat, and has elected to use the Rend Brutal Power Attack. The Goblin King will make three To Wound Rolls (as his Attacks characteristic is 3) against Thorin, though instead of using Thorin's Defence of 7 the Goblin King will compare his Strength of 5 with Thorin's Strength of 4. Looking at the To Wound Chart, these To Wound Rolls will succeed on a 4+ - Thorin is in serious trouble! Brutal Power Attacks*
 
-![](../media/rules_manual/example_75.jpg)
+![](../media/rules_manual/example_75.jpg){ width=566 height=671 }
 
 ### BARGE
 
@@ -64,4 +64,4 @@ To Hurl a model, follow the steps below:
 
 ***Example 76:** Beorn has won a Combat against the Gundabad Orc and elects to Hurl them. He rolls a D3 and scores a 4 - a D3 result of a 2. Beorn has a Strength of 8, whilst the Gundabad Orc has a Strength of 4 - a difference of 4. This means that the Hurl Distance is 6"; 2 for the D3 roll, plus 4 for the difference in Strength. Beorn then chooses an enemy model within the Hurl Distance to throw the Orc at, and selects Azog. The Hurled model suffers two Strength 6 hits, which they luckily survive in this instance. The Hurled model is then placed in base contact with Azog, as close to the Monster as possible. As there is another Orc in this position, the Hurled model is placed slightly further around Azog's base as shown in the diagram, and is then knocked Prone. Azog is then also knocked Prone and suffers one Strength 6 hit, which also wounds the Pale Orc in this instance.*
 
-![](../media/rules_manual/example_76.jpg)
+![](../media/rules_manual/example_76.jpg){ width=563 height=633 }

@@ -38,7 +38,7 @@ Whenever Freca charges, he improves his Attacks to 3 until the end of the turn.
 
 If Freca rolls a natural 6 To Wound when making a Strike, and the Wound is successful, he has struck a Knockout Blow and Helm is rendered unconscious.
 
-![](../media/scenarios/war_of_the_rohirrim/to_claim_a_throne.jpg)
+![](../media/scenarios/war_of_the_rohirrim/to_claim_a_throne.jpg){ width=874 height=853 }
 
 ---
 
@@ -90,7 +90,7 @@ This cannot be used to Move the Rabid Mûmak out of Combat.
 
 Good models may not enter the lake for fear of being dragged to the depths by the creature that lurks there. In addition, the first time each turn that the Rabid Mûmak ends a Move within 6" of the lake in the south-west corner of the board, the Good player rolls a D6. On a 1-2, the waters remain undisturbed and the game continues. On a 3+, the beast lurking in the water strikes and drags the Mûmak into the depths. The Mûmak is removed as a casualty.
 
-![](../media/scenarios/war_of_the_rohirrim/a_new_threat_on_rohans_borders.jpg)
+![](../media/scenarios/war_of_the_rohirrim/a_new_threat_on_rohans_borders.jpg){ width=876 height=852 }
 
 ---
 
@@ -138,7 +138,7 @@ When the alarm is raised, place Wulf in base contact with the northern side of h
 
 On the first turn of the game, the Good player may choose who has Priority.
 
-![](../media/scenarios/war_of_the_rohirrim/an_enemy_revealed.jpg)
+![](../media/scenarios/war_of_the_rohirrim/an_enemy_revealed.jpg){ width=876 height=852 }
 
 ---
 
@@ -170,7 +170,7 @@ The game lasts for 10 turns. The Good player wins if they are able to prevent al
 
 **The King's Riders** - Whilst they are within 12" of Helm and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge.
 
-![](../media/scenarios/war_of_the_rohirrim/plains_of_edoras.jpg)
+![](../media/scenarios/war_of_the_rohirrim/plains_of_edoras.jpg){ width=878 height=852 }
 
 ---
 
@@ -216,7 +216,7 @@ Additionally, if an Evil model Charges or makes a Shooting attack against a Warr
 
 Once per game, at any point during Héra's Activation, she may call upon Ashere to aid her in the battle with Lord Thorne. If she does, Lord Thorne is immediately Knocked Prone.
 
-![](../media/scenarios/war_of_the_rohirrim/lord_thornes_betrayal.jpg)
+![](../media/scenarios/war_of_the_rohirrim/lord_thornes_betrayal.jpg){ width=876 height=849 }
 
 ---
 
@@ -258,7 +258,7 @@ If the Mûmak comes into contact with a building whilst Trampling, rather than s
 
 For the duration of the scenario, Wulf is armed with a bow. Additionally, Wulf must re-roll failed To Hit and To Wound rolls when making a Shooting Attack that targets Haleth.
 
-![](../media/scenarios/war_of_the_rohirrim/streets_of_edoras.jpg)
+![](../media/scenarios/war_of_the_rohirrim/streets_of_edoras.jpg){ width=876 height=848 }
 
 ---
 
@@ -298,7 +298,7 @@ Whenever an Evil model with the Warrior keyword is slain, put it to one side. At
 
 Helm begins the game with no points of Fate. Additionally, for the duration of the scenario, Helm has his attacks reduced to 2 and loses the Into the Fray special rule.
 
-![](../media/scenarios/war_of_the_rohirrim/edoras_burns.jpg)
+![](../media/scenarios/war_of_the_rohirrim/edoras_burns.jpg){ width=878 height=848 }
 
 ---
 
@@ -340,7 +340,7 @@ Once the alarm has been raised, the Hill Tribes Chieftain may escape the battle 
 
 For the duration of the Scenario, Helm has the Terror special rule.
 
-![](../media/scenarios/war_of_the_rohirrim/wrath_of_the_hammerhand.jpg)
+![](../media/scenarios/war_of_the_rohirrim/wrath_of_the_hammerhand.jpg){ width=876 height=848 }
 
 ---
 
@@ -378,7 +378,7 @@ For the duration of the Scenario, Héra is Unarmed.
 
 The Evil player has Priority in the first turn.
 
-![](../media/scenarios/war_of_the_rohirrim/beasts_of_the_long_winter.jpg)
+![](../media/scenarios/war_of_the_rohirrim/beasts_of_the_long_winter.jpg){ width=873 height=858 }
 
 ---
 
@@ -425,7 +425,7 @@ At the beginning of each model's Activation, they must roll a D6 and consult the
 | 5 | The model may Move up to its full Move Value; however, they may not declare a Heroic Combat during the Fight Phase. |
 | 6 | The model may Move up to its full Move Value. |
 
-![](../media/scenarios/war_of_the_rohirrim/last_stand_of_helm_hammerhand.jpg)
+![](../media/scenarios/war_of_the_rohirrim/last_stand_of_helm_hammerhand.jpg){ width=879 height=849 }
 
 ---
 
@@ -466,4 +466,4 @@ The game lasts for 10 turns, at which point the player who has scored the most S
 
 **The Siege Tower** - Models may only move onto the siege tower walkway from within 1" of the centre of the board.
 
-![](../media/scenarios/war_of_the_rohirrim/the_fate_of_rohan.jpg)
+![](../media/scenarios/war_of_the_rohirrim/the_fate_of_rohan.jpg){ width=879 height=849 }

@@ -17,7 +17,7 @@ Once one Battle Company has been Broken, the game might suddenly end. At the end
 - **Draw** - Both Battle Companies have claimed the same number of
 objectives.
 
-![](../media/scenarios/battle_companies/seize_ground.jpg)
+![](../media/scenarios/battle_companies/seize_ground.jpg){ width=494 height=494 }
 
 ---
 
@@ -52,7 +52,7 @@ At the end of your Move phase, roll a D6 for each of your models not on the batt
 | 5 | The model enters the battlefield from the northern board edge. |
 | 6 | The model enters the battlefield from any board edge chosen by the controlling player. |
 
-![](../media/scenarios/battle_companies/secure_the_area.jpg)
+![](../media/scenarios/battle_companies/secure_the_area.jpg){ width=494 height=494 }
 
 ---
 
@@ -76,7 +76,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 
 - **Draw** - Both leaders have killed the same number of models.
 
-![](../media/scenarios/battle_companies/a_show_of_strength.jpg)
+![](../media/scenarios/battle_companies/a_show_of_strength.jpg){ width=494 height=494 }
 
 ---
 
@@ -104,7 +104,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 
 The six objectives on the board are Light Objects, as detailed on page 109 of the main rules manual. This means that models may pick up and carry the objectives; in fact, a model will only count as holding an objective once they have picked it up. If a model holding an objective flees, it is immediately dropped where they stood before they fled, or as close as possible. Models may carry more than one objective.
 
-![](../media/scenarios/battle_companies/claim_the_treasure.jpg)
+![](../media/scenarios/battle_companies/claim_the_treasure.jpg){ width=494 height=494 }
 
 ---
 
@@ -130,7 +130,7 @@ Once one Battle Company is reduced to less than 50% of its starting numbers, the
 
 Models from the Defender's Battle Company automatically pass all Courage tests they are required to make.
 
-![](../media/scenarios/battle_companies/defend_the_gate.jpg)
+![](../media/scenarios/battle_companies/defend_the_gate.jpg){ width=494 height=494 }
 
 ---
 
@@ -162,7 +162,7 @@ When a model moves into base contact with an Objective marker, flip it over. If 
 
 The model that moves the relic off the board will be richly rewarded. If this is a **Warrior**, it will count as rolling A Hero in the Making after the game. If this is a **Hero**, they will receive a free roll on the Experience table, in addition to any other Experience bonuses. If two models simultaneously carry the relic off the board, choose one of them to get the benefits.
 
-![](../media/scenarios/battle_companies/recovery.jpg)
+![](../media/scenarios/battle_companies/recovery.jpg){ width=494 height=494 }
 
 ---
 
@@ -184,7 +184,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 - **Defeat** - Your Battle Company has been reduced to 25% of its starting models and your opponent's has not.
 - **Draw** - Both Battle Companies have been reduced to 25% in the same turn.
 
-![](../media/scenarios/battle_companies/chance_encounter.jpg)
+![](../media/scenarios/battle_companies/chance_encounter.jpg){ width=494 height=494 }
 
 ---
 
@@ -212,7 +212,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 
 At the start of the game, secretly note down which of your models is the messenger (this may not be a **Hero**) - they must survive the game. It is important to not reveal if your opponent has killed your messenger during the game, so as not to hand the advantage over to your opponent. The idea of this Scenario is to try to bluff your opponent into thinking that someone who is not your messenger is, so that they kill them instead of the real messenger.
 
-![](../media/scenarios/battle_companies/kill_the_messenger.jpg)
+![](../media/scenarios/battle_companies/kill_the_messenger.jpg){ width=494 height=494 }
 
 ---
 
@@ -244,7 +244,7 @@ This Scenario requires 24 Fell Wargs. The Fell Wargs follow the usual profile fo
 
 Both Battle Companies are forced to work together, at least for now, and so the members of both will count as friendly models to each other. Players will still roll for Priority as normal, with the player that won Priority acting with the models from their Battle Company first in each phase if able.
 
-![](../media/scenarios/battle_companies/the_wolves_attack.jpg)
+![](../media/scenarios/battle_companies/the_wolves_attack.jpg){ width=494 height=494 }
 
 ---
 
@@ -276,7 +276,7 @@ The Orc Warriors follow the usual profile for Orc Warriors found on page 119 of 
 
 The outpost defenders may not leave the outpost for any reason.
 
-![](../media/scenarios/battle_companies/seize_the_outpost.jpg)
+![](../media/scenarios/battle_companies/seize_the_outpost.jpg){ width=494 height=494 }
 
 ---
 
@@ -306,7 +306,7 @@ The Cave Troll follows the usual profile for a Cave Troll. The Troll will always
 
 Slaying a Troll is no easy feat, and a model who accomplishes this is clearly set for great things. If this is a **Warrior,** it will count as rolling A Hero in the Making after the game. If this is a **Hero,** they will receive a free roll on the Experience table, in addition to any other Experience bonuses.
 
-![](../media/scenarios/battle_companies/tame_the_beast.jpg)
+![](../media/scenarios/battle_companies/tame_the_beast.jpg){ width=494 height=494 }
 
 ---
 
@@ -332,7 +332,7 @@ The game lasts until the Attacker has no more models left on the battlefield.
 
 Any models that successfully escapes the board via the northern board edge will gain an additional 1 Experience Point.
 
-![](../media/scenarios/battle_companies/hold_the_line.jpg)
+![](../media/scenarios/battle_companies/hold_the_line.jpg){ width=494 height=494 }
 
 ---
 
@@ -358,7 +358,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 
 Models on the hill do not need to take Courage tests for being Broken.
 
-![](../media/scenarios/battle_companies/stand_your_ground.jpg)
+![](../media/scenarios/battle_companies/stand_your_ground.jpg){ width=494 height=494 }
 
 ---
 
@@ -392,7 +392,7 @@ The rest of the Defender's Battle Company moves onto the board from the opposite
 
 Should the target **Hero** survive, they will gain an additional 1 Experience Point.
 
-![](../media/scenarios/battle_companies/rescue.jpg)
+![](../media/scenarios/battle_companies/rescue.jpg){ width=494 height=494 }
 
 ---
 
@@ -428,7 +428,7 @@ The area within 2" of a lit objective counts as daylight, so models in this area
 
 Should the Attacker set all five objectives alight, they will receive an additional 1 Influence Point at the end of the Scenario. Should the Defender prevent all objectives from being set alight, they will receive an additional 1 Influence Point at the end of the Scenario.
 
-![](../media/scenarios/battle_companies/plunder_the_camp.jpg)
+![](../media/scenarios/battle_companies/plunder_the_camp.jpg){ width=494 height=494 }
 
 ---
 
@@ -458,7 +458,7 @@ The captured **Hero** is still a member of the Attacker's Battle Company, and wi
 
 The prisoner has had their hands bound by their captors and their weapons and other wargear taken from them. The **Hero** counts as unarmed and is without any wargear such as shields, bows or other equipment (though they do still keep their armour). Whilst bound, the prisoner may only ever make a single Attack and may not declare Heroic Actions. An Attacker's model may free the prisoner from their bonds during the End phase of any turn in which they are in base contact with the prisoner and did not participate in a Fight in the preceding Fight phase. Once the prisoner has been freed, they no longer count as being unarmed - they count as being armed with a dagger for the remainder of the Scenario.
 
-![](../media/scenarios/battle_companies/a_daring_rescue.jpg)
+![](../media/scenarios/battle_companies/a_daring_rescue.jpg){ width=494 height=494 }
 
 ---
 
@@ -496,7 +496,7 @@ The Baggage Ponies all carry some valuable cargo, gold, weapons or other items t
 
 If a Baggage Pony is slain or flees the battlefield, place a 25mm Cargo marker where the model used to be. Any model can pick up a Cargo marker by moving into base contact with it; cargo is a Light Object. For each piece of cargo moved off the board via the northern board edge, the Defender gains an additional 1 Influence Point. For each piece of cargo in the Attacker's possession at the end of the game, the Attacker gains an additional 1 Influence Point.
 
-![](../media/scenarios/battle_companies/baggage_train.jpg)
+![](../media/scenarios/battle_companies/baggage_train.jpg){ width=494 height=515 }
 
 ---
 
@@ -539,7 +539,7 @@ If, during the End phase of any turn, there is an unengaged Sentry within 3" and
 
 If the Attacker successfully slays the Defender's **Hero**, then the model that did so will be rewarded. If this is a **Warrior**, it will count as rolling A Hero in the Making after the game. If this is a **Hero,** they will receive a free roll on the Experience table, in addition to any other Experience bonuses.
 
-![](../media/scenarios/battle_companies/infiltrate_assassinate.jpg)
+![](../media/scenarios/battle_companies/infiltrate_assassinate.jpg){ width=494 height=494 }
 
 ---
 
@@ -609,7 +609,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 If you are playing an Evil Battle Company, then the Breelanders are probably more likely to be trying to protect their lands rather than rob your company. Any members of your company that are removed as a casualty must roll for Injuries as normal. If you roll a 6 on the Rewards table, it is safe to assume that your Battle Company stole the horse, rather than were gifted it!
 
-![](../media/scenarios/battle_companies/skirmish_in_bree.jpg)
+![](../media/scenarios/battle_companies/skirmish_in_bree.jpg){ width=661 height=659 }
 
 ---
 
@@ -668,7 +668,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 There is no difference in this Scenario. The Orcs are still trying to kill you and you must still slay the Barrow-wight in order to claim victory!
 
-![](../media/scenarios/battle_companies/ruins_of_annuminas.jpg)
+![](../media/scenarios/battle_companies/ruins_of_annuminas.jpg){ width=660 height=658 }
 
 ---
 
@@ -731,7 +731,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 If you roll a 4 on the Rewards chart, you do not gain a Dúnedain for your company. Instead, you may make an additional free roll on your company's Reinforcement chart instead.
 
-![](../media/scenarios/battle_companies/ambush_in_the_hills.jpg)
+![](../media/scenarios/battle_companies/ambush_in_the_hills.jpg){ width=659 height=658 }
 
 ---
 
@@ -790,7 +790,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 
 If you are using an Evil Battle Company, then if your company is victorious and rolls a 4, do not add a Sage to your company. Instead you may add a Shaman to your Battle Company, as described on **page 26**.
 
-![](../media/scenarios/battle_companies/icebay_of_forochel.jpg)
+![](../media/scenarios/battle_companies/icebay_of_forochel.jpg){ width=660 height=658 }
 
 ---
 
@@ -849,7 +849,7 @@ Results 2-6 will add an extra 30 points to the value of whichever model is carry
 
 There is no difference in this Scenario.
 
-![](../media/scenarios/battle_companies/the_drakes_treasure.jpg)
+![](../media/scenarios/battle_companies/the_drakes_treasure.jpg){ width=750 height=747 }
 
 ---
 
@@ -893,7 +893,7 @@ Victory Points are scored for the following:
 
 Members of the Battle Company do not take Courage tests for being Broken.
 
-![](../media/scenarios/battle_companies/rescue_the_company.jpg)
+![](../media/scenarios/battle_companies/rescue_the_company.jpg){ width=666 height=666 }
 
 ---
 
@@ -941,4 +941,4 @@ Victory Points are scored for the following:
 
 At the end of each player's third Move phase, they may move their Battle Company onto the battlefield from the centre of either of the board edges that were not chosen as a player's deployment zone, as shown on the map. The player with Priority may choose which of these board edges they want their Battle Company to move on from, and their opponent will move their company on from the centre of the opposite board edge. Battle Companies move onto the board via the rules for Reinforcements found in the main rules manual.
 
-![](../media/scenarios/battle_companies/the_grand_battle.jpg)
+![](../media/scenarios/battle_companies/the_grand_battle.jpg){ width=666 height=669 }
