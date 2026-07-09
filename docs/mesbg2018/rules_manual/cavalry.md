@@ -164,6 +164,36 @@ A **Cavalry** model may dismount from their steed at any point in their Move. Di
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 10" | 3/6+ | 4 | 4 | 1 | 1 | 2 |
 
+#### FELL BEAST
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 3" | 5/5+ | 6 | 6 | 2 | 3 | 3 |
+
+**SPECIAL RULES**
+
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
+- **Feral** `PASSIVE`
+
+If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
+
+#### ARMOURED FELL BEAST
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 3" | 5/5+ | 6 | 7 | 2 | 3 | 3 |
+
+**SPECIAL RULES**
+
+- [Fly]
+- [Monstrous Charge]
+- [Terror]
+- **Feral** `PASSIVE`
+
+If the Ringwraith riding a Fell Beast is slain or dismounts, the creature automatically fails its Courage test and flees the battlefield.
+
 Various models can take a mount of some kind. The more unusual ones are listed in the rider's entry, but the more common steeds are listed here.
 
 *Ponies are timid creatures, not used to warfare and will need to be coaxed into battle should the time arise. If a model riding a Pony wishes to charge, the model must make a Courage test. If the test is failed, the model may not Charge but may move as normal. Note that a model must always take this Courage test, even if it would usually automatically pass it. A model riding a Pony does not get the Extra Attack or Knock to the Ground bonuses when charging.*

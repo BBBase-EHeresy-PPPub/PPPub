@@ -102,13 +102,13 @@ Can make a Strength 10 strike against one model. If they survive, they are [Set 
 
 <div class="unitCard" markdown>
 
-### THE WITCH-KING OF ANGMAR [0 POINTS]
+### THE WITCH-KING OF ANGMAR [POINTS COST VARIES]
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 6 | 4+ | 4 | 8 | * | 1 | 4+ | 4+ | 3 | 18 | 3 |
+| 6" | 6 | 4+ | 4 | 8 | * | 1 | 4+ | 4+ | * | * | * |
 
 **WARGEAR**
 
@@ -132,14 +132,21 @@ Can make a Strength 10 strike against one model. If they survive, they are [Set 
 | [Drain Courage] | 12" | 4+ |
 | [Enchant Blades] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 5+ |
+| [Instil Fear] | Self | 5+ |
 | Your Staff is Broken | 12" | 5+ |
 
 **OPTIONS**
 
-- 3A / 3M / 18W / 3F - 150 points
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+When you take the Witch-king of Angmar in your Army, you must select one of the three following options which will determine the number of Attacks and Might, Will and Fate Points the Witch-king has. These represent the Witch-king at different times during the War of the Ring, and his differing levels of power.
+
+- 1 Attack, 1 Might, 10 Will, 1 Fate - 80 points
+- 2 Attacks, 2 Might, 14 Will, 2 Fate - 120 points
+- 3 Attacks, 3 Might, 18 Will, 3 Fate - 150 points
+
+The Witch-king may also take the following options:
+
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
 - Crown of Morgul - 25 points
 - [Horse] - 20 points
 - Morgul Blade - 10 points
@@ -241,13 +248,13 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 
 <div class="unitCard" markdown>
 
-### RINGWRAITH [0 POINTS]
+### RINGWRAITH [POINTS COST VARIES]
 
 *HERO OF VALOUR, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 8 | * | 1 | 4+ | 4+ | 2 | 14 | 2 |
+| 6" | 5 | 4+ | 4 | 8 | * | 1 | 4+ | 4+ | * | * | * |
 
 **WARGEAR**
 
@@ -266,13 +273,21 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 | [Transfix] | 12" | 3+ |
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instil Fear] | Self | 6+ |
 
 **OPTIONS**
 
-- 2A / 2M / 14W / 2F - 120 points
-- Armoured Fell Beast - 70 points
-- Fell Beast - 50 points
+When you take a Ringwraith in your Army, you must select one of the three following options which will determine the number of Attacks and Might, Will and Fate Points the Ringwraith has. These represent the Ringwraith at different times during the War of the Ring, and their differing levels of power.
+
+- 1 Attack, 0 Might, 7 Will, 0 Fate - 60 points
+- 2 Attacks, 1 Might, 10 Will, 1 Fate - 90 points
+- 2 Attacks, 2 Might, 14 Will, 2 Fate - 120 points
+
+A Ringwraith may also take the following options:
+
+- [Armoured Fell Beast] - 70 points
+- [Fell Beast] - 50 points
+- [Horse] - 20 points
 - Morgul Blade - 10 points
 
 **SPECIAL RULES**
@@ -1019,27 +1034,39 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 
 ### MORDOR SIEGE BOW [50 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 40MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 8 | 9 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 6"-48" | 8 | 9 | 3 |
+
+**COMPOSITION**
+
+three Mordor Orc Siege Crew, one of which is the Siege Veteran.
 
 **OPTIONS**
 
+A Mordor Siege Bow may take the following options for the listed points cost:
+
 - Flaming Ammunition - 10 points
+
+- **Flaming Ammunition**
+
+A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
 
 **SPECIAL RULES**
 
-- Direct Shot
+- [Direct Shot]
 
 - **Accurate** `ACTIVE`
 
-A Mordor Siege [Bow] will only Scatter 3" rather than 6".
+A Mordor Siege Bow will only Scatter 3" rather than 6".
 
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+
+---
 
 **Mordor Orc Siege Crew**
 
@@ -1060,20 +1087,34 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 ### MORDOR WAR CATAPULT [150 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 120MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 10 | 10 | - | 4 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 12"-96" | 10 | 10 | 4 |
+
+**COMPOSITION**
+
+three Mordor Orc Siege Crew, one of which is the Siege Veteran, and a Mordor Siege Troll.
 
 **OPTIONS**
+
+A Mordor War Catapult may take the following options for the listed points cost:
 
 - Severed Heads - 20 points
 - Flaming Ammunition - 10 points
 
+- **Severed Heads**
+
+If a Mordor War Catapult chooses to fire Severed Heads, determine the actual target as normal. Then, instead of rolling To Wound, the actual target and any enemy models within 3" of them must each take a Courage test. If the test is failed, the model flees and is removed as a casualty.
+
+- **Flaming Ammunition**
+
+A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
+
 **SPECIAL RULES**
 
-- Arcing Shot
+- [Arcing Shot]
 
 - **Troll Loader** `ACTIVE`
 
@@ -1086,6 +1127,8 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 - **Wall-breaker** `ACTIVE`
 
 When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+
+---
 
 **Mordor Orc Siege Crew**
 

@@ -1087,17 +1087,21 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 
 ### ISENGARD ASSAULT BALLISTA [75 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 105MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 9 | 10 | - | 4 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 12"-60" | 9 | 10 | 4 |
+
+**COMPOSITION**
+
+three Uruk-Hai Siege Crew, one of which is the Siege Veteran.
 
 **SPECIAL RULES**
 
-- Direct Shot
+- [Direct Shot]
 
-- **Acurate** `ACTIVE`
+- **Accurate** `ACTIVE`
 
 An Assault Ballista will only scatter 3" rather than 6"
 
@@ -1109,11 +1113,15 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 An Isengard Assault Ballista can be used to raise a ladder onto enemy battlements in a siege game. Choose a point on the battlements within range and roll to hit. If successful, place a ladder within 6" of the wall base below the target point against the battlements. A model that was carrying the ladder can be placed at the top and will count as charging if there is a defender there. If not, the model can move normally.
 
+---
+
 **Uruk-hai Siege Crew**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
+
+[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

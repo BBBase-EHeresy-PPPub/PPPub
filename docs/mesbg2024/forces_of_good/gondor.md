@@ -1428,13 +1428,19 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 ### GONDOR AVENGER BOLT THROWER [60 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 40MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 7 | 9 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 0"-36" | 7 | 9 | 3 |
+
+**COMPOSITION**
+
+three Minas Tirith Siege Crew, one of which is the Siege Veteran.
 
 **OPTIONS**
+
+A Gondor Avenger Bolt Thrower may take the following options for the listed points cost:
 
 - Swift Reload - 20 points
 
@@ -1442,11 +1448,13 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 - **Swift Reload** `ACTIVE`
 
-AWhen firing the Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may take.
+When firing the Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may take.
 
 - **Rapid Fire** `ACTIVE`
 
 A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6 shoot attacks in the same way as a normal Missile Weapon. No Scatter is required for these shots, they will either hit or miss. Each shot may be fully resolved before determining the target of the next one. Shots fired by the Bolt Thrower do not kill their targets outright if they Wound them.
+
+---
 
 **Minas Tirith Siege Crew**
 
@@ -1467,19 +1475,29 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 
 ### GONDOR BATTLECRY TREBUCHET [100 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 120MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 10 | 10 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 12"-96" | 10 | 10 | 3 |
+
+**COMPOSITION**
+
+three Minas Tirith Siege Crew, one of which is the Siege Veteran.
 
 **OPTIONS**
 
+A Gondor Battlecry Trebuchet may take the following options for the listed points cost:
+
 - Flaming Ammunition - 10 points
+
+- **Flaming Ammunition**
+
+A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
 
 **SPECIAL RULES**
 
-- Arcing Shot
+- [Arcing Shot]
 - Static
 
 - **Area Effect** `ACTIVE`
@@ -1489,6 +1507,8 @@ After rolling To Hit against a Battlefield Target, all other models within 2" of
 - **Wall-breaker** `ACTIVE`
 
 When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+
+---
 
 **Minas Tirith Siege Crew**
 

@@ -1084,23 +1084,29 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 
 ### CORSAIR BALLISTA [70 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 40MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 8 | 10 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 0"-48" | 8 | 10 | 3 |
+
+**COMPOSITION**
+
+three Corsair Siege Crew, one of which is the Siege Veteran.
 
 **SPECIAL RULES**
 
-- Direct Shot
+- [Direct Shot]
 
-- **Piercing Shot**
+- **Piercing Shot** `ACTIVE`
 
 A model that is hit by the shot of a Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
 
 - **Bladed Bolts** `ACTIVE`
 
 A Corsair Ballista must re-roll To Wound Rolls of a 1, including against any model that suffers a Strength 6 hit caused by the model that is flung back, if applicable.
+
+---
 
 **Corsair Siege Crew**
 

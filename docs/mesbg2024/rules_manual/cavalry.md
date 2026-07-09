@@ -212,6 +212,56 @@ Mount models have their own list of keywords; for their Faction keyword, a Mount
 
 </div>
 
+---
+
+<div class="unitCard" markdown>
+
+#### FELL BEAST - 60MM
+
+*FELL BEAST, SEE RIDER, MOUNT*
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 12" | 5 | 6+ | 6 | 6 | 2 | 3 | 7+ | 8+ |
+
+**SPECIAL RULES**
+
+- [Dominant] (3)
+- [Fly]
+- [Large Target]
+- [Terror]
+- [Monstrous Charge]
+- **Feral** `PASSIVE`
+
+Will always flee when separated.
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+#### ARMOURED FELL BEAST - 60MM
+
+*FELL BEAST, SEE RIDER, MOUNT*
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 12" | 5 | 6+ | 6 | 7 | 2 | 3 | 7+ | 8+ |
+
+**SPECIAL RULES**
+
+- [Dominant] (3)
+- [Fly]
+- [Large Target]
+- [Terror]
+- [Monstrous Charge]
+- **Feral** `PASSIVE`
+
+Will always flee when separated.
+
+</div>
+
 ## CAVALRY AND COMBAT
 
 Cavalry models fight as one during a Combat, and must always use the highest Fight Value, Attacks and Strength available between the rider and Mount - even if that means using some from one and some from the other. Whilst when a Cavalry model fights it may combine the characteristics of both rider and Mount, it is always the rider that is considered to be fighting, and so will use any special rules or abilities, or apply any modifiers (such as fighting with a two-handed weapon) associated with the rider fighting in Combat.

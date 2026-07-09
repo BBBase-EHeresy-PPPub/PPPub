@@ -640,22 +640,21 @@ A Warrior of Dale must have one of the following options for the listed points c
 
 ### WINDLANCE [70 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 50MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 10 | 10 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 6"-60" | 10 | 10 | 3 |
 
-**WARGEAR**
+**COMPOSITION**
 
-- [Armour]
-- [Hand Weapon]
+two Dale Siege Crew, one of which is the Siege Veteran.
 
 **SPECIAL RULES**
 
-- Direct Shot
+- [Direct Shot]
 
-- **Acurate** `ACTIVE`
+- **Accurate** `ACTIVE`
 
 A Windlance will only scatter 3" rather than 6"
 
@@ -663,11 +662,15 @@ A Windlance will only scatter 3" rather than 6"
 
 A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
 
+---
+
 **Dale Siege Crew**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
+
+[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

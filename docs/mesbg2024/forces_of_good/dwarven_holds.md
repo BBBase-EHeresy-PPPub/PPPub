@@ -1875,15 +1875,19 @@ A [spear][Spear], if this model is Supporting a model with an Iron [Shield], the
 
 ### DWARVEN BALLISTA [70 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 40MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 9 | 10 | - | 3 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 6"-48" | 9 | 10 | 3 |
+
+**COMPOSITION**
+
+two Dwarf Siege Crew, one of which is the Siege Veteran.
 
 **SPECIAL RULES**
 
-- Direct Shot
+- [Direct Shot]
 
 - **Accurate** `ACTIVE`
 
@@ -1892,6 +1896,8 @@ A Dwarven Ballista will only Scatter 3" rather than 6".
 - **Piercing Shot** `ACTIVE`
 
 A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+
+---
 
 **Dwarf Siege Crew**
 
@@ -1912,15 +1918,19 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 ### IRON HILLS BALLISTA [130 POINTS]
 
-*SIEGE ENGINE, 6 WARBAND*
+*SIEGE ENGINE, 100MM*
 
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| - | - | - | 8 | 10 | - | 4 | - | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:--:|:-:|:-:|:-:|
+| 12"-60" | 8 | 10 | 4 |
+
+**COMPOSITION**
+
+four Iron Hills Siege Crew, one of which is the Siege Veteran.
 
 **SPECIAL RULES**
 
-- Arcing Shot
+- [Arcing Shot]
 
 - **Area Effect** `ACTIVE`
 
@@ -1932,13 +1942,17 @@ An Iron Hills Ballista will only Scatter 3" rather than 6"
 
 - **The Old Twirly Whirlies** `ACTIVE`
 
-This ballista always counts as declaring a [Heroic Shoot] each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
+This ballista always counts as declaring a Heroic Shoot each Shoot phase for free. When a target is hit, draw 1mm line between centre of the Ballista and the target's base. For that turn, any shooting attacks of Strength 6 or lower cannot be made if they cross that line, or if the shooting target is within 3" of the line. Similarly in both cases, shooting attacks above Strength 6 must roll a D6. On a 5+, the shot is prevented.
+
+---
 
 **Iron Hills Siege Crew**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
+
+[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

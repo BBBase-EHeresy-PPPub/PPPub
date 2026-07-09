@@ -48,6 +48,8 @@
 [Pony]: ../rules_manual/cavalry.md#pony-40mm
 [Warg]: ../rules_manual/cavalry.md#warg-40mm
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg-40mm
+[Fell Beast]: ../rules_manual/cavalry.md#fell-beast-60mm
+[Armoured Fell Beast]: ../rules_manual/cavalry.md#armoured-fell-beast-60mm
 [Siege Veteran]: ../rules_manual/siege_engines.md#siege-veteran
 [Arcing Shot]: ../rules_manual/siege_engines.md#arcing-shot
 [Direct Shot]: ../rules_manual/siege_engines.md#direct-shot
