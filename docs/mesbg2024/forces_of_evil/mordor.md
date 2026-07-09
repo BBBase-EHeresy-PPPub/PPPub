@@ -1042,7 +1042,7 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 
 **COMPOSITION**
 
-three Mordor Orc Siege Crew, one of which is the Siege Veteran.
+Crewed by three Mordor Orc Siege Crew, one of which is a [Siege Veteran].
 
 **OPTIONS**
 
@@ -1050,13 +1050,13 @@ A Mordor Siege Bow may take the following options for the listed points cost:
 
 - Flaming Ammunition - 10 points
 
-- **Flaming Ammunition**
-
-A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
-
 **SPECIAL RULES**
 
 - [Direct Shot]
+
+- **Flaming Ammunition**
+
+A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
 
 - **Accurate** `ACTIVE`
 
@@ -1095,7 +1095,7 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 **COMPOSITION**
 
-three Mordor Orc Siege Crew, one of which is the Siege Veteran, and a Mordor Siege Troll.
+Crewed by three Mordor Orc Siege Crew, one of which is a [Siege Veteran], and a Mordor Siege Troll.
 
 **OPTIONS**
 
@@ -1104,6 +1104,11 @@ A Mordor War Catapult may take the following options for the listed points cost:
 - Severed Heads - 20 points
 - Flaming Ammunition - 10 points
 
+**SPECIAL RULES**
+
+- [Arcing Shot]
+
+
 - **Severed Heads**
 
 If a Mordor War Catapult chooses to fire Severed Heads, determine the actual target as normal. Then, instead of rolling To Wound, the actual target and any enemy models within 3" of them must each take a Courage test. If the test is failed, the model flees and is removed as a casualty.
@@ -1111,10 +1116,6 @@ If a Mordor War Catapult chooses to fire Severed Heads, determine the actual tar
 - **Flaming Ammunition**
 
 A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
-
-**SPECIAL RULES**
-
-- [Arcing Shot]
 
 - **Troll Loader** `ACTIVE`
 

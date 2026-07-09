@@ -1095,7 +1095,7 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 
 **COMPOSITION**
 
-three Uruk-Hai Siege Crew, one of which is the Siege Veteran.
+Crewed by three Uruk-hai Siege Crew, one of which is a [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -1120,8 +1120,6 @@ An Isengard Assault Ballista can be used to raise a ladder onto enemy battlement
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
-
-[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

@@ -1092,7 +1092,7 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 
 **COMPOSITION**
 
-three Corsair Siege Crew, one of which is the Siege Veteran.
+Crewed by three Corsair Siege Crew, one of which is a [Siege Veteran].
 
 **SPECIAL RULES**
 

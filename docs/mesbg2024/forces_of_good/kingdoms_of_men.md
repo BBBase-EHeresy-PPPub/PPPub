@@ -648,7 +648,7 @@ A Warrior of Dale must have one of the following options for the listed points c
 
 **COMPOSITION**
 
-two Dale Siege Crew, one of which is the Siege Veteran.
+Crewed by two Dale Siege Crew, one of which is a [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -669,8 +669,6 @@ A model hit will be flung back D3" if it has a Strength of 5 or lower. Any model
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
-
-[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

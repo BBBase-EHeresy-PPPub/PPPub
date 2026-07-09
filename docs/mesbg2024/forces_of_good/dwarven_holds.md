@@ -1883,7 +1883,7 @@ A [spear][Spear], if this model is Supporting a model with an Iron [Shield], the
 
 **COMPOSITION**
 
-two Dwarf Siege Crew, one of which is the Siege Veteran.
+Crewed by two Dwarf Siege Crew, one of which is a [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -1926,7 +1926,7 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 
 **COMPOSITION**
 
-four Iron Hills Siege Crew, one of which is the Siege Veteran.
+Crewed by four Iron Hills Siege Crew, one of which is a [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -1951,8 +1951,6 @@ This ballista always counts as declaring a Heroic Shoot each Shoot phase for fre
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
-
-[Siege Veteran] has 1 Might, 1 Will, and 1 Fate.
 
 **WARGEAR**
 

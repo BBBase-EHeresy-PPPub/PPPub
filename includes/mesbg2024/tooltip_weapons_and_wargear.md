@@ -50,7 +50,7 @@
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg-40mm
 [Fell Beast]: ../rules_manual/cavalry.md#fell-beast-60mm
 [Armoured Fell Beast]: ../rules_manual/cavalry.md#armoured-fell-beast-60mm
-[Siege Veteran]: ../rules_manual/siege_engines.md#siege-veteran
+[Siege Veteran]: ../rules_manual/siege_engines.md#siege-veteran "A Siege Veteran has the crew profile, replaces the Warrior keyword with Hero, has 1 Might, 1 Will and 1 Fate, and may use Might to improve the Siege Engine's To Hit, Scatter or To Wound rolls."
 [Arcing Shot]: ../rules_manual/siege_engines.md#arcing-shot
 [Direct Shot]: ../rules_manual/siege_engines.md#direct-shot
 [Untrained Crew]: ../rules_manual/siege_engines.md#untrained-crew

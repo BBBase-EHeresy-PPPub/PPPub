@@ -1436,7 +1436,7 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 **COMPOSITION**
 
-three Minas Tirith Siege Crew, one of which is the Siege Veteran.
+Crewed by three Minas Tirith Siege Crew, one of which is a [Siege Veteran].
 
 **OPTIONS**
 
@@ -1483,7 +1483,7 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 
 **COMPOSITION**
 
-three Minas Tirith Siege Crew, one of which is the Siege Veteran.
+Crewed by three Minas Tirith Siege Crew, one of which is a [Siege Veteran].
 
 **OPTIONS**
 
