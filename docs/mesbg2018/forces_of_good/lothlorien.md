@@ -270,7 +270,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 **OPTIONS**
 
 - Elf [Bow] - 5 points
-- Throwing Daggers - 5 points
+- [Throwing] [Daggers][Dagger] - 5 points
 - Wood Elf [Spear] - 5 points
 - Swap Weapon - 5 points
 
@@ -482,7 +482,7 @@ Sentinel gains [Terror] for rest of the turn.
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- Throwing Daggers - 2 points
+- [Throwing] [Daggers][Dagger] - 2 points
 - Wood Elf [Spear] - 1 point
 - Swap Weapon - 1 point
 

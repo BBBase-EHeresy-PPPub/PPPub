@@ -3,6 +3,7 @@
 [Two-handed Weapon]: ../rules_manual/weapons_and_wargear.md#two-handed-weapons
 [Hand-and-a-half Weapon]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons
 [Throwing Weapons]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Throwing]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
 [Master-Forged]: ../rules_manual/weapons_and_wargear.md#master-forged-weapons
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloaks
@@ -29,6 +30,10 @@
 [Flaming Ammunition]: ../rules_manual/siege_engines.md#flaming-ammunition
 [Siege Veteran]: ../rules_manual/siege_engines.md#siege-veterans
 [Swift Reload]: ../rules_manual/siege_engines.md#swift-reload
+[Engineer Captain]: ../rules_manual/siege_engines.md#engineer-captain
+[Severed Heads]: ../rules_manual/siege_engines.md#severed-heads
+[Superior Construction]: ../rules_manual/siege_engines.md#superior-construction
+[Troll]: ../rules_manual/siege_engines.md#troll
 [Pike]: ../rules_manual/weapons_and_wargear.md#pikes
 [Staff]: ../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs
 [Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe

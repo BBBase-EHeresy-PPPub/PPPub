@@ -157,7 +157,7 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 - [Heavy Dwarf Armour]
 - [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Axe]
 - Two Axes
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **HEROIC ACTIONS**
 

@@ -73,7 +73,7 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 **OPTIONS**
 
-- Throwing Axes - 5 points
+- [Throwing] [Axes][Axe] - 5 points
 - [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
@@ -102,7 +102,7 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 **OPTIONS**
 
 - [Shield] - 5 points
-- Throwing Axes - 5 points
+- [Throwing] [Axes][Axe] - 5 points
 - [Two-Handed] [Axe] - 5 points
 - Swap Weapon - 5 points
 
@@ -254,7 +254,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **OPTIONS**
 
 - Dwarf Longbow - 1 point
-- Throwing Axes - 1 point
+- [Throwing] [Axes][Axe] - 1 point
 - [Two-Handed] [Axe] - 1 point
 - Swap Weapon - 1 point
 
@@ -306,7 +306,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - [Dwarf Armour]
 - [Sword]
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **OPTIONS**
 
@@ -364,18 +364,26 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 ### DWARF BALLISTA [60 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 9 | 10 | - | 3 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 48" | 9 | 10 | 3 |
+
+**CREW**
+
+Crewed by two Dwarf Warriors with heavy armour and axe, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5" | 4/4+ | 3 | 6 | 1 | 1 | 4 |
 
 **OPTIONS**
 
-- Dwarf Engineer Captain - 60 points
-- Flaming Ammunition - 15 points
+- Dwarf [Engineer Captain] - 60 points
+- [Flaming Ammunition] - 15 points
 - Additional Crew - 8 points
-- Engineer Captain - [Shield] - 5 points
-- Engineer Captain - Throwing Axes - 5 points
-- Engineer Captain - [Two-Handed] [Axe] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
+- [Engineer Captain] - [Throwing] [Axes][Axe] - 5 points
+- [Engineer Captain] - [Two-Handed] [Axe] - 5 points
 
 **SPECIAL RULES**
 

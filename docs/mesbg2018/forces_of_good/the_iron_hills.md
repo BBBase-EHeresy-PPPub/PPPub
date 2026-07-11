@@ -283,14 +283,22 @@ See page 34 of Hobbit Armies book
 ### IRON HILLS BALLISTA [125 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 8 | 10 | - | 4 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 12"-48" | 8 | 10 | 4 |
+
+**CREW**
+
+Crewed by four Iron Hills Dwarves with heavy armour and swords, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5" | 4/4+ | 4 | 6 | 1 | 1 | 4 |
 
 **OPTIONS**
 
-- Iron Hills Engineer Captain - 75 points
-- Superior Construction - 15 points
+- Iron Hills [Engineer Captain] - 75 points
+- [Superior Construction] - 15 points
 - Additional Crew - 10 points
 
 **SPECIAL RULES**

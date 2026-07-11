@@ -247,7 +247,7 @@ Each time a friendly Hero model within 6" (including himself) attempts a [Heroic
 **WARGEAR**
 
 - [Dagger]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 - [Blowpipe]
 
 **HEROIC ACTIONS**

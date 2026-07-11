@@ -555,7 +555,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- Throwing Daggers - 2 points
+- [Throwing] [Daggers][Dagger] - 2 points
 - Wood Elf [Spear] - 1 point
 - Noldorin Exiles Upgrade - 1 point
 - Swap Weapon - 1 point

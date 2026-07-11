@@ -160,7 +160,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **HEROIC ACTIONS**
 
@@ -262,7 +262,7 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **OPTIONS**
 

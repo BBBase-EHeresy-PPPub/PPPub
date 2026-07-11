@@ -880,7 +880,7 @@ See page 178 of Armies of LOTR book.
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- Throwing Spears - 1 point
+- [Throwing] [Spears][Spear] - 1 point
 - Swap Weapon - 1 point
 
 </div>
@@ -920,22 +920,30 @@ See page 178 of Armies of LOTR book.
 ### ISENGARD ASSAULT BALLISTA [65 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 9 | 10 | - | 4 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 6"-48" | 9 | 10 | 4 |
+
+**CREW**
+
+Crewed by three Uruk-Hai Warriors with heavy armour and sword, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 4 | 5 | 1 | 1 | 3 |
 
 **OPTIONS**
 
-- Uruk-Hai Engineer Captain - 50 points
-- Superior Construction - 15 points
+- Uruk-Hai [Engineer Captain] - 50 points
+- [Superior Construction] - 15 points
 - Additional Crew - 9 points
-- Engineer Captain - [Crossbow] - 5 points
-- Engineer Captain - [Shield] - 5 points
-- Engineer Captain - [Two-Handed Weapon][Two-handed Weapon] - 5 points
+- [Engineer Captain] - [Crossbow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
+- [Engineer Captain] - [Two-Handed Weapon][Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
-- **Acurate**
+- **Accurate**
 
 An Assault Ballista will only scatter 3" rather than 6"
 

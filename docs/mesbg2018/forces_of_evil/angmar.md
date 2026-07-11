@@ -657,7 +657,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- Throwing Spears - 1 point
+- [Throwing] [Spears][Spear] - 1 point
 - Swap Weapon - 1 point
 
 </div>

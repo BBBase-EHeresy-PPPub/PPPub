@@ -20,7 +20,7 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 **WARGEAR**
 
 - [Sword]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 - Smoke Bombs
 
 **HEROIC ACTIONS**
@@ -59,7 +59,7 @@ Dalamyr can never be Trapped whilst still standing.
 - [Armour]
 - [Sword]
 - [Whip]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -87,7 +87,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 **WARGEAR**
 
 - [Dagger]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -211,7 +211,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 **WARGEAR**
 
 - [Sword]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -248,7 +248,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 **WARGEAR**
 
 - [Sword]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -365,7 +365,7 @@ If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must tak
 **WARGEAR**
 
 - [Sword]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 
 **OPTIONS**
 

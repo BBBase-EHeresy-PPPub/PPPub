@@ -380,7 +380,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - [Armour]
 - [Sword]
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **HEROIC ACTIONS**
 
@@ -414,7 +414,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - [Dwarf Armour]
 - Two Axes
-- Throwing Axes
+- [Throwing] [Axes][Axe]
 
 **HEROIC ACTIONS**
 

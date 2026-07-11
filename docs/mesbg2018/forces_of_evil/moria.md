@@ -681,7 +681,7 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 - [Armour]
 - [Two-handed][Two-Handed] [Axe]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 
 **OPTIONS**
 

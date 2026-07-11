@@ -861,17 +861,25 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 ### AVENGER BOLT THROWER [50 POINTS] <span style="color: darkmagenta">(Crew: 3)</span>
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 7 | 10 | - | 3 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 24" | 7 | 10 | 3 |
+
+**CREW**
+
+Crewed by three Warriors of Minas Tirith with armour and sword, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
 **OPTIONS**
 
-- Minas Tirith Engineer Captain - 50 points
-- Swift Reload - 20 points
+- Minas Tirith [Engineer Captain] - 50 points
+- [Swift Reload] - 20 points
 - Additional Crew - 7 points
-- Engineer Captain - [Bow] - 5 points
-- Engineer Captain - [Shield] - 5 points
+- [Engineer Captain] - [Bow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -892,17 +900,25 @@ Can perform D6 shooting attacks each turn.
 ### GONDOR BATTLECRY TREBUCHET [80 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 10 | 10 | - | 3 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 12"-96" | 10 | 10 | 3 |
+
+**CREW**
+
+Crewed by three Warriors of Minas Tirith with armour and sword, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/4+ | 3 | 5 | 1 | 1 | 3 |
 
 **OPTIONS**
 
-- Minas Tirith Engineer Captain - 50 points
-- Flaming Ammunition - 15 points
+- Minas Tirith [Engineer Captain] - 50 points
+- [Flaming Ammunition] - 15 points
 - Additional Crew - 7 points
-- Engineer Captain - [Bow] - 5 points
-- Engineer Captain - [Shield] - 5 points
+- [Engineer Captain] - [Bow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
 
 **SPECIAL RULES**
 

@@ -360,7 +360,7 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 **WARGEAR**
 
 - [Armour]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 - Two Swords
 
 **OPTIONS**

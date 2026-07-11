@@ -568,7 +568,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- Throwing Spears - 1 point
+- [Throwing] [Spears][Spear] - 1 point
 - Swap Weapon - 1 point
 
 </div>
@@ -582,27 +582,35 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 ### MORDOR SIEGE BOW [50 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 9 | 10 | - | 3 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 48" | 9 | 10 | 3 |
+
+**CREW**
+
+Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 2 |
 
 **OPTIONS**
 
-- Orc Engineer Captain - 40 points
-- Flaming Ammunition - 15 points
+- Orc [Engineer Captain] - 40 points
+- [Flaming Ammunition] - 15 points
 - Additional Crew - 5 points
-- Engineer Captain - Orc [Bow] - 5 points
-- Engineer Captain - [Shield] - 5 points
+- [Engineer Captain] - Orc [Bow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
 
 **SPECIAL RULES**
 
 - **Accurate**
 
-A Mordor Siege [Bow] will only scatter 3" rather than 6".
+A Mordor Siege Bow will only scatter 3" rather than 6".
 
 - **Piercing Shot**
 
-If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege [Bow]. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
+If a shot hits a target, then they suffer one S9 hit. Additionally, if the target is S5 or lower, they are knocked Prone and flung D6" directly away from the Siege Bow. Any model the target passes over is also knocked Prone and suffers one S6 hit. If the target hits impassable terrain, or a model that is S6 or higher, the target is knocked Prone and both the target and obstacle suffer one S6 hit.
 
 </div>
 
@@ -613,22 +621,36 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 ### MORDOR WAR CATAPULT [160 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 10 | 10 | - | 4 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 12"-96" | 10 | 10 | 4 |
+
+**CREW**
+
+Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Veteran], and a Mordor Troll.
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 3/5+ | 3 | 4 | 1 | 1 | 3 |
+
+**MORDOR TROLL**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 7/4+ | 7 | 7 | 3 | 3 | 3 |
 
 **OPTIONS**
 
-- Orc Engineer Captain - 40 points
-- Flaming Ammunition - 15 points
-- Severed Heads - 5 points
+- Orc [Engineer Captain] - 40 points
+- [Flaming Ammunition] - 15 points
+- [Severed Heads] - 5 points
 - Additional Crew - 5 points
-- Engineer Captain - Orc [Bow] - 5 points
-- Engineer Captain - [Shield] - 5 points
+- [Engineer Captain] - Orc [Bow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
 
 **SPECIAL RULES**
 
-- Troll
+- [Troll]
 
 - **Indirect Fire**
 

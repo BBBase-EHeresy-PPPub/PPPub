@@ -128,7 +128,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -157,7 +157,7 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 - [Heavy Armour]
 - [Sword]
 - [Shield]
-- Throwing Spears
+- [Throwing] [Spears][Spear]
 - Felarof
 
 **HEROIC ACTIONS**
@@ -203,7 +203,7 @@ The first time each turn that Eorl the Young spends a Might point, roll a D6. On
 
 - [Horse] - 10 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -242,7 +242,7 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 - [Bow] - 5 points
 - [Heavy Armour] - 5 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 - Swap Weapon - 5 points
 
 **SPECIAL RULES**
@@ -310,7 +310,7 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 - [Armour]
 - [Sword]
 - [Shield]
-- Throwing Spears
+- [Throwing] [Spears][Spear]
 
 **HEROIC ACTIONS**
 
@@ -493,7 +493,7 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 
 **OPTIONS**
 
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -528,7 +528,7 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 - [Horse] - 10 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -692,7 +692,7 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Throwing Spears - 2 points
+- [Throwing] [Spears][Spear] - 2 points
 - Westfold Redshield Upgrade - 1 point
 - Swap Weapon - 1 point
 
@@ -759,7 +759,7 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 - [Banner] - 25 points
 - [Horse] - 5 points
-- Throwing Spears - 2 points
+- [Throwing] [Spears][Spear] - 2 points
 - Swap Weapon - 1 point
 
 **SPECIAL RULES**
@@ -825,7 +825,7 @@ Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Throwing Spears - 2 points
+- [Throwing] [Spears][Spear] - 2 points
 - [Shield] - 1 point
 - Helminga Upgrade - 1 point
 - [Bow] - 1 point

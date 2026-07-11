@@ -175,16 +175,24 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 ### WINDLANCE [75 POINTS]
 *SIEGE ENGINE, 6 WARBAND*
 
-| Mv | F | S | D | A | W | C | M | W | F |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| - | - | 10 | 10 | - | 3 | - | 1 | 1 | 1 |
+| Range | S | D | W |
+|:---:|:---:|:---:|:---:|
+| 60" | 10 | 10 | 3 |
+
+**CREW**
+
+Crewed by two Warriors of Dale with armour and sword, one of which is a [Siege Veteran].
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 3 | 4 | 1 | 1 | 3 |
 
 **OPTIONS**
 
-- Dale Engineer Captain - 50 points
+- Dale [Engineer Captain] - 50 points
 - Additional Crew - 7 points
-- Engineer Captain - Esgaroth [Bow] - 5 points
-- Engineer Captain - [Shield] - 5 points
+- [Engineer Captain] - Esgaroth [Bow] - 5 points
+- [Engineer Captain] - [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -192,7 +200,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 
 A Windlance will only scatter 3" rather than 6".
 
-- **Superior Construction**
+- [Superior Construction]
 
 Maximum range increased by 12".
 
