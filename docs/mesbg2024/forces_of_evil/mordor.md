@@ -992,10 +992,10 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 A Mordor Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and Throwing Spears - 2 points
+- [Shield] and [Throwing] [Spears][Spear] - 2 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- Throwing Spears - 1 point
+- [Throwing] [Spears][Spear] - 1 point
 
 </div>
 

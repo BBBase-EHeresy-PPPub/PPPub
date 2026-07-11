@@ -582,7 +582,7 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Sho
 **WARGEAR**
 
 - [Dagger]
-- Throwing Daggers
+- [Throwing] [Daggers][Dagger]
 - [Blowpipe]
 
 **HEROIC ACTIONS**

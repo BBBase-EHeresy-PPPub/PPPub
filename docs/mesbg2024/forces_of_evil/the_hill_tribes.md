@@ -321,9 +321,9 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 
 A Rohirrim Traitor must have one of the following options for the listed points cost:
 
-- [War Horn], [Shield], Throwing Spears - 28 points
+- [War Horn], [Shield], [Throwing] [Spears][Spear] - 28 points
 - [Banner] - 25 points
-- [Shield] and Throwing Spears - 3 points
+- [Shield] and [Throwing] [Spears][Spear] - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 

@@ -211,7 +211,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 - Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
-- <span style="color: darkmagenta">Throwing Spears - 5 points</span>
+- <span style="color: darkmagenta">[Throwing] [Spears][Spear] - 5 points</span>
 
 **SPECIAL RULES**
 
@@ -296,7 +296,7 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 **OPTIONS**
 
 - [Armoured Horse] - 25 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -478,7 +478,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 - [Armour]
 - [Hand Weapon]
 - [Shield]
-- Throwing Spears
+- [Throwing] [Spears][Spear]
 
 **HEROIC ACTIONS**
 
@@ -529,7 +529,7 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 - [Horse] - 20 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- Throwing Spears - 5 points
+- [Throwing] [Spears][Spear] - 5 points
 
 **SPECIAL RULES**
 
@@ -867,7 +867,7 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 **OPTIONS**
 
 - [Banner] - 25 points
-- Throwing Spears - 2 points
+- [Throwing] [Spears][Spear] - 2 points
 
 **SPECIAL RULES**
 
@@ -903,9 +903,9 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 **OPTIONS**
 
-- [Horse] and Throwing Spears - 7 points
+- [Horse] and [Throwing] [Spears][Spear] - 7 points
 - [Horse] - 5 points
-- Throwing Spears - 2 points
+- [Throwing] [Spears][Spear] - 2 points
 
 **SPECIAL RULES**
 
@@ -943,9 +943,9 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 A Warrior of Rohan must have one of the following options for the listed points cost:
 
-- [War Horn], [Shield], Throwing Spears - 28 points
+- [War Horn], [Shield], [Throwing] [Spears][Spear] - 28 points
 - [Banner] - 25 points
-- [Shield] and Throwing Spears - 3 points
+- [Shield] and [Throwing] [Spears][Spear] - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 

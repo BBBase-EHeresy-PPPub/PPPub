@@ -16,6 +16,7 @@
 [Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe
 [Sling]: ../rules_manual/weapons_and_wargear.md#sling
 [Throwing Weapons]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Throwing]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
 [Banner]: ../rules_manual/weapons_and_wargear.md#banner-80
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloak
 [War Drum]: ../rules_manual/weapons_and_wargear.md#war-drum-x
@@ -50,7 +51,7 @@
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg-40mm
 [Fell Beast]: ../rules_manual/cavalry.md#fell-beast-60mm
 [Armoured Fell Beast]: ../rules_manual/cavalry.md#armoured-fell-beast-60mm
-[Siege Veteran]: ../rules_manual/siege_engines.md#siege-veteran "A Siege Veteran has the crew profile, replaces the Warrior keyword with Hero, has 1 Might, 1 Will and 1 Fate, and may use Might to improve the Siege Engine's To Hit, Scatter or To Wound rolls."
+[Siege Veteran]: ../rules_manual/siege_engines.md#siege-veteran
 [Arcing Shot]: ../rules_manual/siege_engines.md#arcing-shot
 [Direct Shot]: ../rules_manual/siege_engines.md#direct-shot
 [Untrained Crew]: ../rules_manual/siege_engines.md#untrained-crew

@@ -51,7 +51,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 - [Heavy Armour]
 - [Hand Weapon]
 - [Shield]
-- Throwing Spears
+- [Throwing] [Spears][Spear]
 - Feralof
 
 **HEROIC ACTIONS**
