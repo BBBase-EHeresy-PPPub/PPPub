@@ -3,6 +3,11 @@
  --md-accent-fg-color: #C8B35A;
 }
 
+[data-md-color-scheme="slate"] {
+ --md-primary-fg-color: #5F6F2A;
+ --md-accent-fg-color: #C8B35A;
+}
+
 .md-grid {
  max-width: 65rem;
 }
@@ -21,9 +26,14 @@
 	padding: 0.5rem 2rem 0.5rem 2rem;
 }
 
+[data-md-color-scheme="slate"] .unitCard {
+	background-color: #252a2e;
+	border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
 .unitCard h2,
 .unitCard h3 {
-	background-color: #303030;
+	background-color: var(--md-primary-fg-color);
 	border-radius: 0.5rem;
  	color: #fff;
 	padding: 0.5rem 0.5rem 0.5rem 1rem;

@@ -3,7 +3,12 @@ docs_dir: docs/mesbg2024
 theme:
   name: material
   palette:
-    scheme: mesbg
+    - scheme: mesbg
+      toggle:
+        icon: material/toggle-switch
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
   custom_dir: overrides
   logo: assets/PPPub_Logo.webp
   favicon: assets/PPPub_Favicon.ico
