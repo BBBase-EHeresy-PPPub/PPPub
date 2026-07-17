@@ -1,4 +1,5 @@
 site_name: Prancing Pony Pub
+site_url: https://prancingponypub.ru/
 docs_dir: docs/mesbg2024
 theme:
   name: material

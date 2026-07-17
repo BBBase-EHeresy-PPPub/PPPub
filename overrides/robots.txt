@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prancingponypub.ru/sitemap.xml
+Sitemap: https://prancingponypub.ru/mesbg2024/sitemap.xml
