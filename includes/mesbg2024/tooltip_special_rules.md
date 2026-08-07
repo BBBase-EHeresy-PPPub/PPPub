@@ -7,6 +7,7 @@
 [Burly]: ../rules_manual/special_rules.md#burly
 [Cave Dweller]: ../rules_manual/special_rules.md#cave-dweller
 [Dominant]: ../rules_manual/special_rules.md#dominant-x
+[Elfbane]: ../rules_manual/special_rules.md#bane-weapons
 [Expert Rider]: ../rules_manual/special_rules.md#expert-rider
 [Expert Shot]: ../rules_manual/special_rules.md#expert-shot
 [Fearful]: ../rules_manual/special_rules.md#fearful
@@ -32,6 +33,7 @@
 [Shieldwall]: ../rules_manual/special_rules.md#shieldwall
 [Spectral Walk]: ../rules_manual/special_rules.md#spectral-walk
 [Stalk Unseen]: ../rules_manual/special_rules.md#stalk-unseen
+[Static]: ../rules_manual/siege_engines.md#moving-a-siege-engine
 [Survival Instinct]: ../rules_manual/special_rules.md#survival-instinct
 [Swift Movement]: ../rules_manual/special_rules.md#swift-movement
 [Sworn Protector]: ../rules_manual/special_rules.md#sworn-protector-x
