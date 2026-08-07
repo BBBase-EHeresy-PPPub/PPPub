@@ -11,7 +11,8 @@ This army may include: Dain Ironfoot, Lord of the Iron Hills; Iron Hills Captain
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, LORD OF THE IRON HILLS [140 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -62,7 +63,8 @@ If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (
 <div class="unitCard" markdown>
 
 ### IRON HILLS CAPTAIN [80 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,7 +99,8 @@ If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (
 <div class="unitCard" markdown>
 
 ### IRON HILLS CHARIOT (CAPTAIN) [250 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, IRON HILLS, WARRIOR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -147,7 +150,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### MURIN & DRAR [140 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -162,7 +166,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### IRON HILLS CHARIOT [175 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -212,7 +217,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### IRON HILLS DWARF [11 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -247,7 +253,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### IRON HILLS GOAT RIDER [20 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -281,7 +288,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### IRON HILLS BALLISTA [125 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE, IRON HILLS**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

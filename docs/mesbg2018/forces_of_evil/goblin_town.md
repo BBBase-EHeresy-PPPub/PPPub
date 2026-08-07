@@ -11,7 +11,8 @@ This army may include: The Goblin King; Goblin Captain; Goblin Mercenary Captain
 <div class="unitCard" markdown>
 
 ### THE GOBLIN KING [130 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**GOBLIN, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +54,8 @@ Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it wa
 <div class="unitCard" markdown>
 
 ### GOBLIN CAPTAIN [35 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GOBLIN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -87,7 +89,8 @@ This model can support other models who also have the Chittering Hordes rule, as
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GOBLIN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -125,7 +128,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 <div class="unitCard" markdown>
 
 ### GRINNAH [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**GOBLIN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -163,7 +167,8 @@ This model can support other models who also have the Chittering Hordes rule, as
 <div class="unitCard" markdown>
 
 ### THE GOBLIN SCRIBE [50 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**GOBLIN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -190,7 +195,8 @@ The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phas
 <div class="unitCard" markdown>
 
 ### GOLLUM [35 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**HOBBIT, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -225,7 +231,8 @@ Gollum is never considered to be [unarmed][Unarmed].
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY [5 POINTS]
-*WARRIOR*
+
+**GOBLIN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -259,7 +266,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 <div class="unitCard" markdown>
 
 ### GOBLIN WARRIOR [4 POINTS]
-*WARRIOR*
+
+**GOBLIN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

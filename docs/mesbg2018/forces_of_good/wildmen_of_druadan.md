@@ -11,7 +11,8 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 <div class="unitCard" markdown>
 
 ### GHAN-BURI-GHAN [65 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +45,8 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 <div class="unitCard" markdown>
 
 ### WOSES WARRIOR [9 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +80,8 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 <div class="unitCard" markdown>
 
 ### WOSES WARRIOR [9 POINTS]
-*WARRIOR*
+
+**MAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

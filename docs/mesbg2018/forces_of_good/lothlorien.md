@@ -11,7 +11,8 @@ This army may include: Galadriel; Celeborn; Haldir; Galadhrim Captain; Orophin; 
 <div class="unitCard" markdown>
 
 ### GALADRIEL [130 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -64,7 +65,8 @@ She may spend a free point of Will each turn.
 <div class="unitCard" markdown>
 
 ### CELEBORN [130 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -110,6 +112,9 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### HALDIR [70 POINTS]
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF VALOUR**
+
 *<span style="color: darkmagenta">HERO OF VALOUR</span>, UNIQUE, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -152,7 +157,8 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 <div class="unitCard" markdown>
 
 ### GALADHRIM CAPTAIN [70 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -187,7 +193,8 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 <div class="unitCard" markdown>
 
 ### OROPHIN [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -217,7 +224,8 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 <div class="unitCard" markdown>
 
 ### RUMIL [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -252,7 +260,8 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 <div class="unitCard" markdown>
 
 ### WOOD ELF CAPTAIN [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -289,7 +298,8 @@ This [spear][Spear] may also parry, which uses the rules for Shielding.
 <div class="unitCard" markdown>
 
 ### GALADHRIM STORMCALLER [60 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -329,7 +339,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### GALADHRIM KNIGHT [18 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -361,7 +372,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### GALADHRIM WARRIOR [9 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -393,7 +405,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### GUARD OF THE GALADHRIM COURT [12 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -424,7 +437,8 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 <div class="unitCard" markdown>
 
 ### WOOD ELF SENTINEL [25 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -467,7 +481,8 @@ Sentinel gains [Terror] for rest of the turn.
 <div class="unitCard" markdown>
 
 ### WOOD ELF WARRIOR [8 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

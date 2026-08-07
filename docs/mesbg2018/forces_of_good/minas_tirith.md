@@ -11,7 +11,8 @@ This army may include: Aragorn, King Elessar; Boromir; Denethor; Earnur; Faramir
 <div class="unitCard" markdown>
 
 ### ARAGORN, KING ELESSAR [225 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +56,8 @@ Friendly models within 6" count as being in range of a [banner][Banner].
 <div class="unitCard" markdown>
 
 ### BOROMIR [160 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,7 +99,8 @@ This is a [banner][Banner] with a range of 6". Boromir and all Gondor Warriors w
 <div class="unitCard" markdown>
 
 ### DENETHOR [35 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -125,7 +128,8 @@ At the start of every turn, take a courage test. If failed, Denethor is controll
 <div class="unitCard" markdown>
 
 ### EARNUR [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -165,7 +169,8 @@ At the start of a fight involving Earnur, after resolving any special rules that
 <div class="unitCard" markdown>
 
 ### FARAMIR [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -207,7 +212,8 @@ If Denethor is alive and in the same army, Faramir passes all courage tests and 
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [220 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -260,7 +266,8 @@ Gandalf may re-roll his dice when making fate rolls.
 <div class="unitCard" markdown>
 
 ### HURIN [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -302,6 +309,9 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 <div class="unitCard" markdown>
 
 ### KING OF MEN [60 POINTS]
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
+
 *<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -334,7 +344,8 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF MINAS TIRITH [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -368,7 +379,8 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 <div class="unitCard" markdown>
 
 ### CIRION [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -398,7 +410,8 @@ Receives a +2 bonus to his Courage when charging a model with the [Terror] speci
 <div class="unitCard" markdown>
 
 ### INGOLD [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -430,7 +443,8 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -461,7 +475,8 @@ Irolas may use the Shielding special rule, even without a [shield][Shield]. If h
 <div class="unitCard" markdown>
 
 ### KNIGHT OF THE WHITE TOWER [60 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -498,7 +513,8 @@ If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-ha
 <div class="unitCard" markdown>
 
 ### MADRIL [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -530,7 +546,8 @@ When rolling for Reinforcements, you may modify the roll for Madril's warband by
 <div class="unitCard" markdown>
 
 ### ANBORN [35 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -561,7 +578,8 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 <div class="unitCard" markdown>
 
 ### BEREGOND [30 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -592,7 +610,8 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 <div class="unitCard" markdown>
 
 ### DAMROD [25 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -619,7 +638,8 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 <div class="unitCard" markdown>
 
 ### MABLUNG [35 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -650,7 +670,8 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [25 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**HOBBIT, GONDOR, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -683,7 +704,8 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 <div class="unitCard" markdown>
 
 ### CITADEL GUARD [9 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -712,7 +734,8 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 <div class="unitCard" markdown>
 
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -741,7 +764,8 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 <div class="unitCard" markdown>
 
 ### KNIGHT OF MINAS TIRITH [13 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -771,7 +795,8 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 <div class="unitCard" markdown>
 
 ### OSGILIATH VETERAN [8 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -802,7 +827,8 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 <div class="unitCard" markdown>
 
 ### RANGER OF GONDOR [8 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -826,7 +852,8 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 <div class="unitCard" markdown>
 
 ### WARRIOR OF MINAS TIRITH [7 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -859,7 +886,8 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 <div class="unitCard" markdown>
 
 ### AVENGER BOLT THROWER [50 POINTS] <span style="color: darkmagenta">(Crew: 3)</span>
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|
@@ -898,7 +926,8 @@ Can perform D6 shooting attacks each turn.
 <div class="unitCard" markdown>
 
 ### GONDOR BATTLECRY TREBUCHET [80 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

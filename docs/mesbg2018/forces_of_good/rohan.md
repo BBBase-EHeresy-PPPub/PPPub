@@ -11,7 +11,8 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 <div class="unitCard" markdown>
 
 ### HELM HAMMERHAND [165 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -60,7 +61,8 @@ May choose to use his fists instead of his [sword][Sword], in which case he may 
 <div class="unitCard" markdown>
 
 ### THEODEN [75 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -107,7 +109,8 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 <div class="unitCard" markdown>
 
 ### EOMER [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -146,7 +149,8 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 <div class="unitCard" markdown>
 
 ### EORL THE YOUNG [115 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ROHAN, CAVALRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -183,7 +187,8 @@ The first time each turn that Eorl the Young spends a Might point, roll a D6. On
 <div class="unitCard" markdown>
 
 ### THEODRED [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -221,7 +226,8 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF ROHAN [45 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -261,7 +267,8 @@ If within 12" of Theoden, and riding a [horse][Horse], this model receives +1 bo
 <div class="unitCard" markdown>
 
 ### DEORWINE [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -299,7 +306,8 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 <div class="unitCard" markdown>
 
 ### ELFHELM [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -337,7 +345,8 @@ Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [
 <div class="unitCard" markdown>
 
 ### ERKENBRAND [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -375,7 +384,8 @@ This is a [war horn][War Horn] that adds +2 Courage rather than +1, but only aff
 <div class="unitCard" markdown>
 
 ### GAMLING [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -413,7 +423,8 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 <div class="unitCard" markdown>
 
 ### GRIMBOLD [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -439,7 +450,8 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 <div class="unitCard" markdown>
 
 ### HAMA [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -472,7 +484,8 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 <div class="unitCard" markdown>
 
 ### DERNHELM [75 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**WOMAN, ROHAN, CAVALRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -507,7 +520,8 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 <div class="unitCard" markdown>
 
 ### EOWYN [40 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**WOMAN, ROHAN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -546,7 +560,8 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 <div class="unitCard" markdown>
 
 ### KING'S HUNTSMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**MAN, ROHAN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -573,7 +588,8 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 <div class="unitCard" markdown>
 
 ### ALDOR [20 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**MAN, ROHAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -606,7 +622,8 @@ Aldor must re-roll failed To Hit and To Wound rolls with his [bow][Bow].
 <div class="unitCard" markdown>
 
 ### HALETH [30 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**MAN, ROHAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -639,7 +656,8 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 <div class="unitCard" markdown>
 
 ### MERIADOC BRANDYBUCK [25 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**HOBBIT, ROHAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -674,7 +692,8 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 <div class="unitCard" markdown>
 
 ### RIDER OF ROHAN [14 POINTS]
-*WARRIOR*
+
+**MAN, ROHAN, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -711,7 +730,8 @@ If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 b
 <div class="unitCard" markdown>
 
 ### ROHAN OUTRIDER [8 POINTS]
-*WARRIOR*
+
+**MAN, ROHAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -743,7 +763,8 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 <div class="unitCard" markdown>
 
 ### ROHAN ROYAL GUARD [10 POINTS]
-*WARRIOR*
+
+**MAN, ROHAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -778,7 +799,8 @@ If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 b
 <div class="unitCard" markdown>
 
 ### SON OF EORL [20 POINTS]
-*WARRIOR*
+
+**MAN, ROHAN, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -810,7 +832,8 @@ Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
 <div class="unitCard" markdown>
 
 ### WARRIOR OF ROHAN [6 POINTS]
-*WARRIOR*
+
+**MAN, ROHAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

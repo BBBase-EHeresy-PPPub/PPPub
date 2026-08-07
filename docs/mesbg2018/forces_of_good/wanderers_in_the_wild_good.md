@@ -7,7 +7,8 @@ This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatle
 <div class="unitCard" markdown>
 
 ### GRIMBEORN [200 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+
+**MAN, BEORNING, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -39,6 +40,42 @@ To change Grimbeorn's form, you may roll a D6 at the start of Beorn's Move. On a
 
 Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or [Stand Fast!]
 
+---
+
+**Grimbeorn the Bear**
+
+**BEAR, MONSTER, HERO - HERO OF VALOUR**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8" | 7/4+ | 8 | 8 | 3 | 3 | 6 |
+
+**HEROIC ACTIONS**
+
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
+
+**SPECIAL RULES**
+
+- [Burly]
+- [Fearless]
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
+
+- **Skin-changer** `ACTIVE`
+
+To change Grimbeorn's form, you may roll a D6 at the start of his Move. On a 4+, Grimbeorn transforms into a man. Might may be used to influence this roll. Grimbeorn may then continue his move as normal, including making Charges. Grimbeorn cannot change form if an enemy model is in base contact with him.
+
+- **Leader of the Beornings** `PASSIVE`
+
+Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or [Stand Fast!]
+
+- **Crushing Strength** `BRUTAL POWER ATTACK`
+
+If Grimbeorn wins a Duel, instead of striking as normal, choose a single model in the Fight to suffer a Strength 10 hit. If the To Wound roll is successful, the target suffers another Strength 10 hit, and so on, until the target is dead or Grimbeorn fails to wound his victim.
+
 </div>
 
 ---
@@ -46,7 +83,8 @@ Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or [Sta
 <div class="unitCard" markdown>
 
 ### MURIN & DRAR [140 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -59,7 +97,8 @@ Only Bear or Beorning models may benefit from Grimbeorn's Heroic Actions or [Sta
 <div class="unitCard" markdown>
 
 ### BARLIMAN BUTTERBUR [40 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -91,7 +130,8 @@ During his Move, if Barliman Butterbur is in base contact with a friendly Hero, 
 <div class="unitCard" markdown>
 
 ### HARRY GOATLEAF [40 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -121,7 +161,8 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 <div class="unitCard" markdown>
 
 ### GOLDBERRY [140 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**SPIRIT, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -154,7 +195,8 @@ Goldberry loses a point of Will at the end of any turn where she participated in
 <div class="unitCard" markdown>
 
 ### THRAIN THE BROKEN (GOOD) [10 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**DWARF, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -177,7 +219,8 @@ At the start of every Priority phase before rolling, Thrain must take an unmodif
 <div class="unitCard" markdown>
 
 ### TOM BOMBADIL [160 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**SPIRIT, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -213,7 +256,8 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 <div class="unitCard" markdown>
 
 ### BEORNING [20 POINTS]
-*WARRIOR, UNIQUE*
+
+**MAN, BEORNING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

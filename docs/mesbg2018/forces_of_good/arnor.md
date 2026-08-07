@@ -11,7 +11,8 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 <div class="unitCard" markdown>
 
 ### ARANARTH [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ARNOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +45,8 @@ If your force includes Aranarth, you may include Ranger of the North and Dunedai
 <div class="unitCard" markdown>
 
 ### ARVEDUI, LAST KING OF ARNOR [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ARNOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -76,7 +78,8 @@ Arvedui's [Stand Fast!] Is 12", rather than 6".
 <div class="unitCard" markdown>
 
 ### ARGADIR [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ARNOR, CAVALRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -108,7 +111,8 @@ Arvedui's [Stand Fast!] Is 12", rather than 6".
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF ARNOR [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, ARNOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -140,7 +144,8 @@ Arvedui's [Stand Fast!] Is 12", rather than 6".
 <div class="unitCard" markdown>
 
 ### MALBETH THE SEER [70 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, ARNOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -167,7 +172,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### DUNEDAIN [25 POINTS]
-*INDEPENDENT HERO*
+
+**MAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -194,7 +200,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### RANGER OF THE NORTH [30 POINTS]
-*INDEPENDENT HERO*
+
+**MAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -225,7 +232,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### HOBBIT ARCHER [5 POINTS]
-*WARRIOR*
+
+**HOBBIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -253,7 +261,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### KNIGHT OF ARNOR [14 POINTS]
-*WARRIOR*
+
+**MAN, ARNOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -282,7 +291,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### RANGER OF ARNOR [8 POINTS]
-*WARRIOR*
+
+**MAN, ARNOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -306,7 +316,8 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 <div class="unitCard" markdown>
 
 ### WARRIOR OF ARNOR [8 POINTS]
-*WARRIOR*
+
+**MAN, ARNOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

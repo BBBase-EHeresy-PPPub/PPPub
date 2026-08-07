@@ -11,7 +11,8 @@ This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The
 <div class="unitCard" markdown>
 
 ### THE NECROMANCER OF DOL GULDUR [250 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**SPIRIT, DOL GULDUR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -62,7 +63,8 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -105,7 +107,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -148,7 +151,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE ABYSSAL KNIGHT [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -191,7 +195,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE DARK HEADSMAN [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -234,7 +239,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE FORSAKEN [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -277,7 +283,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE LINGERING SHADOW [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -320,7 +327,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -363,7 +371,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE SLAYER OF MEN [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -406,7 +415,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, DOL GULDUR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -449,7 +459,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -481,7 +492,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 <div class="unitCard" markdown>
 
 ### HUNTER ORC CAPTAIN [45 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -516,7 +528,8 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 <div class="unitCard" markdown>
 
 ### THE KEEPER OF THE DUNGEONS [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, DOL GULDUR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -553,7 +566,8 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 <div class="unitCard" markdown>
 
 ### CASTELLAN OF DOL GULDUR [40 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**SPIRIT, DOL GULDUR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -595,7 +609,8 @@ Castellans may use Will points as Fate points if they wish.
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -616,7 +631,8 @@ Castellans may use Will points as Fate points if they wish.
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [8 POINTS]
-*WARRIOR*
+
+**ORC, GUNDABAD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -646,7 +662,8 @@ Castellans may use Will points as Fate points if they wish.
 <div class="unitCard" markdown>
 
 ### HUNTER ORC [8 POINTS]
-*WARRIOR*
+
+**ORC, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -679,7 +696,8 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

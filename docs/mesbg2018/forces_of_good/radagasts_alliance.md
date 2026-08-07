@@ -11,7 +11,8 @@ This army may include: Radagast the Brown; Beorn; Gwaihir; Great Eagle.
 <div class="unitCard" markdown>
 
 ### RADAGAST THE BROWN [150 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -66,7 +67,8 @@ Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move t
 <div class="unitCard" markdown>
 
 ### BEORN [200 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -93,6 +95,42 @@ Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move t
 
 To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+, Beorn transforms into a bear. Might may be used to influence this roll. Beorn may then continue his move as normal, including making Charges. Beorn cannot change form if an enemy model is in base contact with him.
 
+---
+
+**Beorn the Bear**
+
+**BEAR, MONSTER, HERO - HERO OF VALOUR**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8" | 8/4+ | 8 | 8 | 3 | 3 | 6 |
+
+**HEROIC ACTIONS**
+
+- [Heroic Strength]
+- [Heroic Strike]
+- [Heroic Defence]
+
+**SPECIAL RULES**
+
+- [Burly]
+- [Fearless]
+- [Resistant to Magic]
+- [Terror]
+- [Woodland Creature]
+
+- **Skin-changer** `ACTIVE`
+
+To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+, Beorn transforms into a man. Might may be used to influence this roll. Beorn may then continue his move as normal, including making Charges. Beorn cannot change form if an enemy model is in base contact with him.
+
+- **Berserk** `PASSIVE`
+
+Beorn the Bear must always Charge an enemy if able. Additionally, he may not use the [Stand Fast!] or Heroic Actions of other models, and other models may not use his own, whilst in bear form.
+
+- **Crushing Strength** `BRUTAL POWER ATTACK`
+
+If Beorn wins a Duel, instead of striking as normal, choose a single model in the Fight to suffer a Strength 10 hit. If the To Wound roll is successful, the target suffers another Strength 10 hit, and so on, until the target is dead or Beorn fails to wound his victim.
+
 </div>
 
 ---
@@ -100,7 +138,8 @@ To change Beorn's form, you may roll a D6 at the start of Beorn's Move. On a 4+,
 <div class="unitCard" markdown>
 
 ### GWAIHIR [150 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**EAGLE, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -135,7 +174,8 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 <div class="unitCard" markdown>
 
 ### GREAT EAGLE [100 POINTS]
-*WARRIOR*
+
+**EAGLE, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

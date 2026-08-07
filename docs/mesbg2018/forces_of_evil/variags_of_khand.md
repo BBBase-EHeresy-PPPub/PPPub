@@ -11,7 +11,8 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 <div class="unitCard" markdown>
 
 ### KHANDISH KING [95 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+
+**MAN, KHANDISH, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +48,8 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 <div class="unitCard" markdown>
 
 ### KHANDISH CHIEFTAIN [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, KHANDISH, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -79,7 +81,8 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 <div class="unitCard" markdown>
 
 ### KHANDISH CHARIOTEER [30 POINTS]
-*WARRIOR*
+
+**MAN, KHANDISH, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -122,7 +125,8 @@ See page 189 of Armies of LOTR.
 <div class="unitCard" markdown>
 
 ### KHANDISH HORSEMAN [13 POINTS]
-*WARRIOR*
+
+**MAN, KHANDISH, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -147,7 +151,8 @@ See page 189 of Armies of LOTR.
 <div class="unitCard" markdown>
 
 ### KHANDISH WARRIOR [8 POINTS]
-*WARRIOR*
+
+**MAN, KHANDISH, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

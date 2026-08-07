@@ -11,7 +11,8 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 <div class="unitCard" markdown>
 
 ### THE SPIDER QUEEN [115 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIDER, MIRKWOOD, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +45,8 @@ During any point of her Move phase, the Spider Queen may spend any number of Wil
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**BAT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -69,7 +71,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -90,7 +93,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### GIANT SPIDER [20 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -113,7 +117,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -142,7 +147,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
-*WARRIOR*
+
+**BAT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -167,7 +173,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -188,7 +195,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### GIANT SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -211,7 +219,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

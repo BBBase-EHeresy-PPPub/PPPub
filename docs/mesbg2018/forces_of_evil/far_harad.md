@@ -11,7 +11,8 @@ This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War
 <div class="unitCard" markdown>
 
 ### THE MUMAK WAR LEADER [400 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, MAHUD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,6 +56,9 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 <div class="unitCard" markdown>
 
 ### MAHUD KING [70 POINTS]
+
+**MAN, MAHUD, INFANTRY, HERO - HERO OF VALOUR**
+
 *<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -85,7 +89,8 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 <div class="unitCard" markdown>
 
 ### MAHUD TRIBESMASTER [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, MAHUD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -116,7 +121,8 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF FAR HARAD [300 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MUMAK, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -156,7 +162,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### HALF TROLL [23 POINTS]
-*WARRIOR*
+
+**MAN, MAHUD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -183,7 +190,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### MAHUD RAIDER [17 POINTS]
-*WARRIOR*
+
+**MAN, MAHUD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -210,7 +218,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### MAHUD WARRIOR [8 POINTS]
-*WARRIOR*
+
+**MAN, MAHUD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

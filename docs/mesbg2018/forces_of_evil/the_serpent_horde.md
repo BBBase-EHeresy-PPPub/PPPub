@@ -11,7 +11,8 @@ This army may include: Suladan; Haradrim King; The Betrayer; The Golden King; Ha
 <div class="unitCard" markdown>
 
 ### SULADAN [100 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -54,6 +55,9 @@ Suladan's [Stand Fast!] is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### HARADRIM KING [60 POINTS]
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF VALOUR**
+
 *<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -88,7 +92,8 @@ Suladan's [Stand Fast!] is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, HARADRIM, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -138,7 +143,8 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 <div class="unitCard" markdown>
 
 ### THE GOLDEN KING [130 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -172,7 +178,8 @@ This throne is a [banner][Banner], and the King does not suffer the normal -1 pe
 <div class="unitCard" markdown>
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -205,7 +212,8 @@ This throne is a [banner][Banner], and the King does not suffer the normal -1 pe
 <div class="unitCard" markdown>
 
 ### HARADRIM TASKMASTER [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -238,7 +246,8 @@ Each time a friendly Hero model within 6" (including himself) attempts a [Heroic
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -275,7 +284,8 @@ A Hasharin can never be trapped while still standing.
 <div class="unitCard" markdown>
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -307,7 +317,8 @@ At the start of the game, secretly select one Hero model in the opponent's force
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [275 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MUMAK, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -348,7 +359,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### ABRAKHAN MERCHANT GUARD [9 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -373,7 +385,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### HARADRIM RAIDER [11 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -399,7 +412,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### HARADRIM WARRIOR [6 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -425,7 +439,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### SERPENT GUARD [8 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -451,7 +466,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### SERPENT RIDER [13 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -478,7 +494,8 @@ Inflicts three Strength 9 hits.
 <div class="unitCard" markdown>
 
 ### WATCHER OF KARNA [9 POINTS]
-*WARRIOR*
+
+**MAN, HARADRIM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

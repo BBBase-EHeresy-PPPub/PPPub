@@ -11,7 +11,8 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 <div class="unitCard" markdown>
 
 ### DALAMYR, FLEETMASTER OF UMBAR [90 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, CORSAIR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -48,7 +49,8 @@ Dalamyr can never be Trapped whilst still standing.
 <div class="unitCard" markdown>
 
 ### DELGAMAR, GATEMASTER OF UMBAR [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, CORSAIR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +80,8 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+
+**MAN, HARADRIM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -115,7 +118,8 @@ A Hasharin can never be trapped while still standing.
 <div class="unitCard" markdown>
 
 ### THE KNIGHT OF UMBAR [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -168,7 +172,8 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -202,7 +207,8 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 <div class="unitCard" markdown>
 
 ### CORSAIR BO'SUN [45 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, CORSAIR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -239,7 +245,8 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 <div class="unitCard" markdown>
 
 ### CORSAIR CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, CORSAIR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -271,7 +278,8 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN [9 POINTS]
-*WARRIOR*
+
+**MAN, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -300,7 +308,8 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 <div class="unitCard" markdown>
 
 ### CORSAIR ARBALESTER [10 POINTS]
-*WARRIOR*
+
+**MAN, CORSAIR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -329,7 +338,8 @@ Giant wooden [shield][Shield] that provides +3 Defence, so long as the model is 
 <div class="unitCard" markdown>
 
 ### CORSAIR REAVER [9 POINTS]
-*WARRIOR*
+
+**MAN, CORSAIR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -356,7 +366,8 @@ If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must tak
 <div class="unitCard" markdown>
 
 ### CORSAIR OF UMBAR [7 POINTS]
-*WARRIOR*
+
+**MAN, CORSAIR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

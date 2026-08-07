@@ -15,7 +15,8 @@ A White Council army may only include a single warband. Unlike the usual model l
 <div class="unitCard" markdown>
 
 ### SARUMAN THE WHITE [170 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -65,7 +66,8 @@ Can re-roll one dice when making Casting or Resist tests.
 <div class="unitCard" markdown>
 
 ### CELEBORN [130 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -115,7 +117,8 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### ELROND [170 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -173,7 +176,8 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -225,7 +229,8 @@ Gandalf may re-roll his dice when making fate rolls.
 <div class="unitCard" markdown>
 
 ### GLORFINDEL [145 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -273,7 +278,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### RADAGAST THE BROWN [150 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -328,7 +334,8 @@ Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move t
 <div class="unitCard" markdown>
 
 ### GALADRIEL, LADY OF LIGHT [130 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, LORIEN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

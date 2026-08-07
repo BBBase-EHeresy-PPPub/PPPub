@@ -13,7 +13,8 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 <div class="unitCard" markdown>
 
 ### THORIN OAKENSHIELD, KING UNDER THE MOUNTAIN [115 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -57,7 +58,8 @@ May call a free [Heroic Combat] every Fight phase.
 <div class="unitCard" markdown>
 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -88,7 +90,8 @@ In Priority phase, Balin may spend a Will point to enable his side to re-roll th
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, LORD OF THE IRON HILLS [140 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -139,7 +142,8 @@ If Dain wins a Duel but fails to slay his opponent, select one enemy Man-sized (
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [115 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -181,7 +185,8 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 <div class="unitCard" markdown>
 
 ### IRON HILLS CHARIOT (CHAMPIONS OF EREBOR) [500 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, IRON HILLS, WARRIOR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -231,7 +236,8 @@ See page 34 of Hobbit Armies book
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -261,7 +267,8 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -292,7 +299,8 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 <div class="unitCard" markdown>
 
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -330,7 +338,8 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -365,7 +374,8 @@ Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 <div class="unitCard" markdown>
 
 ### FILI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -404,7 +414,8 @@ This model counts as being in range of a [banner][Banner] if they are within 6" 
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF, CHAMPION OF EREBOR [90 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -439,7 +450,8 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 <div class="unitCard" markdown>
 
 ### IRON HILLS CAPTAIN [80 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -474,7 +486,8 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 <div class="unitCard" markdown>
 
 ### KILI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -514,7 +527,8 @@ This model counts as being in range of a [banner][Banner] if they are within 6" 
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF, CHAMPION OF EREBOR [80 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -550,7 +564,8 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 <div class="unitCard" markdown>
 
 ### OIN THE DWARF, CHAMPION OF EREBOR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -585,7 +600,8 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 <div class="unitCard" markdown>
 
 ### ORI THE DWARF, CHAMPION OF EREBOR [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -617,7 +633,8 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 <div class="unitCard" markdown>
 
 ### IRON HILLS DWARF [11 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -652,7 +669,8 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 <div class="unitCard" markdown>
 
 ### IRON HILLS GOAT RIDER [20 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

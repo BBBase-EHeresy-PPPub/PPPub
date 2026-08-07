@@ -11,7 +11,8 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 <div class="unitCard" markdown>
 
 ### THRANDUIL [100 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -63,7 +64,8 @@ If he has Infantry keyword, gain +1 Attack. Receive additional attack for each e
 <div class="unitCard" markdown>
 
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [95 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -105,7 +107,8 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 <div class="unitCard" markdown>
 
 ### MIRKWOOD CAPTAIN [75 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -139,7 +142,8 @@ A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER CAPTAIN [75 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -174,7 +178,8 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 <div class="unitCard" markdown>
 
 ### PALACE GUARD CAPTAIN [75 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -210,7 +215,8 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 <div class="unitCard" markdown>
 
 ### TAURIEL [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -252,7 +258,8 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 <div class="unitCard" markdown>
 
 ### MIRKWOOD CAVALRY [16 POINTS]
-*WARRIOR*
+
+**ELF, MIRKWOOD, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -286,7 +293,8 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a [banner][Banner] i
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF [9 POINTS]
-*WARRIOR*
+
+**ELF, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -320,7 +328,8 @@ A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER [14 POINTS]
-*WARRIOR*
+
+**ELF, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -352,7 +361,8 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 <div class="unitCard" markdown>
 
 ### PALACE GUARD [12 POINTS]
-*WARRIOR*
+
+**ELF, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -387,7 +397,8 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 <div class="unitCard" markdown>
 
 ### WOOD ELF SENTINEL [25 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

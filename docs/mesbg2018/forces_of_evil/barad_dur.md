@@ -11,7 +11,8 @@ This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Tro
 <div class="unitCard" markdown>
 
 ### SAURON [400 POINTS]
-*HERO OF LEGEND, UNIQUE, 24 WARBAND*
+
+**SPIRIT, MORDOR, MONSTER, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -74,7 +75,8 @@ Single strike against one model. If they survive, they are [Set Ablaze].
 <div class="unitCard" markdown>
 
 ### WITCH KING [70 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -138,7 +140,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -172,7 +175,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN [140 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**TROLL, MORDOR, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -204,7 +208,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### ORC CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -233,7 +238,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### ORC TASKMASTER [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -266,7 +272,8 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -320,7 +327,8 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 <div class="unitCard" markdown>
 
 ### ORC SHAMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -355,7 +363,8 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 <div class="unitCard" markdown>
 
 ### ORC DRUMMER [30 POINTS]
-*INDEPENDENT HERO*
+
+**ORC, MORDOR, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -378,7 +387,8 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 <div class="unitCard" markdown>
 
 ### SHELOB [90 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**SPIDER, MORDOR, MONSTER, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -413,7 +423,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN [9 POINTS]
-*WARRIOR*
+
+**MAN, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -442,7 +453,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL [100 POINTS]
-*WARRIOR*
+
+**TROLL, MORDOR, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -470,7 +482,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### MORGUL KNIGHT [18 POINTS]
-*WARRIOR*
+
+**MAN, MORDOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -501,7 +514,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### ORC TRACKER [5 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -524,7 +538,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### ORC WARRIOR [5 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -551,7 +566,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### WARG RIDER [11 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -580,7 +596,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### MORDOR SIEGE BOW [50 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|
@@ -619,7 +636,8 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 <div class="unitCard" markdown>
 
 ### MORDOR WAR CATAPULT [160 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

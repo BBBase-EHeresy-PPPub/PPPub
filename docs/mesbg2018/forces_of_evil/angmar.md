@@ -11,7 +11,8 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 <div class="unitCard" markdown>
 
 ### WITCH KING [70 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -75,7 +76,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### ALDRAC [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, ANGMAR, CARN DUM, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -111,7 +113,8 @@ If Aldrac slays an enemy model in combat, then he may declare a free [Heroic Com
 <div class="unitCard" markdown>
 
 ### BUHRDUR [110 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**TROLL, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -143,7 +146,8 @@ In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc 
 <div class="unitCard" markdown>
 
 ### GULAVHAR [200 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, ANGMAR, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -181,7 +185,8 @@ Attack and Courage value are equal to remaining wounds.
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -231,7 +236,8 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 <div class="unitCard" markdown>
 
 ### THE TAINTED [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -285,7 +291,8 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -314,7 +321,8 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 <div class="unitCard" markdown>
 
 ### BARROW-WIGHT [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -347,7 +355,8 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF CARN DUM [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, ANGMAR, CARN DUM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -380,7 +389,8 @@ If this model is in combat with an enemy hero model (but not if they are support
 <div class="unitCard" markdown>
 
 ### FRAECHT [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, CARN DUM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -403,7 +413,8 @@ If this model is in combat with an enemy hero model (but not if they are support
 <div class="unitCard" markdown>
 
 ### GOLFIMBUL [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -436,7 +447,8 @@ When Golfimbul suffers a wound, roll a D6. On a 5+, the Wound is ignored. This c
 <div class="unitCard" markdown>
 
 ### NAZTHAK [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -464,7 +476,8 @@ Whenever Nazthak kills an enemy model in combat (except for Monsters), he may sc
 <div class="unitCard" markdown>
 
 ### SHADE [75 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -502,7 +515,8 @@ Friendly Angmar Orc models within 12" of one or more friendly Shades add +1 to t
 <div class="unitCard" markdown>
 
 ### THE SHADOW OF RHUDAUR [80 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**SPIRIT, ANGMAR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -546,7 +560,8 @@ If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled ver
 <div class="unitCard" markdown>
 
 ### WILD WARG CHIEFTAIN [80 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**WARG, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -576,7 +591,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC SHAMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**ORC, ANGMAR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -613,7 +629,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 <div class="unitCard" markdown>
 
 ### ANGMAR ORC WARRIOR [5 POINTS]
-*WARRIOR*
+
+**ORC, ANGMAR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -640,7 +657,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 <div class="unitCard" markdown>
 
 ### ANGMAR WARG RIDER [11 POINTS]
-*WARRIOR*
+
+**ORC, ANGMAR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -667,7 +685,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 <div class="unitCard" markdown>
 
 ### CAVE TROLL [75 POINTS]
-*WARRIOR*
+
+**TROLL, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -700,7 +719,8 @@ A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 <div class="unitCard" markdown>
 
 ### DEAD MARSH SPECTRE [15 POINTS]
-*WARRIOR*
+
+**SPIRIT, ANGMAR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -731,7 +751,8 @@ During its move, a spectre can choose an enemy model within 12" and in Line of S
 <div class="unitCard" markdown>
 
 ### HILL TROLL [75 POINTS]
-*WARRIOR*
+
+**TROLL, ANGMAR, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -765,7 +786,8 @@ May re-roll a single D6 in the Duel roll when fighting solely against infantry m
 <div class="unitCard" markdown>
 
 ### WARRIOR OF CARN DUM [9 POINTS]
-*WARRIOR*
+
+**MAN, ANGMAR, CARN DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -796,7 +818,8 @@ If this model is in combat with an enemy hero model (but not if they are support
 <div class="unitCard" markdown>
 
 ### WEREWOLF [25 POINTS]
-*WARRIOR*
+
+**SPIRIT, ANGMAR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -822,7 +845,8 @@ When a werewolf charges an enemy Infantry model, they gain the Knock to Ground s
 <div class="unitCard" markdown>
 
 ### WILD WARG [7 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

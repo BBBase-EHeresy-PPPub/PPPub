@@ -11,7 +11,8 @@ This army may include: Elendil; Isildur; Captain of Numenor; Warrior of Numenor.
 <div class="unitCard" markdown>
 
 ### ELENDIL [185 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, NUMENOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +56,8 @@ Elendil's [Stand Fast!] Is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### ISILDUR [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, NUMENOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -96,7 +98,8 @@ If your force does not contain Elendil or Anarion, Isildur may carry The Ring
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF NUMENOR [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, NUMENOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -135,7 +138,8 @@ This model gains the [Resistant to Magic] special rule whilst within 6" of Elend
 <div class="unitCard" markdown>
 
 ### WARRIOR OF NUMENOR [8 POINTS]
-*WARRIOR*
+
+**MAN, NUMENOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

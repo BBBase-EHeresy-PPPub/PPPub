@@ -11,7 +11,8 @@ This army may include: Aragorn, Strider; Arathorn; Halbarad; Dunedain; Ranger of
 <div class="unitCard" markdown>
 
 ### ARAGORN, STRIDER [160 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +56,8 @@ Never requires more than a 4 for To Wound rolls.
 <div class="unitCard" markdown>
 
 ### ARATHORN [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -79,7 +81,8 @@ Never requires more than a 4 for To Wound rolls.
 <div class="unitCard" markdown>
 
 ### HALBARAD [70 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -112,7 +115,8 @@ A [banner][Banner] that affects all friendly models within 6", and gain the [Fea
 <div class="unitCard" markdown>
 
 ### DUNEDAIN [25 POINTS]
-*INDEPENDENT HERO*
+
+**MAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -139,7 +143,8 @@ A [banner][Banner] that affects all friendly models within 6", and gain the [Fea
 <div class="unitCard" markdown>
 
 ### RANGER OF THE NORTH [30 POINTS]
-*INDEPENDENT HERO*
+
+**MAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

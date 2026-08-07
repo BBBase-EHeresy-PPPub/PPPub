@@ -11,7 +11,8 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 <div class="unitCard" markdown>
 
 ### SHARKEY AND WORM [60 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**WIZARD AND MAN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -24,7 +25,8 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 <div class="unitCard" markdown>
 
 ### SID BRIARTHORN, RUFFIAN CHIEF [45 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -63,7 +65,8 @@ Never counts as being [unarmed][Unarmed].
 <div class="unitCard" markdown>
 
 ### BILL FERNY [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -93,7 +96,8 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 <div class="unitCard" markdown>
 
 ### HARRY GOATLEAF [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -123,7 +127,8 @@ After Priority has been rolled, Harry may spent a point of Will and choose one e
 <div class="unitCard" markdown>
 
 ### LOTHO SACKVILLE-BAGGINS [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -163,7 +168,8 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 <div class="unitCard" markdown>
 
 ### ROWAN THISTLEWOOD, RUFFIAN ENFORCER [45 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -195,7 +201,8 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 <div class="unitCard" markdown>
 
 ### RUFFIAN [5 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, RUFFIAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -224,7 +231,8 @@ A Ruffian that is Engaged in a Fight that involves one or more Hobbits gains +1 
 <div class="unitCard" markdown>
 
 ### TED SANDYMAN [20 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -252,7 +260,8 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 <div class="unitCard" markdown>
 
 ### HOBBIT MILITIA [4 POINTS]
-*WARRIOR*
+
+**HOBBIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -279,7 +288,8 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 <div class="unitCard" markdown>
 
 ### RUFFIAN [5 POINTS]
-*WARRIOR*
+
+**MAN, RUFFIAN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

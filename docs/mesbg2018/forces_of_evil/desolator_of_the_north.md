@@ -11,7 +11,8 @@ The Desolator of the North army list does not get a special rule - having a mass
 <div class="unitCard" markdown>
 
 ### SMAUG [700 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DRAGON, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -11,7 +11,8 @@ This army may include: Gwaihir; Great Eagle.
 <div class="unitCard" markdown>
 
 ### GWAIHIR [150 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**EAGLE, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -46,7 +47,8 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 <div class="unitCard" markdown>
 
 ### GREAT EAGLE [100 POINTS]
-*WARRIOR*
+
+**EAGLE, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

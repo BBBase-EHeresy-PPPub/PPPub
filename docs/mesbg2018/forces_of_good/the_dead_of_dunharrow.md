@@ -11,7 +11,8 @@ This army may include: The King of the Dead; Herald of the Dead; Rider of the De
 <div class="unitCard" markdown>
 
 ### THE KING OF THE DEAD [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -51,7 +52,8 @@ This model may move over water features as normal ground.
 <div class="unitCard" markdown>
 
 ### HERALD OF THE DEAD [70 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -92,7 +94,8 @@ This model may move over water features as normal ground.
 <div class="unitCard" markdown>
 
 ### RIDER OF THE DEAD [24 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -125,7 +128,8 @@ This model may move over water features as normal ground.
 <div class="unitCard" markdown>
 
 ### WARRIOR OF THE DEAD [14 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -161,7 +165,8 @@ This model may move over water features as normal ground.
 <div class="unitCard" markdown>
 
 ### RIDER OF THE DEAD [24 POINTS]
-*WARRIOR*
+
+**SPIRIT, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -194,7 +199,8 @@ This model may move over water features as normal ground.
 <div class="unitCard" markdown>
 
 ### WARRIOR OF THE DEAD [14 POINTS]
-*WARRIOR*
+
+**SPIRIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

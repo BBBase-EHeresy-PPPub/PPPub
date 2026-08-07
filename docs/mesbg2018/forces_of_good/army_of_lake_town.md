@@ -11,7 +11,8 @@ This army may include: Bard the Bowman; Master of Lake-town; Alfrid the Councill
 <div class="unitCard" markdown>
 
 ### BARD THE BOWMAN [140 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,7 +57,8 @@ Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town
 <div class="unitCard" markdown>
 
 ### MASTER OF LAKE-TOWN [50 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -91,7 +93,8 @@ If your army contains the Master of Lake-town, then he must be your leader, rega
 <div class="unitCard" markdown>
 
 ### ALFRID THE COUNCILLOR [20 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -114,7 +117,8 @@ Alfrid may spend any number of Will points at the start of the Priority phase. F
 <div class="unitCard" markdown>
 
 ### BRAGA, CAPTAIN OF THE GUARD [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -147,7 +151,8 @@ Braga, any Lake-town Guard Captains or Lake-town Guards within 3" of him may not
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN GUARD CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -173,7 +178,8 @@ Braga, any Lake-town Guard Captains or Lake-town Guards within 3" of him may not
 <div class="unitCard" markdown>
 
 ### BAIN, SON OF BARD [40 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -202,7 +208,8 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN GUARD [5 POINTS]
-*WARRIOR*
+
+**MAN, LAKE-TOWN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -11,7 +11,8 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 <div class="unitCard" markdown>
 
 ### AZOG [165 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,7 +57,8 @@ Never requires more than 3+ for To Wound against Hero models.
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -100,7 +102,8 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 <div class="unitCard" markdown>
 
 ### FIMBUL THE HUNTER [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -131,7 +134,8 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 <div class="unitCard" markdown>
 
 ### HUNTER ORC CAPTAIN [45 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -166,7 +170,8 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 <div class="unitCard" markdown>
 
 ### NARZUG [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -205,7 +210,8 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 <div class="unitCard" markdown>
 
 ### YAZNEG [45 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -242,7 +248,8 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -263,7 +270,8 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 <div class="unitCard" markdown>
 
 ### HUNTER ORC [8 POINTS]
-*WARRIOR*
+
+**ORC, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

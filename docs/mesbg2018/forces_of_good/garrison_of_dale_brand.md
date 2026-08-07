@@ -11,7 +11,8 @@ This army may include: Brand, King of Dale; Bard II, Prince of Dale; Captain of 
 <div class="unitCard" markdown>
 
 ### BRAND, KING OF DALE [110 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, DALE, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -46,7 +47,8 @@ At the start of a Fight involving Brand, if he would be Trapped by losing the Du
 <div class="unitCard" markdown>
 
 ### BARD II, PRINCE OF DALE [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, DALE, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +80,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DALE [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, DALE, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -108,7 +111,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DALE [11 POINTS]
-*WARRIOR*
+
+**MAN, DALE, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -138,7 +142,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### WARRIOR OF DALE [7 POINTS]
-*WARRIOR*
+
+**MAN, DALE, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -173,7 +178,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### WINDLANCE [75 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

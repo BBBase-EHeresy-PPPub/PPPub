@@ -7,7 +7,8 @@ This army may include: Thrain the Broken (Evil).
 <div class="unitCard" markdown>
 
 ### THRAIN THE BROKEN (EVIL) [10 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**DWARF, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

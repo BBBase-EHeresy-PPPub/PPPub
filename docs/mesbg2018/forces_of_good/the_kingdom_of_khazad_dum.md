@@ -11,7 +11,8 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 <div class="unitCard" markdown>
 
 ### DURIN [160 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,6 +56,9 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### DWARF KING [75 POINTS]
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF VALOUR**
+
 *<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -84,7 +88,8 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### DWARF CAPTAIN [60 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -113,7 +118,8 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### FLOI STONEHAND [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -141,7 +147,8 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -174,7 +181,8 @@ When two Heralds, or a Herald and the King's Champion are in base contact, both 
 <div class="unitCard" markdown>
 
 ### MARDIN [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -204,7 +212,8 @@ This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin add
 <div class="unitCard" markdown>
 
 ### SHIELDBEARER [60 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**DWARF, KHAZAD-DUM, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -240,7 +249,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### DWARF RANGER [8 POINTS]
-*WARRIOR*
+
+**DWARF, KHAZAD-DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -269,7 +279,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### DWARF WARRIOR [8 POINTS]
-*WARRIOR*
+
+**DWARF, KHAZAD-DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -296,7 +307,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### IRON GUARD [15 POINTS]
-*WARRIOR*
+
+**DWARF, KHAZAD-DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -319,7 +331,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### KHAZAD GUARD [11 POINTS]
-*WARRIOR*
+
+**DWARF, KHAZAD-DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -347,7 +360,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### VAULT WARDEN TEAM [25 POINTS]
-*WARRIOR*
+
+**DWARF, KHAZAD-DUM, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -362,7 +376,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 <div class="unitCard" markdown>
 
 ### DWARF BALLISTA [60 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

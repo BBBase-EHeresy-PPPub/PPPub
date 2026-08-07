@@ -11,7 +11,8 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 <div class="unitCard" markdown>
 
 ### BILL THE TROLL [150 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**TROLL, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -54,7 +55,8 @@ If he wins a Fight, choose one enemy model in the Fight. Both they and Bill roll
 <div class="unitCard" markdown>
 
 ### BERT THE TROLL [130 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**TROLL, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -89,7 +91,8 @@ If he wins a Fight, he may perform this attack as long as he is within 6" of a f
 <div class="unitCard" markdown>
 
 ### TOM THE TROLL [120 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**TROLL, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

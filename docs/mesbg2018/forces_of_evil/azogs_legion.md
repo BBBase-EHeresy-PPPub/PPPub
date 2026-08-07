@@ -11,7 +11,8 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 <div class="unitCard" markdown>
 
 ### AZOG [165 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -52,6 +53,98 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 Never requires more than 3+ for To Wound against Hero models.
 
+---
+
+**The White Warg**
+
+**WARG, INFANTRY, HERO**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10" | 5/5+ | 5 | 5 | 2 | 2 | 4 |
+
+**WARGEAR**
+
+- Claws and teeth
+
+**SPECIAL RULES**
+
+- [Fell Sight]
+- [Terror]
+
+- **Deadly Union** `PASSIVE`
+
+If Azog is mounted upon the White Warg, both models can share each other's Might, Will and Fate points.
+
+- **Pack Master** `PASSIVE`
+
+Once separated from Azog, only Warg models may use the White Warg's [Stand Fast!] and benefit from its Heroic Actions.
+
+- **Raging Beast** `PASSIVE`
+
+When Azog dismounts, the White Warg automatically passes its Courage test to stay and fight, and will pass all Courage tests for the rest of the battle.
+
+---
+
+**Signal Tower**
+
+**CREW**
+
+The tower comes with three banners, a giant horn, and seven of Azog's Lieutenants, who do not count towards Azog's warband.
+
+**DEPLOYMENT**
+
+Before deployment, but after players decide their board edges, the controlling player may place the Signal Tower, with the Lieutenants on it, anywhere on the battlefield.
+
+**SPECIAL RULES**
+
+- **It must always be Manned** `PASSIVE`
+
+For each of the four parts of this tower, a Lieutenant must be in base contact with it for its effects to be enabled.
+
+- **The Banner of Dol Guldur** `PASSIVE`
+
+All friendly Gundabad models count as being in range of a [banner][Banner].
+
+- **The Banner of Gundabad** `PASSIVE`
+
+All friendly Gundabad Hero models gain free [Heroic Marches][Heroic March].
+
+- **The Banner of Angmar** `PASSIVE`
+
+All friendly Gundabad models may roll a D6 when wounded. On a natural 6, the Wound is ignored.
+
+- **The Horn of Gorgoroth** `PASSIVE`
+
+A [War Horn] that also reduces the Courage of all enemy models by 1. This is not cumulative with other rules.
+
+- **Summoning of the Hosts** `PASSIVE`
+
+All friendly Gundabad models count as being in range of a [banner][Banner].
+
+- **Destroying the Signal Tower** `PASSIVE`
+
+Each part of the tower is a Battlefield Target with Defence 10 and 3 Wounds. If an enemy spends a full turn in base contact with a part, without doing anything else, that part is disabled and its effects are lost.
+
+---
+
+**Azog's Lieutenant**
+
+**ORC, GUNDABAD, INFANTRY, HERO**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/5+ | 4 | 5 | 1 | 1 | 4 |
+
+**HEROIC ACTIONS**
+
+- [Heroic March]
+
+**SPECIAL RULES**
+
+- [Ancient Enemies] (Dwarf)
+- [Ancient Enemies] (Elf)
+
 </div>
 
 ---
@@ -59,7 +152,8 @@ Never requires more than 3+ for To Wound against Hero models.
 <div class="unitCard" markdown>
 
 ### BOLG [165 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -103,7 +197,8 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GOBLIN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -141,7 +236,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, GUNDABAD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -175,7 +271,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY [5 POINTS]
-*WARRIOR*
+
+**GOBLIN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -209,7 +306,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 <div class="unitCard" markdown>
 
 ### GUNDABAD BERSERKER [15 POINTS]
-*WARRIOR*
+
+**ORC, GUNDABAD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -241,7 +339,8 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [8 POINTS]
-*WARRIOR*
+
+**ORC, GUNDABAD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -271,7 +370,8 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner
 <div class="unitCard" markdown>
 
 ### GUNDABAD TROLL [120 POINTS]
-*WARRIOR*
+
+**TROLL, GUNDABAD, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -308,7 +408,8 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 <div class="unitCard" markdown>
 
 ### OGRE [60 POINTS]
-*WARRIOR*
+
+**OGRE, GUNDABAD, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -333,7 +434,8 @@ When charging into combat, ogres can pass through friendly Orc, Goblin and Bat m
 <div class="unitCard" markdown>
 
 ### TROLL BRUTE [100 POINTS]
-*WARRIOR*
+
+**TROLL, GUNDABAD, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -359,7 +461,8 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 <div class="unitCard" markdown>
 
 ### WAR BAT [25 POINTS]
-*WARRIOR*
+
+**BAT, GUNDABAD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -390,7 +493,8 @@ At the end of the War Bat's move, [pick][Pick] an unengaged man-sized (or smalle
 <div class="unitCard" markdown>
 
 ### CATAPULT TROLL [180 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**TROLL, GUNDABAD, MONSTER, SIEGE ENGINE, INFANTRY**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -11,7 +11,8 @@ This army may include: Prince Imrahil; Angbor the Fearless; Duinhir; Forlong the
 <div class="unitCard" markdown>
 
 ### PRINCE IMRAHIL [140 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -52,7 +53,8 @@ Friendly Fiefdom models within 12" of Imrahil count as being in range of a [bann
 <div class="unitCard" markdown>
 
 ### ANGBOR THE FEARLESS [65 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -86,7 +88,8 @@ Clansmen of Lamedon within 6" of Angbor gain the [Fearless] special rule.
 <div class="unitCard" markdown>
 
 ### DUINHIR [60 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -123,7 +126,8 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 <div class="unitCard" markdown>
 
 ### FORLONG THE FAT [80 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -157,7 +161,8 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -194,7 +199,8 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 <div class="unitCard" markdown>
 
 ### AXEMAN OF LOSSARNACH [9 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -224,7 +230,8 @@ This weapon can be used as either a [spear][Spear] or [two-handed][Two-Handed] [
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -258,7 +265,8 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 <div class="unitCard" markdown>
 
 ### CLANSMAN OF LAMEDON [8 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -290,7 +298,8 @@ Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range o
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -323,7 +332,8 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 <div class="unitCard" markdown>
 
 ### MAN-AT-ARMS OF DOL AMROTH [9 POINTS]
-*WARRIOR*
+
+**MAN, GONDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

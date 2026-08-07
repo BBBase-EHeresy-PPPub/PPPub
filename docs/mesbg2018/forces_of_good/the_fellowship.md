@@ -11,7 +11,8 @@ This army may include: Gandalf the Grey; Aragorn, Strider; Boromir of Gondor; Gi
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -64,7 +65,8 @@ Gandalf may re-roll his dice when making fate rolls.
 <div class="unitCard" markdown>
 
 ### ARAGORN, STRIDER [160 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -108,7 +110,8 @@ Never requires more than a 4 for To Wound rolls.
 <div class="unitCard" markdown>
 
 ### BOROMIR OF GONDOR [95 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -146,7 +149,8 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 <div class="unitCard" markdown>
 
 ### GIMLI [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -185,7 +189,8 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 <div class="unitCard" markdown>
 
 ### LEGOLAS [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, MIRKWOOD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -226,7 +231,8 @@ If Legolas has fewer kills than Gimli, his shoot value becomes 2+.
 <div class="unitCard" markdown>
 
 ### FRODO BAGGINS [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -267,7 +273,8 @@ An [Elven-made] [dagger][Dagger], Frodo gains +1 Strength when making strikes wi
 <div class="unitCard" markdown>
 
 ### SAMWISE GAMGEE [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -302,7 +309,8 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 <div class="unitCard" markdown>
 
 ### ARWEN [60 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -342,7 +350,8 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 <div class="unitCard" markdown>
 
 ### MERIADOC BRANDYBUCK [10 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -372,7 +381,8 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 <div class="unitCard" markdown>
 
 ### PEREGRIN TOOK [10 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -11,7 +11,8 @@ This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Go
 <div class="unitCard" markdown>
 
 ### SARUMAN [180 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**WIZARD, ISENGARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -60,7 +61,8 @@ Can re-roll one dice when making Casting or Resist tests.
 <div class="unitCard" markdown>
 
 ### LURTZ [90 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -96,7 +98,8 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 <div class="unitCard" markdown>
 
 ### DUNLENDING CHIEFTAIN [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -125,7 +128,8 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 <div class="unitCard" markdown>
 
 ### FRIDA TALLSPEAR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**WOMAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -160,7 +164,8 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 <div class="unitCard" markdown>
 
 ### GORULF IRONSKIN [70 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -191,7 +196,8 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 <div class="unitCard" markdown>
 
 ### MAUHUR [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -214,7 +220,8 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 <div class="unitCard" markdown>
 
 ### ORC CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -243,7 +250,8 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 <div class="unitCard" markdown>
 
 ### SHARKU [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -276,7 +284,8 @@ Whenever an enemy Hero model in base contact resolves a strike against Sharku an
 <div class="unitCard" markdown>
 
 ### SNAGA [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -308,7 +317,8 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 <div class="unitCard" markdown>
 
 ### THRYDAN WOLFSBANE [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, DUNLENDING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -344,7 +354,8 @@ The range of Thrydan's [Stand Fast!] is 12".
 <div class="unitCard" markdown>
 
 ### UGLUK [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -374,7 +385,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 <div class="unitCard" markdown>
 
 ### URUK-HAI CAPTAIN [60 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -403,7 +415,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 <div class="unitCard" markdown>
 
 ### URUK-HAI SCOUT CAPTAIN [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -432,7 +445,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 <div class="unitCard" markdown>
 
 ### VRASKU [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -460,7 +474,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 <div class="unitCard" markdown>
 
 ### WILD MAN OATHMAKER [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, DUNLENDING, ISENGARD, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -494,7 +509,8 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 <div class="unitCard" markdown>
 
 ### URUK-HAI SHAMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -527,7 +543,8 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 <div class="unitCard" markdown>
 
 ### URUK-HAI DRUMMER [35 POINTS]
-*INDEPENDENT HERO*
+
+**URUK-HAI, ISENGARD, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -552,7 +569,8 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 <div class="unitCard" markdown>
 
 ### CREBAIN [20 POINTS]
-*WARRIOR*
+
+**BIRD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -581,7 +599,8 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 <div class="unitCard" markdown>
 
 ### DUNLENDING HORSEMAN [12 POINTS]
-*WARRIOR*
+
+**MAN, DUNLENDING, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -612,7 +631,8 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 <div class="unitCard" markdown>
 
 ### DUNLENDING HUSCARL [11 POINTS]
-*WARRIOR*
+
+**MAN, DUNLENDING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -647,7 +667,8 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 <div class="unitCard" markdown>
 
 ### DUNLENDING WARRIOR [7 POINTS]
-*WARRIOR*
+
+**MAN, DUNLENDING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -673,7 +694,8 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 <div class="unitCard" markdown>
 
 ### FERAL URUK-HAI [13 POINTS]
-*WARRIOR*
+
+**URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -700,7 +722,8 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### ISENGARD TROLL [110 POINTS]
-*WARRIOR*
+
+**TROLL, ISENGARD, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -730,7 +753,8 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### ORC WARRIOR [5 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -757,7 +781,8 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 <div class="unitCard" markdown>
 
 ### URUK-HAI BERSERKER [15 POINTS]
-*WARRIOR*
+
+**URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -788,7 +813,8 @@ The berserkers Defence is 6 against enemy shooting attacks
 <div class="unitCard" markdown>
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
-*WARRIOR*
+
+**URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -811,7 +837,8 @@ See page 178 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### URUK-HAI SCOUT [8 POINTS]
-*WARRIOR*
+
+**URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -837,7 +864,8 @@ See page 178 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### URUK-HAI WARRIOR [9 POINTS]
-*WARRIOR*
+
+**URUK-HAI, ISENGARD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -863,7 +891,8 @@ See page 178 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### WARG RIDER [11 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -890,7 +919,8 @@ See page 178 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### WILD MAN OF DUNLAND [5 POINTS]
-*WARRIOR*
+
+**MAN, DUNLENDING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -918,7 +948,8 @@ See page 178 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### ISENGARD ASSAULT BALLISTA [65 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

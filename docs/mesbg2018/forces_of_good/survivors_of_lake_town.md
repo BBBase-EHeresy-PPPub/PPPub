@@ -11,7 +11,8 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 <div class="unitCard" markdown>
 
 ### BARD THE BOWMAN [140 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,7 +57,8 @@ Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -108,7 +110,8 @@ Gandalf may re-roll his dice when making fate rolls.
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS, MASTER BURGLAR [90 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -150,7 +153,8 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring]'s rules. If 
 <div class="unitCard" markdown>
 
 ### HILDA-BIANCA [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**WOMAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -177,7 +181,8 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN MILITIA CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -205,7 +210,8 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 <div class="unitCard" markdown>
 
 ### PERCY [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -233,7 +239,8 @@ Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, 
 <div class="unitCard" markdown>
 
 ### BAIN, SON OF BARD [40 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -260,7 +267,8 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 <div class="unitCard" markdown>
 
 ### ALFRID THE COUNCILLOR [20 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**MAN, LAKE-TOWN, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -285,7 +293,8 @@ Alfrid may spend any number of Will points at the start of the Priority phase. F
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN MILITIA [5 POINTS]
-*WARRIOR*
+
+**MAN, LAKE-TOWN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -11,7 +11,8 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 <div class="unitCard" markdown>
 
 ### BANDOBRAS TOOK [40 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**HOBBIT, CAVALRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -39,7 +40,8 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 <div class="unitCard" markdown>
 
 ### GANDALF THE GREY [170 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WIZARD, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -92,7 +94,8 @@ Gandalf may re-roll his dice when making fate rolls.
 <div class="unitCard" markdown>
 
 ### MERIADOC, CAPTAIN OF THE SHIRE [45 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -132,7 +135,8 @@ Whilst carrying the horn, all Hobbit models gain +1 Courage. If Merry is slain, 
 <div class="unitCard" markdown>
 
 ### PEREGRIN, CAPTAIN OF THE SHIRE [45 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -171,7 +175,8 @@ Pippin may re-roll any failed To Wound rolls when striking against Monster or He
 <div class="unitCard" markdown>
 
 ### BALDO TULPENNY [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -205,7 +210,8 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [40 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -237,7 +243,8 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 <div class="unitCard" markdown>
 
 ### FARMER MAGGOT [45 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -257,6 +264,20 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf are automatically the first three members of Farmer Maggot's warband. They will always use his Courage value while he is alive.
 
+---
+
+**Grip, Fang and Wolf**
+
+**DOG, INFANTRY, WARRIOR**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8" | 3/4+ | 3 | 3 | 1 | 1 | 3 |
+
+**WARGEAR**
+
+- Claws and teeth
+
 </div>
 
 ---
@@ -264,7 +285,8 @@ Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf
 <div class="unitCard" markdown>
 
 ### FARMER TOLMAN COTTON [35 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -299,7 +321,8 @@ Farmer Cotton and Hobbit models within 3" may re-roll 1s when rolling to win a D
 <div class="unitCard" markdown>
 
 ### FRODO OF THE NINE FINGERS [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -343,7 +366,8 @@ All Hobbit models within 6" count as being in range of a [banner][Banner]
 <div class="unitCard" markdown>
 
 ### HAMFAST 'GAFFER' GAMGEE [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -369,7 +393,8 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 <div class="unitCard" markdown>
 
 ### HOLFOOT BRACEGIRDLE [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -399,7 +424,8 @@ Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do 
 <div class="unitCard" markdown>
 
 ### LOTHO SACKVILLE-BAGGINS [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -439,7 +465,8 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 <div class="unitCard" markdown>
 
 ### PALADIN TOOK [25 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -469,7 +496,8 @@ Paladin's [Stand Fast!] Only affects Hobbit models and has a range of 12".
 <div class="unitCard" markdown>
 
 ### ROBIN SMALLBURROW [20 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -499,7 +527,8 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 <div class="unitCard" markdown>
 
 ### SAMWISE THE BRAVE [45 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -535,7 +564,8 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 <div class="unitCard" markdown>
 
 ### WILL WHITFOOT [30 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -565,7 +595,8 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 <div class="unitCard" markdown>
 
 ### DUNEDAIN [25 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**MAN, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -592,7 +623,8 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 <div class="unitCard" markdown>
 
 ### FOLCO BOFFIN [20 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -618,7 +650,8 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 <div class="unitCard" markdown>
 
 ### FREDEGAR BOLGER [10 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -640,7 +673,8 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 <div class="unitCard" markdown>
 
 ### LOBELIA SACKVILLE-BAGGINS [15 POINTS]
-*MINOR HERO, UNIQUE, 6 WARBAND*
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -670,7 +704,8 @@ Lobelia will never make Strikes if she wins a Fight.
 <div class="unitCard" markdown>
 
 ### ROSIE COTTON [15 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**HOBBIT, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -698,7 +733,8 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 <div class="unitCard" markdown>
 
 ### HOBBIT ARCHER [5 POINTS]
-*WARRIOR*
+
+**HOBBIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -727,7 +763,8 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 <div class="unitCard" markdown>
 
 ### HOBBIT MILITIA [4 POINTS]
-*WARRIOR*
+
+**HOBBIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -755,7 +792,8 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 <div class="unitCard" markdown>
 
 ### HOBBIT SHIRRIFF [5 POINTS]
-*WARRIOR*
+
+**HOBBIT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

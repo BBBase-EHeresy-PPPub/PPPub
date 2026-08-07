@@ -11,7 +11,8 @@ This army may include: Treebeard; Beechbone; Quickbeam; Ent.
 <div class="unitCard" markdown>
 
 ### TREEBEARD [190 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ENT, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -45,6 +46,52 @@ Can ride as passengers and not be targeted by enemy attacks and shooting. May us
 
 Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the bludgeon is slain, you may keep repeating this until the bludgeon is not slain (in which case
 
+---
+
+**Meriadoc Brandybuck**
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4" | 3/3+ | 2 | 3 | 1 | 1 | 4 |
+
+**WARGEAR**
+
+- [Dagger]
+
+**SPECIAL RULES**
+
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
+
+- **For the Shire!** `ACTIVE`
+
+If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as if they were his own.
+
+---
+
+**Peregrin Took**
+
+**HOBBIT, INFANTRY, HERO - MINOR HERO**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4" | 3/3+ | 2 | 3 | 1 | 1 | 4 |
+
+**WARGEAR**
+
+- [Dagger]
+
+**SPECIAL RULES**
+
+- [Resistant to Magic]
+- [Throw Stones] (range 8", Strength 1)
+
+- **For the Shire!** `ACTIVE`
+
+If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as if they were his own.
+
 </div>
 
 ---
@@ -52,7 +99,8 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 <div class="unitCard" markdown>
 
 ### BEECHBONE [160 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ENT, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -88,7 +136,8 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 <div class="unitCard" markdown>
 
 ### QUICKBEAM [140 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ENT, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -121,7 +170,8 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 <div class="unitCard" markdown>
 
 ### ENT [120 POINTS]
-*WARRIOR*
+
+**ENT, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

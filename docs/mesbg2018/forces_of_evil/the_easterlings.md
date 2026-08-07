@@ -11,7 +11,8 @@ This army may include: The Dragon Emperor; Amdur; <span style="color: darkmagent
 <div class="unitCard" markdown>
 
 ### THE DRAGON EMPEROR [<span style="color: darkmagenta">200</span> POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -49,6 +50,36 @@ The Emperor is [Resistant to Magic].
 
 Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
+---
+
+**Royal Palanquin**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6" | 4/4+ | 3 | 6 | * | 6 | 4 |
+
+**SPECIAL RULES**
+
+- **Standards of the Emperor** `PASSIVE`
+
+The Royal Palanquin is a [banner][Banner] with a range of 12". The Dragon Emperor and Black Dragons do not suffer the -1 penalty to their Duel rolls.
+
+- **In the Name of the Dragon Emperor** `PASSIVE`
+
+Friendly Easterling Warrior models within 6" of the Royal Palanquin, and with Line of Sight to it, gain +1 to their Fight value.
+
+- **Black Dragons**
+
+If the Dragon Emperor wins a Fight, the Black Dragons can contribute a number of Strikes equal to the remaining Wounds of the Royal Palanquin. If the Dragon Emperor is slain or dismounts, replace the Royal Palanquin with a number of Black Dragons equal to its remaining Wounds.
+
+- **Movement**
+
+| Remaining Wounds | Move |
+|:---:|:---:|
+| 3+ | 6" |
+| 2 | 3" |
+| 1 | 0" |
+
 </div>
 
 ---
@@ -56,7 +87,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 <div class="unitCard" markdown>
 
 ### AMDUR [130 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -102,7 +134,8 @@ All Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enem
 <div class="unitCard" markdown>
 
 ### KHAMUL [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, EASTERLING, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -154,7 +187,8 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 <div class="unitCard" markdown>
 
 ### RUTABI [110 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**WOMAN, EASTERLING, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -191,7 +225,8 @@ When making strikes against trapped enemy models, you may re-roll failed To Woun
 <div class="unitCard" markdown>
 
 ### BRORGIR [80 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -228,7 +263,8 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 <div class="unitCard" markdown>
 
 ### EASTERLING CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -267,7 +303,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 <div class="unitCard" markdown>
 
 ### EASTERLING WAR PRIEST [60 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -301,7 +338,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 <div class="unitCard" markdown>
 
 ### EASTERLING DRAGON KNIGHT [65 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**MAN, EASTERLING, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -351,7 +389,8 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 <div class="unitCard" markdown>
 
 ### DRAGON CULT ACOLYTE [11 POINTS]
-*WARRIOR*
+
+**MAN, EASTERLING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -382,7 +421,8 @@ Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automaticall
 <div class="unitCard" markdown>
 
 ### EASTERLING KATAPHRAKT [16 POINTS]
-*WARRIOR*
+
+**MAN, EASTERLING, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -419,7 +459,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 <div class="unitCard" markdown>
 
 ### EASTERLING KATAPHRAKT [14 POINTS]
-*WARRIOR*
+
+**MAN, EASTERLING, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -456,7 +497,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 <div class="unitCard" markdown>
 
 ### EASTERLING WARRIOR [9 POINTS]
-*WARRIOR*
+
+**MAN, EASTERLING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -489,7 +531,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 <div class="unitCard" markdown>
 
 ### EASTERLING WARRIOR [7 POINTS]
-*WARRIOR*
+
+**MAN, EASTERLING, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -522,7 +565,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 <div class="unitCard" markdown>
 
 ### RHUNISH WAR DRAKE [20 POINTS]
-*WARRIOR*
+
+**DRAKE, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

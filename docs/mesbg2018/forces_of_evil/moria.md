@@ -11,7 +11,8 @@ This army may include: The Balrog; Dragon; Durburz; Ashrak; Druzhag; Groblog; Mo
 <div class="unitCard" markdown>
 
 ### THE BALROG [350 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**SPIRIT, MONSTER, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -52,7 +53,8 @@ May call a free [Heroic Combat] each turn.
 <div class="unitCard" markdown>
 
 ### DRAGON [250 POINTS]
-*HERO OF VALOUR, 15 WARBAND*
+
+**DRAGON, MONSTER, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -98,7 +100,8 @@ May call a free [Heroic Combat] each turn.
 <div class="unitCard" markdown>
 
 ### DURBURZ [70 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -130,7 +133,8 @@ Durburz's [Stand Fast!] has a range of 12"
 <div class="unitCard" markdown>
 
 ### ASHRAK [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -175,7 +179,8 @@ Only Spider models may benefit from Ashrak's [Stand Fast!], Heroic Actions, and 
 <div class="unitCard" markdown>
 
 ### DRUZHAG [90 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -213,7 +218,8 @@ Druzhag may include Wild Wargs, Fell Wargs, Giant Spiders and Bat Swarms in his 
 <div class="unitCard" markdown>
 
 ### GROBLOG [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -245,7 +251,8 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD CAPTAIN [45 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -276,7 +283,8 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN CAPTAIN [35 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -308,7 +316,8 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 <div class="unitCard" markdown>
 
 ### CAVE DRAKE [150 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**DRAKE, MONSTER, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -345,7 +354,8 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD SHAMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -378,7 +388,8 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN SHAMAN [45 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**GOBLIN, MORIA, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -411,7 +422,8 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 <div class="unitCard" markdown>
 
 ### THE WATCHER IN THE WATER [200 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**KRAKEN, MONSTER, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -460,7 +472,8 @@ Whilst within water, The Watcher can choose a single Man-sized (or smaller) mode
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
-*WARRIOR*
+
+**BAT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -485,7 +498,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### CAVE TROLL [75 POINTS]
-*WARRIOR*
+
+**TROLL, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -518,7 +532,8 @@ A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 <div class="unitCard" markdown>
 
 ### DWELLER IN THE DARK [75 POINTS]
-*WARRIOR*
+
+**SPIRIT, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -544,7 +559,8 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 <div class="unitCard" markdown>
 
 ### GIANT SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -571,7 +587,8 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD [8 POINTS]
-*WARRIOR*
+
+**GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -600,7 +617,8 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 <div class="unitCard" markdown>
 
 ### MORIA BLACKSHIELD DRUMMERS [75 POINTS]
-*WARRIOR*
+
+**GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -640,7 +658,8 @@ Drum effects found on page 161 of Armies of LOTR book.
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN DRUM [75 POINTS]
-*WARRIOR*
+
+**GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -671,7 +690,8 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN PROWLER [7 POINTS]
-*WARRIOR*
+
+**GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -699,7 +719,8 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN WARRIOR [4 POINTS]
-*WARRIOR*
+
+**GOBLIN, MORIA, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -728,7 +749,8 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 <div class="unitCard" markdown>
 
 ### WARG MARAUDER [30 POINTS]
-*WARRIOR*
+
+**GOBLIN, WARG, MORIA, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -761,7 +783,8 @@ Goblins mounted with Orc bows can still fire even after the [Warg] Marauder has 
 <div class="unitCard" markdown>
 
 ### WILD WARG [7 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

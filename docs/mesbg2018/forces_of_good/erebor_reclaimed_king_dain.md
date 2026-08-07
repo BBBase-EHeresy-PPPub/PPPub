@@ -13,7 +13,8 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 <div class="unitCard" markdown>
 
 ### DAIN IRONFOOT, KING UNDER THE MOUNTAIN [130 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +54,8 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick]
 <div class="unitCard" markdown>
 
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [115 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -91,7 +93,8 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 <div class="unitCard" markdown>
 
 ### THORIN III STONEHELM [110 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -122,7 +125,8 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 <div class="unitCard" markdown>
 
 ### BIFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -153,7 +157,8 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 <div class="unitCard" markdown>
 
 ### BOFUR THE DWARF, CHAMPION OF EREBOR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -183,7 +188,8 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 <div class="unitCard" markdown>
 
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -218,7 +224,8 @@ Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 <div class="unitCard" markdown>
 
 ### GLOIN THE DWARF, CHAMPION OF EREBOR [90 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -253,7 +260,8 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 <div class="unitCard" markdown>
 
 ### IRON HILLS CAPTAIN [80 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, IRON HILLS, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -288,7 +296,8 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 <div class="unitCard" markdown>
 
 ### NORI THE DWARF, CHAMPION OF EREBOR [80 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -326,7 +335,8 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 <div class="unitCard" markdown>
 
 ### IRON HILLS DWARF [11 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -361,7 +371,8 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 <div class="unitCard" markdown>
 
 ### IRON HILLS GOAT RIDER [20 POINTS]
-*WARRIOR*
+
+**DWARF, IRON HILLS, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

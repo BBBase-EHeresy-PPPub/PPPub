@@ -11,7 +11,8 @@ This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebo
 <div class="unitCard" markdown>
 
 ### THROR [120 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +48,8 @@ Once per game, you may re-roll a single Priority roll.
 <div class="unitCard" markdown>
 
 ### THRAIN [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -84,7 +86,8 @@ Thrain re-rolls all failed To Wound rolls against Azog, and any model in the sam
 <div class="unitCard" markdown>
 
 ### YOUNG THORIN OAKENSHIELD [100 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -123,7 +126,8 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF EREBOR [60 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -150,7 +154,8 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER CAPTAIN [70 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -183,7 +188,8 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 <div class="unitCard" markdown>
 
 ### YOUNG BALIN THE DWARF [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -215,7 +221,8 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 <div class="unitCard" markdown>
 
 ### YOUNG DWALIN THE DWARF [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**DWARF, EREBOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -252,7 +259,8 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 <div class="unitCard" markdown>
 
 ### GRIM HAMMER [11 POINTS]
-*WARRIOR*
+
+**DWARF, EREBOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -284,7 +292,8 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 <div class="unitCard" markdown>
 
 ### WARRIOR OF EREBOR [8 POINTS]
-*WARRIOR*
+
+**DWARF, EREBOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

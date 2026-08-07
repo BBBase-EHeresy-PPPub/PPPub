@@ -11,7 +11,8 @@ This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Wa
 <div class="unitCard" markdown>
 
 ### GIRION, LORD OF DALE [75 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, DALE, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -49,7 +50,8 @@ If Girion hits a target with his great [bow][Bow], he may shoot at another targe
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DALE [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, DALE, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -79,7 +81,8 @@ If Girion hits a target with his great [bow][Bow], he may shoot at another targe
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DALE [11 POINTS]
-*WARRIOR*
+
+**MAN, DALE, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -109,7 +112,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### WARRIOR OF DALE [7 POINTS]
-*WARRIOR*
+
+**MAN, DALE, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -138,7 +142,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### WINDLANCE [75 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|

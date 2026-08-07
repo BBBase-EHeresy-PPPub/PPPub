@@ -11,7 +11,8 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 <div class="unitCard" markdown>
 
 ### ELROND [170 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -69,7 +70,8 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 <div class="unitCard" markdown>
 
 ### GIL-GALAD [170 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF LEGEND**
 
 <span style="color: darkmagenta">If your force contains Gil-galad, then every alliance will be Impossible Allies with the following exceptions: Númenor will still be Historical Allies, and Lothlórien, Fangorn, and the Misty Mountains will still be Convenient Allies.</span>
 
@@ -120,7 +122,8 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 <div class="unitCard" markdown>
 
 ### GLORFINDEL [145 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -168,7 +171,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### ELLADAN & ELROHIR [160 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -188,7 +192,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### ERESTOR [85 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -219,7 +224,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -255,7 +261,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### HIGH ELF CAPTAIN [75 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -290,7 +297,8 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 <div class="unitCard" markdown>
 
 ### LINDIR [65 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -324,6 +332,9 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 <div class="unitCard" markdown>
 
 ### ARWEN [60 POINTS]
+
+**ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
+
 *<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
 
 <span style="color: darkmagenta">Arwen may be included in a Fellowship army as part of the Fellowship army list, so long as it also includes Aragorn - Strider.</span>
@@ -366,6 +377,9 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 <div class="unitCard" markdown>
 
 ### CIRDAN [80 POINTS]
+
+**ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
+
 *<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -403,7 +417,8 @@ Cirdan may spend a single point of Will each turn for free.
 <div class="unitCard" markdown>
 
 ### HIGH ELF STORMCALLER [60 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -441,7 +456,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### BILBO BAGGINS [40 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**HOBBIT, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -475,7 +491,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### HIGH ELF WARRIOR [9 POINTS]
-*WARRIOR*
+
+**ELF, RIVENDELL, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -507,7 +524,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### RIVENDELL KNIGHT [21 POINTS]
-*WARRIOR*
+
+**ELF, RIVENDELL, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -540,7 +558,8 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 <div class="unitCard" markdown>
 
 ### WOOD ELF WARRIOR [9 POINTS]
-*WARRIOR*
+
+**ELF, LORIEN, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

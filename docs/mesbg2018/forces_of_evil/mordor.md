@@ -11,7 +11,8 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 <div class="unitCard" markdown>
 
 ### WITCH KING [70 POINTS]
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF LEGEND**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +79,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 <div class="unitCard" markdown>
 
 ### GOTHMOG [130 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -119,7 +121,8 @@ Gothmog and all friendly Mordor Orc models within 3" gain the [Hatred] (Man) spe
 <div class="unitCard" markdown>
 
 ### KHAMUL [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, EASTERLING, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -171,7 +174,8 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 <div class="unitCard" markdown>
 
 ### MOUTH OF SAURON [70 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**MAN, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -210,7 +214,8 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 <div class="unitCard" markdown>
 
 ### RAZGUSH [110 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -251,7 +256,8 @@ Razgush's warband may only include Orc Warriors, [Warg] Riders, Bat Swarms, Mirk
 <div class="unitCard" markdown>
 
 ### THE BETRAYER [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, HARADRIM, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -301,7 +307,8 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 <div class="unitCard" markdown>
 
 ### THE DARK MARSHALL [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -351,7 +358,8 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 <div class="unitCard" markdown>
 
 ### THE DWIMMERLAIK [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -401,7 +409,8 @@ Spend a point of Will each time an enemy Hero within 6" spends a point of Might,
 <div class="unitCard" markdown>
 
 ### THE KNIGHT OF UMBAR [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -454,7 +463,8 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 <div class="unitCard" markdown>
 
 ### THE SHADOW LORD [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -503,7 +513,8 @@ At the start of the Move phase, he may choose to spend one point of Will to acti
 <div class="unitCard" markdown>
 
 ### THE TAINTED [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -557,7 +568,8 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 <div class="unitCard" markdown>
 
 ### THE UNDYING [120 POINTS]
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF VALOUR**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -610,7 +622,8 @@ The Undying may spend Will points for Fate rolls.
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN MARSHALL [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**MAN, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -644,7 +657,8 @@ The Undying may spend Will points for Fate rolls.
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF THE BLACK GUARD [65 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**URUK-HAI, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -677,7 +691,8 @@ While at least one friendly Ringwraith model is on the battlefield, the Black Gu
 <div class="unitCard" markdown>
 
 ### GORBAG [55 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -710,7 +725,8 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 <div class="unitCard" markdown>
 
 ### GOROTH [80 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -740,7 +756,8 @@ If Goroth suffers a Wound that would slay him (after all Fate points are spent),
 <div class="unitCard" markdown>
 
 ### GOTHMOG'S ENFORCER [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -768,7 +785,8 @@ If Gothmog's Enforcer is within 3" of Gothmog at the start of a turn, Gothmog ma
 <div class="unitCard" markdown>
 
 ### GREAT BEAST OF GORGOROTH [150 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**GREAT BEAST, MORDOR, MONSTER, WAR BEAST, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -793,7 +811,8 @@ Models within the Howdah do not count towards your Bow Limit.
 <div class="unitCard" markdown>
 
 ### GRISHNAK [50 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -823,7 +842,8 @@ Models within the Howdah do not count towards your Bow Limit.
 <div class="unitCard" markdown>
 
 ### GURITZ [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -852,7 +872,8 @@ When rolling for Reinforcements, you may modify the roll for Guritz' warband by 
 <div class="unitCard" markdown>
 
 ### KARDUSH [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -891,7 +912,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 <div class="unitCard" markdown>
 
 ### MORANNON ORC CAPTAIN [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -919,7 +941,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN [140 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**TROLL, MORDOR, MONSTER, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -951,7 +974,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 <div class="unitCard" markdown>
 
 ### MORDOR URUK-HAI CAPTAIN [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**URUK-HAI, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -980,7 +1004,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 <div class="unitCard" markdown>
 
 ### MUZGUR [70 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1018,7 +1043,8 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 <div class="unitCard" markdown>
 
 ### ORC CAPTAIN [40 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1047,7 +1073,8 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 <div class="unitCard" markdown>
 
 ### ORC TASKMASTER [50 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1080,7 +1107,8 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [55 POINTS]
-*HERO OF FORTITUDE, 12 WARBAND*
+
+**SPIRIT, RINGWRAITH, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1134,7 +1162,8 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 <div class="unitCard" markdown>
 
 ### SHAGRAT [100 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**URUK-HAI, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1171,7 +1200,8 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 <div class="unitCard" markdown>
 
 ### ZAGDUSH [60 POINTS]
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - HERO OF FORTITUDE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1200,7 +1230,8 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 <div class="unitCard" markdown>
 
 ### ORC SHAMAN [50 POINTS]
-*MINOR HERO, 6 WARBAND*
+
+**ORC, MORDOR, INFANTRY, HERO - MINOR HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1235,7 +1266,8 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 <div class="unitCard" markdown>
 
 ### BLACK GUARD DRUMMER [35 POINTS]
-*INDEPENDENT HERO*
+
+**URUK-HAI, MORDOR, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1258,7 +1290,8 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 <div class="unitCard" markdown>
 
 ### ORC DRUMMER [30 POINTS]
-*INDEPENDENT HERO*
+
+**ORC, MORDOR, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1281,7 +1314,8 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 <div class="unitCard" markdown>
 
 ### SHELOB [90 POINTS]
-*INDEPENDENT HERO, UNIQUE*
+
+**SPIDER, MORDOR, MONSTER, INFANTRY, HERO - INDEPENDENT HERO**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1316,7 +1350,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 <div class="unitCard" markdown>
 
 ### BAT SWARM [35 POINTS]
-*WARRIOR*
+
+**BAT, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1341,7 +1376,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### BLACK GUARD OF BARAD-DUR [12 POINTS]
-*WARRIOR*
+
+**URUK-HAI, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1365,7 +1401,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### BLACK NUMENOREAN [9 POINTS]
-*WARRIOR*
+
+**MAN, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1394,7 +1431,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### FELL WARG [8 POINTS]
-*WARRIOR*
+
+**WARG, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1415,7 +1453,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### GIANT SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1438,7 +1477,8 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 <div class="unitCard" markdown>
 
 ### MIRKWOOD SPIDER [20 POINTS]
-*WARRIOR*
+
+**SPIDER, MIRKWOOD, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1465,7 +1505,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORANNON ORC [7 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1490,7 +1531,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL [100 POINTS]
-*WARRIOR*
+
+**TROLL, MORDOR, MONSTER, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1518,7 +1560,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORDOR URUK-HAI [8 POINTS]
-*WARRIOR*
+
+**URUK-HAI, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1544,7 +1587,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORGUL KNIGHT [18 POINTS]
-*WARRIOR*
+
+**MAN, MORDOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1575,7 +1619,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORGUL STALKER [10 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1601,7 +1646,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### ORC TRACKER [5 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1624,7 +1670,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### ORC WARRIOR [5 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, INFANTRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1651,7 +1698,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### WARG RIDER [11 POINTS]
-*WARRIOR*
+
+**ORC, MORDOR, CAVALRY, WARRIOR**
 
 | Mv | F | S | D | A | W | C |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1680,7 +1728,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 <div class="unitCard" markdown>
 
 ### MORDOR SIEGE BOW [50 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|
@@ -1719,7 +1768,8 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 <div class="unitCard" markdown>
 
 ### MORDOR WAR CATAPULT [160 POINTS]
-*SIEGE ENGINE, 6 WARBAND*
+
+**SIEGE ENGINE**
 
 | Range | S | D | W |
 |:---:|:---:|:---:|:---:|
