@@ -4,8 +4,6 @@
 
 **DRAGON | MORIA | HERO, INFANTRY, MONSTER | 130MM**
 
-*HERO OF LEGEND, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 2+ | 7 | 7 | 4 | 7 | 6+ | 5+ | 3 | 3 | 3 |
@@ -76,8 +74,6 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 
 **SPIRIT | MORIA | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 10 | 3+ | 9 | 9 | 4 | 10 | 3+ | 5+ | 0 | 10 | 0 |
@@ -122,8 +118,6 @@ The Balrog may declare a [Heroic Combat] each turn for free. Special rules or wa
 
 **GOBLIN | GOBLIN-TOWN | HERO, INFANTRY, MONSTER, UNIQUE | 40MM**
 
-*HERO OF LEGEND, UNIQUE, 24 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 5+ | 5 | 5 | 3 | 3 | 6+ | 6+ | 3 | 2 | 1 |
@@ -167,8 +161,6 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 
 **TROLL | TROLLSHAWS | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 4+ | 7 | 7 | 3 | 3 | 6+ | 7+ | 3 | 1 | 1 |
@@ -206,8 +198,6 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 ### DRUZHAG THE BEASTCALLER [80 POINTS]
 
 **GOBLIN | MORIA | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -249,8 +239,6 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 
 **GOBLIN | MORIA | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 5+ | 4 | 6 | 2 | 2 | 6+ | 6+ | 3 | 2 | 2 |
@@ -287,8 +275,6 @@ Once per game, at the start of any Fight Phase, before the Declare Heroic Action
 ### BERT THE TROLL [130 POINTS]
 
 **TROLL | TROLLSHAWS | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -360,8 +346,6 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 **GOBLIN | GOBLIN-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 3 | 5+ | 4 | 4 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -397,8 +381,6 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 **GOBLIN | MORIA | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 3 | 5+ | 4 | 5 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -429,8 +411,6 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 ### MORIA GOBLIN SHAMAN [45 POINTS]
 
 **GOBLIN | MORIA | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -468,8 +448,6 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 **GOBLIN | GOBLIN-TOWN | HERO, INFANTRY, UNIQUE | 60MM**
 
-*HERO OF FORTITUDE, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 0" | 1 | 6+ | 2 | 2 | 1 | 1 | 7+ | 7+ | 0 | 1 | 1 |
@@ -497,8 +475,6 @@ If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scrib
 ### TOM THE TROLL [120 POINTS]
 
 **TROLL | TROLLSHAWS | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -541,8 +517,6 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 
 **DRAKE | MORIA | HERO, INFANTRY, MONSTER, BEAST | 100MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 7 | 5+ | 7 | 7 | 4 | 6 | 6+ | 7+ | 1 | 3 | 1 |
@@ -558,7 +532,7 @@ Instead of making Strikes, Tom may use this Brutal Power Attack. Each enemy mode
 **SPECIAL RULES**
 
 - [Cave Dweller]
-- Dominant(4)
+- [Dominant] (4)
 - [Large Target]
 - [Monstrous Charge]
 - [Mountain Dweller]
@@ -588,15 +562,13 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 
 **HOBBIT | GOBLIN-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 4+ | 4 | 4 | 2 | 2 | 6+ | 5+ | 1 | 0 | 1 |
 
 **WARGEAR**
 
-- Strangling Fingers
+- Strangling Fingers (never [Unarmed])
 
 **SPECIAL RULES**
 
@@ -617,8 +589,6 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 ### THE WATCHER IN THE WATER [200 POINTS]
 
 **KRAKEN | MORIA | HERO, INFANTRY, MONSTER, UNIQUE | 130MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -759,8 +729,6 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 <div class="unitCard" markdown>
 
 ### MORIA GOBLIN DRUM [75 POINTS]
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

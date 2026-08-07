@@ -4,8 +4,6 @@
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 5 | 3 | 3 | 5+ | 5+ | 3 | 3 | 2 |
@@ -44,8 +42,6 @@ If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 2 | 6+ | 6+ | 3 | 2 | 1 |
@@ -81,8 +77,6 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 ### GENERAL TARGG [80 POINTS]
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -121,8 +115,6 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 
 **MAN | DUNLAND | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 4 | 2 | 2 | 6+ | 7+ | 2 | 1 | 1 |
@@ -153,8 +145,6 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 ### LORD THORNE OF THE WOLD [70 POINTS]
 
 **MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -190,8 +180,6 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 ### SHANK & WROT [150 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*MINOR HERO, UNIQUE, 6 WARBAND*
 
 **Shank**
 

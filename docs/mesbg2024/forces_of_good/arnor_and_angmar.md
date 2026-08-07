@@ -4,8 +4,6 @@
 
 **MAN | ARNOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 3 | 2 | 5+ | 5+ | 3 | 2 | 1 |
@@ -38,8 +36,6 @@ The range of Arvedui's [Stand Fast] is 12", rather than 6"
 ### EARNUR, LAST KING OF GONDOR [110 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -80,8 +76,6 @@ At the start of a Combat involving Earnur, before Heroic Strikes are resolved, E
 ### GLORFINDEL, LORD OF THE WEST [160 POINTS]
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -133,8 +127,6 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 
 **SPIRIT | ANGMAR | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | <span style="color: darkmagenta">12"</span> | 7 | 5+ | 8 | 5 | * | 4 | 6+ | 4+ | 3 | 3 | 0 |
@@ -176,8 +168,6 @@ Each time Gulavhar slays a model in Combat, it regains a single Wound lost earli
 
 **MAN | ANGMAR, CARN DUM | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 5 | 6 | 3 | 3 | 5+ | 6+ | 3 | 3 | 1 |
@@ -216,8 +206,6 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 
 **MAN | ARNOR, DUNEDAIN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 5 | 2 | 2 | 5+ | 5+ | 3 | 2 | 2 |
@@ -253,8 +241,6 @@ Friendly Dunedain models treat Aranarth as a [banner][Banner]. Additionally, all
 
 **MAN | DUNEDAIN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 5 | 3 | 2 | 5+ | 5+ | 3 | 2 | 1 |
@@ -287,8 +273,6 @@ Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
 ### BUHRDUR, HILL TROLL CHIEFTAIN [130 POINTS]
 
 **TROLL | ANGMAR | HERO, INFANTRY, MONSTER, UNIQUE | 50MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -328,8 +312,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 ### THE SHADOW OF RHUDAUR [80 POINTS]
 
 **SPIRIT | ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -377,8 +359,6 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 **WARG | ANGMAR | HERO, INFANTRY, BEAST | 40MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 10" | 5 | 5+ | 6 | 5 | 3 | 3 | 6+ | 7+ | 3 | 3 | 2 |
@@ -410,8 +390,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 
 **ORC | ANGMAR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 6 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -435,8 +413,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 ### ARGADIR [85 POINTS]
 
 **MAN | ARNOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -471,8 +447,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 
 **MAN | ARNOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 7 | 2 | 2 | 7+ | 6+ | 2 | 1 | 1 |
@@ -500,8 +474,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 ### CAPTAIN OF CARN DUM [55 POINTS]
 
 **MAN | ANGMAR, CARN DUM | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -532,8 +504,6 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 ### FRAECHT, VASSAL OF THE WITCH-KING [65 POINTS]
 
 **MAN | ANGMAR, CARN DUM | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -568,8 +538,6 @@ Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht 
 
 **MAN | DUNEDAIN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 5 | 2 | 2 | 4+ | 4+ | 3 | 2 | 1 |
@@ -603,8 +571,6 @@ This is a [banner][Banner] with a range of 6" rather than 3", and Halbarad never
 
 **MAN | ARNOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 4+ | 3 | 4 | 1 | 2 | 6+ | 4+ | 1 | 2 | 1 |
@@ -637,8 +603,6 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 **ORC | ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 5 | 2 | 2 | 7+ | 6+ | 2 | 1 | 2 |
@@ -667,8 +631,6 @@ Whenever Nazthak slays an enemy model in Combat (with the exception of Monster m
 ### SHADE [75 POINTS]
 
 **SPIRIT | ANGMAR | HERO, INFANTRY | 40MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -707,8 +669,6 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 **WARG | ANGMAR | HERO, INFANTRY, BEAST | 40MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 10" | 5 | 5+ | 6 | 5 | 3 | 3 | 6+ | 7+ | 2 | 2 | 1 |
@@ -739,8 +699,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 ### ANGMAR ORC SHAMAN [50 POINTS]
 
 **ORC | ANGMAR | HERO, INFANTRY | 25MM**
-
-*MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -778,8 +736,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 
 **SPIRIT | ANGMAR | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 5+ | 3 | 7 | 1 | 2 | 4+ | 6+ | 0 | 5 | 0 |
@@ -810,8 +766,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 ### RANGER OF THE NORTH [25 POINTS]
 
 **MAN | DUNEDAIN | HERO, INFANTRY | 25MM**
-
-*INDEPENDENT HERO*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|

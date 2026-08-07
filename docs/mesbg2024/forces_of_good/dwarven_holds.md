@@ -4,8 +4,6 @@
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 3 | 3 | 3+ | 4+ | 3 | 3 | 1 |
@@ -47,8 +45,6 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two D6 and choose t
 ### DURIN, KING OF KHAZAD-DUM [170 POINTS]
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -103,8 +99,6 @@ For each Wound he suffers, roll a D6. On a 6, the Wound is prevented and ignored
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 7 | 4+ | 4 | 8 | 3 | 3 | 4+ | 5+ | 3 | 3 | 1 |
@@ -148,8 +142,6 @@ If Thorin Charges into Combat with the Infantry keyword, he may declare a free [
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 9 | 3 | 3 | 4+ | 5+ | 3 | 3 | 1 |
@@ -160,7 +152,7 @@ If Thorin Charges into Combat with the Infantry keyword, he may declare a free [
 - [Shield]
 - [Hand Weapon]
 - Arkenstone
-- Ring of Durin
+- The Ring of Durin
 
 **HEROIC ACTIONS**
 
@@ -188,8 +180,6 @@ Once per game, after the Priority roll has taken place, you may re-roll the Prio
 ### BALIN THE DWARF [40 POINTS]
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -220,8 +210,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 ### BALIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -254,8 +242,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 ### DAIN IRONFOOT, LORD OF THE IRON HILLS [160 POINTS]
 
 **DWARF | IRON HILLS | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -304,8 +290,6 @@ If Dain wins a Duel but fails to slay every enemy in his Combat, select one enem
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 5 | 6 | 2 | 2 | 4+ | 5+ | 2 | 2 | 2 |
@@ -343,8 +327,6 @@ Dwalin is never considered [Unarmed].
 ### DWALIN THE DWARF, CHAMPION OF EREBOR [110 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -389,8 +371,6 @@ At the start of a Combat, if Dwalin is within 3" of Thorin, he can increase his 
 
 **DWARF | HERO, INFANTRY | 25MM**
 
-*HERO OF VALOUR, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 2 | 2 | 4+ | 4+ | 2 | 2 | 2 |
@@ -420,8 +400,6 @@ A Dwarf King will always have the Faction keyword of the most common type of Dwa
 ### FILI THE DWARF, CHAMPION OF EREBOR [70 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -454,8 +432,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 ### GANDALF THE GREY [170 POINTS]
 
 **WIZARD | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -511,8 +487,6 @@ Gandalf may re-roll any failed Fate rolls.
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 3+ | 4 | 8 | 2 | 2 | 5+ | 6+ | 3 | 2 | 1 |
@@ -544,8 +518,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 ### MARDIN, THE KING'S WARD [80 POINTS]
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -583,8 +555,6 @@ During the Declare Heroic Actions step of the Fight phase, if Durin is Engaged i
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 9 | 3 | 2 | 4+ | 5+ | 3 | 3 | 3 |
@@ -616,8 +586,6 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 ### THORIN OAKENSHIELD [100 POINTS]
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -664,8 +632,6 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound rolls 
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 3 | 3 | 4+ | 5+ | 3 | 3 | 3 |
@@ -702,8 +668,6 @@ If Thrain carries the Ring of Durin, once per game after the Priority roll has t
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 3 | 2 |
@@ -733,8 +697,6 @@ After the Priority roll has taken place, Balin may spend a Will point to enable 
 ### YOUNG DWALIN THE DWARF [90 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -776,8 +738,6 @@ At the start of a Combat, roll a D6. On a 5+, Dwalin may re-roll failed To Wound
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 3 | 3 | 4+ | 5+ | 3 | 3 | 3 |
@@ -815,8 +775,6 @@ Once per game at the start of his Activation, this rule may be declared. All fri
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 3+ | 4 | 5 | 2 | 2 | 5+ | 7+ | 1 | 1 | 2 |
@@ -853,8 +811,6 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 3+ | 4 | 8 | 2 | 2 | 5+ | 7+ | 1 | 2 | 2 |
@@ -887,8 +843,6 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 
 **HOBBIT | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 2 | 4+ | 4+ | 2 | 3 | 3 |
@@ -906,7 +860,7 @@ If Bifur wins a Duel roll, he may make a single Strength 4 Strike against one en
 **OPTIONS**
 
 - Sting - 5 points
-- The One Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 
@@ -930,8 +884,6 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bi
 ### BOFUR THE DWARF [45 POINTS]
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -966,8 +918,6 @@ When a friendly Thorin's Company model within 3" of Bofur is affected by an enem
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 8 | 2 | 2 | 5+ | 6+ | 2 | 1 | 2 |
@@ -999,8 +949,6 @@ When a friendly Erebor Hero model within 3" of Bofur is affected by an enemy spe
 ### BOMBUR THE DWARF [45 POINTS]
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1035,8 +983,6 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 ### BOMBUR THE DWARF, CHAMPION OF EREBOR [60 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1078,8 +1024,6 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 5 | 2 | 2 | 5+ | 5+ | 2 | 2 | 2 |
@@ -1087,7 +1031,7 @@ Once per turn in his Activation, choose a friendly Thorin's Company model within
 **WARGEAR**
 
 - [Light Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1108,8 +1052,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 ### DORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1143,8 +1085,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 8 | 2 | 2 | 5+ | 5+ | 2 | 1 | 1 |
@@ -1169,8 +1109,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **DWARF | EREBOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 7 | 3 | 2 | 5+ | 6+ | 2 | 1 | 1 |
@@ -1178,7 +1116,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1198,8 +1136,6 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 3+ | 4 | 5 | 2 | 2 | 5+ | 6+ | 2 | 1 | 2 |
@@ -1207,7 +1143,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 **WARGEAR**
 
 - [Light Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 - [Throwing Weapons]
 
 **HEROIC ACTIONS**
@@ -1231,8 +1167,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 7 | 3 | 2 | 4+ | 5+ | 2 | 2 | 2 |
@@ -1240,7 +1174,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 - [Throwing Weapons]
 
 **HEROIC ACTIONS**
@@ -1263,8 +1197,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 ### GLOIN THE DWARF, CHAMPION OF EREBOR [100 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1298,8 +1230,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 **DWARF | EREBOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 8 | 2 | 2 | 5+ | 5+ | 2 | 1 | 1 |
@@ -1308,7 +1238,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 - [Heavy Dwarf Armour]
 - Mattock
-- Throwing Weapon
+- [Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1331,8 +1261,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 ### IRON HILLS CAPTAIN [80 POINTS]
 
 **DWARF | IRON HILLS | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1372,8 +1300,6 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 3+ | 4 | 5 | 2 | 2 | 5+ | 6+ | 2 | 1 | 2 |
@@ -1404,8 +1330,6 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 ### NORI THE DWARF [55 POINTS]
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1440,8 +1364,6 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 ### NORI THE DWARF, CHAMPION OF EREBOR [75 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1480,8 +1402,6 @@ When Nori is carrying an Objective in Scenarios, he may re-roll all failed To Wo
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 4+ | 4 | 4 | 1 | 2 | 4+ | 6+ | 1 | 5 | 1 |
@@ -1518,8 +1438,6 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 ### OIN THE DWARF, CHAMPION OF EREBOR [60 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1564,8 +1482,6 @@ When an enemy Hero declares a Heroic Action within 6" of Oin, roll a D6. On a 5+
 
 **DWARF | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 3 | 3+ | 3 | 4 | 1 | 2 | 6+ | 6+ | 1 | 2 | 2 |
@@ -1600,8 +1516,6 @@ If Ori scores a 6 when rolling To Hit, the target immediately suffers a single W
 ### ORI THE DWARF, CHAMPION OF EREBOR [50 POINTS]
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1841,6 +1755,24 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 
 - Exchange [War Spear] for Mattock - Free
 
+---
+
+**War Goat**
+
+**GOAT | MOUNT**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 2 | 6+ | 4 | 5 | 0 | 1 | 7+ | 7+ |
+
+**SPECIAL RULES**
+
+- [Mountain Dweller]
+
+- **Devastating Charge** `ACTIVE`
+
+When this model Charges against one or more 25mm models, roll a D6 for each. On a 5+, that model is immediately knocked Prone.
+
 </div>
 
 ---
@@ -1963,8 +1895,6 @@ A [spear][Spear], if this model is Supporting a model with an Iron [Shield], the
 
 **SIEGE ENGINE | 40MM**
 
-*SIEGE ENGINE, 40MM*
-
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
 | 6"-48" | 9 | 10 | 3 |
@@ -2007,8 +1937,6 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 ### IRON HILLS BALLISTA [130 POINTS]
 
 **SIEGE ENGINE | 100MM**
-
-*SIEGE ENGINE, 100MM*
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|

@@ -4,8 +4,6 @@
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 5+ | 4 | 6 | 2 | 3 | 5+ | 4+ | 3 | 3 | 1 |
@@ -47,8 +45,6 @@ Friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 
 **SPIRIT | MORDOR | HERO, INFANTRY, MONSTER, UNIQUE | 40MM**
 
-*HERO OF LEGEND, UNIQUE, 24 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 9 | 4+ | 8 | 10 | 4 | 5 | 3+ | 3+ | 3 | 6 | 0 |
@@ -57,7 +53,7 @@ Friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 
 - [Heavy Armour]
 - [Hand Weapon]
-- The One Ring
+- [The One Ring]
 
 **HEROIC ACTIONS**
 
@@ -109,8 +105,6 @@ Can make a Strength 10 strike against one model. If they survive, they are [Set 
 ### THE WITCH-KING OF ANGMAR [POINTS COST VARIES]
 
 **SPIRIT, RINGWRAITH | MORDOR, ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -204,8 +198,6 @@ When a Fell Beast becomes a Separated Mount, it automatically fails the Courage 
 
 **TROLL | MORDOR | HERO, INFANTRY, MONSTER | 60MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 4+ | 7 | 8 | 3 | 4 | 6+ | 6+ | 3 | 2 | 2 |
@@ -236,8 +228,6 @@ When a Fell Beast becomes a Separated Mount, it automatically fails the Courage 
 ### MOUTH OF SAURON [75 POINTS]
 
 **MAN | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -283,8 +273,6 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 ### RINGWRAITH [POINTS COST VARIES]
 
 **SPIRIT, RINGWRAITH | MORDOR | HERO, INFANTRY | 25MM**
-
-*HERO OF VALOUR, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -344,8 +332,6 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 **MAN | MORDOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 7 | 2 | 2 | 5+ | 6+ | 2 | 1 | 1 |
@@ -379,8 +365,6 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 
 **MAN | EASTERLING | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -413,8 +397,6 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 ### GORBAG [60 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -450,8 +432,6 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 6 | 2 | 2 | 7+ | 6+ | 1 | 3 | 1 |
@@ -480,8 +460,6 @@ If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Got
 ### GURITZ [65 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -517,8 +495,6 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 
 **ORC | MORDOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 5 | 6 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -553,8 +529,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 **ORC | MORDOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 6 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -578,8 +552,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 ### MORDOR ORC TASKMASTER [45 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -611,8 +583,6 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic Marc
 
 **TROLL | MORDOR | HERO, INFANTRY, MONSTER | 60MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 4+ | 7 | 8 | 3 | 4 | 6+ | 6+ | 2 | 1 | 1 |
@@ -642,8 +612,6 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic Marc
 ### MORDOR URUK-HAI CAPTAIN [55 POINTS]
 
 **URUK-HAI | MORDOR | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -677,8 +645,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 ### SHAGRAT [110 POINTS]
 
 **URUK-HAI | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -717,8 +683,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **ORC | MORDOR | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 5+ | 3 | 5 | 1 | 2 | 7+ | 7+ | 1 | 3 | 1 |
@@ -755,8 +719,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **ORC | MORDOR | HERO, INFANTRY | 25MM**
 
-*INDEPENDENT HERO*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 5+ | 4 | 5 | 1 | 1 | 7+ | 8+ | 0 | 0 | 1 |
@@ -776,8 +738,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 ### SHELOB [<span style="color: darkmagenta">100</span> POINTS]
 
 **SPIDER | MORDOR | HERO, INFANTRY, MONSTER, BEAST, UNIQUE | 80MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -891,7 +851,7 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 
 **WARGEAR**
 
-- Heavy Amour
+- [Heavy Armour]
 - [Hand Weapon]
 
 **OPTIONS**
@@ -1098,8 +1058,6 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 
 **SIEGE ENGINE | 40MM**
 
-*SIEGE ENGINE, 40MM*
-
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
 | 6"-48" | 8 | 9 | 3 |
@@ -1152,8 +1110,6 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 ### MORDOR WAR CATAPULT [150 POINTS]
 
 **SIEGE ENGINE | 120MM**
-
-*SIEGE ENGINE, 120MM*
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|

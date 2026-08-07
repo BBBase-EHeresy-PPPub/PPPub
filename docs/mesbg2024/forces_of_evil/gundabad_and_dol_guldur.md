@@ -4,15 +4,13 @@
 
 **ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 5 | 5 | 3 | 3 | 5+ | 5+ | 3 | 3 | 1 |
 
 **WARGEAR**
 
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -72,8 +70,6 @@ Once the White Warg is separated from Azog, only Warg models may benefit from it
 
 **SPIRIT | DOL GULDUR | HERO, INFANTRY, UNIQUE | 40MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 6 | 8 | 2 | 1 | 4+ | 3+ | 3 | 25 | 0 |
@@ -132,8 +128,6 @@ Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for the
 
 **ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 5 | 7 | 3 | 3 | 5+ | 5+ | 3 | 3 | 1 |
@@ -174,8 +168,6 @@ Keep track of how many enemies that Bolg kills in Combat. After two kills, Bolg 
 ### KHAMUL THE EASTERLING [80 POINTS]
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -218,8 +210,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 1 | 4+ | 5+ | 1 | 1 | 0 |
@@ -260,8 +250,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 ### THE DARK HEADSMAN [80 POINTS]
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -304,8 +292,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 1 | 4+ | 5+ | 1 | 1 | 0 |
@@ -344,8 +330,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 **ORC | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 5+ | 5 | 6 | 3 | 2 | 5+ | 6+ | 3 | 3 | 0 |
@@ -383,8 +367,6 @@ The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 1 | 4+ | 5+ | 1 | 1 | 0 |
@@ -392,7 +374,7 @@ The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -425,8 +407,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 ### THE SLAYER OF MEN [80 POINTS]
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -469,8 +449,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 **SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 6 | 2 | 1 | 4+ | 5+ | 3 | 1 | 0 |
@@ -512,8 +490,6 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 **ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 5 | 2 | 2 | 6+ | 7+ | 2 | 2 | 1 |
@@ -548,8 +524,6 @@ Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Movi
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
 
 **GOBLIN | GUNDABAD | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -586,8 +560,6 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 
 **ORC | GUNDABAD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 5+ | 5 | 7 | 2 | 2 | 6+ | 7+ | 2 | 1 | 1 |
@@ -617,8 +589,6 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 
 **ORC | GUNDABAD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -626,7 +596,7 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -653,8 +623,6 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 ### NARZUG, HUNTER ORC CAPTAIN [55 POINTS]
 
 **ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -688,8 +656,6 @@ Each Turn, Narzug gains a free Might point that can only be spent during a shoot
 ### YAZNEG, HUNTER ORC CAPTAIN [55 POINTS]
 
 **ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -725,8 +691,6 @@ At the beginning of a Combat he is involved in, if Yazneg is within 3" of Azog, 
 ### GUNDABAD CATAPULT TROLL [180 POINTS]
 
 **TROLL | GUNDABAD | HERO, INFANTRY, MONSTER, SIEGE ENGINE | 160MM**
-
-*INDEPENDENT HERO*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -771,15 +735,13 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 
 **TROLL | GUNDABAD | WAR BEAST | 80MM**
 
-*INDEPENDENT HERO*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 6+ | 7 | 6 | 3 | 4 | 6+ | 9+ | 0 | 0 | 0 |
 
 **WARGEAR**
 
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -1015,7 +977,7 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 - [Fell Warg]
 
 **OPTIONS**
@@ -1046,7 +1008,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **OPTIONS**
 

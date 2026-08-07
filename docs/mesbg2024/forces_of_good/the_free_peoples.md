@@ -4,8 +4,6 @@
 
 **MAN | FELLOWSHIP, DUNEDAIN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 3+ | 4 | 5 | 3 | 3 | 4+ | 3+ | 3 | 3 | 3 |
@@ -53,8 +51,6 @@ Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], never needs more than a 
 ### GANDALF THE GREY [170 POINTS]
 
 **WIZARD | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -106,8 +102,6 @@ Gandalf may re-roll any failed Fate rolls.
 
 **EAGLE | MISTY MOUNTAINS | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 12" | 8 | 4+ | 6 | 8 | 3 | 3 | 3+ | 3+ | 3 | 3 | 3 |
@@ -142,8 +136,6 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast] or benefit 
 ### RADAGAST THE BROWN [145 POINTS]
 
 **WIZARD | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -245,8 +237,6 @@ If Radagast dismounts from his Sleigh, it must be removed from play.
 
 **WIZARD | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 2 | 3 | 3+ | 3+ | 3 | 6 | 3 |
@@ -296,8 +286,6 @@ At the start of each Move Phase, before the Declare Heroic Actions step, Saruman
 
 **ENT | FANGORN | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 3+ | 8 | 8 | 4 | 4 | 3+ | 4+ | 3 | 4 | 3 |
@@ -345,8 +333,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 ### BEORN [200 POINTS]
 
 **MAN | BEORNING | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -426,8 +412,6 @@ If Beorn wins a Duel Roll, choose a single enemy model involved in the Combat. I
 
 **MAN | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 4 | 5 | 3 | 3 | 4+ | 5+ | 6 | 1 | 0 |
@@ -469,8 +453,6 @@ Whilst within 3" of friendly Fellowship Hobbit models, Boromir gains [Fearless],
 ### GALADRIEL, LADY OF LIGHT [125 POINTS]
 
 **ELF | WHITE COUNCIL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -529,8 +511,6 @@ Galadriel may target any enemy with [Banishment] as if it were a Spirit model, t
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 3+ | 4 | 4 | 2 | 2 | 6+ | 6+ | 3 | 1 | 1 |
@@ -549,7 +529,7 @@ Galadriel may target any enemy with [Banishment] as if it were a Spirit model, t
 **SPECIAL RULES**
 
 - [Hatred] (Goblin)
-- Hated (Orc)
+- [Hatred] (Orc)
 - [Hatred] (Uruk-hai)
 - [Poisoned Attacks]
 - [Stalk Unseen]
@@ -568,8 +548,6 @@ Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a p
 ### GRIMBEORN [200 POINTS]
 
 **MAN | BEORNING | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -654,8 +632,6 @@ If Grimbeorn wins a Duel Roll, choose a single enemy model involved in the Comba
 
 **ELF | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 2+ | 4 | 4 | 2 | 2 | 4+ | 4+ | 3 | 2 | 3 |
@@ -701,8 +677,6 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 **HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 4 | 3+ | 2 | 4 | 2 | 2 | 5+ | 6+ | 2 | 2 | 2 |
@@ -744,8 +718,6 @@ A [war horn][War Horn]. Additionally, Merry gains the [Fearless] special rule.
 
 **HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 4 | 3+ | 2 | 4 | 2 | 2 | 5+ | 6+ | 2 | 2 | 2 |
@@ -784,8 +756,6 @@ Pippin may re-roll any failed To Wound rolls when making Strikes against Hero or
 ### BALDO TULPENNY [40 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -827,8 +797,6 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **ENT | FANGORN | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 4+ | 8 | 8 | 3 | 4 | 4+ | 5+ | 3 | 1 | 0 |
@@ -869,8 +837,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **ENT | FANGORN | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 7 | 8 | 3 | 3 | 5+ | 5+ | 1 | 2 | 3 |
@@ -909,8 +875,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 ### FARMER MAGGOT [50 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -962,8 +926,6 @@ Grip, Fang and Wolf always use Farmer Maggot's Courage characteristic whilst he 
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 2 | 5+ | 6+ | 2 | 1 | 1 |
@@ -1000,8 +962,6 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 
 **HOBBIT | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 2 | 4+ | 5+ | 2 | 3 | 3 |
@@ -1009,7 +969,7 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 **WARGEAR**
 
 - [Hand Weapon]
-- The One Ring
+- [The One Ring]
 
 **HEROIC ACTIONS**
 
@@ -1024,7 +984,7 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
@@ -1043,8 +1003,6 @@ An Elven [hand weapon][Hand Weapon], Frodo gains +1 Strength when making strikes
 ### FRODO OF THE NINE FINGERS [70 POINTS]
 
 **HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1090,8 +1048,6 @@ Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 
 **DWARF | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 2 | 2 | 4+ | 6+ | 3 | 2 | 3 |
@@ -1100,7 +1056,7 @@ Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 
 - [Heavy Dwarf Armour]
 - [Master Forged][Master-Forged] [Two-handed Weapon]
-- Two Hand Weapons
+- Two [Hand Weapons][Hand Weapon]
 - [Throwing Weapons]
 
 **HEROIC ACTIONS**
@@ -1128,8 +1084,6 @@ If Gimli has fewer kills than Legolas, he gets +1 bonus on To Wound rolls when m
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 2 | 5+ | 7+ | 1 | 1 | 2 |
@@ -1156,8 +1110,6 @@ At the start of the game after deployments, Hamfast's player places three 25mm F
 ### HOLFOOT BRACEGIRDLE, SHIRRIFF-LEADER [40 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1190,8 +1142,6 @@ Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him
 ### LOTHO SACKVILLE-BAGGINS [30 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1226,8 +1176,6 @@ When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to us
 ### PALADIN TOOK, THAIN OF THE SHIRE [30 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1264,8 +1212,6 @@ Friendly Tookish Hunters within 6" of Paladin gain a bonus of +1 To Wound when m
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 2 | 7+ | 7+ | 1 | 1 | 1 |
@@ -1298,8 +1244,6 @@ In Scenarios where you roll for Warbands to arrive, or ones where you roll to se
 
 **HOBBIT | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 2 | 2 | 4+ | 5+ | 2 | 2 | 2 |
@@ -1321,7 +1265,7 @@ In Scenarios where you roll for Warbands to arrive, or ones where you roll to se
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 - **"Let him go or I'll have you, Longshanks!"** `ACTIVE`
 
@@ -1340,8 +1284,6 @@ If Sam wins a Duel Roll, he may choose to use his frying pan instead of making S
 ### SAMWISE THE BRAVE [60 POINTS]
 
 **HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1386,8 +1328,6 @@ During the Declare Heroic Actions step of the Fight Phase, if Frodo and/or Rosie
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 2 | 6+ | 6+ | 1 | 3 | 1 |
@@ -1419,8 +1359,6 @@ At the beginning of a Fight Phase, before the Declare Heroic Actions step, Will 
 ### BARLIMAN BUTTERBUR [45 POINTS]
 
 **MAN | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
-
-*MINOR HERO, UNIQUE, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1455,8 +1393,6 @@ Friendly Fellowship models within 6" of Barliman count as having the [Dominant] 
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*MINOR HERO, UNIQUE, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 2 | 7+ | 8+ | 0 | 1 | 1 |
@@ -1485,8 +1421,6 @@ If Fredegar attempts to Charge an enemy model with the [Terror] special rule and
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 2 | 1 | 2 | 4+ | 5+ | 1 | 3 | 3 |
@@ -1503,12 +1437,12 @@ If Fredegar attempts to Charge an enemy model with the [Terror] special rule and
 
 - Mithril Coat - 15 points
 - Sting - 5 points
-- The One Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 - **Mithril Coat** `PASSIVE`
 
@@ -1531,8 +1465,6 @@ Whilst wearing [the One Ring][The One Ring] and [Invisible], enemy models Engage
 ### BILL THE PONY [25 POINTS]
 
 **PONY | FELLOWSHIP | HERO, INFANTRY, BEAST, UNIQUE | 40MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1568,8 +1500,6 @@ Bill never provides a Stand Fast. However, he can benefit from any Fellowship he
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 1 | 7+ | 8+ | 0 | 3 | 1 |
@@ -1600,8 +1530,6 @@ If Folco is within 3" of Frodo, then Frodo can spend Folco's Will Points to decl
 ### GOLDBERRY [80 POINTS]
 
 **SPIRIT | HERO, INFANTRY, UNIQUE | 25MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1638,8 +1566,6 @@ At any point during her Activation, Goldberry may spend a Will Point to sing one
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 2 | 1 | 1 | 4+ | 6+ | 0 | 4 | 1 |
@@ -1675,8 +1601,6 @@ Once per turn during her Activation, Lobelia can spend a Will point, and choose 
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 1 | 6+ | 6+ | 0 | 0 | 2 |
@@ -1708,8 +1632,6 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 1 | 6+ | 7+ | 0 | 0 | 2 |
@@ -1725,7 +1647,7 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 - **For the Shire!** `ACTIVE`
 
@@ -1740,8 +1662,6 @@ If Pippin is within 3" of Boromir of Gondor, Merry may spend his Might points as
 ### ROSIE COTTON [20 POINTS]
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1775,8 +1695,6 @@ Rosie is a [banner][Banner] of range 6" for friendly Hobbit models. She also cou
 
 **HOBBIT | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 5+ | 4 | 4 | 2 | 2 | 7+ | 6+ | 1 | 0 | 1 |
@@ -1809,8 +1727,6 @@ Smeagol does not halve his Move value when moving through Difficult Terrain. Add
 
 **MAN | BREE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 5+ | 3 | 3 | 1 | 2 | 7+ | 8+ | 1 | 3 | 1 |
@@ -1839,8 +1755,6 @@ After Priority has been rolled, the Gatekeeper may spent a Will point and choose
 
 **DWARF | EREBOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*INDEPENDENT HERO, UNIQUE*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 2 | 4 | 1 | 2 | 6+ | 6+ | 0 | 0 | 1 |
@@ -1868,8 +1782,6 @@ If when Thrain takes his Intelligence Test for his Shattered Spirit special rule
 ### TOM BOMBADIL [120 POINTS]
 
 **SPIRIT | HERO, INFANTRY, UNIQUE | 25MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -2074,7 +1986,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 **SPECIAL RULES**
 
 - [Resistant to Magic]
-- Throw Stones (range 8", Strength 1).
+- [Throw Stones] (range 8", Strength 1).
 
 </div>
 
@@ -2122,7 +2034,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 **SPECIAL RULES**
 
 - [Hatred] (Goblin)
-- Hated (Orc)
+- [Hatred] (Orc)
 - [Hatred] (Uruk-hai)
 - [Stalk Unseen]
 - [Poisoned Attacks]

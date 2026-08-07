@@ -4,8 +4,6 @@
 
 **WIZARD | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 1 | 3 | 3+ | 3+ | 3 | 6 | 3 |
@@ -13,7 +11,7 @@
 **WARGEAR**
 
 - [Staff of Power]
-- Palantir
+- The Palantir
 
 **HEROIC ACTIONS**
 
@@ -58,8 +56,6 @@ Saruman can choose a single enemy Hero at the beginning of the game. That Hero w
 <div class="unitCard" markdown>
 
 ### SHARKEY & WORM [60 POINTS]
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 **Sharkey**
 
@@ -130,8 +126,6 @@ Before making a Duel Roll for Worm, check to see if any enemy models, with the e
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 5 | 6 | 3 | 3 | 4+ | 5+ | 3 | 3 | 1 |
@@ -179,8 +173,6 @@ Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 
 **ORC | ISENGARD | HERO, CAVALRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 3 | 1 | 1 |
@@ -217,8 +209,6 @@ Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and 
 ### SID BRIARTHORN [50 POINTS]
 
 **MAN | RUFFIAN | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -259,8 +249,6 @@ If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Du
 
 **MAN | RUFFIAN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 4+ | 4 | 4 | 2 | 2 | 7+ | 7+ | 1 | 1 | 1 |
@@ -295,8 +283,6 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 **ORC | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 5 | 2 | 2 | 7+ | 5+ | 2 | 2 | 1 |
@@ -328,8 +314,6 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 
 **ORC | ISENGARD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 6 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -353,8 +337,6 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 ### ROWAN THISTLEWOOD [45 POINTS]
 
 **MAN | RUFFIAN | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -392,8 +374,6 @@ Once per game, if Rowan ends his Move within 1" of a single building or piece of
 
 **MAN | RUFFIAN | WARRIOR, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 2 | 5+ | 3 | 3 | 1 | 1 | 8+ | 8+ |
@@ -427,8 +407,6 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 
 **ORC | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 7+ | 6+ | 2 | 1 | 1 |
@@ -458,8 +436,6 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 
 **HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 4" | 2 | 3+ | 2 | 3 | 1 | 2 | 7+ | 7+ | 1 | 1 | 1 |
@@ -486,8 +462,6 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 ### UGLUK [75 POINTS]
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -525,8 +499,6 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 7 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -554,8 +526,6 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 ### URUK-HAI CAPTAIN (GENERAL) [65 POINTS]
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -585,8 +555,6 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 5 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -609,8 +577,6 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 ### WILD MAN CHIEFTAIN [40 POINTS]
 
 **MAN | DUNLAND | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -642,8 +608,6 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 ### WILD MAN OATHMAKER [55 POINTS]
 
 **MAN | DUNLAND, ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -679,8 +643,6 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 ### ISENGARD ORC SHAMAN [50 POINTS]
 
 **ORC | ISENGARD | HERO, INFANTRY | 25MM**
-
-*MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -718,8 +680,6 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 4 | 1 | 2 | 6+ | 6+ | 1 | 3 | 1 |
@@ -754,8 +714,6 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 ### GRIMA [25 POINTS]
 
 **MAN | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -792,8 +750,6 @@ If Grima is deployed as part of the enemy Army, then enemy models treat him as a
 ### URUK-HAI DRUMMER [35 POINTS]
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
-
-*INDEPENDENT HERO*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -979,8 +935,6 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
 ### URUK-HAI DEMOLITION TEAM [80 POINTS]
 
-*WARRIOR*
-
 **COMPOSITION**
 
 Two Uruk-hai Engineers, one Uruk-hai Berserker with a torch, and one Demolition Charge.
@@ -1140,8 +1094,6 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 ### ISENGARD ASSAULT BALLISTA [75 POINTS]
 
 **SIEGE ENGINE | 105MM**
-
-*SIEGE ENGINE, 105MM*
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|

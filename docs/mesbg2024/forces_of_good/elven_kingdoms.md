@@ -4,8 +4,6 @@
 
 **ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 3 | 3 | 1 | 3 | 3+ | 3+ | 3 | 6 | 3 |
@@ -63,8 +61,6 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 9 | 3+ | 4 | 7 | 3 | 3 | 3+ | 4+ | 3 | 3 | 1 |
@@ -106,8 +102,6 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 ### THRANDUIL, KING OF THE WOODLAND REALM [130 POINTS]
 
 **ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -174,8 +168,6 @@ In a turn in which Thranduil Charges into Combat, he resolves his Strikes at Str
 
 **ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 4 | 1 | 3 | 3+ | 4+ | 3 | 3 | 3 |
@@ -221,8 +213,6 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 ### ELROND [170 POINTS]
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -284,8 +274,6 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 **ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 4 | 2 | 2 | 4+ | 4+ | 3 | 1 | 1 |
@@ -325,8 +313,6 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 
 **ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 2+ | 4 | 5 | 2 | 2 | 4+ | 4+ | 3 | 2 | 3 |
@@ -335,7 +321,7 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 
 - [Armour]
 - Elf [Bow]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -373,8 +359,6 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 ### ARWEN [70 POINTS]
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -421,8 +405,6 @@ Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 4 | 1 | 2 | 4+ | 3+ | 1 | 4 | 1 |
@@ -466,8 +448,6 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 2 | 2 |
@@ -475,7 +455,7 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -508,8 +488,6 @@ Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wou
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 2 | 2 |
@@ -517,7 +495,7 @@ Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wou
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -550,8 +528,6 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 
 **ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 1 | 1 |
@@ -583,8 +559,6 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 ### LINDIR [70 POINTS]
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -627,8 +601,6 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 **ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 4 | 2 | 2 | 4+ | 5+ | 2 | 1 | 1 |
@@ -656,8 +628,6 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 ### MIRKWOOD ELF CAPTAIN [75 POINTS]
 
 **ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -689,8 +659,6 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 ### MIRKWOOD RANGER CAPTAIN [75 POINTS]
 
 **ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -725,8 +693,6 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 
 **ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 6 | 3 | 2 | 4+ | 4+ | 2 | 1 | 1 |
@@ -734,7 +700,7 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -757,8 +723,6 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 ### PALACE GUARD CAPTAIN [80 POINTS]
 
 **ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -799,8 +763,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **ELF | RIVENDELL | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 1 | 1 |
@@ -832,8 +794,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 ### RUMIL, WARDEN OF CARAS GALADHON [85 POINTS]
 
 **ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -867,8 +827,6 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 
 **ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 5 | 3 | 2 | 4+ | 4+ | 3 | 2 | 3 |
@@ -877,7 +835,7 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 
 - [Armour]
 - [Elven Cloak]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -927,6 +885,18 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
 - [Shield] - 1 point
+
+**SPECIAL RULES**
+
+- [Woodland Creature]
+
+---
+
+**Galadhrim Steed**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 5 | 0 | 1 | 7+ | 7+ |
 
 **SPECIAL RULES**
 

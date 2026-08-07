@@ -4,8 +4,6 @@
 
 **GOBLIN | MORIA | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 2 | 5+ | 3 | 4 | 1 | 2 | 6+ | 6+ | 1 | 4 | 1 |
@@ -48,8 +46,6 @@ Only Spider models may benefit from Ashrak's [Stand Fast] or Heroic Actions. Add
 
 **MAN | HARAD | HERO, INFANTRY | 25MM**
 
-*HERO OF VALOUR, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 5+ | 5+ | 2 | 2 | 2 |
@@ -85,8 +81,6 @@ If this model is your General, it increases its Attacks characteristic to 3 and 
 ### KHAMUL THE EASTERLING [130 POINTS]
 
 **SPIRIT, RINGWRAITH | MORDOR, EASTERLING | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -138,8 +132,6 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 
 **MAN | KHAND | HERO, INFANTRY | 25MM**
 
-*HERO OF VALOUR, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 3 | 2 | 5+ | 5+ | 2 | 2 | 1 |
@@ -176,8 +168,6 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 
 **MAN | HARAD, MAHUD | HERO, INFANTRY | 25MM**
 
-*HERO OF VALOUR, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 5 | 6 | 3 | 2 | 5+ | 6+ | 2 | 2 | 1 |
@@ -207,8 +197,6 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 7 | 3 | 3 | 5+ | 5+ | 3 | 3 | 1 |
@@ -216,7 +204,7 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 **WARGEAR**
 
 - [Heavy Armour]
-- Bone-breaker
+- Bone-breakers
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -226,7 +214,7 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 
 **SPECIAL RULES**
 
-- Elfbane
+- [Elfbane]
 - [Hatred] (Elf)
 
 - **Bone-breakers** `ACTIVE`
@@ -250,8 +238,6 @@ The range of Razgush's [Stand Fast] is 12" rather than 6".
 ### THE BETRAYER [130 POINTS]
 
 **SPIRIT, RINGWRAITH | MORDOR, HARAD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -302,8 +288,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 
 **SPIRIT, RINGWRAITH | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 8 | 1 | 1 | 4+ | 4+ | 2 | 14 | 2 |
@@ -351,8 +335,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 ### THE DWIMMERLAIK [130 POINTS]
 
 **SPIRIT, RINGWRAITH | MORDOR, ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -402,8 +384,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 **MAN | HARAD | HERO, INFANTRY, UNIQUE | 50MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 4 | 4 | 6+ | 5+ | 2 | 6 | 2 |
@@ -421,6 +401,10 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 - [Burly]
 
+- **The Golden Throne** `PASSIVE`
+
+This is a Unique [banner][Banner]. The Golden King does not suffer the -1 penalty to his Duel Rolls for carrying a [banner][Banner].
+
 </div>
 
 ---
@@ -430,8 +414,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 ### THE KNIGHT OF UMBAR [130 POINTS]
 
 **SPIRIT, RINGWRAITH | MORDOR, UMBAR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -485,8 +467,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 
 **SPIRIT, RINGWRAITH | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 8 | 1 | 1 | 5+ | 4+ | 2 | 14 | 2 |
@@ -534,8 +514,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 ### THE SPIDER QUEEN [120 POINTS]
 
 **SPIDER | DOL GULDUR | HERO, INFANTRY, MONSTER, BEAST, UNIQUE | 60MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -587,8 +565,6 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 **SPIRIT, RINGWRAITH | MORDOR, ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 8 | 1 | 1 | 4+ | 4+ | 2 | 14 | 2 |
@@ -629,8 +605,6 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 ### THE UNDYING [130 POINTS]
 
 **SPIRIT, RINGWRAITH | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -684,8 +658,6 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 5 | 2 | 2 | 6+ | 6+ | 3 | 2 | 2 |
@@ -724,8 +696,6 @@ The range of Thrydan's [Stand Fast] is 12" rather than 6".
 
 **URUK-HAI | MORDOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 7 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -756,8 +726,6 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 
 **MAN | DUNLAND | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 5 | 5 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -781,8 +749,6 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 ### FRIDA TALLSPEAR [70 POINTS]
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -822,8 +788,6 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 
 **ORC | ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 6+ | 8+ | 2 | 2 | 0 |
@@ -858,8 +822,6 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 5+ | 5 | 6 | 2 | 2 | 6+ | 6+ | 2 | 2 | 2 |
@@ -892,8 +854,6 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 
 **MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 5 | 3 | 2 | 6+ | 6+ | 2 | 1 | 2 |
@@ -901,7 +861,7 @@ Whenever Goroth suffers a Wound, before any Fate Rolls are made, he may roll a D
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -926,8 +886,6 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 ### GREAT BEAST OF GORGOROTH [175 POINTS]
 
 **GREAT BEAST | MORDOR | WAR BEAST | 120MM OVAL**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -992,8 +950,6 @@ If the Orc Commander would lose its last Wound whilst riding the Great Beast, th
 
 **GOBLIN | MORIA | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 5+ | 4 | 6 | 2 | 2 | 7+ | 6+ | 2 | 1 | 3 |
@@ -1026,8 +982,6 @@ This is a Unique piece of wargear. Friendly Moria Goblin models within 3" of Gro
 ### KARDUSH THE FIRECALLER [65 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1069,8 +1023,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **MAN | KHAND | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 5+ | 5+ | 2 | 1 | 1 |
@@ -1099,8 +1051,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **MAN | HARAD, MAHUD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 3+ | 5 | 5 | 2 | 2 | 7+ | 7+ | 2 | 1 | 1 |
@@ -1126,6 +1076,20 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 - [Poisoned Attacks] (blowpipe)
 
+---
+
+**War Camel**
+
+**CAMEL | MAHUD | MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 2 | 6+ | 4 | 4 | 0 | 1 | 8+ | 8+ |
+
+- **Impaler** `ACTIVE`
+
+Each time this model Charges into Combat, it will inflict a single Strength 4 hit upon one model it has Charged (Cavalry models suffer this hit on both the rider and the Mount). If after this hit, this model is no longer Engaged in Combat, they may continue their Move in any way their controlling player wishes; stopping straight away, Charging another enemy model, or anything in between.
+
 </div>
 
 ---
@@ -1136,8 +1100,6 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 5 | 3+ | 5 | 5 | 3 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -1145,7 +1107,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1167,8 +1129,6 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 ### MORIA BLACKSHIELD CAPTAIN [45 POINTS]
 
 **GOBLIN | MORIA | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1197,8 +1157,6 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 ### MUZGUR, ORC SHAMAN [70 POINTS]
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1239,8 +1197,6 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 5 | 5 | 2 | 2 | 6+ | 5+ | 2 | 2 | 1 |
@@ -1271,8 +1227,6 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 
 **ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 3 | 2 | 6+ | 7+ | 2 | 1 | 1 |
@@ -1280,7 +1234,7 @@ Whenever Muzgur slays an enemy model in Combat, he immediately regains a Will Po
 **WARGEAR**
 
 - [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1302,8 +1256,6 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 ### MORIA BLACKSHIELD SHAMAN [50 POINTS]
 
 **GOBLIN | MORIA | HERO, INFANTRY | 25MM**
-
-*MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1340,8 +1292,6 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 
 **URUK-HAI | MORDOR | HERO, INFANTRY | 25MM**
 
-*INDEPENDENT HERO*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 5 | 5 | 1 | 1 | 6+ | 6+ | 0 | 0 | 1 |
@@ -1361,8 +1311,6 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 ### CASTELLAN OF DOL GULDUR [50 POINTS]
 
 **SPIRIT | DOL GULDUR | HERO, INFANTRY | 25MM**
-
-*INDEPENDENT HERO*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1457,7 +1405,7 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 **WARGEAR**
 
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -1599,7 +1547,7 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 **WARGEAR**
 
 - [Light Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -1745,6 +1693,20 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 - [Poisoned Attacks] (blowpipe)
 
+---
+
+**War Camel**
+
+**CAMEL | MAHUD | MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 2 | 6+ | 4 | 4 | 0 | 1 | 8+ | 8+ |
+
+- **Impaler** `ACTIVE`
+
+Each time this model Charges into Combat, it will inflict a single Strength 4 hit upon one model it has Charged (Cavalry models suffer this hit on both the rider and the Mount). If after this hit, this model is no longer Engaged in Combat, they may continue their Move in any way their controlling player wishes; stopping straight away, Charging another enemy model, or anything in between.
+
 </div>
 
 ---
@@ -1815,12 +1777,14 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 - [Heavy Armour]
 - [Hand Weapon]
-- Drum
+- [Drum](#run-and-drum)
 
 **SPECIAL RULES**
 
 - [Cave Dweller]
 - [Hatred] (Dwarf)
+
+<a id="run-and-drum"></a>
 
 - **Run and Drum** `ACTIVE`
 
@@ -1889,8 +1853,6 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 <div class="unitCard" markdown>
 
 ### WARG MARAUDER [35 POINTS]
-
-*WARRIOR*
 
 **Moria Goblin Warrior**
 

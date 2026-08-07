@@ -4,8 +4,6 @@
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 4 | 8 | 2 | 2 | 4+ | 4+ | 3 | 3 | 1 |
@@ -44,8 +42,6 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 
 **MAN | ROHAN | HERO, CAVALRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 7 | 3 | 3 | 5+ | 5+ | 3 | 2 | 2 |
@@ -79,6 +75,14 @@ The first time each turn Eorl spends a Might Point, roll a D6. On a 4+, the Migh
 
 This model may use its throwing spears as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
+---
+
+**Feralof**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 2 | 6+ | 3 | 5 | 0 | 1 | 7+ | 7+ |
+
 </div>
 
 ---
@@ -88,8 +92,6 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 ### BANDOBRAS TOOK [50 POINTS]
 
 **HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -125,8 +127,6 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 6 | 2 | 2 | 6+ | 6+ | 2 | 2 | 1 |
@@ -160,8 +160,6 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 **DWARF | IRON HILLS | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 7 | 2 | 2 | 5+ | 5+ | 2 | 2 | 2 |
@@ -192,8 +190,6 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 5 | 4+ | 4 | 8 | 2 | 2 | 6+ | 6+ | 1 | 0 | 0 |
@@ -219,8 +215,6 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 ### ERESTOR [85 POINTS]
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -253,8 +247,6 @@ These are Elven hand weapons, which Erestor may also use as Elven [throwing weap
 ### ERKENBRAND, CAPTAIN OF ROHAN [90 POINTS]
 
 **MAN | ROHAN | HERO, CAVALRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -292,8 +284,6 @@ This is a Unique [war horn][War Horn]. Additionally, once per game at the start 
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 4 | 4+ | 4 | 6 | 2 | 2 | 5+ | 4+ | 1 | 3 | 1 |
@@ -327,15 +317,13 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 6 | 3+ | 4 | 4 | 2 | 2 | 4+ | 5+ | 1 | 4 | 1 |
 
 **WARGEAR**
 
-- Elven Weapon
+- [Elven Weapon]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -367,8 +355,6 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 2 | 2 | 1 |
@@ -396,8 +382,6 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 **DWARF | KHAZAD-DUM | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 5" | 6 | 4+ | 5 | 7 | 3 | 2 | 5+ | 6+ | 2 | 1 | 1 |
@@ -405,7 +389,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 **WARGEAR**
 
 - Dwarf [Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -451,8 +435,6 @@ If the King's Champion this Herald belongs to is Wounded, and this model is in b
 
 **MAN | GONDOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 6 | 2 | 2 | 6+ | 5+ | 2 | 1 | 1 |
@@ -487,8 +469,6 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 
 **ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 3 | 4 | 1 | 2 | 5+ | 5+ | 1 | 3 | 1 |
@@ -496,7 +476,7 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 **WARGEAR**
 
 - [Armour]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -527,8 +507,6 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 ### MURIN [70 POINTS]
 
 **DWARF | IRON HILLS | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -561,8 +539,6 @@ This is a Unique [hand weapon][Hand Weapon]. Murin gains a bonus of +1 To Wound 
 ### ANBORN, RANGER OF ITHILIEN [40 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*MINOR HERO, UNIQUE, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -597,8 +573,6 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 **MAN | ROHAN | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 3 | 3+ | 4 | 5 | 1 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -607,7 +581,7 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 - [Armour]
 - [Hand Weapon]
-- Longbow
+- [Longbow][Bow]
 
 **HEROIC ACTIONS**
 
@@ -630,8 +604,6 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 ### MABLUNG, RANGER OF ITHILIEN [40 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*MINOR HERO, UNIQUE, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -665,8 +637,6 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 
 **ELF | RIVENDELL | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 3 | 4 | 1 | 2 | 5+ | 5+ | 1 | 3 | 1 |
@@ -674,7 +644,7 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 **WARGEAR**
 
 - [Armour]
-- Elven Hand Weapons
+- [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
 
@@ -705,8 +675,6 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 ### MAN-AT-ARMS OF DOL AMROTH [10 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

@@ -4,8 +4,6 @@
 
 **MAN | CORSAIR, UMBAR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 3+ | 4 | 4 | 3 | 2 | 6+ | 4+ | 2 | 2 | 3 |
@@ -44,8 +42,6 @@ Dalamyr can never be Trapped whilst still standing.
 ### MUMAK WAR LEADER [400 POINTS]
 
 **MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -128,8 +124,6 @@ The Howdah has a capacity of 12 models in addition to the Mumak War Leader, who 
 
 **MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 3 | 3 | 5+ | 5+ | 3 | 3 | 1 |
@@ -174,8 +168,6 @@ Suladan's [Stand Fast] is 12" rather than 6".
 ### THE DRAGON EMPEROR OF RHUN [200 POINTS]
 
 **MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -257,8 +249,6 @@ If the Dragon Emperor dismounts or is slain, replace the Palanquin with a number
 
 **MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 4 | 6 | 3 | 3 | 5+ | 5+ | 3 | 3 | 1 |
@@ -312,8 +302,6 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 **MAN | CORSAIR, UMBAR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 5 | 3 | 2 | 6+ | 6+ | 3 | 1 | 1 |
@@ -344,8 +332,6 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 ### RUTABI, GENERAL OF THE DRAGON LEGION [120 POINTS]
 
 **MAN | EASTERLING | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -384,8 +370,6 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 ### BRORGIR THE CONJURER [80 POINTS]
 
 **MAN | EASTERLING | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -429,8 +413,6 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 **MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 3+ | 4 | 4 | 2 | 2 | 6+ | 6+ | 1 | 1 | 1 |
@@ -466,8 +448,6 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 **MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 4 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -496,8 +476,6 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 ### CORSAIR CAPTAIN (GENERAL) [55 POINTS]
 
 **MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -533,8 +511,6 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 **MAN | EASTERLING | HERO, CAVALRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 7 | 2 | 2 | 6+ | 5+ | 2 | 1 | 1 |
@@ -569,8 +545,6 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 ### EASTERLING WAR PRIEST [60 POINTS]
 
 **MAN | EASTERLING | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -613,8 +587,6 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 **MAN | HARAD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -647,8 +619,6 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 **MAN | HARAD | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 2 | 2 | 6+ | 7+ | 1 | 1 | 1 |
@@ -678,8 +648,6 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Sho
 ### HASHARIN [80 POINTS]
 
 **MAN | HARAD, UMBAR | HERO, INFANTRY | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -717,8 +685,6 @@ A Hasharin can never be Trapped while still standing.
 
 **MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 4+ | 4 | 5 | 3 | 2 | 5+ | 5+ | 2 | 2 | 2 |
@@ -752,8 +718,6 @@ At the start of the game, after both sides have deployed, secretly select one He
 ### WAR MUMAK OF HARAD [250 POINTS]
 
 **MUMAK | HARAD | WAR BEAST | 180X140MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -844,8 +808,6 @@ The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is pl
 
 **MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY | 25MM**
 
-*MINOR HERO, 6 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 6 | 3 | 2 | 6+ | 6+ | 2 | 0 | 0 |
@@ -853,7 +815,7 @@ The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is pl
 **WARGEAR**
 
 - [Heavy Armour]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -994,7 +956,7 @@ A Corsair of Umbar must have one of the following options for the listed points 
 
 - [Armour]
 - [Throwing Weapons]
-- Hand Weapons
+- [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
 
@@ -1197,8 +1159,6 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 ### CORSAIR BALLISTA [70 POINTS]
 
 **SIEGE ENGINE | 40MM**
-
-*SIEGE ENGINE, 40MM*
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|

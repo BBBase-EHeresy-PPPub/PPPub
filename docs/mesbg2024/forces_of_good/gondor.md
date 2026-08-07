@@ -4,8 +4,6 @@
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 3+ | 4 | 7 | 3 | 3 | 4+ | 3+ | 3 | 3 | 3 |
@@ -57,8 +55,6 @@ Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
 
 **MAN | NUMENOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 8 | 4+ | 5 | 7 | 3 | 3 | 4+ | 4+ | 3 | 3 | 1 |
@@ -95,8 +91,6 @@ The range of Elendil's [Stand Fast] is 12" rather than 6".
 ### GANDALF THE WHITE [200 POINTS]
 
 **WIZARD | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -158,8 +152,6 @@ Gandalf may re-roll any failed Fate rolls.
 
 **MAN | ARNOR | HERO, INFANTRY | 25MM**
 
-*HERO OF LEGEND, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 4 | 5 | 3 | 2 | 4+ | 5+ | 2 | 2 | 2 |
@@ -195,8 +187,6 @@ Gandalf may re-roll any failed Fate rolls.
 ### KING OF MEN (DALE) [75 POINTS]
 
 **MAN | DALE | HERO, INFANTRY | 25MM**
-
-*HERO OF LEGEND, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -236,8 +226,6 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 
 **MAN | NUMENOR | HERO, INFANTRY | 25MM**
 
-*HERO OF LEGEND, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 5 | 5 | 2 | 2 | 4+ | 5+ | 2 | 2 | 2 |
@@ -273,8 +261,6 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 ### KING OF MEN (ROHAN) [75 POINTS]
 
 **MAN | ROHAN | HERO, INFANTRY | 25MM**
-
-*HERO OF LEGEND, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -313,8 +299,6 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 ### PRINCE IMRAHIL [<span style="color: darkmagenta">140</span> POINTS]
 
 **MAN | GONDOR, DOL AMROTH | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -356,8 +340,6 @@ Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with
 ### BOROMIR, CAPTAIN OF THE WHITE TOWER [160 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -406,8 +388,6 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 6 | 2 | 2 | 5+ | 5+ | 2 | 3 | 1 |
@@ -439,8 +419,6 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 ### FARAMIR [100 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -484,8 +462,6 @@ If Faramir is alive and you choose to give Priority to your opponent, then Faram
 
 **MAN | GONDOR, LOSSARNACH | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 5 | 6 | 2 | 3 | 6+ | 6+ | 3 | 1 | 1 |
@@ -520,8 +496,6 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 ### HURIN THE TALL, WARDEN OF THE KEYS [80 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -566,8 +540,6 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 
 **MAN | NUMENOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 7 | 4+ | 5 | 7 | 3 | 3 | 4+ | 5+ | 3 | 2 | 2 |
@@ -586,7 +558,7 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 **OPTIONS**
 
 - [Horse] - 20 points
-- The One Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 
@@ -605,8 +577,6 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 ### KING OF MEN (GONDOR) [75 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY | 25MM**
-
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -646,8 +616,6 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 
 **SPIRIT | DUNHARROW | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF VALOUR, UNIQUE, 15 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 6 | 4+ | 4 | 8 | 2 | 3 | 3+ | 5+ | 1 | 6 | 3 |
@@ -686,8 +654,6 @@ Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fa
 
 **MAN | GONDOR, LAMEDON | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 5+ | 7+ | 2 | 2 | 2 |
@@ -721,8 +687,6 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 3+ | 4 | 6 | 2 | 2 | 6+ | 5+ | 2 | 2 | 2 |
@@ -731,7 +695,7 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 
 - [Heavy Armour]
 - [Hand Weapon]
-- Longbow
+- [Longbow][Bow]
 
 **HEROIC ACTIONS**
 
@@ -755,15 +719,13 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 
 **MAN | GONDOR, DOL AMROTH | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 7 | 2 | 2 | 5+ | 6+ | 2 | 1 | 1 |
 
 **WARGEAR**
 
-- Heavy Amour
+- [Heavy Armour]
 - [Hand Weapon]
 - [Shield]
 
@@ -790,8 +752,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 ### CAPTAIN OF MINAS TIRITH [60 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -821,8 +781,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 **MAN | NUMENOR | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 6 | 4+ | 5 | 6 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
@@ -846,8 +804,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 ### DAMROD [40 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -880,8 +836,6 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 ### DUINHIR, LORD OF THE BLACKROOT VALE [65 POINTS]
 
 **MAN | GONDOR, BLACKROOT VALE | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -922,8 +876,6 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 
 **SPIRIT | DUNHARROW | HERO, INFANTRY | 25MM**
 
-*HERO OF FORTITUDE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 8" | 4 | 4+ | 4 | 8 | 2 | 2 | 4+ | 6+ | 0 | 3 | 2 |
@@ -959,8 +911,6 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 4+ | 4 | 7 | 2 | 2 | 6+ | 6+ | 2 | 2 | 2 |
@@ -993,8 +943,6 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 ### IROLAS [65 POINTS]
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1032,8 +980,6 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 
 **MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
-*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 3+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 3 | 1 | 1 |
@@ -1066,8 +1012,6 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 ### PEREGRIN TOOK [25 POINTS]
 
 **HOBBIT | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
-
-*INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1384,6 +1328,21 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 - [Terror]
 - [Spectral Walk]
 
+---
+
+**Spectral Steed**
+
+**SPIRIT | MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 2 | 6+ | 3 | 6 | 0 | 1 | 5+ | 7+ |
+
+**SPECIAL RULES**
+
+- [Terror]
+- [Spectral Walk]
+
 </div>
 
 ---
@@ -1486,8 +1445,6 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 **SIEGE ENGINE | 40MM**
 
-*SIEGE ENGINE, 40MM*
-
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
 | 0"-36" | 7 | 9 | 3 |
@@ -1535,8 +1492,6 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 
 **SIEGE ENGINE | 120MM**
 
-*SIEGE ENGINE, 120MM*
-
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
 | 12"-96" | 10 | 10 | 3 |
@@ -1558,7 +1513,7 @@ A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound r
 **SPECIAL RULES**
 
 - [Arcing Shot]
-- Static
+- [Static]
 
 - **Area Effect** `ACTIVE`
 

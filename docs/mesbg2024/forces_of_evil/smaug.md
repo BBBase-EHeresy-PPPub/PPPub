@@ -4,8 +4,6 @@
 
 **DRAGON | EREBOR | HERO, INFANTRY, MONSTER, UNIQUE | 231X133MM**
 
-*HERO OF LEGEND, UNIQUE, 18 WARBAND*
-
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 12" | 9 | 2+ | 9 | 9 | 4 | 20 | 4+ | 4+ | 3 | 6 | 0 |
