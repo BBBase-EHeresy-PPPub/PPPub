@@ -21,7 +21,7 @@
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloak
 [War Drum]: ../rules_manual/weapons_and_wargear.md#war-drum-x
 [War Horn]: ../rules_manual/weapons_and_wargear.md#war-horn
-[Armour]: ../rules_manual/weapons_and_wargear.md#armour
+[Armour]: ../rules_manual/weapons_and_wargear.md#armour_1
 [Light Armour]: ../rules_manual/weapons_and_wargear.md#light-armour
 [Heavy Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour

@@ -2,6 +2,8 @@
 
 ### HELM HAMMERHAND, KING OF ROHAN [160 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -52,6 +54,8 @@ Helm may declare a free [Heroic Combat] each Fight phase. However, after he has 
 
 ### HELM HAMMERHAND, WRAITH OF THE HORNBURG [180 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -101,6 +105,8 @@ Helm must always Charge if able to do so. When he Charges, he gains [Terror] unt
 
 ### HERA, THE BRIDE OF DEATH [125 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -142,6 +148,8 @@ Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
 <div class="unitCard" markdown>
 
 ### THEODEN [75 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -191,6 +199,8 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 ### EOMER [110 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -235,6 +245,8 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-ro
 
 ### FREALAF [100 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -276,6 +288,8 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 
 ### HALETH, PRINCE OF ROHAN [100 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -314,6 +328,8 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 <div class="unitCard" markdown>
 
 ### HAMA, PRINCE OF ROHAN [70 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -354,6 +370,8 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 
 ### THEODRED [85 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -393,6 +411,8 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 ### CAPTAIN OF ROHAN [45 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -426,6 +446,8 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 <div class="unitCard" markdown>
 
 ### DEORWINE, CHIEF OF THE KING'S KNIGHTS [70 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -467,6 +489,8 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 
 ### ELFHELM, CAPTAIN OF ROHAN [60 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -506,6 +530,8 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 <div class="unitCard" markdown>
 
 ### EOWYN [60 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -552,6 +578,8 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 
 ### GAMLING [55 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -591,6 +619,8 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 
 ### HAMA, CAPTAIN OF ROHAN [60 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -622,6 +652,8 @@ As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Gua
 <div class="unitCard" markdown>
 
 ### HERA, DAUGHTER OF HELM [70 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -666,6 +698,8 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 
 ### OLWYN, SHIELDMAIDEN OF ROHAN [80 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -704,6 +738,8 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 <div class="unitCard" markdown>
 
 ### LIEF, PAGE OF HELM [50 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *MINOR HERO, UNIQUE, 6 WARBAND*
 
@@ -745,6 +781,8 @@ Lief may spend a Will point at the end of his Activation, as long as he is not E
 
 ### ALDOR [20 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -780,6 +818,8 @@ Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attac
 <div class="unitCard" markdown>
 
 ### HALETH, SON OF HAMA [30 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *INDEPENDENT HERO, UNIQUE*
 
@@ -817,6 +857,8 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 ### MERIADOC BRANDYBUCK [25 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -849,6 +891,8 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 <div class="unitCard" markdown>
 
 ### RIDER OF ROHAN [14 POINTS]
+
+**MAN | ROHAN | WARRIOR, CAVALRY | 40MM**
 
 *WARRIOR*
 
@@ -889,6 +933,8 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 ### ROHAN ROYAL GUARD [11 POINTS]
 
+**MAN | ROHAN | WARRIOR, INFANTRY, ELITE | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -927,6 +973,8 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 <div class="unitCard" markdown>
 
 ### WARRIOR OF ROHAN [6 POINTS]
+
+**MAN | ROHAN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 

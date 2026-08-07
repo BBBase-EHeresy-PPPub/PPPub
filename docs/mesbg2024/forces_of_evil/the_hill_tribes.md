@@ -2,6 +2,8 @@
 
 ### WULF [110 POINTS]
 
+**MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -40,6 +42,8 @@ If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the
 
 ### FRECA [80 POINTS]
 
+**MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -75,6 +79,8 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 <div class="unitCard" markdown>
 
 ### GENERAL TARGG [80 POINTS]
+
+**MAN | DUNLAND | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -113,6 +119,8 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 
 ### HILL TRIBES CHIEFTAIN [40 POINTS]
 
+**MAN | DUNLAND | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -143,6 +151,8 @@ Whilst alive on the battlefield, if you win the Priority roll and give Priority 
 <div class="unitCard" markdown>
 
 ### LORD THORNE OF THE WOLD [70 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -179,9 +189,13 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 
 ### SHANK & WROT [150 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *MINOR HERO, UNIQUE, 6 WARBAND*
 
 **Shank**
+
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -214,6 +228,8 @@ Shank may spend a Will point at the start of his activation. If the Snow Troll i
 
 **Wrot**
 
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 4 | 5+ | 4 | 5 | 3 | 2 | 6+ | 9+ | 1 | 1 | 1 |
@@ -241,6 +257,8 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 **Snow Troll**
 
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 6 | 4+ | 6 | 7 | 3 | 3 | 5+ | 8+ |
@@ -266,6 +284,8 @@ During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +
 <div class="unitCard" markdown>
 
 ### HILL TRIBESMAN [5 POINTS]
+
+**MAN | DUNLAND | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -305,6 +325,8 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 <div class="unitCard" markdown>
 
 ### ROHIRRIM TRAITOR [6 POINTS]
+
+**MAN | ROHAN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 

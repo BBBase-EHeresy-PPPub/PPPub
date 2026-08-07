@@ -2,6 +2,8 @@
 
 ### ARAGORN, KING ELESSAR [225 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -53,6 +55,8 @@ Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
 
 ### ELENDIL [175 POINTS]
 
+**MAN | NUMENOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -89,6 +93,8 @@ The range of Elendil's [Stand Fast] is 12" rather than 6".
 <div class="unitCard" markdown>
 
 ### GANDALF THE WHITE [200 POINTS]
+
+**WIZARD | FELLOWSHIP | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -150,6 +156,8 @@ Gandalf may re-roll any failed Fate rolls.
 
 ### KING OF MEN (ARNOR) [75 POINTS]
 
+**MAN | ARNOR | HERO, INFANTRY | 25MM**
+
 *HERO OF LEGEND, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -185,6 +193,8 @@ Gandalf may re-roll any failed Fate rolls.
 <div class="unitCard" markdown>
 
 ### KING OF MEN (DALE) [75 POINTS]
+
+**MAN | DALE | HERO, INFANTRY | 25MM**
 
 *HERO OF LEGEND, 18 WARBAND*
 
@@ -224,6 +234,8 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 
 ### KING OF MEN (NUMENOR) [75 POINTS]
 
+**MAN | NUMENOR | HERO, INFANTRY | 25MM**
+
 *HERO OF LEGEND, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -259,6 +271,8 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 <div class="unitCard" markdown>
 
 ### KING OF MEN (ROHAN) [75 POINTS]
+
+**MAN | ROHAN | HERO, INFANTRY | 25MM**
 
 *HERO OF LEGEND, 18 WARBAND*
 
@@ -297,6 +311,8 @@ A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
 <div class="unitCard" markdown>
 
 ### PRINCE IMRAHIL [<span style="color: darkmagenta">140</span> POINTS]
+
+**MAN | GONDOR, DOL AMROTH | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -338,6 +354,8 @@ Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with
 <div class="unitCard" markdown>
 
 ### BOROMIR, CAPTAIN OF THE WHITE TOWER [160 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -386,6 +404,8 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 
 ### DENETHOR [50 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -417,6 +437,8 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 <div class="unitCard" markdown>
 
 ### FARAMIR [100 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -460,6 +482,8 @@ If Faramir is alive and you choose to give Priority to your opponent, then Faram
 
 ### FORLONG THE FAT [90 POINTS]
 
+**MAN | GONDOR, LOSSARNACH | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -494,6 +518,8 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 <div class="unitCard" markdown>
 
 ### HURIN THE TALL, WARDEN OF THE KEYS [80 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -538,6 +564,8 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 
 ### ISILDUR [130 POINTS]
 
+**MAN | NUMENOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -575,6 +603,8 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 <div class="unitCard" markdown>
 
 ### KING OF MEN (GONDOR) [75 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -614,6 +644,8 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 
 ### KING OF THE DEAD [100 POINTS]
 
+**SPIRIT | DUNHARROW | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -652,6 +684,8 @@ Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fa
 
 ### ANGBOR THE FEARLESS [70 POINTS]
 
+**MAN | GONDOR, LAMEDON | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -685,6 +719,8 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 
 ### BEREGOND, GUARD OF THE CITADEL [65 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -716,6 +752,8 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 <div class="unitCard" markdown>
 
 ### CAPTAIN OF DOL AMROTH [65 POINTS]
+
+**MAN | GONDOR, DOL AMROTH | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -751,6 +789,8 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 ### CAPTAIN OF MINAS TIRITH [60 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -779,6 +819,8 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 ### CAPTAIN OF NUMENOR [70 POINTS]
 
+**MAN | NUMENOR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -802,6 +844,8 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 <div class="unitCard" markdown>
 
 ### DAMROD [40 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -834,6 +878,8 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 <div class="unitCard" markdown>
 
 ### DUINHIR, LORD OF THE BLACKROOT VALE [65 POINTS]
+
+**MAN | GONDOR, BLACKROOT VALE | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -874,6 +920,8 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 
 ### HERALD OF THE DEAD [70 POINTS]
 
+**SPIRIT | DUNHARROW | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -909,6 +957,8 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 
 ### INGOLD, WARDEN OF THE RAMMAS ECHOR [70 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -941,6 +991,8 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 <div class="unitCard" markdown>
 
 ### IROLAS [65 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -978,6 +1030,8 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 
 ### MADRIL [60 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -1011,6 +1065,8 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 ### PEREGRIN TOOK [25 POINTS]
 
+**HOBBIT | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *INDEPENDENT HERO, UNIQUE*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -1043,6 +1099,8 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 ### AXEMAN OF LOSSARNACH [9 POINTS]
 
+**MAN | GONDOR, LOSSARNACH | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1068,6 +1126,8 @@ This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-ha
 <div class="unitCard" markdown>
 
 ### BLACKROOT VALE ARCHER [8 POINTS]
+
+**MAN | GONDOR, BLACKROOT VALE | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1103,6 +1163,8 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 
 ### CITADEL GUARD [8 POINTS]
 
+**MAN | GONDOR | WARRIOR, INFANTRY, ELITE | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1133,6 +1195,8 @@ A Citadel Guard must have one of the following options for the listed points cos
 
 ### CLANSMAN OF LAMEDON [8 POINTS]
 
+**MAN | GONDOR, LAMEDON | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1157,6 +1221,8 @@ Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any r
 <div class="unitCard" markdown>
 
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
+
+**MAN | GONDOR | WARRIOR, INFANTRY, ELITE | 25MM**
 
 *WARRIOR*
 
@@ -1186,6 +1252,8 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 
 ### KNIGHT OF DOL AMROTH [11 POINTS]
 
+**MAN | GONDOR, DOL AMROTH | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1213,6 +1281,8 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 <div class="unitCard" markdown>
 
 ### KNIGHT OF MINAS TIRITH [15 POINTS]
+
+**MAN | GONDOR | WARRIOR, CAVALRY | 25MM**
 
 *WARRIOR*
 
@@ -1243,6 +1313,8 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 <div class="unitCard" markdown>
 
 ### OSGILIATH VETERAN [9 POINTS]
+
+**MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1279,6 +1351,8 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 ### RANGER OF GONDOR [8 POINTS]
 
+**MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1309,6 +1383,8 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 ### RIDER OF THE DEAD [25 POINTS]
 
+**SPIRIT | DUNHARROW | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1335,6 +1411,8 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 <div class="unitCard" markdown>
 
 ### WARRIOR OF MINAS TIRITH [8 POINTS]
+
+**MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1369,6 +1447,8 @@ A Warrior of Minas Tirith must have one of the following options for the listed 
 
 ### WARRIOR OF NUMENOR [9 POINTS]
 
+**MAN | NUMENOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1395,6 +1475,8 @@ A Warrior of Numenor must have one of the following options for the listed point
 <div class="unitCard" markdown>
 
 ### WARRIOR OF THE DEAD [14 POINTS]
+
+**SPIRIT | DUNHARROW | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1427,6 +1509,8 @@ A Warrior of Numenor must have one of the following options for the listed point
 <div class="unitCard" markdown>
 
 ### GONDOR AVENGER BOLT THROWER [60 POINTS]
+
+**SIEGE ENGINE | 40MM**
 
 *SIEGE ENGINE, 40MM*
 
@@ -1474,6 +1558,8 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 <div class="unitCard" markdown>
 
 ### GONDOR BATTLECRY TREBUCHET [100 POINTS]
+
+**SIEGE ENGINE | 120MM**
 
 *SIEGE ENGINE, 120MM*
 

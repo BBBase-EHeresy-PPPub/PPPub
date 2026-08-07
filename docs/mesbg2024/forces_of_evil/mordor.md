@@ -2,6 +2,8 @@
 
 ### GOTHMOG [120 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -42,6 +44,8 @@ Friendly Mordor Orc models within 3" gain the [Hatred] (Man) special rule.
 <div class="unitCard" markdown>
 
 ### THE DARK LORD SAURON [400 POINTS]
+
+**SPIRIT | MORDOR | HERO, INFANTRY, MONSTER, UNIQUE | 40MM**
 
 *HERO OF LEGEND, UNIQUE, 24 WARBAND*
 
@@ -103,6 +107,8 @@ Can make a Strength 10 strike against one model. If they survive, they are [Set 
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [POINTS COST VARIES]
+
+**SPIRIT, RINGWRAITH | MORDOR, ANGMAR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -166,6 +172,28 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 Enemies within 6" or those who Charge the Witch-king cannot benefit from automatically passing Courage tests, except for [Heroic Resolve]. Additionally, once per game, at the start of any Fight phase, you can imbue great power to his [hand weapon][Hand Weapon], and until the end of the turn, any model that suffers a Wound from the Witch-king is [Set Ablaze].
 
+---
+
+**Fell Beast**
+
+**FELLBEAST | MOUNT, MONSTER | 60MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 5 | 6+ | 6 | 6 | 2 | 3 | 7+ | 8+ |
+
+**SPECIAL RULES**
+
+- [Dominant] (3)
+- [Fly]
+- [Large Target]
+- [Terror]
+- [Monstrous Charge]
+
+- **Feral** `PASSIVE`
+
+When a Fell Beast becomes a Separated Mount, it automatically fails the Courage Test and flees.
+
 </div>
 
 ---
@@ -173,6 +201,8 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL CHIEFTAIN (GENERAL) [150 POINTS]
+
+**TROLL | MORDOR | HERO, INFANTRY, MONSTER | 60MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -204,6 +234,8 @@ Enemies within 6" or those who Charge the Witch-king cannot benefit from automat
 <div class="unitCard" markdown>
 
 ### MOUTH OF SAURON [75 POINTS]
+
+**MAN | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -249,6 +281,8 @@ Enemy models within 6" of the Mouth of Sauron cannot re-roll 1s in the Duel Roll
 <div class="unitCard" markdown>
 
 ### RINGWRAITH [POINTS COST VARIES]
+
+**SPIRIT, RINGWRAITH | MORDOR | HERO, INFANTRY | 25MM**
 
 *HERO OF VALOUR, 15 WARBAND*
 
@@ -308,6 +342,8 @@ Once per game, direct all attacks against one model, and if they suffer at least
 
 ### BLACK NUMENOREAN MARSHAL [70 POINTS]
 
+**MAN | MORDOR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -341,6 +377,8 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 
 ### EASTERLING CAPTAIN [60 POINTS]
 
+**MAN | EASTERLING | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -373,6 +411,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 <div class="unitCard" markdown>
 
 ### GORBAG [60 POINTS]
+
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -408,6 +448,8 @@ If Gorbag wins a Duel Roll, he may choose an enemy model involved in the Combat,
 
 ### GOTHMOG'S ENFORCER [55 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -436,6 +478,8 @@ If Gothmog's Enforcer is within 3" of Gothmog, then Gothmog may spend one of Got
 <div class="unitCard" markdown>
 
 ### GURITZ [65 POINTS]
+
+**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -471,6 +515,8 @@ Whilst Engaged in Combat with an enemy Man model, Guritz gains a +1 bonus to his
 
 ### MORANNON ORC CAPTAIN [55 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -505,6 +551,8 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 ### MORDOR ORC CAPTAIN [45 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -528,6 +576,8 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 <div class="unitCard" markdown>
 
 ### MORDOR ORC TASKMASTER [45 POINTS]
+
+**ORC | MORDOR | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -559,6 +609,8 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic Marc
 
 ### MORDOR TROLL CHIEFTAIN [150 POINTS]
 
+**TROLL | MORDOR | HERO, INFANTRY, MONSTER | 60MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -588,6 +640,8 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], [Heroic Marc
 <div class="unitCard" markdown>
 
 ### MORDOR URUK-HAI CAPTAIN [55 POINTS]
+
+**URUK-HAI | MORDOR | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -621,6 +675,8 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 <div class="unitCard" markdown>
 
 ### SHAGRAT [110 POINTS]
+
+**URUK-HAI | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -659,6 +715,8 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 ### MORDOR ORC SHAMAN [50 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY | 25MM**
+
 *MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -695,6 +753,8 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 ### MORDOR ORC DRUMMER [30 POINTS]
 
+**ORC | MORDOR | HERO, INFANTRY | 25MM**
+
 *INDEPENDENT HERO*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -714,6 +774,8 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 <div class="unitCard" markdown>
 
 ### SHELOB [<span style="color: darkmagenta">100</span> POINTS]
+
+**SPIDER | MORDOR | HERO, INFANTRY, MONSTER, BEAST, UNIQUE | 80MM**
 
 *INDEPENDENT HERO, UNIQUE*
 
@@ -758,6 +820,8 @@ Shelob can choose to direct a single strike at one model in the Combat. That mod
 
 ### BLACK NUMENOREAN KNIGHT [20 POINTS]
 
+**MAN | MORDOR | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -793,6 +857,8 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 
 ### BLACK NUMENOREAN WARRIOR [10 POINTS]
 
+**MAN | MORDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -820,6 +886,8 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 <div class="unitCard" markdown>
 
 ### EASTERLING WARRIOR [8 POINTS]
+
+**MAN | EASTERLING | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -857,6 +925,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 
 ### MORANNON ORC WARRIOR [8 POINTS]
 
+**ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -889,6 +959,8 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 ### MORDOR ORC WARRIOR [5 POINTS]
 
+**ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -917,6 +989,8 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 <div class="unitCard" markdown>
 
 ### MORDOR TROLL [90 POINTS]
+
+**TROLL | MORDOR | WARRIOR, INFANTRY, MONSTER | 60MM**
 
 *WARRIOR*
 
@@ -947,6 +1021,8 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 
 ### MORDOR URUK-HAI [8 POINTS]
 
+**URUK-HAI | MORDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -975,6 +1051,8 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 <div class="unitCard" markdown>
 
 ### MORDOR WARG RIDER [11 POINTS]
+
+**ORC | MORDOR | WARRIOR, CAVALRY | 25MM**
 
 *WARRIOR*
 
@@ -1005,6 +1083,8 @@ A Mordor Warg Rider must have one of the following options for the listed points
 
 ### SPECTRE [15 POINTS]
 
+**SPIRIT | MORDOR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1033,6 +1113,8 @@ At the end of spectre's move, it can choose an enemy model within 12" and in Lin
 <div class="unitCard" markdown>
 
 ### MORDOR SIEGE BOW [50 POINTS]
+
+**SIEGE ENGINE | 40MM**
 
 *SIEGE ENGINE, 40MM*
 
@@ -1086,6 +1168,8 @@ A model hit will be flung back D6" if it has a Strength of 5 or lower. Any model
 <div class="unitCard" markdown>
 
 ### MORDOR WAR CATAPULT [150 POINTS]
+
+**SIEGE ENGINE | 120MM**
 
 *SIEGE ENGINE, 120MM*
 

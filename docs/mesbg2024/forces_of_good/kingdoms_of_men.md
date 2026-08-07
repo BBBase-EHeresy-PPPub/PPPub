@@ -2,6 +2,8 @@
 
 ### BRAND, KING OF DALE [110 POINTS]
 
+**MAN | DALE | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -37,6 +39,8 @@ At the start of any Combat involving Brand, if he would be Trapped upon losing t
 <div class="unitCard" markdown>
 
 ### GIRION, LORD OF DALE [80 POINTS]
+
+**MAN | DALE | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -74,6 +78,8 @@ Girion's [Stand Fast] is 12", and friendly Dale models within 3" of him may re-r
 
 ### BARD II, PRINCE OF DALE [100 POINTS]
 
+**MAN | DALE | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -106,6 +112,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### THE MASTER OF LAKE-TOWN [70 POINTS]
+
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -145,6 +153,8 @@ Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as 
 
 ### ALFRID THE COUNCILLOR [30 POINTS]
 
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -174,6 +184,8 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 <div class="unitCard" markdown>
 
 ### BARD THE BOWMAN [130 POINTS]
+
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -228,6 +240,8 @@ If Bard takes a Windlance, he will be the only crew. but can move more than 6" a
 
 ### BILBO BAGGINS, MASTER BURGLAR [75 POINTS]
 
+**HOBBIT | THORIN'S COMPANY | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -271,6 +285,8 @@ Bilbo ignores the Sauron's Will section of the rules for [the One Ring][The One 
 
 ### BRAGA, CAPTAIN OF THE GUARD [55 POINTS]
 
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -305,6 +321,8 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 ### CAPTAIN OF DALE [55 POINTS]
 
+**MAN | DALE | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -333,6 +351,8 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 ### HILDA-BIANCA [35 POINTS]
 
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -360,6 +380,8 @@ If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she an
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN GUARD CAPTAIN [45 POINTS]
+
+**MAN | LAKE-TOWN | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -390,6 +412,8 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 ### LAKE-TOWN MILITIA CAPTAIN [50 POINTS]
 
+**MAN | LAKE-TOWN | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -414,6 +438,8 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 <div class="unitCard" markdown>
 
 ### PERCY, LAKE-TOWN ARCHER [50 POINTS]
+
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -444,12 +470,16 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 ### BARD'S FAMILY [60 POINTS]
 
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *INDEPENDENT HERO, UNIQUE*
 
 **HEROIC ACTIONS**
 
 - [Heroic Strike]
 **Bain, Son of Bard**
+
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -473,6 +503,8 @@ Whilst within 3" of Sigrid or Tilda, Bain increases his Attacks to 2, and gains 
 
 **Sigrid**
 
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
+
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 2 | 4+ | 2 | 2 | 1 | 1 | 7+ | 7+ | 0 | 1 | 2 |
@@ -492,6 +524,8 @@ Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his 
 ---
 
 **Tilda**
+
+**MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -516,6 +550,8 @@ Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his 
 <div class="unitCard" markdown>
 
 ### KNIGHT OF DALE [11 POINTS]
+
+**MAN | DALE | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -543,6 +579,8 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN GUARD [7 POINTS]
+
+**MAN | LAKE-TOWN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -573,6 +611,8 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 <div class="unitCard" markdown>
 
 ### LAKE-TOWN MILITIA [5 POINTS]
+
+**MAN | LAKE-TOWN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -607,6 +647,8 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is E
 
 ### WARRIOR OF DALE [7 POINTS]
 
+**MAN | DALE | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -639,6 +681,8 @@ A Warrior of Dale must have one of the following options for the listed points c
 <div class="unitCard" markdown>
 
 ### WINDLANCE [70 POINTS]
+
+**SIEGE ENGINE | 50MM**
 
 *SIEGE ENGINE, 50MM*
 

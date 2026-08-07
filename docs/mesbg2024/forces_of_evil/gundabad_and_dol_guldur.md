@@ -2,6 +2,8 @@
 
 ### AZOG THE DEFILER [175 POINTS]
 
+**ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -40,6 +42,26 @@ Azog's [Stand Fast] has a range of 12", and also affects friendly Orc Hero model
 
 When making Strikes against an enemy Hero, he may use this rule. A To Wound roll of a natural 3+ will always count as successful, regardless of the Hero's Defence.
 
+---
+
+**The White Warg**
+
+**WARG | GUNDABAD | HERO, MOUNT | 50MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 5 | 6+ | 5 | 5 | 2 | 2 | 6+ | 6+ |
+
+**SPECIAL RULES**
+
+- [Fearless]
+- [Fell Sight]
+- [Terror]
+
+- **Pack Master** `PASSIVE`
+
+Once the White Warg is separated from Azog, only Warg models may benefit from its Heroic Actions or Stand Fast.
+
 </div>
 
 ---
@@ -47,6 +69,8 @@ When making Strikes against an enemy Hero, he may use this rule. A To Wound roll
 <div class="unitCard" markdown>
 
 ### SAURON, THE NECROMANCER [200 POINTS]
+
+**SPIRIT | DOL GULDUR | HERO, INFANTRY, UNIQUE | 40MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -106,6 +130,8 @@ Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for the
 
 ### BOLG, SPAWN OF AZOG [175 POINTS]
 
+**ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -146,6 +172,8 @@ Keep track of how many enemies that Bolg kills in Combat. After two kills, Bolg 
 <div class="unitCard" markdown>
 
 ### KHAMUL THE EASTERLING [80 POINTS]
+
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -188,6 +216,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 ### THE ABYSSAL KNIGHT [80 POINTS]
 
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -228,6 +258,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 <div class="unitCard" markdown>
 
 ### THE DARK HEADSMAN [80 POINTS]
+
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -270,6 +302,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 ### THE FORSAKEN [80 POINTS]
 
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -308,6 +342,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 ### THE KEEPER OF THE DUNGEONS [80 POINTS]
 
+**ORC | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -344,6 +380,8 @@ The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against
 <div class="unitCard" markdown>
 
 ### THE LINGERING SHADOW [80 POINTS]
+
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -386,6 +424,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 ### THE SLAYER OF MEN [80 POINTS]
 
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -426,6 +466,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 <div class="unitCard" markdown>
 
 ### THE WITCH-KING OF ANGMAR [80 POINTS]
+
+**SPIRIT, RINGWRAITH | DOL GULDUR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -468,6 +510,8 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 ### FIMBUL, HUNTER ORC CAPTAIN [50 POINTS]
 
+**ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -502,6 +546,8 @@ Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Movi
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY CAPTAIN [50 POINTS]
+
+**GOBLIN | GUNDABAD | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -538,6 +584,8 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 
 ### GUNDABAD ORC CAPTAIN [60 POINTS]
 
+**ORC | GUNDABAD | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -566,6 +614,8 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 <div class="unitCard" markdown>
 
 ### HUNTER ORC CAPTAIN [45 POINTS]
+
+**ORC | GUNDABAD | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -602,6 +652,8 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 ### NARZUG, HUNTER ORC CAPTAIN [55 POINTS]
 
+**ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -634,6 +686,8 @@ Each Turn, Narzug gains a free Might point that can only be spent during a shoot
 <div class="unitCard" markdown>
 
 ### YAZNEG, HUNTER ORC CAPTAIN [55 POINTS]
+
+**ORC | GUNDABAD | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -669,6 +723,8 @@ At the beginning of a Combat he is involved in, if Yazneg is within 3" of Azog, 
 <div class="unitCard" markdown>
 
 ### GUNDABAD CATAPULT TROLL [180 POINTS]
+
+**TROLL | GUNDABAD | HERO, INFANTRY, MONSTER, SIEGE ENGINE | 160MM**
 
 *INDEPENDENT HERO*
 
@@ -712,6 +768,8 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 <div class="unitCard" markdown>
 
 ### TROLL BRUTE [120 POINTS]
+
+**TROLL | GUNDABAD | WAR BEAST | 80MM**
 
 *INDEPENDENT HERO*
 
@@ -762,6 +820,8 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
 ### FELL WARG [8 POINTS]
 
+**WARG | GUNDABAD | WARRIOR, INFANTRY, BEAST | 40MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -783,6 +843,8 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 <div class="unitCard" markdown>
 
 ### GOBLIN MERCENARY [6 POINTS]
+
+**GOBLIN | GUNDABAD | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -814,6 +876,8 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 <div class="unitCard" markdown>
 
 ### GUNDABAD BERSERKER [15 POINTS]
+
+**ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -847,6 +911,8 @@ Whenever this model suffers a Wound, roll a D6. On the roll of a natural 6, the 
 
 ### GUNDABAD OGRE [60 POINTS]
 
+**TROLL | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 50MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -875,6 +941,8 @@ Ogres can pass through friendly Orc, Goblin and Bat models when they Charge into
 <div class="unitCard" markdown>
 
 ### GUNDABAD ORC WARRIOR [9 POINTS]
+
+**ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -908,6 +976,8 @@ A Gundabad Orc Warrior must have one of the following options for the listed poi
 <div class="unitCard" markdown>
 
 ### GUNDABAD TROLL [120 POINTS]
+
+**TROLL | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 80MM**
 
 *WARRIOR*
 
@@ -948,6 +1018,8 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 
 ### HUNTER ORC WARG RIDER [15 POINTS]
 
+**ORC | GUNDABAD | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -979,6 +1051,8 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 ### HUNTER ORC WARRIOR [8 POINTS]
 
+**ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1009,6 +1083,8 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 ### MIRKWOOD GIANT SPIDER [20 POINTS]
 
+**SPIDER | DOL GULDUR | WARRIOR, INFANTRY, BEAST | 60MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1036,6 +1112,8 @@ A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon
 <div class="unitCard" markdown>
 
 ### MIRKWOOD HUNTING SPIDER [20 POINTS]
+
+**SPIDER | DOL GULDUR | WARRIOR, INFANTRY, BEAST | 40MM**
 
 *WARRIOR*
 
@@ -1065,6 +1143,8 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a fo
 <div class="unitCard" markdown>
 
 ### WAR BAT [25 POINTS]
+
+**BAT | GUNDABAD | WARRIOR, INFANTRY | 40MM**
 
 *WARRIOR*
 

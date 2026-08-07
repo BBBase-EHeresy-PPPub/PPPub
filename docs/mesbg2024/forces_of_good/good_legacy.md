@@ -2,6 +2,8 @@
 
 ### BALIN THE DWARF, KING OF MORIA [110 POINTS]
 
+**DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -39,6 +41,8 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 <div class="unitCard" markdown>
 
 ### EORL THE YOUNG [120 POINTS]
+
+**MAN | ROHAN | HERO, CAVALRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -83,6 +87,8 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 ### BANDOBRAS TOOK [50 POINTS]
 
+**HOBBIT | SHIRE | HERO, CAVALRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -117,6 +123,8 @@ If Bandobras rolls a natural 6 To Wound when making a Strike, and the Wound is s
 
 ### CIRION, LIEUTENANT OF AMON BARAD [65 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -150,6 +158,8 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 ### DRAR [70 POINTS]
 
+**DWARF | IRON HILLS | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -180,6 +190,8 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 ### DWARF SHIELDBEARER [60 POINTS]
 
+**DWARF | KHAZAD-DUM | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -205,6 +217,8 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 <div class="unitCard" markdown>
 
 ### ERESTOR [85 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -238,7 +252,9 @@ These are Elven hand weapons, which Erestor may also use as Elven [throwing weap
 
 ### ERKENBRAND, CAPTAIN OF ROHAN [90 POINTS]
 
-*HERO OF FORTITUDE, 12 WARBAND*
+**MAN | ROHAN | HERO, CAVALRY, UNIQUE | 25MM**
+
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -274,6 +290,8 @@ This is a Unique [war horn][War Horn]. Additionally, once per game at the start 
 
 ### FLOI STONEHAND [75 POINTS]
 
+**DWARF | KHAZAD-DUM | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -306,6 +324,8 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 <div class="unitCard" markdown>
 
 ### GILDOR INGLORION [70 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -345,7 +365,9 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 ### GRIMBOLD OF GRIMSLADE [65 POINTS]
 
-*HERO OF FORTITUDE, 12 WARBAND*
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
+
+*HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -371,6 +393,8 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 <div class="unitCard" markdown>
 
 ### KING'S CHAMPION [140 POINTS]
+
+**DWARF | KHAZAD-DUM | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -425,6 +449,8 @@ If the King's Champion this Herald belongs to is Wounded, and this model is in b
 
 ### KNIGHT OF THE WHITE TOWER [75 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -458,6 +484,8 @@ If this model is Engaged in Combat with an enemy Hero, it may re-roll a single D
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN STORMCALLER [65 POINTS]
+
+**ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -498,6 +526,8 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 
 ### MURIN [70 POINTS]
 
+**DWARF | IRON HILLS | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -529,6 +559,8 @@ This is a Unique [hand weapon][Hand Weapon]. Murin gains a bonus of +1 To Wound 
 <div class="unitCard" markdown>
 
 ### ANBORN, RANGER OF ITHILIEN [40 POINTS]
+
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
 *MINOR HERO, UNIQUE, 6 WARBAND*
 
@@ -563,6 +595,8 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 ### KING'S HUNTSMAN [55 POINTS]
 
+**MAN | ROHAN | HERO, INFANTRY | 25MM**
+
 *MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -595,6 +629,8 @@ This model only fails an In The Way Test on the roll of a natural 1. Additionall
 
 ### MABLUNG, RANGER OF ITHILIEN [40 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *MINOR HERO, UNIQUE, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -626,6 +662,8 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 <div class="unitCard" markdown>
 
 ### RIVENDELL STORMCALLER [65 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY | 25MM**
 
 *MINOR HERO, 6 WARBAND*
 
@@ -666,6 +704,8 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 
 ### MAN-AT-ARMS OF DOL AMROTH [10 POINTS]
 
+**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -691,6 +731,8 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 <div class="unitCard" markdown>
 
 ### NOLDORIN EXILES [9 POINTS]
+
+**ELF | RIVENDELL | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -726,6 +768,8 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 ### ROHAN OUTRIDER [8 POINTS]
 
+**MAN | ROHAN | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -757,6 +801,8 @@ This model may benefit from a friendly Hero model's [Stand Fast] regardless of r
 <div class="unitCard" markdown>
 
 ### SON OF EORL [20 POINTS]
+
+**MAN | ROHAN | WARRIOR, CAVALRY, ELITE | 25MM**
 
 *WARRIOR*
 

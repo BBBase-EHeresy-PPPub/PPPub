@@ -2,6 +2,8 @@
 
 ### GALADRIEL, LADY OF LOTHLORIEN [125 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -59,6 +61,8 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 
 ### GIL-GALAD [175 POINTS]
 
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -101,6 +105,8 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 
 ### THRANDUIL, KING OF THE WOODLAND REALM [130 POINTS]
 
+**ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -140,6 +146,24 @@ If Outnumbered in a Combat, and successfully kills all enemy models that he was 
 
 At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains [Terror]. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
 
+---
+
+**Great Elk**
+
+**ELK | MIRKWOOD | MOUNT | 50MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 4 | 6+ | 4 | 5 | 0 | 2 | 6+ | 7+ |
+
+**SPECIAL RULES**
+
+- [Woodland Creature]
+
+- **Majestic Steed** `ACTIVE`
+
+In a turn in which Thranduil Charges into Combat, he resolves his Strikes at Strength 5. Additionally, each time this model Charges into Combat, it inflicts a single Strength 4 hit upon one model it has Charged. Cavalry models suffer this hit on both the rider and the Mount. If Thranduil is no longer Engaged in Combat after this hit, he may continue his Move in any way his controlling player wishes.
+
 </div>
 
 ---
@@ -147,6 +171,8 @@ At the beginning of his Activation, Thranduil can spend a Will Point. If he does
 <div class="unitCard" markdown>
 
 ### CELEBORN, LORD OF LOTHLORIEN [125 POINTS]
+
+**ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -193,6 +219,8 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 <div class="unitCard" markdown>
 
 ### ELROND [170 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -254,6 +282,8 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 ### HALDIR, GALADHRIM CAPTAIN [70 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -292,6 +322,8 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 <div class="unitCard" markdown>
 
 ### LEGOLAS GREENLEAF, PRINCE OF MIRKWOOD [105 POINTS]
+
+**ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -340,6 +372,8 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 ### ARWEN [70 POINTS]
 
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -385,6 +419,8 @@ Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +
 
 ### CIRDAN [75 POINTS]
 
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -428,6 +464,8 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 
 ### ELLADAN [80 POINTS]
 
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -467,6 +505,8 @@ Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wou
 <div class="unitCard" markdown>
 
 ### ELROHIR [80 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -508,6 +548,8 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 
 ### GALADHRIM CAPTAIN [70 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -539,6 +581,8 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 <div class="unitCard" markdown>
 
 ### LINDIR [70 POINTS]
+
+**ELF | RIVENDELL | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -581,6 +625,8 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 ### LOTHLORIEN CAPTAIN [65 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -608,6 +654,8 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF CAPTAIN [75 POINTS]
+
+**ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -639,6 +687,8 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 <div class="unitCard" markdown>
 
 ### MIRKWOOD RANGER CAPTAIN [75 POINTS]
+
+**ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -673,6 +723,8 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 
 ### OROPHIN, GALADHRIM CAPTAIN [85 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -703,6 +755,8 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 <div class="unitCard" markdown>
 
 ### PALACE GUARD CAPTAIN [80 POINTS]
+
+**ELF | MIRKWOOD | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -743,6 +797,8 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 ### RIVENDELL CAPTAIN [70 POINTS]
 
+**ELF | RIVENDELL | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -775,6 +831,8 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 ### RUMIL, WARDEN OF CARAS GALADHON [85 POINTS]
 
+**ELF | LOTHLORIEN | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -806,6 +864,8 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 <div class="unitCard" markdown>
 
 ### TAURIEL, RANGER OF MIRKWOOD [90 POINTS]
+
+**ELF | MIRKWOOD | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -850,6 +910,8 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 ### GALADHRIM KNIGHT [18 POINTS]
 
+**ELF | LOTHLORIEN | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -879,6 +941,8 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 <div class="unitCard" markdown>
 
 ### GALADHRIM WARRIOR [9 POINTS]
+
+**ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -912,6 +976,8 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 ### GUARD OF THE GALADHRIM COURT [12 POINTS]
 
+**ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -942,6 +1008,8 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual
 <div class="unitCard" markdown>
 
 ### LOTHLORIEN WARRIOR [8 POINTS]
+
+**ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -977,6 +1045,8 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 ### MIRKWOOD ELF KNIGHT [16 POINTS]
 
+**ELF | MIRKWOOD | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1005,6 +1075,8 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 <div class="unitCard" markdown>
 
 ### MIRKWOOD ELF WARRIOR [9 POINTS]
+
+**ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1041,6 +1113,8 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 
 ### MIRKWOOD RANGER [14 POINTS]
 
+**ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1069,6 +1143,8 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 <div class="unitCard" markdown>
 
 ### PALACE GUARD [12 POINTS]
+
+**ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -1106,6 +1182,8 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 ### RIVENDELL KNIGHT [20 POINTS]
 
+**ELF | RIVENDELL | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1138,6 +1216,8 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 ### RIVENDELL WARRIOR [9 POINTS]
 
+**ELF | RIVENDELL | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1167,6 +1247,8 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 <div class="unitCard" markdown>
 
 ### WOOD ELF SENTINEL [25 POINTS]
+
+**ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 

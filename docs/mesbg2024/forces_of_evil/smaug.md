@@ -2,6 +2,8 @@
 
 ### SMAUG [700 POINTS]
 
+**DRAGON | EREBOR | HERO, INFANTRY, MONSTER, UNIQUE | 231X133MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |

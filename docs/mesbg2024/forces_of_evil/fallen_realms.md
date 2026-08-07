@@ -2,6 +2,8 @@
 
 ### DALAMYR, FLEETMASTER OF UMBAR [100 POINTS]
 
+**MAN | CORSAIR, UMBAR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -41,6 +43,8 @@ Dalamyr can never be Trapped whilst still standing.
 
 ### MUMAK WAR LEADER [400 POINTS]
 
+**MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -74,6 +78,46 @@ Whilst mounted on the Royal War Mumak, the first time each turn an enemy model d
 
 The Mumak War Leader's [Stand Fast] is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
 
+---
+
+**Royal War Mumak**
+
+**MUMAK | HARAD | WAR BEAST | 180X140MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 8" | 5 | 6+ | 10 | 8 | 4 | 10 | 7+ | 9+ |
+
+**WARGEAR**
+
+- Tusks and huge stomping feet ([hand weapons][Hand Weapon])
+
+**SPECIAL RULES**
+
+- [Dominant] (10)
+- [Large Target]
+- [Terror]
+
+- **Trample** `ACTIVE`
+
+When the Royal War Mumak Tramples, it inflicts 4 Strength 9 Impact Hits.
+
+- **Sigils of Defiance** `PASSIVE`
+
+The Royal War Mumak and any models in the Howdah gain [Resistant to Magic]. Whenever one of these models suffers a Wound, roll a D6. On a natural 6, the Wound is prevented.
+
+- **Awesome Presence** `PASSIVE`
+
+Friendly models treat this model as a [banner][Banner] with a range of 6".
+
+**Howdah**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| - | - | - | - | 9 | - | 6 | - | - |
+
+The Howdah has a capacity of 12 models in addition to the Mumak War Leader, who is always placed on the forked wooden platform at the front and counts as being in the Howdah. The Howdah may only include Haradrim Warriors.
+
 </div>
 
 ---
@@ -81,6 +125,8 @@ The Mumak War Leader's [Stand Fast] is 12", and his warband may deploy within 12
 <div class="unitCard" markdown>
 
 ### SULADAN, THE SERPENT LORD [120 POINTS]
+
+**MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
@@ -127,6 +173,8 @@ Suladan's [Stand Fast] is 12" rather than 6".
 
 ### THE DRAGON EMPEROR OF RHUN [200 POINTS]
 
+**MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF LEGEND, UNIQUE, 18 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -165,6 +213,40 @@ The Dragon Emperor gains the [Resistant to Magic] special rule.
 
 Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
+---
+
+**Royal Palanquin**
+
+**MAN | EASTERLING, MOUNT | 80MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 6" | 4 | 4+ | 3 | 6 | * | 6 | 6+ | 6+ |
+
+**SPECIAL RULES**
+
+- [Dominant] (*)
+
+- **Fighting from the Palanquin** `ACTIVE`
+
+The Dragon Emperor always uses his own characteristics, even if the Palanquin's are better. If he wins a Duel Roll, except when Shielding, then after all his Strikes have been resolved the Palanquin may make a number of Strikes equal to its remaining Wounds. These Strikes cannot benefit from the target being Trapped, and the Dragon Emperor cannot use Might to improve them.
+
+- **Standards of the Emperor** `PASSIVE`
+
+The Royal Palanquin is a [banner][Banner] with a range of 6". The Dragon Emperor does not suffer the -1 penalty to his Duel Rolls for carrying it.
+
+- **In the Name of the Dragon Emperor** `PASSIVE`
+
+Friendly Easterling models within 6" of the Royal Palanquin that can draw Line of Sight to it may re-roll To Wound Rolls of a natural 1 when making Strikes.
+
+- **The Palanquin** `PASSIVE`
+
+The Royal Palanquin is a Mount, but does not act as a Cavalry model and does not give the Dragon Emperor the Cavalry keyword. The whole model is treated as Infantry. Rules and Magical Powers that affect both a rider and Mount still affect both parts, and effects that choose either part may target either the Dragon Emperor or the Palanquin.
+
+Whilst the Palanquin has at least 3 Wounds remaining, it Moves normally. At 2 Wounds its Move Value is 3"; at 1 Wound it cannot Move. Shooting attacks hit the Palanquin on an In The Way roll of 1-4 and the Dragon Emperor on a 5+.
+
+If the Dragon Emperor dismounts or is slain, replace the Palanquin with a number of Black Dragon Warriors with shield equal to its remaining Wounds. Place them within its footprint. The Palanquin cannot be knocked Prone except by a Direct Hit from a Siege Engine, and neither it nor its rider can be affected by Hurl or Barge, forced back by Magical Powers, or flung back by a Siege Engine. Its Dominant (X) value equals its remaining Wounds.
+
 </div>
 
 ---
@@ -172,6 +254,8 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 <div class="unitCard" markdown>
 
 ### AMDUR, LORD OF BLADES [135 POINTS]
+
+**MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -226,6 +310,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 ### DELGAMAR, GATEMASTER OF UMBAR [75 POINTS]
 
+**MAN | CORSAIR, UMBAR | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -256,6 +342,8 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 <div class="unitCard" markdown>
 
 ### RUTABI, GENERAL OF THE DRAGON LEGION [120 POINTS]
+
+**MAN | EASTERLING | HERO, INFANTRY, UNIQUE | 25MM**
 
 *HERO OF VALOUR, UNIQUE, 15 WARBAND*
 
@@ -295,6 +383,8 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 
 ### BRORGIR THE CONJURER [80 POINTS]
 
+**MAN | EASTERLING | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -316,7 +406,7 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 |:--|:--:|:--:|
 | [Bladewrath] | 12" | 3+ |
 | [Fury] (Easterling) | Self | 3+ |
-| Enchanted Blades | 12" | 4+ |
+| [Enchant Blades] | 12" | 4+ |
 | [Tremor] | Self | 5+ |
 
 **SPECIAL RULES**
@@ -336,6 +426,8 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 <div class="unitCard" markdown>
 
 ### CORSAIR BO'SUN [50 POINTS]
+
+**MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -372,6 +464,8 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 ### CORSAIR CAPTAIN [55 POINTS]
 
+**MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -400,6 +494,8 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 <div class="unitCard" markdown>
 
 ### CORSAIR CAPTAIN (GENERAL) [55 POINTS]
+
+**MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
@@ -435,6 +531,8 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 ### EASTERLING KATAPHRAKT CAPTAIN [90 POINTS]
 
+**MAN | EASTERLING | HERO, CAVALRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -469,6 +567,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 <div class="unitCard" markdown>
 
 ### EASTERLING WAR PRIEST [60 POINTS]
+
+**MAN | EASTERLING | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -511,6 +611,8 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 ### HARADRIM CHIEFTAIN [50 POINTS]
 
+**MAN | HARAD | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -543,6 +645,8 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 ### HARADRIM TASKMASTER [45 POINTS]
 
+**MAN | HARAD | HERO, INFANTRY | 25MM**
+
 *HERO OF FORTITUDE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -572,6 +676,8 @@ Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Sho
 <div class="unitCard" markdown>
 
 ### HASHARIN [80 POINTS]
+
+**MAN | HARAD, UMBAR | HERO, INFANTRY | 25MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -609,6 +715,8 @@ A Hasharin can never be Trapped while still standing.
 
 ### RAZA, FANG OF THE SERPENT [75 POINTS]
 
+**MAN | HARAD | HERO, INFANTRY, UNIQUE | 25MM**
+
 *HERO OF FORTITUDE, UNIQUE, 12 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -642,6 +750,8 @@ At the start of the game, after both sides have deployed, secretly select one He
 <div class="unitCard" markdown>
 
 ### WAR MUMAK OF HARAD [250 POINTS]
+
+**MUMAK | HARAD | WAR BEAST | 180X140MM**
 
 *HERO OF FORTITUDE, 12 WARBAND*
 
@@ -732,6 +842,8 @@ The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is pl
 
 ### EASTERLING DRAGON KNIGHT [70 POINTS]
 
+**MAN | EASTERLING, BLACK DRAGON | HERO, INFANTRY | 25MM**
+
 *MINOR HERO, 6 WARBAND*
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
@@ -780,6 +892,8 @@ May only include Black Dragon Warrior models in his warband.
 
 ### BLACK DRAGON WARRIOR [10 POINTS]
 
+**MAN | EASTERLING, BLACK DRAGON | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -819,6 +933,8 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 ### CORSAIR CROSSBOWMAN [10 POINTS]
 
+**MAN | CORSAIR, UMBAR | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -844,6 +960,8 @@ A [shield][Shield] that provides +3 Defence, rather than +1. However, this model
 <div class="unitCard" markdown>
 
 ### CORSAIR OF UMBAR [8 POINTS]
+
+**MAN | CORSAIR, UMBAR | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -871,6 +989,8 @@ A Corsair of Umbar must have one of the following options for the listed points 
 <div class="unitCard" markdown>
 
 ### DRAGON CULT ACOLYTE [11 POINTS]
+
+**MAN | EASTERLING, BLACK DRAGON | WARRIOR, INFANTRY | 25MM**
 
 *WARRIOR*
 
@@ -903,6 +1023,8 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 <div class="unitCard" markdown>
 
 ### EASTERLING KATAPHRAKT [15 POINTS]
+
+**MAN | EASTERLING | WARRIOR, CAVALRY | 25MM**
 
 *WARRIOR*
 
@@ -944,6 +1066,8 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 ### HARADRIM RAIDER [11 POINTS]
 
+**MAN | HARAD | WARRIOR, CAVALRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -977,6 +1101,8 @@ A Haradrim Raider must have one of the following options for the listed points c
 
 ### HARADRIM WARRIOR [6 POINTS]
 
+**MAN | HARAD | WARRIOR, INFANTRY | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1009,6 +1135,8 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 ### SERPENT GUARD [8 POINTS]
 
+**MAN | HARAD | WARRIOR, INFANTRY, ELITE | 25MM**
+
 *WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
@@ -1031,6 +1159,8 @@ A Haradrim Warrior must have one of the following options for the listed points 
 <div class="unitCard" markdown>
 
 ### SERPENT RIDER [14 POINTS]
+
+**MAN | HARAD | WARRIOR, CAVALRY, ELITE | 25MM**
 
 *WARRIOR*
 
@@ -1055,6 +1185,8 @@ A Haradrim Warrior must have one of the following options for the listed points 
 <div class="unitCard" markdown>
 
 ### WAR DRAKE OF RHUN [20 POINTS]
+
+**DRAKE | EASTERLING | WARRIOR, INFANTRY, BEAST | 40MM**
 
 *WARRIOR*
 
@@ -1083,6 +1215,8 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 <div class="unitCard" markdown>
 
 ### CORSAIR BALLISTA [70 POINTS]
+
+**SIEGE ENGINE | 40MM**
 
 *SIEGE ENGINE, 40MM*
 
