@@ -6,42 +6,42 @@
 
 **HEROES OF VALOUR**
 
-- **Faramir**: 100 points
+- [**Faramir**](../forces_of_good/gondor.md#faramir-100-points): 100 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Minas Tirith**: 60 points
-- **Damrod**: 40 points
-- **Frodo Baggins**: 55 points
+- [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
+- [**Damrod**](../forces_of_good/gondor.md#damrod-40-points): 40 points
+- [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
     - Mithril Coat: 15 points
     - Sting: 5 points
     - Elven Cloak: 5 points
-- **Madril**: 60 points
-- **Samwise Gamgee**: 40 points
+- [**Madril**](../forces_of_good/gondor.md#madril-60-points): 60 points
+- [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 40 points
     - Elven Cloak: 5 points
 
 **MINOR HEROES**
 
-- **Anborn, Ranger of Ithilien**: 40 points
-- **Mablung, Ranger of Ithilien**: 40 points
+- [**Anborn, Ranger of Ithilien**](../forces_of_good/good_legacy.md#anborn-ranger-of-ithilien-40-points): 40 points
+- [**Mablung, Ranger of Ithilien**](../forces_of_good/good_legacy.md#mablung-ranger-of-ithilien-40-points): 40 points
 
 **INDEPENDENT HEROES**
 
-- **Smeagol**: 30 points
+- [**Smeagol**](../forces_of_good/the_free_peoples.md#smeagol-30-points): 30 points
 
 **WARRIORS**
 
-- **Knight of Minas Tirith**: 15 points
+- [**Knight of Minas Tirith**](../forces_of_good/gondor.md#knight-of-minas-tirith-15-points): 15 points
     - Exchange shield and lance for banner: 25 points
-- **Osgiliath Veteran**: 9 points
+- [**Osgiliath Veteran**](../forces_of_good/gondor.md#osgiliath-veteran-9-points): 9 points
     - Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-- **Ranger of Gondor**: 8 points
+- [**Ranger of Gondor**](../forces_of_good/gondor.md#ranger-of-gondor-8-points): 8 points
     - Banner: 25 points
     - War horn: 25 points
     - Spear: 1 point
-- **Warrior of Minas Tirith**: 8 points
+- [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
     - Shield and spear: 2 points

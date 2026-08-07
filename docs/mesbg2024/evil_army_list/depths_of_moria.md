@@ -6,34 +6,34 @@
 
 **HEROES OF LEGEND**
 
-- **The Balrog**: 350 points
+- [**The Balrog**](../forces_of_evil/the_misty_mountains.md#the-balrog-350-points): 350 points
 
 **HEROES OF FORTITUDE**
 
-- **Moria Blackshield Captain**: 45 points
-- **Moria Goblin Captain**: 40 points
+- [**Moria Blackshield Captain**](../forces_of_evil/evil_legacy.md#moria-blackshield-captain-45-points): 45 points
+- [**Moria Goblin Captain**](../forces_of_evil/the_misty_mountains.md#moria-goblin-captain-40-points): 40 points
     - Orc bow: 5 points
 
 **MINOR HEROES**
 
-- **Moria Blackshield Shaman**: 50 points
-- **Moria Goblin Shaman**: 45 points
+- [**Moria Blackshield Shaman**](../forces_of_evil/evil_legacy.md#moria-blackshield-shaman-50-points): 50 points
+- [**Moria Goblin Shaman**](../forces_of_evil/the_misty_mountains.md#moria-goblin-shaman-45-points): 45 points
 
 **INDEPENDENT HEROES**
 
-- **The Watcher in the Water**: 200 points
+- [**The Watcher in the Water**](../forces_of_evil/the_misty_mountains.md#the-watcher-in-the-water-200-points): 200 points
 
 **WARRIORS**
 
-- **Cave Troll**: 75 points
+- [**Cave Troll**](../forces_of_evil/the_misty_mountains.md#cave-troll-75-points): 75 points
     - Hand-and-a-half weapon: 5 points
     - Troll Spear: 5 points
-- **Moria Blackshield Drum**: 75 points
-- **Moria Blackshield Warrior**: 8 points
+- [**Moria Blackshield Drum**](../forces_of_evil/evil_legacy.md#moria-blackshield-drum-75-points): 75 points
+- [**Moria Blackshield Warrior**](../forces_of_evil/evil_legacy.md#moria-blackshield-warrior-8-points): 8 points
     - Spear: 1 point
-- **Moria Goblin Drum**: 75 points
-- **Moria Goblin Prowler**: 7 points
-- **Moria Goblin Warrior**: 4 points
+- [**Moria Goblin Drum**](../forces_of_evil/the_misty_mountains.md#moria-goblin-drum-75-points): 75 points
+- [**Moria Goblin Prowler**](../forces_of_evil/the_misty_mountains.md#moria-goblin-prowler-7-points): 7 points
+- [**Moria Goblin Warrior**](../forces_of_evil/the_misty_mountains.md#moria-goblin-warrior-4-points): 4 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Spear: 1 point

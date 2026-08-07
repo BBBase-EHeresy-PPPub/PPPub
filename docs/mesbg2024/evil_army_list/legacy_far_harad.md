@@ -6,12 +6,12 @@
 
 **HEROES OF VALOUR**
 
-- **Mahud King**: 70 points
+- [**Mahud King**](../forces_of_evil/evil_legacy.md#mahud-king-70-points): 70 points
     - War Camel: 25 points
 
 **HEROES OF FORTITUDE**
 
-- **Mahud Tribesmaster**: 55 points
+- [**Mahud Tribesmaster**](../forces_of_evil/evil_legacy.md#mahud-tribesmaster-55-points): 55 points
     - War Camel: 25 points
     - Blowpipe: 5 points
     - Shield: 5 points
@@ -19,12 +19,12 @@
 
 **WARRIORS**
 
-- **Half Troll**: 25 points
+- [**Half Troll**](../forces_of_evil/evil_legacy.md#half-troll-25-points): 25 points
     - Exchange hand weapon for two-handed weapon: Free
-- **Mahud Raider**: 17 points
+- [**Mahud Raider**](../forces_of_evil/evil_legacy.md#mahud-raider-17-points): 17 points
     - Blowpipe: 1 point
     - Spear: 1 point
-- **Mahud Warrior**: 8 points
+- [**Mahud Warrior**](../forces_of_evil/evil_legacy.md#mahud-warrior-8-points): 8 points
     - Blowpipe: 1 point
     - Spear: 1 point
 

@@ -6,34 +6,34 @@
 
 **HEROES OF LEGEND**
 
-- **Azog the Defiler**: 175 points
+- [**Azog the Defiler**](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points): 175 points
     - The White Warg: 50 points
 
 **HEROES OF VALOUR**
 
-- **Bolg, Spawn of Azog**: 175 points
+- [**Bolg, Spawn of Azog**](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points): 175 points
     - Fell Warg: 20 points
     - Orc bow: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Fimbul, Hunter Orc Captain**: 50 points
+- [**Fimbul, Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#fimbul-hunter-orc-captain-50-points): 50 points
     - Fell Warg: 20 points
-- **Hunter Orc Captain**: 45 points
+- [**Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-captain-45-points): 45 points
     - Fell Warg: 20 points
     - Orc bow: 5 points
     - Two-handed weapon: 5 points
-- **Narzug, Hunter Orc Captain**: 55 points
-- **Yazneg, Hunter Orc Captain**: 55 points
+- [**Narzug, Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#narzug-hunter-orc-captain-55-points): 55 points
+- [**Yazneg, Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#yazneg-hunter-orc-captain-55-points): 55 points
     - Fell Warg and lance: 25 points
 
 **WARRIORS**
 
-- **Fell Warg**: 8 points
-- **Hunter Orc Warg Rider**: 15 points
+- [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
+- [**Hunter Orc Warg Rider**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warg-rider-15-points): 15 points
     - Orc bow: 1 point
     - Two-handed weapon: 1 point
-- **Hunter Orc Warrior**: 8 points
+- [**Hunter Orc Warrior**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warrior-8-points): 8 points
     - Orc bow: 1 point
     - Two-handed weapon: 1 point
 

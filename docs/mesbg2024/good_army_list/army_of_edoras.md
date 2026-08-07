@@ -6,46 +6,46 @@
 
 **HEROES OF LEGEND**
 
-- **Helm Hammerhand, King of Rohan**: 160 points
+- [**Helm Hammerhand, King of Rohan**](../forces_of_good/rohan.md#helm-hammerhand-king-of-rohan-160-points): 160 points
     - Armoured horse: 25 points
 
 **HEROES OF VALOUR**
 
-- **Frealaf**: 100 points
+- [**Frealaf**](../forces_of_good/rohan.md#frealaf-100-points): 100 points
     - Horse: 20 points
-- **Haleth, Prince of Rohan**: 100 points
+- [**Haleth, Prince of Rohan**](../forces_of_good/rohan.md#haleth-prince-of-rohan-100-points): 100 points
     - Armoured horse: 25 points
     - <span style="color: darkmagenta">Throwing spears: 5 points</span>
-- **Hama, Prince of Rohan**: 70 points
+- [**Hama, Prince of Rohan**](../forces_of_good/rohan.md#hama-prince-of-rohan-70-points): 70 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Rohan**: 45 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Horse: 20 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Hera, Daughter of Helm**: 70 points
+- [**Hera, Daughter of Helm**](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points): 70 points
     - Ashere: 20 points
-- **Olwyn, Shieldmaiden of Rohan**: 80 points
+- [**Olwyn, Shieldmaiden of Rohan**](../forces_of_good/rohan.md#olwyn-shieldmaiden-of-rohan-80-points): 80 points
     - Horse: 20 points
 
 **MINOR HEROES**
 
-- **King's Huntsman**: 55 points
-- **Lief, Page of Helm**: 50 points
+- [**King's Huntsman**](../forces_of_good/good_legacy.md#kings-huntsman-55-points): 55 points
+- [**Lief, Page of Helm**](../forces_of_good/rohan.md#lief-page-of-helm-50-points): 50 points
     - Horse: 20 points
 
 **WARRIORS**
 
-- **Rider of Rohan**: 14 points
+- [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
     - Throwing spears: 2 points
-- **Rohan Royal Guard**: 11 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - <span style="color: darkmagenta">Horse and throwing spears: 7 points</span>
     - Horse: 5 points
     - Throwing spears: 2 points
-- **Warrior of Rohan**: 6 points
+- [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
     - War horn, shield, throwing spears: 28 points
     - Banner: 25 points
     - Shield and throwing spears: 3 points

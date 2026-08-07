@@ -6,30 +6,30 @@
 
 **HEROES OF LEGEND**
 
-- **Gandalf the Grey**: 170 points
+- [**Gandalf the Grey**](../forces_of_good/the_free_peoples.md#gandalf-the-grey-170-points): 170 points
 
 **HEROES OF VALOUR**
 
-- **Aragorn, Strider**: 160 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
     - Bow: 5 points
-- **Boromir of Gondor**: 95 points
+- [**Boromir of Gondor**](../forces_of_good/the_free_peoples.md#boromir-of-gondor-95-points): 95 points
     - Horse: 20 points
     - Shield: 5 points
-- **Gimli**: 100 points
-- **Legolas**: 100 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
 
 **HEROES OF FORTITUDE**
 
-- **Frodo Baggins**: 55 points
+- [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
     - Mithril Coat: 15 points
     - Sting: 5 points
-- **Samwise Gamgee**: 40 points
+- [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 40 points
 
 **INDEPENDENT HEROES**
 
-- **Bill the Pony**: 25 points
-- **Meriadoc Brandybuck**: 10 points
-- **Peregrin Took**: 10 points
+- [**Bill the Pony**](../forces_of_good/the_free_peoples.md#bill-the-pony-25-points): 25 points
+- [**Meriadoc Brandybuck**](../forces_of_good/the_free_peoples.md#meriadoc-brandybuck-10-points): 10 points
+- [**Peregrin Took**](../forces_of_good/the_free_peoples.md#peregrin-took-10-points): 10 points
 
 </div>
 

@@ -6,34 +6,34 @@
 
 **HEROES OF VALOUR**
 
-- **Ugluk**: 75 points
+- [**Ugluk**](../forces_of_evil/isengard.md#ugluk-75-points): 75 points
 
 **HEROES OF FORTITUDE**
 
-- **Grishnakh**: 55 points
-- **Isengard Orc Captain**: 45 points
-- **Mauhur**: 65 points
-- **Snaga**: 50 points
-- **Uruk-Hai Scout Captain**: 55 points
+- [**Grishnakh**](../forces_of_evil/isengard.md#grishnakh-55-points): 55 points
+- [**Isengard Orc Captain**](../forces_of_evil/isengard.md#isengard-orc-captain-45-points): 45 points
+- [**Mauhur**](../forces_of_evil/evil_legacy.md#mauhur-65-points): 65 points
+- [**Snaga**](../forces_of_evil/isengard.md#snaga-50-points): 50 points
+- [**Uruk-Hai Scout Captain**](../forces_of_evil/isengard.md#uruk-hai-scout-captain-55-points): 55 points
 
 **MINOR HEROES**
 
-- **Isengard Orc Shaman**: 50 points
-- **Uruk-Hai Shaman**: 55 points
+- [**Isengard Orc Shaman**](../forces_of_evil/isengard.md#isengard-orc-shaman-50-points): 50 points
+- [**Uruk-Hai Shaman**](../forces_of_evil/isengard.md#uruk-hai-shaman-55-points): 55 points
 
 **INDEPENDENT HEROES**
 
-- **Uruk-Hai Drummer**: 35 points
+- [**Uruk-Hai Drummer**](../forces_of_evil/isengard.md#uruk-hai-drummer-35-points): 35 points
 
 **WARRIORS**
 
-- **Isengard Orc Warrior**: 5 points
+- [**Isengard Orc Warrior**](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 5 points
     - Banner: 25 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
     - Two-handed weapon: 1 point
-- **Uruk-Hai Scout**: 8 points
+- [**Uruk-Hai Scout**](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 points
     - Banner: 25 points
     - Shield: 1 point
     - Uruk-hai bow: 1 point

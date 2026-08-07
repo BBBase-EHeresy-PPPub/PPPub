@@ -6,39 +6,39 @@
 
 **HEROES OF LEGEND**
 
-- **Durin, King of Khazad-Dum**: 170 points
+- [**Durin, King of Khazad-Dum**](../forces_of_good/dwarven_holds.md#durin-king-of-khazad-dum-170-points): 170 points
 
 **HEROES OF VALOUR**
 
-- **Dwarf King**: 85 points
-- **Mardin, The King's Ward**: 80 points
+- [**Dwarf King**](../forces_of_good/dwarven_holds.md#dwarf-king-85-points): 85 points
+- [**Mardin, The King's Ward**](../forces_of_good/dwarven_holds.md#mardin-the-kings-ward-80-points): 80 points
 
 **HEROES OF FORTITUDE**
 
-- **Dwarf Captain**: 65 points
-- **Dwarf Shieldbearer**: 60 points
-- **King's Champion**: 140 points
+- [**Dwarf Captain**](../forces_of_good/dwarven_holds.md#dwarf-captain-65-points): 65 points
+- [**Dwarf Shieldbearer**](../forces_of_good/good_legacy.md#dwarf-shieldbearer-60-points): 60 points
+- [**King's Champion**](../forces_of_good/good_legacy.md#kings-champion-140-points): 140 points
 
 **WARRIORS**
 
-- **Dwarf Ranger**: 8 points
+- [**Dwarf Ranger**](../forces_of_good/dwarven_holds.md#dwarf-ranger-8-points): 8 points
     - Dwarf longbow: 1 point
     - Throwing weapons: 1 point
     - Two-handed weapon: 1 point
-- **Dwarf Warrior**: 8 points
+- [**Dwarf Warrior**](../forces_of_good/dwarven_holds.md#dwarf-warrior-8-points): 8 points
     - War horn: 25 points
     - Banner: 25 points
     - Dwarf bow: 1 point
     - Shield: 1 point
     - Two-handed weapon: 1 point
-- **Iron Guard**: 15 points
-- **Khazad Guard**: 12 points
+- [**Iron Guard**](../forces_of_good/dwarven_holds.md#iron-guard-15-points): 15 points
+- [**Khazad Guard**](../forces_of_good/dwarven_holds.md#khazad-guard-12-points): 12 points
     - Hearthguard: 2 points
-- **Vault Warden Team**: 25 points
+- [**Vault Warden Team**](../forces_of_good/dwarven_holds.md#vault-warden-team-25-points): 25 points
 
 **SIEGE ENGINES**
 
-- **Dwarven Ballista**: 70 points
+- [**Dwarven Ballista**](../forces_of_good/dwarven_holds.md#dwarven-ballista-70-points): 70 points
 
 </div>
 

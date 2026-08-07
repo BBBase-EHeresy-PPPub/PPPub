@@ -6,38 +6,38 @@
 
 **HEROES OF LEGEND**
 
-- **Balin the Dwarf, King of Moria**: 110 points
+- [**Balin the Dwarf, King of Moria**](../forces_of_good/good_legacy.md#balin-the-dwarf-king-of-moria-110-points): 110 points
 
 **HEROES OF VALOUR**
 
-- **Dwarf King**: 85 points
+- [**Dwarf King**](../forces_of_good/dwarven_holds.md#dwarf-king-85-points): 85 points
 
 **HEROES OF FORTITUDE**
 
-- **Dwarf Captain**: 65 points
-- **Floi Stonehand**: 75 points
-- **King's Champion**: 140 points
-- **Oin the Dwarf, Champion of Erebor**: 60 points
-- **Ori the Dwarf, Champion of Erebor**: 50 points
+- [**Dwarf Captain**](../forces_of_good/dwarven_holds.md#dwarf-captain-65-points): 65 points
+- [**Floi Stonehand**](../forces_of_good/good_legacy.md#floi-stonehand-75-points): 75 points
+- [**King's Champion**](../forces_of_good/good_legacy.md#kings-champion-140-points): 140 points
+- [**Oin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-champion-of-erebor-60-points): 60 points
+- [**Ori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#ori-the-dwarf-champion-of-erebor-50-points): 50 points
 
 **MINOR HEROES**
 
-- **Dwarf Shieldbearer**: 60 points
+- [**Dwarf Shieldbearer**](../forces_of_good/good_legacy.md#dwarf-shieldbearer-60-points): 60 points
 
 **WARRIORS**
 
-- **Dwarf Ranger**: 8 points
+- [**Dwarf Ranger**](../forces_of_good/dwarven_holds.md#dwarf-ranger-8-points): 8 points
     - Dwarf longbow: 1 point
     - Throwing weapons: 1 point
     - Two-handed weapon: 1 point
-- **Dwarf Warrior**: 8 points
+- [**Dwarf Warrior**](../forces_of_good/dwarven_holds.md#dwarf-warrior-8-points): 8 points
     - War horn: 25 points
     - Banner: 25 points
     - Dwarf bow: 1 point
     - Shield: 1 point
     - Two-handed weapon: 1 point
-- **Iron Guard**: 15 points
-- **Khazad Guard**: 12 points
+- [**Iron Guard**](../forces_of_good/dwarven_holds.md#iron-guard-15-points): 15 points
+- [**Khazad Guard**](../forces_of_good/dwarven_holds.md#khazad-guard-12-points): 12 points
 
 </div>
 

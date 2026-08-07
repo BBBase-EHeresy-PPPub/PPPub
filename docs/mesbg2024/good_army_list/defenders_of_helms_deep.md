@@ -6,55 +6,55 @@
 
 **HEROES OF LEGEND**
 
-- **Theoden**: 75 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
 
 **HEROES OF VALOUR**
 
-- **Aragorn, Strider**: 160 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
     - Armour: 5 points
-- **Gimli**: 100 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- **Haldir, Galadhrim Captain**: 70 points
+- [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 70 points
     - Heavy armour: 10 points
     - Elf bow: 5 points
     - Elven cloak: 5 points
-- **Legolas**: 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Armour: 5 points
     - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Rohan**: 45 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Galadhrim Captain**: 70 points
+- [**Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#galadhrim-captain-70-points): 70 points
     - Elf bow: 5 points
-- **Gamling**: 55 points
+- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
     - Royal Standard of Rohan: 40 points
 
 **MINOR HEROES**
 
-- **King's Huntsman**: 55 points
+- [**King's Huntsman**](../forces_of_good/good_legacy.md#kings-huntsman-55-points): 55 points
 
 **INDEPENDENT HEROES**
 
-- **Aldor**: 20 points
-- **Haleth, Son of Hama**: 30 points
+- [**Aldor**](../forces_of_good/rohan.md#aldor-20-points): 20 points
+- [**Haleth, Son of Hama**](../forces_of_good/rohan.md#haleth-son-of-hama-30-points): 30 points
 
 **WARRIORS**
 
-- **Galadhrim Warrior**: 9 points
+- [**Galadhrim Warrior**](../forces_of_good/elven_kingdoms.md#galadhrim-warrior-9-points): 9 points
     - War horn and Elf bow: 27 points
     - Banner: 25 points
     - Elf bow: 2 points
     - Shield and Elven spear: 2 points
     - Elven spear: 1 point
     - Shield: 1 point
-- **Rohan Royal Guard**: 11 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - Throwing spears: 2 points
-- **Warrior of Rohan**: 6 points
+- [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
     - War horn, shield, throwing spears: 28 points
     - Banner: 25 points
     - Shield and throwing spears: 3 points

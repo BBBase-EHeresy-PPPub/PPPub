@@ -6,12 +6,12 @@
 
 **HEROES OF LEGEND**
 
-- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
+- [**Gwaihir**](../forces_of_good/the_free_peoples.md#gwaihir-200-points): <span style="color: darkmagenta">200 points</span>
 
 **WARRIORS**
 
-- **Fledgeling Great Eagle**: 75 points
-- **Great Eagle**: 100 points
+- [**Fledgeling Great Eagle**](../forces_of_good/the_free_peoples.md#fledgeling-great-eagle-75-points): 75 points
+- [**Great Eagle**](../forces_of_good/the_free_peoples.md#great-eagle-100-points): 100 points
 
 </div>
 

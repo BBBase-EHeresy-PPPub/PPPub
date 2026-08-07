@@ -6,19 +6,19 @@
 
 **HEROES OF LEGEND**
 
-- **Elrond**: <span style="color: darkmagenta">170 points</span>
-- **Saruman**: 170 points
+- [**Elrond**](../forces_of_good/elven_kingdoms.md#elrond-170-points): <span style="color: darkmagenta">170 points</span>
+- [**Saruman**](../forces_of_good/the_free_peoples.md#saruman-170-points): 170 points
 
 **HEROES OF VALOUR**
 
-- **Galadriel, Lady of Light**: 125 points
-- **Gandalf the Grey**: 170 points
-- **Radagast the Brown**: 145 points
+- [**Galadriel, Lady of Light**](../forces_of_good/the_free_peoples.md#galadriel-lady-of-light-125-points): 125 points
+- [**Gandalf the Grey**](../forces_of_good/the_free_peoples.md#gandalf-the-grey-170-points): 170 points
+- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 145 points
     - Radagast's Sleigh: 35 points
 
 **INDEPENDENT HEROES**
 
-- **Thrain the Broken**: 10 points
+- [**Thrain the Broken**](../forces_of_good/the_free_peoples.md#thrain-the-broken-10-points): 10 points
 
 </div>
 

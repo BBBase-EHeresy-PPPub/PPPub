@@ -6,29 +6,29 @@
 
 **HEROES OF LEGEND**
 
-- **Bard the Bowman**: 130 points
+- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 130 points
     - Armour and horse: 20 points
 
 **HEROES OF VALOUR**
 
-- **Gandalf the Grey**: 170 points
+- [**Gandalf the Grey**](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points): 170 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Hilda-Bianca**: 35 points
-- **Lake-town Militia Captain**: 50 points
-- **Percy, Lake-town Archer**: 50 points
+- [**Hilda-Bianca**](../forces_of_good/kingdoms_of_men.md#hilda-bianca-35-points): 35 points
+- [**Lake-town Militia Captain**](../forces_of_good/kingdoms_of_men.md#lake-town-militia-captain-50-points): 50 points
+- [**Percy, Lake-town Archer**](../forces_of_good/kingdoms_of_men.md#percy-lake-town-archer-50-points): 50 points
 
 **INDEPENDENT HEROES**
 
-- **Alfrid the Councillor**: 30 points
-- **Bard's Family**: 60 points
-- **Bilbo Baggins, Master Burglar**: 75 points
+- [**Alfrid the Councillor**](../forces_of_good/kingdoms_of_men.md#alfrid-the-councillor-30-points): 30 points
+- [**Bard's Family**](../forces_of_good/kingdoms_of_men.md#bards-family-60-points): 60 points
+- [**Bilbo Baggins, Master Burglar**](../forces_of_good/kingdoms_of_men.md#bilbo-baggins-master-burglar-75-points): 75 points
 
 **WARRIORS**
 
-- **Lake-town Militia**: 5 points
+- [**Lake-town Militia**](../forces_of_good/kingdoms_of_men.md#lake-town-militia-5-points): 5 points
     - Bow: 1 point
     - Light shield: 1 point
     - Spear: 1 point

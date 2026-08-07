@@ -6,7 +6,7 @@
 
 **HEROES OF LEGEND**
 
-- **Theoden**: 75 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
     - Snowmane with armour: 25 points
     - Snowmane: 20 points
     - Exchange armour for heavy armour: 5 points
@@ -14,54 +14,54 @@
 
 **HEROES OF VALOUR**
 
-- **Eomer**: 110 points
+- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 110 points
     - Firefoot with armour: 25 points
     - Firefoot: 20 points
     - Shield: 5 points
     - Throwing spears: 5 points
-- **Theodred**: 85 points
+- [**Theodred**](../forces_of_good/rohan.md#theodred-85-points): 85 points
     - Brego: 20 points
     - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Rohan**: 45 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Horse: 20 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Deorwine, Chief of the King's Knights**: 70 points
+- [**Deorwine, Chief of the King's Knights**](../forces_of_good/rohan.md#deorwine-chief-of-the-kings-knights-70-points): 70 points
     - Horse: 20 points
-- **Elfhelm, Captain of Rohan**: 60 points
+- [**Elfhelm, Captain of Rohan**](../forces_of_good/rohan.md#elfhelm-captain-of-rohan-60-points): 60 points
     - Horse: 20 points
-- **Erkenbrand, Captain of Rohan**: 90 points
-- **Gamling**: 55 points
+- [**Erkenbrand, Captain of Rohan**](../forces_of_good/good_legacy.md#erkenbrand-captain-of-rohan-90-points): 90 points
+- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
     - Royal Standard of Rohan: 40 points
     - Horse: 20 points
-- **Grimbold of Grimslade**: 65 points
-- **Hama, Captain of Rohan**: 60 points
+- [**Grimbold of Grimslade**](../forces_of_good/good_legacy.md#grimbold-of-grimslade-65-points): 65 points
+- [**Hama, Captain of Rohan**](../forces_of_good/rohan.md#hama-captain-of-rohan-60-points): 60 points
 
 **MINOR HEROES**
 
-- **Eowyn**: 60 points
+- [**Eowyn**](../forces_of_good/rohan.md#eowyn-60-points): 60 points
     - Horse: 20 points
     - Armour: 5 points
     - Shield: 5 points
     - Throwing spears: 5 points
-- **King's Huntsman**: 55 points
+- [**King's Huntsman**](../forces_of_good/good_legacy.md#kings-huntsman-55-points): 55 points
 
 **WARRIORS**
 
-- **Rider of Rohan**: 14 points
+- [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
     - Throwing spears: 2 points
     - Upgrade to Westfold Redshield: 1 point
-- **Rohan Outrider**: 8 points
+- [**Rohan Outrider**](../forces_of_good/good_legacy.md#rohan-outrider-8-points): 8 points
     - Horse: 5 points
-- **Rohan Royal Guard**: 11 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - Horse and throwing spears: 7 points
     - Horse: 5 points
     - Throwing spears: 2 points
-- **Warrior of Rohan**: 6 points
+- [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
     - War horn, shield, throwing spears: 28 points
     - Banner: 25 points
     - Shield and throwing spears: 3 points

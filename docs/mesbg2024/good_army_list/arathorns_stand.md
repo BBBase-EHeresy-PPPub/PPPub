@@ -6,15 +6,15 @@
 
 **HEROES OF VALOUR**
 
-- **Arathorn, Chieftain of the Dunedain**: 80 points
+- [**Arathorn, Chieftain of the Dunedain**](../forces_of_good/arnor_and_angmar.md#arathorn-chieftain-of-the-dunedain-80-points): 80 points
 
 **HEROES OF FORTITUDE**
 
-- **Halbarad**: 70 points
+- [**Halbarad**](../forces_of_good/arnor_and_angmar.md#halbarad-70-points): 70 points
 
 **INDEPENDENT HEROES**
 
-- **Ranger of the North**: 25 points
+- [**Ranger of the North**](../forces_of_good/arnor_and_angmar.md#ranger-of-the-north-25-points): 25 points
     - Armour: 5 points
     - Spear: 1 point
 

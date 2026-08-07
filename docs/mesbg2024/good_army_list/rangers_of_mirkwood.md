@@ -6,36 +6,36 @@
 
 **HEROES OF VALOUR**
 
-- **Balin the Dwarf**: 40 points
-- **Dwalin the Dwarf**: 95 points
-- **Fili the Dwarf**: 50 points
-- **Kili the Dwarf**: 50 points
-- **Legolas Greenleaf, Prince of Mirkwood**: 105 points
+- [**Balin the Dwarf**](../forces_of_good/dwarven_holds.md#balin-the-dwarf-40-points): 40 points
+- [**Dwalin the Dwarf**](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-95-points): 95 points
+- [**Fili the Dwarf**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points): 50 points
+- [**Kili the Dwarf**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points): 50 points
+- [**Legolas Greenleaf, Prince of Mirkwood**](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points): 105 points
     - Elven cloak: 5 points
-- **Tauriel, Ranger of Mirkwood**: 90 points
+- [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
     - Elf bow: 5 points
-- **Thorin Oakenshield**: 100 points
+- [**Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points): 100 points
     - Orcrist: 10 points
     - The Oakenshield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Bifur the Dwarf**: 45 points
-- **Bilbo Baggins**: 55 points
+- [**Bifur the Dwarf**](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points): 45 points
+- [**Bilbo Baggins**](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points): 55 points
     - Sting: 5 points
     - The One Ring: Free
-- **Bofur the Dwarf**: 45 points
-- **Bombur the Dwarf**: 45 points
-- **Dori the Dwarf**: 55 points
-- **Gloin the Dwarf**: 85 points
-- **Mirkwood Ranger Captain**: 75 points
-- **Nori the Dwarf**: 55 points
-- **Oin the Dwarf**: 50 points
-- **Ori the Dwarf**: 40 points
+- [**Bofur the Dwarf**](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points): 45 points
+- [**Bombur the Dwarf**](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points): 45 points
+- [**Dori the Dwarf**](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points): 55 points
+- [**Gloin the Dwarf**](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-85-points): 85 points
+- [**Mirkwood Ranger Captain**](../forces_of_good/elven_kingdoms.md#mirkwood-ranger-captain-75-points): 75 points
+- [**Nori the Dwarf**](../forces_of_good/dwarven_holds.md#nori-the-dwarf-55-points): 55 points
+- [**Oin the Dwarf**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points): 50 points
+- [**Ori the Dwarf**](../forces_of_good/dwarven_holds.md#ori-the-dwarf-40-points): 40 points
 
 **WARRIORS**
 
-- **Mirkwood Ranger**: 14 points
+- [**Mirkwood Ranger**](../forces_of_good/elven_kingdoms.md#mirkwood-ranger-14-points): 14 points
 
 </div>
 

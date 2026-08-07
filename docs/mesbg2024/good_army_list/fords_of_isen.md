@@ -6,37 +6,37 @@
 
 **HEROES OF VALOUR**
 
-- **Theodred**: 85 points
+- [**Theodred**](../forces_of_good/rohan.md#theodred-85-points): 85 points
     - <span style="color: darkmagenta">Shield: 5 points</span>
     - Brego: 20 points
     - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Rohan**: 45 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Horse: 20 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Elfhelm, Captain of Rohan**: 60 points
+- [**Elfhelm, Captain of Rohan**](../forces_of_good/rohan.md#elfhelm-captain-of-rohan-60-points): 60 points
     - Horse: 20 points
-- **Grimbold of Grimslade**: 65 points
+- [**Grimbold of Grimslade**](../forces_of_good/good_legacy.md#grimbold-of-grimslade-65-points): 65 points
 
 **MINOR HEROES**
 
-- **King's Huntsman**: 55 points
+- [**King's Huntsman**](../forces_of_good/good_legacy.md#kings-huntsman-55-points): 55 points
 
 **WARRIORS**
 
-- **Rider of Rohan**: 14 points
+- [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
     - Throwing spears: 2 points
-- **Rohan Outrider**: 8 points
+- [**Rohan Outrider**](../forces_of_good/good_legacy.md#rohan-outrider-8-points): 8 points
     - Horse: 5 points
-- **Rohan Royal Guard**: 11 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - Horse and throwing spears: 7 points
     - Horse: 5 points
     - Throwing spears: 2 points
-- **Warrior of Rohan**: 6 points
+- [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
     - War horn, shield, throwing spears: 28 points
     - Banner: 25 points
     - Shield and throwing spears: 3 points

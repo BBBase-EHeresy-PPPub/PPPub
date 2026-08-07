@@ -6,39 +6,39 @@
 
 **HEROES OF LEGEND**
 
-- **Theoden**: 75 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
     - Snowmane: 20 points
 
 **HEROES OF VALOUR**
 
-- **Aragorn, Strider**: 160 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
     - Brego: 20 points
     - Bow: 5 points
     - Elven Cloak: 5 points
-- **Gimli**: 100 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- **Legolas**: 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Horse: 20 points
     - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Rohan**: 45 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Horse: 20 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Gamling**: 55 points
+- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
     - Horse: 20 points
-- **Hama, Captain of Rohan**: 60 points
+- [**Hama, Captain of Rohan**](../forces_of_good/rohan.md#hama-captain-of-rohan-60-points): 60 points
 
 **WARRIORS**
 
-- **Rider of Rohan**: 14 points
+- [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
     - Throwing spears: 2 points
-- **Rohan Outrider**: 8 points
+- [**Rohan Outrider**](../forces_of_good/good_legacy.md#rohan-outrider-8-points): 8 points
     - Horse: 5 points
-- **Rohan Royal Guard**: 11 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - Horse: 5 points
     - Throwing spears: 2 points
 

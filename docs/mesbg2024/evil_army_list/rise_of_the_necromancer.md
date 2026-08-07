@@ -6,43 +6,43 @@
 
 **HEROES OF LEGEND**
 
-- **Sauron, The Necromancer**: 200 points
+- [**Sauron, The Necromancer**](../forces_of_evil/gundabad_and_dol_guldur.md#sauron-the-necromancer-200-points): 200 points
 
 **HEROES OF VALOUR**
 
-- **Khamul the Easterling**: 80 points
-- **The Abyssal Knight**: 80 points
-- **The Abyssal Knight**: 80 points
-- **The Dark Headsman**: 80 points
-- **The Forsaken**: 80 points
-- **The Keeper of the Dungeons**: 80 points
-- **The Lingering Shadow**: 80 points
-- **The Slayer of Men**: 80 points
-- **The Slayer of Men**: 80 points
-- **The Witch-king of Angmar**: 80 points
+- [**Khamul the Easterling**](../forces_of_evil/gundabad_and_dol_guldur.md#khamul-the-easterling-80-points): 80 points
+- [**The Abyssal Knight**](../forces_of_evil/gundabad_and_dol_guldur.md#the-abyssal-knight-80-points): 80 points
+- [**The Abyssal Knight**](../forces_of_evil/gundabad_and_dol_guldur.md#the-abyssal-knight-80-points): 80 points
+- [**The Dark Headsman**](../forces_of_evil/gundabad_and_dol_guldur.md#the-dark-headsman-80-points): 80 points
+- [**The Forsaken**](../forces_of_evil/gundabad_and_dol_guldur.md#the-forsaken-80-points): 80 points
+- [**The Keeper of the Dungeons**](../forces_of_evil/gundabad_and_dol_guldur.md#the-keeper-of-the-dungeons-80-points): 80 points
+- [**The Lingering Shadow**](../forces_of_evil/gundabad_and_dol_guldur.md#the-lingering-shadow-80-points): 80 points
+- [**The Slayer of Men**](../forces_of_evil/gundabad_and_dol_guldur.md#the-slayer-of-men-80-points): 80 points
+- [**The Slayer of Men**](../forces_of_evil/gundabad_and_dol_guldur.md#the-slayer-of-men-80-points): 80 points
+- [**The Witch-king of Angmar**](../forces_of_evil/gundabad_and_dol_guldur.md#the-witch-king-of-angmar-80-points): 80 points
 
 **HEROES OF FORTITUDE**
 
-- **Hunter Orc Captain**: 45 points
+- [**Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-captain-45-points): 45 points
     - Fell Warg: 20 points
     - Orc bow: 5 points
     - Two-handed weapon: 5 points
 
 **INDEPENDENT HEROES**
 
-- **Castellan of Dol Guldur**: 50 points
+- [**Castellan of Dol Guldur**](../forces_of_evil/evil_legacy.md#castellan-of-dol-guldur-50-points): 50 points
 
 **WARRIORS**
 
-- **Fell Warg**: 8 points
-- **Hunter Orc Warg Rider**: 15 points
+- [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
+- [**Hunter Orc Warg Rider**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warg-rider-15-points): 15 points
     - Orc bow: 1 point
     - Two-handed weapon: 1 point
-- **Hunter Orc Warrior**: 8 points
+- [**Hunter Orc Warrior**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warrior-8-points): 8 points
     - Orc bow: 1 point
     - Two-handed weapon: 1 point
-- **Mirkwood Giant Spider**: 20 points
-- **Mirkwood Hunting Spider**: 20 points
+- [**Mirkwood Giant Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points): 20 points
+- [**Mirkwood Hunting Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-hunting-spider-20-points): 20 points
 
 </div>
 

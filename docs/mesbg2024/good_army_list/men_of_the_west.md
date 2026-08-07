@@ -6,61 +6,61 @@
 
 **HEROES OF LEGEND**
 
-- **Aragorn, King Elessar**: 225 points
+- [**Aragorn, King Elessar**](../forces_of_good/gondor.md#aragorn-king-elessar-225-points): 225 points
     - Armoured horse: 25 points
-- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
-- **Prince Imrahil**: <span style="color: darkmagenta">140 points</span>
+- [**Gwaihir**](../forces_of_good/the_free_peoples.md#gwaihir-200-points): <span style="color: darkmagenta">200 points</span>
+- [**Prince Imrahil**](../forces_of_good/gondor.md#prince-imrahil-140-points): <span style="color: darkmagenta">140 points</span>
 
 **HEROES OF VALOUR**
 
-- **Eomer**: 110 points
+- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 110 points
     - Firefoot with armour: 25 points
     - Firefoot: 20 points
     - Shield: 5 points
     - Throwing spears: 5 points
-- **Gandalf the White**: 200 points
+- [**Gandalf the White**](../forces_of_good/gondor.md#gandalf-the-white-200-points): 200 points
     - Pippin: 25 points
     - Shadowfax: 25 points
-- **Gimli**: 100 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- **Legolas**: 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Horse: 20 points
     - Armour: 5 points
     - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Beregond, Guard of the Citadel**: 65 points
-- **Captain of Dol Amroth**: 65 points
-- **Captain of Minas Tirith**: 60 points
-- **Captain of Rohan**: 45 points
+- [**Beregond, Guard of the Citadel**](../forces_of_good/gondor.md#beregond-guard-of-the-citadel-65-points): 65 points
+- [**Captain of Dol Amroth**](../forces_of_good/gondor.md#captain-of-dol-amroth-65-points): 65 points
+- [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- **Elladan**: 80 points
-- **Elrohir**: 80 points
+- [**Elladan**](../forces_of_good/elven_kingdoms.md#elladan-80-points): 80 points
+- [**Elrohir**](../forces_of_good/elven_kingdoms.md#elrohir-80-points): 80 points
 
 **INDEPENDENT HEROES**
 
-- **Meriadoc Brandybuck**: 25 points
+- [**Meriadoc Brandybuck**](../forces_of_good/rohan.md#meriadoc-brandybuck-25-points): 25 points
     - Elven Cloak: 5 points
     - Shield: 5 points
-- **Peregrin Took**: 25 points
+- [**Peregrin Took**](../forces_of_good/gondor.md#peregrin-took-25-points): 25 points
     - Elven Cloak: 5 points
 
 **WARRIORS**
 
-- **Great Eagle**: 100 points
-- **Knight of Dol Amroth**: 11 points
+- [**Great Eagle**](../forces_of_good/the_free_peoples.md#great-eagle-100-points): 100 points
+- [**Knight of Dol Amroth**](../forces_of_good/gondor.md#knight-of-dol-amroth-11-points): 11 points
     - Banner: 25 points
     - War horn: 25 points
-- **Man-at-arms of Dol Amroth**: 10 points
-- **Warrior of Minas Tirith**: 8 points
+- [**Man-at-arms of Dol Amroth**](../forces_of_good/good_legacy.md#man-at-arms-of-dol-amroth-10-points): 10 points
+- [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
     - Shield and spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
-- **Warrior of Rohan**: 6 points
+- [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
     - War horn, shield, throwing spears: 28 points
     - Banner: 25 points
     - Shield and throwing spears: 3 points

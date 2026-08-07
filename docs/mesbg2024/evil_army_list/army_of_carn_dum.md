@@ -6,30 +6,30 @@
 
 **HEROES OF VALOUR**
 
-- **Aldrac, Warlord of Carn Dum**: 120 points
+- [**Aldrac, Warlord of Carn Dum**](../forces_of_good/arnor_and_angmar.md#aldrac-warlord-of-carn-dum-120-points): 120 points
 
 **HEROES OF FORTITUDE**
 
-- **Angmar Orc Captain**: 45 points
-- **Captain of Carn Dum**: 55 points
-- **Fraecht, Vassal of the Witch-king**: 65 points
+- [**Angmar Orc Captain**](../forces_of_good/arnor_and_angmar.md#angmar-orc-captain-45-points): 45 points
+- [**Captain of Carn Dum**](../forces_of_good/arnor_and_angmar.md#captain-of-carn-dum-55-points): 55 points
+- [**Fraecht, Vassal of the Witch-king**](../forces_of_good/arnor_and_angmar.md#fraecht-vassal-of-the-witch-king-65-points): 65 points
 
 **WARRIORS**
 
-- **Angmar Orc Warrior**: 5 points
+- [**Angmar Orc Warrior**](../forces_of_good/arnor_and_angmar.md#angmar-orc-warrior-5-points): 5 points
     - Banner: 25 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
     - Two-handed weapon: 1 point
-- **Angmar Warg Rider**: 11 points
+- [**Angmar Warg Rider**](../forces_of_good/arnor_and_angmar.md#angmar-warg-rider-11-points): 11 points
     - Shield and throwing spears: 2 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Throwing spears: 1 point
-- **Hill Troll**: 75 points
-- **Orc Tracker**: 6 points
-- **Warrior of Carn Dum**: 9 points
+- [**Hill Troll**](../forces_of_good/arnor_and_angmar.md#hill-troll-75-points): 75 points
+- [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points
+- [**Warrior of Carn Dum**](../forces_of_good/arnor_and_angmar.md#warrior-of-carn-dum-9-points): 9 points
     - Banner: 25 points
     - Spear: 1 point
 

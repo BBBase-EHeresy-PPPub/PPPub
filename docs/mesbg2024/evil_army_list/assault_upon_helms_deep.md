@@ -6,22 +6,22 @@
 
 **HEROES OF FORTITUDE**
 
-- **Uruk-Hai Captain**: 65 points
-- **Uruk-Hai Captain (General)**: 65 points
+- [**Uruk-Hai Captain**](../forces_of_evil/isengard.md#uruk-hai-captain-65-points): 65 points
+- [**Uruk-Hai Captain (General)**](../forces_of_evil/isengard.md#uruk-hai-captain-general-65-points): 65 points
 
 **MINOR HEROES**
 
-- **Uruk-Hai Shaman**: 55 points
+- [**Uruk-Hai Shaman**](../forces_of_evil/isengard.md#uruk-hai-shaman-55-points): 55 points
     - Armour: 5 points
 
 **WARRIORS**
 
-- **Isengard Troll**: 100 points
+- [**Isengard Troll**](../forces_of_evil/isengard.md#isengard-troll-100-points): 100 points
     - Swap shield for war drum (Isengard): 25 points
     - Spear: 5 points
-- **Uruk-Hai Berserker**: 15 points
-- **Uruk-Hai Demolition Team**: 80 points
-- **Uruk-Hai Warrior**: 9 points
+- [**Uruk-Hai Berserker**](../forces_of_evil/isengard.md#uruk-hai-berserker-15-points): 15 points
+- [**Uruk-Hai Demolition Team**](../forces_of_evil/isengard.md#uruk-hai-demolition-team-80-points): 80 points
+- [**Uruk-Hai Warrior**](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 9 points
     - Banner: 25 points
     - Crossbow: 2 points
     - Pike: 1 point
@@ -29,7 +29,7 @@
 
 **SIEGE ENGINES**
 
-- **Isengard Assault Ballista**: 75 points
+- [**Isengard Assault Ballista**](../forces_of_evil/isengard.md#isengard-assault-ballista-75-points): 75 points
 
 </div>
 

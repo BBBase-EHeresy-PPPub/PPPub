@@ -6,29 +6,29 @@
 
 **HEROES OF VALOUR**
 
-- **The Master of Lake-town**: 70 points
+- [**The Master of Lake-town**](../forces_of_good/kingdoms_of_men.md#the-master-of-lake-town-70-points): 70 points
 
 **HEROES OF FORTITUDE**
 
-- **Alfrid the Councillor**: 30 points
-- **Bard the Bowman**: 130 points
+- [**Alfrid the Councillor**](../forces_of_good/kingdoms_of_men.md#alfrid-the-councillor-30-points): 30 points
+- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 130 points
     - Windlance: 50 points
-- **Bofur the Dwarf**: 45 points
-- **Braga, Captain of the Guard**: 55 points
-- **Fili the Dwarf**: 50 points
-- **Kili the Dwarf**: 50 points
-- **Lake-town Guard Captain**: 45 points
-- **Oin the Dwarf**: 50 points
-- **Tauriel, Ranger of Mirkwood**: 90 points
+- [**Bofur the Dwarf**](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points): 45 points
+- [**Braga, Captain of the Guard**](../forces_of_good/kingdoms_of_men.md#braga-captain-of-the-guard-55-points): 55 points
+- [**Fili the Dwarf**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points): 50 points
+- [**Kili the Dwarf**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points): 50 points
+- [**Lake-town Guard Captain**](../forces_of_good/kingdoms_of_men.md#lake-town-guard-captain-45-points): 45 points
+- [**Oin the Dwarf**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points): 50 points
+- [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
     - Elf bow: 5 points
 
 **INDEPENDENT HEROES**
 
-- **Bard's Family**: 60 points
+- [**Bard's Family**](../forces_of_good/kingdoms_of_men.md#bards-family-60-points): 60 points
 
 **WARRIORS**
 
-- **Lake-town Guard**: 7 points
+- [**Lake-town Guard**](../forces_of_good/kingdoms_of_men.md#lake-town-guard-7-points): 7 points
     - Bow: 1 point
     - Spear: 1 point
 

@@ -6,33 +6,33 @@
 
 **HEROES OF LEGEND**
 
-- **Dalamyr, Fleetmaster of Umbar**: 100 points
+- [**Dalamyr, Fleetmaster of Umbar**](../forces_of_evil/fallen_realms.md#dalamyr-fleetmaster-of-umbar-100-points): 100 points
 
 **HEROES OF VALOUR**
 
-- **Delgamar, Gatemaster of Umbar**: 75 points
+- [**Delgamar, Gatemaster of Umbar**](../forces_of_evil/fallen_realms.md#delgamar-gatemaster-of-umbar-75-points): 75 points
 
 **HEROES OF FORTITUDE**
 
-- **Corsair Bo'sun**: 50 points
+- [**Corsair Bo'sun**](../forces_of_evil/fallen_realms.md#corsair-bosun-50-points): 50 points
     - Exchange spear for crossbow: Free
-- **Corsair Captain**: 55 points
+- [**Corsair Captain**](../forces_of_evil/fallen_realms.md#corsair-captain-55-points): 55 points
     - Exchange two-handed weapon for crossbow: Free
-- **Corsair Captain (General)**: 55 points
+- [**Corsair Captain (General)**](../forces_of_evil/fallen_realms.md#corsair-captain-general-55-points): 55 points
     - Exchange two-handed weapon for crossbow: Free
 
 **WARRIORS**
 
-- **Corsair Crossbowman**: 10 points
-- **Corsair Reaver**: 9 points
-- **Corsair of Umbar**: 8 points
+- [**Corsair Crossbowman**](../forces_of_evil/fallen_realms.md#corsair-crossbowman-10-points): 10 points
+- [**Corsair Reaver**](../forces_of_evil/evil_legacy.md#corsair-reaver-9-points): 9 points
+- [**Corsair of Umbar**](../forces_of_evil/fallen_realms.md#corsair-of-umbar-8-points): 8 points
     - Bow: 1 point
     - Light shield and throwing weapons: 1 point
     - Spear: 1 point
 
 **SIEGE ENGINES**
 
-- **Corsair Ballista**: 70 points
+- [**Corsair Ballista**](../forces_of_evil/fallen_realms.md#corsair-ballista-70-points): 70 points
 
 </div>
 

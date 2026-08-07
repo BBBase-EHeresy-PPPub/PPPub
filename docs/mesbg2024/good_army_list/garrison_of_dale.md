@@ -6,17 +6,17 @@
 
 **HEROES OF LEGEND**
 
-- **Girion, Lord of Dale**: 80 points
+- [**Girion, Lord of Dale**](../forces_of_good/kingdoms_of_men.md#girion-lord-of-dale-80-points): 80 points
     - Windlance: 50 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Dale**: 55 points
+- [**Captain of Dale**](../forces_of_good/kingdoms_of_men.md#captain-of-dale-55-points): 55 points
 
 **WARRIORS**
 
-- **Knight of Dale**: 11 points
-- **Warrior of Dale**: 7 points
+- [**Knight of Dale**](../forces_of_good/kingdoms_of_men.md#knight-of-dale-11-points): 11 points
+- [**Warrior of Dale**](../forces_of_good/kingdoms_of_men.md#warrior-of-dale-7-points): 7 points
     - War horn: 25 points
     - Banner: 25 points
     - Esgaroth bow: 2 points
@@ -25,7 +25,7 @@
 
 **SIEGE ENGINES**
 
-- **Windlance**: 70 points
+- [**Windlance**](../forces_of_good/kingdoms_of_men.md#windlance-70-points): 70 points
 
 </div>
 

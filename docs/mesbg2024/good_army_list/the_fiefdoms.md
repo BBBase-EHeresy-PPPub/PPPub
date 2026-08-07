@@ -6,35 +6,35 @@
 
 **HEROES OF LEGEND**
 
-- **Prince Imrahil**: <span style="color: darkmagenta">140 points</span>
+- [**Prince Imrahil**](../forces_of_good/gondor.md#prince-imrahil-140-points): <span style="color: darkmagenta">140 points</span>
     - Armoured horse and lance: 30 points
 
 **HEROES OF VALOUR**
 
-- **Angbor the Fearless**: 70 points
-- **Duinhir, Lord of the Blackroot Vale**: 65 points
-- **Forlong the Fat**: 90 points
+- [**Angbor the Fearless**](../forces_of_good/gondor.md#angbor-the-fearless-70-points): 70 points
+- [**Duinhir, Lord of the Blackroot Vale**](../forces_of_good/gondor.md#duinhir-lord-of-the-blackroot-vale-65-points): 65 points
+- [**Forlong the Fat**](../forces_of_good/gondor.md#forlong-the-fat-90-points): 90 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Dol Amroth**: 65 points
+- [**Captain of Dol Amroth**](../forces_of_good/gondor.md#captain-of-dol-amroth-65-points): 65 points
     - Armoured horse and lance: 30 points
 
 **WARRIORS**
 
-- **Axeman of Lossarnach**: 9 points
-- **Blackroot Vale Archer**: 8 points
+- [**Axeman of Lossarnach**](../forces_of_good/gondor.md#axeman-of-lossarnach-9-points): 9 points
+- [**Blackroot Vale Archer**](../forces_of_good/gondor.md#blackroot-vale-archer-8-points): 8 points
     - War horn: 25 points
     - Banner: 25 points
     - Spear: 1 point
-- **Clansman of Lamedon**: 8 points
-- **Knight of Dol Amroth**: 11 points
+- [**Clansman of Lamedon**](../forces_of_good/gondor.md#clansman-of-lamedon-8-points): 8 points
+- [**Knight of Dol Amroth**](../forces_of_good/gondor.md#knight-of-dol-amroth-11-points): 11 points
     - Armoured horse and banner: 33 points
     - Armoured horse and war horn: 33 points
     - Banner: 25 points
     - War horn: 25 points
     - Armoured horse and lance: 9 points
-- **Man-at-arms of Dol Amroth**: 10 points
+- [**Man-at-arms of Dol Amroth**](../forces_of_good/good_legacy.md#man-at-arms-of-dol-amroth-10-points): 10 points
 
 </div>
 

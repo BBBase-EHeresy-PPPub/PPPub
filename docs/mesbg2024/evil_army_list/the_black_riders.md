@@ -6,14 +6,14 @@
 
 **HEROES OF LEGEND**
 
-- **The Witch-king of Angmar**: 0 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
     - 2A / 2M / 14W / 2F: 120 points
     - Horse: 20 points
     - Morgul Blade: 10 points
 
 **HEROES OF FORTITUDE**
 
-- **Ringwraith**: 0 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
     - 2A / 1M / 10W / 1F: 85 points
     - Horse: 20 points
     - Morgul Blade: 10 points

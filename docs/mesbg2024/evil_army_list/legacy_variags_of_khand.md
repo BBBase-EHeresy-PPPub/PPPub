@@ -6,22 +6,22 @@
 
 **HEROES OF VALOUR**
 
-- **Khandish King**: 100 points
+- [**Khandish King**](../forces_of_evil/evil_legacy.md#khandish-king-100-points): 100 points
     - Khandish Chariot: 35 points
-- **Khandish King**: 100 points
+- [**Khandish King**](../forces_of_evil/evil_legacy.md#khandish-king-100-points): 100 points
     - Khandish Chariot: 35 points
 
 **HEROES OF FORTITUDE**
 
-- **Khandish Chieftain**: 55 points
+- [**Khandish Chieftain**](../forces_of_evil/evil_legacy.md#khandish-chieftain-55-points): 55 points
     - Horse: 20 points
 
 **WARRIORS**
 
-- **Khandish Charioteer**: 40 points
+- [**Khandish Charioteer**](../forces_of_evil/evil_legacy.md#khandish-charioteer-40-points): 40 points
     - Exchange hand-and-a-half weapon for bow: Free
-- **Khandish Horseman**: 14 points
-- **Khandish Warrior**: 8 points
+- [**Khandish Horseman**](../forces_of_evil/evil_legacy.md#khandish-horseman-14-points): 14 points
+- [**Khandish Warrior**](../forces_of_evil/evil_legacy.md#khandish-warrior-8-points): 8 points
     - Exchange hand-and-a-half weapon for bow: Free
 
 </div>

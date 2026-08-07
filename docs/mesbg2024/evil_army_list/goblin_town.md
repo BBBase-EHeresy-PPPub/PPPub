@@ -6,21 +6,21 @@
 
 **HEROES OF LEGEND**
 
-- **The Goblin King**: 150 points
+- [**The Goblin King**](../forces_of_evil/the_misty_mountains.md#the-goblin-king-150-points): 150 points
 
 **HEROES OF FORTITUDE**
 
-- **Goblin Captain**: 40 points
-- **Grinnah, Goblin Jailer**: 50 points
-- **The Goblin Scribe**: 50 points
+- [**Goblin Captain**](../forces_of_evil/the_misty_mountains.md#goblin-captain-40-points): 40 points
+- [**Grinnah, Goblin Jailer**](../forces_of_evil/the_misty_mountains.md#grinnah-goblin-jailer-50-points): 50 points
+- [**The Goblin Scribe**](../forces_of_evil/the_misty_mountains.md#the-goblin-scribe-50-points): 50 points
 
 **INDEPENDENT HEROES**
 
-- **Gollum**: 40 points
+- [**Gollum**](../forces_of_evil/the_misty_mountains.md#gollum-40-points): 40 points
 
 **WARRIORS**
 
-- **Goblin Warrior**: 5 points
+- [**Goblin Warrior**](../forces_of_evil/the_misty_mountains.md#goblin-warrior-5-points): 5 points
     - Two-handed weapon: 1 point
 
 </div>

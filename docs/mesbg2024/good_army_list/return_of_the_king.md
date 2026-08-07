@@ -6,27 +6,27 @@
 
 **HEROES OF LEGEND**
 
-- **Aragorn, Strider**: 160 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
     - Elven Cloak: 5 points
     - Anduril, Flame of the West: Free
 
 **HEROES OF VALOUR**
 
-- **Gimli**: 100 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- **King of the Dead**: 100 points
-- **Legolas**: 100 points
+- [**King of the Dead**](../forces_of_good/gondor.md#king-of-the-dead-100-points): 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Armour: 5 points
     - Elven Cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Herald of the Dead**: 70 points
+- [**Herald of the Dead**](../forces_of_good/gondor.md#herald-of-the-dead-70-points): 70 points
 
 **WARRIORS**
 
-- **Rider of the Dead**: 25 points
-- **Warrior of the Dead**: 14 points
+- [**Rider of the Dead**](../forces_of_good/gondor.md#rider-of-the-dead-25-points): 25 points
+- [**Warrior of the Dead**](../forces_of_good/gondor.md#warrior-of-the-dead-14-points): 14 points
     - Banner: 25 points
     - Shield and spear: 2 points
     - Shield: 1 point

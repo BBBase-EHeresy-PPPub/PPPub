@@ -6,29 +6,29 @@
 
 **HEROES OF LEGEND**
 
-- **Gothmog**: 120 points
+- [**Gothmog**](../forces_of_evil/mordor.md#gothmog-120-points): 120 points
     - Warg: 20 points
     - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Goroth, Captain of the Morannon**: 85 points
-- **Gothmog's Enforcer**: 55 points
-- **Guritz**: 65 points
-- **Morannon Orc Captain**: 55 points
+- [**Goroth, Captain of the Morannon**](../forces_of_evil/evil_legacy.md#goroth-captain-of-the-morannon-85-points): 85 points
+- [**Gothmog's Enforcer**](../forces_of_evil/mordor.md#gothmogs-enforcer-55-points): 55 points
+- [**Guritz**](../forces_of_evil/mordor.md#guritz-65-points): 65 points
+- [**Morannon Orc Captain**](../forces_of_evil/mordor.md#morannon-orc-captain-55-points): 55 points
     - Shield: 5 points
     - Two-handed weapon: 5 points
 - <span style="color: darkmagenta">**Mordor Orc Captain**: 45 points</span>
-- **Zagdush, Orc Captain**: 60 points
+- [**Zagdush, Orc Captain**](../forces_of_evil/evil_legacy.md#zagdush-orc-captain-60-points): 60 points
 
 **MINOR HEROES**
 
-- **Mordor Orc Shaman**: 50 points
+- [**Mordor Orc Shaman**](../forces_of_evil/mordor.md#mordor-orc-shaman-50-points): 50 points
     - Warg: 20 points
 
 **WARRIORS**
 
-- **Morannon Orc Warrior**: 8 points
+- [**Morannon Orc Warrior**](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 8 points
     - Banner: 25 points
     - Shield and spear: 2 points
     - Shield: 1 point
@@ -39,14 +39,14 @@
     - Shield: 1 point
     - Spear: 1 point
     - Two-handed weapon: 1 point
-- **Mordor Troll**: 90 points
+- [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 
 **SIEGE ENGINES**
 
-- **Mordor Siege Bow**: 50 points
+- [**Mordor Siege Bow**](../forces_of_evil/mordor.md#mordor-siege-bow-50-points): 50 points
     - Flaming Ammunition: 10 points
-- **Mordor War Catapult**: 150 points
+- [**Mordor War Catapult**](../forces_of_evil/mordor.md#mordor-war-catapult-150-points): 150 points
     - Severed Heads: 20 points
     - Flaming Ammunition: 10 points
 

@@ -6,22 +6,22 @@
 
 **HEROES OF VALOUR**
 
-- **Sharku**: 70 points
+- [**Sharku**](../forces_of_evil/isengard.md#sharku-70-points): 70 points
 
 **HEROES OF FORTITUDE**
 
-- **Isengard Orc Captain**: 45 points
+- [**Isengard Orc Captain**](../forces_of_evil/isengard.md#isengard-orc-captain-45-points): 45 points
     - Warg: 20 points
 
 **MINOR HEROES**
 
-- **Isengard Orc Shaman**: 50 points
+- [**Isengard Orc Shaman**](../forces_of_evil/isengard.md#isengard-orc-shaman-50-points): 50 points
     - Warg: 20 points
 
 **WARRIORS**
 
-- **Isengard Warg**: 7 points
-- **Isengard Warg Rider**: 11 points
+- [**Isengard Warg**](../forces_of_evil/isengard.md#isengard-warg-7-points): 7 points
+- [**Isengard Warg Rider**](../forces_of_evil/isengard.md#isengard-warg-rider-11-points): 11 points
     - Shield and throwing spears: 2 points
     - Orc bow: 1 point
     - Shield: 1 point

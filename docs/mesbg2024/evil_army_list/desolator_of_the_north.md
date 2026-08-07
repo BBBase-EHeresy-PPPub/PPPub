@@ -6,7 +6,7 @@
 
 **HEROES OF LEGEND**
 
-- **Smaug**: 700 points
+- [**Smaug**](../forces_of_evil/smaug.md#smaug-700-points): 700 points
 
 </div>
 

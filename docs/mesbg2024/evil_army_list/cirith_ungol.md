@@ -6,37 +6,37 @@
 
 **HEROES OF VALOUR**
 
-- **Gorbag**: 60 points
-- **Shagrat**: 110 points
+- [**Gorbag**](../forces_of_evil/mordor.md#gorbag-60-points): 60 points
+- [**Shagrat**](../forces_of_evil/mordor.md#shagrat-110-points): 110 points
 
 **HEROES OF FORTITUDE**
 
-- **Mordor Orc Captain**: 45 points
-- **Mordor Orc Taskmaster**: 45 points
-- **Mordor Uruk-Hai Captain**: 55 points
+- [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
+- [**Mordor Orc Taskmaster**](../forces_of_evil/mordor.md#mordor-orc-taskmaster-45-points): 45 points
+- [**Mordor Uruk-Hai Captain**](../forces_of_evil/mordor.md#mordor-uruk-hai-captain-55-points): 55 points
     - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
-- **Mordor Orc Shaman**: 50 points
+- [**Mordor Orc Shaman**](../forces_of_evil/mordor.md#mordor-orc-shaman-50-points): 50 points
     - Warg: 20 points
 
 **INDEPENDENT HEROES**
 
-- **Mordor Orc Drummer**: 30 points
-- **Shelob**: 100 points
+- [**Mordor Orc Drummer**](../forces_of_evil/mordor.md#mordor-orc-drummer-30-points): 30 points
+- [**Shelob**](../forces_of_evil/mordor.md#shelob-100-points): 100 points
 
 **WARRIORS**
 
-- **Mordor Orc Warrior**: 5 points
+- [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
     - Two-handed weapon: 1 point
-- **Mordor Uruk-Hai**: 8 points
+- [**Mordor Uruk-Hai**](../forces_of_evil/mordor.md#mordor-uruk-hai-8-points): 8 points
     - Two-handed weapon: 1 point
-- **Orc Tracker**: 6 points
+- [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points
 
 </div>
 

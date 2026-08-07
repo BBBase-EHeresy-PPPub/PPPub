@@ -6,40 +6,40 @@
 
 **HEROES OF LEGEND**
 
-- **Azog the Defiler**: 175 points
+- [**Azog the Defiler**](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points): 175 points
     - Stone flail: 15 points
     - Heavy armour: 10 points
 
 **HEROES OF VALOUR**
 
-- **Bolg, Spawn of Azog**: 175 points
+- [**Bolg, Spawn of Azog**](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points): 175 points
     - Fell Warg: 20 points
     - Orc bow: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Goblin Mercenary Captain**: 50 points
-- **Gundabad Orc Captain**: 60 points
+- [**Goblin Mercenary Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#goblin-mercenary-captain-50-points): 50 points
+- [**Gundabad Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-captain-60-points): 60 points
 
 **INDEPENDENT HEROES**
 
-- **Gundabad Catapult Troll**: 180 points
-- **Troll Brute**: 120 points
+- [**Gundabad Catapult Troll**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-catapult-troll-180-points): 180 points
+- [**Troll Brute**](../forces_of_evil/gundabad_and_dol_guldur.md#troll-brute-120-points): 120 points
 
 **WARRIORS**
 
-- **Goblin Mercenary**: 6 points
-- **Gundabad Berserker**: 15 points
+- [**Goblin Mercenary**](../forces_of_evil/gundabad_and_dol_guldur.md#goblin-mercenary-6-points): 6 points
+- [**Gundabad Berserker**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-berserker-15-points): 15 points
     - Two-handed weapon: 1 point
-- **Gundabad Ogre**: 60 points
-- **Gundabad Orc Warrior**: 9 points
+- [**Gundabad Ogre**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-ogre-60-points): 60 points
+- [**Gundabad Orc Warrior**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-warrior-9-points): 9 points
     - Banner and shield: 26 points
     - Banner: 25 points
     - Shield: 1 point
     - Spear: 1 point
-- **Gundabad Troll**: 120 points
+- [**Gundabad Troll**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-troll-120-points): 120 points
     - Exchange club for Scythe Gauntlets: 10 points
-- **War Bat**: 25 points
+- [**War Bat**](../forces_of_evil/gundabad_and_dol_guldur.md#war-bat-25-points): 25 points
 
 </div>
 

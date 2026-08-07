@@ -6,26 +6,26 @@
 
 **HEROES OF LEGEND**
 
-- **Sharkey & Worm**: 60 points
+- [**Sharkey & Worm**](../forces_of_evil/isengard.md#sharkey-worm-60-points): 60 points
 
 **HEROES OF VALOUR**
 
-- **Sid Briarthorn**: 50 points
+- [**Sid Briarthorn**](../forces_of_evil/isengard.md#sid-briarthorn-50-points): 50 points
 
 **HEROES OF FORTITUDE**
 
-- **Bill Ferny**: 40 points
-- **Lotho Sackville-Baggins**: 30 points
-- **Rowan Thistlewood**: 45 points
-- **Ruffian**: 5 points
+- [**Bill Ferny**](../forces_of_evil/isengard.md#bill-ferny-40-points): 40 points
+- [**Lotho Sackville-Baggins**](../forces_of_good/the_free_peoples.md#lotho-sackville-baggins-30-points): 30 points
+- [**Rowan Thistlewood**](../forces_of_evil/isengard.md#rowan-thistlewood-45-points): 45 points
+- [**Ruffian**](../forces_of_evil/isengard.md#ruffian-5-points): 5 points
     - Bow: 1 point
     - Whip: 1 point
-- **Ted Sandyman**: 30 points
+- [**Ted Sandyman**](../forces_of_evil/isengard.md#ted-sandyman-30-points): 30 points
 
 **WARRIORS**
 
-- **Hobbit Militia**: 4 points
-- **Ruffian**: 5 points
+- [**Hobbit Militia**](../forces_of_good/the_free_peoples.md#hobbit-militia-4-points): 4 points
+- [**Ruffian**](../forces_of_evil/isengard.md#ruffian-5-points): 5 points
     - Bow: 1 point
     - Whip: 1 point
 

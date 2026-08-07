@@ -6,34 +6,34 @@
 
 **HEROES OF LEGEND**
 
-- **Thorin Oakenshield, King Under the Mountain**: 130 points
+- [**Thorin Oakenshield, King Under the Mountain**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-king-under-the-mountain-130-points): 130 points
     - Orcrist: 10 points
 
 **HEROES OF VALOUR**
 
-- **Balin the Dwarf, Champion of Erebor**: 60 points
-- **Dain Ironfoot, Lord of the Iron Hills**: 160 points
-- **Dwalin the Dwarf, Champion of Erebor**: 110 points
-- **Fili the Dwarf, Champion of Erebor**: 70 points
-- **Kili the Dwarf, Champion of Erebor**: 70 points
+- [**Balin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#balin-the-dwarf-champion-of-erebor-60-points): 60 points
+- [**Dain Ironfoot, Lord of the Iron Hills**](../forces_of_good/dwarven_holds.md#dain-ironfoot-lord-of-the-iron-hills-160-points): 160 points
+- [**Dwalin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-champion-of-erebor-110-points): 110 points
+- [**Fili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-champion-of-erebor-70-points): 70 points
+- [**Kili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-champion-of-erebor-70-points): 70 points
 
 **HEROES OF FORTITUDE**
 
-- **Bifur the Dwarf, Champion of Erebor**: 65 points
-- **Bofur the Dwarf, Champion of Erebor**: 65 points
+- [**Bifur the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-champion-of-erebor-65-points): 65 points
+- [**Bofur the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-champion-of-erebor-65-points): 65 points
     - Troll Brute: 100 points
-- **Bombur the Dwarf, Champion of Erebor**: 60 points
-- **Dori the Dwarf, Champion of Erebor**: 75 points
-- **Gloin the Dwarf, Champion of Erebor**: 100 points
-- **Iron Hills Captain**: 80 points
+- [**Bombur the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-champion-of-erebor-60-points): 60 points
+- [**Dori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#dori-the-dwarf-champion-of-erebor-75-points): 75 points
+- [**Gloin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-champion-of-erebor-100-points): 100 points
+- [**Iron Hills Captain**](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points): 80 points
     - Exchange shield and spear for Mattock: Free
-- **Nori the Dwarf, Champion of Erebor**: 75 points
-- **Oin the Dwarf, Champion of Erebor**: 60 points
-- **Ori the Dwarf, Champion of Erebor**: 50 points
+- [**Nori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#nori-the-dwarf-champion-of-erebor-75-points): 75 points
+- [**Oin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-champion-of-erebor-60-points): 60 points
+- [**Ori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#ori-the-dwarf-champion-of-erebor-50-points): 50 points
 
 **WARRIORS**
 
-- **Iron Hills Warrior**: 10 points
+- [**Iron Hills Warrior**](../forces_of_good/dwarven_holds.md#iron-hills-warrior-10-points): 10 points
     - Banner and shield: 26 points
     - Banner: 25 points
     - Shield and spear: 2 points

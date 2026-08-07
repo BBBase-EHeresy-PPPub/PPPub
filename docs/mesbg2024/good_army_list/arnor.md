@@ -6,32 +6,32 @@
 
 **HEROES OF LEGEND**
 
-- **Arvedui, Last King of Arnor**: 80 points
+- [**Arvedui, Last King of Arnor**](../forces_of_good/arnor_and_angmar.md#arvedui-last-king-of-arnor-80-points): 80 points
 
 **HEROES OF VALOUR**
 
-- **Aranarth**: 80 points
+- [**Aranarth**](../forces_of_good/arnor_and_angmar.md#aranarth-80-points): 80 points
 
 **HEROES OF FORTITUDE**
 
-- **Argadir**: 85 points
-- **Captain of Arnor**: 60 points
-- **Malbeth the Seer**: 80 points
+- [**Argadir**](../forces_of_good/arnor_and_angmar.md#argadir-85-points): 85 points
+- [**Captain of Arnor**](../forces_of_good/arnor_and_angmar.md#captain-of-arnor-60-points): 60 points
+- [**Malbeth the Seer**](../forces_of_good/arnor_and_angmar.md#malbeth-the-seer-80-points): 80 points
 
 **INDEPENDENT HEROES**
 
-- **Ranger of the North**: 25 points
+- [**Ranger of the North**](../forces_of_good/arnor_and_angmar.md#ranger-of-the-north-25-points): 25 points
     - Armour: 5 points
     - Spear: 1 point
 
 **WARRIORS**
 
-- **Knight of Arnor**: 15 points
-- **Ranger of Arnor**: 8 points
+- [**Knight of Arnor**](../forces_of_good/arnor_and_angmar.md#knight-of-arnor-15-points): 15 points
+- [**Ranger of Arnor**](../forces_of_good/arnor_and_angmar.md#ranger-of-arnor-8-points): 8 points
     - Banner: 25 points
     - War horn: 25 points
     - Spear: 1 point
-- **Warrior of Arnor**: 8 points
+- [**Warrior of Arnor**](../forces_of_good/arnor_and_angmar.md#warrior-of-arnor-8-points): 8 points
     - Swap spear and shield for banner: 25 points
 
 </div>

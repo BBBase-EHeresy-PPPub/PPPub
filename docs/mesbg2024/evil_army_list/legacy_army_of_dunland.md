@@ -6,27 +6,27 @@
 
 **HEROES OF VALOUR**
 
-- **Thrydan Wolfsbane**: 90 points
+- [**Thrydan Wolfsbane**](../forces_of_evil/evil_legacy.md#thrydan-wolfsbane-90-points): 90 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Dunlending Chieftain**: 55 points
-- **Frida Tallspear**: 70 points
-- **Gorulf Ironskin**: 70 points
-- **Wild Man Oathmaker**: 55 points
+- [**Dunlending Chieftain**](../forces_of_evil/evil_legacy.md#dunlending-chieftain-55-points): 55 points
+- [**Frida Tallspear**](../forces_of_evil/evil_legacy.md#frida-tallspear-70-points): 70 points
+- [**Gorulf Ironskin**](../forces_of_evil/evil_legacy.md#gorulf-ironskin-70-points): 70 points
+- [**Wild Man Oathmaker**](../forces_of_evil/isengard.md#wild-man-oathmaker-55-points): 55 points
 
 **WARRIORS**
 
-- **Crebain**: 20 points
-- **Dunlending Horseman**: 12 points
-- **Dunlending Huscarl**: 11 points
-- **Dunlending Warrior**: 7 points
+- [**Crebain**](../forces_of_evil/isengard.md#crebain-20-points): 20 points
+- [**Dunlending Horseman**](../forces_of_evil/evil_legacy.md#dunlending-horseman-12-points): 12 points
+- [**Dunlending Huscarl**](../forces_of_evil/evil_legacy.md#dunlending-huscarl-11-points): 11 points
+- [**Dunlending Warrior**](../forces_of_evil/evil_legacy.md#dunlending-warrior-7-points): 7 points
     - Banner: 25 points
     - Bow: 1 point
     - Shield: 1 point
     - Two-handed weapon: 1 point
-- **Wild Man of Dunland**: 5 points
+- [**Wild Man of Dunland**](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 5 points
     - Banner and light shield: 26 points
     - War horn and light shield: 26 points
     - Banner: 25 points

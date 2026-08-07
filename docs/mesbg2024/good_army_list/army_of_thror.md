@@ -6,28 +6,28 @@
 
 **HEROES OF LEGEND**
 
-- **Thror, King Under the Mountain**: 130 points
+- [**Thror, King Under the Mountain**](../forces_of_good/dwarven_holds.md#thror-king-under-the-mountain-130-points): 130 points
 
 **HEROES OF VALOUR**
 
-- **Dwarf King**: 85 points
-- **Thrain, Son of Thror**: 130 points
-- **Young Balin the Dwarf**: 60 points
-- **Young Dwalin the Dwarf**: 90 points
-- **Young Thorin Oakenshield**: 110 points
+- [**Dwarf King**](../forces_of_good/dwarven_holds.md#dwarf-king-85-points): 85 points
+- [**Thrain, Son of Thror**](../forces_of_good/dwarven_holds.md#thrain-son-of-thror-130-points): 130 points
+- [**Young Balin the Dwarf**](../forces_of_good/dwarven_holds.md#young-balin-the-dwarf-60-points): 60 points
+- [**Young Dwalin the Dwarf**](../forces_of_good/dwarven_holds.md#young-dwalin-the-dwarf-90-points): 90 points
+- [**Young Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#young-thorin-oakenshield-110-points): 110 points
 
 **HEROES OF FORTITUDE**
 
-- **Erebor Dwarf Captain**: 75 points
-- **Grim Hammer Captain**: 80 points
+- [**Erebor Dwarf Captain**](../forces_of_good/dwarven_holds.md#erebor-dwarf-captain-75-points): 75 points
+- [**Grim Hammer Captain**](../forces_of_good/dwarven_holds.md#grim-hammer-captain-80-points): 80 points
 
 **WARRIORS**
 
-- **Erebor Dwarf Warrior**: 9 points
+- [**Erebor Dwarf Warrior**](../forces_of_good/dwarven_holds.md#erebor-dwarf-warrior-9-points): 9 points
     - Shield and spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
-- **Grim Hammer Warrior**: 11 points
+- [**Grim Hammer Warrior**](../forces_of_good/dwarven_holds.md#grim-hammer-warrior-11-points): 11 points
     - Upgrade to Guardians of the King: 1 point
 
 </div>

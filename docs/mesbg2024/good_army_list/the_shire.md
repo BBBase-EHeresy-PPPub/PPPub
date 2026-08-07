@@ -6,43 +6,43 @@
 
 **HEROES OF LEGEND**
 
-- **Gandalf the Grey**: 170 points
+- [**Gandalf the Grey**](../forces_of_good/the_free_peoples.md#gandalf-the-grey-170-points): 170 points
     - Gandalf's Cart: 25 points
 
 **HEROES OF FORTITUDE**
 
-- **Bilbo Baggins, Ageing Hobbit**: 45 points
+- [**Bilbo Baggins, Ageing Hobbit**](../forces_of_good/the_free_peoples.md#bilbo-baggins-ageing-hobbit-45-points): 45 points
     - Mithril Coat: 15 points
     - Sting: 5 points
     - The One Ring: Free
-- **Farmer Maggot**: 50 points
-- **Farmer Tolman Cotton**: 35 points
-- **Frodo Baggins**: 55 points
-- **Hamfast 'Gaffer' Gamgee**: 35 points
-- **Paladin Took, Thain of the Shire**: 30 points
-- **Samwise Gamgee**: 40 points
-- **Will Whitfoot, Mayor of Michel Delving**: 40 points
+- [**Farmer Maggot**](../forces_of_good/the_free_peoples.md#farmer-maggot-50-points): 50 points
+- [**Farmer Tolman Cotton**](../forces_of_good/the_free_peoples.md#farmer-tolman-cotton-35-points): 35 points
+- [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
+- [**Hamfast 'Gaffer' Gamgee**](../forces_of_good/the_free_peoples.md#hamfast-gaffer-gamgee-35-points): 35 points
+- [**Paladin Took, Thain of the Shire**](../forces_of_good/the_free_peoples.md#paladin-took-thain-of-the-shire-30-points): 30 points
+- [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 40 points
+- [**Will Whitfoot, Mayor of Michel Delving**](../forces_of_good/the_free_peoples.md#will-whitfoot-mayor-of-michel-delving-40-points): 40 points
 
 **MINOR HEROES**
 
-- **Lotho Sackville-Baggins**: 30 points
+- [**Lotho Sackville-Baggins**](../forces_of_good/the_free_peoples.md#lotho-sackville-baggins-30-points): 30 points
 
 **INDEPENDENT HEROES**
 
-- **Folco Boffin**: 25 points
-- **Fredegar 'Fatty' Bolger**: 10 points
-- **Lobelia Sackville-Baggins**: 20 points
-- **Meriadoc Brandybuck**: 10 points
-- **Peregrin Took**: 10 points
-- **Rosie Cotton**: 20 points
+- [**Folco Boffin**](../forces_of_good/the_free_peoples.md#folco-boffin-25-points): 25 points
+- [**Fredegar 'Fatty' Bolger**](../forces_of_good/the_free_peoples.md#fredegar-fatty-bolger-10-points): 10 points
+- [**Lobelia Sackville-Baggins**](../forces_of_good/the_free_peoples.md#lobelia-sackville-baggins-20-points): 20 points
+- [**Meriadoc Brandybuck**](../forces_of_good/the_free_peoples.md#meriadoc-brandybuck-10-points): 10 points
+- [**Peregrin Took**](../forces_of_good/the_free_peoples.md#peregrin-took-10-points): 10 points
+- [**Rosie Cotton**](../forces_of_good/the_free_peoples.md#rosie-cotton-20-points): 20 points
 
 **WARRIORS**
 
-- **Hobbit Archer**: 5 points
+- [**Hobbit Archer**](../forces_of_good/the_free_peoples.md#hobbit-archer-5-points): 5 points
     - War horn: 25 points
     - Tookish Hunters: 1 point
-- **Hobbit Militia**: 4 points
-- **Hobbit Shirriff**: 5 points
+- [**Hobbit Militia**](../forces_of_good/the_free_peoples.md#hobbit-militia-4-points): 4 points
+- [**Hobbit Shirriff**](../forces_of_good/the_free_peoples.md#hobbit-shirriff-5-points): 5 points
 
 </div>
 

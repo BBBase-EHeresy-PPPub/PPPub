@@ -6,20 +6,20 @@
 
 **HEROES OF LEGEND**
 
-- **Thorin Oakenshield, King Under the Mountain**: 130 points
+- [**Thorin Oakenshield, King Under the Mountain**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-king-under-the-mountain-130-points): 130 points
 
 **HEROES OF VALOUR**
 
-- **Dwalin the Dwarf, Champion of Erebor**: 110 points
-- **Fili the Dwarf, Champion of Erebor**: 70 points
-- **Kili the Dwarf, Champion of Erebor**: 70 points
-- **Legolas Greenleaf, Prince of Mirkwood**: 105 points
+- [**Dwalin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-champion-of-erebor-110-points): 110 points
+- [**Fili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-champion-of-erebor-70-points): 70 points
+- [**Kili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-champion-of-erebor-70-points): 70 points
+- [**Legolas Greenleaf, Prince of Mirkwood**](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points): 105 points
     - Orcrist: Free
 
 **HEROES OF FORTITUDE**
 
-- **Bilbo Baggins, Master Burglar**: 75 points
-- **Tauriel, Ranger of Mirkwood**: 90 points
+- [**Bilbo Baggins, Master Burglar**](../forces_of_good/kingdoms_of_men.md#bilbo-baggins-master-burglar-75-points): 75 points
+- [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
 
 </div>
 

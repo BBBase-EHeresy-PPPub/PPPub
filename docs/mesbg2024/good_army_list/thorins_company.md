@@ -6,38 +6,38 @@
 
 **HEROES OF LEGEND**
 
-- **Thorin Oakenshield**: 100 points
+- [**Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points): 100 points
     - Orcrist: 10 points
     - The Oakenshield: 5 points
 
 **HEROES OF VALOUR**
 
-- **Balin the Dwarf**: 40 points
-- **Dwalin the Dwarf**: 95 points
-- **Fili the Dwarf**: 50 points
-- **Gandalf the Grey**: 170 points
-- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
-- **Kili the Dwarf**: 50 points
-- **Radagast the Brown**: 145 points
+- [**Balin the Dwarf**](../forces_of_good/dwarven_holds.md#balin-the-dwarf-40-points): 40 points
+- [**Dwalin the Dwarf**](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-95-points): 95 points
+- [**Fili the Dwarf**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points): 50 points
+- [**Gandalf the Grey**](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points): 170 points
+- [**Gwaihir**](../forces_of_good/the_free_peoples.md#gwaihir-200-points): <span style="color: darkmagenta">200 points</span>
+- [**Kili the Dwarf**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points): 50 points
+- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 145 points
     - Radagast's Sleigh: 35 points
 
 **HEROES OF FORTITUDE**
 
-- **Bifur the Dwarf**: 45 points
-- **Bilbo Baggins**: 55 points
+- [**Bifur the Dwarf**](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points): 45 points
+- [**Bilbo Baggins**](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points): 55 points
     - Sting: 5 points
     - The One Ring: Free
-- **Bofur the Dwarf**: 45 points
-- **Bombur the Dwarf**: 45 points
-- **Dori the Dwarf**: 55 points
-- **Gloin the Dwarf**: 85 points
-- **Nori the Dwarf**: 55 points
-- **Oin the Dwarf**: 50 points
-- **Ori the Dwarf**: 40 points
+- [**Bofur the Dwarf**](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points): 45 points
+- [**Bombur the Dwarf**](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points): 45 points
+- [**Dori the Dwarf**](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points): 55 points
+- [**Gloin the Dwarf**](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-85-points): 85 points
+- [**Nori the Dwarf**](../forces_of_good/dwarven_holds.md#nori-the-dwarf-55-points): 55 points
+- [**Oin the Dwarf**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points): 50 points
+- [**Ori the Dwarf**](../forces_of_good/dwarven_holds.md#ori-the-dwarf-40-points): 40 points
 
 **WARRIORS**
 
-- **Great Eagle**: 100 points
+- [**Great Eagle**](../forces_of_good/the_free_peoples.md#great-eagle-100-points): 100 points
 
 </div>
 

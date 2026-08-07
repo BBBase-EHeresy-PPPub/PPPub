@@ -6,45 +6,45 @@
 
 **HEROES OF VALOUR**
 
-- **Meriadoc Brandybuck, Captain of the Shire**: 60 points
+- [**Meriadoc Brandybuck, Captain of the Shire**](../forces_of_good/the_free_peoples.md#meriadoc-brandybuck-captain-of-the-shire-60-points): 60 points
     - Elven cloak: 5 points
     - Shield: 5 points
-- **Peregrin Took, Captain of the Shire**: 60 points
+- [**Peregrin Took, Captain of the Shire**](../forces_of_good/the_free_peoples.md#peregrin-took-captain-of-the-shire-60-points): 60 points
     - Elven cloak: 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Baldo Tulpenny**: 40 points
-- **Farmer Maggot**: 50 points
-- **Farmer Tolman Cotton**: 35 points
-- **Frodo of the Nine Fingers**: 70 points
+- [**Baldo Tulpenny**](../forces_of_good/the_free_peoples.md#baldo-tulpenny-40-points): 40 points
+- [**Farmer Maggot**](../forces_of_good/the_free_peoples.md#farmer-maggot-50-points): 50 points
+- [**Farmer Tolman Cotton**](../forces_of_good/the_free_peoples.md#farmer-tolman-cotton-35-points): 35 points
+- [**Frodo of the Nine Fingers**](../forces_of_good/the_free_peoples.md#frodo-of-the-nine-fingers-70-points): 70 points
     - Elven Cloak: 5 points
-- **Hamfast 'Gaffer' Gamgee**: 35 points
-- **Holfoot Bracegirdle, Shirriff-Leader**: 40 points
-- **Paladin Took, Thain of the Shire**: 30 points
-- **Robin Smallburrow, Hobbit Shirriff**: 25 points
-- **Samwise the Brave**: 60 points
+- [**Hamfast 'Gaffer' Gamgee**](../forces_of_good/the_free_peoples.md#hamfast-gaffer-gamgee-35-points): 35 points
+- [**Holfoot Bracegirdle, Shirriff-Leader**](../forces_of_good/the_free_peoples.md#holfoot-bracegirdle-shirriff-leader-40-points): 40 points
+- [**Paladin Took, Thain of the Shire**](../forces_of_good/the_free_peoples.md#paladin-took-thain-of-the-shire-30-points): 30 points
+- [**Robin Smallburrow, Hobbit Shirriff**](../forces_of_good/the_free_peoples.md#robin-smallburrow-hobbit-shirriff-25-points): 25 points
+- [**Samwise the Brave**](../forces_of_good/the_free_peoples.md#samwise-the-brave-60-points): 60 points
     - Elven Cloak: 5 points
-- **Will Whitfoot, Mayor of Michel Delving**: 40 points
+- [**Will Whitfoot, Mayor of Michel Delving**](../forces_of_good/the_free_peoples.md#will-whitfoot-mayor-of-michel-delving-40-points): 40 points
 
 **MINOR HEROES**
 
-- **Fredegar 'Fatty' Bolger**: 10 points
+- [**Fredegar 'Fatty' Bolger**](../forces_of_good/the_free_peoples.md#fredegar-fatty-bolger-10-points): 10 points
 
 **INDEPENDENT HEROES**
 
-- **Folco Boffin**: 25 points
-- **Lobelia Sackville-Baggins**: 20 points
-- **Rosie Cotton**: 20 points
+- [**Folco Boffin**](../forces_of_good/the_free_peoples.md#folco-boffin-25-points): 25 points
+- [**Lobelia Sackville-Baggins**](../forces_of_good/the_free_peoples.md#lobelia-sackville-baggins-20-points): 20 points
+- [**Rosie Cotton**](../forces_of_good/the_free_peoples.md#rosie-cotton-20-points): 20 points
 
 **WARRIORS**
 
-- **Hobbit Archer**: 5 points
+- [**Hobbit Archer**](../forces_of_good/the_free_peoples.md#hobbit-archer-5-points): 5 points
     - War horn: 25 points
     - Tookish Hunters: 1 point
-- **Hobbit Militia**: 4 points
+- [**Hobbit Militia**](../forces_of_good/the_free_peoples.md#hobbit-militia-4-points): 4 points
     - Battlin' Brandybucks: 1 point
-- **Hobbit Shirriff**: 5 points
+- [**Hobbit Shirriff**](../forces_of_good/the_free_peoples.md#hobbit-shirriff-5-points): 5 points
 
 </div>
 

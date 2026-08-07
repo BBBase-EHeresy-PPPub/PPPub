@@ -6,18 +6,18 @@
 
 **HEROES OF LEGEND**
 
-- **Radagast the Brown**: 145 points
+- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 145 points
     - Exchange Staff for Great Eagle: 55 points
 
 **HEROES OF VALOUR**
 
-- **Beorn**: 200 points
-- **Gwaihir**: <span style="color: darkmagenta">200 points</span>
+- [**Beorn**](../forces_of_good/the_free_peoples.md#beorn-200-points): 200 points
+- [**Gwaihir**](../forces_of_good/the_free_peoples.md#gwaihir-200-points): <span style="color: darkmagenta">200 points</span>
 
 **WARRIORS**
 
-- **Fledgeling Great Eagle**: 75 points
-- **Great Eagle**: 100 points
+- [**Fledgeling Great Eagle**](../forces_of_good/the_free_peoples.md#fledgeling-great-eagle-75-points): 75 points
+- [**Great Eagle**](../forces_of_good/the_free_peoples.md#great-eagle-100-points): 100 points
 
 </div>
 

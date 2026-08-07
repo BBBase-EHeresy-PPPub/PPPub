@@ -6,23 +6,23 @@
 
 **HEROES OF LEGEND**
 
-- **Suladan, The Serpent Lord**: 120 points
+- [**Suladan, The Serpent Lord**](../forces_of_evil/fallen_realms.md#suladan-the-serpent-lord-120-points): 120 points
     - Armoured horse: 25 points
 
 **HEROES OF VALOUR**
 
-- **Haradrim King**: 70 points
+- [**Haradrim King**](../forces_of_evil/evil_legacy.md#haradrim-king-70-points): 70 points
     - Horse: 20 points
-- **The Betrayer**: 130 points
+- [**The Betrayer**](../forces_of_evil/evil_legacy.md#the-betrayer-130-points): 130 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Haradrim Chieftain**: 50 points
+- [**Haradrim Chieftain**](../forces_of_evil/fallen_realms.md#haradrim-chieftain-50-points): 50 points
     - Bow: 5 points
-- **Haradrim Taskmaster**: 45 points
-- **Raza, Fang of the Serpent**: 75 points
-- **War Mumak of Harad**: 250 points
+- [**Haradrim Taskmaster**](../forces_of_evil/fallen_realms.md#haradrim-taskmaster-45-points): 45 points
+- [**Raza, Fang of the Serpent**](../forces_of_evil/fallen_realms.md#raza-fang-of-the-serpent-75-points): 75 points
+- [**War Mumak of Harad**](../forces_of_evil/fallen_realms.md#war-mumak-of-harad-250-points): 250 points
     - Gnarled Hide: 25 points
     - Mahud Beastmaster Chieftain: 25 points
     - Rocks: 20 points
@@ -33,18 +33,18 @@
 
 **WARRIORS**
 
-- **Haradrim Raider**: 11 points
+- [**Haradrim Raider**](../forces_of_evil/fallen_realms.md#haradrim-raider-11-points): 11 points
     - Banner: 25 points
     - Bow & war spear: 2 points
     - Bow: 1 point
     - War spear: 1 point
-- **Haradrim Warrior**: 6 points
+- [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - War horn: 25 points
     - Banner: 25 points
     - Bow: 1 point
     - Spear: 1 point
-- **Serpent Guard**: 8 points
-- **Serpent Rider**: 14 points
+- [**Serpent Guard**](../forces_of_evil/fallen_realms.md#serpent-guard-8-points): 8 points
+- [**Serpent Rider**](../forces_of_evil/fallen_realms.md#serpent-rider-14-points): 14 points
 
 </div>
 

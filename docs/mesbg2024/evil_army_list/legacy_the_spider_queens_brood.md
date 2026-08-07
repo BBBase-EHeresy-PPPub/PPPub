@@ -6,21 +6,21 @@
 
 **HEROES OF VALOUR**
 
-- **The Spider Queen**: 120 points
+- [**The Spider Queen**](../forces_of_evil/evil_legacy.md#the-spider-queen-120-points): 120 points
 
 **HEROES OF FORTITUDE**
 
-- **Bat Swarm**: 35 points
-- **Fell Warg**: 8 points
-- **Mirkwood Giant Spider**: 20 points
-- **Mirkwood Hunting Spider**: 20 points
+- [**Bat Swarm**](../forces_of_evil/the_misty_mountains.md#bat-swarm-35-points): 35 points
+- [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
+- [**Mirkwood Giant Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points): 20 points
+- [**Mirkwood Hunting Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-hunting-spider-20-points): 20 points
 
 **WARRIORS**
 
-- **Bat Swarm**: 35 points
-- **Fell Warg**: 8 points
-- **Mirkwood Giant Spider**: 20 points
-- **Mirkwood Hunting Spider**: 20 points
+- [**Bat Swarm**](../forces_of_evil/the_misty_mountains.md#bat-swarm-35-points): 35 points
+- [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
+- [**Mirkwood Giant Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points): 20 points
+- [**Mirkwood Hunting Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-hunting-spider-20-points): 20 points
 
 </div>
 

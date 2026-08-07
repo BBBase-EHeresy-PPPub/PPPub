@@ -6,20 +6,20 @@
 
 **HEROES OF LEGEND**
 
-- **Brand, King of Dale**: 110 points
+- [**Brand, King of Dale**](../forces_of_good/kingdoms_of_men.md#brand-king-of-dale-110-points): 110 points
 
 **HEROES OF VALOUR**
 
-- **Bard II, Prince of Dale**: 100 points
+- [**Bard II, Prince of Dale**](../forces_of_good/kingdoms_of_men.md#bard-ii-prince-of-dale-100-points): 100 points
 
 **HEROES OF FORTITUDE**
 
-- **Captain of Dale**: 55 points
+- [**Captain of Dale**](../forces_of_good/kingdoms_of_men.md#captain-of-dale-55-points): 55 points
 
 **WARRIORS**
 
-- **Knight of Dale**: 11 points
-- **Warrior of Dale**: 7 points
+- [**Knight of Dale**](../forces_of_good/kingdoms_of_men.md#knight-of-dale-11-points): 11 points
+- [**Warrior of Dale**](../forces_of_good/kingdoms_of_men.md#warrior-of-dale-7-points): 7 points
     - War horn: 25 points
     - Banner: 25 points
     - Esgaroth bow: 2 points
@@ -28,7 +28,7 @@
 
 **SIEGE ENGINES**
 
-- **Windlance**: 70 points
+- [**Windlance**](../forces_of_good/kingdoms_of_men.md#windlance-70-points): 70 points
 
 </div>
 

@@ -6,34 +6,34 @@
 
 **HEROES OF LEGEND**
 
-- **Gil-Galad**: 175 points
+- [**Gil-Galad**](../forces_of_good/elven_kingdoms.md#gil-galad-175-points): 175 points
 
 **HEROES OF VALOUR**
 
-- **Elrond**: 170 points
+- [**Elrond**](../forces_of_good/elven_kingdoms.md#elrond-170-points): 170 points
     - Horse: 20 points
-- **Glorfindel, Lord of the West**: 160 points
+- [**Glorfindel, Lord of the West**](../forces_of_good/arnor_and_angmar.md#glorfindel-lord-of-the-west-160-points): 160 points
     - Asfaloth: 20 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Cirdan**: 75 points
-- **Erestor**: 85 points
-- **Rivendell Captain**: 70 points
+- [**Cirdan**](../forces_of_good/elven_kingdoms.md#cirdan-75-points): 75 points
+- [**Erestor**](../forces_of_good/good_legacy.md#erestor-85-points): 85 points
+- [**Rivendell Captain**](../forces_of_good/elven_kingdoms.md#rivendell-captain-70-points): 70 points
     - Horse, Elf bow and Elven lance: 30 points
     - Shield: 5 points
 
 **MINOR HEROES**
 
-- **Rivendell Stormcaller**: 65 points
+- [**Rivendell Stormcaller**](../forces_of_good/good_legacy.md#rivendell-stormcaller-65-points): 65 points
 
 **WARRIORS**
 
-- **Rivendell Knight**: 20 points
+- [**Rivendell Knight**](../forces_of_good/elven_kingdoms.md#rivendell-knight-20-points): 20 points
     - Exchange Elven lance for banner: 25 points
     - Shield: 1 point
-- **Rivendell Warrior**: 9 points
+- [**Rivendell Warrior**](../forces_of_good/elven_kingdoms.md#rivendell-warrior-9-points): 9 points
     - Banner: 25 points
     - Elf bow: 2 points
     - Shield and Elven spear: 2 points

@@ -6,26 +6,26 @@
 
 **HEROES OF LEGEND**
 
-- **Aragorn, Strider**: 160 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
     - Bow: 5 points
     - Elven Cloak: 5 points
     - Anduril, Flame of the West: Free
 
 **HEROES OF VALOUR**
 
-- **Elladan**: 80 points
-- **Elrohir**: 80 points
-- **Gimli**: 100 points
+- [**Elladan**](../forces_of_good/elven_kingdoms.md#elladan-80-points): 80 points
+- [**Elrohir**](../forces_of_good/elven_kingdoms.md#elrohir-80-points): 80 points
+- [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- **Halbarad**: 70 points
+- [**Halbarad**](../forces_of_good/arnor_and_angmar.md#halbarad-70-points): 70 points
     - Banner of Arwen Evenstar: 40 points
-- **Legolas**: 100 points
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Armour: 5 points
     - Elven Cloak: 5 points
 
 **INDEPENDENT HEROES**
 
-- **Ranger of the North**: 25 points
+- [**Ranger of the North**](../forces_of_good/arnor_and_angmar.md#ranger-of-the-north-25-points): 25 points
     - Armour: 5 points
     - Spear: 1 point
 

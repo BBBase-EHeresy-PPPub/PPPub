@@ -6,33 +6,33 @@
 
 **HEROES OF VALOUR**
 
-- **Buhrdur, Hill Troll Chieftain**: 130 points
+- [**Buhrdur, Hill Troll Chieftain**](../forces_of_good/arnor_and_angmar.md#buhrdur-hill-troll-chieftain-130-points): 130 points
 
 **HEROES OF FORTITUDE**
 
-- **Angmar Orc Captain**: 45 points
-- **Wild Warg Chieftain**: 80 points
+- [**Angmar Orc Captain**](../forces_of_good/arnor_and_angmar.md#angmar-orc-captain-45-points): 45 points
+- [**Wild Warg Chieftain**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-80-points): 80 points
 
 **MINOR HEROES**
 
-- **Angmar Orc Shaman**: 50 points
+- [**Angmar Orc Shaman**](../forces_of_good/arnor_and_angmar.md#angmar-orc-shaman-50-points): 50 points
     - <span style="color: darkmagenta">Warg: 20 points</span>
 
 **WARRIORS**
 
-- **Angmar Orc Warrior**: 5 points
+- [**Angmar Orc Warrior**](../forces_of_good/arnor_and_angmar.md#angmar-orc-warrior-5-points): 5 points
     - Banner: 25 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
     - Two-handed weapon: 1 point
-- **Angmar Warg Rider**: 11 points
+- [**Angmar Warg Rider**](../forces_of_good/arnor_and_angmar.md#angmar-warg-rider-11-points): 11 points
     - Shield and throwing spears: 2 points
     - Orc bow: 1 point
     - Shield: 1 point
     - Throwing spears: 1 point
-- **Hill Troll**: 75 points
-- **Wild Warg**: 7 points
+- [**Hill Troll**](../forces_of_good/arnor_and_angmar.md#hill-troll-75-points): 75 points
+- [**Wild Warg**](../forces_of_good/arnor_and_angmar.md#wild-warg-7-points): 7 points
 
 </div>
 

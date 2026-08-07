@@ -6,12 +6,12 @@
 
 **HEROES OF VALOUR**
 
-- **Bill the Troll**: 150 points
+- [**Bill the Troll**](../forces_of_evil/the_misty_mountains.md#bill-the-troll-150-points): 150 points
 
 **HEROES OF FORTITUDE**
 
-- **Bert the Troll**: 130 points
-- **Tom the Troll**: 120 points
+- [**Bert the Troll**](../forces_of_evil/the_misty_mountains.md#bert-the-troll-130-points): 130 points
+- [**Tom the Troll**](../forces_of_evil/the_misty_mountains.md#tom-the-troll-120-points): 120 points
 
 </div>
 

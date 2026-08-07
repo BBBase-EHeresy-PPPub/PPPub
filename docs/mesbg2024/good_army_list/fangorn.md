@@ -6,19 +6,19 @@
 
 **HEROES OF LEGEND**
 
-- **Treebeard**: 190 points
+- [**Treebeard**](../forces_of_good/the_free_peoples.md#treebeard-190-points): 190 points
     - Merry & Pippin: 10 points
     - Elven Cloak (Merry): 5 points
     - Elven Cloak (Pippin): 5 points
 
 **HEROES OF FORTITUDE**
 
-- **Beechbone**: 150 points
-- **Birchseed**: 150 points
+- [**Beechbone**](../forces_of_good/the_free_peoples.md#beechbone-150-points): 150 points
+- [**Birchseed**](../forces_of_good/the_free_peoples.md#birchseed-150-points): 150 points
 
 **WARRIORS**
 
-- **Ent**: 100 points
+- [**Ent**](../forces_of_good/the_free_peoples.md#ent-100-points): 100 points
     - Beech: Free
     - Oak: Free
     - Chestnut: Free

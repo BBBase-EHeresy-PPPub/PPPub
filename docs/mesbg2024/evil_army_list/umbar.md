@@ -6,34 +6,34 @@
 
 **HEROES OF LEGEND**
 
-- **Dalamyr, Fleetmaster of Umbar**: 100 points
+- [**Dalamyr, Fleetmaster of Umbar**](../forces_of_evil/fallen_realms.md#dalamyr-fleetmaster-of-umbar-100-points): 100 points
 
 **HEROES OF VALOUR**
 
-- **Delgamar, Gatemaster of Umbar**: 75 points
-- **The Knight of Umbar**: 130 points
+- [**Delgamar, Gatemaster of Umbar**](../forces_of_evil/fallen_realms.md#delgamar-gatemaster-of-umbar-75-points): 75 points
+- [**The Knight of Umbar**](../forces_of_evil/evil_legacy.md#the-knight-of-umbar-130-points): 130 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **Black Numenorean Marshal**: 70 points
-- **Corsair Bo'sun**: 50 points
+- [**Black Numenorean Marshal**](../forces_of_evil/mordor.md#black-numenorean-marshal-70-points): 70 points
+- [**Corsair Bo'sun**](../forces_of_evil/fallen_realms.md#corsair-bosun-50-points): 50 points
     - Exchange spear for crossbow: Free
-- **Corsair Captain**: 55 points
+- [**Corsair Captain**](../forces_of_evil/fallen_realms.md#corsair-captain-55-points): 55 points
     - Exchange two-handed weapon for crossbow: Free
-- **Haradrim Chieftain**: 50 points
+- [**Haradrim Chieftain**](../forces_of_evil/fallen_realms.md#haradrim-chieftain-50-points): 50 points
     - Bow: 5 points
-- **Hasharin**: 80 points
+- [**Hasharin**](../forces_of_evil/fallen_realms.md#hasharin-80-points): 80 points
 
 **WARRIORS**
 
-- **Black Numenorean Warrior**: 10 points
-- **Corsair Reaver**: 9 points
-- **Corsair of Umbar**: 8 points
+- [**Black Numenorean Warrior**](../forces_of_evil/mordor.md#black-numenorean-warrior-10-points): 10 points
+- [**Corsair Reaver**](../forces_of_evil/evil_legacy.md#corsair-reaver-9-points): 9 points
+- [**Corsair of Umbar**](../forces_of_evil/fallen_realms.md#corsair-of-umbar-8-points): 8 points
     - Bow: 1 point
     - Light shield and throwing weapons: 1 point
     - Spear: 1 point
-- **Haradrim Warrior**: 6 points
+- [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - Banner: 25 points
     - War horn: 25 points
     - Bow: 1 point

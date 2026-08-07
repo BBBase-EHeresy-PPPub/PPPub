@@ -6,25 +6,25 @@
 
 **HEROES OF LEGEND**
 
-- **Wulf**: 110 points
+- [**Wulf**](../forces_of_evil/the_hill_tribes.md#wulf-110-points): 110 points
     - Horse: 20 points
 
 **HEROES OF FORTITUDE**
 
-- **General Targg**: 80 points
+- [**General Targg**](../forces_of_evil/the_hill_tribes.md#general-targg-80-points): 80 points
     - Horse: 20 points
-- **Hill Tribes Chieftain**: 40 points
+- [**Hill Tribes Chieftain**](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points): 40 points
     - Light shield: 5 points
     - Two-handed weapon: 5 points
 
 **MINOR HEROES**
 
-- **Shank & Wrot**: 150 points
+- [**Shank & Wrot**](../forces_of_evil/the_hill_tribes.md#shank-wrot-150-points): 150 points
 
 **WARRIORS**
 
-- **Crebain**: 20 points
-- **Hill Tribesman**: 5 points
+- [**Crebain**](../forces_of_evil/isengard.md#crebain-20-points): 20 points
+- [**Hill Tribesman**](../forces_of_evil/the_hill_tribes.md#hill-tribesman-5-points): 5 points
     - Banner and light shield: 26 points
     - War horn and light shield: 26 points
     - Banner: 25 points

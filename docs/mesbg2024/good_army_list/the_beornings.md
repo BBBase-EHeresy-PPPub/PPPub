@@ -6,15 +6,15 @@
 
 **HEROES OF LEGEND**
 
-- **Beorn**: 200 points
+- [**Beorn**](../forces_of_good/the_free_peoples.md#beorn-200-points): 200 points
 
 **HEROES OF VALOUR**
 
-- **Grimbeorn**: 200 points
+- [**Grimbeorn**](../forces_of_good/the_free_peoples.md#grimbeorn-200-points): 200 points
 
 **WARRIORS**
 
-- **Beorning**: 20 points
+- [**Beorning**](../forces_of_good/the_free_peoples.md#beorning-20-points): 20 points
     - Swap hand-and-a-half weapon for great bow: Free
 
 </div>

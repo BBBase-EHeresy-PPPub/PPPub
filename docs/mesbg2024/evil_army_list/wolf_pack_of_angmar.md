@@ -6,14 +6,14 @@
 
 **HEROES OF VALOUR**
 
-- **Wild Warg Chieftain**: 80 points
-- **Wild Warg Chieftain (General)**: 80 points
+- [**Wild Warg Chieftain**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-80-points): 80 points
+- [**Wild Warg Chieftain (General)**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-general-80-points): 80 points
 
 **WARRIORS**
 
-- **Fell Warg**: 8 points
-- **Werewolf**: 25 points
-- **Wild Warg**: 7 points
+- [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
+- [**Werewolf**](../forces_of_good/arnor_and_angmar.md#werewolf-25-points): 25 points
+- [**Wild Warg**](../forces_of_good/arnor_and_angmar.md#wild-warg-7-points): 7 points
 
 </div>
 
