@@ -845,8 +845,6 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 
 **ORC | ANGMAR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
@@ -875,8 +873,6 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 ### ANGMAR WARG RIDER [11 POINTS]
 
 **ORC | ANGMAR | WARRIOR, CAVALRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -907,8 +903,6 @@ An Angmar Warg Rider must have one of the following options for the listed point
 
 **TROLL | ANGMAR | WARRIOR, INFANTRY, MONSTER | 50MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 6 | 4+ | 6 | 6 | 3 | 3 | 7+ | 7+ |
@@ -936,8 +930,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 ### HOBBIT ARCHER [5 POINTS]
 
 **HOBBIT | SHIRE | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -967,8 +959,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 **MAN | ARNOR | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ |
@@ -994,8 +984,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 ### RANGER OF ARNOR [8 POINTS]
 
 **MAN | ARNOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1027,8 +1015,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 **MAN | ARNOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 8+ | 7+ |
@@ -1057,8 +1043,6 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 ### WARRIOR OF CARN DUM [9 POINTS]
 
 **MAN | ANGMAR, CARN DUM | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1091,8 +1075,6 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 **SPIRIT | ANGMAR | WARRIOR, INFANTRY, BEAST | 50MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 10" | 5 | 6+ | 5 | 5 | 2 | 2 | 5+ | 8+ |
@@ -1119,8 +1101,6 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 ### WILD WARG [7 POINTS]
 
 **WARG | ANGMAR | WARRIOR, INFANTRY, BEAST | 40MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

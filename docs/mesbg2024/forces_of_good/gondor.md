@@ -1101,8 +1101,6 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 **MAN | GONDOR, LOSSARNACH | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 7+ |
@@ -1128,8 +1126,6 @@ This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-ha
 ### BLACKROOT VALE ARCHER [8 POINTS]
 
 **MAN | GONDOR, BLACKROOT VALE | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1165,8 +1161,6 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 
 **MAN | GONDOR | WARRIOR, INFANTRY, ELITE | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ |
@@ -1197,8 +1191,6 @@ A Citadel Guard must have one of the following options for the listed points cos
 
 **MAN | GONDOR, LAMEDON | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 6+ | 8+ |
@@ -1223,8 +1215,6 @@ Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any r
 ### GUARD OF THE FOUNTAIN COURT [10 POINTS]
 
 **MAN | GONDOR | WARRIOR, INFANTRY, ELITE | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1254,8 +1244,6 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 
 **MAN | GONDOR, DOL AMROTH | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
@@ -1283,8 +1271,6 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 ### KNIGHT OF MINAS TIRITH [15 POINTS]
 
 **MAN | GONDOR | WARRIOR, CAVALRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1315,8 +1301,6 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 ### OSGILIATH VETERAN [9 POINTS]
 
 **MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1353,8 +1337,6 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 **MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
@@ -1385,8 +1367,6 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 
 **SPIRIT | DUNHARROW | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 8" | 3 | 4+ | 3 | 8 | 1 | 1 | 4+ | 6+ |
@@ -1413,8 +1393,6 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 ### WARRIOR OF MINAS TIRITH [8 POINTS]
 
 **MAN | GONDOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1449,8 +1427,6 @@ A Warrior of Minas Tirith must have one of the following options for the listed 
 
 **MAN | NUMENOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1477,8 +1453,6 @@ A Warrior of Numenor must have one of the following options for the listed point
 ### WARRIOR OF THE DEAD [14 POINTS]
 
 **SPIRIT | DUNHARROW | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

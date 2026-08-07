@@ -1405,8 +1405,6 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 **MAN | HARAD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1428,8 +1426,6 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 ### BLACK GUARD OF BARAD-DUR [12 POINTS]
 
 **URUK-HAI | MORDOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1454,8 +1450,6 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 ### CORSAIR REAVER [9 POINTS]
 
 **MAN | CORSAIR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1483,8 +1477,6 @@ If this model starts its Activation more than 6" away from a friendly Corsair Bo
 
 **MAN | DUNLAND | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 7+ | 7+ |
@@ -1511,8 +1503,6 @@ Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a na
 ### DUNLENDING HUSCARL [11 POINTS]
 
 **MAN | DUNLAND | WARRIOR, INFANTRY, ELITE | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1546,8 +1536,6 @@ If this model is Supporting a Combat, and is within 3" of a friendly Dunland Her
 
 **MAN | DUNLAND | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1575,8 +1563,6 @@ A Dunlending Warrior must have one of the following options for the listed point
 ### DWELLER IN THE DARK [80 POINTS]
 
 **SPIRIT | MORIA | WARRIOR, INFANTRY, MONSTER | 60MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1606,8 +1592,6 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 
 **URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 60MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 4 | 2 | 1 | 5+ | 8+ |
@@ -1634,8 +1618,6 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 ### HALF TROLL [25 POINTS]
 
 **MAN | HARAD, MAHUD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1664,8 +1646,6 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 ### KHANDISH CHARIOTEER [40 POINTS]
 
 **MAN | KHAND | WARRIOR, CHARIOT | 60MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1699,8 +1679,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 **MAN | KHAND | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1722,8 +1700,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 ### KHANDISH WARRIOR [8 POINTS]
 
 **MAN | KHAND | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1748,8 +1724,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 ### MAHUD RAIDER [17 POINTS]
 
 **MAN | HARAD, MAHUD | WARRIOR, CAVALRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1781,8 +1755,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 **MAN | HARAD, MAHUD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 3+ | 4 | 5 | 1 | 1 | 8+ | 8+ |
@@ -1812,8 +1784,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 
 **ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 5+ | 4 | 4 | 2 | 1 | 7+ | 7+ |
@@ -1836,8 +1806,6 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 ### MORIA BLACKSHIELD DRUM [75 POINTS]
 
 **GOBLIN | MORIA | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1872,8 +1840,6 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 **GOBLIN | MORIA | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 2 | 5+ | 3 | 6 | 1 | 1 | 7+ | 8+ |
@@ -1902,8 +1868,6 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 ### ORC TRACKER [6 POINTS]
 
 **ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1971,8 +1935,6 @@ Whilst the Goblins remain mounted upon the [Warg], the entire model gains the [T
 ### WATCHER OF KARNA [9 POINTS]
 
 **MAN | HARAD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

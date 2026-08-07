@@ -912,8 +912,6 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 **ELF | LOTHLORIEN | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
@@ -943,8 +941,6 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 ### GALADHRIM WARRIOR [9 POINTS]
 
 **ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -978,8 +974,6 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 **ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 6 | 3+ | 3 | 5 | 1 | 1 | 4+ | 5+ |
@@ -1010,8 +1004,6 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual
 ### LOTHLORIEN WARRIOR [8 POINTS]
 
 **ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1047,8 +1039,6 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 **ELF | MIRKWOOD | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 3+ | <span style="color: darkmagenta">3</span> | 5 | 1 | 1 | 5+ | 6+ |
@@ -1077,8 +1067,6 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 ### MIRKWOOD ELF WARRIOR [9 POINTS]
 
 **ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1115,8 +1103,6 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 
 **ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ |
@@ -1145,8 +1131,6 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 ### PALACE GUARD [12 POINTS]
 
 **ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1184,8 +1168,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **ELF | RIVENDELL | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
@@ -1218,8 +1200,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **ELF | RIVENDELL | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 3+ | 3 | 5 | 1 | 1 | 5+ | 5+ |
@@ -1249,8 +1229,6 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 ### WOOD ELF SENTINEL [25 POINTS]
 
 **ELF | LOTHLORIEN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

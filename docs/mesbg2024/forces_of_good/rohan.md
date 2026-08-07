@@ -894,8 +894,6 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 **MAN | ROHAN | WARRIOR, CAVALRY | 40MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 3 | 5 | 1 | 1 | 7+ | 6+ |
@@ -935,8 +933,6 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 **MAN | ROHAN | WARRIOR, INFANTRY, ELITE | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 7+ | 6+ |
@@ -975,8 +971,6 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 ### WARRIOR OF ROHAN [6 POINTS]
 
 **MAN | ROHAN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

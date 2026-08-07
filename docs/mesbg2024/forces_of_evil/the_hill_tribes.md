@@ -287,8 +287,6 @@ During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +
 
 **MAN | DUNLAND | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 3 | 3 | 1 | 1 | 7+ | 8+ |
@@ -327,8 +325,6 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 ### ROHIRRIM TRAITOR [6 POINTS]
 
 **MAN | ROHAN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

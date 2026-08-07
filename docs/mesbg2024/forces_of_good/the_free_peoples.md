@@ -1908,8 +1908,6 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 **MAN | BEORNING | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 5 | 4+ | 4 | 4 | 2 | 2 | 5+ | 5+ |
@@ -1941,8 +1939,6 @@ This model treats friendly Bear models as a [banner][Banner].
 ### ENT [100 POINTS]
 
 **ENT | FANGORN | WARRIOR, INFANTRY, MONSTER | 60MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1982,8 +1978,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **EAGLE | MISTY MOUNTAINS | WARRIOR, INFANTRY, MONSTER | 60MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 12" | 6 | 4+ | 5 | 7 | 2 | 3 | 5+ | 5+ |
@@ -2010,8 +2004,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **EAGLE | MISTY MOUNTAINS | WARRIOR, INFANTRY, MONSTER | 60MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 12" | 7 | 4+ | 6 | 8 | 2 | 3 | 4+ | 4+ |
@@ -2037,8 +2029,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 ### HOBBIT ARCHER [5 POINTS]
 
 **HOBBIT | SHIRE | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -2069,8 +2059,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **HOBBIT | SHIRE | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 4" | 1 | 3+ | 2 | 3 | 1 | 1 | 7+ | 8+ |
@@ -2098,8 +2086,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **HOBBIT | SHIRE | WARRIOR, INFANTRY, ELITE | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 4" | 3 | 3+ | 2 | 3 | 1 | 1 | 7+ | 7+ |
@@ -2122,8 +2108,6 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 ### WOSES WARRIOR [9 POINTS]
 
 **MAN | DRUADAN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

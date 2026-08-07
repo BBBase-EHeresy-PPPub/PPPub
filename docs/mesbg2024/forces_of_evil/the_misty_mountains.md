@@ -666,8 +666,6 @@ If within 6" of water, select a single enemy involved in the Combat and roll a D
 
 **BAT | MORIA | WARRIOR, INFANTRY, BEAST, SWARM | 40MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 12" | 1 | 6+ | 3 | 3 | 2 | 4 | 8+ | 9+ |
@@ -694,8 +692,6 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 ### CAVE TROLL [75 POINTS]
 
 **TROLL | MORIA | WARRIOR, INFANTRY, MONSTER | 50MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -735,8 +731,6 @@ A [spear][Spear] that deals 2 Wounds rather than 1 when rolling a natural 6 on t
 ### GOBLIN WARRIOR [5 POINTS]
 
 **GOBLIN | GOBLIN-TOWN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -818,8 +812,6 @@ If a Drummer is slain, then they may pass on their wargear to a friendly Moria G
 
 **GOBLIN | MORIA | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 3 | 4+ | 3 | 4 | 1 | 1 | 8+ | 7+ |
@@ -845,8 +837,6 @@ If a Drummer is slain, then they may pass on their wargear to a friendly Moria G
 ### MORIA GOBLIN WARRIOR [4 POINTS]
 
 **GOBLIN | MORIA | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

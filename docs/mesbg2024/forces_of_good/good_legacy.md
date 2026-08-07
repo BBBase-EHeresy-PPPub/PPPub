@@ -734,8 +734,6 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 **ELF | RIVENDELL | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 8" | 5 | 3+ | 3 | 3 | 1 | 1 | 5+ | 6+ |
@@ -770,8 +768,6 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 **MAN | ROHAN | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 3+ | 3 | 4 | 1 | 1 | 7+ | 6+ |
@@ -803,8 +799,6 @@ This model may benefit from a friendly Hero model's [Stand Fast] regardless of r
 ### SON OF EORL [20 POINTS]
 
 **MAN | ROHAN | WARRIOR, CAVALRY, ELITE | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

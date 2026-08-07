@@ -1639,8 +1639,6 @@ Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty 
 
 **DWARF | KHAZAD-DUM | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 3+ | 3 | 5 | 1 | 1 | 6+ | 6+ |
@@ -1676,8 +1674,6 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 
 **DWARF | KHAZAD-DUM | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
@@ -1706,8 +1702,6 @@ A Dwarf Warrior must have one of the following options for the listed points cos
 ### EREBOR DWARF WARRIOR [9 POINTS]
 
 **DWARF | EREBOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1739,8 +1733,6 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 ### GRIM HAMMER WARRIOR [11 POINTS]
 
 **DWARF | EREBOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1774,8 +1766,6 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 
 **DWARF | KHAZAD-DUM | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 4+ | 4 | 6 | 2 | 1 | 6+ | 6+ |
@@ -1799,8 +1789,6 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 ### IRON HILLS CHARIOT [170 POINTS]
 
 **DWARF | IRON HILLS | WARRIOR, CHARIOT | 170MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1838,8 +1826,6 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 
 **DWARF | IRON HILLS | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 4 | 4+ | 4 | 6 | 1 | 1 | 6+ | 6+ |
@@ -1864,8 +1850,6 @@ Any Iron Hills Warrior that ends their Activation in base contact may join its c
 ### IRON HILLS WARRIOR [10 POINTS]
 
 **DWARF | IRON HILLS | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1904,8 +1888,6 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 
 **DWARF | KHAZAD-DUM | WARRIOR, INFANTRY, ELITE | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 5" | 5 | 4+ | 4 | 7 | 1 | 1 | 6+ | 6+ |
@@ -1933,8 +1915,6 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 ### VAULT WARDEN TEAM [25 POINTS]
 
 **DWARF | KHAZAD-DUM | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 **Iron Shield Bearer**
 

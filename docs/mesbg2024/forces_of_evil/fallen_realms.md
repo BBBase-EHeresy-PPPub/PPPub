@@ -894,8 +894,6 @@ May only include Black Dragon Warrior models in his warband.
 
 **MAN | EASTERLING, BLACK DRAGON | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 6+ |
@@ -935,8 +933,6 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 **MAN | CORSAIR, UMBAR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 3 | 1 | 1 | 7+ | 7+ |
@@ -962,8 +958,6 @@ A [shield][Shield] that provides +3 Defence, rather than +1. However, this model
 ### CORSAIR OF UMBAR [8 POINTS]
 
 **MAN | CORSAIR, UMBAR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -991,8 +985,6 @@ A Corsair of Umbar must have one of the following options for the listed points 
 ### DRAGON CULT ACOLYTE [11 POINTS]
 
 **MAN | EASTERLING, BLACK DRAGON | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1025,8 +1017,6 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 ### EASTERLING KATAPHRAKT [15 POINTS]
 
 **MAN | EASTERLING | WARRIOR, CAVALRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1068,8 +1058,6 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 **MAN | HARAD | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1103,8 +1091,6 @@ A Haradrim Raider must have one of the following options for the listed points c
 
 **MAN | HARAD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1137,8 +1123,6 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **MAN | HARAD | WARRIOR, INFANTRY, ELITE | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1161,8 +1145,6 @@ A Haradrim Warrior must have one of the following options for the listed points 
 ### SERPENT RIDER [14 POINTS]
 
 **MAN | HARAD | WARRIOR, CAVALRY, ELITE | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1187,8 +1169,6 @@ A Haradrim Warrior must have one of the following options for the listed points 
 ### WAR DRAKE OF RHUN [20 POINTS]
 
 **DRAKE | EASTERLING | WARRIOR, INFANTRY, BEAST | 40MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

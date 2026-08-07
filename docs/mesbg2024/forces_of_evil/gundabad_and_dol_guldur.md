@@ -822,8 +822,6 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
 **WARG | GUNDABAD | WARRIOR, INFANTRY, BEAST | 40MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 7+ |
@@ -845,8 +843,6 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 ### GOBLIN MERCENARY [6 POINTS]
 
 **GOBLIN | GUNDABAD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -878,8 +874,6 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 ### GUNDABAD BERSERKER [15 POINTS]
 
 **ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -913,8 +907,6 @@ Whenever this model suffers a Wound, roll a D6. On the roll of a natural 6, the 
 
 **TROLL | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 50MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 8" | 5 | 6+ | 6 | 5 | 3 | 3 | 7+ | 7+ |
@@ -943,8 +935,6 @@ Ogres can pass through friendly Orc, Goblin and Bat models when they Charge into
 ### GUNDABAD ORC WARRIOR [9 POINTS]
 
 **ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -978,8 +968,6 @@ A Gundabad Orc Warrior must have one of the following options for the listed poi
 ### GUNDABAD TROLL [120 POINTS]
 
 **TROLL | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 80MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1020,8 +1008,6 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 
 **ORC | GUNDABAD | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
@@ -1053,8 +1039,6 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **ORC | GUNDABAD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
@@ -1085,8 +1069,6 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **SPIDER | DOL GULDUR | WARRIOR, INFANTRY, BEAST | 60MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 10" | 2 | 5+ | 5 | 3 | 2 | 2 | 7+ | 8+ |
@@ -1114,8 +1096,6 @@ A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon
 ### MIRKWOOD HUNTING SPIDER [20 POINTS]
 
 **SPIDER | DOL GULDUR | WARRIOR, INFANTRY, BEAST | 40MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1145,8 +1125,6 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a fo
 ### WAR BAT [25 POINTS]
 
 **BAT | GUNDABAD | WARRIOR, INFANTRY | 40MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

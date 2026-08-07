@@ -815,8 +815,6 @@ If Grima is deployed as part of the enemy Army, then enemy models treat him as a
 
 **BIRD | DUNLAND | WARRIOR, INFANTRY, BEAST, SWARM | 40MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 12" | 2 | 6+ | 2 | <span style="color: darkmagenta">2</span> | 2 | <span style="color: darkmagenta">3</span> | 8+ | 7+ |
@@ -847,8 +845,6 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 
 **ORC | ISENGARD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
@@ -877,8 +873,6 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 ### ISENGARD TROLL [100 POINTS]
 
 **TROLL | ISENGARD | WARRIOR, INFANTRY, MONSTER | 60MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -911,8 +905,6 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 **WARG | ISENGARD | WARRIOR, INFANTRY, BEAST | 40MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 10" | 3 | 6+ | 4 | 4 | 1 | 1 | 8+ | 8+ |
@@ -930,8 +922,6 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 ### ISENGARD WARG RIDER [11 POINTS]
 
 **ORC | ISENGARD | WARRIOR, CAVALRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -961,8 +951,6 @@ An Isengard Warg Rider must have one of the following options for the listed poi
 ### URUK-HAI BERSERKER [15 POINTS]
 
 **URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1057,8 +1045,6 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
 **URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 7+ | 7+ |
@@ -1083,8 +1069,6 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 ### URUK-HAI WARRIOR [9 POINTS]
 
 **URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1117,8 +1101,6 @@ An Uruk-Hai Warrior must have one of the following options for the listed points
 ### WILD MAN OF DUNLAND [5 POINTS]
 
 **MAN | DUNLAND | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

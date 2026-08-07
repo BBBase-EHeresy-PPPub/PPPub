@@ -822,8 +822,6 @@ Shelob can choose to direct a single strike at one model in the Combat. That mod
 
 **MAN | MORDOR | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
@@ -859,8 +857,6 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 
 **MAN | MORDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
@@ -888,8 +884,6 @@ If an enemy attempts to Charge this model and fails its Courage Test (due to [Te
 ### EASTERLING WARRIOR [8 POINTS]
 
 **MAN | EASTERLING | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -927,8 +921,6 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 
 **ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 4+ | 4 | 5 | 1 | 1 | 8+ | 7+ |
@@ -961,8 +953,6 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a +1 bonus to
 
 **ORC | MORDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
@@ -991,8 +981,6 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 ### MORDOR TROLL [90 POINTS]
 
 **TROLL | MORDOR | WARRIOR, INFANTRY, MONSTER | 60MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1023,8 +1011,6 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 
 **URUK-HAI | MORDOR | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 4 | 4 | 1 | 1 | 6+ | 7+ |
@@ -1054,8 +1040,6 @@ If this model rolls a natural 6 To Wound, and the Wound is successful, the targe
 
 **ORC | MORDOR | WARRIOR, CAVALRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 3 | 5+ | 3 | 4 | 1 | 1 | 8+ | 8+ |
@@ -1084,8 +1068,6 @@ A Mordor Warg Rider must have one of the following options for the listed points
 ### SPECTRE [15 POINTS]
 
 **SPIRIT | MORDOR | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

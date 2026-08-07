@@ -553,8 +553,6 @@ Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his 
 
 **MAN | DALE | WARRIOR, INFANTRY | 25MM**
 
-*WARRIOR*
-
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
 | 6" | 4 | 4+ | 3 | 6 | 1 | 1 | 6+ | 7+ |
@@ -581,8 +579,6 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 ### LAKE-TOWN GUARD [7 POINTS]
 
 **MAN | LAKE-TOWN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -613,8 +609,6 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 ### LAKE-TOWN MILITIA [5 POINTS]
 
 **MAN | LAKE-TOWN | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -648,8 +642,6 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is E
 ### WARRIOR OF DALE [7 POINTS]
 
 **MAN | DALE | WARRIOR, INFANTRY | 25MM**
-
-*WARRIOR*
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
