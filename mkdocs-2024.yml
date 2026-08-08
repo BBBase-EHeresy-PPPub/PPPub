@@ -80,6 +80,8 @@ nav:
   - Campaigns:
       - Campaigns: 'campaigns/index.md'
       - War of the Rohirrim: 'campaigns/war_of_the_rohirrim.md'
+      - The Treachery of Gollum: 'campaigns/the_treachery_of_gollum.md'
+      - The Burning of the Westfold: 'campaigns/the_burning_of_the_westfold.md'
   - Forces of Good:
       - Forces of Good: 'forces_of_good/index.md'
       - "Arnor & Angmar": 'forces_of_good/arnor_and_angmar.md'
@@ -216,4 +218,6 @@ nav:
       - Doubles Events: 'scenarios/doubles_events.md'
       - Narrative Scenarios: 'scenarios/narrative_scenarios.md'
       - War of the Rohirrim: 'scenarios/war_of_the_rohirrim.md'
+      - The Treachery of Gollum: 'scenarios/the_treachery_of_gollum.md'
+      - The Burning of the Westfold: 'scenarios/the_burning_of_the_westfold.md'
   - "[ MESBG 2018 ]": /mesbg2018/
