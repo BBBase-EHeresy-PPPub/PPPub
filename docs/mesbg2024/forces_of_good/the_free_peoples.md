@@ -556,7 +556,7 @@ Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a p
 **WARGEAR**
 
 - [Two-handed Weapon]
-- Great [Bow]
+- [Great Bow]
 
 **HEROIC ACTIONS**
 
@@ -639,7 +639,7 @@ If Grimbeorn wins a Duel Roll, choose a single enemy model involved in the Comba
 **WARGEAR**
 
 - [Elven-made] Weapon
-- Elf [Bow]
+- [Elf Bow]
 
 **HEROIC ACTIONS**
 
@@ -1831,7 +1831,7 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 **OPTIONS**
 
-- Swap [Hand-and-a-half Weapon] for Great [Bow] - Free
+- Swap [Hand-and-a-half Weapon] for [Great Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1949,7 +1949,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 **WARGEAR**
 
 - [Hand Weapon]
-- Short [Bow]
+- [Short Bow]
 
 **OPTIONS**
 

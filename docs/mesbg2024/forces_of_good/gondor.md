@@ -695,7 +695,7 @@ Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests
 
 - [Heavy Armour]
 - [Hand Weapon]
-- [Longbow][Bow]
+- [Longbow]
 
 **HEROIC ACTIONS**
 
@@ -1118,7 +1118,7 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 
 A Citadel Guard must have one of the following options for the listed points cost:
 
-- Longbow - 1 point
+- [Longbow] - 1 point
 - [Spear] - 1 point
 
 **SPECIAL RULES**
@@ -1401,7 +1401,7 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 - [Shield] and [Spear] - 2 points
 - [Shield] - 1 point
-- Longbow - 1 point
+- [Longbow] - 1 point
 
 </div>
 

@@ -134,7 +134,7 @@ Before making a Duel Roll for Worm, check to see if any enemy models, with the e
 
 - [Armour]
 - [Hand Weapon]
-- Uruk-hai [Bow]
+- [Uruk-hai Bow]
 
 **HEROIC ACTIONS**
 
@@ -815,7 +815,7 @@ Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
 An Isengard Orc Warrior must have one of the following options for the listed points cost:
 
 - [Banner] - 25 points
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
 - [Two-handed Weapon] - 1 point
@@ -894,7 +894,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 An Isengard Warg Rider must have one of the following options for the listed points cost:
 
 - [Shield] and [Throwing] [Spears][Spear] - 2 points
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Throwing] [Spears][Spear] - 1 point
 
@@ -1012,7 +1012,7 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
 - [Banner] - 25 points
 - [Shield] - 1 point
-- Uruk-hai [Bow] - 1 point
+- [Uruk-hai Bow] - 1 point
 
 </div>
 

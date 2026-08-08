@@ -147,7 +147,7 @@ Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for the
 **OPTIONS**
 
 - [Fell Warg] - 20 points
-- Orc [Bow] - 5 points
+- [Orc Bow] - 5 points
 
 **SPECIAL RULES**
 
@@ -605,7 +605,7 @@ Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenari
 **OPTIONS**
 
 - [Fell Warg] - 20 points
-- Orc [Bow] - 5 points
+- [Orc Bow] - 5 points
 - [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
@@ -632,7 +632,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 - [Light Armour]
 - [Hand Weapon]
-- Orc [Bow]
+- [Orc Bow]
 
 **HEROIC ACTIONS**
 
@@ -641,7 +641,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 **SPECIAL RULES**
 
 - [Expert Shot]
-- [Poisoned Attacks] (Orc bow)
+- [Poisoned Attacks] ([Orc Bow])
 
 - **Lethal Aim** `ACTIVE`
 
@@ -982,7 +982,7 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 
 **OPTIONS**
 
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -1012,7 +1012,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **OPTIONS**
 
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**

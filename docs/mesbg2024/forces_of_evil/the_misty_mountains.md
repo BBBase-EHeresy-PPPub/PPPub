@@ -396,7 +396,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 **OPTIONS**
 
-- Orc [Bow] - 5 points
+- [Orc Bow] - 5 points
 
 **SPECIAL RULES**
 
@@ -819,7 +819,7 @@ If a Drummer is slain, then they may pass on their wargear to a friendly Moria G
 
 A Moria Goblin Warrior must have one of the following options for the listed points cost:
 
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
 

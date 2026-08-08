@@ -11,7 +11,16 @@
 [Elven Weapon]: ../rules_manual/weapons_and_wargear.md#elven-weapon
 [Master-forged]: ../rules_manual/weapons_and_wargear.md#master-forged
 [Fire-based Attacks]: ../rules_manual/weapons_and_wargear.md#fire-based-attacks
-[Bow]: ../rules_manual/weapons_and_wargear.md#bow
+[Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Orc Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Uruk-hai Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Elf Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Dwarf Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Esgaroth Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Great Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Short Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Longbow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
+[Dwarf Longbow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Crossbow]: ../rules_manual/weapons_and_wargear.md#crossbow
 [Blowpipe]: ../rules_manual/weapons_and_wargear.md#blowpipe
 [Sling]: ../rules_manual/weapons_and_wargear.md#sling

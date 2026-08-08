@@ -607,7 +607,7 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 **SPECIAL RULES**
 
-- [Poisoned Attacks] (bow)
+- [Poisoned Attacks] ([Bow])
 
 </div>
 
@@ -1041,7 +1041,7 @@ A Haradrim Raider must have one of the following options for the listed points c
 
 **SPECIAL RULES**
 
-- [Poisoned Attacks] (bow)
+- [Poisoned Attacks] ([Bow])
 
 </div>
 
@@ -1073,7 +1073,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **SPECIAL RULES**
 
-- [Poisoned Attacks] (bow)
+- [Poisoned Attacks] ([Bow])
 
 </div>
 

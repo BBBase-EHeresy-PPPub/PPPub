@@ -1308,7 +1308,7 @@ If outnumbered in a Combat, Gloin increases his Attacks to 4 for the duration of
 
 - [Light Armour]
 - [Hand Weapon]
-- Dwarf [Bow]
+- [Dwarf Bow]
 
 **HEROIC ACTIONS**
 
@@ -1566,7 +1566,7 @@ Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty 
 
 A Dwarf Ranger must have one of the following options for the listed points cost:
 
-- Dwarf Longbow - 1 point
+- [Dwarf Longbow] - 1 point
 - [Throwing Weapons] - 1 point
 - [Two-handed Weapon] - 1 point
 
@@ -1603,7 +1603,7 @@ A Dwarf Warrior must have one of the following options for the listed points cos
 
 - [War Horn] - 25 points
 - [Banner] - 25 points
-- Dwarf [Bow] - 1 point
+- [Dwarf Bow] - 1 point
 - [Shield] - 1 point
 - [Two-handed Weapon] - 1 point
 

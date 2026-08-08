@@ -290,7 +290,7 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 **OPTIONS**
 
-- Elf [Bow] - 5 points
+- [Elf Bow] - 5 points
 - [Elven Cloak] - Free
 
 **SPECIAL RULES**
@@ -320,7 +320,7 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 **WARGEAR**
 
 - [Armour]
-- Elf [Bow]
+- [Elf Bow]
 - [Elven Hand Weapons][Elven Weapon]
 
 **HEROIC ACTIONS**
@@ -543,7 +543,7 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 
 **OPTIONS**
 
-- Elf [Bow] - 5 points
+- [Elf Bow] - 5 points
 
 **SPECIAL RULES**
 
@@ -608,7 +608,7 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 **WARGEAR**
 
 - Elven [Hand-and-a-half Weapon]
-- Elven [Bow]
+- [Elf Bow]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -666,7 +666,7 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 
 **WARGEAR**
 
-- Elf [Bow]
+- [Elf Bow]
 - Elven [Hand Weapon]
 - [Elven Cloak]
 
@@ -844,7 +844,7 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 
 **OPTIONS**
 
-- Elf [Bow] - 5 points
+- [Elf Bow] - 5 points
 
 **SPECIAL RULES**
 
@@ -883,7 +883,7 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 **OPTIONS**
 
 - [Banner] - 25 points
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - [Shield] - 1 point
 
 **SPECIAL RULES**
@@ -923,9 +923,9 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 **OPTIONS**
 
-- [War Horn] and Elf [Bow] - 27 points
+- [War Horn] and [Elf Bow] - 27 points
 - [Banner] - 25 points
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - [Shield] and Elven [Spear] - 2 points
 - Elven [Spear] - 1 point
 - [Shield] - 1 point
@@ -987,7 +987,7 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual
 **OPTIONS**
 
 - [Banner] - 25 points
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - Elven [Throwing Weapons] - 2 points
 - Wood Elf [Spear] - 1 point
 
@@ -1051,7 +1051,7 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +
 
 A Mirkwood Elf Warrior must have one of the following options for the listed points cost:
 
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - Elven Glaive - 2 points
 - [Shield] - 1 point
 
@@ -1079,7 +1079,7 @@ Elven [spear][Spear], when Engaged in Combat and not being Supported, this model
 
 **WARGEAR**
 
-- Elf [Bow]
+- [Elf Bow]
 - Elven [Hand Weapon]
 - [Elven Cloak]
 
@@ -1148,7 +1148,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 - Elven [Lance]
 - [Horse]
 - Elven [Hand-and-a-half Weapon]
-- Elf [Bow]
+- [Elf Bow]
 
 **OPTIONS**
 
@@ -1182,7 +1182,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **OPTIONS**
 
 - [Banner] - 25 points
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - [Shield] and Elven [Spear] - 2 points
 - [Shield] - 1 point
 
@@ -1207,7 +1207,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - Elven [Hand Weapon]
-- Elf [Bow]
+- [Elf Bow]
 - [Elven Cloak]
 
 **SPECIAL RULES**

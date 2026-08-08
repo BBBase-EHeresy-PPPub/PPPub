@@ -813,7 +813,7 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 An Angmar Orc Warrior must have one of the following options for the listed points cost:
 
 - [Banner] - 25 points
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
 - [Two-handed Weapon] - 1 point
@@ -843,7 +843,7 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 An Angmar Warg Rider must have one of the following options for the listed points cost:
 
 - [Shield] and [Throwing] [Spears][Spear] - 2 points
-- Orc [Bow] - 1 point
+- [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Throwing] [Spears][Spear] - 1 point
 
@@ -892,7 +892,7 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 **WARGEAR**
 
 - [Hand Weapon]
-- Short [Bow]
+- [Short Bow]
 
 **OPTIONS**
 

@@ -915,7 +915,7 @@ When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 
 - **Orc Archers** `PASSIVE`
 
-The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an Orc [bow][Bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
+The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an [Orc bow][Orc Bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
 
 ---
 
@@ -1840,7 +1840,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 **WARGEAR**
 
 - [Hand Weapon]
-- Orc [Bow]
+- [Orc Bow]
 
 **SPECIAL RULES**
 
@@ -1866,7 +1866,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 - [Armour]
 - [Hand Weapon]
-- Either [Shield] or Orc [Bow]
+- Either [Shield] or [Orc Bow]
 
 **SPECIAL RULES**
 
@@ -1874,7 +1874,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 - **On the Hunt** `ACTIVE`
 
-During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an Orc [bow][Bow] for each Moria Goblin Warrior with an Orc [bow][Bow] still alive upon the [Warg]. These shooting attacks can still be made even if the [Warg] Marauder has Moved further than half its Move Value that turn, and even if it is Engaged in Combat.
+During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an [Orc bow][Orc Bow] for each Moria Goblin Warrior with an [Orc bow][Orc Bow] still alive upon the [Warg]. These shooting attacks can still be made even if the [Warg] Marauder has Moved further than half its Move Value that turn, and even if it is Engaged in Combat.
 
 - **Lethal Union** `ACTIVE`
 
@@ -1917,7 +1917,7 @@ A Watcher of Karna must have one of the following options for the listed points 
 **SPECIAL RULES**
 
 - [Hatred] (Spirit)
-- [Poisoned Attacks] (bow)
+- [Poisoned Attacks] ([Bow])
 - [Resistant to Magic]
 
 - **Twin Blades** `ACTIVE`

@@ -168,7 +168,7 @@ Cirion gains a bonus of +2 to his Courage Test when attempting to Charge an enem
 
 - Dwarf [Armour]
 - [Hand Weapon]
-- Dwarf [Bow]
+- [Dwarf Bow]
 
 **HEROIC ACTIONS**
 
@@ -581,7 +581,7 @@ Each turn, Anborn gains a free Might Point that can only be spent during a shoot
 
 - [Armour]
 - [Hand Weapon]
-- [Longbow][Bow]
+- [Longbow]
 
 **HEROIC ACTIONS**
 
@@ -714,7 +714,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 **OPTIONS**
 
 - [Banner] - 25 points
-- Elf [Bow] - 2 points
+- [Elf Bow] - 2 points
 - Elven [Throwing Weapons] - 2 points
 - Wood Elf [Spear] - 1 point
 

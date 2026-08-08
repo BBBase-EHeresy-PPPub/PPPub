@@ -184,7 +184,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 **WARGEAR**
 
 - [Hand Weapon]
-- Great [Bow]
+- [Great Bow]
 
 **HEROIC ACTIONS**
 
@@ -206,7 +206,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 
 - **Rapid Fire** `ACTIVE`
 
-If Bard hits a target with his great [bow][Bow], he may make another shooting attack with his great [bow][Bow] that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
+If Bard hits a target with his [great bow][Great Bow], he may make another shooting attack with his [great bow][Great Bow] that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
 
 - **Swift Shot** `ACTIVE`
 
@@ -630,7 +630,7 @@ A Warrior of Dale must have one of the following options for the listed points c
 
 - [War Horn] - 25 points
 - [Banner] - 25 points
-- Esgaroth [Bow] - 2 points
+- [Esgaroth Bow] - 2 points
 - [Shield] and [Spear] - 2 points
 - [Shield] - 1 point
 
