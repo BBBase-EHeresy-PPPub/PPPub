@@ -1,7 +1,5 @@
 ## SCENARIO 1 - NO ESCAPE
 
-*Half of each army is fighting at the centre of the battlefield, with the rest of their enemies bearing down upon them.*
-
 **SCENARIO OUTLINE**
 
 Vanquish the enemy force, whilst protecting your own in the centre of the battlefield.
@@ -46,8 +44,6 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 ## SCENARIO 2 - TOTAL CONQUEST
 
-*Two enemy forces are embroiled in a deadlock on the battlefield. Only by their allies joining the fight and taking control of key areas can they achieve victory.*
-
 **SCENARIO OUTLINE**
 
 There are five Objective Markers on the board. Control the most to achieve victory.
@@ -88,8 +84,6 @@ Maelstrom of Battle
 
 ## SCENARIO 3 - TAKE & HOLD
 
-*The two rival forces are converging upon a site of great power; whomever controls it will secure victory.*
-
 **SCENARIO OUTLINE**
 
 Control the central objective to claim victory.
@@ -125,15 +119,15 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 **SPECIAL RULES**
 
-**Old Magic:** The area that both Armies are fighting over is an ancient place of great power that is said to be imbued with magic. Models within 6" of the Objective Marker gain the Resistant to Magic special rule, and may re-roll failed Fate Rolls.
+* **Old Magic**
+
+The area that both Armies are fighting over is an ancient place of great power that is said to be imbued with magic. Models within 6" of the Objective Marker gain the Resistant to Magic special rule, and may re-roll failed Fate Rolls.
 
 ![](../media/scenarios/doubles_events/take_and_hold.jpg){ width=1000 height=669 }
 
 ---
 
 ## SCENARIO 4 - CLASH OF CHAMPIONS
-
-*The two allied leaders must use their combined might against that of their enemies; whoever slays the most shall earn a great victory.*
 
 **SCENARIO OUTLINE**
 
@@ -171,15 +165,15 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Friendly Rivalry:** Whilst the two General models are fighting alongside each other, they are still both trying to prove that they are the better fighter of the two. Keep a record of how many kills the General of each force has in Combat individually. For each Army, whichever General has the fewest kills out of the two in Combat gains a bonus of +1 To Wound when making Strikes. This bonus ends immediately as soon as they have drawn equal to or overtaken their ally.
+* **Friendly Rivalry**
+
+Whilst the two General models are fighting alongside each other, they are still both trying to prove that they are the better fighter of the two. Keep a record of how many kills the General of each force has in Combat individually. For each Army, whichever General has the fewest kills out of the two in Combat gains a bonus of +1 To Wound when making Strikes. This bonus ends immediately as soon as they have drawn equal to or overtaken their ally.
 
 ![](../media/scenarios/doubles_events/clash_of_champions.jpg){ width=1000 height=669 }
 
 ---
 
 ## SCENARIO 5 - CORNERED
-
-*With one force surrounded, their allies must fight to save them from the overwhelming forces arrayed against them.*
 
 **SCENARIO OUTLINE**
 
@@ -229,8 +223,6 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 ## SCENARIO 6 - DUEL OF WITS
 
-*Each force has been tasked with eliminating key enemy targets, though in the heat of battle they have been unable to relay this information to their allies.*
-
 **SCENARIO OUTLINE**
 
 Each force secretly selects an enemy Hero. Try to kill the heroes chosen by your team, whilst simultaneously getting your selected heroes into the centre of the board.
@@ -273,6 +265,6 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 
 **SPECIAL RULES**
 
-**Dark of Night**
+* **Dark of Night**
 
 ![](../media/scenarios/doubles_events/duel_of_wits.jpg){ width=1000 height=671 }

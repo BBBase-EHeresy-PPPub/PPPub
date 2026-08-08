@@ -114,7 +114,9 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**Maelstrom of Battle** - At the end of your Move Phase, roll a D6 for each of your Warbands not on the battlefield and consult the chart that follows (the Warband's Captain can use Might to increase this roll). Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your Army is Broken.
+* **Maelstrom of Battle**
+
+At the end of your Move Phase, roll a D6 for each of your Warbands not on the battlefield and consult the chart that follows (the Warband's Captain can use Might to increase this roll). Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your Army is Broken.
 
 | D6 | Result |
 | --- | --- |
@@ -171,7 +173,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Supply Markers** - The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not Cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
+* **Supply Markers**
+
+The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not Cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
 
 ![](../media/scenarios/rules_manual/destroy_the_supplies.jpg){ width=969 height=677 }
 
@@ -212,7 +216,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Reinforcements** - At the end of your Activation Phase, roll a D6 for each of your Warbands that are not on the battlefield and consult the chart below (the Warband's Captain can use Might to improve the roll). Models enter the board via the rules for Reinforcements.
+* **Reinforcements**
+
+At the end of your Activation Phase, roll a D6 for each of your Warbands that are not on the battlefield and consult the chart below (the Warband's Captain can use Might to improve the roll). Models enter the board via the rules for Reinforcements.
 
 Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for determining if your Army is Broken. Warbands that have still not arrived by the start of turn 4 will automatically arrive on turn 4.
 

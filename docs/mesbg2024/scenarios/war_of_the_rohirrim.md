@@ -22,19 +22,19 @@ The game lasts until one side completes their objective. The Good player wins if
 
 **SPECIAL RULES**
 
-**A Question of Honour** - *Though the two lords of Rohan have come to blows, neither seeks to land a mortal blow on the other.*
+* **A Question of Honour**
 
 For the duration of the Scenario, neither Helm nor Freca is wearing any armour or carrying their usual weapons. However, as both men are fighting in hand-to-hand combat, neither is considered to be Unarmed.
 
-**The First Punch** - *Freca is quick off the mark and rains down a flurry of blows upon Helm.*
+* **The First Punch**
 
 The first time a Duel Roll results in a tie, Freca wins regardless of Fight Value. Additionally, the Evil player has Priority on the first turn.
 
-**Dunlending Fury** - *Despite being past his prime, Freca is still a man of Dunlending blood and a formidable brawler.*
+* **Dunlending Fury**
 
 Whenever Freca charges, he improves his Attacks to 3 until the end of the turn.
 
-**Knockout Blow** - *Throughout the years, Freca has settled many disputes with his fists rather than his words.*
+* **Knockout Blow**
 
 If Freca rolls a natural 6 To Wound when making a Strike, and the Wound is successful, he has struck a Knockout Blow and Helm is rendered unconscious.
 
@@ -66,19 +66,19 @@ The game lasts until one force achieves their objective. The Good player wins if
 
 **SPECIAL RULES**
 
-**The Rabid Mûmak** - *Driven mad by sickness and infection, the beast from the south has succumbed to its base instincts and a need to trample all in its path.*
+* **The Rabid Mûmak**
 
 The Rabid Mûmak uses the War Mûmak of Harad profile, except that it does not have a Howdah or Haradrim Commander. Additionally, the Rabid Mûmak gains the Fearless special rule and increases its Movement Characteristic to 10".
 
-**Madness Beyond Pain** - *The madness that has overtaken the beast has left it all but oblivious to its injuries.*
+* **Madness Beyond Pain**
 
 Whenever the Rabid Mûmak would suffer a Wound in the Fight Phase, roll a D6. On a roll of a 4+, the Wound is ignored.
 
-**Destructive Rampage** - *The trees of this old forest are tall and strong - but even they are little obstacle to the frenzied Mûmak.*
+* **Destructive Rampage**
 
 If the Mûmak comes into contact with any trees whilst Trampling, rather than stopping it will inflict Impact Hits onto the trees as if they were a model. Each tree has a Defence of 7 and 2 Wounds and can only be Wounded by Impact Hits.
 
-**The Southron's Horn** - *By sounding the Southron's horn, Héra hopes to draw the raging beast away from her friends.*
+* **The Southron's Horn**
 
 Héra can blow the Southron's horn at either the start or end of her Activation. If she does, the Rabid Mûmak must take an Intelligence Test. If the test is failed, the Rabid Mûmak must pivot to face Héra and Move D3+1" directly towards her, even if it has already Moved that turn. Additionally, if the test is failed and the Rabid Mûmak has not activated yet this turn, it must end its Move closer to Héra.
 
@@ -86,7 +86,7 @@ If the Rabid Mûmak comes into contact with another model during this move, it w
 
 This cannot be used to Move the Rabid Mûmak out of Combat.
 
-**The Beast in the Lake** - *Though bringing the beast down herself would be near-impossible, Héra knows of a creature that lurks within the lake that might be up to the task.*
+* **The Beast in the Lake**
 
 Good models may not enter the lake for fear of being dragged to the depths by the creature that lurks there. In addition, the first time each turn that the Rabid Mûmak ends a Move within 6" of the lake in the south-west corner of the board, the Good player rolls a D6. On a 1-2, the waters remain undisturbed and the game continues. On a 3+, the beast lurking in the water strikes and drags the Mûmak into the depths. The Mûmak is removed as a casualty.
 
@@ -118,23 +118,23 @@ The game lasts until there are no Good models left on the board. The Good side w
 
 **SPECIAL RULES**
 
-**Night Watch** - *The camp sentries settle in for what they believe to be an easy watch, for they have no reason to suspect anyone would be foolish enough to infiltrate their camp.*
+* **Night Watch**
 
 This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on page 136 of the *Middle-earth Strategy Battle Game Rules Manual*.
 
-**Prized Prisoner** - *Héra has been relieved of her weapons and is being held in Wulf's quarters in the centre of the camp.*
+* **Prized Prisoner**
 
 In order to free Héra, Olwyn or Fréaláf must be standing and in base contact with either the northern or southern side of Wulf's quarters during the End Phase of a turn, having not been Engaged in Combat. Once Héra has been freed, place her in base contact with both the model that freed her and Wulf's quarters. Once Héra is freed, the alarm is immediately raised. Lastly, for the duration of the Scenario, Héra is Unarmed.
 
-**Ride to Edoras** - *Should Héra reach the stables and escape, Wulf's hopes of using her to achieve his goals will be dashed.*
+* **Ride to Edoras**
 
 If a Good model ends its Activation in base contact with the stables, remove it from play. This model has secured themselves a horse to escape from the encampment and now rides towards Edoras with all haste.
 
-**Wulf's Fury** - *Thinking his camp secure, Héra's sudden escape was the last thing Wulf anticipated.*
+* **Wulf's Fury**
 
 When the alarm is raised, place Wulf in base contact with the northern side of his quarters; he may act as normal from that point onwards. If the alarm is raised as a result of Héra being freed, instead place him in base contact with the side of the building opposite to where Héra has been placed.
 
-**Quick and Quiet** - *Thanks to their stealthy approach, Olwyn and Fréaláf have maintained the element of surprise.*
+* **Quick and Quiet**
 
 On the first turn of the game, the Good player may choose who has Priority.
 
@@ -166,9 +166,13 @@ The game lasts for 10 turns. The Good player wins if they are able to prevent al
 
 **SPECIAL RULES**
 
-**Wulf's Cunning** - At the end of the Evil player's second Move Phase, the Evil player moves all three of the Mûmakil, Wulf, General Targg and the remaining Hill Tribesmen onto the board via the western board edge.
+* **Wulf's Cunning**
 
-**The King's Riders** - Whilst they are within 12" of Helm and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge.
+At the end of the Evil player's second Move Phase, the Evil player moves all three of the Mûmakil, Wulf, General Targg and the remaining Hill Tribesmen onto the board via the western board edge.
+
+* **The King's Riders**
+
+Whilst they are within 12" of Helm and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge.
 
 ![](../media/scenarios/war_of_the_rohirrim/plains_of_edoras.jpg){ width=878 height=852 }
 
@@ -198,21 +202,21 @@ The game lasts until one force achieves their objective. The Good player wins if
 
 **SPECIAL RULES**
 
-**Unarmed** - *Having been disarmed by Lord Thorne, Héra scrambles in search of something to use as a weapon.*
+* **Unarmed**
 
 Héra begins the scenario Unarmed. If Héra moves into base contact with the Pitchfork Marker at any point during her Activation, she is no longer considered Unarmed.
 
-**Easy Prey** - *Lord Thorne has instructed his men to wait outside the stable, hoping to claim the promised reward of slaying Héra all for himself.*
+* **Easy Prey**
 
 When Lord Thorne Moves, he must always Charge Héra if possible. Additionally, the Rohirrim Traitors may not Charge Héra.
 
-**Race for Help** - *Lief spots the would-be assassins and races away to summon aid.*
+* **Race for Help**
 
 The Warriors of Rohan may not Activate until Lief has raised the alarm. The alarm is raised if, during the End Phase, Lief is within 3" and Line of Sight of any of the Warriors of Rohan.
 
 Additionally, if an Evil model Charges or makes a Shooting attack against a Warrior of Rohan and does not slay them, the alarm is raised.
 
-**Loyal Steed** - *With Ashere still tethered in the stables, Héra knows that her loyal warhorse could make the difference if she can goad Lord Thorne towards her.*
+* **Loyal Steed**
 
 Once per game, at any point during Héra's Activation, she may call upon Ashere to aid her in the battle with Lord Thorne. If she does, Lord Thorne is immediately Knocked Prone.
 
@@ -246,15 +250,15 @@ The Good player wins if the Mûmak has been slain and Haleth is still alive. The
 
 **SPECIAL RULES**
 
-***Spirit of the Ancestors*** - *Overcome by the battlefury of his forefathers, Haleth fights like the heroes of the old stories.*
+* **Spirit of the Ancestors**
 
 For the duration of this Scenario, Haleth gains the Fearless, Hatred (Mûmak) and Mûmakbane special rules.
 
-***Monstrous Rampage*** - *The homes and stables within the walls of Edoras are little more than dry kindling to the destructive power of the Southrons' monsters.*
+* **Monstrous Rampage**
 
 If the Mûmak comes into contact with a building whilst Trampling, rather than stopping it will inflict Impact Hits onto the building as if it were a model. Each building has a Defence of 8 and 3 Wounds and can only be Wounded by Impact Hits.
 
-***A Chance for Revenge*** - *As the eldest son of Helm stands triumphant, Wulf sees his chance to exact his revenge.*
+* **A Chance for Revenge**
 
 For the duration of the scenario, Wulf is armed with a bow. Additionally, Wulf must re-roll failed To Hit and To Wound rolls when making a Shooting Attack that targets Haleth.
 
@@ -286,15 +290,15 @@ The game lasts until one player has achieved their objective. The Good player wi
 
 **SPECIAL RULES**
 
-***Flee the City*** - *With Edoras lost to Wulf and his followers, the only hope that the people of Rohan have is to flee the city and regroup at the Hornburg.*
+* **Flee the City**
 
 If a Good model ends its Activation in base contact with the stables, remove it from play. This model has successfully escaped from Edoras and is riding towards safety.
 
-***A City Overrun*** - *More and more Hill Tribesmen are pouring into the city as Héra tries to lead her people to safety.*
+* **A City Overrun**
 
 Whenever an Evil model with the Warrior keyword is slain, put it to one side. At the end of each Evil Move Phase, roll a D6 for each model kept aside in this manner: on a 4+, that model may enter the battlefield from any point on the northern, eastern or southern board edge via the rules for Reinforcements.
 
-***Death's Door*** - *Helm has sustained severe injuries in an effort to reach his wounded son, and now hangs on by a thread. With arrows piercing his chest and blood filling his mouth, much of Helm's strength is spent.*
+* **Death's Door**
 
 Helm begins the game with no points of Fate. Additionally, for the duration of the scenario, Helm has his attacks reduced to 2 and loses the Into the Fray special rule.
 
@@ -328,15 +332,15 @@ The Good player wins if Helm is the only model remaining on the battlefield. The
 
 **SPECIAL RULES**
 
-**Night Watch** - *Whilst the Hill Tribesmen have placed sentries on watch, they believe Helm and his warriors to be trapped behind the walls of the Hornburg.*
+* **Night Watch**
 
 This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on page 136 of the *Middle-earth Strategy Battle Game Rules Manual*.
 
-**Escape!** - *As confusion washes through the camp, the Chieftain knows Wulf must be informed of what has transpired.*
+* **Escape!**
 
 Once the alarm has been raised, the Hill Tribes Chieftain may escape the battle by moving off the board via the northern board edge.
 
-***"Night after night, limb from limb"*** - *Thinking that Helm must have succumbed to his wounds by now, the Hill Tribesmen believe what they see before them to be the king's spirit seeking revenge for the destruction wrought by Wulf.*
+* **"Night after night, limb from limb"**
 
 For the duration of the Scenario, Helm has the Terror special rule.
 
@@ -370,11 +374,11 @@ The Good player wins if all of the Evil models have been slain. The Evil player 
 
 **SPECIAL RULES**
 
-**Unarmed** - *Having unwittingly followed her father into danger, Héra is unarmed when she stumbles across Shank and Wrot.*
+* **Unarmed**
 
 For the duration of the Scenario, Héra is Unarmed.
 
-**Caught Unawares** - *The last thing Héra expects to encounter in the caves beneath the Hornburg are a pair of Mordor Orcs.*
+* **Caught Unawares**
 
 The Evil player has Priority in the first turn.
 
@@ -408,11 +412,11 @@ The Good player wins if Héra manages to exit the board and Helm is still alive 
 
 **SPECIAL RULES**
 
-**Fierce Blizzard** - *The Long Winter is in full force. A howling gale bites at those outside, and the snow whips through the dark making visibility all but impossible.*
+* **Fierce Blizzard**
 
 Models cannot see further than 6" in this scenario, and shooting attacks will only ever hit on the roll of a natural 6. Additionally, Hero models may not declare a Heroic March.
 
-**Snowstorm** - *The combination of deep snow, swirling winds and the sheer cold makes trudging through the snowstorm an incredibly difficult task.*
+* **Snowstorm**
 
 At the beginning of each model's Activation, they must roll a D6 and consult the Snowstorm Chart below. This will dictate how far they can Move during their Activation, and any other restrictions that may apply. The effects last until the end of the turn. Hero models may use Might to improve this roll.
 
@@ -458,12 +462,20 @@ The game lasts for 10 turns, at which point the player who has scored the most S
 
 **SPECIAL RULES**
 
-**Bought and Paid for** - Should Wulf be slain or there be fewer than 32 Evil models remaining on the board at the beginning of a turn, the Evil Army will become Broken, even though an Army does not normally become Broken in Narrative Play Scenarios.
+* **Bought and Paid for**
 
-**The Marshal of the Mark** - Whilst they are within 12" of Fréaláf and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge. Lastly, Fréaláf counts as wearing heavy armour and gains the Fearless special rule for the duration of the Scenario.
+Should Wulf be slain or there be fewer than 32 Evil models remaining on the board at the beginning of a turn, the Evil Army will become Broken, even though an Army does not normally become Broken in Narrative Play Scenarios.
 
-**Commander of the Hill Tribes** - Friendly Dunland Warrior models treat General Targg as a banner with a range of 6".
+* **The Marshal of the Mark**
 
-**The Siege Tower** - Models may only move onto the siege tower walkway from within 1" of the centre of the board.
+Whilst they are within 12" of Fréaláf and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge. Lastly, Fréaláf counts as wearing heavy armour and gains the Fearless special rule for the duration of the Scenario.
+
+* **Commander of the Hill Tribes**
+
+Friendly Dunland Warrior models treat General Targg as a banner with a range of 6".
+
+* **The Siege Tower**
+
+Models may only move onto the siege tower walkway from within 1" of the centre of the board.
 
 ![](../media/scenarios/war_of_the_rohirrim/the_fate_of_rohan.jpg){ width=879 height=849 }

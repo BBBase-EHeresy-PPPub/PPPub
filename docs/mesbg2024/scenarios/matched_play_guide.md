@@ -1,7 +1,5 @@
 ## SCENARIO 1 - DOMINATION
 
-*This battlefield will provide a distinct tactical advantage for whoever holds it for many years to come. Victory can be achieved by forcing the enemy back and securing the key points on the battlefield. Failure will not be permitted!*
-
 **SCENARIO OUTLINE**
 
 Players fight to control five objectives scattered across the battlefield.
@@ -39,8 +37,6 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 ---
 
 ## SCENARIO 2 - TO THE DEATH!
-
-*Once again, fate has pitted the forces of Good and Evil against each other, and no matter the cost, the enemy must be slain. No quarter shall be asked and none shall be given. Only the Valar know who will win the day!*
 
 **SCENARIO OUTLINE**
 
@@ -83,8 +79,6 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 ## SCENARIO 3 - HOLD GROUND
 
-*In the swirl of battle it becomes apparent that a certain, usually insignificant, area of the battlefield has become vital to the victory of both sides. Both forces surge towards this new tactical advantage, desperate to control it.*
-
 **SCENARIO OUTLINE**
 
 Control the centre of the battlefield, no matter the cost.
@@ -120,15 +114,13 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**Maelstrom of Battle**
+* **Maelstrom of Battle**
 
 ![](../media/scenarios/matched_play_guide/hold_ground.jpg){ width=1000 height=681 }
 
 ---
 
 ## SCENARIO 4 - DESTROY THE SUPPLIES
-
-*By destroying the supplies and rations of their enemy, one force can gain an upper hand in the coming battles between the two armies.*
 
 **SCENARIO OUTLINE**
 
@@ -170,15 +162,15 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Supply Markers:** The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
+* **Supply Markers**
+
+The Objective Markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy Supply Marker, a model must be standing and in base contact with the marker during the End Phase of a turn having not cast any Magical Powers, used a Missile Weapon, been Engaged in Combat, Supported a Combat, been rendered unable to Move any further that turn due to a special rule or result of a test (such as a Thrown Rider Test) or been under the effects of an enemy Magical Power that turn. Once a Supply Marker has been destroyed, remove it from play.
 
 ![](../media/scenarios/matched_play_guide/destroy_the_supplies.jpg){ width=1000 height=681 }
 
 ---
 
 ## SCENARIO 5 - RECONNOITRE
-
-*Scouts have been sent out by both forces in order to gather vital information from behind enemy lines. Each force is attempting to sneak past the enemy whilst simultaneously preventing their foes from doing the same.*
 
 **SCENARIO OUTLINE**
 
@@ -215,7 +207,9 @@ Models that have escaped the board count as being on the board for the purpose o
 
 **SPECIAL RULES**
 
-**Reinforcements:** At the end of your Activation Phase, roll a D6 for each of your Warbands that are not on the battlefield and consult the chart below (the Warband's Captain can use Might to improve the roll). Models enter the board via the rules for Reinforcements.
+* **Reinforcements**
+
+At the end of your Activation Phase, roll a D6 for each of your Warbands that are not on the battlefield and consult the chart below (the Warband's Captain can use Might to improve the roll). Models enter the board via the rules for Reinforcements.
 
 Roll for each Warband separately. Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for determining if your Army is Broken.
 
@@ -231,8 +225,6 @@ Roll for each Warband separately. Activate the models in the Warband, then roll 
 ---
 
 ## SCENARIO 6 - FOG OF WAR
-
-*Amidst the maelstrom of the battle that rages, the two forces clash in an endless swirl of shields and swords. Battle plans constantly shift as the two generals become locked in a battle of wits, both trying to outdo the other.*
 
 **SCENARIO OUTLINE**
 
@@ -278,8 +270,6 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 ## SCENARIO 7 - CAPTURE & CONTROL
 
-*By holding key locations, both armies believe they can control the field of battle and force their enemy into defeat. Whoever earns victory this day will hold an advantage for many battles yet to come.*
-
 **SCENARIO OUTLINE**
 
 Control areas of the battlefield and deny them to your foe.
@@ -318,15 +308,15 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**Controlling Objectives:** At the start of the game, all of the objectives are considered to be neutral and do not belong to either side. If, during the End Phase of any turn, one or more of your models are in base contact with an objective, then that objective comes under your control. If, during the End Phase both sides have models in base contact with an objective, then that objective returns to being a neutral objective.
+* **Controlling Objectives**
+
+At the start of the game, all of the objectives are considered to be neutral and do not belong to either side. If, during the End Phase of any turn, one or more of your models are in base contact with an objective, then that objective comes under your control. If, during the End Phase both sides have models in base contact with an objective, then that objective returns to being a neutral objective.
 
 ![](../media/scenarios/matched_play_guide/capture_and_control.jpg){ width=1000 height=679 }
 
 ---
 
 ## SCENARIO 8 - BREAKTHROUGH
-
-*With their forces locked in a battle for supremacy, both sides know that if they can break through their enemy's lines they can seize a valuable strategic point from their foe.*
 
 **SCENARIO OUTLINE**
 
@@ -370,8 +360,6 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 ## SCENARIO 9 - STAKE A CLAIM
 
-*Warriors from both sides hastily dig in as the forces prepare to clash over this contested ground before the battle starts and the fighting becomes too fierce.*
-
 **SCENARIO OUTLINE**
 
 Players fight to secure a foothold in five key locations.
@@ -407,7 +395,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Establish Defences:** At the beginning of the End Phase of each turn, each player will score 1 Fortification Point for each Objective Marker that has both friendly and enemy models, but more friendly than enemy models, within 3". If a player has at least one of their models, and no enemy models, within 3" of an Objective Marker they will instead score 2 Fortification Points for that Objective Marker.
+* **Establish Defences**
+
+At the beginning of the End Phase of each turn, each player will score 1 Fortification Point for each Objective Marker that has both friendly and enemy models, but more friendly than enemy models, within 3". If a player has at least one of their models, and no enemy models, within 3" of an Objective Marker they will instead score 2 Fortification Points for that Objective Marker.
 
 ***Designer's Note:** For this Scenario, it is really important that players make sure they keep an accurate track of the number of Fortification Points they accumulate each turn as once the game finishes, it will be nigh on impossible to work it out retrospectively!*
 
@@ -416,8 +406,6 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 ---
 
 ## SCENARIO 10 - LORDS OF BATTLE
-
-*After weeks of skirmishes and close encounters, it comes down to one final battle to determine which faction will emerge victorious. As their enemies fall before them, warriors redouble their efforts to secure victory.*
 
 **SCENARIO OUTLINE**
 
@@ -456,15 +444,13 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**A Time of Heroes**
+* **A Time of Heroes**
 
 ![](../media/scenarios/matched_play_guide/lords_of_battle.jpg){ width=1000 height=681 }
 
 ---
 
 ## SCENARIO 11 - ASSASSINATION
-
-*For the opposing forces, there are certain enemies that pose a thorn in their side. Their swift removal from the equation is crucial to one side achieving victory on the battlefield.*
 
 **SCENARIO OUTLINE**
 
@@ -504,19 +490,21 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**Dark of Night**
+* **Dark of Night**
 
-**The Target:** At the start of the game, secretly note down one of your opponent's Hero models; this is your Target for the game. This may not be your opponent's General unless they only have one Hero.
+* **The Target**
 
-**The Assassin:** At the start of the game, secretly note down one of your Hero models; this is your Assassin. This may not be your General unless you only have one Hero.
+At the start of the game, secretly note down one of your opponent's Hero models; this is your Target for the game. This may not be your opponent's General unless they only have one Hero.
+
+* **The Assassin**
+
+At the start of the game, secretly note down one of your Hero models; this is your Assassin. This may not be your General unless you only have one Hero.
 
 ![](../media/scenarios/matched_play_guide/assassination.jpg){ width=1000 height=679 }
 
 ---
 
 ## SCENARIO 12 - CONTEST OF CHAMPIONS
-
-*It is in the arena of combat that the champions of the light and heralds of the darkness must prove who is the mightier - their efforts serving to spur on their troops, break the spirit of their enemies and ultimately lead to victory.*
 
 **SCENARIO OUTLINE**
 
@@ -560,17 +548,17 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**A Time of Heroes**
+* **A Time of Heroes**
 
-**Stand and Fight:** At the start of every Move Phase, the Champion that currently has scored the fewest number of kills, see the first bullet point of Scoring Victory Points above, may declare a Heroic Move for free during that Move Phase. If they do, they must Charge an enemy model.
+* **Stand and Fight**
+
+At the start of every Move Phase, the Champion that currently has scored the fewest number of kills, see the first bullet point of Scoring Victory Points above, may declare a Heroic Move for free during that Move Phase. If they do, they must Charge an enemy model.
 
 ![](../media/scenarios/matched_play_guide/contest_of_champions.jpg){ width=1000 height=679 }
 
 ---
 
 ## SCENARIO 13 - HEIRLOOM OF AGES PAST
-
-*Two armies clash whilst in search of a long-buried heirloom from ages past. However, the one to find the relic should take heed, for the malign power of this mysterious object can easily corrupt the one who carries it.*
 
 **SCENARIO OUTLINE**
 
@@ -608,9 +596,11 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Maelstrom of Battle**, **Heirloom of Power**
+* **Maelstrom of Battle**, **Heirloom of Power**
 
-**Uncovering the Heirloom:** Only one of the Objective Markers is actually the Heirloom that both sides seek. The first time each turn an unengaged Infantry model ends its movement in base contact with each objective, they may search it in an attempt to uncover the Heirloom. When this happens, flip the Objective Marker over and reveal it to both players.
+* **Uncovering the Heirloom**
+
+Only one of the Objective Markers is actually the Heirloom that both sides seek. The first time each turn an unengaged Infantry model ends its movement in base contact with each objective, they may search it in an attempt to uncover the Heirloom. When this happens, flip the Objective Marker over and reveal it to both players.
 
 If the Objective Marker is one of the five decoys, remove it from play. If the Objective Marker is the Heirloom, the model that searched for it will immediately gain possession of it.
 
@@ -621,8 +611,6 @@ If at the end of the game the Heirloom has not been uncovered, flip any remainin
 ---
 
 ## SCENARIO 14 - SITES OF POWER
-
-*There are many places across Middle-earth where old magic still clings to ancient sites. Although their power has waned, the protective wards that remain are still potent enough to deflect an arrow or turn aside a deadly blow.*
 
 **SCENARIO OUTLINE**
 
@@ -659,7 +647,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 Dark of Night, Maelstrom of Battle
 
-**Strange Aura:** At the beginning of the Priority Phase of each turn, roll a D6 and consult the table below to determine what effect the sites of power have on those around them until the end of the turn.
+* **Strange Aura**
+
+At the beginning of the Priority Phase of each turn, roll a D6 and consult the table below to determine what effect the sites of power have on those around them until the end of the turn.
 
 | D6 | Result |
 |---|---|
@@ -672,8 +662,6 @@ Dark of Night, Maelstrom of Battle
 ---
 
 ## SCENARIO 15 - COMMAND THE BATTLEFIELD
-
-*Two enemy forces are embroiled in a deadlock on the battlefield. Only by gaining control of the ground they are fighting upon can either side hope to claim victory.*
 
 **SCENARIO OUTLINE**
 
@@ -708,17 +696,17 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Maelstrom of Battle**
+* **Maelstrom of Battle**
 
-**Worthless Land:** The centre of the battlefield provides very little tactical value, and so is not much use to either force. Models wholly within 12" of the centre of the battlefield do not count as being in any quarter of the battlefield for working out Victory Points.
+* **Worthless Land**
+
+The centre of the battlefield provides very little tactical value, and so is not much use to either force. Models wholly within 12" of the centre of the battlefield do not count as being in any quarter of the battlefield for working out Victory Points.
 
 ![](../media/scenarios/matched_play_guide/command_the_battlefield.jpg){ width=1000 height=681 }
 
 ---
 
 ## SCENARIO 16 - RETRIEVAL
-
-*Both forces have claimed something of value from their enemy, and will have to fight to reclaim what is rightfully theirs.*
 
 **SCENARIO OUTLINE**
 
@@ -759,15 +747,15 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**The Relic:** Each Relic is a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). A Relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If your Relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then you must try to return it to its original position as quickly as possible. A model may never carry both Relics at the same time under any circumstances, and if they are carrying their opponent's Relic they may entirely ignore their own Relic and continue to move as normal. Until it has been picked up by an enemy model, friendly models may not pick up their own Relic.
+* **The Relic**
+
+Each Relic is a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). A Relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If your Relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then you must try to return it to its original position as quickly as possible. A model may never carry both Relics at the same time under any circumstances, and if they are carrying their opponent's Relic they may entirely ignore their own Relic and continue to move as normal. Until it has been picked up by an enemy model, friendly models may not pick up their own Relic.
 
 ![](../media/scenarios/matched_play_guide/retrieval.jpg){ width=1000 height=671 }
 
 ---
 
 ## SCENARIO 17 - SEIZE THE PRIZES
-
-*Across Middle-earth, ancient and mysterious artefacts have awoken. Their power has drawn two opposing armies to claim them, hoping to use their secrets for their own ends. Both forces will stop at nothing to possess them.*
 
 **SCENARIO OUTLINE**
 
@@ -805,15 +793,13 @@ The game lasts until either all three Artefacts have been carried off the board,
 
 **SPECIAL RULES**
 
-**Uncovering Artefacts**
+* **Uncovering Artefacts**
 
 ![](../media/scenarios/matched_play_guide/seize_the_prizes.jpg){ width=1000 height=671 }
 
 ---
 
 ## SCENARIO 18 - TREASURE HOARD
-
-*There are many sites in Middle-earth where ancient kings have been laid to rest, often alongside vast hoards of gold. However, extracting such riches from their resting place can prove to be difficult, especially in the midst of battle!*
 
 **SCENARIO OUTLINE**
 
@@ -850,15 +836,13 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Uncovering Artefacts**
+* **Uncovering Artefacts**
 
 ![](../media/scenarios/matched_play_guide/treasure_hoard.jpg){ width=1000 height=670 }
 
 ---
 
 ## SCENARIO 19 - STORM THE CAMP
-
-*With the surrounding land of such great strategic value, encampments are quickly established as both sides seek to strengthen their claim. However, with neither side willing to yield, the two armies are forced to meet in battle.*
 
 **SCENARIO OUTLINE**
 
@@ -893,7 +877,9 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**The Campsite:** The Campsites are the deployment areas of the two armies. A Campsite is captured if at the end of the game you have more models wholly within your opponent's Campsite than they do.
+* **The Campsite**
+
+The Campsites are the deployment areas of the two armies. A Campsite is captured if at the end of the game you have more models wholly within your opponent's Campsite than they do.
 
 Models that are within their own Campsite will defend it at all costs. Any model that is within its own Campsite at the start of a turn will automatically pass any Courage Tests it is required to make for the remainder of that turn.
 
@@ -902,8 +888,6 @@ Models that are within their own Campsite will defend it at all costs. Any model
 ---
 
 ## SCENARIO 20 - DIVIDE & CONQUER
-
-*With battle having divided their forces, each army must now fight to rejoin their allies, all whilst trying to claim key areas of the battlefield to ensure they will win the day.*
 
 **SCENARIO OUTLINE**
 
@@ -949,8 +933,6 @@ At the end of the game, the Army that has scored the most Victory Points wins th
 
 ## SCENARIO 21 - ESCORT THE WOUNDED
 
-*After suffering heavy casualties, the two forces are keen to return to safety where their wounded can be treated and the weary find rest. It would appear however, that the fight is not over, and the number of wounded may yet grow.*
-
 **SCENARIO OUTLINE**
 
 Deliver your wounded allies to safety, whilst preventing the enemy from doing the same.
@@ -988,17 +970,19 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**The Sanctuary:** The areas within 12" of the corners that are not in a player's deployment zone are considered to be that player's Sanctuaries. These are the places where they are trying to get their wounded allies.
+* **The Sanctuary**
 
-**Wounded Allies:** The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
+The areas within 12" of the corners that are not in a player's deployment zone are considered to be that player's Sanctuaries. These are the places where they are trying to get their wounded allies.
+
+* **Wounded Allies**
+
+The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
 
 ![](../media/scenarios/matched_play_guide/escort_the_wounded.jpg){ width=1000 height=670 }
 
 ---
 
 ## SCENARIO 22 - CLASH BY MOONLIGHT
-
-*Two opposing forces have happened upon each other in the dead of night, thrusting them into an impromptu battle. The darkness makes for an unusual engagement, providing both forces with greater options for stealth.*
 
 **SCENARIO OUTLINE**
 
@@ -1037,15 +1021,13 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**Dark of Night**
+* **Dark of Night**
 
 ![](../media/scenarios/matched_play_guide/clash_by_moonlight.jpg){ width=1000 height=671 }
 
 ---
 
 ## SCENARIO 23 - LEAD FROM THE FRONT
-
-*During the most desperate battles, it is the actions of an army's leaders that make the difference between victory and defeat. Even the presence of fresh-faced captains can be enough to secure victory when all seems lost.*
 
 **SCENARIO OUTLINE**
 
@@ -1083,15 +1065,13 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-**A Time of Heroes**
+* **A Time of Heroes**
 
 ![](../media/scenarios/matched_play_guide/lead_from_the_front.jpg){ width=1000 height=671 }
 
 ---
 
 ## SCENARIO 24 - CONVERGENCE
-
-*An ancient power has awoken, prompting a desperate scramble to control it. In their haste to reach the site before the enemy, armies have become divided and must reunite on the battlefield in order to emerge victorious.*
 
 **SCENARIO OUTLINE**
 
@@ -1132,6 +1112,6 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-**Heirloom of Power**
+* **Heirloom of Power**
 
 ![](../media/scenarios/matched_play_guide/convergence.jpg){ width=1000 height=671 }

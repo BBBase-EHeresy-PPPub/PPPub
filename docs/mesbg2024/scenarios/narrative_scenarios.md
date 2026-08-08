@@ -24,17 +24,17 @@ The Good player wins if they can slay all of the Trolls before daybreak. The Evi
 
 **SPECIAL RULES**
 
-***"The dawn will take you all!"*** - *Gandalf shatters the rocks hiding the early morning sun, bathing the clearing and the Trolls in sunlight.*
+* **"The dawn will take you all!"**
 
 At the end of the sixth turn, the sun will begin to rise. However, Gandalf will still need to destroy the rocky outcrop that is shrouding the clearing in darkness, if he is to save the company from being eaten.
 
 At the start of turn seven, and each turn thereafter, roll a D6. On a 4+, Gandalf has broken the rocks surrounding the clearing, flooding the camp in sunlight and petrifying the Trolls.
 
-***"I said drop him!"*** - *Kíli bravely rushes to Bilbo's aid, with the rest of the company close behind.*
+* **"I said drop him!"**
 
 At the end of the Good player's first Activation Phase, roll a D6 for each Thorin's Company model not on the board. On a 3+, they enter the board from the centre of the western board edge via the rules for Reinforcements. Any Dwarves that do not arrive at this time will instead enter from the centre of the western board edge at the end of the Good player's second Activation Phase.
 
-***"A Burrahobbit?"*** - *Having never encountered a Hobbit before, the Trolls are unsure of what to make of Bilbo's sudden appearance in their camp.*
+* **"A Burrahobbit?"**
 
 The Trolls may not make Strikes against Bilbo until the start of the third turn, or until Bilbo Charges one of them.
 
@@ -66,23 +66,23 @@ At the beginning of the game, the Evil player must nominate a board edge. This i
 
 **SPECIAL RULES**
 
-***"Take Up Arms"*** - *The Dwarves' weapons have been confiscated by the Goblins and now lie in a heap in front of them.*
+* **"Take Up Arms"**
 
 Each of the Dwarves will begin the game Unarmed. If any of the Dwarves Moves into base contact with the Weapon Marker at any point during their Activation, they will be able to recover the weapons listed in their Wargear.
 
-***"A Wizard is Never Late"*** - *Gandalf has returned just in time to aid the Dwarves in their escape.*
+* **"A Wizard is Never Late"**
 
 At the end of the Good player's second Activation Phase, roll a D6 to see who chooses where Gandalf enters play. On a 1-3, the Evil player places Gandalf; on a 4-6, the Good player places him. Gandalf must be placed on a walkway, touching any board edge.
 
-***"Kill Them All!"*** - *As the Dwarves make their escape, more and more Goblins flood onto the walkways.*
+* **"Kill Them All!"**
 
 At the end of each of the Evil player's Activation Phases, the Evil player may nominate D6 previously slain Goblin Warrior models. The nominated models may then Move onto the battlefield from any board edge via the rules for Reinforcements.
 
-***Bottomless Pits*** - *The ramshackle pathways of Goblin-town span impossibly-deep chasms and cracks in the rock.*
+* **Bottomless Pits**
 
 Any model that is pushed off of a platform or rocky outcrop, or who fails to jump from one platform to another, and if there is no platform or outcrop for them to land on, is automatically removed as a casualty.
 
-***"I know that sword!"*** - *The Goblin King is caught off guard by the unexpected presence of both Orcrist and Glamdring.*
+* **"I know that sword!"**
 
 In the first turn of the game, the Goblin King may not Move or declare Heroic Actions.
 
@@ -114,19 +114,19 @@ The game lasts until all of the Dwarf Markers, Thorin and Bilbo are no longer on
 
 **SPECIAL RULES**
 
-***Rescuing the Dwarves*** - *The Dwarves are in desperate need of assistance. Thankfully, Gandalf has called upon some winged friends for aid.*
+* **Rescuing the Dwarves**
 
 Before the game starts, each player takes it in turn to nominate a total of five trees, starting with the Good player. These are the trees where the Dwarves and Bilbo are hiding; place a Dwarf Marker beside each tree to remind you. At the end of each Good Activation Phase, any Eagle model not Engaged in Combat may pick up a Dwarf Marker it is in base contact with as if it were a Light Object. Thorin and Bilbo may be carried in the same way. If an Eagle model leaves the board whilst carrying a Dwarf Marker, Thorin or Bilbo, then they are considered rescued.
 
-***Friends on Swift-wings*** - *After hearing Gandalf's plea, the Eagles have flown down from their lofty perch to aid in the Dwarves' escape.*
+* **Friends on Swift-wings**
 
 The Eagles enter the board from the northern or southern board edge at the end of the Good player's second Activation Phase via the rules for Reinforcements. Any Great Eagle that leaves the board carrying a Dwarf Marker, Thorin or Bilbo, or that was previously slain, may re-enter the board at the end of the Good player's next Activation Phase from either the northern or southern board edge via the rules for Reinforcements. If an Eagle model is carrying a Dwarf Marker, Thorin or Bilbo, it may not use Brutal Power Attacks. If an Eagle model is slain whilst carrying a Dwarf Marker, Thorin or Bilbo, then they are lost and are considered to be slain.
 
-***Thorin's Wrath*** - *Thorin's blood boils and reason leaves him at the sight of an enemy he believed to be long dead.*
+* **Thorin's Wrath**
 
 When Thorin Moves, he must always Charge an enemy model if possible; prioritising Azog if able. If when Thorin Moves he cannot Charge an enemy model, then he must Move as close as possible to Azog. Additionally, until Thorin suffers a Wound, he gains the Fearless special rule.
 
-***Bilbo*** - *Seeing Thorin advance recklessly towards the Pale Orc, Bilbo leaves the safety of the trees in order to help him.*
+* **Bilbo**
 
 At the start of any Fight Phase, the Good player may place Bilbo in base contact with any model Engaged in Combat with Thorin. If Bilbo enters the battlefield in this way, he must also be rescued by the Eagles (otherwise he counts as having been rescued along with one of the other Dwarf Markers).
 
@@ -160,17 +160,17 @@ The game will last until the end of a turn in which one player completes their o
 
 **SPECIAL RULES**
 
-**Brave Master Baggins** - *Emboldened by his recent experiences in Goblin-town, and with the Elven blade Sting in hand, Bilbo is ready to take the fight to the spiders.*
+* **Brave Master Baggins**
 
 In a turn in which Bilbo Charges, he receives +1 Fight Value and +1 Attack until the End Phase of the turn. Additionally, Bilbo's Thrown Stones become a throwing weapon with a Strength of 1, instead of following the normal rules for Thrown Stones.
 
-**The Power of the Ring** - *Whilst wearing his newly acquired magic ring, Bilbo is able to slip past the spiders mostly unnoticed.*
+* **The Power of the Ring**
 
 Each turn, at the start of each Mirkwood Giant Spider's Activation it must take an Intelligence Test. If the test is passed, the Evil player may Move that Mirkwood Giant Spider D6". If the test is failed, the Good player may move that Mirkwood Giant Spider D6" instead.
 
 Spiders may not be Moved off the battlefield and must always Move the full amount rolled, stopping only if they move into base contact with Bilbo. If a Spider does Move into base contact with Bilbo, it will count as having Charged him. Once Bilbo has been Charged by a Mirkwood Giant Spider, any other Mirkwood Giant Spiders yet to move will automatically pass their Intelligence Test for that turn.
 
-**Caught in a Web** - *The Dwarves are bound tightly by the spiders' webbing - without Bilbo's help, they are in grave danger.*
+* **Caught in a Web**
 
 If Bilbo is touching a Marker in the End Phase, the Good player rolls a D6. On a 3+, the Evil player must remove the Marker and reveal if it contained any Dwarves.
 
@@ -202,15 +202,15 @@ The game lasts for 12 turns. If at the end of 12 turns there are still 10 or mor
 
 **SPECIAL RULES**
 
-**Haze of Mirkwood** - *The thick, oppressive air of the forest has addled the Dwarves' minds, leaving them groggy and dazed.*
+* **Haze of Mirkwood**
 
 At the start of each Dwarf model's Activation, roll a D6. On a 4+, they may Activate as normal. On a 1-3, they may not Activate that turn, may only roll a single dice for a Duel Roll and cannot make Strikes.
 
-**The Rangers** - *Following the sounds of battle, the patrol of Mirkwood Rangers rushes into the clearing to destroy the Spiders and capture the Dwarves.*
+* **The Rangers**
 
 At the end of the Good player's fourth Move Phase, they may move Legolas, Tauriel and the Mirkwood Rangers onto the board as Reinforcements from any board edge.
 
-**The Spider's Nest** - *The company has unknowingly stumbled deep into the nesting area of the Mirkwood Spiders. For each Spider they slay, a new one quickly scuttles into view.*
+* **The Spider's Nest**
 
 Any Mirkwood Giant Spiders that are slain should be put to one side. At the start of each Priority Phase, before Priority is rolled, the Evil player may place any previously slain Mirkwood Giant Spiders onto the board at least 10" away from any Good models. These Spiders may act as normal.
 
@@ -242,17 +242,17 @@ The game will last until the end of a turn in which one player completes their o
 
 **SPECIAL RULES**
 
-**Silent Assassins** - *The Orcs are creeping around Lake-town as quietly as possible, and so not all of them are aware of Legolas, hunting them down.*
+* **Silent Assassins**
 
 At the start of the game, only the Orcs in section D may act as normal. All other Evil models act as Sentries, though they may not Move out of their section until they are aware of Legolas.
 
 The alarm is not raised as normal in this Scenario. Instead, if an Evil model from a section that may act as normal Moves into base contact with an Evil model that is currently acting as a Sentry, then the alarm is immediately raised in that section - though not in any others that are still Sentries. Additionally, if Legolas Charges or Shoots at a model acting as a Sentry, and the model has not been removed as a casualty by the End Phase of the turn, then the alarm is raised in that section as described above.
 
-**Legolas' Fury** - *Legolas is determined to fell every single Orc that has slunk into Lake-town, and will show no mercy.*
+* **Legolas' Fury**
 
 In this Scenario Legolas increases his Attacks to 3 and his Fight Value to 7.
 
-**The Spawn of Azog** - *Though Bolg has his instructions to report back to his master, his arrogance and desire to spill blood means he won't leave without crossing blades with the Elven prince.*
+* **The Spawn of Azog**
 
 Bolg has 3 Fate Points in this Scenario. Additionally, whilst he has all of his Wounds remaining Bolg may not leave the board and when he Activates Bolg must always Charge Legolas if possible (unless he is still acting as a Sentry, of course). However, if Bolg is ever reduced to a single Wound then he is considered to be seriously injured. If Bolg escapes the board whilst he is seriously injured then the best result the Evil player can achieve is a draw.
 
@@ -286,23 +286,23 @@ The game lasts until one side has wiped out the opposing force, at which point t
 
 **SPECIAL RULES**
 
-**Smaug's Descent** - *Having circled the township of Esgaroth, Smaug is now ready to unleash his full fury upon the town.*
+* **Smaug's Descent**
 
 At the end of the Evil player's first Activation Phase, Smaug may Move onto the board at any point on the northern board edge via the rules for Reinforcements.
 
-**The Black Arrow** - *Bain has recovered the Black Arrow from its hiding place, and must now deliver it to his father so that Bard can slay the beast.*
+* **The Black Arrow**
 
 Bain starts the game in possession of the Black Arrow, which is a Light Object. If both Bard and a model carrying the Black Arrow are in the same tower, Bard may fire the Black Arrow as if he was firing the Windlance, and will still benefit from the Black Arrow special rule. Bard may still fire the Black Arrow even if he has Moved this turn.
 
-**A Dragon's Wrath** - *Smaug is focussed only on destroying Lake-town, and pays little attention to those running for their lives on its walkways.*
+* **A Dragon's Wrath**
 
 Good Hero models gain the Stalk Unseen special rule. However, any Hero model in one of the towers will lose this special rule whilst they remain in one of the towers.
 
-**Bard's Destiny** - *This is Bard's defining moment; the moment where he will either go down in history as the Dragon Slayer or perish along with his loved ones.*
+* **Bard's Destiny**
 
 Bard gains the Mighty Hero special rule. Additionally, Bard may ignore the rule where if one of his family is slain then he must Charge the model that killed them if possible - he is already trying to slay the Dragon after all!
 
-**The Waters of the Long Lake** - *Esgaroth sits upon the Long Lake, and the waters could help douse the flames that now engulf Lake-town.*
+* **The Waters of the Long Lake**
 
 The water is always Deep Water. Additionally, any model that has been Set Ablaze that enters the water for any reason will no longer be Set Ablaze.
 
@@ -334,23 +334,23 @@ Whichever side wipes out their opponent first is declared the winner, and shall 
 
 **SPECIAL RULES**
 
-**The Trap is Sprung** - *Azog withdrew his forces out of sight, hoping to split the Dwarves up and catch them by surprise.*
+* **The Trap is Sprung**
 
 The Evil player has Priority on the first turn.
 
-**The Last Stand** - *Thorin and Azog are ready to settle their score once and for all, and both warriors are willing to fight to the death to see the other destroyed.*
+* **The Last Stand**
 
 Hero models may not declare Heroic Strikes.
 
-**Orcrist** - *Though Legolas took Orcrist from the Dwarves in Mirkwood, he will return it to Thorin should his need be great.*
+* **Orcrist**
 
 At the start of any Fight Phase, before the Declare Heroic Actions Step, if Legolas is within 6" of Thorin, and Thorin is Engaged in Combat with an enemy Hero model, then Legolas can throw Orcrist to Thorin. From that point on, Thorin carries Orcrist instead of Legolas.
 
-**Treacherous Ice** - *The frozen river is enough to make even the most sure-footed of warriors slip and fall in the chaos of battle.*
+* **Treacherous Ice**
 
 Any model that Moves on the frozen river during their Activation, and ends its Move on the river, must roll a D6. On a 1, the model loses its footing and is immediately Knocked to the Ground.
 
-**The Price of Grief** - *Legolas cares greatly for Tauriel and would be enraged should any harm come to her.*
+* **The Price of Grief**
 
 If Tauriel is slain, Legolas immediately increases his Fight Value to 7 and his Attacks to 3.
 
@@ -401,25 +401,25 @@ The game lasts until one force has been reduced to 25% of its starting numbers. 
 
 **SPECIAL RULES**
 
-**Forth from Gundabad** - *Whilst the Battle of Five Armies has been raging, Bolg has been marching an army from Gundabad to join the melee.*
+* **Forth from Gundabad**
 
 At the end of the Evil player's fifth Activation Phase, the Evil player moves Bolg, the Gundabad Berserkers, the Goblin Mercenaries and the War Bats onto the board from any point on the northern board edge that is within 36" of the western board edge via the rules for Reinforcements.
 
-**"The Eagles are Coming!"** - *Called to battle by Radagast, the allies of the Free Peoples, both bird and beast, join the battle.*
+* **"The Eagles are Coming!"**
 
 At the end of the Good player's seventh Activation Phase, the Good player moves Radagast, Gwaihir and the Great Eagles onto the board from any point on the northern board edge via the rules for Reinforcements.
 
-**Beorn** - *Ferried to battle upon the back of his avian allies, Beorn thrusts himself into the battle with unrivalled fury.*
+* **Beorn**
 
 Beorn enters the board as a passenger on the back of any of the Great Eagles (not Gwaihir or the one carrying Radagast) and follows the normal rules for Passengers, with the exception that Beorn may both Move and Charge on the turn he dismounts.
 
 Beorn may not transform into a bear whilst mounted upon this eagle, but will automatically transform as soon as he dismounts.
 
-**Bofur, the Troll Rider** - *Working with the other members of the company, Bofur clambers atop one of the fearsome Troll Brutes and takes control of the war beast.*
+* **Bofur, the Troll Rider**
 
 If Bofur is Engaged in Combat with the Troll Brute and the Good player wins the Combat, then the Good player may choose for Bofur to take control of the Troll Brute. Remove Bofur from play (note, he does not count as a casualty). From this point on, the Troll Brute is treated as a Good model and is controlled by the Good player with Bofur as its commander.
 
-**The Signal Tower** - *Azog's signal tower can be seen high above the battlefield, giving out orders and inspiring the Orcs of Gundabad onwards.*
+* **The Signal Tower**
 
 In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on page 147 of *Armies of The Hobbit*.
 
@@ -453,15 +453,15 @@ The game lasts until one side has completed their objective. The Evil player win
 
 **SPECIAL RULES**
 
-**Flaming Brands** - *With the Nazgûl having arrived, the Hobbits have picked up flaming brands to protect themselves.*
+* **Flaming Brands**
 
 Aragorn, Sam, Merry and Pippin have flaming brands in this scenario in addition to their normal wargear. If a Ringwraith loses a Combat against a model with a flaming brand, then after Backing Away they will retreat D6" away from that model, in a direction chosen by their controlling player. Additionally, once per game, Aragorn may choose to use his flaming brand as a throwing weapon. If Aragorn hits with this flaming brand do not roll To Wound; instead the hit model is automatically Set Ablaze. Once Aragorn has thrown his flaming brand, remove it from his wargear.
 
-**Aragorn** - *Aragorn has been scouting ahead and foraging for food; only by hearing the cries of the Hobbits will he know to return to protect them.*
+* **Aragorn**
 
 From turn 2 onwards, the Good player may roll a D6 at the end of each of their Activation Phases. On a 4+, Aragorn has arrived; place him in base contact with any edge of Amon Sûl. Aragorn may not Activate during the Activation Phase, but may otherwise act normally.
 
-**Cry of the Nazgûl** - *The piercing cry of the Nazgûl is enough to freeze the hearts of all who hear it.*
+* **Cry of the Nazgûl**
 
 Once per game, at the start of any Move Phase, the Evil player can declare they are unleashing the screech of the Nazgûl. If they do, then until the End Phase of the turn all Good models suffer an additional -3 to any Courage Tests they are required to take. If this is used before Aragorn has arrived, he will automatically arrive this turn.
 
@@ -493,15 +493,15 @@ The game lasts for 10 turns. The Good player wins if at least five members of th
 
 **SPECIAL RULES**
 
-**The Goblin Tide** - *Quite how many Goblins have swarmed the tomb is unknown, and more constantly find their way to the battle.*
+* **The Goblin Tide**
 
 Whenever a Goblin Warrior is slain, keep it to one side. At the end of each of the Evil player's Activation Phases, each Goblin Warrior kept aside in this manner may re-enter the board from one of the entry points. Up to one Goblin may enter from each trapdoor (providing no Good model is stood upon it), up to two Goblin models may enter from the well, and any others may enter via the doorway. Any Goblin models that cannot enter the board may try again next turn. Goblin models that arrive in this manner may Activate as normal when they enter the board, and may Charge if they wish.
 
-**"They have a Cave Troll!"** - *It is not just hordes of Goblins that have attacked the Fellowship, but also a fearsome Cave Troll that has been led into battle.*
+* **"They have a Cave Troll!"**
 
 At the beginning of the Evil player's fourth Activation Phase, the Cave Troll may Move onto the board via the doorway, and may Activate and Charge as normal. During the turn it enters the board, the Cave Troll may Move 'through' friendly models. Any Goblin Moved through immediately suffers a Strength 3 hit, and any Goblin that the Cave Troll finishes its Move on is automatically slain.
 
-**Troll Rampage** - *The Cave Troll that bursts through the doorway of Balin's Tomb has been whipped into a frenzy, and is about to unleash its full ferocity upon the Fellowship.*
+* **Troll Rampage**
 
 The Cave Troll gains a bonus of +1 to its Fight Value during a turn in which it Charges.
 
@@ -539,9 +539,13 @@ The game lasts until Frodo leaves the board under any circumstance. The Good pla
 
 **SPECIAL RULES**
 
-**"Find the Halflings!"** - Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the Paralyse Magical Power. Evil models treat a knocked out Hobbit as a Heavy Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation Prone. Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
+* **"Find the Halflings!"**
 
-**The Legions of Isengard** - At the start of each of the Evil player's Activation Phases, they may roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, southern or eastern board edges via the rules for Reinforcements.
+Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the Paralyse Magical Power. Evil models treat a knocked out Hobbit as a Heavy Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation Prone. Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
+
+* **The Legions of Isengard**
+
+At the start of each of the Evil player's Activation Phases, they may roll a D6 for each Evil Warrior that has previously been slain. On a 4+, that model may enter play anywhere along the northern, southern or eastern board edges via the rules for Reinforcements.
 
 ![](../media/scenarios/narrative_scenarios/lotr_the_fellowship_of_the_ring/amon_hen.jpg){ width=857 height=864 }
 
@@ -573,13 +577,21 @@ The game lasts until the end of a turn in which one side has been reduced to 25%
 
 **SPECIAL RULES**
 
-**Surprise Attack** - Evil models may not Move during the first turn of the game.
+* **Surprise Attack**
 
-**Merry and Pippin** - Merry and Pippin begin the game Prone and bound. Whilst bound, the Hobbits may only Move by crawling and may not Charge. Enemy models may not Charge Merry or Pippin - they have far bigger problems to worry about after all! Merry and Pippin do not have a Control Zone and may ignore enemy Control Zones and may Move through enemy models without penalty; though they may not finish their Move overlapping an enemy model's base. Enemy models may Move through Merry and Pippin in the same way - we assume they walk over the Hobbits or push them out of the way.
+Evil models may not Move during the first turn of the game.
 
-**"Their bonds were cut"** - At the end of each of Merry and Pippin's Activations, they may roll a D6. On the roll of a 6, they successfully cut their bonds and are no longer Prone. If when one of the Hobbits makes this roll they are in base contact with the other Hobbit, who is not bound themselves, they receive a bonus of +1 to this roll.
+* **Merry and Pippin**
 
-**Grishnákh** - Grishnákh follows the same rules for Movement as the Hobbits, except that he crawls 3" and cannot cut his bonds as he is not bound. Grishnákh is the only model that can Charge the Hobbits, and he will fight them in the Fight Phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are both Prone; ignoring the rules for being Prone. Additionally, as he is wounded, Grishnákh begins the game with only a single point of Might, Will and Fate, and only has 1 Attack.
+Merry and Pippin begin the game Prone and bound. Whilst bound, the Hobbits may only Move by crawling and may not Charge. Enemy models may not Charge Merry or Pippin - they have far bigger problems to worry about after all! Merry and Pippin do not have a Control Zone and may ignore enemy Control Zones and may Move through enemy models without penalty; though they may not finish their Move overlapping an enemy model's base. Enemy models may Move through Merry and Pippin in the same way - we assume they walk over the Hobbits or push them out of the way.
+
+* **"Their bonds were cut"**
+
+At the end of each of Merry and Pippin's Activations, they may roll a D6. On the roll of a 6, they successfully cut their bonds and are no longer Prone. If when one of the Hobbits makes this roll they are in base contact with the other Hobbit, who is not bound themselves, they receive a bonus of +1 to this roll.
+
+* **Grishnákh**
+
+Grishnákh follows the same rules for Movement as the Hobbits, except that he crawls 3" and cannot cut his bonds as he is not bound. Grishnákh is the only model that can Charge the Hobbits, and he will fight them in the Fight Phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are both Prone; ignoring the rules for being Prone. Additionally, as he is wounded, Grishnákh begins the game with only a single point of Might, Will and Fate, and only has 1 Attack.
 
 ![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/ambush_at_night.jpg){ width=847 height=852 }
 
@@ -609,15 +621,15 @@ The game lasts until one side has completed their objective. The Good player win
 
 **SPECIAL RULES**
 
-**Flaming Arrows** - *The Ents of Fangorn are highly susceptible to fire, a fact that the Orcs of Isengard will use to their advantage by setting their arrows alight before unleashing them upon their foe.*
+* **Flaming Arrows**
 
 If an Orc makes a shooting attack against an Ent and scores a natural 6 To Hit, and then subsequently Wounds their target, then the Ent will suffer 2 Wounds rather than 1 and will immediately become Set Ablaze.
 
-**"Bring them down!"** - *By utilising ropes and their weight of numbers, the Orcs can topple the Ents, allowing for their comrades to set upon them from ground level.*
+* **"Bring them down!"**
 
 If an Ent loses a Combat against at least 3 Evil models, then the Evil player may choose to have the Orcs try and bring down the Ent instead of making Strikes. If they do, then no Strikes are made against the Ent. Instead, the Evil player rolls a D6 for each of their models that was Engaged in Combat with the Ent. If any natural 6's are rolled, then the Ent is immediately knocked Prone.
 
-**"Release the River!"** - *Only by breaking the dam can the Ents flood the factories of Isengard, inflicting defeat upon the White Wizard.*
+* **"Release the River!"**
 
 The dam has a Defence of 10 and 5 Wounds, and can only be harmed in Combat.
 
@@ -669,13 +681,21 @@ The Siege of Helm's Deep is a huge battle fought across the entire fortress; as 
 
 **SPECIAL RULES**
 
-**Ride Out** - At the start of the 8th turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a horse (or a named horse if relevant) may immediately gain a Mount.
+* **Ride Out**
 
-**The Deeping Wall** - If a Demolition Charge is successfully detonated whilst within 3" of the culvert of Helm's Deep, the removable section of the Deeping Wall is removed from play. Any model on that part of the wall immediately suffers a Strength 9 hit and will suffer falling damage as described in the Middle-earth Strategy Battle Game Rules Manual.
+At the start of the 8th turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a horse (or a named horse if relevant) may immediately gain a Mount.
 
-**"Look to my coming"** - At the end of the Good side's 10th Activation Phase, the Relief Force will enter the board from the southern board edge on the eastern half of the board. When they enter they will follow the rules for Reinforcements, with the exception that they may Charge on the turn in which they arrive.
+* **The Deeping Wall**
 
-**A Great Siege** - This scenario follows all of the rules for Sieges, including siege equipment, as found in the Middle-earth Strategy Battle Game Rules Manual.
+If a Demolition Charge is successfully detonated whilst within 3" of the culvert of Helm's Deep, the removable section of the Deeping Wall is removed from play. Any model on that part of the wall immediately suffers a Strength 9 hit and will suffer falling damage as described in the Middle-earth Strategy Battle Game Rules Manual.
+
+* **"Look to my coming"**
+
+At the end of the Good side's 10th Activation Phase, the Relief Force will enter the board from the southern board edge on the eastern half of the board. When they enter they will follow the rules for Reinforcements, with the exception that they may Charge on the turn in which they arrive.
+
+* **A Great Siege**
+
+This scenario follows all of the rules for Sieges, including siege equipment, as found in the Middle-earth Strategy Battle Game Rules Manual.
 
 ![](../media/scenarios/narrative_scenarios/lotr_the_two_towers/siege_of_helms_deep.jpg){ width=847 height=852 }
 
@@ -707,15 +727,15 @@ The game lasts until the end of a turn in which there are no Good models left on
 
 **SPECIAL RULES**
 
-*Faramir* - Faramir is key to the forces of Gondor; not just for morale, but for the future of the War of the Ring.
+* **Faramir**
 
 If Faramir manages to escape the board via the western board edge, the best result the Evil player can achieve is a draw. If Faramir is slain, the best result the Good player can achieve is a draw.
 
-*Hordes Without End* - There are countless Orcs assaulting Osgiliath, and more are constantly joining the battle from across the Anduin.
+* **Hordes Without End**
 
 At the start of each of the Evil player's Activation Phases, they may roll a D6 for each Evil Warrior, with the exception of the Mordor Troll, that has previously been slain. On a 4+, that model may enter play from either of the points marked on the map via the rules for Reinforcements.
 
-*"Nazgûl!"* - Overhead, the Nazgûl ride their dread Fell Beasts, causing terror in the hearts of those below.
+* **"Nazgûl!"**
 
 At the start of each Move Phase, the Evil player may select a single Good Warrior and roll a D6. On a 3+ the chosen Warrior becomes paralysed by fear and may not Activate this turn. Additionally, they may still fight if Engaged in Combat, however, their Fight Value will be reduced to 1 for the duration of the turn.
 
@@ -759,19 +779,19 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age, and has m
 
 **SPECIAL RULES**
 
-**Charge of the Rohirrim** - *The Pelennor is where Théoden, King of Rohan, will forge his legacy; inspiring his men ahead of the most devastating cavalry charge of the Third Age.*
+* **Charge of the Rohirrim**
 
 Any Rohan model that Charged during the Move Phase may declare a free Heroic Combat in the ensuing Fight Phase. This may be done by both Hero and Warrior models.
 
-**War Beasts of Harad** - *As the battle rages on, the Dark Lord unleashes his followers from the far south, their war beasts brought to lay siege to the White City.*
+* **War Beasts of Harad**
 
 At the end of the Evil player's second Activation Phase, the Mûmakil will Move onto the battlefield via the southern board edge.
 
-**The Witch-king** - *Upon hearing the horns of the Rohirrim, the Witch-king of Angmar flies off the walls of Minas Tirith to combat this new threat.*
+* **The Witch-king**
 
 At the end of the Evil player's fourth Activation Phase, the Witch-king will Move onto the battlefield via the northern board edge.
 
-**Defend the White City** - *As the battle rages on, those within the White City will make their final desperate defence of the gates of Minas Tirith.*
+* **Defend the White City**
 
 At the end of the Good player's sixth Activation Phase, the Gondor force will Move onto the battlefield via the Gates of Minas Tirith.
 
@@ -803,11 +823,11 @@ The game lasts until either Frodo has destroyed the Ring, is taken over by the R
 
 **SPECIAL RULES**
 
-**"Not here, not so close to the Eye!"** - *Frodo wouldn't risk putting the Ring on so close to Sauron.*
+* **"Not here, not so close to the Eye!"**
 
 Frodo may not put the Ring on in this scenario.
 
-**The Power of the Ring** - *With its master so close by, the Ring is trying everything it can to corrupt Frodo and return to Sauron.*
+* **The Power of the Ring**
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try and slow Frodo down and corrupt him. To use one of these powers the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, then they may use the power:
 
@@ -815,23 +835,23 @@ At the start of each turn, before Priority is rolled, the Evil player may use on
 * **Corruption (4+)** - Frodo begins the game with 6 Resistant Points, which are unique to this Scenario. When this power is used, the Evil player rolls a D6 and compares it to the number of Resistant Points Frodo has remaining. If the result is equal to or higher than Frodo's current Resistant Points, then Frodo immediately loses 1 Resistant Point. If Frodo's Resistant Points are reduced to 0, then he has been taken over by the Ring and the game ends.
 * **Lure of the Ring (5+)** - The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight Phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
 
-**Destroying the Ring** - *The Ring's power is becoming too great and it must be destroyed.*
+* **Destroying the Ring**
 
 To destroy the Ring, Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with Ring. Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, the Ring is destroyed. If the Evil player wins this roll three times in a row, the Ring corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
 
-**Gandalf's Staff** - *Following his encounter with the Witch-king, Gandalf no longer possesses his Wizard's staff.*
+* **Gandalf's Staff**
 
 Gandalf does not have his Staff of Power, and therefore does not gain a free Will Point each turn.
 
-**Teeming Hordes** - *A seemingly endless tide of Orcs is spewed forth from the Black Gate, with more constantly joining the battle.*
+* **Teeming Hordes**
 
 Each time a Mordor Orc model is slain, keep it to one side. At the end of each Evil Activation Phase, the Evil player may Move any models kept aside in this manner onto the board from the Black Gate via the rules for Reinforcements.
 
-**"Stand Your Ground!"** - *The Free Peoples must stand as one upon the hill if they are to have any chance of survival.*
+* **"Stand Your Ground!"**
 
 Good models may not willingly Move more than 12" away from the centre of the Black Gate board.
 
-**Greatest of the Trolls** - *The Troll Chieftain that duels with Aragorn is unlike the others of its race - tougher, more powerful and far more deadly.*
+* **Greatest of the Trolls**
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will and Fate.
 
