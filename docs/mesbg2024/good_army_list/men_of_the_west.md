@@ -44,7 +44,7 @@
 - [**Meriadoc Brandybuck**](../forces_of_good/rohan.md#meriadoc-brandybuck-25-points): 25 points
     - Elven Cloak: 5 points
     - Shield: 5 points
-- [**Peregrin Took**](../forces_of_good/gondor.md#peregrin-took-25-points): 25 points
+- [**Peregrin Took**](../forces_of_good/gondor.md#peregrin-took-guard-of-the-citadel-25-points): 25 points
     - Elven Cloak: 5 points
 
 **WARRIORS**

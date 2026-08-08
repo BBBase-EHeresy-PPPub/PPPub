@@ -937,23 +937,11 @@ When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
 
 **COMPOSITION**
 
-Two Uruk-hai Engineers, one Uruk-hai Berserker with a torch, and one Demolition Charge.
+An Uruk-hai Demolition Team contains 2 Uruk-hai Engineers, 1 Uruk-hai Berserker with torch and 1 Demolition Charge. The Uruk-hai Engineers use the profile below; the Uruk-hai Berserker uses the profile on [page 166](#uruk-hai-berserker-15-points).
 
-**SPECIAL RULES**
+**URUK-HAI ENGINEER**
 
-- **Moving the Charge** `PASSIVE`
-
-The charge is moved in the same manner as a Heavy Object, on a 25mm base.
-
-- **Demolition Charges** `ACTIVE`
-
-A model with a torch can attempt to detonate the charge in the Fight phase, if they in base contact and not Engaged in Combat. See pg.169 of Armies of LOTR book for full details.
-
-- **Attacking the Charge** `ACTIVE`
-
-The charge has Defence 7 and Wounds 3. Charge can potentially go off when it takes a Wound. Charge can also be disabled by an enemy model who has only moved into base contact with it that turn. See pg.169 of Armies of LOTR book for full details.
-
-**Uruk-hai Siege Crew**
+**URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -964,30 +952,33 @@ The charge has Defence 7 and Wounds 3. Charge can potentially go off when it tak
 - [Heavy Armour]
 - [Hand Weapon]
 
----
-
-**Uruk-Hai Berserker**
-
-**URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
-
-| Mv | Fv | Sv | S | D | A | W | C | I |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
-| 6" | 5 | 4+ | 4 | 5 | 2 | 1 | 3+ | 8+ |
-
-**WARGEAR**
-
-- Berserker Blade
-- [Light Armour]
-
 **SPECIAL RULES**
 
-- **Berserker Blade** `ACTIVE`
+- **Moving the Charge**
 
-A [hand-and-a-half weapon][Hand-and-a-half Weapon]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can make a single Strike against every enemy model they were Engaged in Combat with.
+The Demolition Charge is a Heavy Object on a 25mm base, and is Moved in the same manner as any other Heavy Object.
 
-- **Oblivious to Pain** `PASSIVE`
+- **Detonating the Charge**
 
-When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
+During the Fight Phase, after any Heroic Combats have been resolved, a model with a torch can attempt to detonate the Demolition Charge if they are in base contact with it and are not Engaged in Combat. A model may only attempt to detonate a Demolition Charge if the resulting explosion would hit a Siege Target or at least two enemy models. A model that wishes to detonate the Demolition Charge must first take a Courage Test. If the test is failed, the Demolition Charge cannot be detonated. If the test is passed, the Demolition Charge will go off - roll on the Detonation Table below:
+
+**DETONATION TABLE**
+
+| D6 | Result |
+|:--:|:--|
+| 1 | **Dud** - The Demolition Charge is faulty and does not explode. Remove it from play. |
+| 2‑5 | **Instant Reaction** - The Demolition Charge explodes. All models (friend and foe) within 2" of the Demolition Charge suffer D6 Wounds. Cavalry models suffer these Wounds on both the rider and the Mount. Models with Fate Points or special rules that can prevent Wounds must make a roll for each Wound suffered; a successful roll to prevent a Wound will only stop one, not all Wounds. |
+| 6 | **Titanic Explosion** - The Demolition Charge explodes as described above, with the exception that models take 2D6 Wounds rather than D6. |
+
+A model without a torch can still attempt to detonate a Demolition Charge, though it will be harder to do. Any model from the same army as the Demolition Charge can attempt to detonate it by taking a Courage Test as described above. However, if the test is passed, roll a D6 - the Demolition Charge will only go off on the roll of a natural 6.
+
+- **Attacking the Charge**
+
+A Demolition Charge can be shot at and attacked as normal, and has a Defence of 7 and 3 Wounds. Each time a Demolition Charge suffers a Wound, roll a D6. On a 6, the Demolition Charge goes off; roll on the Demolition Table. If a Demolition Charge is Wounded by the explosion of another Demolition Charge, it will go off on the roll of a 4+ rather than a 6.
+
+If a Demolition Charge loses its last Wound and does not go off, it simply breaks and is removed from play.
+
+If, during the End Phase of a turn, an enemy model is in base contact with a Demolition Charge, that model hasn't done anything during that turn except Move (i.e., has not made a shooting attack, Cast a Magical Power, been Engaged in Combat), and that model was not affected by a Magical Power that turn, then it can disable the Demolition Charge - remove it from play.
 
 </div>
 

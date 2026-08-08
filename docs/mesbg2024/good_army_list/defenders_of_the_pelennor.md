@@ -71,7 +71,7 @@
 
 **INDEPENDENT HEROES**
 
-- [**Peregrin Took**](../forces_of_good/gondor.md#peregrin-took-25-points): 25 points
+- [**Peregrin Took**](../forces_of_good/gondor.md#peregrin-took-guard-of-the-citadel-25-points): 25 points
     - Elven Cloak: 5 points
 - [**Ranger of the North**](../forces_of_good/arnor_and_angmar.md#ranger-of-the-north-25-points): 25 points
     - Armour: 5 points

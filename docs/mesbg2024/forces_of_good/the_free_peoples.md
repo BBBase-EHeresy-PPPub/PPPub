@@ -296,33 +296,35 @@ At the start of each Move Phase, before the Declare Heroic Actions step, Saruman
 
 **HEROIC ACTIONS**
 
-- [Heroic Strike]
-- [Heroic Strength]
 - [Heroic Defence]
 - [Heroic March]
+- [Heroic Strength]
+- [Heroic Strike]
 
 **OPTIONS**
 
 - Merry & Pippin - 10 points
-- [Elven Cloak] (Merry) - 5 points
-- [Elven Cloak] (Pippin) - 5 points
 
 **SPECIAL RULES**
 
 - [Dominant] (5)
 - [Fearless]
 - [Large Target]
-- [Throw Stones] (range 18", Strength 10)
 - [Terror]
+- [Throw Stones] (range 18", Strength 10)
 - [Woodland Creature]
 
-- **Merry & Pippin** `PASSIVE`
+- **Merry & Pippin**
 
-Can ride as passengers and not be targeted by enemy attacks and shooting. Treebeard gains [Resistant to Magic] if one of them remains mounted. May use their [Throw Stones] rule without a -1 penalty for moving - see pg.24 of Armies of LOTR book for full details.
+If this option is taken, then both Merry and Pippin will ride into battle on Treebeard, and will use the profiles given on [page 11](#meriadoc-brandybuck-10-points). They are still treated as individual models and will count towards the Army's total number of models and Break Point. Merry and Pippin are treated as Passengers (though this will not give Treebeard either the Cavalry or Mount keywords), with the exception that they cannot be targeted individually by shooting attacks, Magical Powers or special rules. Any shooting attacks that hit Treebeard do not need to make In The Way Tests - they will automatically hit Treebeard. Whilst riding Treebeard, Merry and Pippin may still use their [Throw Stones] special rule and will never count as having Moved. They can still do this even whilst Treebeard is Engaged in Combat. Unlike other Passengers, should Merry or Pippin dismount, they may remount Treebeard again by ending their Move in base contact with him.
+
+So long as at least one of Merry and Pippin remains on Treebeard, Treebeard has the [Resistant to Magic] special rule.
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
-Choose one enemy model as a bludgeon, and another model as the target. Both suffer a S8 hit. If the target is slain, you may keep repeating this until the bludgeon is not slain (in which case that model is knocked Prone). The bludgeon cannot be a Monster, Chariot or War Beast. If the bludgeon is a Cavalry model, then the rider is picked up and separated from their mount.
+Strong, powerful beings, Ents will often pick up their foes and use them to clobber others who seek to bring fire to the forest.
+
+Before models Back Away, select one enemy model involved in the Combat to be picked up by the Ent and be the Bludgeon. If this is a Cavalry model then it is the rider that is picked up and the Mount becomes a Separated Mount. The chosen model cannot be a Monster, Chariot or War Beast. Choose another model involved in the Combat. Both the chosen model and the Bludgeon suffer one Strength 8 hit. If the chosen model is slain, choose a different model involved in the Combat and repeat the process. Keep doing this until either the Ent fails to slay a chosen model, or no more models can be chosen. The process carries on even if the Bludgeon is slain; the Ent keeps using their body as a weapon. If the Bludgeon survives, they will be placed back where they were in the Combat and be knocked Prone. Once this Brutal Power Attack is resolved, enemy models Back Away as normal.
 
 </div>
 

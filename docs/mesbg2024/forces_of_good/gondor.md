@@ -98,23 +98,23 @@ The range of Elendil's [Stand Fast] is 12" rather than 6".
 
 **WARGEAR**
 
-- [Staff of Power]
 - Glamdring
 - Narya
+- [Staff of Power]
 
 **HEROIC ACTIONS**
 
-- [Heroic Resolve]
 - [Heroic Channelling]
-- [Heroic Strike]
 - [Heroic Defence]
+- [Heroic Resolve]
+- [Heroic Strike]
 
 **MAGICAL POWERS**
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Terrifying Aura] | Self | 3+ |
 | [Blinding Light] | Self | 3+ |
+| [Terrifying Aura] | Self | 3+ |
 | [Transfix] | 12" | 3+ |
 | [Foil Magic] | 12" | 4+ |
 | [Fortify Spirit] | 12" | 4+ |
@@ -126,21 +126,38 @@ The range of Elendil's [Stand Fast] is 12" rather than 6".
 **OPTIONS**
 
 - Pippin - 25 points
+  (can only be taken if Gandalf is riding Shadowfax)
 - Shadowfax - 25 points
 
 **SPECIAL RULES**
 
-- **Pippin** `PASSIVE`
-
-Whilst Pippin is Mounted, Gandalf gains [Resistant to Magic], can re-roll natural 1s on To Wound rolls, and spend Pippin's Might, Will and Fate points - see pg.53 of Armies of LOTR for full details.
-
 - **Glamdring** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
-Gandalf may re-roll any failed Fate rolls.
+This is a Unique piece of Wargear. Gandalf may re-roll any failed Fate rolls.
+
+- **Pippin** `PASSIVE`
+
+If Gandalf is upgraded to take Pippin, then Pippin will be treated as a Passenger on Shadowfax. Pippin uses the Peregrin Took, Guard of the Citadel profile (see [page 54](#peregrin-took-guard-of-the-citadel-25-points)) and will always count as an Independent Hero in this instance. Pippin will still count as a model towards the Army's total number of models and Break Point, though will not take up a space in Gandalf's Warband. Whilst Pippin is mounted on Shadowfax, Gandalf gains the [Resistant to Magic] special rule, may re-roll To Wound Rolls of a natural 1 when making Strikes, and can spend Pippin's Might, Will and Fate Points as if they were his own.
+
+**SHADOWFAX**
+
+Shadowfax is a Mount that uses the profile below:
+
+**HORSE | SEE RIDER | HERO, MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 12" | 3 | 6+ | 4 | 5 | 0 | 1 | 5+ | 5+ |
+
+**SPECIAL RULES**
+
+- **Lord of the Mearas** `ACTIVE`
+
+Whilst mounted upon Shadowfax, whenever Gandalf makes a Jump, Leap or Swim test, he may roll two dice and pick the highest result. Additionally, Shadowfax will only halve his Move Value when Moving through difficult terrain rather than quarter it.
 
 </div>
 
@@ -1009,7 +1026,7 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 <div class="unitCard" markdown>
 
-### PEREGRIN TOOK [25 POINTS]
+### PEREGRIN TOOK, GUARD OF THE CITADEL [25 POINTS]
 
 **HOBBIT | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
 
