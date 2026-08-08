@@ -61,11 +61,11 @@ The range of Arvedui's [Stand Fast] is 12", rather than 6"
 
 - **A Fool's Challenge** `ACTIVE`
 
-Earnur must always Charge an enemy Hero if he able to do so when he Activates. Additionally, he may never decline a [Heroic Challenge] under any circumstances.
+If Eärnur is ever the target of a [Heroic Challenge], he may never choose to decline under any circumstances. Additionally, when Eärnur Activates, if he is able to Charge an enemy Hero model then he must do so.
 
 - **Master Duellist** `ACTIVE`
 
-At the start of a Combat involving Earnur, before Heroic Strikes are resolved, Earnur may increase his Fight value to match that of a single enemy he is Engaged in Combat with. Additionally, Earnur can never have his Fight Value modified by enemy special rules or Magical Powers.
+At the start of a Combat involving Eärnur, before any Heroic Strikes are resolved, Eärnur may increase his Fight Value to match that of a single enemy model he is Engaged in Combat with. Additionally, Eärnur can never have his Fight Value modified by enemy special rules or Magical Powers.
 
 </div>
 
@@ -107,7 +107,7 @@ At the start of a Combat involving Earnur, before Heroic Strikes are resolved, E
 
 - **Armour of Gondolin** `ACTIVE`
 
-Whilst Glorfindel is wearing the [Armour] of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
+This is Unique heavy [armour]. Additionally, whilst Glorfindel is wearing the [Armour] of Gondolin, enemy Monster models Engaged in Combat with him cannot use Brutal Power Attacks.
 
 - **Hero of the Elves** `ACTIVE`
 
@@ -152,11 +152,11 @@ This model may re-roll a single D6 when making a Duel Roll. Additionally, they m
 
 - **Strength of Body, Strength of Will** `PASSIVE`
 
-Gulavhar's Attacks are always equal to its remaining Wounds. Additionally, for each Wound Gulavhar has lost, worsen Gulavhar's Courage value by 1 (this will improve again should Gulavhar regain a lost Wound via the Immortal Hunger special rule below).
+Gûlavhar's Attacks are always equal to its remaining Wounds. Additionally, for each Wound Gûlavhar has lost, worsen Gûlavhar's Courage value by 1 (this will improve again should Gûlavhar regain a lost Wound via the Immortal Hunger special rule below).
 
 - **Immortal Hunger** `ACTIVE`
 
-Each time Gulavhar slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. Gulavhar can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
+Each time Gûlavhar slays a model in Combat, it regains a single Wound lost earlier in the battle. These Wounds are regained at the end of the Combat. Gûlavhar can only regain Wounds in this way by making Strikes, never by using a Brutal Power Attack.
 
 </div>
 
@@ -190,7 +190,7 @@ Each time Gulavhar slays a model in Combat, it regains a single Wound lost earli
 
 - **Warlord of Carn Dum** `PASSIVE`
 
-Friendly Carn Dum models within 6" of Aldrac must re-roll failed Courage Tests.
+Friendly Carn Dûm models within 6" of Aldrac must re-roll failed Courage Tests.
 
 - **Battle Frenzy** `ACTIVE`
 
@@ -262,7 +262,7 @@ Friendly Dunedain models treat Aranarth as a [banner][Banner]. Additionally, all
 
 - **Chieftain of the Dunedain** `ACTIVE`
 
-Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
+Friendly Dunedain Hero models may benefit from Arathorn's [Stand Fast].
 
 </div>
 
@@ -297,7 +297,7 @@ Friendly Dunedain Hero models may benefit from Arathorn's Stand Fast.
 
 - **Lead by Example** `ACTIVE`
 
-If Buhrdur slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a [banner][Banner]. If Buhrdur has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdur as a [banner][Banner] with a range of 6" instead.
+If Buhrdûr slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner][Banner]. If Buhrdûr has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner][Banner] with a range of 6" instead.
 
 - **Brutish Cunning** `ACTIVE`
 
@@ -523,10 +523,13 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 - **Incantations of Power** `ACTIVE`
 
-After rolling for Priority, Fraecht can spend a point of Will to have one of the following incantations take effect for the rest of the turn.
-Strength - Friendly Carn Dum models within 6" of Fraecht must re-roll To Wound rolls of a natural 1 when making Strikes.
-Endurance - Whenever a Friendly Carn Dum model within 6" of Fraecht suffers a Wound, roll a D6. On a 5+, that Wound is ignored.
-Swiftness - Friendly Carn Dum models that start their move within 6" of Fraecht are not slowed by difficult terrain (except for water features).
+Incantations of Power - Active - During each Priority Phase, after Priority has been determined, Fráecht can spend a Will Point to use an incantation. If he does so, choose one of the incantations below - the effects last until the End Phase of the turn.
+
+Incantation of Strength - Friendly Carn Dûm models within 6" of Fráecht must re-roll To Wound Rolls of a natural 1 when making Strikes.
+
+Incantation of Endurance - Whenever a friendly Carn Dûm model within 6" of Fráecht suffers a Wound, roll a D6. On a 5+ the Wound is ignored.
+
+Incantation of Swiftness - Friendly Carn Dûm models that start their Move within 6" of Fráecht will not be slowed by Difficult Terrain (with the exception of water features).
 
 </div>
 
@@ -587,7 +590,7 @@ This is a [banner][Banner] with a range of 6" rather than 3", and Halbarad never
 
 - **Gift of Foresight** `ACTIVE`
 
-Every time a friendly Arnor model suffers a Wound within 6" and Line of Sight of Malbeth, roll a D6. On a 5+, the Wound is prevented. If failed, Hero models may still use Fate points as normal.
+Whenever a friendly Arnor model within 6" and Line of Sight of Malbeth suffers a Wound, roll a D6. On a 5+, the Wound has been prevented and is ignored. Note that if this roll is failed, a Hero model may still use Fate Points as normal.
 
 - **Foresight of the Eldar** `ACTIVE`
 
@@ -620,7 +623,7 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 - **Scavenge** `ACTIVE`
 
-Whenever Nazthak slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of [armour][Armour], living creatures, [the One Ring][The One Ring], or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthak's list of wargear. Nazthak will benefit from the scavenged wargear as if he was the original model. Nazthak may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
+Whenever Nazthák slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of [armour][Armour], living creatures, [the One Ring][The One Ring], or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthák's list of wargear. Nazthák will benefit from the scavenged wargear as if he was the original model. Nazthák may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
 
 </div>
 
@@ -653,7 +656,7 @@ If a Ringwraith model is within 6" of a friendly Shade, they may use the Shade t
 
 - **Swirling Mists** `ACTIVE`
 
-At the start of the Shoot Phase, before the Declare Heroic Actions step, a Shade may spend a Will Point to use this ability. If it does, then for the remainder of the turn, enemy models will suffer a -1 penalty To Hit when making a shooting attack that targets a friendly model within 6" of the Shade. If the enemy model making the shooting attack is also within 12" of the Shade, they will suffer a -2 penalty To Hit instead
+At the start of the Shoot Phase, before the Declare Heroic Actions step, a Shade may spend a Will Point to use this ability. If it does, then for the remainder of the turn, enemy models will suffer a -1 penalty To Hit when making a shooting attack that targets a friendly model within 6" of the Shade. If the enemy model making the shooting attack is also within 12" of the Shade, they will suffer a -2 penalty To Hit instead.
 
 - **Ghostly Resolve** `PASSIVE`
 

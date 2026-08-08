@@ -30,7 +30,7 @@
 
 - **The Usurper King** `ACTIVE`
 
-If Engaged in Combat with an enemy Hero, Wulf may re-roll a single D6 during the Duel roll. Additionally, Wulf must re-roll To Wound rolls of a natural 1 when making Strikes against an enemy hero.
+If Wulf is Engaged in Combat with an enemy Hero, he may re-roll a single D6 during the Duel Roll. Additionally, Wulf must re-roll To Wound Rolls of a natural 1 when making Strikes against an enemy Hero.
 
 </div>
 
@@ -66,7 +66,7 @@ Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their F
 
 - **Claim the Throne** `PASSIVE`
 
-If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle, friendly Dunland models treat Freca as a [banner][Banner] with range 6".
+If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle friendly Dunland models treat Freca as a [banner][Banner] with a range of 6".
 
 </div>
 
@@ -103,7 +103,7 @@ If the enemy General is removed as a casualty whilst within 6" of Freca, then fo
 
 - **Dunlending Commander** `PASSIVE`
 
-Whilst alive on the battlefield, if you win the Priority roll and give Priority to your opponent, then friendly Dunlending Warrior models within 6" of General Targg may re-roll To Wound rolls of a natural 1 when making Strikes, until the end of the turn.
+Whilst General Targg is alive and on the battlefield, if you win the roll to choose who has Priority, and choose to give Priority to your opponent, then until the end of the turn friendly Dunland Warrior models within 6" of General Targg may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -202,15 +202,15 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 
 - **Orcish Halberd** `ACTIVE`
 
-Can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon]. Shank may re-roll failed To Wound rolls when making Strikes against a Trapped model.
+An Orcish Halberd can be used either as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon]. Additionally, Shank may re-roll failed To Wound Rolls when making Strikes against a Trapped model.
 
 - **Loot the Bodies** `ACTIVE`
 
-When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a trinket. At the end of the game, as long as of them is alive, you gain a Victory Point for each trinket found, to a maximum of 5 points. Your total Victory Points can not exceed 20.
+Whenever Shank or Wrot slays a model in Combat, they may roll a D6. On a natural 6, they have found a trinket of note and pocketed it. Keep a track of how many trinkets they have found collectively during the course of the game. At the end of the game, so long as at least one of Shank & Wrot are alive, their controlling player gains an additional Victory Point for each trinket they have found, up to a maximum of 5 Victory Points. This can never take Shank's & Wrot's controlling player's total number of Victory Points above 20.
 
 - **Call 'the Beast'** `ACTIVE`
 
-Shank may spend a Will point at the start of his activation. If the Snow Troll is within 6" not Engaged in Combat, it must Charge if possible, gains [Fearless], and may re-roll failed To Wound rolls when making Strikes, until the end of this turn.
+Shank may spend a Will Point at the start of his Activation to use this ability. If he does, then if the Snow Troll is within 6" of Shank and not Engaged in Combat, then it must Charge during its Activation if possible and, until the end of the turn gains the [Fearless] special rule and may re-roll failed To Wound Rolls when making Strikes.
 
 ---
 
@@ -235,17 +235,17 @@ Shank may spend a Will point at the start of his activation. If the Snow Troll i
 
 - **Tasty Fingers** `ACTIVE`
 
-Whenever Wrot slays an enemy model in Combat, he may roll a D6. On a 4+, he immediately regains either a Wound or Fate point spent earlier in the battle.
+Whenever Wrot slays an enemy model in Combat, he may roll a D6. On a 4+, Wrot immediately regains either a Wound or a Fate Point spent earlier in the battle.
 
 - **Loot the Bodies** `ACTIVE`
 
-When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a trinket. At the end of the game, as long as of them is alive, you gain a Victory Point for each trinket found, to a maximum of 5 points. Your total Victory Points can not exceed 20.
+Whenever Shank or Wrot slays a model in Combat, they may roll a D6. On a natural 6, they have found a trinket of note and pocketed it. Keep a track of how many trinkets they have found collectively during the course of the game. At the end of the game, so long as at least one of Shank & Wrot are alive, their controlling player gains an additional Victory Point for each trinket they have found, up to a maximum of 5 Victory Points. This can never take Shank's & Wrot's controlling player's total number of Victory Points above 20.
 
 ---
 
 **Snow Troll**
 
-**ORC | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**
+**TROLL | MORDOR | WARRIOR, INFANTRY, MONSTER | 60MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -263,7 +263,7 @@ When Shank or Wrot slay a model, roll a D6. On a natural 6, they have found a tr
 
 - **Horned Charge** `ACTIVE`
 
-During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +1 Fight value until the end of the turn.
+During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +1 to its Fight Value until the end of the turn.
 
 </div>
 
@@ -302,7 +302,7 @@ During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +
 
 - **Flaming Brand** `PASSIVE`
 
-A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, this model counts as 2 models rather than 1 when working out how many models are within range of an objective marker.
+A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, a model with a Flaming Brand counts as 2 models rather than 1 when working out how many models are within range of an Objective Marker.
 
 </div>
 
@@ -339,7 +339,7 @@ A Rohirrim Traitor must have one of the following options for the listed points 
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its throwing spears as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 

@@ -34,15 +34,15 @@
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
-Once per game at start of any Move phase, Helm can blow this horn. Until the end of that turn, enemy models within 24" of Helm suffer a -1 penalty to Courage tests.
+This is a Unique [war horn]. Additionally, once per game at the start of any Move Phase, Helm can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Helm suffer a -1 penalty to any Courage Test they are required to make.
 
 - **The Hammerhand** `ACTIVE`
 
-Helm never counts as [unarmed][Unarmed].
+Helm is never considered to be [Unarmed][Unarmed]; ever.
 
 - **Into the Fray** `ACTIVE`
 
-Helm may declare a free [Heroic Combat] each Fight phase. However, after he has slain an enemy model, he must always Charge an enemy model if possible, for the rest of the battle.
+Helm Hammerhand may declare a [Heroic Combat] each Fight Phase for free. However, after he has slain an enemy model, for the rest of the battle whenever Helm Moves he must Charge an enemy model if possible.
 
 </div>
 
@@ -79,19 +79,19 @@ Helm may declare a free [Heroic Combat] each Fight phase. However, after he has 
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
-Once per game at start of any Move phase, Helm can blow this horn. Until the end of that turn, enemy models within 24" of Helm suffer a -1 penalty to Courage tests.
+This is a Unique [war horn]. Additionally, once per game at the start of any Move Phase, Helm can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Helm suffer a -1 penalty to any Courage Test they are required to make.
 
 - **The Hammerhand** `ACTIVE`
 
-Helm never counts as [unarmed][Unarmed].
+Helm is never considered to be [Unarmed][Unarmed]; ever.
 
 - **No Longer a Leader** `ACTIVE`
 
-Helm can never be your General. He cannot call [Stand Fast] and models cannot benefit from his Heroic Actions.
+If your Army includes Helm, then he can never be your Army's General even if he is the Hero with the highest Heroic Tier. Additionally, Helm can never call [Stand Fast] and friendly models cannot benefit from any Heroic Action declared by Helm.
 
 - **Berserk Rage** `ACTIVE`
 
-Helm must always Charge if able to do so. When he Charges, he gains [Terror] until the end of the turn, and may declare a free [Heroic Combat] in the Fight phase.
+Helm Hammerhand must always Charge if he is able to do so. Additionally, if Helm Charges into Combat then he gains the [Terror] special rule until the End Phase of the turn, and may declare a [Heroic Combat] in the Fight Phase without spending Might.
 
 </div>
 
@@ -129,11 +129,11 @@ Helm must always Charge if able to do so. When he Charges, he gains [Terror] unt
 
 - **Fury of the Hammerhand** `ACTIVE`
 
-When Hera Charges, she must re-roll any failed To Wound rolls in that turn.
+Enemy models Engaged in Combat with Héra cannot declare a [Heroic Strike].
 
 - **The Warrior Bride** `PASSIVE`
 
-Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
+In a turn in which Héra Charges, she must re-roll any failed To Wound Rolls when making Strikes.
 
 </div>
 
@@ -162,6 +162,8 @@ Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
 
 **OPTIONS**
 
+- Snowmane with [Armour] - 25 points
+- Snowmane - 20 points
 - Exchange [Armour] for [Heavy Armour] - 5 points
 - [Shield] - 5 points
 
@@ -173,15 +175,31 @@ Enemy models Engaged in Combat with Hera cannot declare a [Heroic Strike].
 
 - **Herugrim** `ACTIVE`
 
-If a Combat is tied at Fight value, Theoden wins. If both sides have a similar special rule, roll off as normal.
+This is a Unique [hand weapon]. Additionally, if a model armed with Herugrim is involved in a Drawn Combat where the Combat is tied at this model's Fight Value (i.e., both sides have Fight Value 5 as their highest, or whatever Fight Value Théoden reaches should he declare a [Heroic Strike]), then instead of rolling off to see who wins, this model wins instead. If both sides have a similar special rule, roll off as normal.
 
 - **Forth, and Fear no Darkness** `ACTIVE`
 
-Theoden's [Stand Fast] Is 12" rather than 6".
+The range of Théoden's [Stand Fast] is 12" rather than 6".
 
 - **The will of Men is easily corrupted** `PASSIVE`
 
-If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare Heroic Actions or spend Will points.
+Whilst Gríma Wormtongue is within 6" of Théoden, Théoden reduces his Fight Value to 3, cannot declare Heroic Actions, and cannot spend Will Points.
+
+**SNOWMANE**
+
+**HORSE | MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 4 | 0 | 1 | 7+ | 7+ |
+
+Snowmane with armour has Defence 5.
+
+**SPECIAL RULES**
+
+- **Faithful Servant** `ACTIVE`
+
+Whilst mounted on Snowmane, Théoden may re-roll any failed Courage Tests to Charge an enemy model with the [Terror] special rule.
 
 </div>
 
@@ -221,11 +239,11 @@ If Theoden is within 6" of Grima, Theoden is reduced to Fight 3, cannot declare 
 
 - **Guthwine** `ACTIVE`
 
-If Eomer rolls a natural 6 To Wound, he may make an additional To Wound roll against the same target. If the additional roll is a natural 6, it does not benefit from this special rule.
+This is a Unique [hand weapon]. Additionally, each time a model armed with Gúthwinë rolls a natural 6 To Wound when making a Strike, they may immediately make a single additional To Wound Roll against the same target. If this additional To Wound Roll is a natural 6, this will not benefit from this special rule.
 
 - **The Price of Grief** `ACTIVE`
 
-If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-rolls all failed To Wound rolls for the rest of the game, and he must charge if able to do so.
+If Théoden or Éowyn are in the same Army as Éomer, and either (or both) are removed as a casualty, then for the remainder of the game Éomer must re-roll all failed To Wound Rolls when making Strikes. Additionally, for the remainder of the game, when Éomer Moves he must Charge an enemy model if possible.
 
 </div>
 
@@ -262,11 +280,11 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer must re-ro
 
 - **Mutual Respect** `ACTIVE`
 
-Whilst within 6" of Hera, Frealaf gains the [Master of Battle] (4+) special rule.
+Whilst within 6" of Héra, Fréaláf gains the [Master of Battle] (4+) special rule.
 
 - **Lord of Harrowdale** `PASSIVE`
 
-Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdale. If they have Line of Sight to Frealaf, these warriors may re-roll failed Intelligence tests and gain [Shieldwall].
+Any Warriors of Rohan included in Fréaláf's Warband are automatically upgraded to Warriors of Harrowdale. Warriors of Harrowdale that can draw Line of Sight to Fréaláf may re-roll any failed Intelligence Tests and gain the [Shieldwall] special rule.
 
 </div>
 
@@ -305,7 +323,7 @@ Any Warriors of Rohan in Frealaf's warband are upgraded to Warriors of Harrowdal
 
 - **Defender of Edoras** `ACTIVE`
 
-Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-roll failed To Wound rolls.
+Whenever Haleth is outnumbered in a Combat, if he wins the Duel Roll he may re-roll any failed To Wound Rolls when making Strikes.
 
 </div>
 
@@ -344,7 +362,7 @@ Whenever Haleth is outnumbered in Combat, if he wins the Duel roll he may re-rol
 
 - **The Warrior Poet** `PASSIVE`
 
-Hama may spend a Will point at the start of any Fight phase. If he does so, friendly Rohan models within 6" of him may re-roll To Wound rolls of a natural 1, until the end of that turn.
+Háma may spend a Will Point at the start of any Fight Phase to use this ability. If he does, friendly Rohan models within 6" of Háma may re-roll To Wound Rolls of a natural 1 when making Strikes until the end of the turn.
 
 </div>
 
@@ -383,7 +401,7 @@ Hama may spend a Will point at the start of any Fight phase. If he does so, frie
 
 - **Reckless Charge** `ACTIVE`
 
-Theodred must Charge enemy models if able to so. Additionally, when he charges, re-roll any failed To Wound rolls in that fight.
+When Théodred Moves, he must always Charge an enemy model if possible. Additionally, in a turn in which Théodred Charges he must re-roll any failed To Wound Rolls when making Strikes.
 
 </div>
 
@@ -457,7 +475,7 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 - **For Theoden!** `ACTIVE`
 
-During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged in Combat within 6", Deorwine may call a [Heroic Combat] for free. If the action is successful, you must use the following move to join Theoden's Combat, or get as close as possible to him. He cannot use this special rule if he is in the same Combat as Theoden.
+During the Declare Heroic Actions step of the Fight Phase, if Théoden is Engaged in Combat and is within 6" of Déorwine, then Déorwine may declare a free [Heroic Combat]. If this [Heroic Combat] is successful, then Déorwine must use the following Move to join Théoden's Combat. If this is not possible, then Déorwine must Move as close as possible to Théoden. Déorwine cannot use this special rule if he is in the same Combat as Théoden.
 
 </div>
 
@@ -497,7 +515,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Theoden is Engaged
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwing spears, and never suffers the normal -1 penalty when moving and shooting with his throwing spears.
+Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [throwing] [spears][Spear]. Additionally, when [throwing] his [throwing] [spears][Spear], Elfhelm may re-roll any failed To Hit, To Wound or In The Way Rolls when making that shooting attack.
 
 </div>
 
@@ -538,11 +556,11 @@ Elfhelm may re-roll To Hit, To Wound and In The Way rolls when using his throwin
 
 - **I Shall Kill You if You Touch Him** `ACTIVE`
 
-Whilst within 3" of Theoden, Eowyn may re-roll To Wound rolls of a natural 1. If Theoden is slain, she becomes [Fearless], and re-rolls any failed To Wound rolls when striking the model who slew Theoden.
+Whilst within 3" of Théoden, Éowyn may re-roll To Wound Rolls of a natural 1 when making Strikes. Additionally, if Théoden is slain and removed as a casualty, make a note of the enemy model that killed Théoden. For the remainder of the game, Éowyn gains the [Fearless] special rule and must re-roll all failed To Wound Rolls when making Strikes against the model who slew Théoden.
 
 - **Merry** `PASSIVE`
 
-If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He will have a [shield][Shield], be an Independent Hero, and still count towards the army's total models and Break Point. He does not take up a space in Eowyn's warband. Whilst he remains mounted, Eowyn gains [Resistant to Magic], Attack 3, and can spend Merry's Might, Will and Fate.
+If Éowyn is upgraded to take Merry, then Merry will be treated as a Passenger on Éowyn's [horse][Horse]. Merry uses the Meriadoc Brandybuck, Esquire of Rohan profile, has a [shield][Shield], and will always count as an Independent Hero in this instance. Merry will still count towards the Army's total number of models and Break Point, though will not take up a space in Éowyn's Warband. Whilst Merry is mounted on Éowyn's [horse][Horse], Éowyn gains the [Resistant to Magic] special rule, increases her Attacks characteristic to 3, and can spend Merry's Might, Will and Fate Points as if they were her own.
 
 </div>
 
@@ -581,7 +599,7 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 
 - **Royal Standard of Rohan** `PASSIVE`
 
-[Banner] with range 6", Gamling does not suffer the -1 penalty in the Duel roll. If a friendly Rohan Hero model within 6" spends a Might point, they may roll a D6. On a natural 6, the point of Might is free.
+This is a Unique [banner] with a range of 6". Gamling does not suffer the -1 penalty to his Duel Roll for carrying a [banner]. Additionally, whenever a friendly Rohan Hero model within 6" of the Royal Standard of Rohan spends a Might Point, they may roll a D6. On a natural 6, the Might Point is free and is not spent.
 
 </div>
 
@@ -613,7 +631,7 @@ If taken as an option, Merry becomes a passenger on Eowyn's [horse][Horse]. He w
 
 - **Doorward of Meduseld** `PASSIVE`
 
-As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Guard within 6" of him count as having the [Dominant] (2) special rule.
+So long as Théoden is alive and on the battlefield, Háma and any Rohan Royal Guard within 6" of him count as having the [Dominant] (2) special rule.
 
 </div>
 
@@ -652,11 +670,11 @@ As long as Theoden is alive and on the battlefield, Hama and any Rohan Royal Gua
 
 - **Spyglass** `ACTIVE`
 
-Hera may ignore the [Stalk Unseen] special rule of enemy models, and may draw Line of Sight to them as normal.
+Héra may ignore the [Stalk Unseen] special rule of enemy models, and may therefore draw Line of Sight to them as normal.
 
 - **Daughter of Rohan** `PASSIVE`
 
-If Hera is in a 1-on-1 combat with no supporting models involved, she gains Attack 3 and may re-roll To Wound rolls of a natural 1.
+If Héra is involved in a Combat where there is only a single model on each side, and neither model is Supported, then Héra increases her Attacks characteristic to 3 and may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -695,7 +713,7 @@ If Hera is in a 1-on-1 combat with no supporting models involved, she gains Atta
 
 - **Stalwart Fighter** `ACTIVE`
 
-Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound her when making Strikes, regardless of their Strength. Note, as this does not require a natural 6, enemy models may use Might to influence their To Wound rolls against Olwyn and any bonuses To Wound will still apply as normal.
+Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound her when making Strikes, regardless of their Strength characteristic. Note, as this does not require a natural 6, enemy models may use Might to influence their To Wound Rolls against Olwyn and any bonuses To Wound will still apply as normal.
 
 </div>
 
@@ -730,12 +748,17 @@ Whilst Olwyn is outnumbered in a Combat, enemy models will require a 6 To Wound 
 
 - **Orders from Edoras** `PASSIVE`
 
-Lief may spend a Will point at the end of his Activation, as long as he is not Engaged in Combat, to pick one of the following orders that last until the end of the turn. Each order can only be chosen once per game.
-1. Friendly Rohan Hero models within 3" can declare a free [Heroic Combat].
-2. Friendly Rohan models within 3" gain the [Fearless] special rule.
-3. Friendly Rohan models with 3" do not suffer the -1 penalty To Hit when moving and shooting, and may re-roll failed To Hit rolls.
-4. Friendly Rohan models that start their Activation within 3" of Lief gain [Woodland Creature] and [Mountain Dweller].
-5. Friendly Rohan models that start their Activation within 3" of Lief increase their Move value by 2".
+Lief may spend a Will Point at the end of his Activation to use this ability, so long as he is not Engaged in Combat. If he does, pick one of the following orders; its effects will last until the end of the turn. Each order can only be chosen once per game.
+
+1. Friendly Rohan Hero models within 3" of Lief may declare a [Heroic Combat] for free.
+
+2. Friendly Rohan models within 3" of Lief gain the [Fearless] special rule.
+
+3. Friendly Rohan models within 3" of Lief do not suffer the -1 penalty To Hit when moving and shooting and may re-roll failed To Hit Rolls when making shooting attacks.
+
+4. Friendly Rohan models that start their Activation within 3" of Lief gain the [Woodland Creature] and [Mountain Dweller] special rules.
+
+5. Friendly Rohan models that start their Activation within 3" of Lief increase their Move Value by 2".
 
 </div>
 
@@ -767,11 +790,11 @@ Lief may spend a Will point at the end of his Activation, as long as he is not E
 
 - **Unsteady nerves** `ACTIVE`
 
-Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are resolved.
+Aldor must always shoot first during the Shoot Phase, and will shoot even before Heroic Shoots are resolved. However, Aldor may not declare a Heroic Shoot himself.
 
 - **Lucky Shot** `ACTIVE`
 
-Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attack.
+Aldor must re-roll failed To Hit Rolls and failed To Wound Rolls when making a shooting attack.
 
 </div>
 
@@ -803,11 +826,11 @@ Aldor must re-roll failed To Hit and To Wound rolls when making a shooting attac
 
 - **There is Always Hope** `ACTIVE`
 
-Haleth has Attack 2 whilst he is within 6" of Aragorn.
+Whilst within 6" of Aragorn, Haleth increases his Attacks characteristic to 2.
 
 - **Fight to the Last** `PASSIVE`
 
-If at the start of the Fight Phase Haleth is Engaged in Combat, then for the duration of the Fight Phase Aragorn and other friendly Rohan Infantry models within 6" gain a bonus of +1 to their Fight Value. This benefit ends immediately if Haleth is slain.
+If at the start of the Fight Phase Haleth is Engaged in Combat, then for the duration of the Fight Phase Aragorn and other friendly Rohan Infantry models within 6" of Haleth gain a bonus of +1 to their Fight Value. This benefit ends immediately if Haleth is slain.
 
 </div>
 
@@ -875,11 +898,11 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 - **Arise, Riders of Rohan!** `ACTIVE`
 
-If this model is within 12" of a Rohan General and has the Cavalry keyword, it receives +1 bonus to its Fight value on a turn in which they Charge.
+If this model is within 12" of a Rohan General and has the Cavalry keyword, then it gains a bonus of +1 to its Fight Value in a turn in which it Charges.
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 
@@ -914,11 +937,11 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 - **Arise, Riders of Rohan!** `ACTIVE`
 
-If this model is within 12" of a Rohan General and has the Cavalry keyword, it receives +1 bonus to its Fight value on a turn in which they Charge.
+If this model is within 12" of a Rohan General and has the Cavalry keyword, then it gains a bonus of +1 to its Fight Value in a turn in which it Charges.
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 
@@ -953,7 +976,7 @@ A Warrior of Rohan must have one of the following options for the listed points 
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight phase, as long as it hasn't made a shooting attack with it in the Move or Shoot phase.
+This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 

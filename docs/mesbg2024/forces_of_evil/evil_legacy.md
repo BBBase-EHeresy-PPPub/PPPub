@@ -1687,7 +1687,7 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 **OPTIONS**
 
 - [Blowpipe] - 1 point
-- [Spear] - 1 point
+- [War Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -1853,6 +1853,8 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 <div class="unitCard" markdown>
 
 ### WARG MARAUDER [35 POINTS]
+
+A Warg Marauder consists of three Moria Goblin Warriors riding a single Warg Mount. Two of the Warriors have an [Orc bow][Orc Bow], the other has a [shield][Shield]. This is treated as any other Cavalry model with the following exceptions: Whilst the Warrior with shield remains alive, all parts of the Cavalry model gain the +1 Defence bonus. The Warg Marauder only counts as a single model towards an Army's Bow Limit. If one Moria Goblin Warrior wishes to dismount, then they must all do so together.
 
 **Moria Goblin Warrior**
 

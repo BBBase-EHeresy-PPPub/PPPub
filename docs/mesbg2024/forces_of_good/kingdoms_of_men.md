@@ -24,11 +24,11 @@
 
 - **Lord of Dale** `ACTIVE`
 
-Brand's [Stand Fast] Is 12" rather than 6".
+The range of Brand's [Stand Fast] is 12" rather than 6".
 
 - **Stoic Fighter** `ACTIVE`
 
-At the start of any Combat involving Brand, if he would be Trapped upon losing the Duel roll, he may re-roll a single D6 in the Duel roll, and a single D6 when rolling To Wound.
+At the start of any Combat involving Brand, check to see if Brand would be considered to be Trapped should his side lose the Duel Roll. If Brand would be considered to be Trapped, then he may re-roll a single D6 during the Duel Roll, and may re-roll a single D6 when rolling To Wound.
 
 </div>
 
@@ -60,11 +60,11 @@ At the start of any Combat involving Brand, if he would be Trapped upon losing t
 
 - **Windlance Trained** `PASSIVE`
 
-If Girion takes a Windlance, he will be the only crew, but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
+If Girion is upgraded to take a Windlance, then he counts as the only crew for the Siege Engine. However, unlike normal Siege Engine crew, Girion may Move further than 6" away from the Windlance at any point and may rotate it without suffering the -1 penalty to his rolls To Hit. Additionally, when making a shooting attack with the Windlance that targets a Monster model, Girion gains a bonus of +1 to any rolls on the Scatter Table.
 
 - **Lord of Dale** `PASSIVE`
 
-Girion's [Stand Fast] is 12", and friendly Dale models within 3" of him may re-roll To Wound rolls of a natural 1 when making Strikes.
+Girion's [Stand Fast] is 12" rather than 6". Additionally, friendly Dale models within 3" of Girion may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -196,6 +196,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 **OPTIONS**
 
 - Windlance - 50 points
+- Exchange [Great Bow] for [Armour] and [Horse] - 20 points
 
 **SPECIAL RULES**
 
@@ -210,15 +211,15 @@ If Bard hits a target with his [great bow][Great Bow], he may make another shoot
 
 - **Swift Shot** `ACTIVE`
 
-Never suffers -1 penalty for moving and shooting.
+Bard never suffers the -1 penalty To Hit for Moving and Shooting.
 
 - **The Black Arrow** `ACTIVE`
 
-If Bard takes the Windlance, then once per game Bard can fire the Black Arrow. If he does, declare this before rolling To Hit. Bard may re-roll any failed To Hit and In The Way rolls. Furthermore, do not roll on the Scatter Table- a successful To Hit Roll against a Battlefield Target will always count as a Dead On result.
+If he is upgraded to take the Windlance, then once per game Bard can fire the Black Arrow instead of shooting normally. If he does, declare that he is using the Black Arrow before rolling To Hit. When shooting the Black Arrow, Bard may re-roll any failed To Hit Rolls and any failed In The Way Tests. Furthermore, do not roll on the Scatter Table shooting the Black Arrow - a successful To Hit Roll against a Battlefield Target will always count as a Dead On result.
 
 - **Windlance Trained** `PASSIVE`
 
-If Bard takes a Windlance, he will be the only crew. but can move more than 6" away, and rotate it without any penalty. Windlance attacks against Monster models gain a +1 bonus to any rolls on the Scatter Table.
+If Bard is upgraded to take a Windlance, then he counts as the only crew for the Siege Engine. However, unlike normal Siege Engine crew, Bard may Move further than 6" away from the Windlance at any point and may rotate it without suffering the -1 penalty to his rolls To Hit. Additionally, when making a shooting attack with the Windlance that targets a Monster model, Bard gains a bonus of +1 to any rolls on the Scatter Table.
 
 </div>
 
@@ -253,11 +254,11 @@ If Bard takes a Windlance, he will be the only crew. but can move more than 6" a
 
 - **Mithril Coat** `PASSIVE`
 
-A piece of [Mithril armour][Mithril Armour], additionally Bilbo may re-roll Fate rolls of a 1.
+This is a Unique piece of [Mithril Armour][Mithril Armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-An Elven [hand weapon][Hand Weapon], Bilbo gains +1 Strength when making strikes with Sting.
+This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 
@@ -295,7 +296,7 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, Braga automatical
 
 - **Captain of the Guard** `PASSIVE`
 
-So long as Braga has Will points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having [Dominant] (2).
+So long as Braga has Will Points remaining, friendly Lake-town Guard Captains and Lake-town Guard within 3" of him count as having the [Dominant] (2) special rule.
 
 </div>
 
@@ -351,7 +352,7 @@ So long as Braga has Will points remaining, friendly Lake-town Guard Captains an
 
 - **"Stand by our Men!"** `PASSIVE`
 
-If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she and friendly Lake-town Warrior models within 3" of her gain a bonus of +1 To Wound when making Strikes.
+If Hilda-Bianca Charges into Combat, then during the ensuing Fight Phase, Hilda-Bianca and friendly Lake-town Warrior models within 3" of her gain a bonus of +1 To Wound when making Strikes.
 
 </div>
 
@@ -380,7 +381,7 @@ If Hilda-Bianca Charges into Combat, then during the ensuing Fight phase, she an
 
 - **Everyone has a Price** `PASSIVE`
 
-Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound Rolls of a natural 1 when making Strikes. This special rule has no effect if the Master of Lake-town has no Will Points remaining.
 
 </div>
 
@@ -434,7 +435,7 @@ Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re
 
 - **Archers, This Way!** `PASSIVE`
 
-friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To Hit results of a 1, when making shooting attacks.
+Friendly Lake-town models within 6" and Line of Sight of Percy may re-roll To Hit Rolls of a 1 when making Shooting Attacks.
 
 </div>
 
@@ -449,6 +450,11 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 **HEROIC ACTIONS**
 
 - [Heroic Strike]
+
+Bard's Family is made up of Bain, son of Bard, and Sigrid & Tilda, and will count as three models. You may only include Bard's Family in your Army if it also includes Bard the Bowman, in which case they must always be included as part of Bard's Warband.
+
+If any member of Bard's Family is slain, then make a note of the model that killed them. For the remainder of the game, whenever Bard Activates if he can Charge an enemy model then he must do so; if he is able to Charge an enemy model that killed a member of his family, then he must prioritise that model to Charge. If when Bard Activates he can Charge multiple enemy models that have killed members of his family (if applicable), then he may choose which of them he must Charge.
+
 **Bain, Son of Bard**
 
 **MAN | LAKE-TOWN | HERO, INFANTRY, UNIQUE | 25MM**
@@ -469,7 +475,7 @@ friendly Lake-town models within 6" and in Line of Sight of Percy may re-roll To
 
 - **Family Bond** `PASSIVE`
 
-Whilst within 3" of Sigrid or Tilda, Bain increases his Attacks to 2, and gains a bonus of +1 to his Courage tests.
+Whilst within 3" of either Sigrid or Tilda (or both), Bain increases his Attacks to 2 and gains a bonus of +1 to his Courage Tests.
 
 ---
 
@@ -570,7 +576,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 
 - **Everyone has a Price** `PASSIVE`
 
-Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound rolls of a natural 1 when making Strikes. This rule has no effect if the Master of Lake-town has no Will points remaining.
+Whilst within 6" and Line of Sight of the Master of Lake-town, this model may re-roll failed To Wound Rolls of a natural 1 when making Strikes. This special rule has no effect if the Master of Lake-town has no Will Points remaining.
 
 </div>
 
@@ -603,7 +609,7 @@ A Lake-town Militia must have one of the following options for the listed points
 
 - **Onwards Men of Esgaroth** `PASSIVE`
 
-Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is Engaged in Combat automatically pass any Courage tests they are required to make for being in a Broken army.
+Whilst within 3" of a friendly Lake-town Hero who is Engaged in Combat, this model automatically passes any Courage Tests they are required to take for being part of a Broken Army.
 
 </div>
 
@@ -650,11 +656,11 @@ A Warrior of Dale must have one of the following options for the listed points c
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
-| 6"-60" | 10 | 10 | 3 |
+| 6"‑60" | 10 | 10 | 3 |
 
 **COMPOSITION**
 
-Crewed by two Dale Siege Crew, one of which is a [Siege Veteran].
+Crewed by two Dale Siege Crew, one of which is the [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -662,11 +668,11 @@ Crewed by two Dale Siege Crew, one of which is a [Siege Veteran].
 
 - **Accurate** `ACTIVE`
 
-A Windlance will only scatter 3" rather than 6"
+A Windlance will only Scatter 3" rather than 6".
 
 - **Piercing Shot** `ACTIVE`
 
-A model hit will be flung back D3" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+A model that is hit by the shot of a Windlance will be flung back D3" directly away from the Windlance if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the flung back it would finish over other models and it has survived, then simply move other models the minimum distance possible to allow the flung model to be placed where it has landed.
 
 ---
 

@@ -30,15 +30,15 @@
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed weapon][Two-handed Weapon]. If Azog uses this in a Combat, he gains [Mighty Blow] and reduces his Fight value to 6 for that Combat, even after a [Heroic Strike]. Any model struck by it and not slain is knocked Prone at the end of the combat.
+This is a Unique [two-handed weapon][Two-handed Weapon]. If Azog uses the Stone Flail during a Combat, he gains the [Mighty Blow] special rule, though reduces his Fight Value to 6 for the duration of the Combat - even after a [Heroic Strike]. Additionally, any model that is struck by the Stone Flail and not slain will be Knocked Prone at the end of the Combat.
 
 - **General of the North** `ACTIVE`
 
-Azog's [Stand Fast] has a range of 12", and also affects friendly Orc Hero models.
+The range of Azog's [Stand Fast] is 12" rather than 6". Additionally, friendly Orc Hero models can benefit from Azog's [Stand Fast].
 
 - **I am the Master** `ACTIVE`
 
-When making Strikes against an enemy Hero, he may use this rule. A To Wound roll of a natural 3+ will always count as successful, regardless of the Hero's Defence.
+When Azog makes Strikes against an enemy Hero, he may choose to use this special rule. If he does, then a roll of a natural 3+ will always count as a successful To Wound Roll, regardless of the Hero model's Defence.
 
 ---
 
@@ -108,15 +108,15 @@ Once the White Warg is separated from Azog, only Warg models may benefit from it
 
 - **He cannot yet take Physical Form** `PASSIVE`
 
-The Necromancer may use Will points as Fate points.
+The Necromancer may use his Will Points as Fate Points if he wishes.
 
 - **Drain Soul** `ACTIVE`
 
-Any model that suffers a Wound from the Necromancer in Combat, and is not prevented, will be automatically slain.
+A model that suffers a Wound from the Necromancer in Combat, which is not then prevented, will automatically have their Wounds reduced to 0, causing them to be slain and removed as a casualty.
 
 - **Master of the Nazgul** `PASSIVE`
 
-Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for their Unholy Resurrection rule, depending on if they are in range of the Necromancer. If he has 20+ Will points remaining, the range of this rule is 18". For between 10 and 19 Will points, the range is 12". For 9 or less Will points, the range is 6".
+Any friendly Nazgûl of Dol Guldur in the same Army as the Necromancer gain a bonus of +1 to any rolls for their Unholy Resurrection special rule, depending on if they are in range of the Necromancer. If the Necromancer has 20+ Will Points remaining, then the range of this special rule is 18". If the Necromancer has between 10 and 19 Will Points remaining, then the range of this special rule is 12". If the Necromancer has 9 or fewer Will Points remaining, then the range of this special rule is 6".
 
 </div>
 
@@ -157,7 +157,7 @@ Any friendly Nazgul of Dol Guldur in your Army gains a +1 bonus to rolls for the
 
 - **The Bringer of Death** `ACTIVE`
 
-Keep track of how many enemies that Bolg kills in Combat. After two kills, Bolg gains [Terror]. After five kills, Bolg gains [Harbinger of Evil] (12"). After eight kills, Bolg gains [Mighty Hero].
+Keep a track of how many enemy models Bolg kills in Combat. Once he has killed two or more enemies, Bolg gains the [Terror] special rule. Once he has killed five or more models, Bolg gains the [Harbinger of Evil] (12") special rule. Once he has killed eight or more models, Bolg gains the [Mighty Hero] special rule.
 
 </div>
 
@@ -190,15 +190,17 @@ Keep track of how many enemies that Bolg kills in Combat. After two kills, Bolg 
 
 - **Rhunish Fury** `PASSIVE`
 
-Khamul has 3 Attacks instead of 2.
+Khamûl has 3 Attacks instead of 2.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -231,15 +233,17 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Spiritual Displacement** `ACTIVE`
 
-You may include up to two Abyssal Knights. At the start of the Move phase before the Declare Heroic Actions step, the controlling player may remove one of the Abyssal Knights and place them anywhere within 3" of the other Abyssal Knight. It may not be placed in base contact with an enemy, and does not count as Moving. Only one Abyssal Knight may use this special rule per turn.
+An Army may include up to two Abyssal Knights. At the start of the Move Phase, before the Declare Heroic Actions Step, the controlling player may remove one of the Abyssal Knights from the battlefield and place them anywhere within 3" of the other Abyssal Knight (only one of the Abyssal Knights can use this special rule each turn). A model may not be placed in base contact with an enemy model as part of this special rule. This does not count as Moving.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -272,15 +276,17 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Executioner** `ACTIVE`
 
-If this model rolls a natural 6 during a Duel roll, then it gains [Mighty Blow] for any Strikes it makes during that Combat.
+If this model rolls a natural 6 during a Duel Roll, then any Strikes it makes during that Combat have the [Mighty Blow] special rule.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -314,11 +320,13 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -351,11 +359,11 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Torturer** `ACTIVE`
 
-Keep track of each model he kills. After one kill, he may re-roll To Wound rolls of a natural 1 when making Strikes. After three kills, he gains [Terror]. After five kills, he may re-roll all failed To Wound rolls when making Strikes.
+Keep track of how many enemy models the Keeper of the Dungeons kills in Combat. Once he has killed one or more enemies, the Keeper of the Dungeons may re-roll To Wound Rolls of a natural 1 when making Strikes. Once he has killed three or more models, the Keeper of the Dungeons gains the [Terror] special rule. Once he has killed five or more models, the Keeper of the Dungeons may re-roll all failed To Wound Rolls when making Strikes.
 
 - **"You have something my Master wants!"** `ACTIVE`
 
-The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against any model carrying a ring of power - Nenya, Narya or Vilya, the Ring of Durin, or [the One Ring][The One Ring].
+The Keeper of the Dungeons gains a bonus of +1 To Wound when making Strikes against any model carrying a ring of power - either Narya, Nenya, Vilya, the Ring of Durin, or [the One Ring][The One Ring].
 
 </div>
 
@@ -388,15 +396,17 @@ The Keeper of the Dungeons gains a +1 bonus To Wound when making Strikes against
 
 - **Unnatural Speed** `ACTIVE`
 
-At the start of the Move phase before the Declare Heroic Actions step, the controlling player may remove this model and place them anywhere within 3" of where they were. It may not be placed in base contact with an enemy, and does not count as Moving.
+At the start of the Move Phase, before the Declare Heroic Actions Step, the controlling player may remove the Lingering Shadow from the battlefield and place them anywhere within 3" of where they were. The Lingering Shadow may not be placed in base contact with an enemy model as part of this special rule. This does not count as Moving.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -429,15 +439,17 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Angmar Arise** `PASSIVE`
 
-You may include up to two Slayers of Men. This model may re-roll failed To Wound rolls when making Strikes against an enemy Hero. Whilst this model is within 1" of the other Slayer of Men, this model gains the [Burly] special rule.
+An Army may include up to two Slayers of Men. A model with this special rule may re-roll failed To Wound Rolls when making Strikes against an enemy Hero model. Whilst this model is within 1" of the other Slayer of Men, this model has the [Burly] special rule.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -470,15 +482,17 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Angmar Arisen** `PASSIVE`
 
-The Witch-king has Fight 6 rather than 5, and 3 Might instead of 1.
+The Witch-king has a Fight Value of 6 rather than 5, and 3 Might Points rather than 1.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Nazgul models in your Army. Hero models wearing [the One Ring][The One Ring] are not [invisible][Invisible] to these models.
+You can include up to a maximum of nine Nazgûl of Dol Guldur in your Army. When choosing a Nazgûl of Dol Guldur, you must choose one of the options listed below - each of the options can be taken once, unless otherwise stated. Additionally, a model wearing [the One Ring][The One Ring] is not [Invisible][Invisible] to this model as it is to others.
 
 - **Unholy Resurrection** `PASSIVE`
 
-When slain, place a marker where this model was killed. Models may not overlap these markers for any reason. During the Priority phase of each turn, after Priority has been determined, roll a D6. On a 3+, remove the marker and immediately place this model anywhere within 3" of the marker, but not in base contact with it. If this is not possible, place the model where the marker was. On a 1-2, the model is slain and the marker is removed. The Necromancer can use his Will points to improve this roll, as long as the Nazgul are in range of the Necromancer's Master of the Nazgul special rule. Whilst the marker is in play, this model counts as being on the board for the purpose of determining if your army is Broken or reduced to 25%. However, a marker cannot hold objectives, and this model still counts as being slain for any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], they suffer a -1 penalty to their roll. When the game ends, any markers still on the board are removed and the associated models will be counted as casualties.
+If this model is slain, instead of removing them as a casualty place a 25mm Marker where they were slain - models may not overlap these Markers for any reason. During the Priority Phase of each turn, after Priority has been determined, roll a D6 for this model's Marker. On a 3+, immediately place this model anywhere within 3" of the Marker, so long as it is not in base contact with the Marker. If this is not possible, place this model where their Marker was. In either case, remove the Marker after rolling. On a 1-2, the model is slain and removed as a casualty - remove the Marker from the board. Whilst the Nazgûl of Dol Guldur are in range of the Necromancer's Master of the Nazgûl special rule (depending on how many Will Points he has remaining), the Necromancer can spend his Will Points to improve this roll. For each Will Point the Necromancer spends in this way, improve the Unholy Resurrection roll by 1.
+
+Whilst the Marker is in play, this model counts as on the board for the purpose of determining whether your Army is Broken or reduced to 25%. However, a Marker cannot hold Objectives and the model will still count as being slain for the purpose of any special rules that come into effect when a model is slain, such as a [Heroic Combat]. If this model is slain by a Magical Power or an [Elven weapon][Elven Weapon], then they suffer a -1 penalty to their rolls for this special rule. When the game ends, any Markers on the board are removed and the models associated with them count as a casualty.
 
 </div>
 
@@ -513,7 +527,7 @@ When slain, place a marker where this model was killed. Models may not overlap t
 
 - **Hunt Master** `ACTIVE`
 
-Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Moving through Difficult Terrain, and therefore may still gain bonuses for Charging. Also, whilst he has the Cavalry keyword, Fimbul gains +1 to his Fight value on a turn in which he Charges.
+Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Moving through Difficult Terrain, and therefore may still gain the bonuses for Charging whilst in Difficult Terrain. Additionally, whilst he has the Cavalry keyword, Fimbul gains a bonus of +1 to his Fight Value on a turn in which he Charges.
 
 </div>
 
@@ -544,11 +558,17 @@ Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Movi
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models cannot use a [two-handed weapon][Two-handed Weapon] in the same Combat.
+This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 - **Mercenary Ambush** `ACTIVE`
 
-Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenaries do not have to deploy at the start of the game, as they may be kept in reserve. If you choose to do so, then from turn 2 onwards, the Captain must take an Intelligence test at the end of each of the controlling player's Activation phases. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully placed within a terrain piece that the entire warband can hide within or behind. They cannot be placed in enemy Control Zones, cannot Move that turn, but may otherwise act normally. If the Mercenaries cannot be placed as described above, then they may arrive from any board edge via the rules for Reinforcements.
+Warbands led by a Goblin Mercenary Captain that contain only Goblin Mercenaries do not have to be deployed at the start of the game. Instead, they may be kept in reserve if their controlling player wishes.
+
+If they are kept in reserve, then from turn 2 onwards at the end of each of their controlling player's Activation Phases, the Goblin Mercenary Captain must take an Intelligence Test. If the test is passed, then their controlling player may decide whether or not they arrive. If the test is failed, then the opposing player may decide whether or not they arrive.
+
+When the Goblin Mercenaries arrive, their controlling player places the Warband fully within or in base contact with an eligible terrain piece on the board. For a terrain piece to be eligible it needs to be large enough for the entire Warband to hide in or behind, such as a wood, building, rocky outcrop, etc. It is important to discuss with your opponent before the game begins exactly what counts as an eligible terrain piece.
+
+Models placed on the board in this manner cannot be placed in the Control Zones of enemy models, and cannot Move during that turn but may otherwise act normally. If the entire Warband cannot be placed as described above, then the Warband may Move onto the board from any table edge via the rules for Reinforcements.
 
 </div>
 
@@ -645,7 +665,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 - **Lethal Aim** `ACTIVE`
 
-Each Turn, Narzug gains a free Might point that can only be spent during a shooting attack on either the To Hit, To Wound or In The Way roll. If this point is not spent by the end of the turn, it is lost.
+Each turn, Narzug gains a free Might Point that can only be spent during a shooting attack on either a To Hit Roll, a To Wound Roll, or an In The Way Test. If this free Might Point is not spent by the end of the turn, it is lost.
 
 </div>
 
@@ -680,7 +700,7 @@ Each Turn, Narzug gains a free Might point that can only be spent during a shoot
 
 - **The Price of Failure** `ACTIVE`
 
-At the beginning of a Combat he is involved in, if Yazneg is within 3" of Azog, he can declare this rule before the Duel roll is made. If he does so, then Yazneg may re-roll any number of dice during the Duel roll. However, if he uses this rule and fails to win the Duel roll, then he immediately suffers a single Wound.
+At the beginning of a Combat he is involved in, if he is within 3" of Azog, Yazneg can declare he is using this special rule before the Duel Roll is made. If he does, then Yazneg may re-roll any number of dice during the Duel Roll. However, if Yazneg uses this special rule and fails to win the Duel Roll, then he immediately suffers a single Wound.
 
 </div>
 
@@ -708,22 +728,23 @@ At the beginning of a Combat he is involved in, if Yazneg is within 3" of Azog, 
 - [Terror]
 - [Ancient Enemies] (Dwarf)
 - [Ancient Enemies] (Elf)
+- [Arcing Shot]
 
 - **Catapult** `ACTIVE`
 
-A Siege Engine with range 12" - 96" and Strength 10. May still fire in same turn the troll has Moved, but will only hit on the roll of a natural 6. May still fire while Engaged in Combat, but on a To Hit roll of a natural 1, the troll suffers a Wound. Does not have a normal siege crew, and can always be fired if the troll is alive. Other models can never fire this catapult as [Untrained Crew]. The catapult cannot be destroyed as normal if an enemy spends an entire turn in base contact.
+The Catapult on the back of the Catapult Troll can be fired in the same way as a normal Siege Engine; it has a range of 12" - 96" and has a Strength of 10. The Catapult may still be fired even if the Troll has Moved, even up to its full Move Value; however, in either instance it will only ever hit on the roll of a natural 6. The Catapult may still be fired if the Troll is Engaged in Combat; however, if a natural 1 is rolled when rolling To Hit in this instance, the Catapult will malfunction and the Troll will suffer a Wound. The Catapult does not have a conventional crew, and therefore can always be fired so long as the Troll is still alive. Additionally, other models can never fire this Catapult as [Untrained Crew]. Additionally, unlike other Siege Engine models, the Catapult cannot be destroyed by an enemy model spending an entire turn in base contact with it.
 
 - **Area Effect** `ACTIVE`
 
-After rolling To Hit against a Battlefield Target, all other models within 2" of them suffer a Strength 5 and will be knocked Prone.
+After rolling To Hit against the actual target, if the actual target was a Battlefield Target then all other models within 2" of the actual target suffer a Strength 5 hit and, if they survive, will be knocked Prone.
 
 - **Goblin Crew** `ACTIVE`
 
-If the troll wins a Combat, then after making Strikes, the Goblins may make D6 additional strikes with Strength 3. If the troll uses a Brutal Power Attack that ends the Combat, then the Goblins will not get these additional Strikes.
+If the Catapult Troll wins a Combat, then after making any Strikes, the Goblins may make D6 additional Strikes following all the usual rules. These Strikes are resolved at Strength 3. Note that if the Catapult Troll uses a Brutal Power Attack that immediately ends the Combat, then the Goblins will not get these additional Strikes.
 
 - **Metal Gauntlets** `ACTIVE`
 
-Any Strikes made by the model are resolved as Strength 10. Also, this model may re-roll the dice when determining the Hurl Distance when using Hurl Brutal Power Attack.
+Any Strikes made by this model are resolved at Strength 10. Additionally, this model may re-roll the dice when determining the Hurl Distance when using the Hurl Brutal Power Attack.
 
 </div>
 
@@ -739,6 +760,8 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
 | 6" | 5 | 6+ | 7 | 6 | 3 | 4 | 6+ | 9+ | 0 | 0 | 0 |
 
+A Troll Brute comprises an Orc Commander and the actual Troll Brute.
+
 **WARGEAR**
 
 - [Hand Weapons][Hand Weapon]
@@ -752,7 +775,7 @@ Any Strikes made by the model are resolved as Strength 10. Also, this model may 
 
 - **Trample** `ACTIVE`
 
-When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
+When a Troll Brute Tramples, it will inflict 2 Strength 10 Impact hits.
 
 **Orc Commander**
 
@@ -821,11 +844,17 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 hits.
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models cannot use a [two-handed weapon][Two-handed Weapon] in the same Combat.
+This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 - **Mercenary Ambush** `ACTIVE`
 
-Warbands lead by a Goblin Mercenary Captain that contain solely Goblin Mercenaries do not have to deploy at the start of the game, as they may be kept in reserve. If you choose to do so, then from turn 2 onwards, the Captain must take an Intelligence test at the end of each of the controlling player's Activation phases. If passed, the player decides whether the warband arrives. If failed, the opposing player decides. If they arrive, they should be fully placed within a terrain piece that the entire warband can hide within or behind. They cannot be placed in enemy Control Zones, cannot Move that turn, but may otherwise act normally. If the Mercenaries cannot be placed as described above, then they may arrive from any board edge via the rules for Reinforcements.
+Warbands led by a Goblin Mercenary Captain that contain only Goblin Mercenaries do not have to be deployed at the start of the game. Instead, they may be kept in reserve if their controlling player wishes.
+
+If they are kept in reserve, then from turn 2 onwards at the end of each of their controlling player's Activation Phases, the Goblin Mercenary Captain must take an Intelligence Test. If the test is passed, then their controlling player may decide whether or not they arrive. If the test is failed, then the opposing player may decide whether or not they arrive.
+
+When the Goblin Mercenaries arrive, their controlling player places the Warband fully within or in base contact with an eligible terrain piece on the board. For a terrain piece to be eligible it needs to be large enough for the entire Warband to hide in or behind, such as a wood, building, rocky outcrop, etc. It is important to discuss with your opponent before the game begins exactly what counts as an eligible terrain piece.
+
+Models placed on the board in this manner cannot be placed in the Control Zones of enemy models, and cannot Move during that turn but may otherwise act normally. If the entire Warband cannot be placed as described above, then the Warband may Move onto the board from any table edge via the rules for Reinforcements.
 
 </div>
 
@@ -886,7 +915,7 @@ Whenever this model suffers a Wound, roll a D6. On the roll of a natural 6, the 
 
 - **Relentless Advance** `ACTIVE`
 
-Ogres can pass through friendly Orc, Goblin and Bat models when they Charge into Combat, but not when forced to Move from Magical Powers or special rules. Each model they pass through suffers a Strength 3 hit. Any model that the Ogre ends their move on is automatically slain.
+This model may Move through friendly Orc, Goblin or Bat models when they Charge into Combat, though not when forced to Move by the effects of an enemy Magical Power or special rule. Each friendly model Moved through in this way immediately suffers a Strength 3 hit. This model may finish its Move overlapping friendly models, though any friendly models it finishes its Move overlapping will automatically be slain.
 
 </div>
 
@@ -954,7 +983,7 @@ A Gundabad Orc Warrior must have one of the following options for the listed poi
 
 - **Crushing Club** `ACTIVE`
 
-Any strikes made with this weapon count as having the [Mighty Blow] special rule. Also, any model struck by this weapon and not slain must roll a D6 at the end of the Combat. On a 3+, that model is immediately knocked Prone.
+Any Strikes made by a Gundabad Troll armed with a Crushing Club count as having the [Mighty Blow] special rule. Additionally, any model struck by a Crushing Club and not slain must roll a D6 at the end of the Combat. On a 3+, the model is immediately knocked Prone.
 
 - **Scythe Gauntlets** `ACTIVE`
 
@@ -1047,7 +1076,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 - **Spider Webs** `ACTIVE`
 
-A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon] with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power, however the effects will not immediately end should this model have no Will points or be slain. If this hits a Cavalry model, both the rider and mount will be hit. A Hero model hit may spend a Fate point to avoid its effects If the Hero is a Cavalry model, this would negate the effects on both the rider and mount.
+A Mirkwood Giant Spider can shoot spider webs; these are treated as throwing weapons with a range of 8". If a model is hit by a webs shot by a Mirkwood Giant Spider, no To Wound Roll is made. Instead, the hit model is immediately counted as being under the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain. If a Cavalry model is hit by this shooting attack, do not roll to see which part of the model (rider or Mount) is hit; both are automatically hit. A Hero model hit by a web may spend a Fate Point to avoid its effects. If they do, reduce their Fate Points by 1 and the webs have no effect. If the Hero is a Cavalry model, then a Fate Point spent in this manner will negate the webs on both rider and Mount.
 
 </div>
 
@@ -1076,7 +1105,7 @@ A Mirkwood Spider can shoot webs, treated as a [throwing weapon][Throwing Weapon
 
 - **Silent Hunters** `PASSIVE`
 
-If a Mirkwood Hunting Spider is within a piece of woodland terrain, such as a forest, or is partially concealed by a piece of woodland terrain, then they cannot be seen by enemy models unless they are within 6" of the Mirkwood Hunting Spider.
+If a Mirkwood Hunting Spider is within a piece of woodland terrain (such as a forest), or is partially concealed by a piece of woodland terrain, then they cannot be seen by enemy models unless they are within 6" of the Mirkwood Hunting Spider.
 
 </div>
 
@@ -1106,8 +1135,8 @@ This model gains a bonus of +1 To Wound when making Strikes in a turn in which i
 
 - **Pluck** `ACTIVE`
 
-If this model Charges into Combat, choose a single enemy model on a 25mm base that the War Bat Moved over and roll a D6. On a 4+, the chosen model is immediately knocked Prone.
-
-</div>
+If this model Charges into Combat, choose a single enemy model on a 25mm base that this model Moved over and roll a D6. On a 4+, the chosen model is immediately knocked Prone.
 
 ---
+
+</div>

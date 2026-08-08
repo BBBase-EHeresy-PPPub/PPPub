@@ -27,11 +27,11 @@
 
 - **Smoke Bombs** `ACTIVE`
 
-[Throwing weapons][Throwing Weapons] with Strength 1. Any target hit, but not slain, must immediately spend a point of Will or suffer the effects of the [Transfix] Magical Power, and have their Fight value halved until the End Phase of the turn. If Dalamyr rolls a 1 on the To Hit roll, then he has run out of supply and cannot use smoke bombs again for the rest of the game.
+These are [throwing weapons][Throwing Weapons] with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a Will Point or suffer the effects of the [Transfix] Magical Power and have their Fight Value halved until the End Phase of the turn. Should Dalamyr ever roll a 1 To Hit with his Smoke Bombs then his supply has run out and he cannot use them for the remainder of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
-Dalamyr can never be Trapped whilst still standing.
+Dalamyr can never count as Trapped whilst still standing.
 
 </div>
 
@@ -64,15 +64,15 @@ Dalamyr can never be Trapped whilst still standing.
 
 - **Long-bladed Spear** `ACTIVE`
 
-Can be a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
+This weapon can either be used as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Imposing Presence** `PASSIVE`
 
-Whilst mounted on the Royal War Mumak, the first time each turn an enemy model declares a [Heroic move][Heroic Move] within 12", roll a D6. On a 4+, the action is cancelled and the Might point is lost. Measure the 12" range from the base of the Mumak.
+Whilst atop his Royal War Mûmak, the first time each turn an enemy model within 12" of the Mûmak War Leader declares a [Heroic Move][Heroic Move], roll a D6. On a 4+, the [Heroic Move][Heroic Move] is cancelled and the Might Point spent is lost. Measure this range from the base of the Royal War Mûmak.
 
 - **High King of the South** `PASSIVE`
 
-The Mumak War Leader's [Stand Fast] is 12", and his warband may deploy within 12" of him rather than 6", and may be deployed outside of the Howdah. Measure the 12" range from the base of the Mumak.
+The range of the Mûmak War Leader's [Stand Fast] is 12" rather than 6". Additionally, models in the Mûmak War Leader's Warband can be deployed within 12" rather than 6" - even outside the Howdah if they wish. Measure this range from the base of the Royal War Mûmak.
 
 ---
 
@@ -96,11 +96,11 @@ The Mumak War Leader's [Stand Fast] is 12", and his warband may deploy within 12
 
 - **Trample** `ACTIVE`
 
-When the Royal War Mumak Tramples, it inflicts 4 Strength 9 Impact Hits.
+When the Royal War Mûmak Tramples, it will inflict 4 Strength 9 Impact Hits.
 
 - **Sigils of Defiance** `PASSIVE`
 
-The Royal War Mumak and any models in the Howdah gain [Resistant to Magic]. Whenever one of these models suffers a Wound, roll a D6. On a natural 6, the Wound is prevented.
+The Royal War Mûmak and any models in the Howdah gain the [Resistant to Magic] special rule, and whenever they suffer a Wound they may roll a D6. On a natural 6, the Wound is prevented.
 
 - **Awesome Presence** `PASSIVE`
 
@@ -153,11 +153,11 @@ The Howdah has a capacity of 12 models in addition to the Mumak War Leader, who 
 
 - **The Serpent Banner** `ACTIVE`
 
-[Banner] with 6" range, and Suladan never suffers -1 penalty to Duel rolls whilst carrying it.
+The Serpent [Banner] is a Unique [banner] with a range of 6". Suladân never suffers the -1 penalty to his Duel Rolls for carrying a [banner].
 
 - **Ascendant** `ACTIVE`
 
-Suladan's [Stand Fast] is 12" rather than 6".
+The range of Suladân's [Stand Fast] is 12" rather than 6".
 
 </div>
 
@@ -191,19 +191,19 @@ Suladan's [Stand Fast] is 12" rather than 6".
 
 - **The Emperor's Glaive** `ACTIVE`
 
-Elven [spear][Spear], may use [Shielding] rule despite not having a [shield][Shield].. May not support whilst mounted on Palanquin.
+This is a Unique Elven [spear][Spear]. Additionally, the Dragon Emperor may use it to use the [Shielding] rule even though he does not have a [shield][Shield]. The Dragon Emperor cannot Support whilst mounted upon his Royal Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
-The Dragon Emperor's [Stand Fast] has unlimited range, and affects Easterling Hero models.
+The Dragon Emperor's [Stand Fast] will cover the entire battlefield, regardless of range. Additionally, friendly Easterling Hero models may benefit from the Dragon Emperor's [Stand Fast].
 
 - **Helm of the Dragon Emperor** `PASSIVE`
 
-The Dragon Emperor gains the [Resistant to Magic] special rule.
+This is a Unique piece of wargear which grants the Dragon Emperor the [Resistant to Magic] special rule.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 ---
 
@@ -221,23 +221,33 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Inf
 
 - **Fighting from the Palanquin** `ACTIVE`
 
-The Dragon Emperor always uses his own characteristics, even if the Palanquin's are better. If he wins a Duel Roll, except when Shielding, then after all his Strikes have been resolved the Palanquin may make a number of Strikes equal to its remaining Wounds. These Strikes cannot benefit from the target being Trapped, and the Dragon Emperor cannot use Might to improve them.
+Unlike a normal Mount, the Dragon Emperor does not use any of the characteristics of the Palanquin; instead, he always uses his own, even if the Palanquin's are better. If the Dragon Emperor wins a Duel Roll, except when Shielding, then after all of his own Strikes have been fully resolved, the Palanquin may make a number of Strikes equal to his remaining Wounds. These Strikes cannot benefit from the target being Trapped (i.e., they will not roll two dice against a Trapped model) and the Dragon Emperor cannot use Might to improve the result of these Strikes.
 
 - **Standards of the Emperor** `PASSIVE`
 
-The Royal Palanquin is a [banner][Banner] with a range of 6". The Dragon Emperor does not suffer the -1 penalty to his Duel Rolls for carrying it.
+The Royal Palanquin is a [banner][Banner] with a range of 6". As these banners are attached to the Royal Palanquin, the Dragon Emperor never suffers the -1 penalty to his Duel Rolls for carrying a [banner][Banner].
 
 - **In the Name of the Dragon Emperor** `PASSIVE`
 
-Friendly Easterling models within 6" of the Royal Palanquin that can draw Line of Sight to it may re-roll To Wound Rolls of a natural 1 when making Strikes.
+Friendly Easterling models within 6" of the Royal Palanquin who can draw Line of Sight to it, may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 - **The Palanquin** `PASSIVE`
 
-The Royal Palanquin is a Mount, but does not act as a Cavalry model and does not give the Dragon Emperor the Cavalry keyword. The whole model is treated as Infantry. Rules and Magical Powers that affect both a rider and Mount still affect both parts, and effects that choose either part may target either the Dragon Emperor or the Palanquin.
+The Royal Palanquin is a Mount, however, it does not act like a Cavalry model and does not provide the Cavalry keyword to the Dragon Emperor. Instead, the whole model is treated as an Infantry model.
 
-Whilst the Palanquin has at least 3 Wounds remaining, it Moves normally. At 2 Wounds its Move Value is 3"; at 1 Wound it cannot Move. Shooting attacks hit the Palanquin on an In The Way roll of 1-4 and the Dragon Emperor on a 5+.
+If a special rule or Magical Power would affect a Cavalry model, and will affect both the rider and the Mount of a model, then this will still affect both the Dragon Emperor and the Palanquin as normal. If a special rule or Magical Power would affect either the rider and the Mount of a model, then the player using the special rule or Magical Power may still choose either the Dragon Emperor or the Palanquin to be affected.
 
-If the Dragon Emperor dismounts or is slain, replace the Palanquin with a number of Black Dragon Warriors with shield equal to its remaining Wounds. Place them within its footprint. The Palanquin cannot be knocked Prone except by a Direct Hit from a Siege Engine, and neither it nor its rider can be affected by Hurl or Barge, forced back by Magical Powers, or flung back by a Siege Engine. Its Dominant (X) value equals its remaining Wounds.
+Whilst the Palanquin has 3 or more Wounds remaining it will Move as normal. If it is reduced to 2 Wounds, then its Move Value is reduced to 3". If it only has a single Wound remaining then it cannot Move at all.
+
+When the Palanquin is hit by a shooting attack, the shooter must take an In The Way Test to see if the Dragon Emperor or the Palanquin itself are hit. However, for this In The Way Test a roll of a 1-4 will hit the Royal Palanquin and a 5+ will hit the Dragon Emperor. A model with the [Sharpshooter] special rule may still target either rider or Mount as normal.
+
+The Palanquin is always treated as a single Mount, rather than multiple single models. If the Dragon Emperor dismounts from the Palanquin, or is slain whilst riding the Palanquin, then replace the Palanquin with a number of Black Dragon Warriors with [shield][Shield] equal to the number of Wounds the Palanquin currently has remaining - they do not need to take Courage Tests as a result of being a Separated Mount. These models should be placed within the footprint of the Palanquin.
+
+The Royal Palanquin cannot be knocked Prone for any reason, with the exception of if it is hit by the [Direct Hit] of a Siege Engine.
+
+The Royal Palanquin, and any model riding it, cannot be affected by the [Hurl] or [Barge] Brutal Power Attacks and cannot be forced back by Magical Powers (such as [Call Winds]) or by being flung back by the effects of a Siege Engine.
+
+The Royal Palanquin has the [Dominant] (X) special rule, where X is the number of Wounds it has remaining.
 
 </div>
 
@@ -274,23 +284,23 @@ If the Dragon Emperor dismounts or is slain, replace the Palanquin with a number
 
 - **The Lord of Blades** `ACTIVE`
 
-If an enemy model in combat with Amdur declares a [Heroic Strike], he may do the same for free. If he has already declared a Heroic Action, he may change his choice, but not regain the point of Might.
+Whenever an enemy Hero model Engaged in Combat with Amdûr declares a [Heroic Strike], Amdûr may declare a [Heroic Strike] for free. If Amdûr has already declared a Heroic Action during the Fight Phase, then he may change his declared Heroic Action to a [Heroic Strike], though any Might Points spent will be lost.
 
 - **Herald of Victory** `PASSIVE`
 
-Friendly Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enemy General, the range is increased to 6".
+Friendly Easterling models treat Amdûr as a [banner][Banner]. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a [banner][Banner] with a range of 6".
 
 - **Durtuz the Silver Falchion** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. When making Strikes against an enemy Hero model, rolls of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
 
 </div>
 
@@ -321,7 +331,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 - **Ruthless Commander** `ACTIVE`
 
-Friendly Corsair Warrior models within 3" may re-roll a single dice during the Duel roll, after any other re-rolls from other sources have been used. However, if they use this bonus and still fail to win the Duel roll, they immediately suffer a Strength 2 hit. Only a single Corsair Warrior can use this special rule in each Combat.
+Friendly Corsair Warrior models within 3" of Delgamar may choose to re-roll a single D6 during a Duel Roll, after any other re-rolls from other sources have been used. However, if a Corsair Warrior makes this re-roll and fails to win the Duel Roll, they immediately suffer a Strength 2 hit. Only a single Corsair Warrior can use this special rule in each Combat.
 
 </div>
 
@@ -355,11 +365,11 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **Show No Mercy** `ACTIVE`
 
-When making strikes against Trapped enemy models, you may re-roll failed To Wound rolls.
+Rutabi may re-roll failed To Wound Rolls when making Strikes against a Trapped model.
 
 </div>
 
@@ -397,11 +407,11 @@ When making strikes against Trapped enemy models, you may re-roll failed To Woun
 
 - **Sorcerous Adept** `ACTIVE`
 
-Each time Brorgir rolls one or more natural 6s when making a Casting Test, he will regain a single Will Point after resolving the effects of the Magical Power.
+Each time Brôrgîr rolls one or more natural 6s when making a Casting Test, he will regain a single Will Point after resolving the effects of the Magical Power.
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -436,7 +446,7 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
+Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
 
 </div>
 
@@ -530,11 +540,11 @@ Friendly Corsair models treat a Corsair Bo'sun as a [banner][Banner].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
 
 </div>
 
@@ -575,7 +585,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -637,7 +647,7 @@ This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-hand
 
 - **Whip of the Masters** `ACTIVE`
 
-Each time a friendly Hero model within 6" attempts a [Heroic Move], March or Shoot, roll a D6. On a 4+, the Hero does not spend the Might Point and the Heroic action is free.
+Whenever a friendly Hero model within 6" declares a [Heroic Move], Heroic March or Heroic Shoot, roll a D6. On a 4+ the Hero does not spend the Might Point and the Heroic Action is free.
 
 </div>
 
@@ -707,7 +717,7 @@ A Hasharin can never be Trapped while still standing.
 
 - **The Serpent's Weapon** `ACTIVE`
 
-At the start of the game, after both sides have deployed, secretly select one Hero model in the opponent's force to be Raza's target. If Raza is Engaged in Combat with this target, after any Heroic Actions have been resolved, reveal Raza's target. Raza gains a +2 bonus to his Fight value whilst Engaged in Combat with his target.
+At the beginning of the game, after both sides have been deployed, secretly select a single Hero model in your opponent's Army to be Râza's target. At the start of a Combat where Râza is Engaged in Combat with his target, after any Heroic Actions have been resolved, reveal Râza's target. Râza gains a bonus of +2 to his Fight Value whilst Engaged in Combat with his target.
 
 </div>
 
@@ -745,7 +755,7 @@ At the start of the game, after both sides have deployed, secretly select one He
 
 - **Trample** `ACTIVE`
 
-When a Mumak Tramples, it will inflict 3 Strength 9 Impact Hits.
+When a Mûmak Tramples, it will inflict 3 Strength 9 Impact Hits.
 
 - **Awesome Presence** `PASSIVE`
 
@@ -796,7 +806,7 @@ Friendly models treat this model as a [banner][Banner] with a range of 6".
 
 - **Mahud Beastmaster Chieftain** `PASSIVE`
 
-The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is placed on the forked wooden platform at the front of the Howdah.
+The Haradrim Commander is replaced by a Mahûd Beastmaster Chieftain, which is placed on the forked wooden platform at the front of the Howdah.
 
 </div>
 
@@ -832,19 +842,19 @@ The Haradrim Commander is replaced by a Mahud Beastmaster Chieftain, which is pl
 
 - **Shield of Blades** `ACTIVE`
 
-can use the [Shielding] rule.
+A Dragon Knight may use the [Shielding] rule even though they do not have a shield.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
 
 - **Knights of the Dragon Cult** `PASSIVE`
 
-May only include Black Dragon Warrior models in his warband.
+This model may only include Black Dragon Warrior models in their Warband.
 
 </div>
 
@@ -875,15 +885,15 @@ May only include Black Dragon Warrior models in his warband.
 
 - **Easterling Halberd** `ACTIVE`
 
-This weapon can be used as either a [pike][Pike] or [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **Warriors of the Dragon Cult** `PASSIVE`
 
-This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 to their Fight Value.
 
 </div>
 
@@ -909,7 +919,7 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 - **Pavise** `PASSIVE`
 
-A [shield][Shield] that provides +3 Defence, rather than +1. However, this model cannot gain this bonus whilst Engaged in Combat.
+This is a [shield][Shield] that provides the bearer +3 Defence rather than +1. However, a model with a Pavise cannot gain this bonus to their Defence whilst Engaged in Combat.
 
 </div>
 
@@ -964,11 +974,11 @@ A Corsair of Umbar must have one of the following options for the listed points 
 
 - **Supreme Agility** `ACTIVE`
 
-Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automatically passes all In The Way tests when striking a model defending a barrier or doorway.
+This model gains a +2 bonus to any Climb, Jump or Leap Tests they take. Additionally, this model automatically passes all In the Way Tests when making Strikes against a model that is defending a barrier or a doorway.
 
 - **Warriors of the Dragon Cult** `PASSIVE`
 
-This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 Fight value.
+This model may only be included in the Warband of a Black Dragon Hero. Additionally, whilst within 3" of a Black Dragon Hero, this model gains a bonus of +1 to their Fight Value.
 
 </div>
 
@@ -1004,11 +1014,11 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Infantry model with this rule loses a Combat, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield] to benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
 
 </div>
 
@@ -1148,7 +1158,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 - **Slow-acting Venom** `PASSIVE`
 
-Any model that suffers a wound from a War Drake which isn't prevented, and is not slain, reduces their Fight and Attack value by 1 (to a minimum of 1) for the remainder of the game. This effect does not stack on the same model between wounds from different War Drakes.
+Any model that suffers a Wound from a War Drake of Rhûn which isn't prevented, and is not slain, will reduce their Fight Value and Attacks by 1 (to a minimum of 1) for the remainder of the game. A model can only be affected by this special rule once per game, even if Wounded multiple times or by different models with this special rule.
 
 </div>
 
@@ -1162,11 +1172,11 @@ Any model that suffers a wound from a War Drake which isn't prevented, and is no
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
-| 0"-48" | 8 | 10 | 3 |
+| 0"‑48" | 8 | 10 | 3 |
 
 **COMPOSITION**
 
-Crewed by three Corsair Siege Crew, one of which is a [Siege Veteran].
+Crewed by three Corsair Siege Crew, one of which is the [Siege Veteran].
 
 **SPECIAL RULES**
 
@@ -1174,7 +1184,7 @@ Crewed by three Corsair Siege Crew, one of which is a [Siege Veteran].
 
 - **Piercing Shot** `ACTIVE`
 
-A model that is hit by the shot of a Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
+A model that is hit by the shot of a Corsair Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
 
 - **Bladed Bolts** `ACTIVE`
 

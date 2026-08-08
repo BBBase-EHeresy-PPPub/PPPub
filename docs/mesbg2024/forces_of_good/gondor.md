@@ -35,15 +35,15 @@
 
 - **Ring of Barahir** `PASSIVE`
 
-When affected by a Magical Power, and after any resist tests have been made (if able), Aragorn may roll a D6. On a natural 6, he is not affected by that power.
+This is a Unique piece of Wargear. Whenever Aragorn is affected by a Magical Power, after any Resist Tests have been made (if able), he may roll a D6. On a natural 6, Aragorn is not affected by that Magical Power.
 
 - **Anduril, Flame of the West** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], never needs more than a 4+ To Wound, or a 3+ if using Anduril as a [two-handed weapon][Two-handed Weapon].
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
 
 - **"Stand, Men of the West"** `PASSIVE`
 
-Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
+Friendly models treat Aragorn, King Elessar as a [banner][Banner] with a range of 6".
 
 </div>
 
@@ -76,7 +76,7 @@ Friendly models treat Aragorn as a [banner][Banner] with a range of 6".
 
 - **Narsil** `ACTIVE`
 
-A [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon], and the model carrying this weapon may call a [Heroic Combat] each turn for free.
+This is a Unique [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon]. Additionally, a model wielding Narsil may declare a [Heroic Combat] during each Fight Phase for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -157,7 +157,7 @@ Shadowfax is a Mount that uses the profile below:
 
 - **Lord of the Mearas** `ACTIVE`
 
-Whilst mounted upon Shadowfax, whenever Gandalf makes a Jump, Leap or Swim test, he may roll two dice and pick the highest result. Additionally, Shadowfax will only halve his Move Value when Moving through difficult terrain rather than quarter it.
+Whilst mounted upon Shadowfax, Gandalf rolls two dice and picks for the highest for Jump, Leap and Swim tests. Also, Shadowfax only halves his Move value in difficult terrain, rather than quartering it.
 
 </div>
 
@@ -231,7 +231,7 @@ Whilst mounted upon Shadowfax, whenever Gandalf makes a Jump, Leap or Swim test,
 
 - **Kingdoms of Men** `PASSIVE`
 
-A King off Dale's [Stand Fast] is 12", and also affects Dale Hero models.
+This model's [Stand Fast] is increased to 12" and will affect friendly Dale Hero models.
 
 </div>
 
@@ -385,15 +385,15 @@ Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with
 
 - **Horn of Gondor** `ACTIVE`
 
-A [war horn][War Horn], where if Boromir is outnumbered in a Combat, you may ask your opponent to choose one of their models involved, who must take a Courage test. If they fail, Boromir wins the Duel roll.
+This is a Unique [war horn][War Horn]. At the start of a Combat involving Boromir, if he is outnumbered in the Combat then he may blow the Horn of Gondor. If he does, then one enemy model involved in the Combat (chosen by their controlling player) must take a Courage Test. If the Courage Test is passed then the Combat is fought as normal. If the Courage Test is failed then no Duel Roll is made and Boromir automatically wins the Combat.
 
 - **The Banner of Minas Tirith** `PASSIVE`
 
-A [banner][Banner] with a range of 6". If a friendly Gondor Warrior model within range is involved in a Drawn Combat, and the Combat is tied at the Gondor Warriors' Fight value, they will automatically win (unless the enemy has the same special rule). Boromir does not suffer a -1 penalty in the Duel roll for carrying a [banner][Banner].
+This is a Unique [banner][Banner] with a range of 6". Boromir does not suffer the -1 penalty to his Duel Roll for carrying a [banner][Banner]. Additionally, if a friendly Gondor Warrior model within range of the [Banner][Banner] of Minas Tirith is involved in a Drawn Combat, and the Combat is tied at the Gondor Warrior model's Fight Value (i.e., both sides have Fight Value 4 as their highest), then instead of rolling off to see who wins, the Gondor Warrior model wins instead. If both sides have a similar special rule, roll off as normal.
 
 - **Son of Gondor** `ACTIVE`
 
-In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Strikes.
+In a turn in which he Charges, Boromir gains a bonus of +1 To Wound when making Strikes.
 
 </div>
 
@@ -425,7 +425,7 @@ In a turn in which he Charges, Boromir gains a +1 bonus To Wound when making Str
 
 - **Broken Mind** `ACTIVE`
 
-After Priority has been determined, Denethor must take an Intelligence test. If the test is failed, then Denethor is controlled by the opposing player, and may even Charge and fight models from his own Army. When Denethor is Activated by the opposing player he is still considered to be a friendly model, and so friendly models cannot target him with shooting attacks or Magical Powers that cause damage, and may not make Strikes against him if they beat him in a Combat. When under the control of the opposing player, they cannot use any of Denethor's Might, Will or Fate points. Even when under the control of the opposing player, Denethor always counts as a model in his controlling player's Army. If Boromir is part of the same Army, then Denethor will automatically pass this Intelligence test so long as Boromir is alive. However, should Boromir be slain, then Denethor will automatically fail the next Intelligence Test he has to make for this special rule.
+During each Priority Phase, after Priority has been determined, Denethor must take an Intelligence Test. If the test is passed, all is fine and Denethor acts as normal. If the test is failed, then during this turn Denethor is controlled by the opposing player and will be Activated during that player's Activation Phase as if he is one of their models, and may even Charge and fight models from his own Army. When Denethor is Activated by the opposing player he is still considered to be a friendly model, and so friendly models cannot target him with shooting attacks or Magical Powers that cause damage, and may not make Strikes against him if they beat him in a Combat. When Denethor is under the control of the opposing player, they cannot use any of Denethor's Might, Will or Fate Points. Even when under the control of the opposing player, Denethor always counts as a model in his controlling player's Army. If Boromir is part of the same Army, then Denethor will automatically pass this Intelligence Test so long as Boromir is alive. However, should Boromir be slain, then Denethor will automatically fail the next Intelligence Test he has to make for this special rule.
 
 </div>
 
@@ -454,6 +454,12 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 - [Heroic Strike]
 - [Heroic Defence]
 
+**OPTIONS**
+
+- [Horse] - 20 points
+- [Shield] - 5 points
+- Exchange [Armour] and [Bow] for [Heavy Armour] - Free
+
 **SPECIAL RULES**
 
 - [Leader] (Citadel Guard)
@@ -463,11 +469,11 @@ After Priority has been determined, Denethor must take an Intelligence test. If 
 
 - **"A Chance for Faramir, Captain of Gondor to show his Quality"** `ACTIVE`
 
-If Faramir's army is Broken, he may re-roll any failed To Wound rolls when making strikes, and declare a free [Heroic Resolve] each turn.
+Should Faramir's Army be Broken, then from that point onwards Faramir may re-roll any failed To Wound Rolls when making Strikes. Additionally, should Faramir's Army be Broken, then Faramir may declare a [Heroic Resolve] each turn for free.
 
 - **Wizard's Pupil** `PASSIVE`
 
-If Faramir is alive and you choose to give Priority to your opponent, then Faramir and friendly Warrior models within 3" of him gain [Dominant] (2) until the end of the turn.
+Whilst Faramir is alive and on the battlefield, if you win the roll to choose who has Priority, and choose to give Priority to your opponent, then until the end of the turn Faramir and friendly Warrior models within 3" of him gain the [Dominant] (2) special rule.
 
 </div>
 
@@ -498,11 +504,11 @@ If Faramir is alive and you choose to give Priority to your opponent, then Faram
 
 - **The Horn of Lossarnach** `ACTIVE`
 
-A [war horn][War Horn]. Once per game at the beginning of his Activation, Forlong may use it to give friendly models within 12" of him the [Terror] special rule until the end of the turn.
+This is a Unique [war horn][War Horn]. Additionally, once per game at the beginning of his Activation, Forlong may let out a blast on his horn. If he does, then friendly models within 12" of Forlong count as having the [Terror] special rule until the end of the turn.
 
 - **Lord of Lossarnach** `PASSIVE`
 
-Friendly Lossarnach models within 3" may re-roll results of a natural 1 when making Strikes.
+Other friendly Lossarnach models within 3" of Forlong the Fat may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -537,15 +543,15 @@ Friendly Lossarnach models within 3" may re-roll results of a natural 1 when mak
 
 - **The Warden's Sword** `ACTIVE`
 
-Master Forged [hand-and-a-half weapon][Hand-and-a-half Weapon].
+This is a [Master-forged][Master-Forged] [hand-and-a-half weapon][Hand-and-a-half Weapon].
 
 - **In Defence of the King** `ACTIVE`
 
-Whilst Hurin is within 3" of your General, so long as your General has the Gondor keyword, Hurin automatically passes any Courage Tests he is required to make, and may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst he is within 3" of your General, so long as your General has the Gondor Keyword, Húrin automatically passes any Courage Tests he is required to take and may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 - **Lines of Command** `PASSIVE`
 
-Your opponent cannot score Victory Points for Wounding or slaying the enemy General, so long as Hurin is alive on the battlefield and your General has the Gondor keyword.
+Whilst Húrin is alive and on the battlefield, your opponent cannot score any Victory Points for Wounding or slaying the enemy General, so long as your General has the Gondor Keyword.
 
 </div>
 
@@ -583,7 +589,7 @@ Your opponent cannot score Victory Points for Wounding or slaying the enemy Gene
 
 - **The Shards of Narsil** `ACTIVE`
 
-If your army also contains Elendil and he is slain, place a 25mm marker where he was killed. If Isildur ends his Activation within 1" of this marker, he gains the Shards of Narsil. This is a [hand weapon][Hand Weapon] for which Isildur gains a bonus of +1 To Wound when making strikes in a Combat.
+If your Army also contains Elendil, then if Elendil is slain, place a 25mm Marker where he was killed. If Isildur ends his Activation within 1" of this Marker, he may gain the Shards of Narsil - remove the Marker. The Shards of Narsil are a Unique [hand weapon][Hand Weapon], and a model fighting with it in Combat gains a bonus of +1 To Wound when making Strikes.
 
 </div>
 
@@ -655,11 +661,11 @@ If your army also contains Elendil and he is slain, place a 25mm marker where he
 
 - **Drain Soul** `ACTIVE`
 
-Any model that suffers a Wound from the King of the Dead, that is not prevented by Fate, is immediately killed.
+A model that suffers a Wound from the King of the Dead in Combat, which is not then prevented, will automatically have their Wounds reduced to 0, causing them to be slain and removed as a casualty.
 
 - **The Dead and the Living** `PASSIVE`
 
-Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fast] or Heroic Actions.
+Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fast] or benefit from his Heroic Actions.
 
 </div>
 
@@ -692,7 +698,7 @@ Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fa
 
 - **Chief of Lamedon** `PASSIVE`
 
-Friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests they are required to make.
+Other friendly Lamedon models within 3" of Angbor automatically pass any Courage Tests they are required to take.
 
 </div>
 
@@ -758,7 +764,7 @@ Whilst within 3" of a friendly Pippin, Beregond may re-roll any failed To Wound 
 
 - **Pride of Dol Amroth** `ACTIVE`
 
-Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
+Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Fight value.
 
 </div>
 
@@ -842,7 +848,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 Fight value.
 
 - **Well-aimed Shot** `ACTIVE`
 
-When making a shooting attack, the first time Damrod fails an In The Way test he may make an Intelligence test. If passed, the In The Way roll will be successful instead.
+When making a shooting attack, the first time Damrod fails an In The Way Roll he may make an Intelligence Test. If the test is passed, the In The Way Roll will be successful instead.
 
 </div>
 
@@ -877,11 +883,11 @@ When making a shooting attack, the first time Damrod fails an In The Way test he
 
 - **Go for the Eyes!** `ACTIVE`
 
-Duinhir may re-roll failed To Hit rolls when shooting an enemy Monster model. Also, if he successfully Wounds an enemy Monster with a shooting attack that is not prevented, it will deal D3 Wounds rather than 1.
+Duinhir may re-roll failed To Hit Rolls when shooting at an enemy Monster model. Additionally, if Duinhir successfully Wounds an enemy Monster model with a shooting attack (i.e., a Wound is caused and is not prevented), it will deal D3 Wounds rather than 1.
 
 - **Lord of the Blackroot Vale** `PASSIVE`
 
-Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when making shooting attacks, as long as they didn't Move during the preceding Move phase.
+Other friendly Blackroot Vale models within 3" of Duinhir may re-roll To Hit Rolls of a 1 when making a shooting attack in the Shoot Phase, provided they did not Move in the preceding Move Phase.
 
 </div>
 
@@ -912,11 +918,11 @@ Blackroot Vale Archers within 3" of Duinhir may re-roll To Hit rolls of 1 when m
 
 - **Pennant of the Dead** `PASSIVE`
 
-Friendly Dunharrow models within 3" gain [Resistant to Magic].
+Friendly Dunharrow models within 3" of a model with a Pennant of the Dead count as having the [Resistant to Magic] special rule.
 
 - **The King's Counsel** `PASSIVE`
 
-If the King of the Dead is within 3", he may use this model's Will points to declare Heroic Actions, instead of using his own Might points.
+Whilst the King of the Dead is within 3" of this model, the King of the Dead can spend this model's Will Points to declare a Heroic Action instead of spending one of his own Might Points.
 
 </div>
 
@@ -949,7 +955,7 @@ If the King of the Dead is within 3", he may use this model's Will points to dec
 
 - **Resolute Fighter** `PASSIVE`
 
-Ingold and friendly Gondor Warrior models within 3" do not Back Away if they lose a Combat - their opponent must Back Away instead. However, this does not mean that a model benefiting from this rule cannot count as being Trapped, when they lose their Duel roll.
+Ingold and friendly Gondor Warrior models within 3" of him do not Back Away if they lose a Combat - their opponent must Back Away instead. It is important to note that models benefiting from this special rule can still be Trapped as normal, and a player should check to see if the model would be Trapped under normal circumstances should their side lose the Combat. If they would be Trapped, then opposition models will apply the effects of being Trapped, such as any of their special rules for making Strikes against a Trapped model, and will still make two To Wound Rolls for each Strike as they would against any other Trapped model.
 
 </div>
 
@@ -981,11 +987,11 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 
 - **Defend the White City** `ACTIVE`
 
-Irolas may use the [Shielding] special rule, even without a [shield][Shield]. If he wins a Combat whilst [Shielding], he may make a single Strike against one enemy model.
+Irolas may use the [Shielding] special rule even though he is not armed with a [shield][Shield]. If Irolas elects to [shield][Shield], and wins the ensuing Combat, he may make a single Strike against one enemy model that was involved in the Combat.
 
 - **Captain of the Citadel Guard** `PASSIVE`
 
-Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
+Friendly Citadel Guard within 3" of Irolas gain a bonus of +1 To Wound when making Strikes.
 
 </div>
 
@@ -1018,7 +1024,7 @@ Friendly Citadel Guard within 3" of Irolas gain +1 To Wound when making strikes.
 
 - **Master of Reserves** `PASSIVE`
 
-In Scenarios where you roll for Warbands to arrive, even if Madril is not on the battlefield, you may modify the roll for Madril's Warband by +1 or -1. If he is already on the battlefield, you may modify the roll for other Warbands in your army.
+In Scenarios where you roll for Warbands to arrive, or ones where you roll to see which part of the board you deploy a Warband in (though not when rolling to choose deployment zones), you may modify the roll for Madril's Warband by +1 or -1, even if he is not on the battlefield. If Madril is on the battlefield, you may also modify the roll for other Warbands in your Army by +1 or -1.
 
 </div>
 
@@ -1076,7 +1082,7 @@ In Scenarios where you roll for Warbands to arrive, even if Madril is not on the
 
 - **Axe of Lossarnach** `ACTIVE`
 
-This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon].
+An Axe of Lossarnach can be used either as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -1165,7 +1171,7 @@ A Citadel Guard must have one of the following options for the listed points cos
 
 - **The Honour of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any rolls of a natural 1 when making a Duel roll.
+Whilst within 3" of a friendly Lamedon Hero model, this model may re-roll any rolls of a natural 1 when making a Duel Roll.
 
 </div>
 
@@ -1193,7 +1199,7 @@ Clansmen of Lamedon within 3" of a friendly Lamedon Hero model may re-roll any r
 
 - **Protectors of the White Tree** `PASSIVE`
 
-If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
+If this model is within 6" of a friendly Gondor General, it is treated as having the [Dominant] (2) special rule.
 
 </div>
 
@@ -1222,6 +1228,12 @@ If within 6" of a friendly Gondor General, this model gains [Dominant] (2).
 - [Banner] - 25 points
 - [War Horn] - 25 points
 - [Armoured Horse] and [Lance] - 9 points
+
+**SPECIAL RULES**
+
+- **Pride of Dol Amroth** `ACTIVE`
+
+Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Fight value.
 
 </div>
 
@@ -1464,11 +1476,11 @@ A Warrior of Numenor must have one of the following options for the listed point
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
-| 0"-36" | 7 | 9 | 3 |
+| 0"‑36" | 7 | 9 | 3 |
 
 **COMPOSITION**
 
-Crewed by three Minas Tirith Siege Crew, one of which is a [Siege Veteran].
+Crewed by three Minas Tirith Siege Crew, one of which is the [Siege Veteran].
 
 **OPTIONS**
 
@@ -1480,11 +1492,11 @@ A Gondor Avenger Bolt Thrower may take the following options for the listed poin
 
 - **Swift Reload** `ACTIVE`
 
-When firing the Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may take.
+When firing the Gondor Avenger Bolt Thrower, you may roll two dice and pick the highest result when determining how many shots it may make.
 
 - **Rapid Fire** `ACTIVE`
 
-A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6 shoot attacks in the same way as a normal Missile Weapon. No Scatter is required for these shots, they will either hit or miss. Each shot may be fully resolved before determining the target of the next one. Shots fired by the Bolt Thrower do not kill their targets outright if they Wound them.
+A Gondor Avenger Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6 shooting attacks in the same way as a normal Missile Weapon. No Scatter is required for these shots; they will either hit or miss. Each shot may be fully resolved before determining the target of the next one. Shots fired by a Gondor Avenger Bolt Thrower do not kill their targets outright if they Wound them.
 
 ---
 
@@ -1511,11 +1523,11 @@ A Bolt Thrower doesn't shoot like a normal Siege Engine. Instead, it may make D6
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
-| 12"-96" | 10 | 10 | 3 |
+| 12"‑96" | 10 | 10 | 3 |
 
 **COMPOSITION**
 
-Crewed by three Minas Tirith Siege Crew, one of which is a [Siege Veteran].
+Crewed by three Minas Tirith Siege Crew, one of which is the [Siege Veteran].
 
 **OPTIONS**
 
@@ -1525,7 +1537,7 @@ A Gondor Battlecry Trebuchet may take the following options for the listed point
 
 - **Flaming Ammunition**
 
-A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound rolls against a Siege Target.
+A Siege Engine upgraded with Flaming Ammunition may re-roll any failed To Wound Rolls against a Siege Target.
 
 **SPECIAL RULES**
 
@@ -1534,11 +1546,11 @@ A Siege Engine upgrade with Flaming Ammunition may re-roll any failed To Wound r
 
 - **Area Effect** `ACTIVE`
 
-After rolling To Hit against a Battlefield Target, all other models within 2" of them suffer a Strength 5 and will be knocked Prone.
+After rolling To Hit against the actual target, if the actual target was a Battlefield Target then all other models within 2" of the actual target suffer a Strength 5 hit and, if they survive, will be knocked Prone.
 
 - **Wall-breaker** `ACTIVE`
 
-When rolling To Wound against a Siege Target, make two To Wound rolls and pick the highest. Also, a successful To Wound roll against a Siege Target will do D3 Wounds rather than 1.
+When rolling To Wound against a Siege Target, a Gondor Battlecry Trebuchet makes 2 To Wound Rolls and picks the highest. Additionally, a successful To Wound Roll against a Siege Target will do D3 Wounds rather than 1.
 
 ---
 

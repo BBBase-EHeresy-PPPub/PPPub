@@ -724,7 +724,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 - **Wood Elf spear** `ACTIVE`
 
-An Elven [spear][Spear], and this model may use the [Shielding] rule even if they do not have a [shield][Shield].
+This is an Elven [spear][Spear]. Additionally, a model armed with a Wood Elf [Spear][Spear] may use the [Shielding] rule even though they do not have a [shield][Shield].
 
 </div>
 

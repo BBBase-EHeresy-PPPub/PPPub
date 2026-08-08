@@ -46,7 +46,7 @@
 
 - **Breathe Fire** `ACTIVE`
 
-<span style="color: darkmagenta">Used as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range 12". On a hit, the model that is hit suffers a Strength 10 hit, and if they suffer a Wound which is not prevented, they are automatically slain. All models (friend or foe) within 2" of the hit model are immediately [Set Ablaze] (though they are not automatically slain if Wounded). This is a fire-based attack.</span>
+<span style="color: darkmagenta">The Dragon can Breathe Fire as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range of 12". If the shot hits, then the model that is hit suffers a Strength 10 hit and if they suffer a Wound from this hit, which is not prevented, they are automatically slain. Additionally, all other models (friend and foe) within 2" are immediately [Set Ablaze] - though they will not be automatically slain if wounded. This is a fire-based attack.</span>
 
 - **Fly** `ACTIVE`
 
@@ -58,11 +58,11 @@ The Dragon automatically passes any Intelligence Tests it is required to take. A
 
 - **Tough Hide** `PASSIVE`
 
-Increases Wounds and Defence to 9 each.
+The Dragon increases its Wounds and Defence to 9 each.
 
-- **Wyrmtongue** `ACTIVE`
+- **Wyrm Magic** `ACTIVE`
 
-The Dragon gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
+The Dragon gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost. The Dragon may also cast the following Magical Powers shown on its profile.
 
 </div>
 
@@ -94,19 +94,19 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 
 - **Fiery Lash** `ACTIVE`
 
-[Throwing weapon][Throwing Weapon] with Strength 7, range 8. If the target is not slain and is not immune to [fire-based attacks][Fire-based Attacks], it is pulled into base contact with the Balrog. For Cavalry, the whole model is dragged in this way. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only the Balrog.
+This is a [throwing weapon][Throwing Weapon] with a range of 8" and a Strength of 7. Additionally, a model that is hit by this weapon and is not slain will be removed from the board and then placed anywhere in base contact with the Balrog, as chosen by the Balrog's controlling player. A Cavalry model that is hit will have the whole model dragged in this way. If, for whatever reason, the model cannot be placed in base contact, then it is not moved at all. If a model placed in this way would end up in base contact with other enemy models in addition to the Balrog, then those models do not count as being Engaged in Combat with the placed model unless they subsequently Charge the placed model. This is a fire-based attack, so if a model is immune to [fire-based attacks][Fire-based Attacks], they are immune to this attack.
 
 - **Goblin Mastery** `PASSIVE`
 
-Moria Goblin models within 6" automatically pass Courage tests they are required to make.
+Friendly Moria Goblin models within 6" of the Balrog automatically pass any Courage Tests they are required to make.
 
 - **Flame of Udun** `PASSIVE`
 
-If an enemy is Wounded, and not slain at the end of a Combat, roll a D6. On 6, the model is [Set Ablaze], unless they are immune to [fire-based attacks][Fire-based Attacks]. The Balrog is itself immune to [fire-based attacks][Fire-based Attacks].
+The Balrog is never considered to be Unarmed. Additionally, at the end of a Combat involving the Balrog, any model that suffered a Wound from the Balrog (even if the Wound is prevented) and was not slain must roll a D6. On a natural 6, the model is immediately [Set Ablaze]. If a model is immune to [fire-based attacks][Fire-based Attacks], they will still suffer Wounds from the Balrog's Strikes as normal, but can not be [Set Ablaze]. The Balrog is itself immune to [fire-based attacks][Fire-based Attacks].
 
 - **Demon of the Ancient World** `PASSIVE`
 
-The Balrog may declare a [Heroic Combat] each turn for free. Special rules or wargear that would slay the Balrog instantly (such as a Morgul Blade) will only inflict half of the Balrog's starting Wounds rather than all of them.
+The Balrog may declare a [Heroic Combat] each turn for free. Additionally, special rules or Wargear that would slay the Balrog instantly (such as the King of the Dead's Drain Soul or a Morgul Blade) will only inflict half of the Balrog's starting Wounds rather than all of them.
 
 </div>
 
@@ -145,7 +145,7 @@ The Goblin King may Move through friendly Goblin models when he Charges into Com
 
 - **Goblin Projectile** `ACTIVE`
 
-During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack - this has a range of 12" and counts as a [throwing weapon][Throwing Weapon]. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
+During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack — this has a range of 12" and counts as a [throwing weapon][Throwing Weapon]. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
 
 - **Blubbery Mass** `PASSIVE`
 
@@ -227,7 +227,7 @@ Instead of making Strikes, Bill may choose a single enemy model involved in the 
 
 - **Master of the Dark Wild** `PASSIVE`
 
-Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence values instead of their own when making a Courage Test or an Intelligence Test. Additionally, whenever Druzhag suffers a Wound, before any Fate Rolls are made, he may roll a D6. On a 2+, he may choose a single friendly Beast model within 2" to immediately suffer the Wound instead of him. Fate Rolls can then be made as normal.
+Friendly Beast models within 12" of Drûzhag may use his Courage or Intelligence values instead of their own when making a Courage Test or an Intelligence Test. Additionally, whenever Drûzhag suffers a Wound, before any Fate Rolls are made, he may roll a D6. On a 2+, he may choose a single friendly Beast model within 2" to immediately suffer the Wound instead of him. Fate Rolls can then be made as normal.
 
 </div>
 
@@ -260,11 +260,11 @@ Friendly Beast models within 12" of Druzhag may use his Courage or Intelligence 
 
 - **Iron Fist** `ACTIVE`
 
-Durburz's [Stand Fast] range is 12" rather than 6".
+The range of Durbûrz's [Stand Fast] is 12" rather than 6".
 
 - **Callous Leadership** `ACTIVE`
 
-Once per game, at the start of any Fight Phase, before the Declare Heroic Actions Step, Durburz can declare he is using this ability. Until the End Phase of the turn, friendly Goblin models within 6" of Durburz gain a bonus of +1 To Wound when making Strikes. However, any other friendly Goblin model within 6" that loses a Duel Roll (not including Supporting models) must roll a D6 after any Strikes have been made against them. On the roll of a 1, the model suffers a Wound.
+Once per game, at the start of any Fight Phase, before the Declare Heroic Actions Step, Durbûrz can declare he is using this ability. Until the End Phase of the turn, friendly Goblin models within 6" of Durbûrz gain a bonus of +1 To Wound when making Strikes. However, any other friendly Goblin model within 6" that loses a Duel Roll (not including Supporting models) must roll a D6 after any Strikes have been made against them. On the roll of a 1, the model suffers a Wound.
 
 </div>
 
@@ -464,7 +464,7 @@ The Goblin Scribe cannot Move, and will always count as Trapped should it lose a
 
 - **Always more where they came from** `ACTIVE`
 
-If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6', and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This rule can only be used once per turn.
+If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6", and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This special rule can only be used once per turn.
 
 </div>
 
@@ -570,6 +570,8 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 
 - Strangling Fingers (never [Unarmed])
 
+Gollum has strong, strangling fingers and so is never considered to be [Unarmed] - ever! If your opponent does not have a Ringbearer in their Army, then Gollum carries [the One Ring][The One Ring].
+
 **SPECIAL RULES**
 
 - [Cave Dweller]
@@ -608,23 +610,33 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 
 - **Many Tentacles** `PASSIVE`
 
-At 3 Wounds or less, Attack value becomes 3.
+Whilst the Watcher in the Water has 3 or fewer Wounds remaining, its Attacks are reduced to 3.
 
 - **Water Dweller** `PASSIVE`
 
-Whilst within any water, The Watcher is never slowed, can still Shoot, and always counts as rolling a 6 on the Swim Chart. Also increases Move value to 8" and gains [Monstrous Charge].
+The Watcher in the Water is never slowed when Moving within a water feature, can still Shoot whilst within deep water, and always counts as rolling a 6 on the Swim Chart. Additionally, whilst within a water feature, the Watcher in the Water increases its Move Value to 8" and gains the [Monstrous Charge] special rule.
 
 - **From the Deep** `ACTIVE`
 
-Never part of another Hero's Warband and deploys in a special way. During each Priority, if you wish for The Watcher to arrive, roll a D6. On a 3+, place it anywhere on the board, but not in a way that will displace other models. The Watcher cannot Charge in a turn in which it arrives.
+The Watcher in the Water can never be part of another Hero model's Warband. When you deploy your Army, do not deploy the Watcher in the Water - keep it aside for later. During the Priority Phase, after Priority has been determined, the Watcher's controlling player must decide if they wish for the Watcher to enter play. If they do, they must roll a D6 and on a 3+ the Watcher is ready to enter play. If this roll is failed, you must roll in each subsequent Priority Phase until the Watcher is ready to enter play.
+
+When the Watcher is ready to enter play, immediately place it anywhere on the battlefield; however, the Watcher cannot displace other models when it enters play in this manner.
+
+The Watcher in the Water cannot Charge on the turn in which it arrives, but may otherwise act normally.
 
 - **Grasping Tentacles** `ACTIVE`
 
-In the Shoot phase, The Watcher may make D6 shooting attacks, even in Engaged in Combat. These have Strength 3 and range 6", and never require In The Way rolls. It can still shoot whilst moving and never suffers the -1 penalty. Any target hit and not slain is placed in base contact with The Watcher. If the model cannot be placed in base contact, then it is not moved at all. Also, if the target is pulled into contact with other enemy models, it is not Engaged in Combat with them, only The Watcher.
+In the Shoot Phase, the Watcher in the Water may make D6 shooting attacks. These have a range of 6", a Strength of 3 and never require In The Way Rolls. The Watcher can still make these shooting attacks regardless of how far it Moved in the Move Phase, and never suffers the -1 penalty for Moving and Shooting.
+
+Additionally, any model that is hit by a tentacle and is not slain will be removed from the board and then placed anywhere in base contact with the Watcher in the Water, as chosen by the Watcher in the Water's controlling player. A Cavalry model that is hit will have the whole model dragged in this way.
+
+If, for whatever reason, the model cannot be placed in base contact, then it is not moved at all. If a model placed in this way would end up in base contact with other enemy models in addition to the Watcher, then those models do not count as being Engaged in Combat with the placed model unless they subsequently Charge the placed model. The Watcher can still make these shooting attacks whilst it is Engaged in Combat.
 
 - **Dragged to the Depths** `BRUTAL POWER ATTACK`
 
-If within 6" of water, select a single enemy involved in the Combat and roll a D6. On a 2+, the model suffers a Wound, and if not prevented, will be immediately slain. The Watcher is then removed from the battlefield and its controlling player must roll to see if it arrives again in the same manner as described in the From the Deep special rule.
+Instead of making Strikes, if the Watcher is within 6" of a water feature it may use this Brutal Power Attack. If it does, select a single enemy model that was involved in the Combat and roll a D6. On a 2+, the model suffers a Wound and, if the Wound is not prevented, the model will immediately be slain.
+
+The Watcher is then removed from the battlefield and its controlling player must roll to see if it enters the battlefield again in the same manner as described in the From the Deep special rule.
 
 </div>
 
@@ -686,11 +698,11 @@ A Cave Troll must have one of the following options for the listed points cost:
 
 - **Troll Chain** `ACTIVE`
 
-A [throwing weapon][Throwing Weapon] with Strength 5 and range 3'.
+This is a [throwing weapon][Throwing Weapon] with a range of 3" and a Strength of 5.
 
 - **Troll Spear** `ACTIVE`
 
-A [spear][Spear] that deals 2 Wounds rather than 1 when rolling a natural 6 on the To Wound roll when making Strikes. This rule only applies when this model is not Supporting.
+This is a [spear][Spear]. Additionally, if this model is not Supporting, any To Wound Rolls of a natural 6 it makes when making Strikes that are not prevented will deal 2 Wounds rather than 1.
 
 </div>
 
@@ -738,20 +750,23 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 - **Moria Goblin Drum** `ACTIVE`
 
-The Drum has 10 Defence, 3 Wounds, is a Heavy Object, can be shot at, is always on a 25mm base and must be deployed in base contact with one of its Moria Goblin Drummers. If, during the End Phase, an enemy model is in base contact with the Drum, and the only thing that model has done is Move this turn (e.g. no shooting, combat etc.), and that model was not affected by a Magical Power this turn, then it can remove the Drum from play.
+A Moria Goblin Drum is always on a 25mm base and must be deployed in base contact with one of its Moria Goblin Drummers during deployment. A Moria Goblin Drum is a Heavy Object that can be shot at normally; it has a Defence of 10 and 3 Wounds. If, during the End Phase of a turn, an enemy model is in base contact with the Moria Goblin Drum, that model hasn't done anything during that turn except Move (i.e., has not made a shooting attack, cast a Magical Power, been Engaged in Combat), and that model was not affected by a Magical Power that turn, then it can remove the Moria Goblin Drum from play.
 
 - **Drums in the Deep** `ACTIVE`
 
-For the Drum to be played, at least one Drummer must be in base contact with it, have not Moved that turn, and not be Engaged in Combat. Whilst the Drum is being played it has the following effects:
+For the Drum to be played, at least one Moria Goblin Drummer must be in base contact with it, have not Moved that turn, and not be Engaged in Combat. Whilst the Drum is being played it has the following effects:
 
-* Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take.
-* Enemy models suffer a -1 penalty to any Courage Tests they are required to take.
-* Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner].
-* Whilst being played, the Moria Goblin Drum counts as a [banner][Banner] for the purpose of Victory Points.
+Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take.
+
+Enemy models suffer a -1 penalty to any Courage Tests they are required to take.
+
+Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner].
+
+Whilst being played, the Moria Goblin Drum counts as a [banner][Banner] for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 
-If a Drummer is slain, then they may pass on their wargear to a friendly Moria Goblin Warrior within 1" of them. The chosen model becomes a Moria Goblin Drummer and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Goblin Drummer.
+If a Moria Goblin Drummer is slain, then they may pass on their wargear to a friendly Moria Goblin Warrior within 1" of them. The chosen model becomes a Moria Goblin Drummer and exchanges their wargear for that of the slain model - replace the chosen model with the slain Moria Goblin Drummer.
 
 **Moria Goblin Drummer**
 

@@ -38,32 +38,32 @@
 
 - **Breathe Fire** `ACTIVE`
 
-This is treated as a [bow][Bow] with range 18". If the shot hits, the target and all models within 2" suffer a Strength 10 hit. Any model that suffers a Wound which is not prevented is slain, otherwise they are [Set Ablaze]. If a model is immune to fire-based based attacks, they are immune to this shooting attack.
+Smaug can breathe fire as a shooting attack. This is treated as a [bow][Bow] with a range of 18". If the shot hits a model, then the hit model and all models within 2" of them immediately suffer a Strength 10 hit, and any model that suffers a Wound from this shot which is not prevented will immediately be slain and removed as a casualty. Any model hit by this shooting attack and not slain will be [Set Ablaze]. This is a fire based attack, so if a model is immune to fire-based attacks, they are immune to this shooting attack.
 
 - **Immovable Object** `PASSIVE`
 
-Cannot be knocked Prone, or forced to Move by Magic Powers and special rules. Smaug never counts as Trapped and never backs away - his opponent must always Back Away instead.
+Smaug can never be knocked Prone and can never be forced to Move by the effects of enemy Magical Powers or special rules. If Smaug loses a Duel Roll then he will never count as Trapped and does not Back Away — his opponent must Back Away instead.
 
 - **Desolator of the North** `PASSIVE`
 
-Smaug may spend a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
+Smaug gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
 - **Missing Scale** `PASSIVE`
 
-If a model rolls a natural 6 on a shooting attack against Smaug, and the To Wound roll is also successful, he will suffer a number of Wounds equal to the strength of the missile weapon.
+If a model rolls a natural 6 when making a shooting attack that targets Smaug, and then successfully rolls To Wound with that shooting attack, then Smaug will suffer a number of Wounds equal to the Strength of the Missile Weapon that made the shooting attack.
 
 - **"I am fire, I am death"** `PASSIVE`
 
-Immune to [fire-based attacks][Fire-based Attacks].
+Smaug is immune to any [fire-based attacks][Fire-based Attacks].
 
 - **Colossal Frame** `PASSIVE`
 
-Enemies may still shoot Smaug even if he is Engaged in Combat. No In The Way test is required for friendly models he is Engaged in Combat with.
+Enemy models may still target Smaug with shooting attacks even if he is Engaged in Combat. If they do, they do not need to take In The Way Tests for friendly models Smaug is Engaged in Combat with.
 
 - **Unstoppable Momentum** `BRUTAL POWER ATTACK`
 
-Instead of making Strikes, Smaug can make a single Strength 9 hit on every model he is Engaged with.
-
-</div>
+Instead of making Strikes, Smaug can instead make a single Strength 9 hit on every enemy model he is Engaged in Combat with.
 
 ---
+
+</div>

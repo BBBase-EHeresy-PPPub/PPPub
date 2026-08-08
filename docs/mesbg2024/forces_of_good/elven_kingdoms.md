@@ -41,15 +41,17 @@
 
 - **Nenya** `PASSIVE`
 
-Galadriel may re-roll any failed Fate rolls.
+This is a Unique piece of Wargear. Galadriel may re-roll any failed Fate rolls.
 
 - **The Lady of Lothlorien** `PASSIVE`
 
-Galadriel gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
+Galadriel gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
 - **Mirror of Galadriel** `PASSIVE`
 
-Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of Galadriel. During Priority, if Galadriel or Celeborn are in base contact with it, the controlling player may add 1 to their Priority roll. Additionally, during the End phase of each turn, one friendly Hero within 6" of the Mirror may restore Fate points to their starting value.
+The Mirror of Galadriel is a Heavy Object on a 40mm base, and has a Defence of 8 and 3 Wounds. It is deployed within 6" of Galadriel at the start of the game, though for Scenarios in which models Move onto the board it can be carried onto the battlefield by two friendly models. During the Priority Phase, after the roll for Priority has happened, if Galadriel or Celeborn is in base contact with the Mirror of Galadriel, then their controlling player may add 1 to their roll for Priority. Additionally, during the End Phase of each turn, one friendly Hero within 6" of the Mirror of Galadriel may restore their Fate Points to their starting value.
+
+Any Galadhrim Warriors upgraded to Lorien Guard in Galadriel's warband may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -83,15 +85,17 @@ Heavy object on a 40mm base, with Defence 8 and Wounds 3. Deployed within 6" of 
 
 - **Aiglos** `ACTIVE`
 
-Elven [spear][Spear], and a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
+This is a Unique Elven [spear][Spear]. Additionally, a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
 
 - **High King of the Elves** `ACTIVE`
 
-Gil-galad's [Stand Fast] is 12", and friendly Elf Hero models may also benefit from it.
+The range of Gil-galad's [Stand Fast] is 12" rather than 6". Additionally, friendly Elf Hero models may benefit from Gil-galad's [Stand Fast].
 
 - **Lord of the West** `ACTIVE`
 
-May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
+This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
+
+Any Rivendell Warriors upgraded to King's Guard in Gil-Galad's warband will have a Fight value of 6.
 
 </div>
 
@@ -130,15 +134,15 @@ May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rol
 
 - **Bladelord** `ACTIVE`
 
-If Outnumbered in a Combat, Thranduil may re-roll To Wound Rolls of a natural 1 when making Strikes. If he has the Infantry keyword, Thranduil may instead re-roll all failed To Wound Rolls when making Strikes.
+If he is Outnumbered in a Combat, Thranduil may re-roll To Wound Rolls of a natural 1 when making Strikes. If he has the Infantry keyword and is Outnumbered in a Combat, Thranduil may instead re-roll all failed To Wound Rolls when making Strikes.
 
 - **Fury of the Elvenking** `PASSIVE`
 
-If Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a [Heroic Combat] for free.
+If Thranduil is Outnumbered in a Combat, and successfully kills all enemy models that he was Engaged in Combat with, then in the following turn Thranduil may declare a [Heroic Combat] for free.
 
 - **"Do not talk to me of Dragon fire"** `ACTIVE`
 
-At the beginning of his Activation, Thranduil can spend a Will Point. If he does, then until the end of the turn Thranduil gains [Terror]. Additionally, if Thranduil has the Infantry keyword, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move directly away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
+At the beginning of his Activation, Thranduil can spend a Will Point to use this special rule. If he does, then until the end of the turn Thranduil has the [Terror] special rule. Additionally, if Thranduil has the Infantry Keyword when he uses this special rule, then each enemy model within 3" of him, that is not Engaged in Combat, must take a Courage Test in an order chosen by Thranduil's controlling player. If the test is failed, they must immediately Move Directly Away from Thranduil as far as they can, up to the limit of their Move Value. Models Moved by this special rule cannot Move again during the turn, but may otherwise act normally.
 
 ---
 
@@ -156,7 +160,7 @@ At the beginning of his Activation, Thranduil can spend a Will Point. If he does
 
 - **Majestic Steed** `ACTIVE`
 
-In a turn in which Thranduil Charges into Combat, he resolves his Strikes at Strength 5. Additionally, each time this model Charges into Combat, it inflicts a single Strength 4 hit upon one model it has Charged. Cavalry models suffer this hit on both the rider and the Mount. If Thranduil is no longer Engaged in Combat after this hit, he may continue his Move in any way his controlling player wishes.
+In a turn in which Thranduil Charges into Combat, he resolves his Strikes at Strength 5. Additionally, each time this model Charges into Combat, it will inflict a single Strength 4 hit upon one model it has Charged (Cavalry models suffer this hit on both the rider and the Mount). If after this hit Thranduil is no longer Engaged in Combat, he may continue his Move in any way his controlling player wishes; stopping straight away, Charging another enemy model, or anything in between.
 
 </div>
 
@@ -198,11 +202,13 @@ In a turn in which Thranduil Charges into Combat, he resolves his Strikes at Str
 
 - **The Lord of Lorien** `PASSIVE`
 
-Celeborn gains a free Will point each turn. If it is not spent by the end of the turn, then the point is lost.
+Celeborn gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
 - **Battle Wisdom** `PASSIVE`
 
-Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To Wound when making Strikes.
+Friendly Lothlórien Warrior models within 3" of Celeborn gain a bonus of +1 To Wound when making Strikes.
+
+Any Galadhrim Warriors upgraded to Lorien Guard in Celeborn's warband may re-roll To Wound rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -250,19 +256,19 @@ Friendly Lothlorien Warrior models within 3" of Celeborn gain a bonus of +1 To W
 
 - **Hadhafang** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Elrond gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 - **Vilya** `PASSIVE`
 
-Elrond may re-roll any failed Fate points.
+This is a Unique piece of Wargear. Elrond may re-roll any failed Fate rolls.
 
 - **Lord of the West** `ACTIVE`
 
-May re-roll a single D6 in the Duel roll, as well as a single D6 in To Wound rolls when making Strikes.
+This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
 
 - **Foresight of the Eldar** `PASSIVE`
 
-At the start of the game before deployment, Elrond gains D6 Foresight points. As long as he is alive, Elrond can spend these points to increase his controlling player's Priority roll by 1 for each point spent, to a maximum of 6.
+At the start of the game, before either side deploys, roll a D6 and make a note of the result - this is the number of Foresight Points that Elrond has for the battle. During the roll for Priority, so long as he is alive and on the battlefield, Elrond can spend these Foresight Points to increase the roll on his controlling player's roll for Priority. For each Foresight Point spent, increase the dice roll by 1, to a maximum of 6.
 
 </div>
 
@@ -290,8 +296,9 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 **OPTIONS**
 
+- [Heavy Armour] - 10 points
 - [Elf Bow] - 5 points
-- [Elven Cloak] - Free
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
@@ -301,7 +308,7 @@ At the start of the game before deployment, Elrond gains D6 Foresight points. As
 
 - **One Final Blow** `ACTIVE`
 
-When slain in Combat, Haldir can make a Strength 4 Strike against all enemy models he was in Combat with. He may also use Might to increase the To Wound rolls as normal.
+If Haldir is slain in Combat, he may immediately make a single Strength 4 Strike on each enemy model that was involved in the Combat in which Haldir was slain. Haldir may use Might to increase these To Wound Rolls as normal.
 
 </div>
 
@@ -330,7 +337,9 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 
 **OPTIONS**
 
-- Orcrist - Free
+- [Horse] - 20 points
+- Orcrist - 10 points
+- [Elven Cloak] - 5 points
 
 **SPECIAL RULES**
 
@@ -340,15 +349,15 @@ When slain in Combat, Haldir can make a Strength 4 Strike against all enemy mode
 
 - **Orcrist** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], with Orcbane, Goblinbane and Uruk-haibane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **Deadly Shot** `ACTIVE`
 
-Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal)
+Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).
 
 - **Pinpoint Shot** `ACTIVE`
 
-Instead of shooting normally, Legolas can make a single shot against an enemy Engaged in Combat with himself or a friendly model. If the To Hit roll is successful, he doesn't need to make any In The Way rolls - the shot will automatically hit its target.
+Instead of shooting normally, Legolas may make a single shooting attack against an enemy model Engaged in Combat with a friendly model (including himself). If he does, then if the To Hit Roll is successful, Legolas doesn't need to make any In The Way Rolls - the shot will automatically hit its target.
 
 </div>
 
@@ -393,7 +402,7 @@ Instead of shooting normally, Legolas can make a single shot against an enemy En
 
 - **Hadhafang** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +1 To Wound when making Strikes again a Spirit model.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 </div>
 
@@ -436,7 +445,7 @@ Elven [hand-and-a-half weapon][Hand-and-a-half Weapon], Arwen gains a bonus of +
 
 - **The Shipwright's Power** `PASSIVE`
 
-Cirdan gains a free Will point at the start of each turn. If it is not spent by the end of the turn, it is lost.
+Círdan gains a free Will Point at the start of each turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
 </div>
 
@@ -462,21 +471,31 @@ Cirdan gains a free Will point at the start of each turn. If it is not spent by 
 - [Heroic Strength]
 - [Heroic Strike]
 
+**OPTIONS**
+
+- [Horse] - 20 points
+
 **SPECIAL RULES**
 
 - [Woodland Creature]
 
 - **Unbreakable Bond** `ACTIVE`
 
-If Elladan is slain, make a note of the model that killed him. Elrohir increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elladan. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he may declare a free [Heroic Challenge], regardless of the Hero's Heroic Tier.
+If Elrohir is slain, make a note of the model that killed him; for the remainder of the game, Elladan increases his Strength by 1. Additionally, for the remainder of the game, whenever Elladan Activates if he can Charge an enemy model then he must do so; if he is able to Charge the enemy model that killed Elrohir, then he must prioritise that model to Charge. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he must declare a free [Heroic Challenge] against them. This may still be done even though Elladan cannot normally declare a [Heroic Challenge], and even if the Hero has a lower Heroic Tier than Elladan.
 
 - **Twin Elven Blades** `ACTIVE`
 
-Whilst he has the Infantry keyword, Elrohir can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the [Shielding] rule, or use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
+Whilst he has the Infantry Keyword, Elladan can choose to fight in one of the three following ways. He must declare which way he is fighting at the start of a Combat, before any dice are rolled:
+
+Elladan can fight with 3 Attacks rather than 2.
+
+Elladan can use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
+
+Elladan can use his Elven weapons to parry, which counts as [Shielding].
 
 - **Strength of Brotherhood** `ACTIVE`
 
-Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst within 3" of Elrohir, Elladan gains the [Dominant] (2) special rule and may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -502,21 +521,31 @@ Whilst within 3" of Elladan, Elrohir gains [Dominant] (2) and may re-roll To Wou
 - [Heroic Defence]
 - [Heroic Strike]
 
+**OPTIONS**
+
+- [Horse] - 20 points
+
 **SPECIAL RULES**
 
 - [Woodland Creature]
 
 - **Unbreakable Bond** `ACTIVE`
 
-If Elrohir is slain, make a note of the model that killed him. Elladan increases his Strength by 1 for the remainder of the game, and must always Charge an enemy if able to do so, prioritising the enemy who killed Elrohir. If Elladan is Engaged in Combat with the model that killed Elrohir, and that model is a Hero, he may declare a free [Heroic Challenge], regardless of the Hero's Heroic Tier.
+If Elladan is slain, make a note of the model that killed him; for the remainder of the game, Elrohir increases his Strength by 1. Additionally, for the remainder of the game, whenever Elrohir Activates if he can Charge an enemy model then he must do so; if he is able to Charge the enemy model that killed Elladan, then he must prioritise that model to Charge. If Elrohir is Engaged in Combat with the model that killed Elladan, and that model is a Hero, he must declare a free [Heroic Challenge] against them. This may still be done even though Elrohir cannot normally declare a [Heroic Challenge], and even if the Hero has a lower Heroic Tier than Elrohir.
 
 - **Twin Elven Blades** `ACTIVE`
 
-Whilst he has the Infantry keyword, Elladan can choose one of three bonuses at the start of a Combat: Gain 3 Attacks rather than 2, use the [Shielding] rule, or use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
+Whilst he has the Infantry Keyword, Elrohir can choose to fight in one of the three following ways. He must declare which way he is fighting at the start of a Combat, before any dice are rolled:
+
+Elrohir can fight with 3 Attacks rather than 2.
+
+Elrohir can use his Elven weapons as Elven [hand-and-a-half][Hand-And-A-Half] weapons.
+
+Elrohir can use his Elven weapons to parry, which counts as [Shielding].
 
 - **Strength of Brotherhood** `ACTIVE`
 
-Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst within 3" of Elladan, Elrohir gains the [Dominant] (2) special rule and may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -585,11 +614,11 @@ Whilst within 3" of Elrohir, Elladan gains [Dominant] (2) and may re-roll To Wou
 
 - **Song of Elbereth** `ACTIVE`
 
-All friendly Rivendell models within 3" of Lindir gain the [Resistant to Magic] special rule.
+Friendly Rivendell models within 3" of Lindir gain the [Resistant to Magic] special rule.
 
 - **Wise Council** `PASSIVE`
 
-If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend a single point of Will each turn for free. If he does not use this point by the end of the turn, then it is lost.
+If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a free Will Point for the turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
 </div>
 
@@ -648,7 +677,7 @@ If Lindir is within 6" of Elrond at the start of the turn, then Elrond may spend
 
 - **Elven Glaive** `ACTIVE`
 
-Elven [spear][Spear], when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+This is an Elven [spear][Spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
 
 </div>
 
@@ -778,6 +807,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **OPTIONS**
 
+- [Horse], [Elf Bow] and Elven [Lance] - 30 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -854,11 +884,11 @@ Rumil may force one enemy model involved in the same Combat as him to re-roll on
 
 - **Blade Mistress** `ACTIVE`
 
-If Outnumbered in Combat, then before making her Duel roll, Tauriel gains +1 Attack for each model she is Engaged in Combat with, after the first. This bonus lasts until the end of the Combat.
+If Tauriel is Outnumbered in a Combat, then before making her Duel Roll she gains an additional Attack for each model she is Engaged in Combat with after the first. This bonus lasts until the end of the Combat.
 
 - **Vengeful Fury** `PASSIVE`
 
-If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to Defence 4 for the remainder of the battle. Additionally, if Kili is killed, Tauriel must always Charge an enemy model when she Activates if possible.
+If your Army also includes Kíli, and he is removed as a casualty, then Tauriel's Strength is increased to 5 and her Defence reduced to 4 for the remainder of the battle. Additionally, if Kíli is slain, then Tauriel must always Charge an enemy model when she Activates if possible.
 
 </div>
 
@@ -963,7 +993,7 @@ If Kili is in your army and killed, Tauriel gains Strength 5 and is reduced to D
 
 - **Caras Galadhon Fighting Style** `ACTIVE`
 
-This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual restrictions for [Shielding] still apply, chiefly that a model using the [Shielding] rule cannot be Supported by another model, not even by another Guard of the Galadhrim Court.
+This model may use the [Shielding] rule with their Elven [pike][Pike]. All of the usual rules for [Shielding] still apply, chiefly that a model using the [Shielding] rule cannot be Supported by another model, not even another Guard of the Galadhrim Court.
 
 </div>
 
@@ -997,7 +1027,7 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. The usual
 
 - **Wood Elf spear** `ACTIVE`
 
-An Elven [spear][Spear], and this model may use the [Shielding] rule even if they do not have a [shield][Shield].
+This is an Elven [spear][Spear]. Additionally, a model armed with a Wood Elf [Spear][Spear] may use the [Shielding] rule even though they do not have a [shield][Shield].
 
 </div>
 
@@ -1026,7 +1056,7 @@ An Elven [spear][Spear], and this model may use the [Shielding] rule even if the
 
 - **King's Knights** `PASSIVE`
 
-Whilst they have the Cavalry keyword, this model gains a bonus of +1 Fight and +1 Defence whilst within 6" of Thranduil.
+Whilst they have the Cavalry keyword, this model gains a bonus of +1 to their Fight Value and +1 to their Defence whilst within 6" of Thranduil.
 
 </div>
 
@@ -1061,7 +1091,7 @@ A Mirkwood Elf Warrior must have one of the following options for the listed poi
 
 - **Elven Glaive** `ACTIVE`
 
-Elven [spear][Spear], when Engaged in Combat and not being Supported, this model may either gain a bonus of +1 Attack for the Duel roll or +1 Attack when making Strikes. This must be decided before the Duel roll takes place.
+This is an Elven [spear][Spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
 
 </div>
 
@@ -1216,10 +1246,13 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 - **Enchanting Song** `ACTIVE`
 
-During their Activation, a Sentinel may sing one of the following songs:
-The Hymn of Elbereth - Choose a friendly model within 12", who will automatically pass all Courage Tests until the End Phase of the turn.
-Eldamar Madrigal - Choose an enemy model within 12" who is not Engaged in Combat. They must take an Intelligence Test. If failed, you may immediately Move that model. However you cannot make them enter an enemy model's Control Zone, dismount, lie down, be forced to Climb, Jump, Leap or Swim, or Move in any way that would cause direct harm. The model affected by this song cannot be Activated later in the turn.
-The Lay of Gondolin - Sentinel and all friendly models within 3" gain [Terror] until the End Phase of the turn.
+During their Activation, a Wood Elf Sentinel may sing one of the following songs to gain the relevant effect:
+
+Hymn of Elbereth - Choose a friendly model within 12". Until the End Phase of the turn, the chosen model automatically passes any Courage Tests they are required to take.
+
+Lay of Gondolin - Until the End Phase of the turn, this model and all friendly models within 3" of them gain the [Terror] special rule.
+
+Eldamar Madrigal - Choose an enemy model within 12" that is not Engaged in Combat; the chosen model must immediately take an Intelligence Test. If the test is failed, then you may immediately Move that model as if it was that model's Activation; however, the only thing they can do is Move. A model made to Move in this manner cannot enter an enemy model's Control Zone, dismount, lie down, be forced to make a Climb, Jump, Leap or Swim Test, and cannot Move in any way that would cause it direct harm (such as attempting to jump off a cliff). A model affected by this song cannot be Activated later in the turn.
 
 </div>
 

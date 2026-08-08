@@ -39,15 +39,15 @@
 
 - **The Palantir** `ACTIVE`
 
-Once per game, you may automatically win the Priority roll. Must be declared before any dice are rolled in the Priority roll.
+Once per game, during the Priority Phase but before the roll for Priority, Saruman can use the Palantír to automatically win the roll to choose who has Priority for that turn. If both sides have a special rule allowing them to do this and both wish to use it in the same turn, players roll off as normal and both special rules count as being used.
 
 - **Voice of Curunir** `ACTIVE`
 
-Saruman's [Stand Fast] Range is 12", and affects Hero models.
+The range of Saruman's [Stand Fast] is 12" rather than 6". Additionally, friendly Hero models can benefit from Saruman's [Stand Fast].
 
 - **Saruman's Deceit** `PASSIVE`
 
-Saruman can choose a single enemy Hero at the beginning of the game. That Hero will suffer a -1 penalty to any Resist tests they make against Saruman's magical powers cast upon them. However, a natural 6 will still count as a 6.
+At the beginning of the game, after both sides have deployed, Saruman may choose a single enemy Hero. The chosen Hero suffers a -1 penalty to any Resist Tests they take when targeted by a Magical Power Cast by Saruman; though a natural 6 will still count as a 6.
 
 </div>
 
@@ -110,7 +110,7 @@ After a model has resolved all of its Strikes against Sharkey during a Combat, t
 
 - **Broken Loyalties** `PASSIVE`
 
-If at the start of any turn Sharkey has been reduced to 1 Wound and has no Fate remaining, Worm immediately becomes an enemy model for the remainder of the game. Also, after this, whenever Worm Activates he must Charge Sharkey if able to do so. If Sharkey is slain, then at the start of the next turn, Worm reverts back to being a friendly model.
+If at the beginning of any turn Sharkey has been reduced to 1 Wound and has no Fate Points remaining, Worm immediately becomes an enemy model for the remainder of the game. Additionally, after this condition has been met, if when Worm Activates he can Charge Sharkey then he must do so. If Sharkey is slain, then at the beginning of the next turn, Worm reverts back to being a friendly model.
 
 - **When He Sneaks** `ACTIVE`
 
@@ -153,15 +153,15 @@ Before making a Duel Roll for Worm, check to see if any enemy models, with the e
 
 - **Find the Halflings** `ACTIVE`
 
-Lurtz may choose the result of the Maelstrom of Battle special rule for his warband, rather than rolling.
+In Scenarios that use the Maelstrom of Battle special rule, Lurtz's Warband does not roll to determine where they arrive. Instead, Lurtz may choose the result.
 
 - **Shield Throw** `PASSIVE`
 
-If Lurtz has a [shield][Shield], he may use it as [throwing weapon][Throwing Weapon] once per game with a Strength of 4. Any 25mm model hit will be knocked prone, and he may re-roll the To Hit roll. Once thrown, Lurtz will no longer carry the [shield][Shield].
+If Lurtz has been equipped with a [shield][Shield], then once per game Lurtz can use it as a [throwing weapon][Throwing Weapon] and may re-roll the To Hit Roll. This has a Strength of 4 and any model on a 25mm base that is hit will immediately be knocked Prone. Once Lurtz has thrown his [shield][Shield], he no longer carries it; though Lurtz's Defence will not be reduced as a result.
 
 - **Oblivious to Pain** `PASSIVE`
 
-Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
+Whenever Lurtz suffers a Wound, roll a D6. On the roll of a natural 6, the Wound is ignored.
 
 </div>
 
@@ -194,11 +194,11 @@ Whenever Lurtz suffers a Wound, roll a D6. On a natural 6, the Wound is ignored.
 
 - **Riding Dagger** `ACTIVE`
 
-Whenever an enemy model resolves a strike against Sharku (but not his [warg][Warg]) and fails To Wound, Sharku may immediately make one Strength 4 Strike against that model.
+This is a [hand weapon][Hand Weapon]. Additionally, whenever an enemy model makes a Strike against Sharku (but not his [Warg]) and fails the To Wound Roll, Sharku may immediately make a single Strength 4 hit against that model.
 
 - **Fury of the Pack** `ACTIVE`
 
-Whilst he has the Cavalry keyword, whenever Sharku Charges he gains Fight 5 and Attack 3 for the rest of the turn.
+Whilst he has the Cavalry keyword, whenever Sharku Charges he increases his Fight Value to 5 and his Attacks to 3 until the End Phase of the turn.
 
 </div>
 
@@ -233,11 +233,11 @@ Other friendly Ruffian models treat Sid as a [banner][Banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes they may choose a single enemy Hobbit model they were Engaged in Combat with and roll a D6. If the score is higher than the chosen model's Strength then the chosen model is put in chains and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain.
 
 - **Brawler** `ACTIVE`
 
-If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Duel roll. Sid also never counts as [Unarmed].
+If he is outnumbered in a Combat, then Sid may re-roll any rolls of a natural 1 in his Duel Roll. Additionally, Sid can never count as [Unarmed].
 
 </div>
 
@@ -267,11 +267,11 @@ If he is outnumbered in a Combat, Sid may re-roll rolls of a natural 1 in his Du
 
 - **Sharkey's Spy** `PASSIVE`
 
-At the start of the game, before both sides have deployed, Bill may choose an enemy. Whilst Bill is within 12" and has Line of Sight to that chosen model, whenever they declare a Heroic Action, they must roll a D6. On a 1-2, that action is immediately cancelled, and the Might point is not spent. That hero may not attempt to declare the same Heroic Action again that turn.
+At the beginning of the game, after both sides have deployed, Bill Ferny may choose one enemy Hero in your opponent's Army. Whilst Bill Ferny is within 12" of, and has Line of Sight to, the chosen Hero, whenever the chosen Hero declares a Heroic Action they must roll a D6. On a 1-2, the declared Heroic Action is immediately cancelled and the Might Point is not spent. The chosen Hero may not then attempt to declare the same Heroic Action again that turn.
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes they may choose a single enemy Hobbit model they were Engaged in Combat with and roll a D6. If the score is higher than the chosen model's Strength then the chosen model is put in chains and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain.
 
 </div>
 
@@ -302,7 +302,7 @@ If this model wins a Combat, then instead of making Strikes, they may choose a H
 
 - **Let's put a maggot hole in your belly** `ACTIVE`
 
-If Grishnakh wins a Duel roll, and there are no other allies involved in the combat (including Supporting models), then he can choose a single 25mm enemy model he was Engaged in Combat with and roll a D6. On a 4+, that model is knocked Prone before Strikes are made.
+If Grishnákh wins a Duel Roll, and there are no other allies involved in the Combat (including Supporting models), then Grishnákh can choose a single enemy model on a 25mm base that he was Engaged in Combat with and roll a D6. On a 4+, the chosen model is knocked Prone before Strikes are made.
 
 </div>
 
@@ -327,6 +327,10 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 **HEROIC ACTIONS**
 
 - [Heroic March]
+
+**OPTIONS**
+
+- [Warg] - 20 points
 
 </div>
 
@@ -354,15 +358,15 @@ If Grishnakh wins a Duel roll, and there are no other allies involved in the com
 
 - **Let 'em have it!** `ACTIVE`
 
-At the start of the Fight Phase, during the Declare Heroic Actions step, Rowan may declare a free [Heroic Combat]. If he does, he must using the ensuing Move to Charge an enemy Hobbit Hero model. If he cannot do so, then he cannot use this special rule.
+At the start of the Fight Phase, during the Declare Heroic Actions step, Rowan may declare a [Heroic Combat] for free. If he does, and the [Heroic Combat] is successful, Rowan must use the ensuing Move to Charge an enemy Hobbit Hero model. If Rowan cannot Charge an enemy Hobbit Hero with this Move, then he cannot use this special rule.
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes they may choose a single enemy Hobbit model they were Engaged in Combat with and roll a D6. If the score is higher than the chosen model's Strength then the chosen model is put in chains and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain.
 
 - **Burn it Down!** `ACTIVE`
 
-Once per game, if Rowan ends his Move within 1" of a single building or piece of woodland terrain, and he is not Engaged in Combat, roll a D6. On 3+, it is set on fire. Any model within base contact of it during the End Phase of any turn must roll a D6. On a 4+, they are immediately [Set Ablaze].
+Once per game, if Rowan ends his Move within 1" of a single building or a single piece of Woodland Terrain and is not Engaged in Combat, then he can try to set it alight; roll a D6. On a 3+, the selected terrain piece is set on fire. Any model that is within, or in base contact with, the terrain piece during the End Phase of any turn in which it is on fire must roll a D6. On a 4+, the model is immediately [Set Ablaze].
 
 </div>
 
@@ -391,7 +395,7 @@ Once per game, if Rowan ends his Move within 1" of a single building or piece of
 
 - **Put 'em in Chains** `ACTIVE`
 
-If this model wins a Combat, then instead of making Strikes, they may choose a Hobbit model they were Engaged in Combat with and roll a D6. If it is higher than the model's Strength, that model is put in chains, treated as if it had suffered the [Paralyse] Magic Power. However, the effects will not immediately end should this model have no Will points or be slain.
+If this model wins a Combat, then instead of making Strikes they may choose a single enemy Hobbit model they were Engaged in Combat with and roll a D6. If the score is higher than the chosen model's Strength then the chosen model is put in chains and suffers the effects of the [Paralyse] Magical Power; however, the effects will not immediately end should this model have no Will Points or be slain.
 
 - **At 'em Lads!** `ACTIVE`
 
@@ -424,7 +428,7 @@ Whilst Engaged in Combat with an enemy Hobbit model, this model gains a bonus of
 
 - **Cunning Mind** `PASSIVE`
 
-If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a D6. On a 5+, he regains a Might point that he spent earlier in the battle. Additionally, Snaga can choose not to take part in a friendly Hero model's Heroic Action, and Activate as normal.
+Whenever Snaga benefits from the Heroic Action of another friendly Hero, he may roll a D6. On a 5+, Snaga may regain a Might Point that he spent earlier in the battle. Additionally, Snaga may choose to not benefit from the Heroic Move or Heroic March of a friendly Hero, in which case he does not forego his Activation and may Activate as normal later in the Move Phase.
 
 </div>
 
@@ -451,7 +455,7 @@ If Snaga benefits from the Heroic Action of another friendly Hero, he can roll a
 
 - **A Bad Influence** `PASSIVE`
 
-Ted may include only include Hobbit models in his warband. Friendly Hobbit models within 3" of Ted gain a bonus of +1 To Wound when making Strikes.
+Ted Sandyman may only include Hobbit models in his Warband. Additionally, friendly Hobbit models within 3" of Ted Sandyman gain a bonus of +1 To Wound when making Strikes.
 
 </div>
 
@@ -483,11 +487,11 @@ Ted may include only include Hobbit models in his warband. Friendly Hobbit model
 
 - **Head Taker** `ACTIVE`
 
-If his army is Broken, instead of taking a Courage test, Ugluk can kill a friendly Warrior within 2" to pass the test, with a [Stand Fast] Range of 12" that affects both Warrior and Hero models.
+Should Uglúk's Army be Broken, then at the start of his Activation, instead of taking his Courage Test Uglúk can choose to kill a friendly Warrior model within 2" of him; remove the killed model as a casualty. If he does, then Uglúk will automatically pass his Courage Test, and his [Stand Fast] will be increased to 12" and will affect both Hero and Warrior models.
 
 - **"Looks like meat's back on the menu, boys!"** `ACTIVE`
 
-Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All friendly Uruk-hai within 6" gain [Fearless], and +1 To Wound until the end of that turn. If Ugluk does this when the army is Broken, it will also count as triggering the Head Taker rule above.
+At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2" of him; remove the killed model as a casualty. If Uglúk does this, then all friendly Uruk-hai models within 6" of him gain the [Fearless] special rule and gain a bonus of +1 To Wound when making Strikes until the end of the turn. If Uglúk does this in a turn in which his Army is Broken, then it will also count as triggering the Head Taker rule above.
 
 </div>
 
@@ -628,11 +632,11 @@ Upon Activation, Ugluk can kill a friendly Orc Warrior within 2" of him. All fri
 
 - **Bloodoath** `PASSIVE`
 
-Friendly Dunland models within 6" of the Oathmaker gain the [Fearless] special rule.
+Friendly Dunland models within 6" of the Wild Man Oathmaker count as having the [Fearless] special rule.
 
 - **"We will die for Saruman"** `PASSIVE`
 
-Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland models must re-roll To Wounds rolls of a natural 1 when making strikes.
+Whilst Saruman is alive and on the battlefield, the Wild Man Oathmaker and friendly Dunland models must re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -727,7 +731,7 @@ Whilst Saruman is alive on the battlefield, the Oathmaker and friendly Dunland m
 
 - **Wormtongue** `PASSIVE`
 
-Heroic actions cast by enemy heroes within 6" cost 2 Might points, rather than 1.
+An enemy Hero within 6" of Grima must spend 2 Might Points rather than 1 in order to declare a Heroic Action.
 
 - **A Traitor Within** `PASSIVE`
 
@@ -785,11 +789,11 @@ If Grima is deployed as part of the enemy Army, then enemy models treat him as a
 
 - **Keen Sight** `PASSIVE`
 
-Enemy models within 12" of Crebain do not gain the benefit of the [Stalk Unseen] special rule.
+Enemy models within 12" of this model gain no benefit from the [Stalk Unseen] special rule.
 
 - **Cloud of Birds** `PASSIVE`
 
-Shooting attacks will only ever hit a Crebain on a natural roll of a 6.
+Shooting attacks that target a Crebain will only ever hit on the roll of a natural 6.
 
 </div>
 
@@ -921,11 +925,11 @@ An Isengard Warg Rider must have one of the following options for the listed poi
 
 - **Berserker Blade** `ACTIVE`
 
-A [hand-and-a-half weapon][Hand-and-a-half Weapon]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can make a single Strike against every enemy model they were Engaged in Combat with.
+This is a [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, if an Uruk-hai Berserker wins a Combat whilst using their Berserker Blade as a [two-handed weapon][Two-handed Weapon], they may make a single Strike against every enemy model they were Engaged in Combat with.
 
 - **Oblivious to Pain** `PASSIVE`
 
-When the berserker suffers a Wound, roll a D6. On a 6, the Wound is ignored.
+Whenever an Uruk-hai Berserker suffers a Wound, roll a D6. On the roll of a natural 6, the Wound is ignored.
 
 </div>
 
@@ -954,11 +958,11 @@ An Uruk-hai Demolition Team contains 2 Uruk-hai Engineers, 1 Uruk-hai Berserker 
 
 **SPECIAL RULES**
 
-- **Moving the Charge**
+- **Moving the Charge** `PASSIVE`
 
 The Demolition Charge is a Heavy Object on a 25mm base, and is Moved in the same manner as any other Heavy Object.
 
-- **Detonating the Charge**
+- **Detonating the Charge** `ACTIVE`
 
 During the Fight Phase, after any Heroic Combats have been resolved, a model with a torch can attempt to detonate the Demolition Charge if they are in base contact with it and are not Engaged in Combat. A model may only attempt to detonate a Demolition Charge if the resulting explosion would hit a Siege Target or at least two enemy models. A model that wishes to detonate the Demolition Charge must first take a Courage Test. If the test is failed, the Demolition Charge cannot be detonated. If the test is passed, the Demolition Charge will go off - roll on the Detonation Table below:
 
@@ -972,7 +976,7 @@ During the Fight Phase, after any Heroic Combats have been resolved, a model wit
 
 A model without a torch can still attempt to detonate a Demolition Charge, though it will be harder to do. Any model from the same army as the Demolition Charge can attempt to detonate it by taking a Courage Test as described above. However, if the test is passed, roll a D6 - the Demolition Charge will only go off on the roll of a natural 6.
 
-- **Attacking the Charge**
+- **Attacking the Charge** `ACTIVE`
 
 A Demolition Charge can be shot at and attacked as normal, and has a Defence of 7 and 3 Wounds. Each time a Demolition Charge suffers a Wound, roll a D6. On a 6, the Demolition Charge goes off; roll on the Demolition Table. If a Demolition Charge is Wounded by the explosion of another Demolition Charge, it will go off on the roll of a 4+ rather than a 6.
 
@@ -1074,7 +1078,7 @@ An Uruk-Hai Warrior must have one of the following options for the listed points
 
 - **Flaming Brand** `PASSIVE`
 
-A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, this model will then count as 2 models rather than 1 when working out how many models are within range of an objective marker.
+A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) special rules. Additionally, a model with a Flaming Brand counts as 2 models rather than 1 when working out how many models are within range of an Objective Marker.
 
 </div>
 
@@ -1088,7 +1092,7 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 
 | Range | S | D | W |
 |:--:|:-:|:-:|:-:|
-| 12"-60" | 9 | 10 | 4 |
+| 12"‑60" | 9 | 10 | 4 |
 
 **COMPOSITION**
 
@@ -1100,19 +1104,19 @@ Crewed by three Uruk-hai Siege Crew, one of which is a [Siege Veteran].
 
 - **Accurate** `ACTIVE`
 
-An Assault Ballista will only scatter 3" rather than 6"
+An Isengard Assault Ballista will only Scatter 3" rather than 6".
 
 - **Piercing Shot** `ACTIVE`
 
-A model hit will be flung back D6" if it has a Strength of 5 or lower. Any models passed over are knocked prone and take a Strength 5 hit. The flung model stops if it hits impassable terrain or a model with Strength 6 or higher, and both take a Strength 6 hit. The flung model is knocked prone if it survives. If the flung model would end its movement over other models, those models are moved the minimum distance to allow the flung model to be placed.
+A model that is hit by the shot of an Isengard Assault Ballista will be flung back D6" directly away from the Ballista if it has a Strength of 5 or lower. Any model that is passed over by the flung model suffers a Strength 5 hit and will be knocked Prone. If the flung model comes into contact with a piece of impassable terrain or a model with a Strength of 6 or higher, then it will stop and both the flung model and the model or piece of terrain that was hit will suffer one Strength 6 hit. After being flung back, the flung model will be knocked Prone if they survive. If after the model is flung back it would finish over other models and it has survived, then simply move the other models the minimum distance possible to allow the flung model to be placed where it has landed.
 
 - **Raise the Ladders!** `ACTIVE`
 
-An Isengard Assault Ballista can be used to raise a ladder onto enemy battlements in a siege game. Choose a point on the battlements within range and roll to hit. If successful, place a ladder within 6" of the wall base below the target point against the battlements. A model that was carrying the ladder can be placed at the top and will count as charging if there is a defender there. If not, the model can move normally.
+In a siege game, an Isengard Assault Ballista can be used to raise a ladder onto enemy battlements. To do this, choose a point on the battlements within range, Arc of Sight and Line of Sight of the Ballista and roll To Hit as usual. If the To Hit Roll is successful, place a siege ladder that is within 6" of the wall base below the target point against the battlements. A single model that was carrying the ladder can then be placed at the top of this ladder, and will count as Charging if there is a defender at the top of the battlements where the ladder was raised. If not, the model can Move as normal.
 
 ---
 
-**Uruk-hai Engineer**
+**Uruk-hai Siege Crew**
 
 **URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
 
