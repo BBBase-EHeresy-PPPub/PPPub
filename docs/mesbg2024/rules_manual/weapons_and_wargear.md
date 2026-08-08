@@ -204,7 +204,7 @@ As a war drum allows a model to declare a free Heroic March, models cannot be af
 
 ### WAR HORN
 
-Models within 24" of a friendly model with a war horn gain a bonus of +1 to any Courage Tests they take. Additionally, a model with a war horn gains the Dominant (2) special rule and can use it once per game to increase the range of a friendly Hero model's [Stand Fast] by 3", so long as the model with the war horn is in range of the Hero model's [Stand Fast] before this increase. If a Hero model has a war horn themselves, they may use it to increase the range of their own [Stand Fast] by 3" instead. A war horn is treated as an Active ability (see page 123).
+Models within 24" of a friendly model with a war horn gain a bonus of +1 to any Courage Tests they take. Additionally, a model with a war horn gains the Dominant (2) special rule and can use it once per game to increase the range of a friendly Hero model's [Stand Fast] by 3", so long as the model with the war horn is in range of the Hero model's [Stand Fast] before this increase. If a Hero model has a war horn themselves, they may use it to increase the range of their own [Stand Fast] by 3" instead. A war horn is treated as an Active ability (see [page 123](special_rules.md#active-passive-special-rules)).
 
 ## ARMOUR
 
@@ -246,7 +246,7 @@ A model carrying a shield may declare they are Shielding at the start of a Comba
 
 In a Multiple Combat, if one model wishes to declare they are Shielding, then all friendly models must do so. If some of them cannot, then no models may declare they are Shielding. Models that are Shielding cannot be Supported.
 
-Cavalry models cannot declare they are Shielding. Additionally, Shielding is treated as an Active ability (see page 123).
+Cavalry models cannot declare they are Shielding. Additionally, Shielding is treated as an Active ability (see [page 123](special_rules.md#active-passive-special-rules)).
 
 A Prone model can declare they are Shielding - in fact, it is a sensible way of trying to get them to stand back up as a Prone model can't make Strikes anyway!
 
@@ -262,7 +262,7 @@ A model who carries the One Ring is referred to as the Ringbearer.
 
 ### WEARING THE RING
 
-A Ringbearer can put on the One Ring at any point during their Activation. As soon as they do they benefit from the Invisible special rule (see page 127). A Ringbearer who is unable to Activate (such as if they are Engaged in Combat) cannot put on the Ring.
+A Ringbearer can put on the One Ring at any point during their Activation. As soon as they do they benefit from the Invisible special rule (see [page 127](special_rules.md#invisible)). A Ringbearer who is unable to Activate (such as if they are Engaged in Combat) cannot put on the Ring.
 
 If a model puts on the Ring whilst they are mounted, then their Mount will immediately bolt and flee the battlefield (the Mount is therefore removed), and the model must immediately take a Thrown Rider Test.
 

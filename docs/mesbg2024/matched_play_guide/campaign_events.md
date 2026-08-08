@@ -16,9 +16,9 @@ If an event has an odd number of players then a Spare Player will be required to
 
 ### PAIRINGS
 
-A Campaign event should have a total of six rounds, each one played in one of the six different Regions of Middle-earth (see page 50). When determining pairings, players are randomly matched up against other players from different factions, ensuring that no player is paired against the same opponent twice, or any players from their own faction. If this happens, simply swap one of the two players with a player from a nearby table so that all players have an opponent they have not yet played.
+A Campaign event should have a total of six rounds, each one played in one of the six different Regions of Middle-earth (see [page 50](campaign_events.md#regions)). When determining pairings, players are randomly matched up against other players from different factions, ensuring that no player is paired against the same opponent twice, or any players from their own faction. If this happens, simply swap one of the two players with a player from a nearby table so that all players have an opponent they have not yet played.
 
-After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 24 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on page 10.
+After players have been paired up, and any re-pairings sorted out, the Region that is being fought over and the Scenario to be played need to be decided. The Scenarios will be chosen from the 24 Matched Play Scenarios listed previously in this supplement. To decide which of the Scenarios will be played, follow the same process for determining a Scenario for a Matched Play event as found on [page 10](scenario_pool_system.md).
 
 To decide on which Region all players will be fighting over, roll a D6 and consult the chart below. Once a Region has been fought over once it cannot be fought over again - its fate will already have been decided. This way, each Region will be fought over once in an event.
 

@@ -25,7 +25,7 @@ There will be other situations that also require a model to take a Courage Test.
 
 If a model passes a Courage Test caused by a special rule or ability, it will automatically pass any other Courage Tests it is required to make for the same special rule or ability for the remainder of the turn, unless otherwise stated.
 
-***Example 45:** Aragorn has Charged a Ringwraith after passing his Courage Test due to the Ringwraith's Terror special rule. Aragorn declares a Heroic Combat (see page 81) and successfully slays the Nazgûl. Aragorn does not need to take a second Courage Test to Charge the second Ringwraith as he has already passed one Courage Test for the Terror special rule this turn.*
+***Example 45:** Aragorn has Charged a Ringwraith after passing his Courage Test due to the Ringwraith's Terror special rule. Aragorn declares a Heroic Combat (see [page 81](heroes.md#heroic-combat-fight-phase-64)) and successfully slays the Nazgûl. Aragorn does not need to take a second Courage Test to Charge the second Ringwraith as he has already passed one Courage Test for the Terror special rule this turn.*
 
 ![](../media/rules_manual/example_45.jpg){ width=871 height=407 }
 

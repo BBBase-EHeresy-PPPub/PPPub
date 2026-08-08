@@ -42,7 +42,7 @@ Depending on the configuration of your fortress, there may be doorways and trapd
 
 ### STAIRS
 
-Models can Move freely up and down stairs, though Cavalry have some alternative interactions with stairs as described in the Cavalry rules on page 68. Fighting on stairs is much the same as fighting anywhere else, with one exception. Should a model have to Back Away down the stairs, they must roll a D6 before the winner makes Strikes. On a 1-3, the model that Backed Away will slip and become Prone.
+Models can Move freely up and down stairs, though Cavalry have some alternative interactions with stairs as described in the Cavalry rules on [page 68](cavalry.md#stairs). Fighting on stairs is much the same as fighting anywhere else, with one exception. Should a model have to Back Away down the stairs, they must roll a D6 before the winner makes Strikes. On a 1-3, the model that Backed Away will slip and become Prone.
 
 ***Example 82:** These Uruk-hai have both Charged up ladders and become Engaged in Combat with the Warriors of Rohan. Uruk-hai A wins their Combat and successfully kills their target; they may then Move onto the walls. However, Uruk-hai B loses their Combat though is not slain by the Warrior of Rohan. After the Strikes have been resolved, Uruk-hai B rolls a D6, scoring a 2 meaning they fall and suffer Falling Damage.*
 
@@ -96,7 +96,7 @@ When choosing your forces for a siege game, both the attacker and the defender c
 
 **Barricade - 5 points**
 
-A Barricade should be no more than 3" in length, 1" in width and 1" in height. A Barricade can be defended in the same way as a Barrier (see page 54), and can be Jumped over in the same way as an Obstacle. A Barricade has a Defence of 7 and 2 Wounds.
+A Barricade should be no more than 3" in length, 1" in width and 1" in height. A Barricade can be defended in the same way as a Barrier (see [page 54](fight_phase.md#barriers-38)), and can be Jumped over in the same way as an Obstacle. A Barricade has a Defence of 7 and 2 Wounds.
 
 **Spiked Barricade - 10 points**
 
@@ -127,7 +127,7 @@ The defenders must defend the fortress at all costs, whilst the attackers seek t
 
 **THE ARMIES**
 
-Players may either decide who is the attacker and defender, or may roll a D6 with the player who rolls highest choosing which to be. Players then build their Armies as described on pages 154-155. The attacker gains an additional 25% of the points value of the defender's Army to add to their own. So, If the defender's Army is 1,000 points, then the attacker may have up to 1,250 points.
+Players may either decide who is the attacker and defender, or may roll a D6 with the player who rolls highest choosing which to be. Players then build their Armies as described on [pages 154-155](matched_play.md#building-a-matched-play-army). The attacker gains an additional 25% of the points value of the defender's Army to add to their own. So, If the defender's Army is 1,000 points, then the attacker may have up to 1,250 points.
 
 Both the attacker and defender may purchase items from their respective siege equipment list.
 

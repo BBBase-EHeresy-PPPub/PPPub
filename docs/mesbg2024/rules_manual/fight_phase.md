@@ -95,7 +95,7 @@ If this is still a tie, then the player with Priority will need to roll a D6 to 
 
 Once the winner of the Duel Roll has been determined, the loser must Back Away in a direction chosen by their controlling player. To Back Away, the losing model must Move 1" in a straight line (though this does not have to be directly away).
 
-When a model must Back Away it may Move through the Control Zones of enemy models, but cannot Move into base contact with them. When a model must Back Away this will not count as a normal Move, and so can still be done if a model used their full Move Value during their Activation or has been affected by a special rule or Magical Power that would normally prevent them from Moving. This also means that Backing Away is not slowed by Difficult Terrain. Backing Away cannot be used to cross Obstacles or take a Jump, Climb or Leap Test. However, if the loser is at the edge of a vertical drop, with nowhere else to Back Away to, then they must Back Away over the edge and will fall as described on page 35. Make any Strikes against the model being pushed over the edge first and then resolve any Falling Damage if the model survives.
+When a model must Back Away it may Move through the Control Zones of enemy models, but cannot Move into base contact with them. When a model must Back Away this will not count as a normal Move, and so can still be done if a model used their full Move Value during their Activation or has been affected by a special rule or Magical Power that would normally prevent them from Moving. This also means that Backing Away is not slowed by Difficult Terrain. Backing Away cannot be used to cross Obstacles or take a Jump, Climb or Leap Test. However, if the loser is at the edge of a vertical drop, with nowhere else to Back Away to, then they must Back Away over the edge and will fall as described on [page 35](move_phase.md#falling-and-falling-damage-17). Make any Strikes against the model being pushed over the edge first and then resolve any Falling Damage if the model survives.
 
 ***Example 33:** Haleth has beaten Wulf in a Duel Roll, and so Wulf must now Back Away 1". The direction in which Wulf Backs Away is up to his controlling player, as long as he Moves the full 1" away from Haleth. As Wulf retreats backwards, Haleth readies his weapon to make Strikes.*
 
@@ -139,7 +139,7 @@ If both models in a Combat happen to be Prone, the Duel Roll will still be made;
 
 ### WINNER MAKES STRIKES
 
-Once the Duel Roll has been resolved and the loser has Backed Away, the winner gets the chance to make Strikes against their enemy. To make a Strike, roll To Wound by comparing the model's Strength against the target's Defence on the To Wound Chart in the same manner as Shooting (see page 44). If the To Wound Roll is successful, the target suffers a Wound; reduce their remaining Wounds by 1. If this reduces a model's Wounds characteristic to 0, they are slain and removed as a casualty. If the To Wound Roll fails, nothing happens.
+Once the Duel Roll has been resolved and the loser has Backed Away, the winner gets the chance to make Strikes against their enemy. To make a Strike, roll To Wound by comparing the model's Strength against the target's Defence on the To Wound Chart in the same manner as Shooting (see [page 44](shoot_phase.md#to-wound-chart-27)). If the To Wound Roll is successful, the target suffers a Wound; reduce their remaining Wounds by 1. If this reduces a model's Wounds characteristic to 0, they are slain and removed as a casualty. If the To Wound Roll fails, nothing happens.
 
 #### MULTIPLE ATTACKS
 
@@ -191,7 +191,7 @@ Often, if a model with multiple Attacks is making Strikes they will do so in the
 
 #### OUTNUMBERED IN A COMBAT
 
-Some special rules will come into effect when a certain model is outnumbered in a Combat, i.e., if the model is on its own and fighting multiple opponents - such as if it is two-on-one. It is important to note that Supporting models (see page 104) never count towards working out if a model is outnumbered in a Combat.
+Some special rules will come into effect when a certain model is outnumbered in a Combat, i.e., if the model is on its own and fighting multiple opponents - such as if it is two-on-one. It is important to note that Supporting models (see [page 104](weapons_and_wargear.md#spear-78)) never count towards working out if a model is outnumbered in a Combat.
 
 ## DEFENDED POSITIONS
 

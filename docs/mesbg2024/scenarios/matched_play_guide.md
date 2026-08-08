@@ -6,11 +6,11 @@ Players fight to control five objectives scattered across the battlefield.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. To place the other objectives, both players roll a D6. The player with the highest score places one objective anywhere on the battlefield at least 12" away from the existing objective and 6" away from any board edge. Their opponent then places a third objective at least 12" away from existing objectives and at least 6" away from any board edge. The players then alternate placing the remaining two objectives, according to the restrictions noted earlier.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. To place the other objectives, both players roll a D6. The player with the highest score places one objective anywhere on the battlefield at least 12" away from the existing objective and 6" away from any board edge. Their opponent then places a third objective at least 12" away from existing objectives and at least 6" away from any board edge. The players then alternate placing the remaining two objectives, according to the restrictions noted earlier.
 
 **STARTING POSITIONS**
 
@@ -44,11 +44,11 @@ Victory goes to the force which can crush the foe and slay the enemy General.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -85,11 +85,11 @@ Control the centre of the battlefield, no matter the cost.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield.
 
 **STARTING POSITIONS**
 
@@ -128,11 +128,11 @@ Destroy your opponent's supplies whilst protecting your own.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each player's deployment zone so that the objectives are equidistant along the edge of each player's deployment zone, with one in the centre.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each player's deployment zone so that the objectives are equidistant along the edge of each player's deployment zone, with one in the centre.
 
 The first is placed 12" from the centre of the player's board edge. The others are then placed halfway between the central objective and the board edges on either side.
 
@@ -178,11 +178,11 @@ Have more models escape the field than your opponent.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -232,11 +232,11 @@ Outwit your opponent by concealing your true objective.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -276,11 +276,11 @@ Control areas of the battlefield and deny them to your foe.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. One Objective Marker is placed exactly halfway between the centre of the board and the centre of the northern table edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. One Objective Marker is placed exactly halfway between the centre of the board and the centre of the northern table edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
 
 **STARTING POSITIONS**
 
@@ -324,11 +324,11 @@ Capture the areas of the battlefield that are worth the most to your opponent.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place four Objective Markers on the board. One of these is placed exactly 12" from the centre of one player's board edge, and another is placed exactly 12" from the centre of the other player's board edge. The remaining two objectives are both placed 12" away from the centre of the board, on opposite sides, along the centreline of the board.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place four Objective Markers on the board. One of these is placed exactly 12" from the centre of one player's board edge, and another is placed exactly 12" from the centre of the other player's board edge. The remaining two objectives are both placed 12" away from the centre of the board, on opposite sides, along the centreline of the board.
 
 **STARTING POSITIONS**
 
@@ -366,11 +366,11 @@ Players fight to secure a foothold in five key locations.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. One Objective Marker is placed exactly halfway between the centre of the board and the centre of the northern table edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. One Objective Marker is placed exactly halfway between the centre of the board and the centre of the northern table edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
 
 **STARTING POSITIONS**
 
@@ -413,11 +413,11 @@ A pitched battle where victory goes to the player who causes the most carnage.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -458,11 +458,11 @@ Using your Assassin, slay your target to achieve victory.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -512,11 +512,11 @@ A trial of heroes; the Champion who causes the most carnage will rise triumphant
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -566,11 +566,11 @@ A precious Heirloom lies upon the battlefield. They who hold it will win the day
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. This Scenario uses six Objective Markers, one representing the Heirloom and five as decoys. All six Objective Markers should be identical on one side, with the one that is the Heirloom clearly marked on the reverse side. To deploy the Objective Markers, place one exactly 12" from the centre of the northern board edge and another exactly 12" from the centre of the southern board edge. The remaining four Objective Markers are deployed so that they form a hexagon with each being 12" away from the others, as shown on the map.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. This Scenario uses six Objective Markers, one representing the Heirloom and five as decoys. All six Objective Markers should be identical on one side, with the one that is the Heirloom clearly marked on the reverse side. To deploy the Objective Markers, place one exactly 12" from the centre of the northern board edge and another exactly 12" from the centre of the southern board edge. The remaining four Objective Markers are deployed so that they form a hexagon with each being 12" away from the others, as shown on the map.
 
 If you are playing this Scenario in a tournament, it is a good idea to get another table to deploy your Objective Markers whilst you do the same for them. That way players won't accidentally see where the Heirloom is as they deploy their Objective Markers.
 
@@ -618,11 +618,11 @@ Players fight to control four objectives across the battlefield.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place four Objective Markers on the battlefield. The first Objective Marker is placed exactly halfway between the centre of the board and the north-east corner of the board edge. The other three Objective Markers are deployed in the same way in relation to the south-east, south-west and north-west corners respectively (see map).
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place four Objective Markers on the battlefield. The first Objective Marker is placed exactly halfway between the centre of the board and the north-east corner of the board edge. The other three Objective Markers are deployed in the same way in relation to the south-east, south-west and north-west corners respectively (see map).
 
 **STARTING POSITIONS**
 
@@ -669,11 +669,11 @@ The battlefield is divided into quarters; control the most to achieve victory.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -714,11 +714,11 @@ Reclaim what was stolen by the enemy and escape the battlefield with it.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -749,7 +749,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 * **The Relic**
 
-Each Relic is a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). A Relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If your Relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then you must try to return it to its original position as quickly as possible. A model may never carry both Relics at the same time under any circumstances, and if they are carrying their opponent's Relic they may entirely ignore their own Relic and continue to move as normal. Until it has been picked up by an enemy model, friendly models may not pick up their own Relic.
+Each Relic is a Light Object (see [page 134](../rules_manual/advanced_rules.md#light-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). A Relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If your Relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then you must try to return it to its original position as quickly as possible. A model may never carry both Relics at the same time under any circumstances, and if they are carrying their opponent's Relic they may entirely ignore their own Relic and continue to move as normal. Until it has been picked up by an enemy model, friendly models may not pick up their own Relic.
 
 ![](../media/scenarios/matched_play_guide/retrieval.jpg){ width=1000 height=671 }
 
@@ -763,11 +763,11 @@ Recover the precious items and carry them through the enemy force to victory.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers on the battlefield; one is automatically placed in the centre of the board, with the other two placed halfway between the central objective and the centre of the eastern and western board edges respectively (see map). These represent the Artefacts.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers on the battlefield; one is automatically placed in the centre of the board, with the other two placed halfway between the central objective and the centre of the eastern and western board edges respectively (see map). These represent the Artefacts.
 
 **STARTING POSITIONS**
 
@@ -807,11 +807,11 @@ Recover more of the ancient Artefacts than your opponent.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each half of the board. The first is placed exactly 18" from the centre of one player's board edge. The others are then placed halfway between the central objective and the board edges on either side, ensuring that they are equidistant along an imaginary line 18" from one player's board edge (see map). These represent the Artefacts.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each half of the board. The first is placed exactly 18" from the centre of one player's board edge. The others are then placed halfway between the central objective and the board edges on either side, ensuring that they are equidistant along an imaginary line 18" from one player's board edge (see map). These represent the Artefacts.
 
 **STARTING POSITIONS**
 
@@ -850,11 +850,11 @@ Oust the enemy from their camp, whilst keeping yours secure.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -895,11 +895,11 @@ With your Army split in two, claim the key areas of the battlefield.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then place one Objective Marker in the centre of the board, another halfway between the central objective and the centre of the eastern board edge, and another halfway between the central objective and the centre of the western board edge.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then place one Objective Marker in the centre of the board, another halfway between the central objective and the centre of the eastern board edge, and another halfway between the central objective and the centre of the western board edge.
 
 **STARTING POSITIONS**
 
@@ -939,11 +939,11 @@ Deliver your wounded allies to safety, whilst preventing the enemy from doing th
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each player's deployment zone so that the Objective Markers are equidistant along the edge of each player's deployment zone, with one in the centre.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers in each player's deployment zone so that the Objective Markers are equidistant along the edge of each player's deployment zone, with one in the centre.
 
 The first is placed 12" from the centre of the player's board edge. The others are then placed halfway between the central objective and the board edges on either side, so that all three Objective Markers are equidistant along the edge of one player's deployment zone.
 
@@ -976,7 +976,7 @@ The areas within 12" of the corners that are not in a player's deployment zone a
 
 * **Wounded Allies**
 
-The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
+The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
 
 ![](../media/scenarios/matched_play_guide/escort_the_wounded.jpg){ width=1000 height=670 }
 
@@ -990,11 +990,11 @@ Two forces clash in the dark of night in a bid to assert their dominance upon th
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield.
 
 **STARTING POSITIONS**
 
@@ -1035,11 +1035,11 @@ Use your heroes to secure key areas of the battlefield.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers on the battlefield; one is automatically placed in the centre of the board, with the other two placed halfway between the central objective and the centre of the eastern and western board edges respectively (see map).
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Then, place three Objective Markers on the battlefield; one is automatically placed in the centre of the board, with the other two placed halfway between the central objective and the centre of the eastern and western board edges respectively (see map).
 
 **STARTING POSITIONS**
 
@@ -1079,11 +1079,11 @@ Reunite your forces and deliver the Heirlooms to their place of power.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. Place four Objective Markers on the battlefield to represent the different Heirlooms. Place the first Objective Marker halfway between the centre of the board and the northern board edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. Place four Objective Markers on the battlefield to represent the different Heirlooms. Place the first Objective Marker halfway between the centre of the board and the northern board edge. The other three Objective Markers are deployed in the same way in relation to the east, south and west board edges respectively (see map).
 
 **STARTING POSITIONS**
 

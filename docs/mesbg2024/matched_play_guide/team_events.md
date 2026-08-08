@@ -16,13 +16,13 @@ Much like how Gandalf guided both the Fellowship and Thorin's Company on their q
 
 ### BUILDING THE ARMIES
 
-Each player will need an Army to play with for the duration of the event; rules for building an Army can be found on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*. However, as players are competing as part of a team, there are a few things they will need to take into account when building their Armies.
+Each player will need an Army to play with for the duration of the event; rules for building an Army can be found on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*. However, as players are competing as part of a team, there are a few things they will need to take into account when building their Armies.
 
 #### RULE OF ONE
 
 As players are working together as a team, it makes sense that they wouldn't be able to use the same named characters or Unique pieces of wargear - as much as they might like to! Thorin, Elrond and Aragorn may be amongst the mightiest heroes in Middle-earth, but not even they can be in two places at once!
 
-As a result, the Unique keyword, described on page 65 of the *Middle-earth Strategy Battle Game Rules Manual*, applies across the entire team, rather than to each Army. This means that teams cannot take the same named character twice across their Army, even if a character has multiple different profiles, such as Thorin Oakenshield, or even has different alignments, such as Saruman who can be taken as either a Good or Evil model.
+As a result, the Unique keyword, described on [page 65](../rules_manual/unit_types.md#unique) of the *Middle-earth Strategy Battle Game Rules Manual*, applies across the entire team, rather than to each Army. This means that teams cannot take the same named character twice across their Army, even if a character has multiple different profiles, such as Thorin Oakenshield, or even has different alignments, such as Saruman who can be taken as either a Good or Evil model.
 
 *For example: Keith wants to use Aragorn (Strider) in his Army but Becky, who is on the same team as Keith, wants to use Aragorn, King Elessar in her force. Only one of them will be able to use Aragorn, because Aragorn has the Unique keyword, so the pair will have to come to an amicable agreement as to who gets to take the stoic ranger in their force.*
 
@@ -32,7 +32,7 @@ Following the same principle, the same Unique piece of wargear cannot be taken t
 
 *For example: Luke is intending to take the mighty Thorin Oakenshield wielding Orcrist in his force; however, Lewis is on the same team as Luke and wishes to arm his Legolas Greenleaf, Prince of Mirkwood, with the deadly blade. As they cannot both take Orcrist in their Army, the two will have to come to a decision about who gets to arm their Hero with the Elven weapon.*
 
-A team may include multiple models who can carry The One Ring, but as The One Ring is one of a kind (the clue is in the name!), follow the hierarchy table on page 111 of the *Middle-earth Strategy Battle Game Rules Manual* to determine who carries it.
+A team may include multiple models who can carry The One Ring, but as The One Ring is one of a kind (the clue is in the name!), follow the hierarchy table on [page 111](../rules_manual/weapons_and_wargear.md#the-one-ring) of the *Middle-earth Strategy Battle Game Rules Manual* to determine who carries it.
 
 *For example: Rob has chosen to take Sauron in his Army for the event and Dan, who is on the same team as Rob, wants to take Bilbo Baggins, Master Burglar, in his Army. As Sauron is higher on The One Ring hierarchy table than Bilbo, it is the Dark Lord who will wield the power of the Ring for the event, not the plucky Hobbit - though Dan is still more than welcome to take Bilbo; he just won't have the Ring as part of his wargear.*
 
@@ -46,7 +46,7 @@ As the fight for Middle-earth is between the forces of light and darkness, each 
 
 ### SCORING & TIEBREAKERS
 
-Scoring in a Team event is very similar to a regular Matched Play event, with a few small differences. Major and Minor Victories, as described on page 58, will always be in use at Team events, but the amount of points awarded for each result is slightly different. A team's TPs are still used to determine a team's ranking.
+Scoring in a Team event is very similar to a regular Matched Play event, with a few small differences. Major and Minor Victories, as described on [page 58](additional_rules.md#major-minor-victories), will always be in use at Team events, but the amount of points awarded for each result is slightly different. A team's TPs are still used to determine a team's ranking.
 
 **Major Win** - 4 Tournament Points
 
@@ -88,7 +88,7 @@ For the first round, teams will be randomly paired against each other to determi
 
 #### SUBSEQUENT ROUNDS
 
-After the first round, teams will be paired based on their ranking in the event, using the same method as previously described on page 7.
+After the first round, teams will be paired based on their ranking in the event, using the same method as previously described on [page 7](recommended_tournament_style.md#subsequent-rounds).
 
 ### TEAM PAIRING SYSTEM
 

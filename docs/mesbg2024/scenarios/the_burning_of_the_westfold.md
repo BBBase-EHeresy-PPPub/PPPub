@@ -60,7 +60,7 @@ The game lasts until one force completes their Objective. The Good player wins i
 
 * **They came in the Night**
 
-This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*. In addition, at the start of each of the Evil player's Activation Phases, they may roll 2D3 and up to that many Dunlendings not yet in play may enter the battlefield. Each of these models moves onto the battlefield from base contact with a Dunlending tent, and may Move and Charge on the turn they enter. No more than two models may be placed in base contact with a single tent each turn.
+This Scenario takes place at night and follows the rules for Fighting at Night as described on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the *Middle-earth Strategy Battle Game Rules Manual*. In addition, at the start of each of the Evil player's Activation Phases, they may roll 2D3 and up to that many Dunlendings not yet in play may enter the battlefield. Each of these models moves onto the battlefield from base contact with a Dunlending tent, and may Move and Charge on the turn they enter. No more than two models may be placed in base contact with a single tent each turn.
 
 * **Scatter the Foes**
 
@@ -138,7 +138,7 @@ The game lasts until the end of a turn in which one side has been reduced to 25%
 
 * **Surprise Attack**
 
-Evil models may not Move during the first turn of the game. This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Evil models may not Move during the first turn of the game. This Scenario takes place at night and follows the rules for Fighting at Night as described on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 * **Merry and Pippin**
 
@@ -290,7 +290,7 @@ The game lasts until, at the end of a turn, one side has completed their objecti
 
 * **Riders of Éomer**
 
-The special rules for the Riders of Éomer Army List (see page 99 of *Armies of the Lord of the Rings*) apply to the Good Army during this scenario.
+The special rules for the Riders of Éomer Army List (see [page 99](../good_army_list/riders_of_eomer.md) of *Armies of the Lord of the Rings*) apply to the Good Army during this scenario.
 
 ![](../media/scenarios/the_burning_of_the_westfold/eomers_return.jpg){ width=774 height=1539 }
 

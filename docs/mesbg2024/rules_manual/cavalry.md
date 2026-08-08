@@ -44,7 +44,7 @@ Additionally, whilst within Difficult Terrain, Cavalry models never get any of t
 
 ### JUMPING AND LEAPING
 
-Cavalry models must take Jump and Leap Tests in the same way as other models. Jumping and Leaping from the back of a mount is not without risk, however. If a 1 is rolled for either a Jump or Leap Test for a Cavalry model, then in addition to applying the result rolled on the relevant chart, the model has also been Knocked Flying exactly as if they had rolled a 1 on the Thrown Rider Chart (see page 70).
+Cavalry models must take Jump and Leap Tests in the same way as other models. Jumping and Leaping from the back of a mount is not without risk, however. If a 1 is rolled for either a Jump or Leap Test for a Cavalry model, then in addition to applying the result rolled on the relevant chart, the model has also been Knocked Flying exactly as if they had rolled a 1 on the Thrown Rider Chart (see [page 70](cavalry.md#thrown-rider-table)).
 
 ### DESCENDING (51)
 
@@ -68,7 +68,7 @@ Cavalry models cannot pass through Doorways or ceilings that are too low. See if
 
 #### WATER FEATURES
 
-Cavalry models can Swim, in fact they gain some bonuses when Moving through water features as explained on page 133.
+Cavalry models can Swim, in fact they gain some bonuses when Moving through water features as explained on [page 133](advanced_rules.md#water-features).
 
 ### CAVALRY AND COURAGE TESTS
 
@@ -118,7 +118,7 @@ When a model targets a Cavalry model with a Shooting Attack, they must always ta
 
 ### SLAIN RIDERS AND MOUNTS
 
-If the rider is slain, then the Mount becomes a Separated Mount as described on page 69. If it stays on the battlefield, replace the Cavalry model with a suitable unridden Mount model - it will then lose the Mount keyword.
+If the rider is slain, then the Mount becomes a Separated Mount as described on [page 69](cavalry.md#separated-mounts). If it stays on the battlefield, replace the Cavalry model with a suitable unridden Mount model - it will then lose the Mount keyword.
 
 Should the Mount be slain, then the rider must immediately take a Thrown Rider Test by rolling a D6 and consulting the Thrown Rider Table. If the rider survives, replace the Cavalry model with a dismounted Infantry version of that model. The Infantry model must be placed wholly within the footprint of where the Cavalry model was, as close to the centre as possible. If the model was Engaged in Combat when it was dismounted, it will still count as being Engaged in Combat with all enemy models it was in base contact with, even though it will no longer be in base contact with those models.
 
@@ -134,7 +134,7 @@ Should the Mount be slain, then the rider must immediately take a Thrown Rider T
 
 There are various steeds that can be ridden by Cavalry models. The most unusual ones can be found in the profile of the Cavalry model in question, but the more common ones can be found here.
 
-Mount models have their own list of keywords; for their Faction keyword, a Mount will take on the same Faction keyword as their rider, even if the rider is slain. Some will have their own special rules as well, which are described on page 122.
+Mount models have their own list of keywords; for their Faction keyword, a Mount will take on the same Faction keyword as their rider, even if the rider is slain. Some will have their own special rules as well, which are described on [page 122](special_rules.md#list-of-special-rules).
 
 <div class="unitCard" markdown>
 
@@ -347,7 +347,7 @@ If a special rule states it affects a model, or all models within a certain rang
 
 ## CAVALRY AND MAGIC (57)
 
-If a model uses a Magical Power that targets a Cavalry model, then the whole model (both rider and Mount) is considered to be the target of the Magical Power, and both will feel the effects. Some Magical Powers may state that if it targets a Cavalry model then they must choose whether the rider or Mount is affected, in which case only the chosen part of the Cavalry model will be affected if the Magical Power succeeds (see page 112).
+If a model uses a Magical Power that targets a Cavalry model, then the whole model (both rider and Mount) is considered to be the target of the Magical Power, and both will feel the effects. Some Magical Powers may state that if it targets a Cavalry model then they must choose whether the rider or Mount is affected, in which case only the chosen part of the Cavalry model will be affected if the Magical Power succeeds (see [page 112](magic.md#using-magical-powers)).
 
 ***Example 57:** Gandalf is mounted upon Shadowfax and is the target of Saruman's Flameburst Magical Power. As this is a Cavalry model, both Gandalf and his Mount, Shadowfax, will feel the effects.*
 

@@ -421,7 +421,7 @@ If Bofur is Engaged in Combat with the Troll Brute and the Good player wins the 
 
 * **The Signal Tower**
 
-In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on page 147 of *Armies of The Hobbit*.
+In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on [page 147](../evil_army_list/army_of_gundabad.md) of *Armies of The Hobbit*.
 
 ![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg){ width=1000 height=680 }
 
@@ -541,7 +541,7 @@ The game lasts until Frodo leaves the board under any circumstance. The Good pla
 
 * **"Find the Halflings!"**
 
-Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the Paralyse Magical Power. Evil models treat a knocked out Hobbit as a Heavy Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation Prone. Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
+Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the Paralyse Magical Power. Evil models treat a knocked out Hobbit as a Heavy Object (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation Prone. Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
 
 * **The Legions of Isengard**
 

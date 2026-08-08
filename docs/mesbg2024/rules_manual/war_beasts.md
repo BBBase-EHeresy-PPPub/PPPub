@@ -1,6 +1,6 @@
 Some truly monstrous beasts roam parts of Middle-earth; huge, lumbering creatures that tower over even the likes f Trolls and fortifications. Some races have been able to harness such creatures, using them as massive weapons of war to trample their enemies underfoot or riding atop them in howdahs (or similar) from where they can fire down upon their enemies. From the mutilated Troll Brutes used by Azog's legions to the fearsome Mûmakil used by the Haradrim at the Battle of Pelennor Fields, these huge war beasts are a powerful force to be reckoned with.
 
-Whilst a War Beast is its own unit type and has its own keyword, a War Beast will also be affected by any special rules that affect Monster models. However, as they function very differently to standard Monster models, they do not benefit from the Monster rules on pages 90-91 and instead use those listed here.
+Whilst a War Beast is its own unit type and has its own keyword, a War Beast will also be affected by any special rules that affect Monster models. However, as they function very differently to standard Monster models, they do not benefit from the Monster rules on [pages 90-91](monsters.md) and instead use those listed here.
 
 ## WHAT IS A WAR BEAST?
 

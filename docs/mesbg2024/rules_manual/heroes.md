@@ -262,11 +262,11 @@ A Hero may spend one or more Will Points to increase the result of a Courage Tes
 
 ### CAST A MAGICAL POWER
 
-A Hero who has Magical Powers in their profile can spend Will Points in order to attempt to Cast them. For each Will Point spent, the Hero may add one D6 to their Casting Test. Magical Powers are covered fully on page 112.
+A Hero who has Magical Powers in their profile can spend Will Points in order to attempt to Cast them. For each Will Point spent, the Hero may add one D6 to their Casting Test. Magical Powers are covered fully on [page 112](magic.md#using-magical-powers).
 
 ### RESIST A MAGICAL POWER
 
-A Hero who has been targeted by a Magical Power can spend Will Points in order to try to Resist the effects. For each Will Point spent, the Hero may add one D6 to their Resist Test. Resisting Magical Powers is covered fully on page 114.
+A Hero who has been targeted by a Magical Power can spend Will Points in order to try to Resist the effects. For each Will Point spent, the Hero may add one D6 to their Resist Test. Resisting Magical Powers is covered fully on [page 114](magic.md#resisting-a-magical-power-81).
 
 ## FATE (71, 72, 73)
 

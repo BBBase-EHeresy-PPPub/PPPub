@@ -279,7 +279,7 @@ If a player has no cards in their hand, they may then draw a new hand of five ca
 
 **LAYOUT**
 
-The board is set up in the same manner as outlined on page 7, with the exception that only 4 Web Markers are deployed instead of 6.
+The board is set up in the same manner as outlined on [page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol), with the exception that only 4 Web Markers are deployed instead of 6.
 
 **STARTING POSITIONS**
 
@@ -291,7 +291,7 @@ The game lasts until Frodo is no longer on the board. The Good player wins if Fr
 
 **SPECIAL RULES**
 
-Navigating the Lair *(page 7)*, A Nameless Terror *(page 7)*, The Webs *(page 7)*
+Navigating the Lair *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, A Nameless Terror *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, The Webs *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*
 
 * **"Not here, not so close to the Eye!"**
 
@@ -299,7 +299,7 @@ Frodo may not put the Ring on in this Scenario.
 
 * **Gollum's Cunning**
 
-Sméagol may never Charge Frodo in this Scenario. Additionally, Sméagol may Move through unrevealed tiles in the same manner as Shelob, as described on page 7.
+Sméagol may never Charge Frodo in this Scenario. Additionally, Sméagol may Move through unrevealed tiles in the same manner as Shelob, as described on [page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol).
 
 * **"Hurry! This Way"**
 

@@ -22,7 +22,7 @@ Every event will need a Scorekeeper, which again is often the Organiser in small
 
 #### SPARE PLAYER
 
-Often tournaments will have an odd number of players, and that would mean that in each round there would be one player without an opponent. Whilst this player could be given a Bye (covered on page 7), it is much more satisfying if they have a game to play - after all, that is why they are at the event!
+Often tournaments will have an odd number of players, and that would mean that in each round there would be one player without an opponent. Whilst this player could be given a Bye (covered on [page 7](recommended_tournament_style.md#bye)), it is much more satisfying if they have a game to play - after all, that is why they are at the event!
 
 Because of this we recommend organising a Spare Player for the event. This should be someone who knows how to play the game, and will provide their opponent with a fun and enthusiastic game so they are not sitting around waiting for the round to finish. The Spare Player will not be ranked, cannot win any awards, and should play each game in an appropriate manner. We recommend that the Spare Player is someone different to the Organiser, Referee and Scorekeeper.
 
@@ -40,7 +40,7 @@ Players may only use official Citadel and Forge World miniatures at the event, a
 
 #### CONDUCT
 
-All games of the Middle-earth Strategy Battle Game should be played in a generous spirit; one befitting the gentlest and noblest of Hobbits! This is especially true for tournament games where all players are expected to show good conduct in all aspects of the event. Players are expected to uphold the Code of Conduct found on page 5 at all times, treat each other with respect and behave in a mature and considerate manner, including during any rules disputes.
+All games of the Middle-earth Strategy Battle Game should be played in a generous spirit; one befitting the gentlest and noblest of Hobbits! This is especially true for tournament games where all players are expected to show good conduct in all aspects of the event. Players are expected to uphold the Code of Conduct found on [page 5](index.md#code-of-conduct_1) at all times, treat each other with respect and behave in a mature and considerate manner, including during any rules disputes.
 
 ### SCORING & TIEBREAKERS
 
@@ -64,7 +64,7 @@ If players are still tied, the second Tiebreaker is the total number of Victory 
 
 If players are still tied, the next Tiebreaker is the number of enemy General models each player has killed across all of their games.
 
-Further Tiebreakers are then used at the Tournament Organiser's discretion. These could be anything from Favourite Opponent scores, Secret Objectives scored, if using Secret Objectives, as outlined on page 59, or anything else the Tournament Organiser wishes; however, they should make it clear to all players before the event which Tiebreakers will be in use and in what order.
+Further Tiebreakers are then used at the Tournament Organiser's discretion. These could be anything from Favourite Opponent scores, Secret Objectives scored, if using Secret Objectives, as outlined on [page 59](additional_rules.md#secret-objectives), or anything else the Tournament Organiser wishes; however, they should make it clear to all players before the event which Tiebreakers will be in use and in what order.
 
 ### PAIRING SYSTEM
 

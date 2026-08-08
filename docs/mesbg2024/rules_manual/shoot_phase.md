@@ -46,7 +46,7 @@ There are a number of factors that determine whether or not a model can Shoot du
 
 ### MISSILE WEAPONS
 
-In order to Shoot, a model must be equipped with a Missile Weapon. The list of common Missile Weapons can be found on page 107.
+In order to Shoot, a model must be equipped with a Missile Weapon. The list of common Missile Weapons can be found on [page 107](weapons_and_wargear.md#missile-weapon-chart).
 
 ### PICKING A TARGET
 
@@ -62,7 +62,7 @@ When you select a model to Shoot, you need to check if they have Line of Sight t
 
 #### MEASURE RANGE
 
-You will also need to see if the enemy model is in range. Every Missile Weapon has a maximum range which tells you how far it can Shoot in inches; this can be found on the Missile Weapon Chart on page 107. If the distance from the Shooting model's base to the nearest point of the enemy model's base is equal to or less than the Missile Weapon's range, then that enemy model is in range.
+You will also need to see if the enemy model is in range. Every Missile Weapon has a maximum range which tells you how far it can Shoot in inches; this can be found on the Missile Weapon Chart on [page 107](weapons_and_wargear.md#missile-weapon-chart). If the distance from the Shooting model's base to the nearest point of the enemy model's base is equal to or less than the Missile Weapon's range, then that enemy model is in range.
 
 ### MOVING AND SHOOTING
 

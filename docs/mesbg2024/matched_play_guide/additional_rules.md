@@ -14,7 +14,7 @@ If a player achieves double or more Victory Points than their opponent, and scor
 
 *On the last table, Dan beats Gavin by 6 Victory Points to 5, and so Dan earns a Minor Victory as he didn't score double, or more Victory Points than Gavin, who therefore receives a Minor Loss.*
 
-If a tournament uses this system, then it should change the Tournament Points scored as provided on page 56 to the following:
+If a tournament uses this system, then it should change the Tournament Points scored as provided on [page 56](team_events.md#scoring-tiebreakers) to the following:
 
 **Major Victory** - 6 Tournament Points
 **Minor Victory** - 5 Tournament Points
@@ -24,17 +24,17 @@ If a tournament uses this system, then it should change the Tournament Points sc
 
 ### SWITCHING TIEBREAKERS
 
-If a Tournament Organiser wishes, they may choose to change the order of the Tiebreakers listed on page 7 to better suit the theme of their event. They may even choose to add in additional Tiebreakers for their own event. However, whatever the Tournament Organiser decides to use as their Tiebreakers should be made clear to all players before the start of the event.
+If a Tournament Organiser wishes, they may choose to change the order of the Tiebreakers listed on [page 7](recommended_tournament_style.md#ranking-tiebreakers) to better suit the theme of their event. They may even choose to add in additional Tiebreakers for their own event. However, whatever the Tournament Organiser decides to use as their Tiebreakers should be made clear to all players before the start of the event.
 
 Below are some additional ideas for Tiebreakers that can be used if a Tournament Organiser wishes:
 
 - Favourite Game votes.
-- Number of Secret Objectives achieved, see page 59.
+- Number of Secret Objectives achieved, see [page 59](additional_rules.md#secret-objectives).
 - Number of games where your General, or the Leader in Doubles events, has survived.
 - Number of Major Victories.
 - Favourite Army votes.
 
-The style of event that is being run will often dictate the Tiebreakers used. In a more competitive Matched Play environment, Tournament Organisers will often stick to the main Tiebreakers laid out on page 7, maybe with others added afterwards if needed. However, in more relaxed events, Tiebreakers such as Favourite Game votes or Favourite Army votes are more likely to be used to fit the more relaxed nature of the event.
+The style of event that is being run will often dictate the Tiebreakers used. In a more competitive Matched Play environment, Tournament Organisers will often stick to the main Tiebreakers laid out on [page 7](recommended_tournament_style.md#ranking-tiebreakers), maybe with others added afterwards if needed. However, in more relaxed events, Tiebreakers such as Favourite Game votes or Favourite Army votes are more likely to be used to fit the more relaxed nature of the event.
 
 ### ESCALATION EVENTS
 

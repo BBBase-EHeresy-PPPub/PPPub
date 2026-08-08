@@ -6,11 +6,11 @@ Players fight to control five objectives scattered across the battlefield.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157. Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. To place the other objectives, both players roll a D6. The player with the highest score places one objective anywhere on the battlefield at least 12" away from the existing objective and 6" away from any board edge. Their opponent then places a third objective at least 12" away from existing objectives and at least 6" away from any board edge. The players then alternate placing the remaining two objectives, according to the restriction noted earlier.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout). Then, place five Objective Markers on the battlefield; one is automatically placed in the centre of the board. To place the other objectives, both players roll a D6. The player with the highest score places one objective anywhere on the battlefield at least 12" away from the existing objective and 6" away from any board edge. Their opponent then places a third objective at least 12" away from existing objectives and at least 6" away from any board edge. The players then alternate placing the remaining two objectives, according to the restriction noted earlier.
 
 **STARTING POSITIONS**
 
@@ -44,11 +44,11 @@ Victory goes to the force which can crush the foe and slay the enemy leader.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout).
 
 **STARTING POSITIONS**
 
@@ -85,11 +85,11 @@ Control the centre of the battlefield, no matter the cost.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157. Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield. Players must also agree which direction is north - this is important for determining where and when Reinforcements arrive from.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout). Once the battlefield has been set up, an Objective Marker is placed in the centre of the battlefield. Players must also agree which direction is north - this is important for determining where and when Reinforcements arrive from.
 
 **STARTING POSITIONS**
 
@@ -139,11 +139,11 @@ Destroy your opponent's supplies whilst protecting your own.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157. Then, place three Objective Markers in each player's deployment zone so that the objectives are equidistant along the edge of each player's deployment zone, with one in the centre.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout). Then, place three Objective Markers in each player's deployment zone so that the objectives are equidistant along the edge of each player's deployment zone, with one in the centre.
 
 The first is placed 12" from the centre of the player's board edge. The others are then placed halfway between the central objective and the board edges on either side, so that all three objectives are equidistant along the edge of one player's deployment zone.
 
@@ -189,11 +189,11 @@ Ensure more of your models escape the battlefield than your opponent.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout).
 
 **STARTING POSITIONS**
 
@@ -241,11 +241,11 @@ Outwit your opponent by concealing your true objective.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154, to an equal points value.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army), to an equal points value.
 
 **LAYOUT**
 
-Set up terrain as described on page 157.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout).
 
 **STARTING POSITIONS**
 

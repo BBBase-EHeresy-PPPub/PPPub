@@ -20,7 +20,7 @@ When it is time for a player's Activation Phase, they get the chance to Activate
 
 2. **Start of Move** - Any special rules that come into play at the start of a model's Move are resolved here, before the model Moves.
 
-3. **Move Model** - The model may Move as described on page 26. Any special rules that come into play during a model's Move are resolved here, at any point during the model's Move.
+3. **Move Model** - The model may Move as described on [page 26](move_phase.md#moving-models-1-2-3). Any special rules that come into play during a model's Move are resolved here, at any point during the model's Move.
 
 4. **End of Move** - Any special rules that come into play at the end of a model's Move are resolved here, after the model has finished Moving.
 
@@ -140,7 +140,7 @@ Remember that after a model has entered the Control Zone of an enemy model it wi
 
 ### DEFENDED POSITIONS
 
-Sometimes a model may wish to Charge an enemy model that is on the other side of a wall, hedge or other Barrier. The rules for this are fully detailed in the Fight Phase section (see page 54).
+Sometimes a model may wish to Charge an enemy model that is on the other side of a wall, hedge or other Barrier. The rules for this are fully detailed in the Fight Phase section (see [page 54](fight_phase.md#barriers-38)).
 
 ## TERRAIN
 
@@ -220,7 +220,7 @@ To make a Leap Test, the model Moves to the edge of the gap it wishes to Leap ov
 
 | D6 | Result |
 |---|---|
-| 1 | **Stumbles and Fails:** The attempt to Leap has gone wrong. The model falls to the bottom of the gap halfway between where they leapt from and where they were leaping to, suffers Falling Damage (see page 35) and becomes Prone. The model's Activation immediately ends. |
+| 1 | **Stumbles and Fails:** The attempt to Leap has gone wrong. The model falls to the bottom of the gap halfway between where they leapt from and where they were leaping to, suffers Falling Damage (see [page 35](move_phase.md#falling-and-falling-damage-17)) and becomes Prone. The model's Activation immediately ends. |
 | 2-5 | **Success:** The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. If the model is now within the Control Zone of an enemy model it must Move the minimum distance required in order to Charge that model, so long as it doesn't exceed its Move Value. Otherwise, the model's Move immediately ends, even if within the Control Zone of an enemy model. If the model lands in the Control Zones of multiple enemy models, it will Charge the closest one as described above. |
 | 6 | **Effortlessly Bounds Across:** The model successfully Leaps the gap; place it on the other side of the gap in base contact with the edge. It may then continue its Activation as normal. |
 

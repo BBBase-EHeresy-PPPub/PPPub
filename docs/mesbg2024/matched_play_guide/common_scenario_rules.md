@@ -15,7 +15,7 @@ At the beginning of the game, players must determine which direction is north - 
 
 ### DARK OF NIGHT
 
-Scenarios with this special rule take place at night, and therefore use the rules for 'fighting at Night' found on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Scenarios with this special rule take place at night, and therefore use the rules for 'fighting at Night' found on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 ### A TIME OF HEROES
 
@@ -23,10 +23,10 @@ Each time your Army kills an enemy Hero in a Fight, you may choose one of your H
 
 ### HEIRLOOM OF POWER
 
-An Heirloom is treated as a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). However, the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, a model carrying an Heirloom may not drop it or pass it on to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6 for each Heirloom that is being held. On a 1, the model holding the Heirloom is Transfixed as described on page 119 of the *Middle-earth Strategy Battle Game Rules Manual*. As the Heirlooms possess such great power, obtaining more than one of these items takes immense fortitude - in Scenarios where there are multiple Heirlooms, Warrior models may only hold one Heirloom, whereas Hero models may hold any number of Heirlooms.
+An Heirloom is treated as a Light Object (see [page 134](../rules_manual/advanced_rules.md#light-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). However, the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, a model carrying an Heirloom may not drop it or pass it on to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6 for each Heirloom that is being held. On a 1, the model holding the Heirloom is Transfixed as described on [page 119](../rules_manual/magic.md#transfix) of the *Middle-earth Strategy Battle Game Rules Manual*. As the Heirlooms possess such great power, obtaining more than one of these items takes immense fortitude - in Scenarios where there are multiple Heirlooms, Warrior models may only hold one Heirloom, whereas Hero models may hold any number of Heirlooms.
 
 ### UNCOVERING ARTEFACTS
 
 The Objective Markers in a Scenario with this special rule represent artefacts and other valuable trinkets that must be uncovered. An Infantry model who is in base contact with an Objective Marker at the end of its Move may attempt to free it.
 
-The model attempting to free the Artefact must take an Intelligence Test. If the test is passed, the Artefact has been freed and the model that freed it immediately takes possession of it: an Artefact is treated as a Light Object (see page 134 of the *Middle-earth Strategy Battle Game Rules Manual*). Might cannot be used to influence this roll. Only one model from each side may attempt to uncover each Artefact each turn. In a Scenario where there are multiple Artefacts, models may hold any number of Artefacts.
+The model attempting to free the Artefact must take an Intelligence Test. If the test is passed, the Artefact has been freed and the model that freed it immediately takes possession of it: an Artefact is treated as a Light Object (see [page 134](../rules_manual/advanced_rules.md#light-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). Might cannot be used to influence this roll. Only one model from each side may attempt to uncover each Artefact each turn. In a Scenario where there are multiple Artefacts, models may hold any number of Artefacts.

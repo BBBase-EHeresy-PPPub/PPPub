@@ -100,7 +100,7 @@ Some special rules will state that they require a roll of a 'natural X', where X
 
 ### CHARACTERISTICS
 
-During the course of a game there may be instances where a model's characteristics may be increased or decreased. Certain characteristics can only ever be improved to a specific maximum or reduced to a certain minimum. These are all explained fully on page 7.
+During the course of a game there may be instances where a model's characteristics may be increased or decreased. Certain characteristics can only ever be improved to a specific maximum or reduced to a certain minimum. These are all explained fully on [page 7](index.md#characteristics).
 
 Characteristics that are represented by a target number work slightly differently. When these characteristics are improved, the number in front of the plus sign will go down making the roll easier.
 
@@ -138,7 +138,7 @@ Race keywords denote the race of the model in question, such as **Man**, **Elf**
 
 Faction keywords denote the faction or allegiance of the model, such as **Gondor**, **Rohan** or **Mordor**. Some models may have multiple Faction keywords.
 
-Unit Type keywords show what kind of unit the model is, such as **Infantry**, **Cavalry** or **Monster**. Models will almost always have multiple Unit Type keywords and many of them will also have additional rules associated with them, such as the **Hero** keyword. Unit Types are explained fully on page 62.
+Unit Type keywords show what kind of unit the model is, such as **Infantry**, **Cavalry** or **Monster**. Models will almost always have multiple Unit Type keywords and many of them will also have additional rules associated with them, such as the **Hero** keyword. Unit Types are explained fully on [page 62](unit_types.md).
 
 Some rules will contain words or phrases in bold; these will show which models are affected by the rule in question. For example, a model may have a special rule that affects 'all **Rohan** models', in which case the special rule will apply to all models with the **Rohan** keyword.
 

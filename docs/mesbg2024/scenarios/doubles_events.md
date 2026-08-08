@@ -6,11 +6,11 @@ Vanquish the enemy force, whilst protecting your own in the centre of the battle
 
 **THE ARMIES**
 
-Players choose their forces, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their forces, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -50,11 +50,11 @@ There are five Objective Markers on the board. Control the most to achieve victo
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. One Objective Marker is deployed in the centre of the board. The other four Objective Markers are placed halfway in between the centre of the board and each corner, as shown on the map.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. One Objective Marker is deployed in the centre of the board. The other four Objective Markers are placed halfway in between the centre of the board and each corner, as shown on the map.
 
 **STARTING POSITIONS**
 
@@ -90,11 +90,11 @@ Control the central objective to claim victory.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. A single Objective Marker is placed in the centre of the board.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. A single Objective Marker is placed in the centre of the board.
 
 **STARTING POSITIONS**
 
@@ -135,11 +135,11 @@ Have both forces' General models kill more than the two enemy General models.
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 
@@ -181,11 +181,11 @@ The defenders must seek to protect the central force, whilst the attackers seek 
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*. There should be a terrain piece in the centre of the board, no more than 6" in diameter, for the team that ends up in the middle to defend.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*. There should be a terrain piece in the centre of the board, no more than 6" in diameter, for the team that ends up in the middle to defend.
 
 **STARTING POSITIONS**
 
@@ -229,11 +229,11 @@ Each force secretly selects an enemy Hero. Try to kill the heroes chosen by your
 
 **THE ARMIES**
 
-Players choose their Armies, as described on page 154 of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
+Players choose their Armies, as described on [page 154](../rules_manual/matched_play.md#building-a-matched-play-army) of the *Middle-earth Strategy Battle Game Rules Manual*, to an equal points value before the game.
 
 **LAYOUT**
 
-Set up terrain as described on page 157 of the *Middle-earth Strategy Battle Game Rules Manual*.
+Set up terrain as described on [page 157](../rules_manual/matched_play.md#layout) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 **STARTING POSITIONS**
 

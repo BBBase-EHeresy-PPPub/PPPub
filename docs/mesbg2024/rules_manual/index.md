@@ -28,9 +28,9 @@ Those of you who have never played a tabletop wargame before may be wondering ho
 
 The first thing you need, and possibly the most important, is a friend to play your games with and join you on your hobby journey. You will then need to decide what kind of game you wish to play - there are two main ways to play the Middle-earth Strategy Battle Game:
 
-1. **Narrative Play** - Recreate all of your favourite scenes and battles from the films and books using your collection of Citadel and Forge World miniatures... and perhaps even change the very fate of Middle-earth through the outcome of your games. You will find more details on Narrative Play on page 150.
+1. **Narrative Play** - Recreate all of your favourite scenes and battles from the films and books using your collection of Citadel and Forge World miniatures... and perhaps even change the very fate of Middle-earth through the outcome of your games. You will find more details on Narrative Play on [page 150](narrative_play.md).
 
-2. **Matched Play** - Organise your collection into mighty armies capable of taking on all comers, using the Army Lists, profiles and points values found within one of the various supplements. Then, battle with your friends in a test of skill, wits and tactics to see who will emerge victorious! More details on Matched Play can be found on page 152.
+2. **Matched Play** - Organise your collection into mighty armies capable of taking on all comers, using the Army Lists, profiles and points values found within one of the various supplements. Then, battle with your friends in a test of skill, wits and tactics to see who will emerge victorious! More details on Matched Play can be found on [page 152](matched_play.md).
 
 Of course, there is nothing stopping you from playing the Middle-earth Strategy Battle Game in your own way; playing games with your own rules, creating unique alliances and scenarios, and simply just playing the game in whatever manner suits you best - that is all part of the fun of the game!
 
@@ -82,7 +82,7 @@ A model's Strength can never be increased to more than 10. However, should a mod
 
 **Intelligence (I)** - Intelligence represents how smart a model is. It is represented by a target number and when an Intelligence Test is required, it is done by rolling 2D6 and comparing the result to this characteristic. The better a model's Intelligence (in this case lower), the easier it is for them to pass. A model's Intelligence can never be improved to better than 3+ or worsened to worse than 10+.
 
-**Might, Will, Fate** - Models with the Hero keyword will possess three additional characteristics: Might, Will and Fate. Unlike other characteristics, these are represented by a store of points that can be spent during a game. A Hero can use these points to perform special actions, avoid harm, and all manner of other heroic feats - however, once they have been spent, they are gone for the remainder of the game. Might, Will and Fate are covered in more detail in the Hero section later on page 74.
+**Might, Will, Fate** - Models with the Hero keyword will possess three additional characteristics: Might, Will and Fate. Unlike other characteristics, these are represented by a store of points that can be spent during a game. A Hero can use these points to perform special actions, avoid harm, and all manner of other heroic feats - however, once they have been spent, they are gone for the remainder of the game. Might, Will and Fate are covered in more detail in the Hero section later on [page 74](heroes.md#might-will-and-fate).
 
 ### ANATOMY OF A PROFILE
 
@@ -100,7 +100,7 @@ Here you will find the cost in points for the model. The points value given is f
 
 #### 3. BASE SIZE
 
-This is the base size that the model must go on. It will always be a circular base, unless the profile specifically states it is an oval. Some models come as Cavalry models, however, the base size shown in the profile will be that of the Infantry model should they be dismounted. Whilst mounted, the model will always use the base size of the Mount, which can either be found in the Cavalry section (see page 71), or in the model's profile.
+This is the base size that the model must go on. It will always be a circular base, unless the profile specifically states it is an oval. Some models come as Cavalry models, however, the base size shown in the profile will be that of the Infantry model should they be dismounted. Whilst mounted, the model will always use the base size of the Mount, which can either be found in the Cavalry section (see [page 71](cavalry.md#list-of-mounts)), or in the model's profile.
 
 #### 4. BACKGROUND TEXT
 
@@ -108,21 +108,21 @@ The text here describes the character the model is representing, giving some con
 
 #### 5. CHARACTERISTICS
 
-Here you will find all of the profile's characteristics, as mentioned on page 7. If the profile has the Hero keyword, then you will also find the Might, Will and Fate characteristics here as well.
+Here you will find all of the profile's characteristics, as mentioned on [page 7](index.md#characteristics). If the profile has the Hero keyword, then you will also find the Might, Will and Fate characteristics here as well.
 
 #### 6. KEYWORDS
 
 Here you will find all of the keywords associated with the profile. These are split into three types: Race keywords such as Man, Elf, etc., Faction keywords such as Rohan, Mordor, etc., and Unit Type keywords such as Infantry, Cavalry, etc. Many rules will reference keywords to explain which models are affected.
 
-Here we can see that Elrond has the Elf, Rivendell, Hero, Infantry and Unique keywords. For more on keywords, see page 19.
+Here we can see that Elrond has the Elf, Rivendell, Hero, Infantry and Unique keywords. For more on keywords, see [page 19](the_rules.md#keywords).
 
 #### 7. WARGEAR
 
-Every model in the Middle-earth Strategy Battle Game has a selection of wargear that comes with their profile, as listed here. The rules for this wargear can usually be found in the Weapons & Wargear section on page 102. Sometimes, a profile will have specific items of wargear that are unique to them. In these instances, the rules for that wargear will be listed in this section. Here we can see that Elrond has both Vilya and Hadhafang, with the rules for them listed in this section.
+Every model in the Middle-earth Strategy Battle Game has a selection of wargear that comes with their profile, as listed here. The rules for this wargear can usually be found in the Weapons & Wargear section on [page 102](weapons_and_wargear.md#weapons). Sometimes, a profile will have specific items of wargear that are unique to them. In these instances, the rules for that wargear will be listed in this section. Here we can see that Elrond has both Vilya and Hadhafang, with the rules for them listed in this section.
 
 #### 8. HEROIC ACTIONS
 
-Hero models can spend Might Points to declare Heroic Actions. Some of these are available to every Hero, others are only available to specific Hero models. Here will be listed all of the specialised Heroic Actions the model can declare. If there are no Heroic Actions listed, then the Hero cannot declare any of the specialised Heroic Actions. For more on Heroic Actions, see page 78.
+Hero models can spend Might Points to declare Heroic Actions. Some of these are available to every Hero, others are only available to specific Hero models. Here will be listed all of the specialised Heroic Actions the model can declare. If there are no Heroic Actions listed, then the Hero cannot declare any of the specialised Heroic Actions. For more on Heroic Actions, see [page 78](heroes.md#heroic-actions-61-62).
 
 #### 9. OPTIONS
 
@@ -130,8 +130,8 @@ Profiles may have a list of options that can be purchased for the model, for the
 
 #### 10. SPECIAL RULES
 
-Profiles may have a selection of special rules that represent the wide variety of abilities they possess. Some of these will just have the name of the special rule under the header, in which case the effect of the special rule in question can be found in the Special Rules section on page 122. Others that are unique to the profile will have the full effect of the rule listed, along with if it is Active or Passive (see page 123).
+Profiles may have a selection of special rules that represent the wide variety of abilities they possess. Some of these will just have the name of the special rule under the header, in which case the effect of the special rule in question can be found in the Special Rules section on [page 122](special_rules.md#list-of-special-rules). Others that are unique to the profile will have the full effect of the rule listed, along with if it is Active or Passive (see [page 123](special_rules.md#active-passive-special-rules)).
 
 #### 11. MAGICAL POWERS
 
-In Middle-earth, a number of beings have the ability to manifest magical powers. If the profile is able to Cast any Magical Powers, they will be listed here along with their range and Casting Value. The full effects of the Magical Powers can be found on page 112.
+In Middle-earth, a number of beings have the ability to manifest magical powers. If the profile is able to Cast any Magical Powers, they will be listed here along with their range and Casting Value. The full effects of the Magical Powers can be found on [page 112](magic.md#using-magical-powers).

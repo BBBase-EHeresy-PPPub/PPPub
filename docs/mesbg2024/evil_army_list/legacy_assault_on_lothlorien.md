@@ -55,6 +55,6 @@
 
 ## SPECIAL RULES
 
-**Cover of Darkness** - Any game using this Army List automatically takes place at night. Use the Fighting at Night special rules found on page 137 of the Middle-earth Strategy Battle Game Rules Manual.
+**Cover of Darkness** - Any game using this Army List automatically takes place at night. Use the Fighting at Night special rules found on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the Middle-earth Strategy Battle Game Rules Manual.
 
 **Ruthless Savagery** - Friendly Orc and Goblin models gain a bonus of +1 To Wound when making Strikes against an enemy model that is outnumbered in a Combat.

@@ -120,7 +120,7 @@ The game lasts until there are no Good models left on the board. The Good side w
 
 * **Night Watch**
 
-This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on page 136 of the *Middle-earth Strategy Battle Game Rules Manual*.
+This Scenario takes place at night and follows the rules for Fighting at Night as described on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on [page 136](../rules_manual/advanced_rules.md#sentries) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 * **Prized Prisoner**
 
@@ -334,7 +334,7 @@ The Good player wins if Helm is the only model remaining on the battlefield. The
 
 * **Night Watch**
 
-This Scenario takes place at night and follows the rules for Fighting at Night as described on page 137 of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on page 136 of the *Middle-earth Strategy Battle Game Rules Manual*.
+This Scenario takes place at night and follows the rules for Fighting at Night as described on [page 137](../rules_manual/advanced_rules.md#fighting-at-night) of the *Middle-earth Strategy Battle Game Rules Manual*. Additionally, Evil models begin the game as Sentries as described on [page 136](../rules_manual/advanced_rules.md#sentries) of the *Middle-earth Strategy Battle Game Rules Manual*.
 
 * **Escape!**
 
