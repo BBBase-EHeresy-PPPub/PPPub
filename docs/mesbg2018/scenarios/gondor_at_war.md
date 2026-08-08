@@ -247,7 +247,7 @@ Any Orc Tracker can choose to shoot their Orc bow at a target up to 36" away, ra
 
 Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an enemy model within 12".
 
-**Designer's Notes:** *On paper, this Scenario may seem far more in favor of the Evil player, and the fact is that it is. In the films, Faramir and his Knights don't even get close to Osgiliath before they are peppered by Orc arrows - hopefully in this Scenario the Good player will have a bit more luck!*
+> **Designer's Notes:** *On paper, this Scenario may seem far more in favor of the Evil player, and the fact is that it is. In the films, Faramir and his Knights don't even get close to Osgiliath before they are peppered by Orc arrows - hopefully in this Scenario the Good player will have a bit more luck!*
 
 ![](../media/scenarios/gondor_at_war/faramirs_charge.jpg){ width=500 height=500 }
 
@@ -805,7 +805,7 @@ The Good player wins if Aragorn and either Legolas or Gimli can move off of the 
 
 Good models within 6" of Aragorn count as being in range of a banner.
 
-**Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the banner of Arwen Evenstar, Angbor the Fearless, 12 Rangers of the North, and 12 Clansmen of Lamedon.*
+> **Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the banner of Arwen Evenstar, Angbor the Fearless, 12 Rangers of the North, and 12 Clansmen of Lamedon.*
 
 ![](../media/scenarios/gondor_at_war/the_docks_of_harlond.jpg){ width=500 height=500 }
 
@@ -1067,7 +1067,7 @@ At the end of the Evil player's fifth Move phase, the Evil player moves the Hara
 
 At the end of the Evil player's seventh Move phase, the Evil player moves the Witch-king of Angmar onto the board, via the northern board edge.
 
-**Designer's Notes:** *This Scenario represents the entire Battle of Pelennor Fields and so will take a long time and a lot of models. We suggest gathering a number of players for this Scenario; six is ideal as then a different player can take control of each force. As this Scenario essentially combines several of the other narrative Scenarios listed previously, it is not considered part of the campaign listed on pages 68-73.*
+> **Designer's Notes:** *This Scenario represents the entire Battle of Pelennor Fields and so will take a long time and a lot of models. We suggest gathering a number of players for this Scenario; six is ideal as then a different player can take control of each force. As this Scenario essentially combines several of the other narrative Scenarios listed previously, it is not considered part of the campaign listed on pages 68-73.*
 
 ![](../media/scenarios/gondor_at_war/the_battle_of_pelennor_fields.jpg){ width=706 height=500 }
 
@@ -1117,7 +1117,7 @@ Mordor Orc models gain a bonus of +1 To Wound in a Duel in which they outnumber 
 
 Good models may not willingly move more than 12" away from the center of the board.
 
-**Designer's Notes:** *This Scenario is designed to depict the Black Gate as seen in the movies, and as such the Scenario only contains the characters that can be seen in those scenes. If you would rather play through the Black Gate as portrayed in the books, turn to pages 64-67, where you can find two Scenarios that recreate the event from that perspective.*
+> **Designer's Notes:** *This Scenario is designed to depict the Black Gate as seen in the movies, and as such the Scenario only contains the characters that can be seen in those scenes. If you would rather play through the Black Gate as portrayed in the books, turn to pages 64-67, where you can find two Scenarios that recreate the event from that perspective.*
 
 ![](../media/scenarios/gondor_at_war/the_black_gate.jpg){ width=500 height=500 }
 
@@ -1187,6 +1187,6 @@ The game lasts until the end of a turn where the Good force has been reduced to 
 
 The range of all Good banners is increased by 3".
 
-**Designer's Notes:** *To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
+> **Designer's Notes:** *To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
 
 ![](../media/scenarios/gondor_at_war/the_black_gate_the_right_hill.jpg){ width=500 height=500 }

@@ -42,7 +42,7 @@ If, during the End phase of any turn, any of the Hobbits are within Maggot's fie
 
 If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately drop the token within 1" of itself. Hobbits may only carry one Plunder Token at a time and may only voluntarily drop them when in base contact with the Stash Marker.
 
-**Designer's Notes:** *This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.*
+> **Designer's Notes:** *This Scenario can be played with five people if you wish. In this situation, one player plays as the Good force, and the other players each control one of the Hobbits. When deploying the Hobbits, players will take turns deploying their Hobbit anywhere at least 12" from the crop and 6" from each other. When deployed, a Hobbit will place their own Stash Marker that they will be trying to get Plunder Tokens to. The first Hobbit to get three Plunder Tokens to their Stash Marker wins. If all the Hobbits flee before this can happen, then Farmer Maggot wins.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/farmer_maggots_crop.jpg){ width=500 height=500 }
 
@@ -346,7 +346,7 @@ At the start of the game, the river is treated as Deep Water and the ford is ope
 
 From the second turn onwards, roll a D6 for each Ringwraith that has not yet arrived. On a 4+ they may enter the board from any point on the northern or southern board edges via the rules for Reinforcements. However, they may not enter the board east of, or in, the Bruinen. If a Ringwraith rolls a 1 to arrive, it has suffered an accident on its journey and is instead removed as a casualty.
 
-**Designer's Notes:** *If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.*
+> **Designer's Notes:** *If you wish, you can play this Scenario with Glorfindel instead of Arwen. In this situation, Frodo is mounted on Asfaloth, even though he would not normally be able to do so, and is deployed as Arwen would normally be. Glorfindel will enter the board in the same manner as Aragorn and the Hobbits.*
 
 ![](../media/scenarios/quest_of_the_ringbearer/flight_to_the_ford.jpg){ width=500 height=500 }
 

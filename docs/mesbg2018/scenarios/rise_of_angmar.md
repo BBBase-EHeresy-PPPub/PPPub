@@ -658,7 +658,7 @@ Whenever an Evil Warrior model is slain, keep it to one side. At the end of each
 **Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;
 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
 
-***Designer's Notes:** This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
+> **Designer's Notes:** *This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
 
 **LAYOUT**
 

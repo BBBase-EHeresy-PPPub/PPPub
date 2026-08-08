@@ -229,7 +229,7 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 | 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
 | 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
 
-***Designer's Note:** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
+> **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
 ![](../media/scenarios/matched_play_guide/scenario_reconnoitre_matched.jpg){ width=738 height=496 }
 
@@ -533,7 +533,7 @@ At the end of the game, the force that has scored the most Victory Points wins t
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
-***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
+> **Designer's Notes:** *In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
 ![](../media/scenarios/matched_play_guide/scenario_fog_of_war_matched.jpg){ width=738 height=492 }
 

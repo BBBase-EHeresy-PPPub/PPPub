@@ -220,7 +220,7 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 | 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
 | 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
 
-***Designer's Note:*** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.
+> **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
 ![](../media/scenarios/rules_manual/scenario_reconnoitre.jpg){ width=738 height=495 }
 
@@ -494,7 +494,7 @@ Victory Points are scored for the following:
 * At the start of the game secretly note down a single terrain piece in your opponent's half of the board. You score **1 Victory Point** if at the end of the game you have more models than your opponent completely within your selected terrain piece. If your opponent has no models completely within your selected terrain piece and you have at least one, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
-***Designer's Notes:** In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
+> **Designer's Notes:** *In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
 ![](../media/scenarios/rules_manual/scenario_fog_of_war.jpg){ width=738 height=493 }
 

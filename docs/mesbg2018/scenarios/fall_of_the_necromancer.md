@@ -356,7 +356,7 @@ Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witc
 
 **Evil:** Thráin the Broken; 5 Hunter Orcs.
 
-*Designer's Note:* *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this supplement.*
+> **Designer's Note:** *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this supplement.*
 
 **LAYOUT**
 
@@ -451,7 +451,7 @@ If your roll on the chart exceeds the number of models remaining to enter the bo
 
 During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 - on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a Jump test.
 
-**Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
+> **Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
 ![](../media/scenarios/fall_of_the_necromancer/capture_of_the_grey_wizard.jpg){ width=500 height=325 }
 
