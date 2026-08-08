@@ -32,7 +32,7 @@ Any Dunland model that ends its move in base contact with a Rohan house during t
 
 Any Rohan model that ends its move in base contact with a Rohan house that is on fire may attempt to put it out. Roll a D6; on a roll of a 6, the fire has been put out. However, on a roll of a 1, the house is consumed by flames and cannot be put out for the remainder of the game.
 
-![](../media/scenarios/the_burning_of_the_westfold/rampage_over_rohan.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/rampage_over_rohan.jpg){ width=892 height=891 }
 
 ---
 
@@ -66,7 +66,7 @@ This Scenario takes place at night and follows the rules for Fighting at Night a
 
 At the start of the End Phase, a Rohan model that is in base contact with a Dunlending tent may destroy it - remove the tent from the board.
 
-![](../media/scenarios/the_burning_of_the_westfold/the_prince_of_rohan.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/the_prince_of_rohan.jpg){ width=887 height=890 }
 
 ---
 
@@ -110,7 +110,7 @@ If Théodred is not Engaged in Combat, then when an Evil model Moves it must alw
 
 During the End Phase of each turn the Good player must roll a D6 and add the turn number to the result. If the total result is 8 or more, Elfhelm and the remaining Good models will arrive at the end of the Good player's next Activation Phase from the eastern board edge via the rules for Reinforcements.
 
-![](../media/scenarios/the_burning_of_the_westfold/the_fords_of_isen.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/the_fords_of_isen.jpg){ width=888 height=893 }
 
 ---
 
@@ -152,7 +152,7 @@ At the end of each of Merry and Pippin's Activations, they may roll a D6. On the
 
 Grishnákh follows the same rules for Movement as the Hobbits, except that he Crawls 3" and cannot cut his bonds as he is not bound. Grishnákh is the only model that can Charge the Hobbits, and he will fight them in the Fight Phase if he does so. If Grishnákh is fighting one of the Hobbits, both models will fight as normal even though they are both Prone, ignoring the rules for being Prone. Additionally, as he is wounded, Grishnákh begins the game with only a single point of Might, Will and Fate, and only has 1 Attack.
 
-![](../media/scenarios/the_burning_of_the_westfold/ambush_at_night.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/ambush_at_night.jpg){ width=889 height=893 }
 
 ---
 
@@ -194,7 +194,7 @@ At the end of each player's Activation Phase, they roll a D6 for each of their m
 
 Gimli will start the game as a Passenger on Legolas' horse.
 
-![](../media/scenarios/the_burning_of_the_westfold/warg_attack.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/warg_attack.jpg){ width=889 height=894 }
 
 ---
 
@@ -232,7 +232,7 @@ Evil models add 1 to the result when rolling on the Detonation Table.
 
 Good Warrior models treat friendly Hero models as a banner.
 
-![](../media/scenarios/the_burning_of_the_westfold/walls_of_helms_deep.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/walls_of_helms_deep.jpg){ width=889 height=891 }
 
 ---
 
@@ -262,7 +262,7 @@ The game lasts until one player's force is wiped out, at which point the other p
 
 Cavalry models gain a bonus of +1 Strength on a turn in which they Charge. In addition, once per game, at the start of any Move Phase, the Good player can declare the horn of Helm Hammerhand is being blown. Until the end of that turn, all Good Cavalry models gain the Terror special rule.
 
-![](../media/scenarios/the_burning_of_the_westfold/ride_out_from_helms_deep.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/ride_out_from_helms_deep.jpg){ width=889 height=892 }
 
 ---
 
@@ -292,7 +292,7 @@ The game lasts until, at the end of a turn, one side has completed their objecti
 
 The special rules for the Riders of Éomer Army List (see page 99 of *Armies of the Lord of the Rings*) apply to the Good Army during this scenario.
 
-![](../media/scenarios/the_burning_of_the_westfold/eomers_return.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/eomers_return.jpg){ width=774 height=1539 }
 
 ---
 
@@ -350,7 +350,7 @@ At the end of the Good side's tenth Activation Phase, the Relief Force will ente
 
 This scenario follows all of the rules for Sieges, including siege equipment, as found in the *Middle-earth Strategy Battle Game Rules Manual*.
 
-![](../media/scenarios/the_burning_of_the_westfold/siege_of_helms_deep.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/siege_of_helms_deep.jpg){ width=886 height=888 }
 
 ---
 
@@ -384,7 +384,7 @@ All Rohan models gain the Woodland Creature special rule so long as they are mou
 
 Evil models may not move on the first turn of the game.
 
-![](../media/scenarios/the_burning_of_the_westfold/paths_of_the_druadan.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/paths_of_the_druadan.jpg){ width=890 height=888 }
 
 ---
 
@@ -440,4 +440,4 @@ Good models automatically pass Courage tests. Whenever an Evil Unique Hero model
 
 So long as Théoden is on the board, friendly Rohan Cavalry models gain a bonus +1 to their Fight Values and +1 to their Strength on a turn in which they Charge.
 
-![](../media/scenarios/the_burning_of_the_westfold/ride_of_the_rohirrim.jpg){ width=1000 }
+![](../media/scenarios/the_burning_of_the_westfold/ride_of_the_rohirrim.jpg){ width=895 height=888 }

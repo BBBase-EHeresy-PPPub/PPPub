@@ -227,7 +227,7 @@ Roll for each Warband separately, Activate the models in the Warband, then roll 
 | 1-3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
 | 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
-***Designer's Note** - Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
+> **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
 ![](../media/scenarios/rules_manual/reconnoitre.jpg){ width=967 height=677 }
 
@@ -271,6 +271,6 @@ At the end of the game, the player who has scored the most Victory Points wins t
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 2 Victory Points.
 * You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 
-**Designer's Note** - In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.
+> **Designer's Note:** *In this Scenario you should not reveal any of your objectives to your opponent, even if you successfully complete them during the game. Part of the skill of this Scenario is trying to work out what your opponent is attempting to accomplish, whilst simultaneously trying to mislead them into thinking that you are trying to accomplish something that you aren't.*
 
 ![](../media/scenarios/rules_manual/fog_of_war.jpg){ width=967 height=647 }

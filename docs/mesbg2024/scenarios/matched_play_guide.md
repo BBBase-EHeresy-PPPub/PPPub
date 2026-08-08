@@ -218,7 +218,7 @@ Roll for each Warband separately. Activate the models in the Warband, then roll 
 | 1-3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so they will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
 | 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
-***Designer's Note:** Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
+> **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
 ![](../media/scenarios/matched_play_guide/reconnoitre.jpg){ width=1000 height=681 }
 
@@ -248,7 +248,7 @@ When this has been done, the opposing player chooses one of their Warbands and d
 
 Both players roll a D6. The player who rolls highest chooses who has Priority in the first turn.
 
-***Designer's Note:** This Scenario is all about subterfuge and secrecy, hiding your plans from the enemy. Be sure to stay quiet as you complete your objectives, in order to keep your opponent guessing throughout the game!*
+> **Designer's Note:** *This Scenario is all about subterfuge and secrecy, hiding your plans from the enemy. Be sure to stay quiet as you complete your objectives, in order to keep your opponent guessing throughout the game!*
 
 **OBJECTIVES**
 
@@ -399,7 +399,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 At the beginning of the End Phase of each turn, each player will score 1 Fortification Point for each Objective Marker that has both friendly and enemy models, but more friendly than enemy models, within 3". If a player has at least one of their models, and no enemy models, within 3" of an Objective Marker they will instead score 2 Fortification Points for that Objective Marker.
 
-***Designer's Note:** For this Scenario, it is really important that players make sure they keep an accurate track of the number of Fortification Points they accumulate each turn as once the game finishes, it will be nigh on impossible to work it out retrospectively!*
+> **Designer's Note:** *For this Scenario, it is really important that players make sure they keep an accurate track of the number of Fortification Points they accumulate each turn as once the game finishes, it will be nigh on impossible to work it out retrospectively!*
 
 ![](../media/scenarios/matched_play_guide/stake_a_claim.jpg){ width=1000 height=669 }
 

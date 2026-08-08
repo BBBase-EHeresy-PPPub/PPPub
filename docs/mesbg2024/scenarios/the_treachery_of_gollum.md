@@ -40,7 +40,7 @@ If at the beginning of her Activation Shelob is in a tile that contains no enemy
 
 > **Designer's Note:** *Over the years, many warbands have attempted to take the pass of Cirith Ungol, only to be caught in Shelob's clutches. As an alternative, why not have the Good player put together 120 points from a chosen Army List to try to make it through Shelob's Lair? When making your force, you may ignore any Army building rules that require specific Hero models to be taken. Essentially, you choose an Army List and put together 120 points into legal Warbands - i.e., it must still have a Hero to lead each Warband.*
 
-![](../media/scenarios/the_treachery_of_gollum/the_paths_of_cirith_ungol.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/the_paths_of_cirith_ungol.jpg){ width=856 height=850 }
 
 ---
 
@@ -80,7 +80,7 @@ If Gollum suffers his last Wound then he is subdued rather than slain. However, 
 
 Each time Gollum loses a Combat against Frodo he must make a Courage Test. If the test is failed then Gollum surrenders to the Hobbits and is automatically subdued.
 
-![](../media/scenarios/the_treachery_of_gollum/the_taming_of_smeagol.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/the_taming_of_smeagol.jpg){ width=857 height=849 }
 
 ---
 
@@ -120,7 +120,7 @@ If a Good model is Moved into any of the areas of marshland as a result of a Spe
 
 If Frodo puts the Ring on then the Ringwraith will no longer be a Sentry and will act as normal.
 
-![](../media/scenarios/the_treachery_of_gollum/the_dead_marshes.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/the_dead_marshes.jpg){ width=854 height=850 }
 
 ---
 
@@ -162,7 +162,7 @@ Each time a Warrior model is removed as a casualty, roll a D6. On a 1-3 that mod
 
 Sméagol is under the control of the Good player, however Good models may not benefit from any Heroic Action that Sméagol declares.
 
-![](../media/scenarios/the_treachery_of_gollum/osgiliath.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/osgiliath.jpg){ width=850 height=448 }
 
 ---
 
@@ -215,7 +215,7 @@ The sewer waters are treated as Shallow Water; Markers may Move through them tho
 
 > **Designer's Note:** *This Scenario will need plenty of columns and debris for the Hobbits to hide behind and avoid the Markers and Orcs acting as Sentries. We would recommend trying to get your board to look as close to the map as possible.*
 
-![](../media/scenarios/the_treachery_of_gollum/escape_through_the_sewers.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/escape_through_the_sewers.jpg){ width=853 height=849 }
 
 ---
 
@@ -265,7 +265,7 @@ If a player has no cards in their hand, they may then draw a new hand of five ca
 
 > **Designer's Note:** *It is important to remember that, as the cards each player is moving along is a single suit, there will only be one of each card on that path. So, if you have seen the King on your opponent's side of the Path, then you know that there won't be one on your side. Also, you will often know what is on your opponent's side of the Path, whilst they will often know what is on your side.*
 
-![](../media/scenarios/the_treachery_of_gollum/smeagols_treachery.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/smeagols_treachery.jpg){ width=1000 height=230 }
 
 ---
 
@@ -317,7 +317,7 @@ In this Scenario, Shelob treats Sméagol as an enemy model. When Shelob Activate
 
 Frodo carries the Light of Eärendil and so causes Terror. Additionally, Sting is vital in this Scenario. When making Strikes against Shelob, Frodo may make 2 Strikes rather than one, and gains a bonus of +1 To Wound. When making Strikes against Web Markers with Sting, any roll of a 4+ To Wound will automatically destroy the web and cause the Web Marker to be removed. Additionally, Shelob may not use Will Points in this Scenario. If Shelob is removed as a casualty and Sméagol is still alive, then Sméagol is allowed to Charge Frodo for the remainder of the Scenario.
 
-![](../media/scenarios/the_treachery_of_gollum/shelobs_lair.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/shelobs_lair.jpg){ width=856 height=850 }
 
 ---
 
@@ -365,7 +365,7 @@ Whenever Shelob fails a Courage Test for her Survival Instinct special rule, she
 
 Sam carries Sting in this Scenario. Strikes from Sting gain a bonus of +1 To Wound when making Strikes against Shelob.
 
-![](../media/scenarios/the_treachery_of_gollum/the_bravery_of_master_samwise.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/the_bravery_of_master_samwise.jpg){ width=588 height=660 }
 
 ---
 
@@ -425,4 +425,4 @@ Good models may not willingly Move more than 12" away from the centre of the Bla
 
 The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will and Fate.
 
-![](../media/scenarios/the_treachery_of_gollum/the_end_of_all_things.jpg){ width=1000 }
+![](../media/scenarios/the_treachery_of_gollum/the_end_of_all_things.jpg){ width=857 height=1454 }
