@@ -1068,6 +1068,7 @@ The Mithril Coat is a Light Object. Models carrying the Mithril Coat cannot wear
 * **Controlling Sam**
 
 Sam is controlled by whichever side has Priority as if he were a model in their force. He must abide by the following rules:
+
 - Sam must always move his full Move allowance if he is not charging, and must always try to move closer to reaching Frodo.
 - Sam may move through models belonging to the player that controls him, though he cannot finish his move in their Control Zone.
 - Other models can never benefit from Heroic Actions declared by Sam.

@@ -160,6 +160,7 @@ Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as 
 - **Dubious Counsel** `ACTIVE`
 
 At the start of his Activation, Alfrid may choose a single other friendly Lake-town Hero model within 6" of him. Roll a D6 and consult the table below to see what effect Alfrid's counsel has had. Alfrid may spend his Will Points to alter the score on the D6 either up or down by 1 for each Will Point spent in this manner.
+
 1. The chosen Hero loses a Might Point and Alfrid gains a Might Point. If the chosen Hero has no Might Points remaining, this has no effect.
 2. The chosen Hero immediately regains a single Will Point spent earlier in the battle.
 3. The chosen Hero may re-roll To Wound Rolls of a natural 1 when making Strikes until the end of the turn.

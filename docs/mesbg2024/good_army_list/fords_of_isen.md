@@ -50,7 +50,8 @@
 
 - <span style="color: darkmagenta">A Fords of Isen Army may have up to 50% of its Warrior models armed with throwing spears rather than the usual 33%.</span>
 
-A Fords of Isen Army must always contain Théodred, who is always the Army's General.
+- A Fords of Isen Army must always contain Théodred, who is always the Army's General.
+
 - A Fords of Isen army may have up to 50% of its Warrior models armed with throwing spears rather than the usual 33%.
 
 ## SPECIAL RULES

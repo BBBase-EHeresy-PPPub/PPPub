@@ -61,6 +61,7 @@ To see who wins a Combat, players must make a Duel Roll. When making a Duel Roll
 If a model in a Combat has multiple Attacks, they will roll a number of D6 equal to their Attacks characteristic rather than just one, and then use the highest individual result.
 
 Many things can affect a Duel Roll, so when making a Duel Roll follow these steps in order:
+
 - Gather the number of dice you need for the Duel Roll; use a different colour of dice for each model with modifiers or Might Points available.
 - Declare any models that wish to use any weapon abilities that would affect the Duel Roll, such as using a two-handed weapon.
 - Roll all of your dice.

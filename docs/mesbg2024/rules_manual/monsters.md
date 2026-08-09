@@ -53,6 +53,7 @@ A Monster cannot Barge in the same turn in which it participates in a Heroic Com
 When a Monster wishes to use this Brutal Power Attack, it must nominate a single enemy model involved in the Combat before models Back Away - this is the model that will be Hurled. A Monster cannot nominate a model to be Hurled that has a Strength equal to or higher than their own. Then, all other enemy models (not the nominated model) Back Away as normal. The Monster will then Hurl the nominated model.
 
 To Hurl a model, follow the steps below:
+
 1. The Monster rolls a D3 and adds the difference in Strength between the Monster and the nominated model - this is the Hurl Distance.
 2. The Monster must then take an Intelligence Test (if the Monster is also a Mount, it may use the Intelligence of its rider if it is better).
 3. If the test is passed, the Monster chooses an enemy model it can draw Line of Sight to, and within the Hurl Distance from itself, to Hurl the nominated model at - this is the target. A model can only be chosen as the target of a Hurl once per turn. If the test was failed, the opposing player may choose one of their models in Line of Sight of the Monster, and within the Hurl Distance, to be the target instead.

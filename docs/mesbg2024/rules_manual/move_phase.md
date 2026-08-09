@@ -317,6 +317,7 @@ Prone models can be Charged as normal. As they have no Control Zone, enemy model
 ### JUMPING
 
 Models may attempt to Jump Over Prone models exactly as if they were an Obstacle, with the following exceptions:
+
 - A model that wishes to Jump Over an enemy model that is less than half its height must still take a Jump Test.
 - If a model attempts to Jump Over an enemy model and rolls a 1, they do not Jump Over the enemy model and instead must Charge them at the point in which they tried to Jump Over them.
 - If a model attempts to Jump Over an enemy model and rolls a 2-5, they will Jump Over the enemy model as normal and may choose to either Charge the model they Jumped Over after doing so, or instead be separated slightly from the enemy model and end their Move.

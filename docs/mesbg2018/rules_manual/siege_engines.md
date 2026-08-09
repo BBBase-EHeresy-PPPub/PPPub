@@ -56,6 +56,7 @@ If you are firing at a Battlefield target, there is a chance that the unwieldy w
 ### TARGET TYPES
 
 **Battlefield Targets:**
+
 * Infantry models
 * **Cavalry** models
 * Monster models
@@ -63,6 +64,7 @@ If you are firing at a Battlefield target, there is a chance that the unwieldy w
 * Small Siege Engines
 
 **Siege Targets:**
+
 * Large Gates
 * The Mûmak
 * Houses

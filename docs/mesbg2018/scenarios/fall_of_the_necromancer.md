@@ -440,12 +440,13 @@ At the end of each Evil Move phase, the Evil player rolls 2D6 and consults the c
 
 If your roll on the chart exceeds the number of models remaining to enter the board, instead treat the result as a 12. Once the Necromancer has entered the battlefield, do not make any further rolls on the chart.
 
-2D6 Reinforcements Table:
-- 2: No reinforcements this turn.
-- 3-6: D3 Hunter Orcs.
-- 7-9: 1 Hunter Orc on Fell Warg.
-- 10-11: D3 Hunter Orcs on Fell Wargs.
-- 12: The Necromancer of Dol Guldur.
+| 2D6 | Reinforcements |
+|:---:|:---------------|
+| 2 | No reinforcements this turn |
+| 3-6 | D3 Hunter Orcs |
+| 7-9 | 1 Hunter Orc on Fell Warg |
+| 10-11 | D3 Hunter Orcs on Fell Wargs |
+| 12 | The Necromancer of Dol Guldur |
 
 * **Bring the Bridge Crashing Down**
 
