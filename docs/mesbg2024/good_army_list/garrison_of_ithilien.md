@@ -12,13 +12,13 @@
 
 - [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
 - [**Damrod**](../forces_of_good/gondor.md#damrod-40-points): 40 points
-- [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
-    - Mithril Coat: 15 points
-    - Sting: 5 points
-    - Elven Cloak: 5 points
+- [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 80 points
+    - Mithril Coat
+    - Sting
+    - Elven Cloak
 - [**Madril**](../forces_of_good/gondor.md#madril-60-points): 60 points
-- [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 40 points
-    - Elven Cloak: 5 points
+- [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 45 points
+    - Elven Cloak
 
 **MINOR HEROES**
 

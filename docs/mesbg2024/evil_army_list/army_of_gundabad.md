@@ -6,9 +6,9 @@
 
 **HEROES OF LEGEND**
 
-- [**Azog the Defiler**](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points): 175 points
+- [**Azog the Defiler**](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points): 185 points
+    - Heavy armour
     - Stone flail: 15 points
-    - Heavy armour: 10 points
 
 **HEROES OF VALOUR**
 

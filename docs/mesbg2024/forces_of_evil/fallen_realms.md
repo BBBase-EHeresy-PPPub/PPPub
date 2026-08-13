@@ -266,7 +266,7 @@ The Royal Palanquin has the [Dominant] (X) special rule, where X is the number o
 **WARGEAR**
 
 - [Heavy Armour]
-- Durtuz the Silver Falchion
+- Durtuz, the Silver Falchion
 
 **HEROIC ACTIONS**
 
@@ -290,7 +290,7 @@ Whenever an enemy Hero model Engaged in Combat with Amdûr declares a [Heroic St
 
 Friendly Easterling models treat Amdûr as a [banner][Banner]. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a [banner][Banner] with a range of 6".
 
-- **Durtuz the Silver Falchion** `ACTIVE`
+- **Durtuz, the Silver Falchion** `ACTIVE`
 
 This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 

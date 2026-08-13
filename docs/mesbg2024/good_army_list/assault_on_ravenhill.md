@@ -14,7 +14,7 @@
 - [**Fili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#fili-the-dwarf-champion-of-erebor-70-points): 70 points
 - [**Kili the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#kili-the-dwarf-champion-of-erebor-70-points): 70 points
 - [**Legolas Greenleaf, Prince of Mirkwood**](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points): 105 points
-    - Orcrist: Free
+    - Orcrist
 
 **HEROES OF FORTITUDE**
 

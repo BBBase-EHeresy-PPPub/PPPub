@@ -6,10 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
-    - 3A / 3M / 18W / 3F: 150 points
-    - Armoured Fell Beast: 70 points
-    - Crown of Morgul: 25 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 245 points
+    - 3 Attacks, 3 Might, 18 Will, 3 Fate, with Armoured Fell Beast and Crown of Morgul
     - Morgul Blade: 10 points
     - Two-handed weapon: 5 points
 
@@ -25,9 +23,8 @@
 - [**Khamul the Easterling**](../forces_of_evil/evil_legacy.md#khamul-the-easterling-130-points): 130 points
     - Horse: 20 points
 - [**Mumak War Leader**](../forces_of_evil/fallen_realms.md#mumak-war-leader-400-points): 400 points
-- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
-    - 2A / 2M / 14W / 2F: 120 points
-    - Fell Beast: 50 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 170 points
+    - 2 Attacks, 2 Might, 14 Will, 2 Fate, with Fell Beast
     - Morgul Blade: 10 points
 - [**Suladan, The Serpent Lord**](../forces_of_evil/fallen_realms.md#suladan-the-serpent-lord-120-points): 120 points
     - Armoured horse: 25 points

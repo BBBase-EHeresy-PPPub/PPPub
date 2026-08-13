@@ -11,9 +11,9 @@
 
 **HEROES OF FORTITUDE**
 
-- [**Arwen**](../forces_of_good/elven_kingdoms.md#arwen-70-points): 70 points
-    - Asfaloth: 20 points
-    - Hadhafang: Free
+- [**Arwen**](../forces_of_good/elven_kingdoms.md#arwen-70-points): 90 points
+    - Asfaloth
+    - Hadhafang
 - [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
     - Mithril Coat: 15 points
     - Sting: 5 points

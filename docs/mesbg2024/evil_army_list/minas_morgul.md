@@ -6,8 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
-    - 3A / 3M / 18W / 3F: 150 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 150 points
+    - 3 Attacks, 3 Might, 18 Will, 3 Fate
     - Armoured Fell Beast: 70 points
     - Fell Beast: 50 points
     - Crown of Morgul: 25 points
@@ -17,8 +17,8 @@
 
 **HEROES OF VALOUR**
 
-- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
-    - 2A / 1M / 10W / 1F: 90 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 90 points
+    - 2 Attacks, 1 Might, 10 Will, 1 Fate
     - Fell Beast: 50 points
     - Horse: 20 points
     - Morgul Blade: 10 points

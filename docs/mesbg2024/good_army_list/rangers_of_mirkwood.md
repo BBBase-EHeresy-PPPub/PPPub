@@ -14,16 +14,16 @@
     - Elven cloak: 5 points
 - [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
     - Elf bow: 5 points
-- [**Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points): 100 points
-    - Orcrist: 10 points
+- [**Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points): 110 points
+    - Orcrist
     - The Oakenshield: 5 points
 
 **HEROES OF FORTITUDE**
 
 - [**Bifur the Dwarf**](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points): 45 points
-- [**Bilbo Baggins**](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points): 55 points
-    - Sting: 5 points
-    - The One Ring: Free
+- [**Bilbo Baggins**](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points): 60 points
+    - Sting
+    - The One Ring
 - [**Bofur the Dwarf**](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points): 45 points
 - [**Bombur the Dwarf**](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points): 45 points
 - [**Dori the Dwarf**](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points): 55 points
@@ -41,7 +41,7 @@
 
 ## ADDITIONAL RULES
 
-- A Rangers of Mirkwood must include at least one Unique Elf Hero.
+- A Rangers of Mirkwood Army must include at least one Unique Elf Hero.
 - If your Army includes Legolas, then he must be your General. If your Army includes Tauriel, but does not include Legolas, then she must be your General.
 - Mirkwood Rangers may only be included in the Warbands of Mirkwood Hero models.
 - Mirkwood Rangers do not count towards this Army's Bow Limit.
@@ -50,7 +50,7 @@
 
 **Knife Mastery** - Friendly Elf models may re-roll To Wound Rolls of a natural 1 when making Strikes. Additionally, friendly Elf models may use the [Shielding] special rule, however, they cannot use their Knife Fighters or Blade Mistress special rules in a turn in which they elect to [Shield].
 
-**The Prince of Mirkwood** - Legolas gains the Knife Fighters special rule - If Outnumbered in Combat, then before making his Duel roll, Legolas gains +1 Attack for each model he is Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+**The Prince of Mirkwood** - Legolas gains the Knife Fighters special rule - If Outnumbered in Combat, then before making his Duel roll, Legolas gains +1 Attack for each model he is Engaged in Combat with, after the first, up to a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
 
 **Dwarven Resilience** - Friendly Dwarf models may re-roll failed Fate Rolls.
 

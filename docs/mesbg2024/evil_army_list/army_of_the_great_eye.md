@@ -6,8 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
-    - 3A / 3M / 18W / 3F: 150 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 150 points
+    - 3 Attacks, 3 Might, 18 Will, 3 Fate
     - Armoured Fell Beast: 70 points
     - Fell Beast: 50 points
     - Crown of Morgul: 25 points
@@ -25,8 +25,8 @@
 - [**Mouth of Sauron**](../forces_of_evil/mordor.md#mouth-of-sauron-75-points): 75 points
     - Armoured horse: 25 points
 - [**Razgush, War Leader of the North**](../forces_of_evil/evil_legacy.md#razgush-war-leader-of-the-north-120-points): 120 points
-- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
-    - 2A / 2M / 14W / 2F: 120 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 120 points
+    - 2 Attacks, 2 Might, 14 Will, 2 Fate
     - Armoured Fell Beast: 70 points
     - Fell Beast: 50 points
     - Morgul Blade: 10 points

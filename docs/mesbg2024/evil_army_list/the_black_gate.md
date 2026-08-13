@@ -18,9 +18,8 @@
 - <span style="color: darkmagenta">**Mordor Orc Captain**: 45 points</span>
 - [**Mordor Orc Taskmaster**](../forces_of_evil/mordor.md#mordor-orc-taskmaster-45-points): 45 points
 - [**Mordor Troll Chieftain**](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points): 150 points
-- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
-    - 2A / 2M / 14W / 2F: 120 points
-    - Fell Beast: 50 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 170 points
+    - 2 Attacks, 2 Might, 14 Will, 2 Fate, with Fell Beast
     - Morgul Blade: 10 points
 
 **MINOR HEROES**

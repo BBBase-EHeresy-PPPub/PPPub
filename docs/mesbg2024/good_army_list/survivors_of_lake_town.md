@@ -6,8 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 130 points
-    - Armour and horse: 20 points
+- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 150 points
+    - Armour and horse
 
 **HEROES OF VALOUR**
 

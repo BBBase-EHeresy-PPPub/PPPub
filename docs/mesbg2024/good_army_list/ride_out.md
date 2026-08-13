@@ -6,37 +6,37 @@
 
 **HEROES OF LEGEND**
 
-- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
-    - Snowmane with armour: 25 points
-    - Exchange armour for heavy armour: 5 points
-    - Shield: 5 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 110 points
+    - Snowmane with armour
+    - Exchange armour for heavy armour
+    - Shield
 
 **HEROES OF VALOUR**
 
-- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
-    - Brego: 20 points
-    - Armour: 5 points
-- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
-    - Horse: 20 points
-    - Armour: 5 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 185 points
+    - Brego
+    - Armour
+- [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 125 points
+    - Horse
+    - Armour
 
 **HEROES OF FORTITUDE**
 
-- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
-    - Horse: 20 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 65 points
+    - Horse
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
-- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
+- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 75 points
+    - Horse
     - Royal Standard of Rohan: 40 points
-    - Horse: 20 points
 
 **WARRIORS**
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
     - Throwing spears: 2 points
-- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
-    - Horse: 5 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 16 points
+    - Horse
     - Throwing spears: 2 points
 
 </div>

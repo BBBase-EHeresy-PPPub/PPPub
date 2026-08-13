@@ -6,10 +6,9 @@
 
 **HEROES OF VALOUR**
 
-- [**Theodred**](../forces_of_good/rohan.md#theodred-85-points): 85 points
-    - <span style="color: darkmagenta">Shield: 5 points</span>
+- [**Theodred**](../forces_of_good/rohan.md#theodred-85-points): 90 points
+    - <span style="color: darkmagenta">Shield</span>
     - Brego: 20 points
-    - Shield: 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -51,8 +50,6 @@
 - <span style="color: darkmagenta">A Fords of Isen Army may have up to 50% of its Warrior models armed with throwing spears rather than the usual 33%.</span>
 
 - A Fords of Isen Army must always contain Théodred, who is always the Army's General.
-
-- A Fords of Isen army may have up to 50% of its Warrior models armed with throwing spears rather than the usual 33%.
 
 ## SPECIAL RULES
 

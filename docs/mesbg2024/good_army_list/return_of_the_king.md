@@ -7,8 +7,8 @@
 **HEROES OF LEGEND**
 
 - [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
+    - Anduril, Flame of the West
     - Elven Cloak: 5 points
-    - Anduril, Flame of the West: Free
 
 **HEROES OF VALOUR**
 

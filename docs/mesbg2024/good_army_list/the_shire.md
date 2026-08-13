@@ -12,9 +12,9 @@
 **HEROES OF FORTITUDE**
 
 - [**Bilbo Baggins, Ageing Hobbit**](../forces_of_good/the_free_peoples.md#bilbo-baggins-ageing-hobbit-45-points): 45 points
+    - The One Ring
     - Mithril Coat: 15 points
     - Sting: 5 points
-    - The One Ring: Free
 - [**Farmer Maggot**](../forces_of_good/the_free_peoples.md#farmer-maggot-50-points): 50 points
 - [**Farmer Tolman Cotton**](../forces_of_good/the_free_peoples.md#farmer-tolman-cotton-35-points): 35 points
 - [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points

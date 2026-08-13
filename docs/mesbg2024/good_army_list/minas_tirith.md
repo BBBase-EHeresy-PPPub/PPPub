@@ -11,9 +11,9 @@
     - Shield: 5 points
 - [**Denethor**](../forces_of_good/gondor.md#denethor-50-points): 50 points
 - [**Faramir**](../forces_of_good/gondor.md#faramir-100-points): 100 points
+    - Exchange armour and bow for heavy armour
     - Horse: 20 points
     - Shield: 5 points
-    - Exchange armour and bow for heavy armour: Free
 - [**Hurin the Tall, Warden of the Keys**](../forces_of_good/gondor.md#hurin-the-tall-warden-of-the-keys-80-points): 80 points
     - Horse: 20 points
 

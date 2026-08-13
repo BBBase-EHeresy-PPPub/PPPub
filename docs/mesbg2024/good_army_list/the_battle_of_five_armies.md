@@ -6,14 +6,14 @@
 
 **HEROES OF LEGEND**
 
-- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 130 points
-    - Exchange great bow for armour and horse: 20 points
+- [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 150 points
+    - Exchange great bow for armour and horse
 - [**Dain Ironfoot, Lord of the Iron Hills**](../forces_of_good/dwarven_holds.md#dain-ironfoot-lord-of-the-iron-hills-160-points): 160 points
     - War Boar: 25 points
 - [**Gandalf the Grey**](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points): 170 points
     - Horse: 20 points
-- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 145 points
-    - Exchange Staff for Great Eagle: 55 points
+- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 200 points
+    - Exchange Staff for Great Eagle
 - [**Thorin Oakenshield, King Under the Mountain**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-king-under-the-mountain-130-points): 130 points
     - Orcrist: 10 points
 - [**Thranduil, King of the Woodland Realm**](../forces_of_good/elven_kingdoms.md#thranduil-king-of-the-woodland-realm-130-points): 130 points

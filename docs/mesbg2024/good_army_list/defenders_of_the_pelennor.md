@@ -14,16 +14,16 @@
     - Shadowfax: 25 points
 - [**Prince Imrahil**](../forces_of_good/gondor.md#prince-imrahil-140-points): 140 points
     - Armoured horse and lance: 30 points
-- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
-    - Snowmane with armour: 25 points
-    - Exchange armour for heavy armour: 5 points
-    - Shield: 5 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 110 points
+    - Snowmane with armour
+    - Exchange armour for heavy armour
+    - Shield
 
 **HEROES OF VALOUR**
 
-- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 110 points
-    - Firefoot with armour: 25 points
-    - Shield: 5 points
+- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 140 points
+    - Firefoot with armour
+    - Shield
     - Throwing spears: 5 points
 - [**Forlong the Fat**](../forces_of_good/gondor.md#forlong-the-fat-90-points): 90 points
 - [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
@@ -42,8 +42,8 @@
 - [**Captain of Dol Amroth**](../forces_of_good/gondor.md#captain-of-dol-amroth-65-points): 65 points
     - Armoured horse and lance: 30 points
 - [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
-- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
-    - Horse: 20 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 65 points
+    - Horse
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
 - [**Deorwine, Chief of the King's Knights**](../forces_of_good/rohan.md#deorwine-chief-of-the-kings-knights-70-points): 70 points
@@ -53,15 +53,15 @@
     - Horse: 20 points
 - [**Elladan**](../forces_of_good/elven_kingdoms.md#elladan-80-points): 80 points
 - [**Elrohir**](../forces_of_good/elven_kingdoms.md#elrohir-80-points): 80 points
-- [**Eowyn**](../forces_of_good/rohan.md#eowyn-60-points): 60 points
-    - Merry: 25 points
-    - Horse: 20 points
-    - Armour: 5 points
+- [**Eowyn**](../forces_of_good/rohan.md#eowyn-60-points): 110 points
+    - Merry
+    - Horse
+    - Armour
     - Shield: 5 points
     - Throwing spears: 5 points
-- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
+- [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 75 points
+    - Horse
     - Royal Standard of Rohan: 40 points
-    - Horse: 20 points
 - [**Halbarad**](../forces_of_good/arnor_and_angmar.md#halbarad-70-points): 70 points
     - Banner of Arwen Evenstar: 40 points
 - [**Herald of the Dead**](../forces_of_good/gondor.md#herald-of-the-dead-70-points): 70 points
@@ -101,8 +101,8 @@
     - Banner: 25 points
     - Throwing spears: 2 points
 - [**Rider of the Dead**](../forces_of_good/gondor.md#rider-of-the-dead-25-points): 25 points
-- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
-    - Horse: 5 points
+- [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 16 points
+    - Horse
     - Throwing spears: 2 points
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points

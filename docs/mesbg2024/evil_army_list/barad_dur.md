@@ -10,8 +10,8 @@
 
 **HEROES OF VALOUR**
 
-- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
-    - 2A / 2M / 14W / 2F: 120 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 120 points
+    - 2 Attacks, 2 Might, 14 Will, 2 Fate
     - Horse: 20 points
     - Morgul Blade: 10 points
 
@@ -22,8 +22,8 @@
     - Lance: 5 points
 - [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
 - [**Mordor Troll Chieftain**](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points): 150 points
-- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 0 points
-    - 2A / 1M / 10W / 1F: 90 points
+- [**Ringwraith**](../forces_of_evil/mordor.md#ringwraith-points-cost-varies): 90 points
+    - 2 Attacks, 1 Might, 10 Will, 1 Fate
     - Horse: 20 points
     - Morgul Blade: 10 points
 

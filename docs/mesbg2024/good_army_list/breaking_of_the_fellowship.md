@@ -7,37 +7,37 @@
 **HEROES OF LEGEND**
 
 - [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
+    - Elven cloak
     - Bow: 5 points
-    - Elven cloak: Free
 
 **HEROES OF VALOUR**
 
 - [**Boromir of Gondor**](../forces_of_good/the_free_peoples.md#boromir-of-gondor-95-points): 95 points
+    - Elven cloak
     - Shield: 5 points
-    - Elven cloak: Free
 - [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
-    - Elven cloak: Free
+    - Elven cloak
 - [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 70 points
+    - Elven cloak
     - Elf bow: 5 points
-    - Elven cloak: Free
 - [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
-    - Elven cloak: Free
+    - Elven cloak
 
 **HEROES OF FORTITUDE**
 
 - [**Frodo Baggins**](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points): 55 points
+    - Elven cloak
     - Mithril Coat: 15 points
     - Sting: 5 points
-    - Elven cloak: Free
 - [**Samwise Gamgee**](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points): 40 points
-    - Elven cloak: Free
+    - Elven cloak
 
 **INDEPENDENT HEROES**
 
 - [**Meriadoc Brandybuck**](../forces_of_good/the_free_peoples.md#meriadoc-brandybuck-10-points): 10 points
-    - Elven cloak: Free
+    - Elven cloak
 - [**Peregrin Took**](../forces_of_good/the_free_peoples.md#peregrin-took-10-points): 10 points
-    - Elven cloak: Free
+    - Elven cloak
 
 **WARRIORS**
 

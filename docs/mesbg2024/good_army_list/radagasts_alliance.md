@@ -6,8 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 145 points
-    - Exchange Staff for Great Eagle: 55 points
+- [**Radagast the Brown**](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points): 200 points
+    - Exchange Staff for Great Eagle
 
 **HEROES OF VALOUR**
 

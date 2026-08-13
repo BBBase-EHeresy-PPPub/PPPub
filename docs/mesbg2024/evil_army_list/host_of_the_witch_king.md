@@ -6,8 +6,8 @@
 
 **HEROES OF LEGEND**
 
-- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 0 points
-    - 3A / 3M / 18W / 3F: 150 points
+- [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 150 points
+    - 3 Attacks, 3 Might, 18 Will, 3 Fate
     - Horse: 20 points
     - Morgul Blade: 10 points
 

@@ -10,13 +10,13 @@
 
 **HEROES OF FORTITUDE**
 
-- [**Isengard Orc Captain**](../forces_of_evil/isengard.md#isengard-orc-captain-45-points): 45 points
-    - Warg: 20 points
+- [**Isengard Orc Captain**](../forces_of_evil/isengard.md#isengard-orc-captain-45-points): 65 points
+    - Warg
 
 **MINOR HEROES**
 
-- [**Isengard Orc Shaman**](../forces_of_evil/isengard.md#isengard-orc-shaman-50-points): 50 points
-    - Warg: 20 points
+- [**Isengard Orc Shaman**](../forces_of_evil/isengard.md#isengard-orc-shaman-50-points): 70 points
+    - Warg
 
 **WARRIORS**
 

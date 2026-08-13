@@ -50,7 +50,7 @@
 
 - A Defenders of Erebor Army must always include at least one Unique Erebor Hero, and at least one Unique Dale Hero.
 - Erebor Warrior models can only be included in the Warband of a Erebor Hero.
-- Dale Warrlor models can only be included in the Warband of a Dale Hero.
+- Dale Warrior models can only be included in the Warband of a Dale Hero.
 - Any models with the Iron Hills keyword replace it with the Erebor keyword.
 
 ## SPECIAL RULES

@@ -6,20 +6,20 @@
 
 **HEROES OF LEGEND**
 
-- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 110 points
-    - Firefoot with armour: 25 points
-    - Shield: 5 points
+- [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 140 points
+    - Firefoot with armour
+    - Shield
     - Throwing spears: 5 points
 
 **HEROES OF VALOUR**
 
-- [**Gandalf the White**](../forces_of_good/gondor.md#gandalf-the-white-200-points): 200 points
-    - Shadowfax: 25 points
+- [**Gandalf the White**](../forces_of_good/gondor.md#gandalf-the-white-200-points): 225 points
+    - Shadowfax
 
 **HEROES OF FORTITUDE**
 
-- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
-    - Horse: 20 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 65 points
+    - Horse
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
 - [**Erkenbrand, Captain of Rohan**](../forces_of_good/good_legacy.md#erkenbrand-captain-of-rohan-90-points): 90 points

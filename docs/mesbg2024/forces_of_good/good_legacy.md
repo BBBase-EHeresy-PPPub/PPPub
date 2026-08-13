@@ -52,7 +52,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 - [Hand Weapon]
 - [Shield]
 - [Throwing] [Spears][Spear]
-- Feralof
+- Felarof
 
 **HEROIC ACTIONS**
 
@@ -77,7 +77,7 @@ This model may use its throwing spears as a normal [spear][Spear] during the Fig
 
 ---
 
-**Feralof**
+**Felarof**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

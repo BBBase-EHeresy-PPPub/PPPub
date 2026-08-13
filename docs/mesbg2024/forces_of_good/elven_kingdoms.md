@@ -710,7 +710,7 @@ This is an Elven [spear][Spear]. Additionally, a model armed with this weapon th
 
 - **Knife Fighters** `ACTIVE`
 
-If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
 
 </div>
 
@@ -1120,7 +1120,7 @@ This is an Elven [spear][Spear]. Additionally, a model armed with this weapon th
 
 - **Knife Fighters** `ACTIVE`
 
-If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to the a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
+If Outnumbered in Combat, then before making their Duel roll, this model gains +1 Attack for each model they are Engaged in Combat with, after the first, up to a maximum of 3 bonus Attacks. This bonus lasts until the end of the Combat.
 
 </div>
 

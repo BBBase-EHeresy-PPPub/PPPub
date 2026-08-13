@@ -19,8 +19,8 @@
 **HEROES OF FORTITUDE**
 
 - [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
-- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 45 points
-    - Horse: 20 points
+- [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 65 points
+    - Horse
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
 

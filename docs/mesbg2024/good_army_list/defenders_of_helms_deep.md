@@ -6,19 +6,19 @@
 
 **HEROES OF LEGEND**
 
-- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 75 points
-    - Exchange armour for heavy armour: 5 points
+- [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 80 points
+    - Exchange armour for heavy armour
     - Shield: 5 points
 
 **HEROES OF VALOUR**
 
-- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 160 points
-    - Armour: 5 points
+- [**Aragorn, Strider**](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points): 165 points
+    - Armour
 - [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
-- [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 70 points
-    - Heavy armour: 10 points
-    - Elf bow: 5 points
+- [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 85 points
+    - Heavy armour
+    - Elf bow
     - Elven cloak: 5 points
 - [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Armour: 5 points
