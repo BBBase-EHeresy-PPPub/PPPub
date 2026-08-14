@@ -77,8 +77,8 @@ This model is never slowed by difficult terrain.
 
 | D6 | Result |
 |----|----------------------------------------|
-| 1-4| Osgiliath Veteran with choice of weapon|
-| 5-6| Knight of Minas Tirith with shield |
+| 1‑4| Osgiliath Veteran with choice of weapon|
+| 5‑6| Knight of Minas Tirith with shield |
 
 Osgiliath Veterans in this Battle Company treat the company's leader in the same way as Boromir and Faramir, according to their "Loyal to the Captains" special rule.
 
@@ -378,16 +378,16 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 | D6 | Result |
 |----|-------------------------------------------|
 | 1 | Nothing |
-| 2-3| Warrior of Dale with choice of weapon |
-| 4-5| Warrior of Erebor with choice of weapon |
+| 2‑3| Warrior of Dale with choice of weapon |
+| 4‑5| Warrior of Erebor with choice of weapon |
 | 6 | Roll on Special chart |
 
 **SPECIAL**
 
 | D6 | Result |
 |-----|--------------------|
-| 1-3 | Grim Hammer |
-| 4-6 | Knight of Dale |
+| 1‑3 | Grim Hammer |
+| 4‑6 | Knight of Dale |
 
 ---
 
@@ -430,9 +430,9 @@ If the Hero is an Elf, they gain a bonus of +1 to their Duel rolls if there is a
 
 | D6 | Result |
 |----|----------------------------------|
-| 1-2| Galadhrim Knight with choice of weapon |
-| 3-4| Guard of the Galadhrim Court |
-| 5-6| Wood Elf Sentinel |
+| 1‑2| Galadhrim Knight with choice of weapon |
+| 3‑4| Guard of the Galadhrim Court |
+| 5‑6| Wood Elf Sentinel |
 
 ---
 
@@ -503,9 +503,9 @@ This Hero always counts as having rolled a 6 for any Leap, Jump or Climb tests.
 
 | D6 | Result |
 |----|----------------------------------|
-| 1-2| Palace Guard with choice of weapon |
-| 3-4| Mirkwood Ranger |
-| 5-6| Mirkwood Cavalry |
+| 1‑2| Palace Guard with choice of weapon |
+| 3‑4| Mirkwood Ranger |
+| 5‑6| Mirkwood Cavalry |
 
 ---
 
@@ -579,9 +579,9 @@ This Hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 | D6 | Result |
 |----|---------------------------------------------|
-| 1-2| Iron Guard |
-| 3-4| Khazâd Guard |
-| 5-6| Vault Warden Team |
+| 1‑2| Iron Guard |
+| 3‑4| Khazâd Guard |
+| 5‑6| Vault Warden Team |
 
 ---
 
@@ -626,8 +626,8 @@ This hero may re-roll To Wound rolls of a 1 when making Strikes against Orc mode
 
 | D6 | Result |
 |----|-------------------------------|
-| 1-3| Iron Guard |
-| 4-5| Khazâd Guard |
+| 1‑3| Iron Guard |
+| 4‑5| Khazâd Guard |
 | 6 | Vault Warden Team (Rare 1) |
 
 ---

@@ -68,8 +68,8 @@
 | D6 | Result |
 |----|----------------------------------------|
 | 1 | Nothing |
-| 2-3| Mordor Orc with choice of weaponry |
-| 4-5| Mordor Uruk-hai with choice of weaponry|
+| 2‑3| Mordor Orc with choice of weaponry |
+| 4‑5| Mordor Uruk-hai with choice of weaponry|
 | 6 | Giant Spider |
 
 ---
@@ -107,9 +107,9 @@
 
 | D6 | Result |
 |----|------------------------------------------|
-| 1-2| Morgul Stalker |
-| 3-4| Black Númenórean |
-| 5-6| Dead Marsh Spectre (Rare 3) |
+| 1‑2| Morgul Stalker |
+| 3‑4| Black Númenórean |
+| 5‑6| Dead Marsh Spectre (Rare 3) |
 
 A Dead Marsh Spectre cannot gain Experience and therefore can never become a Hero.
 
@@ -154,8 +154,8 @@ Uruk-hai Grog - Small (2) (Hero only) - 4 Influence Points
 
 | D6 | Result |
 |----|--------------------|
-| 1-3| Feral Uruk-hai |
-| 4-6| Uruk-hai Berserker |
+| 1‑3| Feral Uruk-hai |
+| 4‑6| Uruk-hai Berserker |
 
 ---
 
@@ -224,8 +224,8 @@ The Hero model's mount (or itself if the Hero is a Wild Warg) causes Terror.
 
 | D6 | Result |
 |-----|-------------------------|
-| 1-3 | Dunlending Huscarl |
-| 4-5 | Dunlending Horseman |
+| 1‑3 | Dunlending Huscarl |
+| 4‑5 | Dunlending Horseman |
 | 6 | Crebain (Rare 2) |
 
 A Crebain cannot gain experience and therefore can never become a Hero.
@@ -297,8 +297,8 @@ Every time this Hero suffers a Wound in combat that would result in it being sla
 
 | D6 | Result |
 |----|-----------------------------------------|
-| 1-3 | Moria Goblin Prowler |
-| 4-6 | Moria Blackshield |
+| 1‑3 | Moria Goblin Prowler |
+| 4‑6 | Moria Blackshield |
 
 ---
 
@@ -325,8 +325,8 @@ The Hero gains the 'Backstabbers' special rule.
 | D6 | Result |
 |-----|----------------------------------------------|
 | 1 | Nothing |
-| 2-3 | Goblin Warrior |
-| 4-5 | Goblin Warrior with two-handed weapon |
+| 2‑3 | Goblin Warrior |
+| 4‑5 | Goblin Warrior with two-handed weapon |
 | 6 | 2x Goblin Warrior |
 
 ---
@@ -365,8 +365,8 @@ The Hero gains the 'Backstabbers' special rule.
 | D6 | Result |
 |-----|-----------------------------|
 | 1 | Orc Tracker |
-| 2-3 | Angmar Warg Rider |
-| 4-5 | Dead Marsh Spectre (Rare 3) |
+| 2‑3 | Angmar Warg Rider |
+| 4‑5 | Dead Marsh Spectre (Rare 3) |
 | 6 | Werewolf (Rare 1) |
 
 A Werewolf cannot gain Experience and therefore cannot become a Hero.
@@ -402,8 +402,8 @@ A Gundabad Battle Company may hire a Gundabad Ogre for 15 Influence Points. A Gu
 
 | D6 | Result |
 |----|---------------------------|
-| 1-4| Gundabad Berserker |
-| 5-6| War Bat (Rare 2) |
+| 1‑4| Gundabad Berserker |
+| 5‑6| War Bat (Rare 2) |
 
 A War Bat cannot gain Experience and therefore cannot become a Hero.
 
@@ -459,16 +459,16 @@ A War Bat cannot gain Experience and therefore cannot become a Hero.
 |----|---------------------|
 | 1 | Nothing |
 | 2 | Broodling (Rare 3) |
-| 3-5| Fell Warg |
+| 3‑5| Fell Warg |
 | 6 | Roll on Special chart|
 
 **SPECIAL**
 
 | D6 | Result |
 |----|----------------|
-| 1-2| Mirkwood Spider|
-| 3-4| Giant Spider |
-| 5-6| Bat Swarm |
+| 1‑2| Mirkwood Spider|
+| 3‑4| Giant Spider |
+| 5‑6| Bat Swarm |
 
 A Bat Swarm cannot gain Experience and therefore can never become a Hero.
 
@@ -500,8 +500,8 @@ Unlike other Battle Companies, a Harad Battle Company may have up to 50% of its 
 | D6 | Result |
 |----|-----------------------------------------|
 | 1 | Nothing |
-| 2-3| Haradrim Warrior with spear |
-| 4-5| Haradrim Warrior with bow |
+| 2‑3| Haradrim Warrior with spear |
+| 4‑5| Haradrim Warrior with bow |
 | 6 | Roll on Special chart |
 
 **SPECIAL**
@@ -546,8 +546,8 @@ A Warrior of Kârna has a Shoot value of 3+, instead of 4+.
 | D6 | Result |
 |----|--------------------------------|
 | 1 | Nothing |
-| 2-3| Haradrim Warrior with spear |
-| 4-5| Haradrim Warrior with bow |
+| 2‑3| Haradrim Warrior with spear |
+| 4‑5| Haradrim Warrior with bow |
 | 6 | Roll on Special chart |
 
 **SPECIAL**
@@ -556,7 +556,7 @@ A Warrior of Kârna has a Shoot value of 3+, instead of 4+.
 |----|---------------------------------|
 | 1 | Warrior of Kârna with bow |
 | 2 | Warrior of Kârna with spear |
-| 3-5| Watcher of Kârna |
+| 3‑5| Watcher of Kârna |
 | 6 | Spectral Warrior (Rare 1) |
 
 A Spectral Warrior has the same profile as a Warrior of the Dead. However, they cannot gain Experience and therefore cannot become a Hero.
@@ -602,9 +602,9 @@ Blowpipe (1/5) - 1 Influence Point
 
 | D6 | Result |
 |----|-----------------------------------------|
-| 1-2| Mahûd Raider |
-| 3-4| Mahûd Raider with choice of weapon |
-| 5-6| Half Troll (Rare 2). A Half Troll cannot gain Experience and therefore cannot become a Hero. |
+| 1‑2| Mahûd Raider |
+| 3‑4| Mahûd Raider with choice of weapon |
+| 5‑6| Half Troll (Rare 2). A Half Troll cannot gain Experience and therefore cannot become a Hero. |
 
 ---
 
@@ -643,8 +643,8 @@ Smoke Bombs (1/5) - 2 Influence Points - These are a throwing weapon with a Stre
 
 | D6 | Result |
 |----|-----------------|
-| 1-3| Corsair Reaver |
-| 4-6| Corsair Arbalester |
+| 1‑3| Corsair Reaver |
+| 4‑6| Corsair Arbalester |
 
 ---
 
@@ -679,8 +679,8 @@ Smoke Bombs (1/5) - 2 Influence Points - These are a throwing weapon with a Stre
 
 | D6 | Result |
 |-----|-------------------------|
-| 1-4 | Easterling Kataphrakt |
-| 5-6 | Rhûnish War Drake (Rare 2) |
+| 1‑4 | Easterling Kataphrakt |
+| 5‑6 | Rhûnish War Drake (Rare 2) |
 
 A Rhûnish War Drake cannot gain experience and therefore cannot become a Hero.
 
@@ -710,8 +710,8 @@ Khandish Chariot (25/35) (leader only) - 10 Influence Points
 | D6 | Result |
 |----|------------------------------------|
 | 1 | Nothing |
-| 2-3| Khandish Warrior |
-| 4-5| Khandish Warrior with bow |
+| 2‑3| Khandish Warrior |
+| 4‑5| Khandish Warrior with bow |
 | 6 | Khandish Horseman with choice of weapon |
 
 ---
@@ -750,8 +750,8 @@ Roll a D6 each time the Hero suffers a Wound; on a 5+ the Wound is ignored.
 
 | D6 | Result |
 |-----|-------------------------|
-| 1-3 | Dunlending Huscarl |
-| 4-5 | Dunlending Horseman |
+| 1‑3 | Dunlending Huscarl |
+| 4‑5 | Dunlending Horseman |
 | 6 | Crebain (Rare 2) |
 
 A Crebain cannot gain experience and therefore can never become a Hero.
@@ -790,8 +790,8 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 
 | D6 | Result |
 |-----|-------------------------|
-| 1-3 | Black Dragon Kataphrakt |
-| 4-6 | Dragon Cult Acolyte |
+| 1‑3 | Black Dragon Kataphrakt |
+| 4‑6 | Dragon Cult Acolyte |
 
 ---
 
@@ -816,7 +816,7 @@ A Crebain cannot gain experience and therefore can never become a Hero.
 | D6 | Result |
 |----|---------------------------------------------|
 | 1 | Nothing |
-| 2-3| Angmar Orc Warrior with choice of weaponry |
+| 2‑3| Angmar Orc Warrior with choice of weaponry |
 | 4 | Warrior of Carn Dûm |
 | 5 | Warrior of Carn Dûm with spear |
 | 6 | Choice of any |

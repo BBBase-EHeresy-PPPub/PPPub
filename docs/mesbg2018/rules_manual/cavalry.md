@@ -129,7 +129,7 @@ A **Cavalry** model may dismount from their steed at any point in their Move. Di
 | D6 | RESULT |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | **KNOCKED FLYING** The rider hits the dirt and immediately suffers one Strength 3 hit. If they survive, the model is Prone and can do nothing else for that turn. If the mount survives, place the rider in base contact with the mount. If Engaged in combat, they fight as a Prone model. |
-| 2-5 | **RISES FROM THE DUST** The rider disentangles themselves from their mount but can do nothing else for that turn. |
+| 2‑5 | **RISES FROM THE DUST** The rider disentangles themselves from their mount but can do nothing else for that turn. |
 | 6 | **LEAPS INTO ACTION** The rider bounds from the saddle ready to face their enemy. The **Cavalry** model is replaced by an Infantry model and suffers no further penalty. |
 
 ### CAVALRY STEEDS

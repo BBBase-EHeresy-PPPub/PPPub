@@ -529,8 +529,8 @@ Before each Sentry takes their Move phase, the controlling player must roll on t
 | D6 | Result |
 |------|--------------------------------------------------------------------------------------------|
 | **1** | The Sentry is searching around in its vicinity. It may not Move this turn. |
-| **2-3** | The Sentry has been distracted by a noise elsewhere on the board. The opposing player may move the model up to half of its Move allowance in any direction. |
-| **4-5** | The Sentry walks carefully to where they believe an intruder to be, the controlling player may move the model up to 3" in any direction. |
+| **2‑3** | The Sentry has been distracted by a noise elsewhere on the board. The opposing player may move the model up to half of its Move allowance in any direction. |
+| **4‑5** | The Sentry walks carefully to where they believe an intruder to be, the controlling player may move the model up to 3" in any direction. |
 | **6** | The Sentry is convinced it has spotted an intruder and moves as quickly as possible to investigate. The model may move as normal. |
 
 If, during the End phase of any turn, there is an unengaged Sentry within 3" and Line of Sight of an enemy model then the alarm has been raised. Once the alarm has been raised, all Sentries revert back to the normal rules for movement for the remainder of the game.

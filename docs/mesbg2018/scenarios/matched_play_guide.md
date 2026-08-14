@@ -226,8 +226,8 @@ Roll for each warband separately, deploy the models in the warband, then roll fo
 
 | D6 | Result |
 |------|--------|
-| 1-3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
-| 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
+| 1‑3 | The warband does not arrive, but receives +1 to this dice roll next turn. |
+| 4‑6 | The controlling player chooses a point on their board edge at least 6" from a corner - all models in the warband move onto the battlefield from this point. |
 
 > **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 

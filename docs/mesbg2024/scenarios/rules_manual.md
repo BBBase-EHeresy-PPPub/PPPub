@@ -224,8 +224,8 @@ Roll for each Warband separately, Activate the models in the Warband, then roll 
 
 | D6 | Result |
 | --- | --- |
-| 1-3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
-| 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 1‑3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
+| 4‑6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
 > **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 

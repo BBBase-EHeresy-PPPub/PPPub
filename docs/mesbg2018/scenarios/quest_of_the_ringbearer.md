@@ -571,7 +571,7 @@ Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical 
 | D6 | Result |
 |-----------|----------|
 | 1 | No Effect. |
-| 2-5 | The bridge is damaged but still standing. You may add 1 to further rolls on this chart. These modifiers are cumulative. |
+| 2‑5 | The bridge is damaged but still standing. You may add 1 to further rolls on this chart. These modifiers are cumulative. |
 | 6 | The bridge is destroyed. Any models on the bridge are removed as a casualty. |
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_bridge_of_khazad-dum.jpg){ width=500 height=500 }

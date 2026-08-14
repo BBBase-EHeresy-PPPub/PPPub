@@ -77,7 +77,7 @@ When playing your games, you may wish to Shoot at something not covered in this 
 | D6 | Result |
 |---|---|
 | 1 | **Wide of the Mark:** Your opponent may choose one Battlefield Target (from either Army) within 6" of the initial target. The chosen model becomes the actual target. The chosen model must be within the Line of Sight of the Siege Engine, otherwise it cannot be chosen. If there is no alternative Battlefield Target within 6", or if your opponent does not wish to choose an alternative, then the shot misses completely. |
-| 2-5 | **Slight Deviation:** Your opponent may choose one Battlefield Target from their own Army within 6" of the initial target. The chosen model must be within the Line of Sight of the Siege Engine, otherwise it cannot be chosen. The chosen model becomes the actual target. If there are no alternative targets, treat the result as Dead On instead. |
+| 2‑5 | **Slight Deviation:** Your opponent may choose one Battlefield Target from their own Army within 6" of the initial target. The chosen model must be within the Line of Sight of the Siege Engine, otherwise it cannot be chosen. The chosen model becomes the actual target. If there are no alternative targets, treat the result as Dead On instead. |
 | 6 | **Dead On:** The shot hits the initial target, who becomes the actual target. |
 
 ### SIEGE ENGINES AND IN THE WAYS

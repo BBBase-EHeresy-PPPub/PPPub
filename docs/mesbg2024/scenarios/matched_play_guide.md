@@ -215,8 +215,8 @@ Roll for each Warband separately. Activate the models in the Warband, then roll 
 
 | D6 | Result |
 |---|---|
-| 1-3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so they will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
-| 4-6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
+| 1‑3 | The Warband does not arrive, but receives +1 to this dice roll next turn. This is cumulative, so they will arrive on a 3+ on turn 2, a 2+ on turn 3, and automatically on turn 4. |
+| 4‑6 | The controlling player chooses a point on their board edge at least 6" from a corner - the Warband arrives from this point via the rules for Reinforcements. |
 
 > **Designer's Note:** *Special rules that allow for models to arrive on from any table edge (such as the Goblin Mercenary Captain's Mercenary Ambush) must choose the controlling player's table edge for this Scenario.*
 
@@ -653,9 +653,9 @@ At the beginning of the Priority Phase of each turn, roll a D6 and consult the t
 
 | D6 | Result |
 |---|---|
-| 1-2 | Until the end of the turn, each time a model within 3" of an Objective Marker suffers a Wound, roll a D6. On a roll of a natural 6, the Wound is ignored. This roll is taken immediately after the Wound has been suffered, before Fate Rolls or any other rules that confer a similar effect. Might may not be used to modify this roll. |
-| 3-4 | Until the end of the turn, models within 3" of an Objective Marker automatically pass any Courage Tests they are required to take. |
-| 4-6 | Until the end of the turn, models within 3" of an Objective Marker may re-roll any To Wound Rolls of a 1 when making Strikes. |
+| 1‑2 | Until the end of the turn, each time a model within 3" of an Objective Marker suffers a Wound, roll a D6. On a roll of a natural 6, the Wound is ignored. This roll is taken immediately after the Wound has been suffered, before Fate Rolls or any other rules that confer a similar effect. Might may not be used to modify this roll. |
+| 3‑4 | Until the end of the turn, models within 3" of an Objective Marker automatically pass any Courage Tests they are required to take. |
+| 4‑6 | Until the end of the turn, models within 3" of an Objective Marker may re-roll any To Wound Rolls of a 1 when making Strikes. |
 
 ![](../media/scenarios/matched_play_guide/sites_of_power.jpg){ width=1000 height=680 }
 

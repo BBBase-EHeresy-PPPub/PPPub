@@ -106,7 +106,7 @@ This Heroic Action can prove extremely valuable, and often when the player witho
 
 If a Hero who has declared a Heroic Move is Charged and Engaged in Combat, or rendered unable to Activate in some other way, then their Heroic Move is cancelled and the Might Point spent is lost.
 
-***Example 63:** The Evil side has Priority, and Tom the Troll is closer to Thorin's Company than they would like! Bilbo Baggins uses 1 Might Point to declare a Heroic Move, enabling him (and any friendly models within 6" if he shouts With Me) to Activate first, outside the normal order of Priority. If Tom decided to also spend 1 Might Point to declare a Heroic Move, then the player with Priority (the Evil player) would roll a D6 to see whose Heroic Move takes place first. Universal Heroic Actions*
+***Example 63:** The Evil side has Priority, and Tom the Troll is closer to Thorin's Company than they would like! Bilbo Baggins uses 1 Might Point to declare a Heroic Move, enabling him (and any friendly models within 6" if he shouts With Me) to Activate first, outside the normal order of Priority. If Tom decided to also spend 1 Might Point to declare a Heroic Move, then the player with Priority (the Evil player) would roll a D6 to see whose Heroic Move takes place first.*
 
 ![](../media/rules_manual/example_63.jpg){ width=714 height=521 }
 

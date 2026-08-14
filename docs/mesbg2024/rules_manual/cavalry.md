@@ -127,7 +127,7 @@ Should the Mount be slain, then the rider must immediately take a Thrown Rider T
 | D6 | Result |
 |---|---|
 | 1 | **Knocked Flying:** The rider hits the dirt and immediately suffers one Strength 3 hit and, if they survive, are placed Prone. A model that was Knocked Flying cannot Activate, Move, Shoot, make Strikes or Cast Magical Powers for the remainder of the turn. If the Mount survived, place the rider in base contact with the Mount instead of in the centre of where its base was; if there is not enough room, separate the models the minimum distance to make it so. If the rider is Engaged in Combat, they fight as a Prone model. |
-| 2-5 | **Rises From the Dust:** The rider disentangles themselves from their Mount and gets to their feet. A model that Rises From the Dust cannot Activate, Move, Shoot, make Strikes or Cast Magical Powers for the remainder of the turn. |
+| 2‑5 | **Rises From the Dust:** The rider disentangles themselves from their Mount and gets to their feet. A model that Rises From the Dust cannot Activate, Move, Shoot, make Strikes or Cast Magical Powers for the remainder of the turn. |
 | 6 | **Leaps into Action:** The rider bounds from the saddle and is ready for action. A model that Leaps into Action stays on its feet and can act as normal for the remainder of the turn. |
 
 ### LIST OF MOUNTS

@@ -19,7 +19,7 @@ However, if any model begins its Activation Prone whilst within Shallow Water, t
 | D6 | Result |
 |---|---|
 | 1 | **Sink:** The model is overcome by the weight of its wargear (or its complete inability to swim) and drowns. Remove the model as a casualty. |
-| 2-5 | **Swim:** The model may Move up to half its remaining Move Value through the water. |
+| 2‑5 | **Swim:** The model may Move up to half its remaining Move Value through the water. |
 | 6 | **Swim Strongly:** The model may Move all its remaining Move Value through the water. |
 
 The following circumstances will modify the result of a Swim Test. All modifiers are cumulative:
@@ -108,8 +108,8 @@ Some Narrative Scenarios will use Sentries - models that are simply on patrol an
 | D6 | Result |
 |---|---|
 | 1 | The Sentry is distracted and searching around its vicinity. It may not Move this turn. |
-| 2-3 | The Sentry has heard a noise elsewhere. The opposing player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. |
-| 4-5 | The Sentry is suspicious of intruders. Their controlling player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. |
+| 2‑3 | The Sentry has heard a noise elsewhere. The opposing player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. |
+| 4‑5 | The Sentry is suspicious of intruders. Their controlling player may Move the Sentry up to half its Move Value following all the normal rules for Moving a model. |
 | 6 | The Sentry is convinced they spotted something lurking in the dark. Their controlling player may Move the Sentry as normal. |
 
 Until the alarm is raised, Sentries cannot make Shooting Attacks, or use Magical Powers or special rules that need to target enemy models.

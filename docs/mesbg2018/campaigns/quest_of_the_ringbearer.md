@@ -17,7 +17,7 @@ There is a very real likelihood that some members of the Fellowship or their all
 | D6 | Result |
 | --- | --- |
 | **1** | **Dead** - This Hero has been slain in battle. If Frodo is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
-| **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
+| **2‑3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
 | **4+** | **Recovered** - This Hero regains 1 Wound and then may recover as normal. |
 
 Additionally, if the **Good** player wins the Scenario, all their **Hero models** will gain a bonus of +1 to their rolls on the Campaign Injury table.
@@ -308,7 +308,7 @@ There is a very real likelihood that some members of your Fellowship will perish
 | D6 | Result |
 | --- | --- |
 | **1** | **Dead** - This Hero has been slain in battle. If your Ringbearer is ever slain, then the campaign comes to an end and Middle-earth falls into darkness. |
-| **2-3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
+| **2‑3** | **Wounded** - This Hero regains 1 Wound, but otherwise may not regain any other characteristics unless they are chosen as the Bravest Companion. |
 | **4+** | **Recovered** - This Hero regains 1 Wound and then may recover as normal. |
 
 Additionally, if the Good player wins the Scenario, all their **Hero** models will gain a bonus of +1 to their rolls on the Campaign Injury Table.
