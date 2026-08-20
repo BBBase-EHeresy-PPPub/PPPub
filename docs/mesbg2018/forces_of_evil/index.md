@@ -1,1 +1,21 @@
-# Forces of Evil
+![](../media/forces_of_evil.jpg){ width=750 height=750 }
+
+- [Angmar](angmar.md)
+- [Azog's Hunters](azogs_hunters.md)
+- [Azog's Legion](azogs_legion.md)
+- [Barad-dur](barad_dur.md)
+- [Corsairs of Umbar](corsairs_of_umbar.md)
+- [Dark Denizens of Mirkwood](dark_denizens_of_mirkwood.md)
+- [Dark Powers of Dol Guldur](dark_powers_of_dol_guldur.md)
+- [Desolator of the North](desolator_of_the_north.md)
+- [The Easterlings](the_easterlings.md)
+- [Far Harad](far_harad.md)
+- [Goblin-town](goblin_town.md)
+- [Isengard](isengard.md)
+- [Mordor](mordor.md)
+- [Moria](moria.md)
+- [The Serpent Horde](the_serpent_horde.md)
+- [Sharkey's Rogues](sharkeys_rogues.md)
+- [The Trolls](the_trolls.md)
+- [Variags of Khand](variags_of_khand.md)
+- [Wanderers in the Wild (Evil)](wanderers_in_the_wild_evil.md)
