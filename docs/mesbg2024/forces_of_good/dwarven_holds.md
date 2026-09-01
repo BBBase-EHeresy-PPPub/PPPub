@@ -833,7 +833,7 @@ Once per game, at the start of his Activation, Thorin can declare he is using th
 
 This can be used as either a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
 
-- **Embedded Axe-blade** `ACTIVE`
+- **Embedded Axe** `ACTIVE`
 
 If Bifur wins a Duel Roll, then he may choose to headbutt an enemy model instead of making Strikes. If he does, choose a single enemy model involved in the Combat. The chosen model suffers a single Strength 4 Strike from Bifur, though this will not be doubled if the chosen model is Trapped. If Bifur Wounds the chosen model with this Strike, then the axe-blade will have been freed from his skull. From this point on at the start of each Move Phase, before the Declare Heroic Actions step, Bifur may take an Intelligence Test; if the test is passed, Bifur may declare a [Heroic Move] that turn for free.
 
@@ -865,7 +865,7 @@ If Bifur wins a Duel Roll, then he may choose to headbutt an enemy model instead
 - [Throw Stones] (range 8", Strength 2)
 - [Sworn Protector] (Thorin)
 
-- **Embedded Axe-blade** `ACTIVE`
+- **Embedded Axe** `ACTIVE`
 
 If Bifur wins a Duel Roll, then he may choose to headbutt an enemy model instead of making Strikes. If he does, choose a single enemy model involved in the Combat. The chosen model suffers a single Strength 4 Strike from Bifur, though this will not be doubled if the chosen model is Trapped. If Bifur Wounds the chosen model with this Strike, then the axe-blade will have been freed from his skull. From this point on at the start of each Move Phase, before the Declare Heroic Actions step, Bifur may take an Intelligence Test; if the test is passed, Bifur may declare a [Heroic Move] that turn for free.
 
@@ -998,7 +998,7 @@ Whenever a friendly Erebor Hero within 3" of Bofur is affected by an enemy speci
 
 **WARGEAR**
 
-- [Hand Weapon]
+- Cleaver (counts as a [Sword])
 
 **HEROIC ACTIONS**
 

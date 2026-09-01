@@ -755,7 +755,7 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 5+ | 2 | 1 | 1 |
+| 6" | 6 | 3+ | 4 | 6 | 2 | 2 | 4+ | 4+ | 2 | 1 | 1 |
 
 **WARGEAR**
 

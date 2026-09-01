@@ -405,7 +405,7 @@ If an enemy model attempts to Charge this model and fails its Courage Test as a 
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 6 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
+| 6" | 5 | 4+ | 4 | 6 | 2 | 2 | 6+ | 5+ | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -438,7 +438,7 @@ A model with this special rule can use a [pike][Pike] and a [shield][Shield] at 
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 5+ | 4 | 5 | 2 | 2 | 6+ | 5+ | 3 | 1 | 1 |
+| 6" | 5 | 5+ | 4 | 5 | 2 | 2 | 6+ | 5+ | 3 | 2 | 1 |
 
 **WARGEAR**
 

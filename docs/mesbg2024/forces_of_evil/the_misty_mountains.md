@@ -450,7 +450,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 0" | 1 | 6+ | 2 | 2 | 1 | 1 | 7+ | 7+ | 0 | 1 | 1 |
+| 0" | 1 | 5+ | 2 | 2 | 1 | 1 | 7+ | 7+ | 0 | 1 | 1 |
 
 **WARGEAR**
 
@@ -462,7 +462,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 
 The Goblin Scribe cannot Move, and will always count as Trapped should it lose a Duel Roll. Additionally, friendly models may carry the Goblin Scribe in which case it will count as a Heavy Object, and must always be put down after a model carrying it has finished its Move. In Scenarios where models Move onto the board, the Goblin Scribe may be carried on by friendly models.
 
-- **Always more where they came from** `ACTIVE`
+- **The Goblin King's Command** `ACTIVE`
 
 If the Goblin King declares a [Heroic Move] whilst within 6" of the Goblin Scribe and chooses to call With Me, then it will affect all friendly models on the battlefield rather than just those within 6", and affected models do not have to finish their Activation within 6" of the Goblin King. Additionally, any friendly Goblin Hero that begins their Activation within 3" of the Goblin Scribe can choose to spend a Might Point. If they do, the Goblin King regains a Might Point spent earlier in the battle. This special rule can only be used once per turn.
 

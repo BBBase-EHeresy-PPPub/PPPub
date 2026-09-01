@@ -616,7 +616,7 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 4 | 4+ | 4 | 4 | 2 | 2 | 6+ | 7+ | 3 | 1 | 1 |
+| 6" | 4 | 4+ | 4 | 4 | 2 | 2 | 6+ | 6+ | 3 | 1 | 1 |
 
 **WARGEAR**
 

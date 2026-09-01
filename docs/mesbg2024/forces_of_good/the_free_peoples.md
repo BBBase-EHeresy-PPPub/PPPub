@@ -276,7 +276,7 @@ If Radagast dismounts from his Sleigh, it must be removed from play.
 
 ### SARUMAN [170 POINTS]
 
-**WIZARD | ISENGARD | HERO, INFANTRY, UNIQUE | 25MM**
+**WIZARD | WHITE COUNCIL | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -300,7 +300,7 @@ If Radagast dismounts from his Sleigh, it must be removed from play.
 | [Protection of the Valar] | 12" | 3+ |
 | [Terrifying Aura] | Self | 3+ |
 | [Transfix] | 18" | 3+ |
-| [Foil Magic] | 18" | 4+ |
+| [Foil Magic] | 12" | 4+ |
 | [Sorcerous Blast] | 12" | 5+ |
 
 **SPECIAL RULES**

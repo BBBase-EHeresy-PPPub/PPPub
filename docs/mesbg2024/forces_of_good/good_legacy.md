@@ -337,7 +337,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Transfix] | 12" | 3+ |
+| [Immobilise] | 12" | 3+ |
 | [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
@@ -656,7 +656,7 @@ Mablung and any Rangers of Gondor (including Faramir, Madril, Damrod and Anborn)
 |:--|:--:|:--:|
 | [Call Winds] | 12" | 3+ |
 | [Foil Magic] | 12" | 4+ |
-| [Strengthen Will] | 12" | 4+ |
+| [Strengthen Will] | 12" | 3+ |
 
 **SPECIAL RULES**
 
