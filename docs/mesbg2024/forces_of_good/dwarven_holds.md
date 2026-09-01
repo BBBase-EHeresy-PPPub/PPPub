@@ -117,6 +117,10 @@ Any Khazad Guard in Durin's Warband upgraded to Hearthguard have the [Burly] spe
 - [Heroic Challenge]
 - [Heroic March]
 
+**OPTIONS**
+
+- Orcrist - 10 points
+
 **SPECIAL RULES**
 
 - [Fearless]
@@ -191,7 +195,7 @@ Any Grim Hammer Warriors upgraded to Guardians of the King in Thror's warband wi
 
 **WARGEAR**
 
-- [Light Armour]
+- [Armour]
 - [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
@@ -400,6 +404,10 @@ At the beginning of a Combat, so long as he is within 3" of Thorin, Dwalin can u
 
 - [Heroic March]
 - [Heroic Resolve]
+
+**OPTIONS**
+
+- [Throwing Weapons] - Free
 
 **SPECIAL RULES**
 
@@ -666,7 +674,11 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound Rolls 
 **HEROIC ACTIONS**
 
 - [Heroic Strike]
-- [Heroic Defence]
+- [Heroic Strength]
+
+**OPTIONS**
+
+- The Ring of Durin - Free
 
 **SPECIAL RULES**
 
@@ -1625,8 +1637,8 @@ This model gains a bonus of +1 To Wound when making Strikes against a model that
 
 **WARGEAR**
 
-- [Heavy Armour]
-- [Hand Weapon]
+- [Dwarf Armour][Armour]
+- [Axe]
 
 **OPTIONS**
 
@@ -1691,7 +1703,7 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 
 **OPTIONS**
 
-- Upgrade To Guardians of the King - 1 point
+- Guardian of the King - 1 point
 
 **SPECIAL RULES**
 
@@ -1717,7 +1729,7 @@ This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wield
 
 **WARGEAR**
 
-- Dwarf [Armour]
+- [Heavy Armour]
 - [Hand Weapon]
 - [Throwing Weapons]
 
@@ -1779,7 +1791,7 @@ Any Iron Hills Warrior that ends their Activation in base contact with an Iron H
 
 - [Heavy Armour]
 - [War Spear]
-- [Hand Weapon]
+- [Sword]
 - War Goat
 
 **OPTIONS**

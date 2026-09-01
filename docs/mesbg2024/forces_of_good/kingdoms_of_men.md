@@ -54,6 +54,10 @@ At the start of any Combat involving Brand, check to see if Brand would be consi
 - [Heroic Strike]
 - [Heroic Accuracy]
 
+**OPTIONS**
+
+- Windlance - 50 points
+
 **SPECIAL RULES**
 
 - [Hatred] (Dragon)
@@ -156,6 +160,8 @@ Whenever an enemy Hero model within 3" of the Master of Lake-town is removed as 
 - [Unarmed]
 
 **SPECIAL RULES**
+
+- [Fearful]
 
 - **Dubious Counsel** `ACTIVE`
 

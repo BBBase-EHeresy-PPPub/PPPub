@@ -167,7 +167,7 @@ Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is preve
 
 **WARGEAR**
 
-- [Hand Weapon]
+- [Club] or fork (counts as [Dagger])
 
 **HEROIC ACTIONS**
 
@@ -568,7 +568,8 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 
 **WARGEAR**
 
-- Strangling Fingers (never [Unarmed])
+- Strangling fingers ([hand weapon][Hand Weapon])
+- [The One Ring]
 
 Gollum has strong, strangling fingers and so is never considered to be [Unarmed] - ever! If your opponent does not have a Ringbearer in their Army, then Gollum carries [the One Ring][The One Ring].
 
@@ -687,7 +688,7 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 
 A Cave Troll must have one of the following options for the listed points cost:
 
-- [Hand-and-a-half Weapon] - 5 points
+- [Hand-and-a-half][Hand-And-A-Half] [Hammer] - 5 points
 - Troll [Spear] - 5 points
 
 **SPECIAL RULES**

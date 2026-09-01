@@ -256,6 +256,7 @@ If he is outnumbered in a Combat, then Sid may re-roll any rolls of a natural 1 
 **WARGEAR**
 
 - [Hand Weapon]
+- [Whip]
 
 **HEROIC ACTIONS**
 
@@ -509,7 +510,7 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 
 **WARGEAR**
 
-- [Armour]
+- [Heavy Armour]
 - [Shield]
 - [Hand Weapon]
 
@@ -537,7 +538,7 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 
 **WARGEAR**
 
-- [Armour]
+- [Heavy Armour]
 - [Shield]
 - [Hand Weapon]
 
@@ -1069,7 +1070,7 @@ An Uruk-Hai Warrior must have one of the following options for the listed points
 - [Bow] - 1 point
 - [Light Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
+- [Two-handed][Two-Handed] [Axe] - 1 point
 - Flaming Brand - 1 point
 
 **SPECIAL RULES**

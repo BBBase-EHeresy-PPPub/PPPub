@@ -378,6 +378,7 @@ Other friendly Dol Amroth models treat Prince Imrahil as a [banner][Banner] with
 
 - [Horse] - 20 points
 - [Shield] - 5 points
+- Banner of Minas Tirith - 40 points
 
 **SPECIAL RULES**
 
@@ -457,7 +458,7 @@ During each Priority Phase, after Priority has been determined, Denethor must ta
 **OPTIONS**
 
 - [Horse] - 20 points
-- [Shield] - 5 points
+- [Shield] (without [Bow]) - 5 points
 - Exchange [Armour] and [Bow] for [Heavy Armour] - Free
 
 **SPECIAL RULES**
@@ -493,7 +494,7 @@ Whilst Faramir is alive and on the battlefield, if you win the roll to choose wh
 
 - [Heavy Armour]
 - [Hand Weapon]
-- [War Spear]
+- [Spear]
 - The Horn of Lossarnach
 
 **HEROIC ACTIONS**
@@ -570,7 +571,7 @@ Whilst Húrin is alive and on the battlefield, your opponent cannot score any Vi
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -581,7 +582,7 @@ Whilst Húrin is alive and on the battlefield, your opponent cannot score any Vi
 **OPTIONS**
 
 - [Horse] - 20 points
-- [The One Ring] - Free
+- The Ring - Free
 
 **SPECIAL RULES**
 
@@ -774,7 +775,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 ### CAPTAIN OF MINAS TIRITH [60 POINTS]
 
-**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+**MAN | GONDOR | HERO, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -1116,7 +1117,7 @@ An Axe of Lossarnach can be used either as a [spear][Spear] or a [two-handed wea
 
 - **Dead-eye Shot** `PASSIVE`
 
-When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound rolls when making shooting attacks.
+When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound Rolls when making shooting attacks.
 
 </div>
 
@@ -1298,7 +1299,7 @@ An Osgiliath Veteran must have one of the following options for the listed point
 
 - **Loyal to the Captains** `ACTIVE`
 
-If this model is within 6" or Boromir or Faramir, they may re-roll To Wound rolls of a natural 1 when making Strikes.
+Whilst within 6" of either Boromir or Faramir, this model may re-roll To Wound Rolls of a natural 1 when making Strikes.
 
 </div>
 
@@ -1347,7 +1348,7 @@ If this model is within 6" or Boromir or Faramir, they may re-roll To Wound roll
 **WARGEAR**
 
 - [Armour]
-- [Hand Weapon]
+- [Sword]
 - [Shield]
 - Spectral Steed
 

@@ -246,7 +246,7 @@ The range of Razgush's [Stand Fast] is 12" rather than 6".
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half Weapon]
+- [Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -405,6 +405,14 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 This is a Unique [banner][Banner]. The Golden King does not suffer the -1 penalty to his Duel Rolls for carrying a [banner][Banner].
 
+- **Riches Beyond Renown** `ACTIVE`
+
+The Golden King can spend any number of Will Points when an enemy Hero within 12" and Line of Sight takes a Courage Test. If he does, for each Will Point spent, the Hero model's Courage Test is reduced by 1. The Golden King may wait until after the Courage Test has been rolled to use this special rule. Affected Hero models may still use Might or Will Points to improve their Courage Test after the Golden King has used this special rule.
+
+- **The Lure of Wealth** `ACTIVE`
+
+If the Golden King loses a Duel Roll, he may immediately spend a Will Point to use this special rule. If he does, enemy models may not make Strikes against the Golden King for the duration of the Combat.
+
 </div>
 
 ---
@@ -421,7 +429,7 @@ This is a Unique [banner][Banner]. The Golden King does not suffer the -1 penalt
 
 **WARGEAR**
 
-- [Heavy Armour]
+- Armour of the Sundered Land
 - [Hand Weapon]
 
 **HEROIC ACTIONS**
@@ -577,6 +585,17 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 **HEROIC ACTIONS**
 
 - [Heroic Channelling]
+
+**MAGICAL POWERS**
+
+| Power | Range | Casting Value |
+|:--|:--:|:--:|
+| [Compel] | 12" | 3+ |
+| [Transfix] | 12" | 3+ |
+| [Drain Courage] | 12" | 4+ |
+| [Black Dart] | 6" | 5+ |
+| [Wither] | 12" | 5+ |
+| Instill Fear | Self | 6+ |
 
 **OPTIONS**
 
@@ -1025,7 +1044,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 5+ | 5+ | 2 | 1 | 1 |
+| 6" | 5 | 4+ | 4 | 5 | 2 | 2 | 6+ | 6+ | 2 | 1 | 1 |
 
 **WARGEAR**
 
@@ -1538,7 +1557,7 @@ Each time a Dweller in the Dark slays a model in Combat, it regains a single Wou
 
 ### FERAL URUK-HAI [13 POINTS]
 
-**URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 60MM**
+**URUK-HAI | ISENGARD | WARRIOR, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

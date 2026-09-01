@@ -96,6 +96,7 @@ At the start of a Combat involving Eärnur, before any Heroic Strikes are resolv
 **OPTIONS**
 
 - Asfaloth - 20 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
@@ -556,6 +557,10 @@ Incantation of Swiftness - Friendly Carn Dûm models that start their Move withi
 - [Heroic Accuracy]
 - [Heroic Strike]
 
+**OPTIONS**
+
+- Banner of Arwen Evenstar - 40 points
+
 **SPECIAL RULES**
 
 - [Woodland Creature]
@@ -900,6 +905,7 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 **OPTIONS**
 
 - [War Horn] - 25 points
+- Tookish Hunter - 1 point
 
 **SPECIAL RULES**
 

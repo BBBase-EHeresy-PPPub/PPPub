@@ -227,6 +227,7 @@ Whilst mounted on Snowmane, Théoden may re-roll any failed Courage Tests to Cha
 
 **OPTIONS**
 
+- Firefoot - 20 points
 - Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
 - <span style="color: darkmagenta">[Throwing] [Spears][Spear] - 5 points</span>
@@ -525,7 +526,7 @@ Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [thr
 
 ### EOWYN [60 POINTS]
 
-**MAN | ROHAN | HERO, INFANTRY | 25MM**
+**MAN | ROHAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -589,6 +590,7 @@ If Éowyn is upgraded to take Merry, then Merry will be treated as a Passenger o
 **OPTIONS**
 
 - Royal Standard of Rohan - 40 points
+- [Horse] - 20 points
 
 **SPECIAL RULES**
 
@@ -813,7 +815,7 @@ Aldor must re-roll failed To Hit Rolls and failed To Wound Rolls when making a s
 **WARGEAR**
 
 - [Armour]
-- [Hand Weapon]
+- [Sword]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -891,6 +893,7 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 
 - [Banner] - 25 points
 - [Throwing] [Spears][Spear] - 2 points
+- Westfold Redshield - 1 point
 
 **SPECIAL RULES**
 
@@ -971,6 +974,7 @@ A Warrior of Rohan must have one of the following options for the listed points 
 - [Shield] and [Throwing] [Spears][Spear] - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
+- Helmingas - 1 point
 
 **SPECIAL RULES**
 

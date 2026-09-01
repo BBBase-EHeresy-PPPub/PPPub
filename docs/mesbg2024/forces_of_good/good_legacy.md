@@ -40,7 +40,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 
 ### EORL THE YOUNG [120 POINTS]
 
-**MAN | ROHAN | HERO, CAVALRY, UNIQUE | 25MM**
+**MAN | ROHAN | HERO, CAVALRY, UNIQUE | 40MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -674,7 +674,7 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 
 ### MAN-AT-ARMS OF DOL AMROTH [10 POINTS]
 
-**MAN | GONDOR | HERO, INFANTRY, UNIQUE | 25MM**
+**MAN | GONDOR, DOL AMROTH | WARRIOR, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -734,7 +734,7 @@ This is an Elven [spear][Spear]. Additionally, a model armed with a Wood Elf [Sp
 
 ### ROHAN OUTRIDER [8 POINTS]
 
-**MAN | ROHAN | WARRIOR, CAVALRY | 25MM**
+**MAN | ROHAN | WARRIOR, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

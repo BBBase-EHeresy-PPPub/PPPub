@@ -245,7 +245,7 @@ Whenever Shank or Wrot slays a model in Combat, they may roll a D6. On a natural
 
 **Snow Troll**
 
-**TROLL | MORDOR | WARRIOR, INFANTRY, MONSTER | 60MM**
+**TROLL | MORDOR | WARRIOR, INFANTRY, MONSTER | 50MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

@@ -665,8 +665,8 @@ Whenever a friendly Hero model within 6" declares a [Heroic Move], Heroic March 
 
 **WARGEAR**
 
-- [Dagger]
-- [Throwing] [Daggers][Dagger]
+- [Hand Weapons][Hand Weapon]
+- [Throwing Weapons]
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -852,7 +852,7 @@ A model with this special rule can use a [pike][Pike] and a [shield][Shield] at 
 
 This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
 
-- **Knights of the Dragon Cult** `PASSIVE`
+- **Leader of the Dragon Cult** `PASSIVE`
 
 This model may only include Black Dragon Warrior models in their Warband.
 

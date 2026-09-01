@@ -52,8 +52,8 @@ Friendly Mordor Orc models within 3" of Gothmog gain the [Hatred] (Man) special 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand Weapon]
-- [The One Ring]
+- [Mace]
+- [The One Ring] (Sauron)
 
 **HEROIC ACTIONS**
 
@@ -375,6 +375,10 @@ When a Fell Beast becomes a Separated Mount, it will automatically fail the Cour
 - [Heavy Armour]
 - [Hand Weapon]
 - [Shield]
+
+**HEROIC ACTIONS**
+
+- [Heroic March]
 
 **OPTIONS**
 

@@ -549,7 +549,7 @@ Galadriel may target any enemy model with the [Banishment] Magical Power as if i
 
 ### GHAN-BURI-GHAN [65 POINTS]
 
-**HOBBIT | SHIRE | HERO, INFANTRY, UNIQUE | 25MM**
+**MAN, DRUADAN | HERO, INFANTRY, UNIQUE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -571,7 +571,7 @@ Galadriel may target any enemy model with the [Banishment] Magical Power as if i
 - [Hatred] (Goblin)
 - [Hatred] (Orc)
 - [Hatred] (Uruk-hai)
-- [Poisoned Attacks]
+- [Poisoned Attacks] ([Blowpipe])
 - [Stalk Unseen]
 - [Woodland Creature]
 
@@ -1887,12 +1887,12 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 **WARGEAR**
 
-- [Hand-and-a-half Weapon]
-- [Hand Weapon]
+- [Hand-and-a-half][Hand-And-A-Half] [Axe]
+- [Axe]
 
 **OPTIONS**
 
-- Swap [Hand-and-a-half Weapon] for [Great Bow] - Free
+- Swap [hand-and-a-half][Hand-And-A-Half] [Axe] for [Great Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1920,6 +1920,13 @@ This model treats friendly Bear models as a [banner][Banner].
 **WARGEAR**
 
 - Roots and Branches ([hand weapon][Hand Weapon])
+
+**OPTIONS**
+
+- Ash - Free
+- Beech - Free
+- Chestnut - Free
+- Oak - Free
 
 **SPECIAL RULES**
 
@@ -2093,7 +2100,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 - [Hatred] (Orc)
 - [Hatred] (Uruk-hai)
 - [Stalk Unseen]
-- [Poisoned Attacks]
+- [Poisoned Attacks] ([Blowpipe])
 - [Woodland Creature]
 
 </div>

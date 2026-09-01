@@ -23,6 +23,7 @@
 
 - Stone Flail - 15 points
 - [Heavy Armour] - 10 points
+- The White Warg - 50 points
 
 **SPECIAL RULES**
 
@@ -896,7 +897,7 @@ Whenever this model suffers a Wound, roll a D6. On the roll of a natural 6, the 
 
 ### GUNDABAD OGRE [60 POINTS]
 
-**TROLL | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 50MM**
+**OGRE | GUNDABAD | WARRIOR, INFANTRY, MONSTER | 50MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1096,6 +1097,10 @@ A Mirkwood Giant Spider can shoot spider webs; these are treated as throwing wea
 
 - Fangs ([hand weapons][Hand Weapon])
 
+**OPTIONS**
+
+- Venom-back - 2 points
+
 **SPECIAL RULES**
 
 - [Poisoned Attacks] (Fangs)
@@ -1115,7 +1120,7 @@ If a Mirkwood Hunting Spider is within a piece of woodland terrain (such as a fo
 
 ### WAR BAT [25 POINTS]
 
-**BAT | GUNDABAD | WARRIOR, INFANTRY | 40MM**
+**BAT | GUNDABAD | WARRIOR, INFANTRY, BEAST | 40MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

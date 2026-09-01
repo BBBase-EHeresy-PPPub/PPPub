@@ -286,7 +286,7 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -328,7 +328,7 @@ If Haldir is slain in Combat, he may immediately make a single Strength 4 Strike
 
 - [Armour]
 - [Elf Bow]
-- [Elven Hand Weapons][Elven Weapon]
+- [Elven-made] [daggers][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -563,7 +563,7 @@ Whilst within 3" of Elladan, Elrohir gains the [Dominant] (2) special rule and m
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
 - [Heavy Armour]
 
 **HEROIC ACTIONS**
@@ -616,7 +616,7 @@ Whilst within 3" of Elladan, Elrohir gains the [Dominant] (2) special rule and m
 
 Friendly Rivendell models within 3" of Lindir gain the [Resistant to Magic] special rule.
 
-- **Wise Council** `PASSIVE`
+- **Wise Counsel** `PASSIVE`
 
 If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a free Will Point for the turn. If this free Will Point is not spent by the end of the turn, it is lost.
 
@@ -760,7 +760,7 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven-made] [hand-and-a-half][Hand-And-A-Half] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -778,7 +778,7 @@ A Palace Guard must have one of the following options for the listed points cost
 - [Leader] (Palace Guard)
 - [Woodland Creature]
 
-- **King's Guard** `PASSIVE`
+- **The King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
 
@@ -959,6 +959,7 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 - [Shield] and Elven [Spear] - 2 points
 - Elven [Spear] - 1 point
 - [Shield] - 1 point
+- Lorien Guard - 1 point
 
 **SPECIAL RULES**
 
@@ -1020,6 +1021,7 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. All of th
 - [Elf Bow] - 2 points
 - Elven [Throwing Weapons] - 2 points
 - Wood Elf [Spear] - 1 point
+- Noldorian Exile - 1 point
 
 **SPECIAL RULES**
 
@@ -1130,7 +1132,7 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 
 ### PALACE GUARD [12 POINTS]
 
-**ELF | MIRKWOOD | WARRIOR, INFANTRY | 25MM**
+**ELF | MIRKWOOD | WARRIOR, INFANTRY, ELITE | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
@@ -1154,7 +1156,7 @@ A Palace Guard must have one of the following options for the listed points cost
 - [Bodyguard]
 - [Woodland Creature]
 
-- **King's Guard** `PASSIVE`
+- **The King's Guard** `PASSIVE`
 
 Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight value.
 
@@ -1215,6 +1217,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 - [Elf Bow] - 2 points
 - [Shield] and Elven [Spear] - 2 points
 - [Shield] - 1 point
+- King's Guard - 1 point
 
 **SPECIAL RULES**
 
