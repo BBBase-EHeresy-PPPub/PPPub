@@ -655,7 +655,7 @@ At the beginning of the Priority Phase of each turn, roll a D6 and consult the t
 |---|---|
 | 1‑2 | Until the end of the turn, each time a model within 3" of an Objective Marker suffers a Wound, roll a D6. On a roll of a natural 6, the Wound is ignored. This roll is taken immediately after the Wound has been suffered, before Fate Rolls or any other rules that confer a similar effect. Might may not be used to modify this roll. |
 | 3‑4 | Until the end of the turn, models within 3" of an Objective Marker automatically pass any Courage Tests they are required to take. |
-| 4‑6 | Until the end of the turn, models within 3" of an Objective Marker may re-roll any To Wound Rolls of a 1 when making Strikes. |
+| <span style="color: darkmagenta">5‑6</span> | Until the end of the turn, models within 3" of an Objective Marker may re-roll any To Wound Rolls of a 1 when making Strikes. |
 
 ![](../media/scenarios/matched_play_guide/sites_of_power.jpg){ width=1000 height=680 }
 
@@ -963,7 +963,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-* You score 2 Victory Points for each of your wounded allies that is being carried by a friendly model in your opponent's board half. For each wounded ally that has been rescued, you instead score 4 Victory Points.
+* <span style="color: darkmagenta">You score 2 Victory Points for each of your wounded allies that is in base contact with a friendly model, and no enemy models, in your opponent's board half. For each wounded ally that has been rescued, you instead score 4 Victory Points.</span>
 * You score 1 Victory Point if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score 3 Victory Points.
 * You score 1 Victory Point if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score 3 Victory Points.
 * You score 2 Victory Points if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
@@ -976,7 +976,7 @@ The areas within 12" of the corners that are not in a player's deployment zone a
 
 * **Wounded Allies**
 
-The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). If, during the End Phase of any turn, a friendly model is carrying a wounded ally and is wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued. Models may never carry their opponent's wounded allies under any circumstances.
+The Objective Markers in each player's deployment zone represent wounded allies they are attempting to get to safety. Wounded allies are treated as Heavy Objects (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). <span style="color: darkmagenta">If, during the End Phase of any turn, a friendly model is in base contact with a wounded ally and both the model and wounded ally are wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued.</span> Models may never carry their opponent's wounded allies under any circumstances.
 
 ![](../media/scenarios/matched_play_guide/escort_the_wounded.jpg){ width=1000 height=670 }
 

@@ -95,7 +95,7 @@
 - [**Black Numenorean Warrior**](../forces_of_evil/mordor.md#black-numenorean-warrior-10-points): 10 points
 - [**Easterling Kataphrakt**](../forces_of_evil/fallen_realms.md#easterling-kataphrakt-15-points): 15 points
     - Banner: 25 points
-    - Exchange shield for war drum (Easterling): 25 points
+    - <span style="color: darkmagenta">Exchange shield for war drum (Easterling): 25 points</span>
 - [**Easterling Warrior**](../forces_of_evil/mordor.md#easterling-warrior-8-points): 8 points
     - Banner: 25 points
     - Easterling Halberd and shield: 2 points

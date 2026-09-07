@@ -40,6 +40,8 @@ If a spear-armed model is not Engaged in Combat, then it can Support a friendly 
 
 Models that are Supporting do not count as being involved in the Combat they are Supporting. As a result, they cannot be targeted by Strikes, will not be knocked Prone by a Charging Cavalry model, cannot benefit from a Heroic Combat, and never count as being part of the Combat for the purpose of special rules or determining how many models are taking part on each side. A spear-armed model can only Support a single Combat during each Fight Phase.
 
+<span style="color: darkmagenta">A model can only gain Support from one spear-armed model at a time.</span>
+
 A spear-armed model cannot Support a Combat after already being Engaged in Combat. The only exception to this is that a spear-armed model that is involved in a successful Heroic Combat, and therefore gets to Move, may Move to Support a Combat, provided it hasn't Supported another Combat that Fight Phase.
 
 A model with a spear can use it as a hand weapon when they are Engaged in Combat. A model can't Support if it is Prone, rendered unable to Activate or has made a Shooting Attack during the same turn.

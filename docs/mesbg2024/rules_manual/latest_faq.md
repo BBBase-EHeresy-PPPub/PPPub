@@ -6,6 +6,8 @@ FAQ and Errata entries are listed as plain text.
 
 ## FAQ
 
+### Rules Manual
+
 **Q: If a model has a special rule that states it must Charge when it Moves if able, can it choose not to Move and therefore not to Change? (Rules Manual, p.28)**
 
 A: No. The model will still follow all the steps of the Activation Phase, the second of which is Start of Move. If at this stage the model could Charge, it must do so.
@@ -26,7 +28,7 @@ A: No. Just as those same elements do not count for the purposes of Line of Sigh
 
 **Q: Can a model Make Way into a Control Zone? (Rules Manual, p.51)**
 
-A: Yes.
+A: Yes .
 
 ---
 
@@ -74,13 +76,19 @@ A: Yes, as the other Hero involved in the Heroic Challenge caused the Wound that
 
 **Q: If a model fighting a Monster is being Supported by a model with a pike, who is then themselves being Supported by another model with a pike, and the Monster slays the model it is in Combat with, does the Monster get to make its free Strike on each of the pikes that were Supporting? (Rules Manual, p.89)**
 
-A: Yes.
+A: Yes .
 
 ---
 
 **Q: If a Monster wins a Duel Roll whilst Prone, can they still use Brutal Power Attacks? (Rules Manual, p.90)**
 
 A: No, it will simply stand up as normal
+
+---
+
+**Q: Can a Monster choose to make a Brutal Power Attack if there is no possibility of making Strikes? For example: if a Monster was prone and wins a Combat, normally they would not be allowed to make Strikes as they have stood up, but could they make a Brutal Power Attack? Or, if the Monster is Transfixed and wins a Combat? (Rules Manual, p.90)**
+
+A: No. A Monster may only perform a Brutal Power Attack if they would be able to make Strikes.
 
 ---
 
@@ -120,7 +128,7 @@ A: Yes. Think of it as a friendly model reaching down to snatch up the banner to
 
 ---
 
-**Q: If a model with the Fearful special rule wishes to Charge a model with the Terror special rule, how many Courage Tests does it need to take? (Rules Manual, p.124 & 130)**
+**Q: If a model with the Fearful special rule wishes to Charge a model with the Terror special rule, how many Courage Tests does it need to take? (Rules Manual, p.124, 130)**
 
 A: Two, one for each special rule that requires a Courage Test.
 
@@ -158,7 +166,7 @@ A: Yes as the special rule states that the benefit of +1 Defence is calculated b
 
 **Q: If a special rule says that all models in the army gain the Woodland Creature or Mountain Dweller special rule, does this apply to both the Mount and the rider? (Rules Manual, p.131)**
 
-A: Yes.
+A: Yes .
 
 ---
 
@@ -188,7 +196,7 @@ A: No, models may Move over these Markers and end overlapping them, unless other
 
 **Q: If a single model is within range of multiple Objective Markers, can it control more than one at once? (Rules Manual, p.157)**
 
-A: Yes.
+A: Yes .
 
 ---
 
@@ -197,6 +205,8 @@ A: Yes.
 A: No. Or should we say, nay.
 
 ---
+
+### Matched Play Guide
 
 **Q: In Scenarios where Objective Markers can be carried, how do you measure from the Objective Marker for any special rules that come into play for being within X" of an Objective Marker, such as the Besiegers of the Hornburg Army's The Promise of Wealth special rule? (Matched Play Guide, p.13)**
 
@@ -240,7 +250,7 @@ A: No, once a model has left the battlefield, it would no longer be affected by 
 
 ---
 
-**Q: Can a Mount with the Hero keyword be nominated in Scenarios like Fog of War or Assassination? (Matched Play Guide, p.21 & 26)**
+**Q: Can a Mount with the Hero keyword be nominated in Scenarios like Fog of War or Assassination? (Matched Play Guide, p.21, 26)**
 
 A: No.
 
@@ -252,11 +262,13 @@ A: In these situations, the Hero chosen to be the Champion will deploy as descri
 
 ---
 
-**Q: In Scenarios where the amount of Victory Points varies depending on a model's position, what happens if a model would meet the conditions for multiple scoring conditions? For example: in Seize the Prizes, if a model holding treasure is in between both halves of the board, how many VPs does it score? Or, in the Retrieval Scenario, if the model carrying the Objective is only partially within my Deployment Zone, how many Victory Points would I score? (Matched Play Guide, p.31 & 32)**
+**Q: In Scenarios where the amount of Victory Points varies depending on a model's position, what happens if a model would meet the conditions for multiple scoring conditions? For example: in Seize the Prizes, if a model holding treasure is in between both halves of the board, how many VPs does it score? Or, in the Retrieval Scenario, if the model carrying the Objective is only partially within my Deployment Zone, how many Victory Points would I score? (Matched Play Guide, p.31, 32)**
 
 A: When determining Victory Points, you always score the most points that you are eligible for. Using Seize the Prizes as an example, if a model was holding an Objective Marker and their base was overlapping both your and your opponent's board halves, they are within your opponent's half of the board, meaning you would score 3 Victory Points rather than 2 Victory Points. Similarly, in Retrieval, if a model carrying the Objective was partially within your deployment zone, you would score 9 Victory Points. However, if a Scenario requires a model to be wholly within an area, such as in Storm the Camp, then that model's base must be wholly within the specified area in order to score.
 
 ---
+
+### Armies of The Lord of the Rings
 
 **Q: In Legolas' Deadly Shot special rule, does the 'so long as he has the Infantry keyword' caveat apply only to the 'not suffering the -1 penalty To Hit for Moving and Shooting' part of the rule, or also to the 'being allowed to make shooting attacks whilst Engaged in Combat' part of the rule? (Armies of The Lord of the Rings, p.14)**
 
@@ -266,11 +278,11 @@ A: This caveat only applies to the not suffering the -1 penalty To Hit for Movin
 
 **Q: Can Boromir use the Protect the Little Ones! special rule if Frodo is wearing the One Ring and is the only friendly Hobbit model within 3"? (Armies of The Lord of the Rings, p.16)**
 
-A: Yes.
+A: Yes .
 
 ---
 
-**Q: In the Road to Rivendell Army List, can Arwen use Bill the Pony as a Banner when Frodo is riding as a passenger on Asfaloth? (Armies of The Lord of the Rings, p.17 & 87)**
+**Q: In the Road to Rivendell Army List, can Arwen use Bill the Pony as a Banner when Frodo is riding as a passenger on Asfaloth? (Armies of The Lord of the Rings, p.17, 87)**
 
 A: No.
 
@@ -300,7 +312,7 @@ A: No.
 
 ---
 
-**Q: Can a Spectre's "A fell light is in them", or the King of the Dead's Visions of Terror, or a similar special rule be used to Move a model that is already engaged in combat? (Armies of The Lord of the Rings, p.115 & 156)**
+**Q: Can a Spectre's "A fell light is in them", or the King of the Dead's Visions of Terror, or a similar special rule be used to Move a model that is already engaged in combat? (Armies of The Lord of the Rings, p.115, 156)**
 
 A: No.
 
@@ -336,7 +348,7 @@ A: No.
 
 ---
 
-**Q: If Shelob is included as part of the Cirith Ungol Army List and eats one friendly model does she gain bonuses for both "She is always hungry" and Swift Hunter? (Armies of The Lord of the Rings, p.146 & 215)**
+**Q: If Shelob is included as part of the Cirith Ungol Army List and eats one friendly model does she gain bonuses for both "She is always hungry" and Swift Hunter? (Armies of The Lord of the Rings, p.146, 215)**
 
 A: Yes.
 
@@ -344,13 +356,19 @@ A: Yes.
 
 **Q: Can Shelob use her She is Always Hungry special rule on a model that is Engaged in Combat? (Armies of The Lord of the Rings, p.146)**
 
-A: Yes.
+A: Yes .
 
 ---
 
 **Q: Can Shagrat use his "Hands off the shiny shirt; that's mine!" special rule to gain possession of an Objective from a friendly model that is Engaged in Combat? (Armies of The Lord of the Rings, p.147)**
 
-A: Yes.
+A: Yes .
+
+---
+
+**Q: Can Shagrat use his "Hands off the shiny shirt; that's mine!" special rule to gain possession of an Objective whilst Moving after a successful Heroic Combat? (Armies of The Lord of the Rings, p.147)**
+
+A: Yes .
 
 ---
 
@@ -360,18 +378,13 @@ A: A single D6, regardless of the number of models with the Whips of the Masters
 
 ---
 
-**Q: When a Mordor/Isengard Warg Rider dismounts, what wargear does it get to keep? (Armies of The Lord of the Rings, p.151 & 171)**
+**Q: When a Mordor/Isengard Warg Rider dismounts, what wargear does it get to keep? (Armies of The Lord of the Rings, p.151, 171)**
 
-A: The wargear a Mordor/Isengard Warg Rider is allowed to keep will depend on the wargear they had whilst mounted, as described below:
-
-- Mordor/Isengard Warg Rider with shield and throwing spears → Mordor/Isengard Orc Warrior with shield.
-- Mordor/Isengard Warg Rider with Orc bow → Mordor/Isengard Orc Warrior with Orc bow.
-- Mordor/Isengard Warg Rider with shield → Mordor/Isengard Orc Warrior with shield.
-- Mordor/Isengard Warg Rider with throwing spears → Mordor/Isengard Orc Warrior with spear.
+A: The wargear a Mordor/Isengard Warg Rider is allowed to keep will depend on the wargear they had whilst mounted, as described below: • Mordor/Isengard Warg Rider with shield and throwing spears → Mordor/Isengard Orc Warrior with shield. • Mordor/Isengard Warg Rider with Orc bow → Mordor/Isengard Orc Warrior with Orc bow. • Mordor/Isengard Warg Rider with shield → Mordor/Isengard Orc Warrior with shield. • Mordor/Isengard Warg Rider with throwing spears → Mordor/Isengard Orc Warrior with spear.
 
 ---
 
-**Q: Do Wargs and Fell Wargs that become separated Mounts gain the Beast keyword? (Armies of The Lord of the Rings, p.151; Armies of Middle-earth, p. 104)**
+**Q: Do Wargs and Fell Wargs that become separated Mounts gain the Beast keyword? (Armies of The Lord of the Rings, p.151)**
 
 A: Yes
 
@@ -383,7 +396,7 @@ A: It will trigger if either of the dice rolled are a natural 6.
 
 ---
 
-**Q: If a Hero within 6" of Gríma Wormtongue declares a free Heroic Action, does the Wormtongue special rule increase the cost of that Hero model's Heroic Action? (p.160). (Armies of The Lord of the Rings)**
+**Q: If a Hero within 6" of Gríma Wormtongue declares a free Heroic Action, does the Wormtongue special rule increase the cost of that Hero model's Heroic Action? (Armies of The Lord of the Rings, p.160)**
 
 A: No. In the case of a free Heroic Action, no Might points are expended to declare the Action, and so Gríma's ability does not increase the cost.
 
@@ -397,13 +410,13 @@ A: If Gríma is taken in an Army that does not include Saruman, then he must be 
 
 **Q: If Gríma Wormtongue is forced to charge because of a Magical Power or special rule, whilst benefiting from his A Traitor Within special rule, is he revealed? (Armies of The Lord of the Rings, p.160)**
 
-A: Yes.
+A: Yes .
 
 ---
 
 **Q: How does Gríma Wormtongue's A Traitor Within special rule work in Scenarios where Warbands enter the battlefield, such as Reconnoitre or those that use Maelstrom of Battle? (Armies of The Lord of the Rings, p.160)**
 
-A: If you wish to deploy Gríma with an enemy Warband in these instances, you must select the Warband at the start of
+A: If you wish to deploy Gríma with an enemy Warband in these instances, you must select the Warband at the start of the game. When that Warband enters the battlefield, after all models from that Warband have moved onto the board, Gríma may then also do so.
 
 ---
 
@@ -419,13 +432,15 @@ A: Whenever a Characteristic is halved by a special rule, it is always rounded u
 
 ---
 
+### Armies of The Hobbit
+
 **Q: The Champions of Erebor have the Sworn Protector (Thorin) Special Rule, does this apply to both Thorin Oakenshield and Thorin III Stonehelm, depending on the Army they have been included in? (Armies of The Hobbit, p.33)**
 
-A: Yes.
+A: Yes .
 
 ---
 
-**Q: If Bard or Girion are upgraded to take a Windlance, and also have a Warband, how does the Warband deploy in Scenarios that use the Maelstrom of Battle special rule? (Armies of The Hobbit, p.43 & 53)**
+**Q: If Bard or Girion are upgraded to take a Windlance, and also have a Warband, how does the Warband deploy in Scenarios that use the Maelstrom of Battle special rule? (Armies of The Hobbit, p.43, 53)**
 
 A: The Siege Engine will be deployed first following the normal rules for deploying a Siege Engine in a Scenario using Maelstrom of Battle. The Warband will then be deployed within 6" of either Bard or Girion; however, every model in the Warband must be wholly within 6" of the edge of the board.
 
@@ -433,7 +448,7 @@ A: The Siege Engine will be deployed first following the normal rules for deploy
 
 **Q: In Legolas' Deadly Shot special rule, does the 'so long as he has the Infantry keyword' caveat apply only to the 'not suffering the -1 penalty To Hit for Moving and Shooting' part of the rule, or also to the 'being allowed to make shooting attacks whilst Engaged in Combat' part of the rule? (Armies of The Hobbit, p.64)**
 
-A: This caveat only applies to the not suffering the -1 penalty To Hit for Moving and Shooting. Legolas may still make shooting attacks whilst Engaged in Combat if he is mounted. HOBBIT™
+A: This caveat only applies to the not suffering the -1 penalty To Hit for Moving and Shooting. Legolas may still make shooting attacks whilst Engaged in Combat if he is mounted.
 
 ---
 
@@ -463,7 +478,7 @@ A: Yes
 
 **Q: If a Nazgûl of Dol Guldur is resurrected via their Unholy Resurrection special rule, do any Might, Will and Fate Points that were spent remain spent? (Armies of The Hobbit, p.130)**
 
-A: Yes.
+A: Yes .
 
 ---
 
@@ -487,9 +502,11 @@ A: The Campfire is treated like an Objective Marker, though it doesn't actually 
 
 **Q: What rules are affected by Bofur's Steadfast special rule? (Armies of The Hobbit)**
 
-A: If a model is directly affected by a special rule, then they can attempt to ignore its effects via Steadfast. These can be special rules that directly target Bofur, such as the War Bat's Pluck special rule. It can also be rules that indirectly target them, such as the bonus of +1 To Wound effect from a War Bat's Piercing Talons or the ability for Azog To Wound on a natural 3+ via his I am the Master special rule. It does not ignore rules that benefit an enemy model but don't directly affect the model. For example, Steadfast cannot ignore a Hunter Orc Warriors' Savage Hunters special rule, even if that model will be making Strikes against a model benefiting from Steadfast - only the Hunter Orc is affected, even if the end result is more dice rolled against your model! Similarly, rules such as The Three Trolls' Kitchen Utensils cannot be ignored, as it is the Trolls that are re-rolling any dice of a natural 1. The Steadfast Roll is made when a special rule is triggered. For example, you would only test if Steadfast allows a model to ignore the Harbinger of Evil (X) rule when they take a Courage Test while within range. The benefits of Steadfast only apply for that test as well - the next Courage Test would require another Steadfast Roll. The Steadfast rule does not negate a special rule - it simply means the model ignores its effect. So a War Bat would still Similarly, it only allows a model to ignore the parts of a rule that affect them, not the entire rule. For example, Steadfast will allow a model to attempt to ignore the part of the Pits of Dol Guldur Surprise Attack which stops models from declaring Heroic Moves. If the Steadfast Roll is successful, that model can declare Heroic Moves but it does not stop Azog's controlling player from winning Priority; all other models you control must have each separately passed a Steadfast Roll to be able to declare Heroic moves. Lastly, Steadfast does not apply to every rule - for example, it cannot be used against Strikes. If in doubt, look for a big header that says 'Special Rules' above the rule you are hoping to negate.
+A: If a model is directly affected by a special rule, then they can attempt to ignore its effects via Steadfast. These can be special rules that directly target Bofur, such as the War Bat's Pluck special rule. It can also be rules that indirectly target them, such as the bonus of +1 To Wound effect from a War Bat's Piercing Talons or the ability for Azog To Wound on a natural 3+ via his I am the Master special rule. It does not ignore rules that benefit an enemy model but don't directly affect the model. For example, Steadfast cannot ignore a Hunter Orc Warriors' Savage Hunters special rule, even if that model will be making Strikes against a model benefiting from Steadfast - only the Hunter Orc is affected, even if the end result is more dice rolled against your model! Similarly, rules such as The Three Trolls' Kitchen Utensils cannot be ignored, as it is the Trolls that are re-rolling any dice of a natural 1. The Steadfast Roll is made when a special rule is triggered. For example, you would only test if Steadfast allows a model to ignore the Harbinger of Evil (X) rule when they take a Courage Test while within range. The benefits of Steadfast only apply for that test as well - the next Courage Test would require another Steadfast Roll. The Steadfast rule does not negate a special rule - it simply means the model ignores its effect. So a War Bat would still make To Wound Rolls against the model, just without the +1 To Wound Roll if Steadfast applied, and the War Bat would get the bonuses against models not benefiting from Steadfast. Similarly, it only allows a model to ignore the parts of a rule that affect them, not the entire rule. For example, Steadfast will allow a model to attempt to ignore the part of the Pits of Dol Guldur Surprise Attack which stops models from declaring Heroic Moves. If the Steadfast Roll is successful, that model can declare Heroic Moves but it does not stop Azog's controlling player from winning Priority; all other models you control must have each separately passed a Steadfast Roll to be able to declare Heroic moves. Lastly, Steadfast does not apply to every rule - for example, it cannot be used against Strikes. If in doubt, look for a big header that says 'Special Rules' above the rule you are hoping to negate.
 
 ---
+
+### Armies of Middle-earth
 
 **Q: If a Knight of Dol Amroth is within 6" of two Dol Amroth Heroes that have charged, do they benefit from multiple +1 bonuses To Wound? (Armies of Middle-earth, p.85)**
 
@@ -505,7 +522,13 @@ A: Once a Gondor Cavalry model has charged, they gain the benefit of this rule f
 
 **Q: When are the Dwarven Mirrors in the Khazad-dûm Army List deployed in Scenarios that do not have deployment zones? (Armies of Middle-earth, p.95)**
 
-A: Before players roll for the Initial Priority. Middle-earth, The Hobbit and The Lord of the Rings and the names
+A: Before players roll for the Initial Priority.
+
+---
+
+**Q: Do Wargs and Fell Wargs that become separated Mounts gain the Beast keyword? (Armies of Middle-earth, p.104)**
+
+A: Yes
 
 ---
 
@@ -538,234 +561,361 @@ A: In these instances, the Great Eye Marker will be deployed touching its contro
 ### Rules Manual
 
 * **Page 64 - Mount**
+
   - Add the following to the end of the paragraph:
+
   - A Mount that is also a Hero cannot declare Heroic Actions.
 
 * **Page 90 - Barge**
+
   - Change the final sentence of the first paragraph to read:
+
   - Models may still Make Way for losing models (which will be decided by the Monster model's controlling player) and, if they do, may Back Away up to 3" rather than usual 1", in a direction chosen by the Monster model's controlling player. When a model Makes Way in this manner, it will only do so the minimum amount it needs to in order to allow the model Backing Away to Back Away 3"; it won't be forced to Make Way a full 3" if only Making Way 1" would suffice to allow the Barged model to Back Away 3", for example, and won't be automatically knocked Prone if it is able to Make Way the required amount.
 
 * **Page 91 - Hurl**
+
   - Change the first sentence in bullet point 4 to:
+
   - The Hurled model suffers two Strength 6 hits (if it is a Cavalry model then both rider and Mount will suffer these hits), and if it was a Cavalry model then it is also Knocked Flying unless either the rider and/or Mount have a Strength of 6 or higher.
 
 * **Page 97 - War Beasts - Immovable Object**
+
   - Add the following to the end of the paragraph:
+
   - A War Beast is completely unaffected by special rules that would prevent it from Activating, moving its full Move Value, or that would attempt to Move it.
 
 * **Page 104 - Spears**
 
+  - Add the following to the start of the fourth paragraph:
+
+  - A model can only gain Support from one spear-armed model at a time.
+
 * **Page 125 - Cave Dweller**
+
   - Add the following to the end of the paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 126 - Fly**
+
   - Add the following to the end of the fourth paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 128 - Mountain Dweller**
+
   - Add the following to the end of the paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 129 - Spectral Walk**
+
   - Add the following to the end of the paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 129 - Swift Movement**
+
   - Add the following to the end of the second paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 131 - Woodland Creature**
+
   - Add the following to the end of the paragraph:
+
   - This special rule may be used by models that are not yet on the battlefield.
 
 * **Page 134 - Carrying Objects**
+
   - Add the following after the first paragraph:
+
   - A War Beast cannot pick up Light or Heavy objects.
 
 ---
 
 ### Matched Play Guide
 
-* **Page 29 - Sites of Power - Strange Aura**
-  - Change the roll for the final result on the table to be 5-6 rather than 4-6.
-
 * **Page 36 - Escort the Wounded - Scoring Victory Points**
+
   - Change the first bullet point to read:
+
   - You score 2 Victory Points for each of your wounded allies that is in base contact with a friendly model, and no enemy models, in your opponent's board half. For each wounded ally that has been rescued, you instead score 4 Victory Points.
 
 * **Page 36 - Escort the Wounded - Wounded Allies**
+
   - Change the third sentence to read:
+
   - If, during the End Phase of any turn, a friendly model is in base contact with a wounded ally and both the model and wounded ally are wholly within a friendly Sanctuary, the wounded ally is removed from the battlefield and has been rescued.
+
+* **Page 29 - Sites of Power - Strange Aura**
+
+  - Change the roll for the final result on the table to be 5-6 rather than 4-6.
 
 ---
 
 ### Armies of The Lord of the Rings
 
 * **Page 14 - Legolas Greenleaf - Deadly Shot**
+
   - Replace the second and third sentences with the following:
+
   - Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).
 
 * **Page 24 - Treebeard - Merry & Pippin**
+
   - Change the third sentence to:
+
   - Merry and Pippin are treated as Passengers (though this will not give Treebeard either the Cavalry or Mount keywords), with the exception that they cannot be targeted individually by shooting attacks, Magical Powers, or special rules, and Strikes cannot be made against them in Combat.
 
 * **Page 28 - Gwaihir**
+
   - Change points cost to 200.
 
 * **Page 39 - Haleth, Prince of Rohan - Options**
+
   - Add the following:
+
     - Throwing spears: 5 points
 
 * **Page 103 - Haleth, Prince of Rohan - Options**
+
   - Add the following:
+
     - Throwing spears: 5 points
 
 * **Page 103 - Fréaláf, First Marshal of the Riddermark - Options**
+
   - Remove option for a bow.
 
 * **Page 103 - Rohan Royal Guard - Options**
+
   - Add the following:
+
     - Horse and throwing spears: 7 points
 
 * **Page 119 - Men of the West - Army Composition**
+
   - Change Gwaihir's points to 200 points.
 
 * **Page 133 - The Eagles - Army Composition**
 
+  - Change Gwaihir's points to 200 points.
+
 * **Page 133 - The Eagles - Piercing Cry**
+
   - Change the last sentence to read:
+
   - If he does, then enemy models within 6" of Gwaihir cannot Charge during that turn, but may otherwise act normally.
 
 * **Page 146 - Shelob - Base Size**
+
   - Change to 80mm.
 
 * **Page 160 - Gríma Wormtongue - A Traitor Within**
+
   - Change the fourth paragraph to read:
+
   - Whilst Gríma is considered a friendly model, he does not have a Control Zone and may ignore the Control Zones of enemy models and may Move through enemy models as if they weren't there. When Gríma Moves this way, he cannot end his Move overlapping or in base contact with an enemy model. Additionally, whilst Gríma is considered a friendly model, enemy models may Move through Gríma in the same manner as described above. Gríma can choose to Charge an enemy model as normal if he wishes.
 
 * **Page 160 - Gríma Wormtongue - A Traitor Within**
+
   - Change the fifth paragraph to read:
+
   - These restrictions immediately end if Saruman suffers an unsaved Wound, if Gríma Charges an enemy model, if Gríma destroys an enemy Siege Engine, or if Gríma interacts with an Objective Marker (such as destroying a Supply Marker or picking up an objective), at which point Gríma is treated as a normal enemy model and can be Charged, shot and slain like any other model. Additionally, Gríma can never be chosen as a target in Scenarios that require players to select friendly or enemy Hero models, such as Fog of War or Assassination.
 
 * **Page 173 - Crebain - Profile**
+
   - Change Defence to 2 and Wounds to 3.
 
 * **Page 175 - Wild Man of Dunland - Options**
+
   - Add the following:
+
     - Banner: 25 points
+
     - Banner and light shield: 26 points
+
     - War horn: 25 points
+
     - War horn and light shield: 26 points
 
 * **Page 180 - Hill Tribesmen - Options**
+
   - Add the following:
+
     - Banner: 25 points
+
     - Banner and light shield: 26 points
+
     - War horn: 25 points
+
     - War horn and light shield: 26 points
 
 * **Page 205 - The Black Riders - Ringwraith**
+
   - Change the Ringwraith's points cost to 105* *Note, this is a lowering of points cost solely for this Army List. This has been done to ensure that all nine of the Nazgûl can be taken in a 1,000 point army.
 
 * **Page 209 - Army of Gothmog - Army Composition**
 
+  - Add the following as a Hero of Fortitude:
+
+    - Mordor Orc Captain: 45 points
+
 * **Page 209 - Army of Gothmog - Army Composition**
+
   - Add the following as a Warrior:
-    - Mordor Orc Warrior: 5 points
-      - Options:
-        - Banner: 25 points
-        - Orc bow: 1 point
-        - Shield: 1 point
-        - Spear: 1 point
-        - Two-handed weapon: 1 point
+
+    - Mordor Orc Warrior: 5 points Options:
+
+    - Banner: 25 points
+
+    - Orc bow: 1 point
+
+    - Shield: 1 point
+
+    - Spear: 1 point
+
+    - Two-handed weapon: 1 point
 
 * **Page 211 - Legions of Mordor - Army Composition**
+
   - Add the following as a Hero of Fortitude:
+
     - Mordor Orc Captain: 45 points
 
 * **Page 211 - Legions of Mordor - Army Composition**
+
   - Add the following as a Warrior:
-    - Mordor Orc Warrior: 5 points
-      - Options:
-        - Banner: 25 points
-        - Orc bow: 1 point
-        - Shield: 1 point
-        - Spear: 1 point
-        - Two-handed weapon: 1 point
+
+    - Mordor Orc Warrior: 5 points Options:
+
+    - Banner: 25 points
+
+    - Orc bow: 1 point
+
+    - Shield: 1 point
+
+    - Spear: 1 point
+
+    - Two-handed weapon: 1 point
 
 * **Page 215 - Cirith Ungol - Additional Rules**
+
   - Add the Following:
+
     - Orc Warrior models can only be included in the Warband of an Orc Hero.
+
     - Uruk-hai Warrior models can only be included in the Warband of an Uruk-hai Hero.
 
 * **Page 217 - The Black Gate - Army Composition**
+
   - Add the following as a Hero of Fortitude:
+
     - Mordor Orc Captain: 45 points
 
 * **Page 217 - The Black Gate - Army Composition**
+
   - Add the following as a Warrior:
-    - Mordor Orc Warrior: 5 points
-      - Options:
-        - Banner: 25 points
-        - Orc Bow: 1 point
-        - Shield: 1 point
-        - Spear: 1 point
-        - Two-handed weapon: 1 point
+
+    - Mordor Orc Warrior: 5 points Options:
+
+    - Banner: 25 points
+
+    - Orc Bow: 1 point
+
+    - Shield: 1 point
+
+    - Spear: 1 point
+
+    - Two-handed weapon: 1 point
 
 * **Page 219 - Army of the White Hand - Army Composition**
+
   - Add the following to the Options for Wild Man of Dunland:
+
     - Banner: 25 points
+
     - Banner and light shield: 26 points
+
     - War horn: 25 points
+
     - War horn and light shield: 26 points
 
 * **Page 219 - Army of the White Hand - Conjure Lightning**
+
   - Change the first sentence of the bullet point to read:
+
   - Choose a point on the battlefield at least 12" away from any friendly model (including Gríma Wormtongue).
 
 * **Page 227 - Muster of Isengard - Army Composition**
+
   - Add the following as an Independent Hero:
+
     - Uruk-hai Drummer: 35 points
 
 * **Page 231 - Usurpers of Edoras - Army Composition**
+
   - Add the following to the Options for Hill Tribesmen:
+
     - Banner: 25 points
+
     - Banner and light shield: 26 points
+
     - War horn: 25 points
+
     - War horn and light shield: 26 points
 
 * **Page 231 - Usurpers of Edoras - Army Composition**
+
   - Add the following as a Minor Hero:
-    - War Mûmak of Harad: 250 points
-      - Options:
-        - Rocks: 20 points
-        - Sigils of Defiance: 20 points
-        - Tusk Weapons: 20 points
-        - Foul Temperament: 15 points
-        - Rappelling Lines: 10 points
+
+    - War Mûmak of Harad: 250 points Options:
+
+    - Rocks: 20 points
+
+    - Sigils of Defiance: 20 points
+
+    - Tusk Weapons: 20 points
+
+    - Foul Temperament: 15 points
+
+    - Rappelling Lines: 10 points
 
 * **Page 231 - Usurpers of Edoras - Army Composition**
+
   - Add the following as a Warrior:
-    - Haradrim Warrior: 6 points
-      - Options:
-        - Bow: 1 point
-        - Spear: 1 point
+
+    - Haradrim Warrior: 6 points Options:
+
+    - Bow: 1 point
+
+    - Spear: 1 point
 
 * **Page 231 - Usurpers of Edoras - Additional Rules**
+
   - Add the following:
+
     - If a Usurpers of Edoras Army includes Freca, it cannot include any Harad models.
+
     - Harad Warrior models can only be included in the Warband of a War Mûmak of Harad. Additionally, they must deploy within the howdah.
 
 * **Page 233 - Besiegers of the Hornburg - Army Composition**
+
   - Add the following to the Options for Hill Tribesmen:
+
     - Banner: 25 points
+
     - Banner and light shield: 26 points
+
     - War horn: 25 points
+
     - War horn and light shield: 26 points
 
 * **Page 235 - Depths of Moria - Drums in the Deep**
+
   - Change the special rule to read:
+
   - Once per game, at the start of any Move Phase, a Depths of Moria player can declare they are using this special rule. If they do, until the End Phase of the turn, enemy models suffer a -1 penalty to any Courage Tests they are required to take, whilst friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. Additionally, until the End Phase of the turn, friendly Moria Goblin models count as being in range of a banner.
 
 ---
@@ -773,41 +923,57 @@ A: In these instances, the Great Eye Marker will be deployed touching its contro
 ### Armies of The Hobbit
 
 * **Page 64 - Legolas Greenleaf, Prince of Mirkwood - Deadly Shot**
+
   - Replace the second and third sentences with the following:
+
   - Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).
 
 * **Page 66 - Mirkwood Elf Warrior**
+
   - Change Strength characteristic to 3.
 
 * **Page 72 - Radagast the Brown - Magical Powers**
+
   - Change the range of Nature's Wrath to 3".
 
 * **Page 78 - Gwaihir**
+
   - Change points cost to 200.
 
 * **Page 83 - Thorin's Company - Army Composition**
+
   - Change Gwaihir's points to 200 points.
 
 * **Page 85 - Army of Thrór**
+
   - Add the following additional rule:
+
   - An Army of Thrór Army may have up to 50% of its Warrior models armed with throwing weapons rather than the usual 33%.
 
 * **Page 93 - Survivors of Lake-town - Master Burglar**
+
   - Remove the first sentence which reads:
+
   - Whilst Bilbo is holding an Objective Marker in Scenarios where this is relevant, he increases his Attacks to 2.
 
 * **Page 105 - The Battle of Five Armies - Army Composition**
+
   - Change Gwaihir's points to 200 points.
 
 * **Page 109 - Radagast's Alliance - Army Composition**
 
+  - Change Gwaihir's points to 200 points.
+
 * **Page 111 - The White Council - Army Composition**
+
   - Change Elrond, Master of Rivendell's points to 170 points.
 
 * **Page 120 - Fell Warg**
+
   - Change base size to 40mm.
 
 * **Page 138 - Goblin Captain**
+
   - Change the Warrior keyword to Hero.
 
 ---
@@ -815,67 +981,97 @@ A: In these instances, the Great Eye Marker will be deployed touching its contro
 ### Armies of Middle-earth
 
 * **Page 27 - Tom Bombadil - "Hop along, my hearties!"**
+
   - Add the following to the end of the bullet point:
+
   - A model may only be affected by this song once per turn.
 
 * **Page 37 - Prince Imrahil of Dol Amroth**
+
   - Change points cost to 140.
 
 * **Page 81 - Fords of Isen - Théodred, Prince of Rohan**
+
   - Add the following before options:
+
   - WITH SHIELD
 
 * **Page 81 - Fords of Isen - Additional Rules**
+
   - Add the following:
+
   - A Fords of Isen army may have up to 50% of its Warrior models armed with throwing spears rather than the usual 33%.
 
 * **Page 85 - The Fiefdoms - Army Composition**
+
   - Change Prince Imrahil of Dol Amroth's points cost to 140 points.
 
 * **Page 87 - The Grief of Éomer - Army Composition**
+
   - Change Prince Imrahil of Dol Amroth's points cost to 140 points.
 
 * **Page 118 - Drûzhag the Beastcaller - Enrage Beast**
+
   - Change Range to 6".
 
 * **Page 118 - Drûzhag the Beastcaller - Fury (Beast)**
+
   - Change range to Self.
 
 * **Page 122 - Dragon - Breathe Fire**
+
   - Change to read:
+
   - The Dragon can Breathe Fire as a shooting attack during the Shoot Phase; treat this as a bow with a range of 12". If the shot hits, then the model that is hit suffers a Strength 10 hit and if they suffer a Wound from this hit, which is not prevented, they are automatically slain. Additionally, all other models (friend and foe) within 2" are immediately Set Ablaze - though they will not be automatically slain if wounded. This is a fire- based attack.
 
 * **Page 125 - Gûlavhar, the Terror of Arnor**
+
   - Change Move Value characteristic to 12".
 
 * **Page 150 - Easterling Kataphract - Options**
+
   - Change the last bullet point to read:
+
     - Exchange shield for war drum (Easterling): 25 points
 
 * **Page 165 - Moria - Additional Rules**
+
   - Change the bullet point to the following:
+
   - Beast Warrior models may only be included in Drûzhag's Warband.
 
 * **Page 169 - Host of the Witch-king - Angmar Orc Shaman - Options**
+
   - Add the following:
+
     - Warg: 20 points
 
 * **Page 171 - Shadows of Angmar - Angmar Orc Shaman - Options**
+
   - Add the following:
+
     - Warg: 20 points
 
 * **Page 173 - Buhrdûr's Horde - Angmar Orc Shaman - Options**
+
   - Add the following:
+
     - Warg: 20 points
 
 * **Page 190 - Isengard - Uruk-hai Shaman**
+
   - Add the following army lists:
-    - Lurtz's Scouts - Armies of the Lord of the Rings™ - Minor Hero
-    - Uglúk's Scouts - Armies of the Lord of the Rings™ - Minor Hero
+
+    - Lurtz's Scouts - Armies of The Lord of the Rings - Minor Hero
+
+    - Uglúk's Scouts - Armies of The Lord of the Rings - Minor Hero
 
 * **Page 190 - The Misty Mountains**
+
   - Add the following:
+
     - Moria Goblin Drum: Page 121
-    - Depths of Moria - Armies of the Lord of the Rings™
+
+    - Depths of Moria - Armies of the Lord of the Rings TM
 
 ---
