@@ -75,7 +75,7 @@ The Howdah is always considered to be In The Way for any model in the Howdah, or
 
 ### SHOOTING FROM A WAR BEAST
 
-Models in a Howdah are never considered to be Engaged in Combat and so can always Shoot as normal, measuring the range and Line of Sight from each individual model. Models in the Howdah may Shoot regardless of how far the War Beast has Moved, so long as they themselves haven't Moved over half their Move Value or gone up or down a level. War Beasts and Magic War Beasts and Shooting
+Models in a Howdah are never considered to be Engaged in Combat and so can always Shoot as normal, measuring the range and Line of Sight from each individual model. Models in the Howdah may Shoot regardless of how far the War Beast has Moved, so long as they themselves haven't Moved over half their Move Value or gone up or down a level.
 
 ## WAR BEASTS AND COMBAT
 
@@ -87,7 +87,7 @@ If a War Beast ends a Trample in base contact with an enemy model, then it will 
 
 ### IMMOVABLE OBJECT
 
-A War Beast can never be knocked Prone for any reason, cannot be Hurled or Barged, and never counts as Trapped. Additionally, a War Beast will never Back Away if it loses a Combat - its opponents must Back Away instead. The only exception is if the War Beast is fighting another War Beast, or a model with a similar special rule (such as Smaug). In these instances, the smaller of the two models will Back Away. If both are the same size, roll a D6. On a 1-3 the Evil player's model will Back Away, on a 4+ the Good player's model will Back Away. War Beasts and Combat War Beasts and Damage
+A War Beast can never be knocked Prone for any reason, cannot be Hurled or Barged, and never counts as Trapped. Additionally, a War Beast will never Back Away if it loses a Combat - its opponents must Back Away instead. The only exception is if the War Beast is fighting another War Beast, or a model with a similar special rule (such as Smaug). In these instances, the smaller of the two models will Back Away. If both are the same size, roll a D6. On a 1-3 the Evil player's model will Back Away, on a 4+ the Good player's model will Back Away.
 
 ## WAR BEASTS AND DAMAGE
 

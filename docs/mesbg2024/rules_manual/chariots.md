@@ -42,7 +42,7 @@ Some larger Chariot models may also be able to Shoot whilst Engaged in Combat. W
 
 ### SHOOTING AT A CHARIOT
 
-As mentioned earlier, a Chariot is essentially a single model with a combined profile. As such, models cannot target different parts of the Chariot individually - it is all one model. Chariots and Magic Chariots and Shooting Chariots and Combat
+As mentioned earlier, a Chariot is essentially a single model with a combined profile. As such, models cannot target different parts of the Chariot individually - it is all one model.
 
 ## CHARIOTS AND COMBAT
 
@@ -62,4 +62,4 @@ The Hero will still have its own Wounds characteristic, and is wounded separatel
 
 Any kills the Chariot makes in Combat (not Impact Hits) are associated to the Hero.
 
-A Hero who has been upgraded to ride a Chariot may choose to Dismount in the same manner as a Cavalry model (see [page 69](cavalry.md#dismounting-52-53)); however, the effect of doing so may differ between the specific types of Chariot, and will be listed in the profile for the Chariot. Chariots and Heroes
+A Hero who has been upgraded to ride a Chariot may choose to Dismount in the same manner as a Cavalry model (see [page 69](cavalry.md#dismounting-52-53)); however, the effect of doing so may differ between the specific types of Chariot, and will be listed in the profile for the Chariot.

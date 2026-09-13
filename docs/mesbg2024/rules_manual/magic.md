@@ -24,7 +24,7 @@ Good models cannot Cast a Magical Power if by doing so they would risk wounding 
 
 ### CHECK RANGE AND LINE OF SIGHT
 
-A model will need Line of Sight to the target in order to Cast a Magical Power upon them. The range of a Magical Power will be listed either in the model's profile, or sometimes in the description for the Magical Power itself. If the range is listed as 'self' then the Magical Power must target the caster themselves. Using Magical Powers
+A model will need Line of Sight to the target in order to Cast a Magical Power upon them. The range of a Magical Power will be listed either in the model's profile, or sometimes in the description for the Magical Power itself. If the range is listed as 'self' then the Magical Power must target the caster themselves.
 
 ### MAKING A CASTING ROLL (81)
 

@@ -12,7 +12,7 @@ By adding together the points values of all the models in your Army, you will be
 
 When playing a Matched Play game, you and your opponent will first need to agree upon a points limit - this is the maximum number of points you can spend on your Army. So, if you were to decide on a points limit of 700, then each player would be able to spend up to 700 points on models for their Army.
 
-In reality, most Armies will be just shy of the points limit; many 700 point Armies may actually be the likes of 698 or 699 points instead. This is perfectly fine as the points limit hasn't been exceeded, and in a friendly game you may be willing to let an opponent be a couple of points over to ease things along. However, in the likes of a tournament or gaming weekend, you must make sure that you do not exceed the limit at all - so at a 700 point event, a 701 point Army would need to be tweaked to be below the limit. Points Values
+In reality, most Armies will be just shy of the points limit; many 700 point Armies may actually be the likes of 698 or 699 points instead. This is perfectly fine as the points limit hasn't been exceeded, and in a friendly game you may be willing to let an opponent be a couple of points over to ease things along. However, in the likes of a tournament or gaming weekend, you must make sure that you do not exceed the limit at all - so at a 700 point event, a 701 point Army would need to be tweaked to be below the limit.
 
 ### WHAT POINTS LIMIT?
 
@@ -158,7 +158,7 @@ Objects such as a Siege Engine, Heavy Object, or other such items can never be p
 
 The final section of a Matched Play Scenario will contain any special rules that are associated with that Scenario. Many of these special rules will be common to multiple Scenarios, and the Middle-earth Matched Play Guide will have all of these listed in a separate section for easy reference.
 
-This Rules Manual contains a selection of the Matched Play Scenarios found in the Matched Play Guide, and as such their special rules are presented within the Scenario as well. However, they are still considered to be the same Scenario as the one printed in the Matched Play Guide. Matched Play Games
+This Rules Manual contains a selection of the Matched Play Scenarios found in the Matched Play Guide, and as such their special rules are presented within the Scenario as well. However, they are still considered to be the same Scenario as the one printed in the Matched Play Guide.
 
 ## MATCHED PLAY PRINCIPLES
 
@@ -186,7 +186,7 @@ The Middle-earth Strategy Battle Game is designed to be played as Good vs Evil, 
 
 In such games, there is a chance that the same characters feature on both sides. It is important to note that if a character has a special rule that triggers off a specific friendly model (such as a character that is able to re-roll a dice whilst within range of a specific character), that these rules will only come into effect from the friendly character, and that the enemy version will not inadvertently provide benefits to the characters from the other Army.
 
-*For example: Samwise Gamgee may declare a free Heroic Combat if Frodo Baggins is Engaged in Combat and within 6" of him. If both players have Frodo and Sam in their Army, then the Sam from one army cannot declare this free Heroic Combat if only the enemy Frodo is in range - the Frodo from their own Army must be in range to provide the benefit. Matched Play Principles*
+*For example: Samwise Gamgee may declare a free Heroic Combat if Frodo Baggins is Engaged in Combat and within 6" of him. If both players have Frodo and Sam in their Army, then the Sam from one army cannot declare this free Heroic Combat if only the enemy Frodo is in range - the Frodo from their own Army must be in range to provide the benefit.*
 
 ### MULTIPLAYER GAMES
 

@@ -24,7 +24,7 @@ A Siege Veteran is a Minor Hero; however, their Warband can only ever include th
 
 In a Matched Play game, a Siege Engine does not follow the usual rules for deployment. Instead, all Siege Engine models are deployed before any other models, starting with the player who is deploying the first Warband and then alternating from there. A Siege Engine must always be deployed wholly within its player's deployment zone, and wholly within 6" of a table edge.
 
-In Scenarios where players don't have a deployment zone (such as those that use Maelstrom of Battle), all Siege Engine models are deployed before the first turn of the game. As players don't have a deployment zone in these Scenarios, both players roll off before the game begins, with the player that rolls highest choosing one table edge to deploy their Siege Engine models wholly within 6" of. Their opponent then deploys their Siege Engine models wholly within 6" of the opposite table edge. If only one player has Siege Engine models, they are automatically counted as winning this roll-off. A Siege Engine that deploys in this manner does not count as having Moved on the first turn. Deploying a Siege Engine
+In Scenarios where players don't have a deployment zone (such as those that use Maelstrom of Battle), all Siege Engine models are deployed before the first turn of the game. As players don't have a deployment zone in these Scenarios, both players roll off before the game begins, with the player that rolls highest choosing one table edge to deploy their Siege Engine models wholly within 6" of. Their opponent then deploys their Siege Engine models wholly within 6" of the opposite table edge. If only one player has Siege Engine models, they are automatically counted as winning this roll-off. A Siege Engine that deploys in this manner does not count as having Moved on the first turn.
 
 ## SIEGE ENGINES AND MOVING
 
@@ -126,4 +126,4 @@ If, during the End Phase of a turn, a model is in base contact with an enemy Sie
 
 A Siege Engine that is disabled immediately reduces its remaining Wounds to 0. When a Siege Engine is reduced to 0 Wounds for any reason, remove it from play. Remember that a Siege Engine never counts as a model in regards to the total number of models in the Army, or towards an Army's Break Point.
 
-A Siege Engine does not have a Control Zone, cannot be Engaged in Combat, and cannot be knocked Prone for any reason. A Siege Engine counts as having a Strength of 6 for the purpose of rules that refer to a model's Strength. Attacking a Siege Engine
+A Siege Engine does not have a Control Zone, cannot be Engaged in Combat, and cannot be knocked Prone for any reason. A Siege Engine counts as having a Strength of 6 for the purpose of rules that refer to a model's Strength.

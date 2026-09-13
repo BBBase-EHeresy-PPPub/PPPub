@@ -30,7 +30,7 @@ A model armed with a hand-and-a-half weapon can choose to fight with it as eithe
 
 ### UNARMED MODELS
 
-Some models don't carry any weapons at all; such models are said to be Unarmed. A model is only ever considered to be Unarmed if their profile explicitly states so, or if they started the game with some form of weapon and those weapons have been lost or destroyed during the course of the game. An Unarmed model suffers a -1 penalty to any Duel Roll they make, and also suffers a -1 penalty to any To Wound Rolls they make when making Strikes. Weapons Melee Weapons
+Some models don't carry any weapons at all; such models are said to be Unarmed. A model is only ever considered to be Unarmed if their profile explicitly states so, or if they started the game with some form of weapon and those weapons have been lost or destroyed during the course of the game. An Unarmed model suffers a -1 penalty to any Duel Roll they make, and also suffers a -1 penalty to any To Wound Rolls they make when making Strikes.
 
 ### SPEAR (78)
 
@@ -186,7 +186,7 @@ A model carrying a banner suffers a -1 penalty to their Duel Rolls.
 
 If a Warrior carrying a banner (not a Hero) is removed from the battlefield as a casualty for any reason (such as being slain or fleeing the board as the result of being part of a Broken Army), then they may pass their banner onto another friendly Warrior model in base contact. However, they cannot pass their banner onto a model that is Prone, Engaged in Combat or to a model that could not normally take a banner as part of their profile. Swap the models over if they are the same type of Warrior, or find a suitable model in your collection. When a model takes a banner in this manner, it will count as having the wargear its profile allows it to have when it is upgraded to carry a banner as part of its profile, and will drop all others. So, if a Warrior of Minas Tirith with a spear and shield were to pick up a banner, it would have to drop its shield and spear as a Warrior of Minas Tirith that has a banner does not also have a spear and shield.
 
-***Example 80:** Here a Warrior of Minas Tirith carrying a banner is within 3" of four different Combats: A, B, C and D. The Warrior of Minas Tirith in Combat A is within 3" of the banner bearer, and so may benefit. Combat B may benefit as it has one friendly model within 3" of the banner, allowing either model to re-roll even if they are not in range of the banner themselves. Combat C may also benefit from the banner as it has a Supporting model within 3" of the banner. Combat D may not benefit as, even though it is within 3" of the banner, only enemy models are in range. Wargear Equipment*
+***Example 80:** Here a Warrior of Minas Tirith carrying a banner is within 3" of four different Combats: A, B, C and D. The Warrior of Minas Tirith in Combat A is within 3" of the banner bearer, and so may benefit. Combat B may benefit as it has one friendly model within 3" of the banner, allowing either model to re-roll even if they are not in range of the banner themselves. Combat C may also benefit from the banner as it has a Supporting model within 3" of the banner. Combat D may not benefit as, even though it is within 3" of the banner, only enemy models are in range.*
 
 ![](../media/rules_manual/example_80.jpg){ width=563 height=633 }
 
@@ -232,7 +232,7 @@ A model wearing heavy Dwarf armour will add 3 to their Defence characteristic.
 
 ### MITHRIL ARMOUR
 
-A model wearing Mithril armour will add 3 to their Defence characteristic. Additionally, Monster models cannot use the Rend Brutal Power Attack against a model wearing Mithril armour. Armour Shields
+A model wearing Mithril armour will add 3 to their Defence characteristic. Additionally, Monster models cannot use the Rend Brutal Power Attack against a model wearing Mithril armour.
 
 ## SHIELDS
 

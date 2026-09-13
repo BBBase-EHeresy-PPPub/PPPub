@@ -22,7 +22,7 @@ If a special rule allows for a Hero to do something that would usually cost a Mi
 
 In rare situations, a Mount may also have the Hero keyword and have its own store of Might, Will and Fate. When this is the case, both the rider and the Mount can use each other's Might, Will and Fate interchangeably whilst the rider remains mounted. The only exception to this is that a rider cannot use the Will Points of their Mount to Cast a Magical Power. So, a rider could use their Might Points to improve a Resist Test made using Will Points from their Mount, a rider or Mount could use their Fate Points to prevent Wounds caused upon the other, and if targeted by a Magical Power the controlling player could choose to use a mixture of Will Points from both the Mount and the rider, though they should roll different coloured dice for each. When doing this, you should still mark down which of the two has actually spent the Might, Will or Fate Point.
 
-A Hero Mount with an Attacks characteristic of 0 will still automatically fail its Courage Test if it becomes a Separated Mount. Might, Will and Fate
+A Hero Mount with an Attacks characteristic of 0 will still automatically fail its Courage Test if it becomes a Separated Mount.
 
 ## MIGHT
 
@@ -44,7 +44,7 @@ Hero models can only ever use Might Points to alter their own dice rolls, and ne
 
 ![](../media/rules_manual/example_58.jpg){ width=563 height=371 }
 
-***Example 59:** Jay and Rob are both using Hero models in a Combat. Rob is using Gothmog (Fight Value 5 and 3 Might) and Jay is using Éomer (Fight Value 6 and 3 Might). Rob rolls his dice for the Duel Roll and scores a 1 and a 3, whilst Jay scores a 2, 3 and a 4. As Rob is currently losing, he has the first opportunity to spend Might. Rob chooses to spend Might, though as Gothmog has a lower Fight Value than Éomer, Rob must spend 2 Might Points to improve his 3 to a 5 in order to be winning the Combat. As Rob is now winning, Jay can now spend Might and chooses to spend 1 Might Point to improve his 4 to a 5, meaning that Éomer is now winning thanks to his higher Fight Value. Rob then chooses to spend his last Might Point to improve his 5 to a 6 and be winning once more, and so then Jay chooses to do the same and wins the Combat. As both players are now at a 6, no more Might can be used and Éomer wins the Combat. Might*
+***Example 59:** Jay and Rob are both using Hero models in a Combat. Rob is using Gothmog (Fight Value 5 and 3 Might) and Jay is using Éomer (Fight Value 6 and 3 Might). Rob rolls his dice for the Duel Roll and scores a 1 and a 3, whilst Jay scores a 2, 3 and a 4. As Rob is currently losing, he has the first opportunity to spend Might. Rob chooses to spend Might, though as Gothmog has a lower Fight Value than Éomer, Rob must spend 2 Might Points to improve his 3 to a 5 in order to be winning the Combat. As Rob is now winning, Jay can now spend Might and chooses to spend 1 Might Point to improve his 4 to a 5, meaning that Éomer is now winning thanks to his higher Fight Value. Rob then chooses to spend his last Might Point to improve his 5 to a 6 and be winning once more, and so then Jay chooses to do the same and wins the Combat. As both players are now at a 6, no more Might can be used and Éomer wins the Combat.*
 
 ![](../media/rules_manual/example_59.jpg){ width=569 height=486 }
 
@@ -256,7 +256,7 @@ Hero models may expend Will Points in one of three ways:
 
 A Hero may spend one or more Will Points to increase the result of a Courage Test. For each Will Point spent, the Hero may increase the result of their Courage Test by 1. A Hero may spend a mixture of both Might Points and Will Points to increase their Courage Test in this manner.
 
-***Example 70:** Bofur wishes to Charge the Goblin King and must take a Courage Test to do so due to the Terror special rule. Bofur has a Courage characteristic of 5+, however, he has rolled a 1 and a 3 for his Courage Test for a total of 4 - a fail. Bofur decides to spend 1 Will Point to improve his Courage Test by one, to 5. Bofur has now passed his Courage Test and can Charge the Goblin King. Will*
+***Example 70:** Bofur wishes to Charge the Goblin King and must take a Courage Test to do so due to the Terror special rule. Bofur has a Courage characteristic of 5+, however, he has rolled a 1 and a 3 for his Courage Test for a total of 4 - a fail. Bofur decides to spend 1 Will Point to improve his Courage Test by one, to 5. Bofur has now passed his Courage Test and can Charge the Goblin King.*
 
 ![](../media/rules_manual/example_70.jpg){ width=715 height=633 }
 
@@ -288,7 +288,7 @@ Whilst Fate can prevent any manner of Wound dealt to a Hero, it cannot save them
 
 ![](../media/rules_manual/example_71.jpg){ width=563 height=671 }
 
-***Example 72:** Thorin has defeated Grinnah in Combat and has inflicted 2 Wounds upon the Goblin. Orcrist has the Goblinbane special rule, which will mean that each successful Wound will do D3 Wounds instead. Grinnah spends his 1 Fate Point to try to prevent the first Wound, rolling a 5 and preventing the Wound, which will therefore not become D3 Wounds. However, as he has no Fate remaining, the other Wound is successful and will then become D3 Wounds. Thorin rolls a 6, dealing 3 Wounds and cleaving the Goblin's head right off! Fate*
+***Example 72:** Thorin has defeated Grinnah in Combat and has inflicted 2 Wounds upon the Goblin. Orcrist has the Goblinbane special rule, which will mean that each successful Wound will do D3 Wounds instead. Grinnah spends his 1 Fate Point to try to prevent the first Wound, rolling a 5 and preventing the Wound, which will therefore not become D3 Wounds. However, as he has no Fate remaining, the other Wound is successful and will then become D3 Wounds. Thorin rolls a 6, dealing 3 Wounds and cleaving the Goblin's head right off!*
 
 ![](../media/rules_manual/example_72.jpg){ width=868 height=411 }
 

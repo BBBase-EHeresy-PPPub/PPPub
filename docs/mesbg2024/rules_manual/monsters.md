@@ -12,7 +12,7 @@ A Monster that has a rider is also a Mount. In these situations, when a model hi
 
 Monster models excel in a fight, and are often able to cause significant damage to enemy lines and even smash right through them.
 
-Whenever a Monster model makes a Strike against an enemy model that it is Engaged in Combat with and slays them, they may immediately make a single additional Strike against each model that was Supporting the slain model. This cannot be used if the Monster model kills an enemy with a Brutal Power Attack, only when they make a Strike. Monsters and Cavalry Monsters in Combat
+Whenever a Monster model makes a Strike against an enemy model that it is Engaged in Combat with and slays them, they may immediately make a single additional Strike against each model that was Supporting the slain model. This cannot be used if the Monster model kills an enemy with a Brutal Power Attack, only when they make a Strike.
 
 ***Example 74:** This Mordor Troll has won the Combat against the Warriors of Minas Tirith. It makes its first Strike against Warrior A, killing it. It then makes its second Strike against Warrior B, killing them as well. As Warrior C was Supporting Warrior B, the Troll may now make a free Strike against Warrior C; however, it doesn't kill them in this instance. As that was a free Strike, the Troll still has one remaining and chooses to Strike Warrior D, killing them as well. As Warrior E was Supporting Warrior D, the Troll may now make a free Strike against them as well, and this time the Troll successfully kills its victim!*
 
@@ -32,7 +32,7 @@ In the situation where there are multiple Monster models on the same side in the
 
 When a Monster uses this Brutal Power Attack, they must nominate one enemy model involved in the Combat to Rend (if this is a Cavalry model, you must choose either the rider or the Mount). The Monster makes a number of To Wound Rolls equal to its Attacks characteristic (including any modifiers to its Attacks) against the nominated model. When resolving these To Wound Rolls, use the nominated model's Strength characteristic instead of their Defence when using the To Wound Chart.
 
-***Example 75:** The Goblin King has beaten Thorin in a Combat, and has elected to use the Rend Brutal Power Attack. The Goblin King will make three To Wound Rolls (as his Attacks characteristic is 3) against Thorin, though instead of using Thorin's Defence of 7 the Goblin King will compare his Strength of 5 with Thorin's Strength of 4. Looking at the To Wound Chart, these To Wound Rolls will succeed on a 4+ - Thorin is in serious trouble! Brutal Power Attacks*
+***Example 75:** The Goblin King has beaten Thorin in a Combat, and has elected to use the Rend Brutal Power Attack. The Goblin King will make three To Wound Rolls (as his Attacks characteristic is 3) against Thorin, though instead of using Thorin's Defence of 7 the Goblin King will compare his Strength of 5 with Thorin's Strength of 4. Looking at the To Wound Chart, these To Wound Rolls will succeed on a 4+ - Thorin is in serious trouble!*
 
 ![](../media/rules_manual/example_75.jpg){ width=566 height=671 }
 

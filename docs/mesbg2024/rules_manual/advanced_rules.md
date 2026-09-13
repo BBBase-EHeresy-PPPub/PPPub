@@ -65,7 +65,7 @@ Cavalry models cannot carry a Heavy Object. Monster models can still Move their 
 
 In Narrative Play, there may be situations where models need to carry a fallen ally or prisoner - when this is the case it will be stated in the special rules for that Scenario. The weight of the model being carried, compared to how strong the carrying model is, will determine how the carried model is treated.
 
-A model is treated as a Light Object if its Defence characteristic is half, or less, of the carrying model's Strength. A model is treated as a Heavy Object if its Defence characteristic is greater than half of the carrying model's Strength. Carrying Objects
+A model is treated as a Light Object if its Defence characteristic is half, or less, of the carrying model's Strength. A model is treated as a Heavy Object if its Defence characteristic is greater than half of the carrying model's Strength.
 
 ## PASSENGERS
 
@@ -97,7 +97,7 @@ If the Mount is slain, a Passenger must take a Thrown Rider Test in the same man
 
 ### MOUNTING
 
-In specific Narrative Scenarios, models may be able to Mount a Cavalry model and become a Passenger. To do this, the model must Move into base contact with the Cavalry model and roll a D6. On a 1, the model fails to Mount and neither model may Move any further that turn. On a 2-5, the model successfully Mounts, though neither model may Move any further that turn. On a 6, the model successfully Mounts and the Cavalry model can still Activate if it hasn't already done so that turn. Passengers
+In specific Narrative Scenarios, models may be able to Mount a Cavalry model and become a Passenger. To do this, the model must Move into base contact with the Cavalry model and roll a D6. On a 1, the model fails to Mount and neither model may Move any further that turn. On a 2-5, the model successfully Mounts, though neither model may Move any further that turn. On a 6, the model successfully Mounts and the Cavalry model can still Activate if it hasn't already done so that turn.
 
 ## SENTRIES
 
@@ -116,7 +116,7 @@ Until the alarm is raised, Sentries cannot make Shooting Attacks, or use Magical
 
 If during the End Phase of a turn a Sentry is within 3" of an enemy model and can draw Line of Sight to them, then the alarm will be raised. If a Sentry was hit by a Shooting Attack and was not slain, and has not been removed as a casualty (or otherwise incapacitated), then during the End Phase of that turn they will raise the alarm.
 
-Once the alarm has been raised, Sentries will act normally from that point onwards. Sentries
+Once the alarm has been raised, Sentries will act normally from that point onwards.
 
 ## FIGHTING AT NIGHT
 
@@ -128,4 +128,4 @@ As it is much harder to avoid a shot in the dark, all Shooting Attacks gain a bo
 
 Models that have been illuminated by a special rule or Magical Power (such as the Blinding Light Magical Power), can be targeted by Shooting Attacks, Magical Powers and special rules from distances greater than 12" away. Shooting Attacks will not gain the bonus of +1 when rolling To Wound when Shooting at illuminated models.
 
-Models with the Cave Dweller special rule can see in the dark normally, and therefore may target models from greater than 12" away with Shooting Attacks, Magical Powers and special rules. Additionally, Shooting Attacks that target a model with the Cave Dweller special rule will not gain the bonus of +1 when rolling To Wound. Fighting at Night
+Models with the Cave Dweller special rule can see in the dark normally, and therefore may target models from greater than 12" away with Shooting Attacks, Magical Powers and special rules. Additionally, Shooting Attacks that target a model with the Cave Dweller special rule will not gain the bonus of +1 when rolling To Wound.
