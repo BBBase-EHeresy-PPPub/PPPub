@@ -41,6 +41,13 @@ markdown_extensions:
         - tooltip_heroic_actions.md
         - tooltip_weapons_and_wargear.md
 nav:
+  - Quick Start:
+      - Quick Start: 'quick_start/index.md'
+      - Battlehost Quickstart Rules Guide: 'quick_start/battlehost_quickstart_rules_guide.md'
+      - Dol Guldur Battlehost Quickstart Guide: 'quick_start/dol_guldur_battlehost_quickstart_guide.md'
+      - Isengard Battlehost Quickstart Guide: 'quick_start/isengard_battlehost_quickstart_guide.md'
+      - Mirkwood Battlehost Quickstart Guide: 'quick_start/mirkwood_battlehost_quickstart_guide.md'
+      - Rohan Battlehost Quickstart Guide: 'quick_start/rohan_battlehost_quickstart_guide.md'
   - Rules Manual:
       - Rules Manual: 'rules_manual/index.md'
       - The Rules: 'rules_manual/the_rules.md'
