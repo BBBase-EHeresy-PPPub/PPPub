@@ -265,6 +265,6 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 
 **SPECIAL RULES**
 
-* **Dark of Night**
+* **[Dark of Night](../matched_play_guide/common_scenario_rules.md#dark-of-night)**
 
 ![](../media/scenarios/doubles_events/duel_of_wits.jpg){ width=1000 height=671 }

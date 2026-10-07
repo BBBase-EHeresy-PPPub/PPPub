@@ -114,7 +114,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-* **Maelstrom of Battle**
+* **[Maelstrom of Battle](../matched_play_guide/common_scenario_rules.md#maelstrom-of-battle)**
 
 At the end of your Move Phase, roll a D6 for each of your Warbands not on the battlefield and consult the chart that follows (the Warband's Captain can use Might to increase this roll). Roll for each Warband separately, Activate the models in the Warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your Army is Broken.
 

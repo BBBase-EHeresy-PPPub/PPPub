@@ -114,7 +114,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-* **Maelstrom of Battle**
+* **[Maelstrom of Battle](../matched_play_guide/common_scenario_rules.md#maelstrom-of-battle)**
 
 ![](../media/scenarios/matched_play_guide/hold_ground.jpg){ width=1000 height=681 }
 
@@ -444,7 +444,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-* **A Time of Heroes**
+* **[A Time of Heroes](../matched_play_guide/common_scenario_rules.md#a-time-of-heroes)**
 
 ![](../media/scenarios/matched_play_guide/lords_of_battle.jpg){ width=1000 height=681 }
 
@@ -490,7 +490,7 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-* **Dark of Night**
+* **[Dark of Night](../matched_play_guide/common_scenario_rules.md#dark-of-night)**
 
 * **The Target**
 
@@ -548,7 +548,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-* **A Time of Heroes**
+* **[A Time of Heroes](../matched_play_guide/common_scenario_rules.md#a-time-of-heroes)**
 
 * **Stand and Fight**
 
@@ -696,7 +696,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-* **Maelstrom of Battle**
+* **[Maelstrom of Battle](../matched_play_guide/common_scenario_rules.md#maelstrom-of-battle)**
 
 * **Worthless Land**
 
@@ -793,7 +793,7 @@ The game lasts until either all three Artefacts have been carried off the board,
 
 **SPECIAL RULES**
 
-* **Uncovering Artefacts**
+* **[Uncovering Artefacts](../matched_play_guide/common_scenario_rules.md#uncovering-artefacts)**
 
 ![](../media/scenarios/matched_play_guide/seize_the_prizes.jpg){ width=1000 height=671 }
 
@@ -836,7 +836,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-* **Uncovering Artefacts**
+* **[Uncovering Artefacts](../matched_play_guide/common_scenario_rules.md#uncovering-artefacts)**
 
 ![](../media/scenarios/matched_play_guide/treasure_hoard.jpg){ width=1000 height=670 }
 
@@ -1021,7 +1021,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-* **Dark of Night**
+* **[Dark of Night](../matched_play_guide/common_scenario_rules.md#dark-of-night)**
 
 ![](../media/scenarios/matched_play_guide/clash_by_moonlight.jpg){ width=1000 height=671 }
 
@@ -1065,7 +1065,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SPECIAL RULES**
 
-* **A Time of Heroes**
+* **[A Time of Heroes](../matched_play_guide/common_scenario_rules.md#a-time-of-heroes)**
 
 ![](../media/scenarios/matched_play_guide/lead_from_the_front.jpg){ width=1000 height=671 }
 
@@ -1112,6 +1112,6 @@ At the end of the game, the player who has scored the most Victory Points wins t
 
 **SPECIAL RULES**
 
-* **Heirloom of Power**
+* **[Heirloom of Power](../matched_play_guide/common_scenario_rules.md#heirloom-of-power)**
 
 ![](../media/scenarios/matched_play_guide/convergence.jpg){ width=1000 height=671 }
