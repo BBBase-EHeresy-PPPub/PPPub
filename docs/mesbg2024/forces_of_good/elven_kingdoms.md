@@ -1021,7 +1021,7 @@ This model may use the [Shielding] rule with their Elven [pike][Pike]. All of th
 - [Elf Bow] - 2 points
 - Elven [Throwing Weapons] - 2 points
 - Wood Elf [Spear] - 1 point
-- Noldorian Exile - 1 point
+- Noldorin Exile - 1 point
 
 **SPECIAL RULES**
 

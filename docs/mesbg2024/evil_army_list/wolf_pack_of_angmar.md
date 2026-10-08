@@ -7,7 +7,6 @@
 **HEROES OF VALOUR**
 
 - [**Wild Warg Chieftain**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-80-points): 80 points
-- [**Wild Warg Chieftain (General)**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-general-80-points): 80 points
 
 **WARRIORS**
 

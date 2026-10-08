@@ -674,7 +674,7 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound Rolls 
 **HEROIC ACTIONS**
 
 - [Heroic Strike]
-- [Heroic Strength]
+- [Heroic Defence]
 
 **OPTIONS**
 

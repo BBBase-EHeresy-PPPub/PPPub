@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - [**Elrond**](../forces_of_good/elven_kingdoms.md#elrond-170-points): <span style="color: darkmagenta">170 points</span>
-- [**Saruman**](../forces_of_good/the_free_peoples.md#saruman-170-points): 170 points
+- [**Saruman the White**](../forces_of_good/the_free_peoples.md#saruman-the-white-170-points): 170 points
 
 **HEROES OF VALOUR**
 

@@ -200,37 +200,6 @@ When a Fell Beast becomes a Separated Mount, it will automatically fail the Cour
 
 <div class="unitCard" markdown>
 
-### MORDOR TROLL CHIEFTAIN (GENERAL) [150 POINTS]
-
-**TROLL | MORDOR | HERO, INFANTRY, MONSTER | 60MM**
-
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 8 | 4+ | 7 | 8 | 3 | 4 | 6+ | 6+ | 3 | 2 | 2 |
-
-**WARGEAR**
-
-- [Heavy Armour]
-- [Hand Weapon]
-
-**HEROIC ACTIONS**
-
-- [Heroic Strike]
-- [Heroic Strength]
-
-**SPECIAL RULES**
-
-- [Dominant] (4)
-- [Terror]
-- [Fearless]
-- [Throw Stones] (range 12", Strength 8)
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
 ### MOUTH OF SAURON [75 POINTS]
 
 **MAN | MORDOR | HERO, INFANTRY, UNIQUE | 25MM**

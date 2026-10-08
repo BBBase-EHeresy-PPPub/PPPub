@@ -483,40 +483,6 @@ Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
 
 <div class="unitCard" markdown>
 
-### CORSAIR CAPTAIN (GENERAL) [55 POINTS]
-
-**MAN | CORSAIR, UMBAR | HERO, INFANTRY | 25MM**
-
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 3+ | 4 | 4 | 3 | 3 | 6+ | 6+ | 2 | 1 | 1 |
-
-**WARGEAR**
-
-- [Light Armour]
-- [Hand Weapon]
-- [Two-handed Weapon]
-- [Throwing Weapons]
-
-**HEROIC ACTIONS**
-
-- [Heroic March]
-
-**OPTIONS**
-
-- Exchange [Two-handed Weapon] for [Crossbow] - Free
-
-**SPECIAL RULES**
-
-- [Fearless]
-- [Sharpshooter]
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
 ### EASTERLING KATAPHRAKT CAPTAIN [90 POINTS]
 
 **MAN | EASTERLING | HERO, CAVALRY | 25MM**

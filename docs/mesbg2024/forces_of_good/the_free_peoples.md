@@ -274,7 +274,7 @@ If Radagast dismounts from his Sleigh, it must be removed from play.
 
 <div class="unitCard" markdown>
 
-### SARUMAN [170 POINTS]
+### SARUMAN THE WHITE [170 POINTS]
 
 **WIZARD | WHITE COUNCIL | HERO, INFANTRY, UNIQUE | 25MM**
 
@@ -439,7 +439,7 @@ When Beorn the Bear begins his Activation, he must check to see if he can Charge
 
 - **Crushing Strength** `BRUTAL POWER ATTACK`
 
-If Beorn wins a Duel Roll he can choose to use this Brutal Power Attack. If he does, choose a single enemy   model involved in the Combat. The chosen model immediately suffers a Strength 10 hit. If the To Wound Roll is successful (even if the Wound is prevented), the model immediately suffers another Strength 10 hiWt, and so on until either Beorn fails a To Wound Roll, or the chosen model is slain and removed as a casualty.
+If Beorn wins a Duel Roll he can choose to use this Brutal Power Attack. If he does, choose a single enemy model involved in the Combat. The chosen model immediately suffers a Strength 10 hit. If the To Wound Roll is successful (even if the Wound is prevented), the model immediately suffers another Strength 10 hit, and so on until either Beorn fails a To Wound Roll, or the chosen model is slain and removed as a casualty.
 
 </div>
 
@@ -624,7 +624,7 @@ Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
 
 **Grimbeorn the Bear**
 
-**BEAR | BEORNING | HERO, INFANTRY, MONSTER, UNIQUE | 25MM**
+**BEAR | BEORNING | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|

@@ -7,7 +7,6 @@
 **HEROES OF FORTITUDE**
 
 - [**Uruk-Hai Captain**](../forces_of_evil/isengard.md#uruk-hai-captain-65-points): 65 points
-- [**Uruk-Hai Captain (General)**](../forces_of_evil/isengard.md#uruk-hai-captain-general-65-points): 65 points
 
 **MINOR HEROES**
 

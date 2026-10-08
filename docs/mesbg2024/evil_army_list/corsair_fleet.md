@@ -18,8 +18,6 @@
     - Exchange spear for crossbow: Free
 - [**Corsair Captain**](../forces_of_evil/fallen_realms.md#corsair-captain-55-points): 55 points
     - Exchange two-handed weapon for crossbow: Free
-- [**Corsair Captain (General)**](../forces_of_evil/fallen_realms.md#corsair-captain-general-55-points): 55 points
-    - Exchange two-handed weapon for crossbow: Free
 
 **WARRIORS**
 

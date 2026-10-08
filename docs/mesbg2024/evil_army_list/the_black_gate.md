@@ -6,7 +6,7 @@
 
 **HEROES OF VALOUR**
 
-- [**Mordor Troll Chieftain (General)**](../forces_of_evil/mordor.md#mordor-troll-chieftain-general-150-points): 150 points
+- [**Mordor Troll Chieftain**](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points): 150 points
 - [**Mouth of Sauron**](../forces_of_evil/mordor.md#mouth-of-sauron-75-points): 75 points
     - Armoured horse: 25 points
 

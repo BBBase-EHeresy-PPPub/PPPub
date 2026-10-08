@@ -528,34 +528,6 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 
 <div class="unitCard" markdown>
 
-### URUK-HAI CAPTAIN (GENERAL) [65 POINTS]
-
-**URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**
-
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 6" | 5 | 4+ | 5 | 7 | 3 | 3 | 6+ | 6+ | 2 | 1 | 1 |
-
-**WARGEAR**
-
-- [Heavy Armour]
-- [Shield]
-- [Hand Weapon]
-
-**HEROIC ACTIONS**
-
-- [Heroic March]
-
-**SPECIAL RULES**
-
-- [Shieldwall]
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
 ### URUK-HAI SCOUT CAPTAIN [55 POINTS]
 
 **URUK-HAI | ISENGARD | HERO, INFANTRY | 25MM**

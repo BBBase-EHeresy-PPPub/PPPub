@@ -356,37 +356,6 @@ If the Shadow of Rhudaur rolls a natural 6 when making a Casting Roll, then the 
 
 <div class="unitCard" markdown>
 
-### WILD WARG CHIEFTAIN (GENERAL) [80 POINTS]
-
-**WARG | ANGMAR | HERO, INFANTRY, BEAST | 40MM**
-
-| Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
-|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
-| 10" | 5 | 5+ | 6 | 5 | 3 | 3 | 6+ | 7+ | 3 | 3 | 2 |
-
-**WARGEAR**
-
-- Claws and Teeth ([hand weapons][Hand Weapon])
-
-**HEROIC ACTIONS**
-
-- [Heroic March]
-- [Heroic Strength]
-
-**SPECIAL RULES**
-
-- [Terror]
-
-- **Packlord** `ACTIVE`
-
-Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this model unless they have the [Warg] keyword.
-
-</div>
-
----
-
-<div class="unitCard" markdown>
-
 ### ANGMAR ORC CAPTAIN [45 POINTS]
 
 **ORC | ANGMAR | HERO, INFANTRY | 25MM**
