@@ -2,7 +2,6 @@
 
 <div class="unitCard" markdown>
 
-- **WILD WARG CHIEFTAIN (LEADER)**: 80 points
 - **WILD WARG CHIEFTAIN**: 80 points
 - **FELL WARG**: 8 points
 - **WEREWOLF**: 25 points

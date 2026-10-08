@@ -2,7 +2,6 @@
 
 <div class="unitCard" markdown>
 
-- **MORDOR TROLL CHIEFTAIN (LEADER)**: 140 points
 - **MOUTH OF SAURON**: 70 points
     - Armoured Horse: 15 points
 - **MORANNON ORC CAPTAIN**: 50 points
