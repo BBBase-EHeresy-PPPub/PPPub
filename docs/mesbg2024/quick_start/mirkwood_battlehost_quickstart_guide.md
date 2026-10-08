@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## Mirkwood Battlehost
 
 <div class="unitCard" markdown>

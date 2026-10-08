@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## HERO OF MORDOR
 
 <div class="unitCard" markdown>

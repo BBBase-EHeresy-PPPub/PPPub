@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## HEROES OF ISENGARD
 
 <div class="unitCard" markdown>

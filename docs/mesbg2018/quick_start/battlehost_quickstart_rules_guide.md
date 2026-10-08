@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## INTRODUCTION
 
 The rules presented here are a simplified, cut-down version of those found in the Middle-earth Strategy Battle Game rules manual designed to teach you the basics as you play through your first games in Middle-earth. As a result, you may notice some small differences in the rules, or that some rules are missing (such as In The Way rolls or separated mounts). This is done to ensure that you can get playing straight away without having to worry about too many new rules all in one go and to provide a quick, easy learning experience where you really throw yourself into the world of Middle-earth!

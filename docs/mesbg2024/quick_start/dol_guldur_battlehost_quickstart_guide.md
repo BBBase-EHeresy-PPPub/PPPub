@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## Dol Guldur Battlehost
 
 <div class="unitCard" markdown>

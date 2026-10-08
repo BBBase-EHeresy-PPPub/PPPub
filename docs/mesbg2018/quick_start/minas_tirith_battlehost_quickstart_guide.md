@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## HEROES OF MINAS TIRITH
 
 <div class="unitCard" markdown>

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## HERO OF ROHAN
 
 <div class="unitCard" markdown>

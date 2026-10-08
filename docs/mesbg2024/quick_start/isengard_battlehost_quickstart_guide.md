@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## Isengard Battlehost
 
 <div class="unitCard" markdown>

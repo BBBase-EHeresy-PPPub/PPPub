@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 ## Rohan Battlehost
 
 <div class="unitCard" markdown>
