@@ -106,7 +106,7 @@ If this model is your General, it increases its Attacks characteristic to 3 and 
 | [Transfix] | 12" | 4+ |
 | [Drain Courage] | 12" | 5+ |
 | [Black Dart] | 6" | 6+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -261,7 +261,7 @@ The range of Razgush's [Stand Fast] is 12" rather than 6".
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 4+ |
 | [Panic Steed] | 12" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -310,7 +310,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 | [Transfix] | 12" | 3+ |
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -358,7 +358,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 | [Curse] | 12" | 4+ |
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -445,7 +445,7 @@ If the Golden King loses a Duel Roll, he may immediately spend a Will Point to u
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 4+ |
 | [Enchant Blades] | 12" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -497,7 +497,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Kni
 | [Transfix] | 12" | 3+ |
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -595,7 +595,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 | [Drain Courage] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
 | [Wither] | 12" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 
@@ -647,7 +647,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 | [Drain Courage] | 12" | 4+ |
 | [Foil Magic] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
-| Instill Fear | Self | 6+ |
+| [Instill Fear] | Self | 6+ |
 
 **OPTIONS**
 

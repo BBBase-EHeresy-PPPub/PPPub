@@ -94,7 +94,7 @@ Once the White Warg is separated from Azog, only Warg models may benefit from it
 | [Transfix] | 12" | 3+ |
 | [Curse] | 12" | 4+ |
 | [Fog of Disarray] | Self | 4+ |
-| Instill Fear | Self | 4+ |
+| [Instill Fear] | Self | 4+ |
 | [Wither] | 12" | 4+ |
 | Your Staff is Broken | 12" | 5+ |
 | [Chill Soul] | 12" | 5+ |

@@ -493,7 +493,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 - **Incantations of Power** `ACTIVE`
 
-Incantations of Power - Active - During each Priority Phase, after Priority has been determined, Fráecht can spend a Will Point to use an incantation. If he does so, choose one of the incantations below - the effects last until the End Phase of the turn.
+During each Priority Phase, after Priority has been determined, Fráecht can spend a Will Point to use an incantation. If he does so, choose one of the incantations below - the effects last until the End Phase of the turn.
 
 Incantation of Strength - Friendly Carn Dûm models within 6" of Fráecht must re-roll To Wound Rolls of a natural 1 when making Strikes.
 
@@ -695,7 +695,7 @@ Friendly models may not benefit from the Heroic Actions or [Stand Fast] of this 
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| Instill Fear | Self | 3+ |
+| [Instill Fear] | Self | 3+ |
 | [Drain Courage] | 12" | 4+ |
 | [Wither] | 12" | 4+ |
 

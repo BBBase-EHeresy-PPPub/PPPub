@@ -71,7 +71,7 @@ Friendly Mordor Orc models within 3" of Gothmog gain the [Hatred] (Man) special 
 | [Transfix] | 18" | 3+ |
 | [Chill Soul] | 12" | 4+ |
 | [Drain Courage] | 18" | 4+ |
-| Instill Fear | Self | 5+ |
+| [Instill Fear] | Self | 5+ |
 
 **SPECIAL RULES**
 

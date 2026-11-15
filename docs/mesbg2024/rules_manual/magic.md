@@ -198,7 +198,7 @@ This Magical Power targets one friendly model within range. Each time the target
 
 This Magical Power targets the caster. Friendly models within 6" of the caster who have the same keywords as those shown in brackets will automatically pass any Courage Tests they are required to take.
 
-### INSTIL FEAR
+### INSTILL FEAR
 
 `DURATION: TEMPORARY`
 

@@ -18,7 +18,7 @@
 [Foil Magic]: ../rules_manual/magic.md#foil-magic
 [Fortify Spirit]: ../rules_manual/magic.md#fortify-spirit
 [Fury]: ../rules_manual/magic.md#fury-x
-[Instil Fear]: ../rules_manual/magic.md#instil-fear
+[Instill Fear]: ../rules_manual/magic.md#instill-fear
 [Nature's Wrath]: ../rules_manual/magic.md#natures-wrath
 [Panic Steed]: ../rules_manual/magic.md#panic-steed
 [Paralyse]: ../rules_manual/magic.md#paralyse

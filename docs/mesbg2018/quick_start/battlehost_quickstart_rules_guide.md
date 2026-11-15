@@ -257,8 +257,6 @@ If the winner of a Multiple Combat has more than one Attack, they may choose to 
 
 ## CAVALRY
 
-### CAVALRY
-
 A **Cavalry** model consists of a rider and its mount. In the case of a Cavalry model, as the rider is directing their mount, Line of Sight is always taken from the perspective of the rider and is never blocked by the mount. A **Cavalry** model moves in the same way as an **Infantry** model.
 
 ### CAVALRY AND FIGHTS

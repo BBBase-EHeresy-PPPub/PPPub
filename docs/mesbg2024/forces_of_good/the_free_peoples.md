@@ -514,7 +514,7 @@ Whilst within 3" of a friendly Fellowship Hobbit model, Boromir gains the [Fearl
 |:--|:--:|:--:|
 | [Fortify Spirit] | 12" | 3+ |
 | [Banishment] | 12" | 4+ |
-| Instill Fear | Self | 4+ |
+| [Instill Fear] | Self | 4+ |
 
 **SPECIAL RULES**
 

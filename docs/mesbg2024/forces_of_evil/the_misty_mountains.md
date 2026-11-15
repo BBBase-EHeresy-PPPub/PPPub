@@ -431,7 +431,7 @@ This model may Support as if it had a [spear][Spear], with the exception that th
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Fury] (Moria Goblin) | Self | 3+ |
-| Instill Fear | Self | 4+ |
+| [Instill Fear] | Self | 4+ |
 | [Transfix] | 12" | 5+ |
 
 **SPECIAL RULES**

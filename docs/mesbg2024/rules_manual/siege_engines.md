@@ -72,8 +72,6 @@ When playing your games, you may wish to Shoot at something not covered in this 
 
 ### SCATTER TABLE
 
-## Scatter Table
-
 | D6 | Result |
 |---|---|
 | 1 | **Wide of the Mark:** Your opponent may choose one Battlefield Target (from either Army) within 6" of the initial target. The chosen model becomes the actual target. The chosen model must be within the Line of Sight of the Siege Engine, otherwise it cannot be chosen. If there is no alternative Battlefield Target within 6", or if your opponent does not wish to choose an alternative, then the shot misses completely. |
