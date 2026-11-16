@@ -229,7 +229,7 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 - Mithril Coat - 15 points
 - Sting - 5 points
-- The Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 

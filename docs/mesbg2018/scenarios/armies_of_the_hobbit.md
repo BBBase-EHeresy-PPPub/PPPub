@@ -40,7 +40,7 @@ Girion automatically passes all Courage tests for this Scenario. Additionally, G
 
 **PARTICIPANTS**
 
-**Good:** Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim Hammers.
+**Good:** Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim [Hammers][Hammer].
 
 **Evil:** Azog; The Keeper of the Dungeons; 3 Gundabad Orc Captains; 48 Gundabad Orcs.
 
@@ -64,7 +64,7 @@ Whilst Thrór is alive and on the battlefield, Thráin receives no benefit from 
 
 * **There was one I could follow**
 
-If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a banner until the end of the turn.
+If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a [banner][Banner] until the end of the turn.
 
 * **Hordes without End**
 
@@ -78,7 +78,7 @@ Whenever an Evil **Warrior** model is slain, place it to one side. At the end of
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
+**Good:** Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found [The Ring][The One Ring].
 
 **Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
 
@@ -116,9 +116,9 @@ The Trolls may not make Strikes against Bilbo until the start of the third turn,
 
 **PARTICIPANTS**
 
-**Good:** Elrond with heavy armour and horse; 12 Rivendell Knights with shield.
+**Good:** Elrond with [heavy armour][Heavy Armour] and horse; 12 Rivendell Knights with [shield][Shield].
 
-**Evil:** Yazneg on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
+**Evil:** Yazneg on [Fell Warg]; 12 Hunter Orcs on [Fell Warg]; 12 Fell Wargs.
 
 **LAYOUT**
 
@@ -170,7 +170,7 @@ At the start of the game, the Evil player nominates any board edge; this is the 
 
 * **Take up arms**
 
-The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons - at which point they are no longer considered to be unarmed.
+The Dwarves all start the game [unarmed][Unarmed]. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons - at which point they are no longer considered to be [unarmed][Unarmed].
 
 * **A Wizard is never late**
 
@@ -194,7 +194,7 @@ The Goblin King may not move during the first turn of the game.
 
 **Good:** Thorin Oakenshield with Orcrist and Oakenshield; Bilbo Baggins with Sting; Gwaihir; 4 Great Eagles.
 
-**Evil:** Azog on White Warg; Fimbul the Hunter on Fell Warg; 12 Hunter Orcs on Fell Warg; 12 Fell Wargs.
+**Evil:** Azog on White Warg; Fimbul the Hunter on [Fell Warg]; 12 Hunter Orcs on [Fell Warg]; 12 Fell Wargs.
 
 **LAYOUT**
 
@@ -214,7 +214,7 @@ The Good player wins if the Eagles safely carry all the markers, Thorin and Bilb
 
 * **Rescuing Dwarves**
 
-Before the game starts, players take it in turn to nominate five trees, starting with the Good player. These are the trees where the Dwarves and Bilbo are hiding; place a marker beside each tree to remind you. At the end of the Good Move phase, any Eagle not involved in a fight (including Gwaihir) may pick up a marker it is in base contact with as if it were a Light Object. Thorin and Bilbo may be carried in the same way. If an Eagle leaves the board whilst carrying Dwarves, then those Dwarves are considered rescued.
+Before the game starts, players take it in turn to nominate five trees, starting with the Good player. These are the trees where the Dwarves and Bilbo are hiding; place a marker beside each tree to remind you. At the end of the Good Move phase, any Eagle not involved in a fight (including Gwaihir) may pick up a marker it is in base contact with as if it were a [Light Object](../rules_manual/advanced_rules.md#light-objects). Thorin and Bilbo may be carried in the same way. If an Eagle leaves the board whilst carrying Dwarves, then those Dwarves are considered rescued.
 
 * **The Eagles are Coming!**
 
@@ -276,7 +276,7 @@ Any Mirkwood Spiders that are slain are kept to one side. At the start of each t
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake-town Guard: 8 with sword, 8 with spear and 8 with bow.
+**Good:** Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake-town Guard: 8 with [sword][Sword], 8 with [spear][Spear] and 8 with [bow][Bow].
 
 **Evil:** Smaug.
 
@@ -296,19 +296,19 @@ Smaug has come to wreak death and destruction on the fishing settlement of Lake-
 
 * **The Black Arrow**
 
-Bain starts the game in possession of the Black Arrow, which is a Light Object. If both Bard and a model carrying the Black Arrow are both in the same tower, Bard may fire the Black Arrow as if he were firing the Windlance, and still benefits from the Black Arrow special rule. Bard may still fire the Black Arrow even if he moved this turn.
+Bain starts the game in possession of the Black Arrow, which is a [Light Object](../rules_manual/advanced_rules.md#light-objects). If both Bard and a model carrying the Black Arrow are both in the same tower, Bard may fire the Black Arrow as if he were firing the Windlance, and still benefits from the Black Arrow special rule. Bard may still fire the Black Arrow even if he moved this turn.
 
 * **A Dragon's Wrath**
 
-All Good Heroes gain the Stalk Unseen special rule. Any **Hero **in one of the towers will lose this special rule whilst they remain in the tower.
+All Good Heroes gain the [Stalk Unseen] special rule. Any **Hero **in one of the towers will lose this special rule whilst they remain in the tower.
 
 * **A Touch of Destiny**
 
-Bard gains the Mighty Hero special rule. Additionally, Bard is not affected by Sigrid & Tilda's Something to Fight For special rule.
+Bard gains the [Mighty Hero] special rule. Additionally, Bard is not affected by Sigrid & Tilda's Something to Fight For special rule.
 
 * **The Waters of the Long Lake**
 
-Any model that has been Set Ablaze that moves into the waters of the Long Lake will immediately extinguish the flames.
+Any model that has been [Set Ablaze] that moves into the waters of the Long Lake will immediately extinguish the flames.
 
 * **The Defence of Lake-town**
 
@@ -342,7 +342,7 @@ The White Council are trying to save Gandalf from the clutches of the Necromance
 
 * **A Wizard Lays Dying**
 
-Gandalf starts the game with no Might or Will, no Staff of Power, and under the effects of the Paralyse Magical Power. Friendly models may carry Gandalf, in which case he is a Heavy Object.
+Gandalf starts the game with no Might or Will, no [Staff of Power], and under the effects of the [Paralyse] Magical Power. Friendly models may carry Gandalf, in which case he is a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
 
 * **"I will Destroy You"**
 
@@ -380,11 +380,11 @@ Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor
 
 **The Iron Hills**
 
-Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
+Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with [spear][Spear], 12 with mattock, 12 with [crossbow][Crossbow]; Iron Hills Chariot.
 
 **Halls of Thranduil**
 
-Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with shield; 12 with Elven-made glaive; 12 with Elf bow.
+Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with [shield][Shield]; 12 with [Elven-made] glaive; 12 with Elf [bow][Bow].
 
 **Radagast's Alliance**
 
@@ -394,7 +394,7 @@ Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
 
 **Azog's Legion**
 
-Azog with heavy armour, stone flail and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
+Azog with [heavy armour][Heavy Armour], stone [flail][Flail] and Signal Tower; Bolg; 5 Gundabad Orc Captains with [shield][Shield]; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with [shield][Shield], 30 with [spear][Spear]; 2 Gundabad Trolls with crushing [club][Club]; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
 **LAYOUT**
 
@@ -440,10 +440,10 @@ Beorn enters the board as a passenger on the back of any of the Great Eagles (no
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman with armour; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar;
-Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with shield, 12 with spear, 12 with bow; 24 Mirkwood Elves: 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
+**Good:** Bard the Bowman with [armour][Armour]; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar;
+Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with [shield][Shield], 12 with [spear][Spear], 12 with [bow][Bow]; 24 Mirkwood Elves: 8 with [shield][Shield], 8 with [Elven-made] glaive, 8 with Elf [bow][Bow].
 
-**Evil:** 4 Gundabad Orc Captains with shield; 48 Gundabad Orcs: 24 with shield, 24 with spear; 4 Ogres.
+**Evil:** 4 Gundabad Orc Captains with [shield][Shield]; 48 Gundabad Orcs: 24 with [shield][Shield], 24 with [spear][Spear]; 4 Ogres.
 
 **LAYOUT**
 

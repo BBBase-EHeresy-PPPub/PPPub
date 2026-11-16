@@ -241,7 +241,7 @@ If Legolas has fewer kills than Gimli, his shoot value becomes 2+.
 **WARGEAR**
 
 - [Dagger]
-- The One Ring
+- [The One Ring]
 
 **HEROIC ACTIONS**
 

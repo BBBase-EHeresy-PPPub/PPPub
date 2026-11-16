@@ -475,7 +475,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 - Mithril Coat - 15 points
 - Sting - 5 points
-- The Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 

@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Rangers of Gondor: 8 with no additional wargear, 4 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
+**Evil:** 3 Mordor Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Mordor Orcs: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -41,9 +41,9 @@ Any Evil model can destroy an objective by being in base contact with it during 
 
 **PARTICIPANTS**
 
-**Good:** Boromir, Captain of the White Tower, with the Banner of Minas Tirith; Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+**Good:** Boromir, Captain of the White Tower, with the [Banner](../rules_manual/weapons_and_wargear.md#banners) of Minas Tirith; Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Rangers of Gondor: 8 with no additional wargear, 4 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** 3 Mordor Orc Captains with shield; 36 Mordor Orcs: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 1 Mordor Troll.
+**Evil:** 3 Mordor Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Mordor Orcs: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -77,9 +77,9 @@ In a turn in which Boromir or Faramir Charges into combat, all Gondor Warrior mo
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional wargear, 8 with spear.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional wargear, 8 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
+**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with [bow](../rules_manual/weapons_and_wargear.md#bows); 24 Haradrim Warriors with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -99,7 +99,7 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 * **Unseen Hunters**
 
-At the start of the game, before the first Priority is rolled for, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special rule and may re-roll any 1s To Wound when making a shooting attack.
+At the start of the game, before the first Priority is rolled for, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the [Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen) special rule and may re-roll any 1s To Wound when making a shooting attack.
 
 ![](../media/scenarios/gondor_at_war/ambush_in_ithilien.jpg){ width=500 height=500 }
 
@@ -109,9 +109,9 @@ At the start of the game, before the first Priority is rolled for, each Good mod
 
 **PARTICIPANTS**
 
-**Good:** Angbor the Fearless; 24 Clansmen of Lamedon.
+**Good:** Angbor the [Fearless](../rules_manual/special_rules.md#fearless); 24 Clansmen of Lamedon.
 
-**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 24 Corsairs of Umbar: 8 with shield, 8 with spear, 8 with bow; 6 Corsair Arbalesters; 6 Corsair Reavers.
+**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 24 Corsairs of Umbar: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Corsair Arbalesters; 6 Corsair Reavers.
 
 **LAYOUT**
 
@@ -135,7 +135,7 @@ The five selected buildings are the targets that the Corsairs intend to set abla
 
 * **Flaming Arrows**
 
-Corsair models may shoot at any of the selected buildings as if they were enemy models, without taking In The Way tests for intervening models. Any building that is wounded by an arrow or crossbow bolt will immediately be set alight. Buildings count as having Defence 8.
+Corsair models may shoot at any of the selected buildings as if they were enemy models, without taking In The Way tests for intervening models. Any building that is wounded by an arrow or [crossbow](../rules_manual/weapons_and_wargear.md#crossbows) bolt will immediately be set alight. Buildings count as having Defence 8.
 
 * **Put the Fires Out!**
 
@@ -149,9 +149,9 @@ Any Good model that ends its move in base contact with a building that is on fir
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Rangers of Gondor: 8 with no additional wargear, 4 with spear.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Rangers of Gondor: 8 with no additional wargear, 4 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -183,9 +183,9 @@ At the start of each turn, the Evil player may select a single Good Warrior and 
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow on horse; Gandalf the White on Shadowfax; 12 Knights of Minas Tirith with shield.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows) on [horse](../rules_manual/cavalry.md#horse); Gandalf the White on Shadowfax; 12 Knights of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** 3 Ringwraiths on Fell Beast, each with 2 Might, 14 Will and 2 Fate.
+**Evil:** 3 Ringwraiths on [Fell Beast](../rules_manual/cavalry.md#fell-beast), each with 2 Might, 14 Will and 2 Fate.
 
 **LAYOUT**
 
@@ -219,9 +219,9 @@ At the end of the first Evil Move phase, the Evil player may move all of their m
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow on horse; 12 Knights of Minas Tirith with shield.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows) on [horse](../rules_manual/cavalry.md#horse); 12 Knights of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** Gothmog, Lieutenant of Sauron; 12 Orc Trackers; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
+**Evil:** Gothmog, Lieutenant of Sauron; 12 Orc Trackers; 12 Morannon Orcs: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -241,11 +241,11 @@ This battle continues until one force is wiped out, at which point their opponen
 
 * **Volley Fire**
 
-Any Orc Tracker can choose to shoot their Orc bow at a target up to 36" away, rather than the usual 18". However, any Orc Tracker that targets an enemy model over 18" away will only hit on the roll of a 6.
+Any Orc Tracker can choose to shoot their Orc [bow](../rules_manual/weapons_and_wargear.md#bows) at a target up to 36" away, rather than the usual 18". However, any Orc Tracker that targets an enemy model over 18" away will only hit on the roll of a 6.
 
 * **Lethal Shot**
 
-Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an enemy model within 12".
+Orc Trackers gain a bonus of +1 To Wound when firing their Orc [bow](../rules_manual/weapons_and_wargear.md#bows) against an enemy model within 12".
 
 > **Designer's Notes:** *On paper, this Scenario may seem far more in favor of the Evil player, and the fact is that it is. In the films, Faramir and his Knights don't even get close to Osgiliath before they are peppered by Orc arrows - hopefully in this Scenario the Good player will have a bit more luck!*
 
@@ -257,9 +257,9 @@ Orc Trackers gain a bonus of +1 To Wound when firing their Orc bow against an en
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; Harbarad with Banner of Arwen Evenstar; Elladan & Elrohir; The King of the Dead; 2 Heralds of the Dead; Angbor the Fearless; 20 Warriors of the Dead; 12 Clansmen of Lamedon.
+**Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; Harbarad with [Banner](../rules_manual/weapons_and_wargear.md#banners) of Arwen Evenstar; Elladan & Elrohir; The King of the Dead; 2 Heralds of the Dead; Angbor the [Fearless](../rules_manual/special_rules.md#fearless); 20 Warriors of the Dead; 12 Clansmen of Lamedon.
 
-**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 2 Corsair Captains; 2 Corsair Bo'suns; 36 Corsairs of Umbar: 12 with shield, 12 with spear, 12 with bow; 12 Corsair Arbalesters; 12 Corsair Reavers.
+**Evil:** Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Umbar; 2 Corsair Captains; 2 Corsair Bo'suns; 36 Corsairs of Umbar: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Corsair Arbalesters; 12 Corsair Reavers.
 
 **LAYOUT**
 
@@ -291,9 +291,9 @@ Corsair models within 6" of the King of the Dead suffer a -1 penalty to all Cour
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the White; Peregrin Took, Guard of the Citadel; Irolas, Captain of the Guard; Beregond; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
+**Good:** Gandalf the White; Peregrin Took, Guard of the Citadel; Irolas, Captain of the Guard; Beregond; 24 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** Zagdûsh, Orc Captain; 2 Orc Captains with shield; 36 Mordor Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon.
+**Evil:** Zagdûsh, Orc Captain; 2 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Mordor Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons).
 
 **LAYOUT**
 
@@ -313,7 +313,7 @@ The Good player wins if, at the end of any turn, they have slain a total of 30 O
 
 * **The White Wizard**
 
-Gandalf must always Charge if he is able to do so. Additionally, on a turn in which Gandalf Charges, friendly Gondor Warrior models within 12" of him will count as being in range of a banner until the end of the turn.
+Gandalf must always Charge if he is able to do so. Additionally, on a turn in which Gandalf Charges, friendly Gondor Warrior models within 12" of him will count as being in range of a [banner](../rules_manual/weapons_and_wargear.md#banners) until the end of the turn.
 
 * **The Hordes of Mordor**
 
@@ -331,9 +331,9 @@ The eastern edge of the walls of Minas Tirith are lined with battlements that ca
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the White on Shadowfax; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; Beregond; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
+**Good:** Gandalf the White on Shadowfax; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; Beregond; 36 Warriors of Minas Tirith: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
+**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; 2 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear; 3 Mordor Trolls.
 
 **LAYOUT**
 
@@ -367,9 +367,9 @@ Good models do not have to take Courage tests to Charge a Mordor Troll.
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear & shield, 12 with bow.
+**Good:** Gandalf the White on Shadowfax; Peregrin Took, Guard of the Citadel; Húrin the Tall, Warden of the Keys; Ingold, Warden of the Rammas Echor; Irolas, Captain of the Guard; 36 Warriors of Minas Tirith: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 3 Mordor Trolls.
+**Evil:** Goroth, Captain of the Morannon; Zagdûsh, Orc Captain; Morannon Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear; 3 Mordor Trolls.
 
 **LAYOUT**
 
@@ -389,7 +389,7 @@ The game lasts until the end of a turn when either Pippin or Gandalf are removed
 
 * **Pippin**
 
-Pippin counts as wearing an Elven cloak. Additionally, any Evil model that wishes to Charge Pippin must first roll a D6. On a roll of a natural 6, they may Charge as normal. On a 1-5, the model may not Charge Pippin, but may Move as normal, even charging another enemy, if they wish.
+Pippin counts as wearing an [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks). Additionally, any Evil model that wishes to Charge Pippin must first roll a D6. On a roll of a natural 6, they may Charge as normal. On a 1-5, the model may not Charge Pippin, but may Move as normal, even charging another enemy, if they wish.
 
 * **Gandalf**
 
@@ -403,7 +403,7 @@ If, during the End phase of any turn, Pippin and Gandalf are in base contact and
 
 **SET-UP**
 
-For this mini-game, you will require a deck of ordinary playing cards, Gandalf the White, Pippin, and the Witch-king of Angmar. Separate the cards into the four suits and then give the Diamonds to the Good player and the Spades to the Evil player. Next, lay out the Hearts as shown below. Finally, shuffle the Clubs and place them in a pile face-down.
+For this mini-game, you will require a deck of ordinary playing cards, Gandalf the White, Pippin, and the Witch-king of Angmar. Separate the cards into the four suits and then give the Diamonds to the Good player and the Spades to the Evil player. Next, lay out the Hearts as shown below. Finally, shuffle the [Clubs](../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs) and place them in a pile face-down.
 
 The Good player places Gandalf on the Ace of Hearts, then the Evil player places the Witch-king on the King of Hearts.
 
@@ -419,7 +419,7 @@ At the beginning of each turn, both players simultaneously play one card from th
 
 The Evil player then follows the same process with the Witch-king.
 
-After the Evil player has finished their turn, the Good player then flips over the top card from the Clubs deck and places Pippin on the card on the grid with the corresponding number. Note that when Pippin moves, he does not apply the effects of any card.
+After the Evil player has finished their turn, the Good player then flips over the top card from the [Clubs](../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs) deck and places Pippin on the card on the grid with the corresponding number. Note that when Pippin moves, he does not apply the effects of any card.
 
 The turn then ends and the next turn begins.
 
@@ -427,7 +427,7 @@ The turn then ends and the next turn begins.
 
 - If, at any point, Gandalf and the Witch-king are on the same card, and Pippin is not also on the same card, Gandalf immediately loses half of his remaining Power tokens.
 - If, at any point, Gandalf, Pippin, and the Witch-king are all on the same card, the Witch-king immediately loses half of his Power tokens.
-- If, at the end of any turn, Pippin and the Witch-king are on the same card, and Gandalf is not also on the same card, Pippin is slain and is removed from the game. Players no longer flip over a card from the Clubs deck.
+- If, at the end of any turn, Pippin and the Witch-king are on the same card, and Gandalf is not also on the same card, Pippin is slain and is removed from the game. Players no longer flip over a card from the [Clubs](../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs) deck.
 
 **CARD EFFECTS TABLE**
 
@@ -455,9 +455,9 @@ The turn then ends and the next turn begins.
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan, with heavy armour, shield, and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield, and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse and Royal Standard of Rohan; Déorwine, Chief of the King's Knights; Elfhelm, Captain of Rohan, with horse; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+**Good:** Théoden, King of Rohan, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields), and armoured horse; Éomer, Marshall of the Riddermark, with [armoured horse](../rules_manual/cavalry.md#armoured-horse), [shield](../rules_manual/weapons_and_wargear.md#shields), and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); Dernhelm; Gamling, Captain of Rohan, with [horse](../rules_manual/cavalry.md#horse) and Royal Standard of Rohan; Déorwine, Chief of the King's Knights; Elfhelm, Captain of Rohan, with [horse](../rules_manual/cavalry.md#horse); 24 Riders of Rohan: 16 with no additional wargear and 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
 
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -501,7 +501,7 @@ The board represents the Houses of the Dead and the long corridor that leads to 
 
 **STARTING POSITIONS**
 
-The Evil player deploys Denethor and Faramir atop the pyre; Faramir starts the game Prone. The four Citadel Guard start anywhere within 3" of the pyre. The Good player deploys Beregond in the center of the board and Gandalf the White on Shadowfax touching the center of the northern board edge. Pippin starts the game as a passenger on Shadowfax.
+The Evil player deploys Denethor and Faramir atop the pyre; Faramir starts the game [Prone](../rules_manual/move_phase.md#prone-models). The four Citadel Guard start anywhere within 3" of the pyre. The Good player deploys Beregond in the center of the board and Gandalf the White on Shadowfax touching the center of the northern board edge. Pippin starts the game as a passenger on Shadowfax.
 
 **OBJECTIVES**
 
@@ -513,11 +513,11 @@ The game lasts for eight turns. If, at the end of eight turns, Faramir is either
 
 * **Faramir**
 
-Faramir is unconscious and therefore does not act as a normal model. Instead, he is treated as a Heavy Object that can be moved by another model. Any Good model that is in base contact with the pyre can remove Faramir from its smoldering kindling. However, they cannot move any further that turn. Any Evil model that is carrying Faramir and is in base contact with the pyre may place him Prone atop the pyre - however, they cannot move any further that turn.
+Faramir is unconscious and therefore does not act as a normal model. Instead, he is treated as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects) that can be moved by another model. Any Good model that is in base contact with the pyre can remove Faramir from its smoldering kindling. However, they cannot move any further that turn. Any Evil model that is carrying Faramir and is in base contact with the pyre may place him [Prone](../rules_manual/move_phase.md#prone-models) atop the pyre - however, they cannot move any further that turn.
 
 * **The White Wizard**
 
-Gandalf does not have his Staff of Power in this Scenario, and begins the game with only a single point of Might, Will, and Fate.
+Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power) in this Scenario, and begins the game with only a single point of Might, Will, and Fate.
 
 * **Sacred Ground**
 
@@ -531,7 +531,7 @@ Good models may not make shooting attacks and may not make Strikes if they win a
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshall of the Riddermark, with armoured horse, shield and throwing spears; Dernhelm; Gamling, Captain of Rohan, with horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+**Good:** Théoden, King of Rohan, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields) and armoured horse; Éomer, Marshall of the Riddermark, with [armoured horse](../rules_manual/cavalry.md#armoured-horse), [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); Dernhelm; Gamling, Captain of Rohan, with [horse](../rules_manual/cavalry.md#horse); Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
 
 **Evil:** The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah; 2 War Mûmaks of Harad with Mahûd Beastmaster and 12 Haradrim Warriors in the Howdah.
 
@@ -567,9 +567,9 @@ If the Mûmak War Leader is slain, the best result the Evil player can achieve i
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with throwing spears.
+**Good:** Théoden, King of Rohan, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields) and armoured horse; Déorwine, Chief of the King's Knights; 24 Riders of Rohan: 16 with no additional wargear and 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
 
-**Evil:** Suladân the Serpent Lord on armoured horse; Râza, Fang of the Serpent; Haradrim Captain; 12 Serpent Riders; 24 Haradrim Warriors: 12 with bow, 12 with spear.
+**Evil:** Suladân the Serpent Lord on [armoured horse](../rules_manual/cavalry.md#armoured-horse); Râza, Fang of the Serpent; Haradrim Captain; 12 Serpent Riders; 24 Haradrim Warriors: 12 with [bow](../rules_manual/weapons_and_wargear.md#bows), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -601,9 +601,9 @@ Râza may select two targets for his The Serpent's Weapon special rule, rather t
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; 12 Riders of Rohan: 8 with no additional wargear and 4 with throwing spears.
+**Good:** Théoden, King of Rohan, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields) and armoured horse; 12 Riders of Rohan: 8 with no additional wargear and 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
 
-**Evil:** The Witch-king of Angmar with Crown of Morgul, Fell Beast, 2 Might, 14 Will and 2 Fate; Morannon Orc Captain with shield; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
+**Evil:** The Witch-king of Angmar with Crown of Morgul, Fell Beast, 2 Might, 14 Will and 2 Fate; Morannon Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Morannon Orcs: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -647,9 +647,9 @@ The Good player wins if they can slay the Witch-king. The Evil player wins if th
 
 **GAME TURN**
 
-At the beginning of each turn, the Evil player places one card from their hand face-down - this is where the Witch-king is attacking with his flail. The Good player then rolls a D6 and moves Éowyn around the board in either direction that number of cards; note that she must move the full amount in a single direction.
+At the beginning of each turn, the Evil player places one card from their hand face-down - this is where the Witch-king is attacking with his [flail](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips). The Good player then rolls a D6 and moves Éowyn around the board in either direction that number of cards; note that she must move the full amount in a single direction.
 
-The Evil player then reveals their card and places a token on the corresponding card to show where the Witch-king has attacked with his flail - it also looks better if you rotate the Witch-king to face the direction he attacked. The card is then discarded. In the unlikely event that the Evil player has no more cards remaining, collect the discarded cards and continue the game.
+The Evil player then reveals their card and places a token on the corresponding card to show where the Witch-king has attacked with his [flail](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips) - it also looks better if you rotate the Witch-king to face the direction he attacked. The card is then discarded. In the unlikely event that the Evil player has no more cards remaining, collect the discarded cards and continue the game.
 
 If the Witch-king has attacked the same card as where Éowyn is standing, Éowyn suffers a wound. If the Witch-king has attacked a card that is adjacent to Éowyn, roll a D6. On a 4+, she suffers a wound. The Witch-king's token remains in place until he next attacks. Neither Éowyn nor Merry may move through the token - this may force Éowyn to move in a certain direction if she cannot move her full amount in a particular direction.
 
@@ -671,9 +671,9 @@ If the Witch-king suffers three Wounds then Merry has managed to bring the Lord 
 
 **PARTICIPANTS**
 
-**Good:** Prince Imrahil of Dol Amroth with lance and armored horse; Forlong the Fat; Húrin the Tall, Warden of the Keys with horse; 12 Knights of Dol Amroth with armored horse and lance; 12 Axemen of Lossarnach.
+**Good:** Prince Imrahil of Dol Amroth with [lance](../rules_manual/weapons_and_wargear.md#lances) and armored horse; Forlong the Fat; Húrin the Tall, Warden of the Keys with [horse](../rules_manual/cavalry.md#horse); 12 Knights of Dol Amroth with armored horse and [lance](../rules_manual/weapons_and_wargear.md#lances); 12 Axemen of Lossarnach.
 
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Morannon Orc Captain with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Morannon Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear; 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -697,7 +697,7 @@ Each time an Orc Warrior is slain, keep it to one side. At the end of each Evil 
 
 * **The Prince's Duty**
 
-Prince Imrahil may call a Heroic Move at the start of each Move phase without spending Might; however, Imrahil must always Charge if able to do so.
+Prince Imrahil may call a [Heroic Move](../rules_manual/heroes.md#heroic-move-move-phase) at the start of each Move phase without spending Might; however, Imrahil must always Charge if able to do so.
 
 ![](../media/scenarios/gondor_at_war/the_ride_of_the_fiefdoms.jpg){ width=500 height=500 }
 
@@ -707,9 +707,9 @@ Prince Imrahil may call a Heroic Move at the start of each Move phase without sp
 
 **PARTICIPANTS**
 
-**Good:** Éomer, Marshal of the Riddermark; Prince Imrahil of Dol Amroth with lance and armoured horse; Húrin the Tall, Warden of the Keys with horse; 6 Warriors of Rohan with shield; 12 Knights of Dol Amroth with lance and armoured horse.
+**Good:** Éomer, Marshal of the Riddermark; Prince Imrahil of Dol Amroth with [lance](../rules_manual/weapons_and_wargear.md#lances) and armoured horse; Húrin the Tall, Warden of the Keys with [horse](../rules_manual/cavalry.md#horse); 6 Warriors of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Knights of Dol Amroth with [lance](../rules_manual/weapons_and_wargear.md#lances) and armoured horse.
 
-**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear; 1 Mordor Troll.
+**Evil:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear; 1 Mordor Troll.
 
 **LAYOUT**
 
@@ -743,9 +743,9 @@ At the end of the Good player's first Move phase, the rest of the Good models mo
 
 **PARTICIPANTS**
 
-**Good:** Forlong the Fat; Duinhir; Ingold, Warden of the Rammas Echor; Déorwine, Chief of the King's Knights; 12 Axemen of Lossarnach; 12 Blackroot Vale Archers; 12 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+**Good:** Forlong the Fat; Duinhir; Ingold, Warden of the Rammas Echor; Déorwine, Chief of the King's Knights; 12 Axemen of Lossarnach; 12 Blackroot Vale Archers; 12 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Warriors of Rohan: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** Goroth, Captain of the Morannon; Morannon Orc Captain with shield; War Mûmak of Harad with 12 Haradrim Warriors: 6 with bow, 6 with spear; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+**Evil:** Goroth, Captain of the Morannon; Morannon Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); War Mûmak of Harad with 12 Haradrim Warriors: 6 with [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -781,7 +781,7 @@ Each time Goroth slays a Good Hero, his Might is restored to its starting value.
 
 **Good:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf; Gimli, son of Glóin; The King of the Dead; 20 Warriors of the Dead; 6 Riders of the Dead.
 
-**Evil:** Guritz, Master of the Reserves; 3 Morannon Orc Captains with shield; 36 Morannon Orcs: 9 with shield, 9 with spear, 9 with spear & shield, 9 with no additional wargear.
+**Evil:** Guritz, Master of the Reserves; 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orcs: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears), 9 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with no additional wargear.
 
 **LAYOUT**
 
@@ -803,9 +803,9 @@ The Good player wins if Aragorn and either Legolas or Gimli can move off of the 
 
 * **The Heir of Isildur**
 
-Good models within 6" of Aragorn count as being in range of a banner.
+Good models within 6" of Aragorn count as being in range of a [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-> **Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the banner of Arwen Evenstar, Angbor the Fearless, 12 Rangers of the North, and 12 Clansmen of Lamedon.*
+> **Designer's Notes:** *This Scenario depicts the scenes as they are shown in the movies. If you wish to play this Scenario as it appears in the books, simply swap the King of the Dead, the Warriors of the Dead, and the Riders of the Dead for Elladan & Elrohir, Halbarad with the [banner](../rules_manual/weapons_and_wargear.md#banners) of Arwen Evenstar, Angbor the [Fearless](../rules_manual/special_rules.md#fearless), 12 Rangers of the North, and 12 Clansmen of Lamedon.*
 
 ![](../media/scenarios/gondor_at_war/the_docks_of_harlond.jpg){ width=500 height=500 }
 
@@ -815,9 +815,9 @@ Good models within 6" of Aragorn count as being in range of a banner.
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with Andúril, Flame of the West; Gimli, son of Glóin; Éowyn, Shield Maiden of Rohan, with armour.
+**Good:** Aragorn - Strider with Andúril, Flame of the West; Gimli, son of Glóin; Éowyn, [Shield](../rules_manual/weapons_and_wargear.md#shields) Maiden of Rohan, with [armour](../rules_manual/weapons_and_wargear.md#armour).
 
-**Evil:** Gothmog, Lieutenant of Sauron; 12 Morannon Orcs: 3 with shield, 3 with spear, 3 with spear & shield, 3 with no additional wargear.
+**Evil:** Gothmog, Lieutenant of Sauron; 12 Morannon Orcs: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with no additional wargear.
 
 **LAYOUT**
 
@@ -837,7 +837,7 @@ The Good player wins immediately if Gothmog is slain. The Evil player wins immed
 
 * **The Walking Wounded**
 
-Éowyn starts the game in the Prone position. She may not stand up for any reason, even if she wins a Duel roll. Gothmog begins the game with only a single point of Might, Will, and Fate. Additionally, Gothmog's Move value is reduced to 3" for the duration of this Scenario.
+Éowyn starts the game in the [Prone](../rules_manual/move_phase.md#prone-models) position. She may not stand up for any reason, even if she wins a Duel roll. Gothmog begins the game with only a single point of Might, Will, and Fate. Additionally, Gothmog's Move value is reduced to 3" for the duration of this Scenario.
 
 * **Leave Her to Me!**
 
@@ -853,7 +853,7 @@ Gothmog is the only Evil model that may Charge Éowyn.
 
 **Good:** Legolas (obviously).
 
-**Evil:** 6 Haradrim Warriors with bow; 6 Haradrim Warriors with spear; 1 Haradrim Chieftain.
+**Evil:** 6 Haradrim Warriors with [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Haradrim Warriors with [spear](../rules_manual/weapons_and_wargear.md#spears); 1 Haradrim Chieftain.
 
 Legolas starts at the point on the Howdah as shown on the diagram. The Chieftain is placed on the very top of the Howdah, whilst the rest of the Haradrim may be deployed anywhere else on the Howdah.
 
@@ -863,7 +863,7 @@ For this mini-game, we will not be using the normal Strategy Battle Game rules, 
 
 **Action Points (AP)** - These are used by the models to complete the following actions: moving, shooting, or fighting in combat.
 
-**Shoot (S)** - How good a model is at using their bow, or other ranged weaponry. This shows the score on a D6 that a model needs to hit - so the lower, the better!
+**Shoot (S)** - How good a model is at using their [bow](../rules_manual/weapons_and_wargear.md#bows), or other ranged weaponry. This shows the score on a D6 that a model needs to hit - so the lower, the better!
 
 **Combat (C)** - The number of D6s a model will roll when fighting in combat.
 
@@ -901,11 +901,11 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 
 **RANGED WEAPON:**
 
-**Elf Bow**: Score to Wound - 3+
+**Elf [Bow](../rules_manual/weapons_and_wargear.md#bows)**: Score to Wound - 3+
 
 **COMBAT WEAPON:**
 
-**Daggers**: Score to Wound - 4+
+**[Daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords)**: Score to Wound - 4+
 
 **ABILITIES:**
 
@@ -919,15 +919,15 @@ Any model may fight an enemy that is within 1" and on the same level of the Howd
 
 **RANGED WEAPON:**
 
-**Bow**: Score to Wound - 5+
+**[Bow](../rules_manual/weapons_and_wargear.md#bows)**: Score to Wound - 5+
 
 **COMBAT WEAPON:**
 
-**Dagger**: Score to Wound - 6+
+**[Dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords)**: Score to Wound - 6+
 
 **ABILITIES:**
 
-**Poisoned Bow:** This model may re-roll To Wound rolls of a 1 when shooting.
+**Poisoned [Bow](../rules_manual/weapons_and_wargear.md#bows):** This model may re-roll To Wound rolls of a 1 when shooting.
 
 * **HARADRIM WITH SPEAR**
 
@@ -941,11 +941,11 @@ None
 
 **COMBAT WEAPON:**
 
-Spear: Score to Wound - 5+
+[Spear](../rules_manual/weapons_and_wargear.md#spears): Score to Wound - 5+
 
 **ABILITIES:**
 
-**Poisoned Spear:** This model may re-roll To Wound rolls of a 1 when fighting.
+**Poisoned [Spear](../rules_manual/weapons_and_wargear.md#spears):** This model may re-roll To Wound rolls of a 1 when fighting.
 
 * **HARADRIM CHIEFTAIN**
 
@@ -959,7 +959,7 @@ None
 
 **COMBAT WEAPON:**
 
-Spear: Score to Wound - 5+
+[Spear](../rules_manual/weapons_and_wargear.md#spears): Score to Wound - 5+
 
 **ABILITIES:**
 
@@ -981,9 +981,9 @@ Once one player has played a game as Legolas, we would suggest swapping over and
 
 **PARTICIPANTS**
 
-**Good:** The King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 14 with shield, 6 with spear.
+**Good:** The King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 14 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** 2 War Mûmakil of Harad, each with 12 Haradrim Warriors: 6 with bow, 6 with spear; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with spear & shield, 6 with no additional wargear.
+**Evil:** 2 War Mûmakil of Harad, each with 12 Haradrim Warriors: 6 with [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears); 24 Morannon Orcs: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with no additional wargear.
 
 **LAYOUT**
 
@@ -1003,7 +1003,7 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 * **March of the Dead**
 
-The King of the Dead may call a Heroic Combat each turn without expending Might to do so.
+The King of the Dead may call a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) each turn without expending Might to do so.
 
 ![](../media/scenarios/gondor_at_war/the_dead_arrive.jpg){ width=500 height=500 }
 
@@ -1013,17 +1013,17 @@ The King of the Dead may call a Heroic Combat each turn without expending Might 
 
 **PARTICIPANTS**
 
-- **Gondor:** Prince Imrahil of Dol Amroth with lance and armoured horse; Forlong the Fat; Duinhir; Húrin the Tall, Warden of the Keys on horse; Ingold, Warden of the Rammas Echor; 12 Knights of Dol Amroth on armoured horse with lance; 12 Axemen of Lossarnach; Blackroot Vale Archers; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow.
+- **Gondor:** Prince Imrahil of Dol Amroth with [lance](../rules_manual/weapons_and_wargear.md#lances) and armoured horse; Forlong the Fat; Duinhir; Húrin the Tall, Warden of the Keys on [horse](../rules_manual/cavalry.md#horse); Ingold, Warden of the Rammas Echor; 12 Knights of Dol Amroth on [armoured horse](../rules_manual/cavalry.md#armoured-horse) with [lance](../rules_manual/weapons_and_wargear.md#lances); 12 Axemen of Lossarnach; Blackroot Vale Archers; 24 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-- **Rohan:** Théoden, King of Rohan, with heavy armour, shield and armoured horse; Éomer, Marshal of the Riddermark, with throwing spears, shield and armoured horse; Dernhelm; Gamling, Captain of Rohan, with Royal Standard of Rohan and horse; Déorwine, Chief of the King's Knights, on horse; Elfhelm, Captain of Rohan, on horse; 36 Riders of Rohan.
+- **Rohan:** Théoden, King of Rohan, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields) and armoured horse; Éomer, Marshal of the Riddermark, with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), [shield](../rules_manual/weapons_and_wargear.md#shields) and armoured horse; Dernhelm; Gamling, Captain of Rohan, with Royal Standard of Rohan and horse; Déorwine, Chief of the King's Knights, on [horse](../rules_manual/cavalry.md#horse); Elfhelm, Captain of Rohan, on [horse](../rules_manual/cavalry.md#horse); 36 Riders of Rohan.
 
-- **Grey Company:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf with armour; Gimli, son of Glóin; Elladan & Elrohir with heavy armour; Halbarad with the banner of Arwen Evenstar; 12 Rangers of the North; Angbor the Fearless; The King of the Dead; 2 Heralds of the Dead with Pennant of the Dead; 12 Clansmen of Lamedon; 20 Warriors of the Dead.
+- **Grey Company:** Aragorn - Strider with Andúril, Flame of the West; Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour); Gimli, son of Glóin; Elladan & Elrohir with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour); Halbarad with the [banner](../rules_manual/weapons_and_wargear.md#banners) of Arwen Evenstar; 12 Rangers of the North; Angbor the [Fearless](../rules_manual/special_rules.md#fearless); The King of the Dead; 2 Heralds of the Dead with Pennant of the Dead; 12 Clansmen of Lamedon; 20 Warriors of the Dead.
 
-- **Mordor:** The Witch-king of Angmar with full Might, Will and Fate, Crown of Morgul, Flail and Fell Beast; Gothmog, Lieutenant of Sauron, with Warg; Gothmog's Enforcer; Goroth, Captain of the Morannon; Guritz, Master of the Reserves; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear & shield, 12 with no additional wargear; 2 Mordor Trolls.
+- **Mordor:** The Witch-king of Angmar with full Might, Will and Fate, Crown of Morgul, [Flail](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips) and Fell Beast; Gothmog, Lieutenant of Sauron, with [Warg](../rules_manual/cavalry.md#warg); Gothmog's Enforcer; Goroth, Captain of the Morannon; Guritz, Master of the Reserves; 48 Morannon Orcs: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with no additional wargear; 2 Mordor Trolls.
 
-- **Harad:** Suladân the Serpent Lord on horse; The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah (this is an exception to the normal rules for what may be included in the Mûmak War Leader's Howdah); 2 War Mûmaks of Harad each with 12 Haradrim Warriors in the Howdah; The Golden King of Abrakhân; Râza, Fang of the Serpent; 12 Serpent Riders; 12 Haradrim Raiders; 12 Abrakhân Guard; 12 Mahûd Raiders.
+- **Harad:** Suladân the Serpent Lord on [horse](../rules_manual/cavalry.md#horse); The Mûmak War Leader, with 12 Haradrim Warriors in the Howdah (this is an exception to the normal rules for what may be included in the Mûmak War Leader's Howdah); 2 War Mûmaks of Harad each with 12 Haradrim Warriors in the Howdah; The Golden King of Abrakhân; Râza, Fang of the Serpent; 12 Serpent Riders; 12 Haradrim Raiders; 12 Abrakhân Guard; 12 Mahûd Raiders.
 
-- **Easterlings & Khand:** Amdûr, Lord of Blades, on armoured horse; 2 Easterling Captains with shield; Khandish King on Chariot; Khandish Chieftain; 12 Easterling Kataphrakts; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield; 9 Khandish Warriors: 6 with two-handed axe, 3 with bow; 6 Khandish Horsemen; 2 Khandish Charioteers.
+- **Easterlings & Khand:** Amdûr, Lord of Blades, on [armoured horse](../rules_manual/cavalry.md#armoured-horse); 2 Easterling Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); Khandish King on Chariot; Khandish Chieftain; 12 Easterling Kataphrakts; 20 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 4 with [pike](../rules_manual/weapons_and_wargear.md#pikes) & [shield](../rules_manual/weapons_and_wargear.md#shields); 9 Khandish Warriors: 6 with [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks), 3 with [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Khandish Horsemen; 2 Khandish Charioteers.
 
 *Whilst the previous Scenarios break the epic Battle of Pelennor Fields down into a series of bite-size games, each focusing on a particular event, this Scenario tackles the whole battle at once! If you are going to play this game, we suggest gathering a group of friends, plenty of tea and seed cake, and taking the whole weekend to play out the most important battle of the Third Age!*
 
@@ -1053,7 +1053,7 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age and has ma
 
 * **Charge of the Rohirrim**
 
-Any Rohan model that charged in the Move phase may declare a Heroic Combat in the ensuing Fight phase without spending Might. This may be done by both Warrior models and Hero models.
+Any Rohan model that charged in the Move phase may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) in the ensuing Fight phase without spending Might. This may be done by both Warrior models and Hero models.
 
 * **Dol Amroth for Gondor!**
 
@@ -1077,9 +1077,9 @@ At the end of the Evil player's seventh Move phase, the Evil player moves the Wi
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Éomer, Marshal of the Riddermark; Meriadoc, Knight of the Mark; Peregrin, Guard of the Citadel; 24 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow; 24 Warriors of Rohan: 8 with shield, 8 with throwing spear & shield, 8 with bow.
+**Good:** Aragorn - Elessar; Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour); Gimli, son of Glóin; Gandalf the White; Éomer, Marshal of the Riddermark; Meriadoc, Knight of the Mark; Peregrin, Guard of the Citadel; 24 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows); 24 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; 3 Morannon Orc Captains with shield; 48 Morannon Orcs: 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear.
+**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on [armoured horse](../rules_manual/cavalry.md#armoured-horse); 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 48 Morannon Orcs: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with no additional wargear.
 
 **LAYOUT**
 
@@ -1091,7 +1091,7 @@ The Good player deploys all of their models within 6" of the center of the board
 
 **OBJECTIVES**
 
-The Men of the West are fighting to buy time; not for themselves but for Frodo. If they can hold the Mordor forces at bay for long enough, then Frodo can destroy the Ring.
+The Men of the West are fighting to buy time; not for themselves but for Frodo. If they can hold the Mordor forces at bay for long enough, then Frodo can destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring).
 
 The game lasts for 15 turns. If, at the end of the fifteenth turn, there are 10 or more Good models left alive, then the Good player is the winner. If there are less than 10 models left alive then the Evil player is the winner. If Aragorn is still alive, the best result the Evil player can achieve is a draw.
 
@@ -1099,7 +1099,7 @@ The game lasts for 15 turns. If, at the end of the fifteenth turn, there are 10 
 
 * **Gandalf's Staff**
 
-Gandalf does not have his Staff of Power, and therefore does not gain a free point of Will each turn.
+Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and therefore does not gain a free point of Will each turn.
 
 * **Teeming Hordes**
 
@@ -1107,7 +1107,7 @@ Each time a Mordor Orc model is slain, keep it to one side. At the end of each E
 
 * **Greatest of the Trolls**
 
-The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will, and Fate.
+The Mordor Troll Chieftain gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule and an additional point of Might, Will, and Fate.
 
 * **The Hordes of Mordor**
 
@@ -1127,9 +1127,9 @@ Good models may not willingly move more than 12" away from the center of the boa
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Elessar; Legolas Greenleaf with armour; Gimli, son of Glóin; Gandalf the White; Peregrin Took, Guard of the Citadel; Beregond; Elladan & Elrohir; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear & shield, 8 with bow, 1 with banner.
+**Good:** Aragorn - Elessar; Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour); Gimli, son of Glóin; Gandalf the White; Peregrin Took, Guard of the Citadel; Beregond; Elladan & Elrohir; 25 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Evil:** Mordor Troll Chieftain; 2 Morannon Orc Captains with shield; 2 Haradrim Chieftains; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 24 Haradrim Warriors: 12 with bow, 12 with spear.
+**Evil:** Mordor Troll Chieftain; 2 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Haradrim Chieftains; 24 Morannon Orcs: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [shield](../rules_manual/weapons_and_wargear.md#shields) & [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with no additional wargear; 24 Haradrim Warriors: 12 with [bow](../rules_manual/weapons_and_wargear.md#bows), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -1149,11 +1149,11 @@ The game lasts until the end of a turn where the Good force has been reduced to 
 
 * **Gandalf's Staff**
 
-Gandalf does not have his Staff of Power, and therefore does not gain a free point of Will each turn.
+Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and therefore does not gain a free point of Will each turn.
 
 * **Inspiring Heraldry**
 
-The range of all Good banners is increased by 3".
+The range of all Good [banners](../rules_manual/weapons_and_wargear.md#banners) is increased by 3".
 
 ![](../media/scenarios/gondor_at_war/the_black_gate_the_left_hill.jpg){ width=500 height=500 }
 
@@ -1163,9 +1163,9 @@ The range of all Good banners is increased by 3".
 
 **PARTICIPANTS**
 
-**Good:** Prince Imrahil of Dol Amroth; Éomer, Marshal of the Riddermark; Captain of Dol Amroth; Captain of Rohan with shield; 12 Knights of Dol Amroth: 1 with banner; 13 Warriors of Rohan: 4 with shield, 4 with throwing spears, 4 with bow, 1 with banner.
+**Good:** Prince Imrahil of Dol Amroth; Éomer, Marshal of the Riddermark; Captain of Dol Amroth; Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Knights of Dol Amroth: 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 13 Warriors of Rohan: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Evil:** 2 Morannon Orc Captains with shield; 2 Easterling Captains with shield; 24 Morannon Orcs: 6 with shield, 6 with spear, 6 with shield & spear, 6 with no additional wargear; 20 Easterling Warriors: 8 with shield, 8 with bow, 4 with pike & shield.
+**Evil:** 2 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Easterling Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Morannon Orcs: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [shield](../rules_manual/weapons_and_wargear.md#shields) & [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with no additional wargear; 20 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 4 with [pike](../rules_manual/weapons_and_wargear.md#pikes) & [shield](../rules_manual/weapons_and_wargear.md#shields).
 
 **LAYOUT**
 
@@ -1185,7 +1185,7 @@ The game lasts until the end of a turn where the Good force has been reduced to 
 
 * **Inspiring Heraldry**
 
-The range of all Good banners is increased by 3".
+The range of all Good [banners](../rules_manual/weapons_and_wargear.md#banners) is increased by 3".
 
 > **Designer's Notes:** *To play this Scenario alongside The Black Gate: The Left Hill, place the two boards so that the southern board edge from The Black Gate: The Left Hill lines up with the northern board edge of The Black Gate: The Right Hill. This will form one 2'x4' board for the game to be played on. Models must deploy on the board section that they would normally deploy on, but after that they may move anywhere on the whole board if able. In terms of working out who has won the Scenario overall, treat them as two separate Scenarios (in which case it is a good idea to mark out which Morannon Orcs belong to which Scenario). If the Good side wins both Scenarios, then the Good player is the overall winner. If the Evil player wins both Scenarios, then the Evil player is the winner. If both sides win one Scenario each, the game is a draw.*
 

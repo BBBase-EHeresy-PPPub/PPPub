@@ -77,7 +77,7 @@ Elendil's [Stand Fast!] Is 12" rather than 6".
 
 - [Horse] - 10 points
 - [Shield] - 5 points
-- The Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 
@@ -89,7 +89,7 @@ This model gains the [Resistant to Magic] special rule whilst within 6" of Elend
 
 - **The Ring** `PASSIVE`
 
-If your force does not contain Elendil or Anarion, Isildur may carry The Ring
+If your force does not contain Elendil or Anarion, Isildur may carry [The One Ring]
 
 </div>
 

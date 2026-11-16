@@ -4,7 +4,7 @@
 
 **Good:** 8 Bree Villagers; 4 Hobbit Militia.
 
-**Evil:** Bill Ferny; 4 Ruffians; 2 Ruffians with whip; 3 Ruffians with bow.
+**Evil:** Bill Ferny; 4 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 3 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -30,7 +30,7 @@ The Bree Villagers use the following profile:
 |-----|---|---|---|---|---|---|
 | 6" | 1/5+ | 3 | 3 | 1 | 1 | 2 |
 
-Bree Villagers count as being armed with a dagger; however, they may not use Special Strikes.
+Bree Villagers count as being armed with a [dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords); however, they may not use Special Strikes.
 
 * **Bill Ferny's Revenge**
 
@@ -46,7 +46,7 @@ Bill Ferny must cause at least two casualties before the Evil player can win. If
 
 **Good:** Holfoot Bracegirdle, Shirriff-leader; Robin Smallburrow, Hobbit Shirriff; 8 Hobbit Shirriffs; 4 Hobbit Militia.
 
-**Evil:** Bill Ferny; Lotho Sackville-Baggins; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Bill Ferny; Lotho Sackville-Baggins; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -64,7 +64,7 @@ The game lasts for 12 turns. The Evil player wins if they can capture both Holfo
 
 * **Shirriff Leaders**
 
-The Ruffians must capture Holfoot and Robin to win the game. To do this, they will need to bind them in chains using their At 'em Lads special rule. Whilst bound, a Hobbit is treated as a Heavy Object. If either Holfoot or Robin are slain, then the game is a draw.
+The Ruffians must capture Holfoot and Robin to win the game. To do this, they will need to bind them in chains using their At 'em Lads special rule. Whilst bound, a Hobbit is treated as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects). If either Holfoot or Robin are slain, then the game is a draw.
 
 * **The Brandywine**
 
@@ -80,7 +80,7 @@ Hobbit models cannot attempt to swim across the Brandywine River.
 
 **Good:** Farmer Maggot with Grip, Fang, and Wolf.
 
-**Evil:** 2 Ruffians; 1 Ruffian with whip; 3 Ruffians with bow.
+**Evil:** 2 Ruffians; 1 Ruffian with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 3 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -106,7 +106,7 @@ Once the alarm has been raised, the Good player may roll a D6 at the start of ea
 
 * **A Stormy Night**
 
-Shooting attacks will only ever hit on the roll of a 6 in this Scenario. Additionally, Grip, Fang, and Wolf gain the Terror special rule.
+Shooting attacks will only ever hit on the roll of a 6 in this Scenario. Additionally, Grip, Fang, and Wolf gain the [Terror](../rules_manual/special_rules.md#terror) special rule.
 
 ![](../media/scenarios/scouring_of_the_shire/maggots_farm.jpg){ width=500 height=500 }
 
@@ -118,7 +118,7 @@ Shooting attacks will only ever hit on the roll of a 6 in this Scenario. Additio
 
 **Good:** 12 Hobbit Militia.
 
-**Evil:** Ted Sandyman; 8 Ruffians; 4 Ruffians with whip.
+**Evil:** Ted Sandyman; 8 Ruffians; 4 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips).
 
 **LAYOUT**
 
@@ -152,7 +152,7 @@ If, during the End phase of any turn, Ted Sandyman is in base contact with the d
 
 **Good:** Will Whitfoot, Mayor of Hobbiton; 12 Hobbit Militia.
 
-**Evil:** Sid Briarthorn, Ruffian Chief; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Sid Briarthorn, Ruffian Chief; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -174,7 +174,7 @@ The Good player wins if Will Whitfoot can escape the board via the southern boar
 
 The Ruffians must capture Will Whitfoot to win the game.
 
-To do this, they will need to bind him in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Will Whitfoot is treated as a Heavy Object. If Will Whitfoot is slain, then the game is a draw.
+To do this, they will need to bind him in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Will Whitfoot is treated as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects). If Will Whitfoot is slain, then the game is a draw.
 
 * **Ambush!**
 
@@ -190,7 +190,7 @@ Will Whitfoot may not move during the first turn of the game.
 
 **Good:** Lotho Sackville-Baggins; 8 Hobbit Militia.
 
-**Evil:** Worm; 6 Ruffians; 3 Ruffians with whip.
+**Evil:** Worm; 6 Ruffians; 3 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips).
 
 **LAYOUT**
 
@@ -214,7 +214,7 @@ Worm doesn't deploy as normal in this Scenario. Instead, the Evil player deploys
 
 * **Shadowed Figure**
 
-Worm gains the Stalk Unseen special rule and always counts as being concealed by a piece of terrain - even when he is in open ground.
+Worm gains the [Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen) special rule and always counts as being concealed by a piece of terrain - even when he is in open ground.
 
 * **Protect the Boss!**
 
@@ -230,7 +230,7 @@ Hobbit Militia must always Charge a Ruffian if able to do so.
 
 **Good:** Baldo Tulpenny; 12 Hobbit Militia; 8 Hobbit Archers.
 
-**Evil:** Rowan Thistlewood, Ruffian Enforcer; 12 Ruffians; 6 Ruffians with whip; 6 Ruffians with bow.
+**Evil:** Rowan Thistlewood, Ruffian Enforcer; 12 Ruffians; 6 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 6 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -268,7 +268,7 @@ Any Good model that ends its move in base contact with a Hobbit-hole that is on 
 
 **Good:** Hamfast 'Gaffer' Gamgee; 12 Hobbit Militia.
 
-**Evil:** Bill Ferny; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Bill Ferny; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -324,11 +324,11 @@ The game lasts until Folco Boffin leaves the board. The Good side wins if Folco 
 
 * **The Shirriffs**
 
-Whenever an 'Evil' model wins a Fight against a Good model, they will not make Strikes against them. Instead, when an 'Evil' model wins a fight, they will roll a single D6. On a 4+, they arrest the model they fought. Arrested models count as being affected by the Paralyse Magical Power and count as Heavy Objects if carried. If Folco is arrested, he may spend his Fate point to attempt to resist the effects of being Paralysed. Roll a D6. On a 4+, Folco is not arrested - this time...
+Whenever an 'Evil' model wins a Fight against a Good model, they will not make Strikes against them. Instead, when an 'Evil' model wins a fight, they will roll a single D6. On a 4+, they arrest the model they fought. Arrested models count as being affected by the [Paralyse](../rules_manual/magical_powers.md#paralyse) Magical Power and count as [Heavy Objects](../rules_manual/advanced_rules.md#heavy-objects) if carried. If Folco is arrested, he may spend his Fate point to attempt to resist the effects of being Paralysed. Roll a D6. On a 4+, Folco is not arrested - this time...
 
 * **Friends at Heart**
 
-Neither side may Throw Stones at each other in this Scenario. Additionally, if a Shirriff is removed as a casualty in the Scenario, it is probably better to assume they were sent packing by the other Hobbits rather than being slain.
+Neither side may [Throw Stones](../rules_manual/special_rules.md#throw-stones) at each other in this Scenario. Additionally, if a Shirriff is removed as a casualty in the Scenario, it is probably better to assume they were sent packing by the other Hobbits rather than being slain.
 
 ![](../media/scenarios/scouring_of_the_shire/arrest_of_folco_boffin.jpg){ width=500 height=500 }
 
@@ -340,7 +340,7 @@ Neither side may Throw Stones at each other in this Scenario. Additionally, if a
 
 **Good:** Baldo Tulpenny; Fredegar Bolger; 4 Tookish Hunters; 8 Hobbit Militia.
 
-**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -368,7 +368,7 @@ When setting up Baldo Tulpenny's Traps, no Trap marker may be placed within 6" o
 
 * **Thieves in the Night**
 
-Any Hobbit that is in base contact with the storehouse during the End phase of any turn automatically gains a Supply counter - this is a Light Object. Additionally, any Ruffian model that suffers its final Wound in combat with a Hobbit will not be slain but is instead knocked unconscious; they count as being under the effect of the Paralyse Magical Power.
+Any Hobbit that is in base contact with the storehouse during the End phase of any turn automatically gains a Supply counter - this is a [Light Object](../rules_manual/advanced_rules.md#light-objects). Additionally, any Ruffian model that suffers its final Wound in combat with a Hobbit will not be slain but is instead knocked unconscious; they count as being under the effect of the [Paralyse](../rules_manual/magical_powers.md#paralyse) Magical Power.
 
 * **Ill Met by Moonlight**
 
@@ -384,7 +384,7 @@ Models cannot be seen or targeted by shooting attacks at distances over 12" away
 
 **Good:** 5 Tookish Hunters.
 
-**Evil:** 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -414,7 +414,7 @@ After both players have deployed their models, the Good player may deploy 20 Tra
 
 **Good:** Lobelia Sackville-Baggins; Fredegar Bolger; 8 Hobbit Militia.
 
-**Evil:** Bill Ferny; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Bill Ferny; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -432,7 +432,7 @@ Having been discovered, the Hobbits must escape the Ruffians. Sharkey has ordere
 
 * **Rebellion Leaders**
 
-The Ruffians must capture Lobelia and Fatty to win the game. To do this, they will need to bind them in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Lobelia and Fatty are treated as Heavy Objects. If either Lobelia or Fatty is slain, then the game is a draw.
+The Ruffians must capture Lobelia and Fatty to win the game. To do this, they will need to bind them in chains using their At 'em Lads or Put 'em in Chains special rules. Whilst bound, Lobelia and Fatty are treated as [Heavy Objects](../rules_manual/advanced_rules.md#heavy-objects). If either Lobelia or Fatty is slain, then the game is a draw.
 
 ![](../media/scenarios/scouring_of_the_shire/brockenborings.jpg){ width=500 height=500 }
 
@@ -444,7 +444,7 @@ The Ruffians must capture Lobelia and Fatty to win the game. To do this, they wi
 
 **Good:** Paladin Took; Baldo Tulpenny; Lobelia Sackville-Baggins; Fredegar Bolger; 12 Hobbit Militia; 4 Hobbit Archers.
 
-**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -452,7 +452,7 @@ The board represents a Lockhole and the surrounding area. The Lockhole is placed
 
 **STARTING POSITIONS**
 
-The Evil player deploys Rowan Thistlewood and six of the Ruffians anywhere within 6" of the Lockhole; only two of these Ruffians may have a bow. The rest of the Ruffians will arrive later. The Good player then deploys Paladin, Baldo, the Hobbit Archers, and eight Hobbit Militia anywhere within 12" of the southern board edge. The rest of the Good models are those that are prisoners inside the Lockhole.
+The Evil player deploys Rowan Thistlewood and six of the Ruffians anywhere within 6" of the Lockhole; only two of these Ruffians may have a [bow](../rules_manual/weapons_and_wargear.md#bows). The rest of the Ruffians will arrive later. The Good player then deploys Paladin, Baldo, the Hobbit Archers, and eight Hobbit Militia anywhere within 12" of the southern board edge. The rest of the Good models are those that are prisoners inside the Lockhole.
 
 **OBJECTIVES**
 
@@ -474,7 +474,7 @@ To free an imprisoned Hobbit, a Good model must be in base contact with the Lock
 
 * **Weary and Half-starved**
 
-Escaping prisoners may not Charge or Throw Stones but will fight as normal if Charged. Before moving an escaping prisoner, the Good player rolls a D6. On a 1, the Hobbit is overcome with exhaustion and collapses. The Hobbit becomes Prone and may not move any further that turn.
+Escaping prisoners may not Charge or [Throw Stones](../rules_manual/special_rules.md#throw-stones) but will fight as normal if Charged. Before moving an escaping prisoner, the Good player rolls a D6. On a 1, the Hobbit is overcome with exhaustion and collapses. The Hobbit becomes [Prone](../rules_manual/move_phase.md#prone-models) and may not move any further that turn.
 
 ![](../media/scenarios/scouring_of_the_shire/the_lockholes.jpg){ width=500 height=500 }
 
@@ -486,7 +486,7 @@ Escaping prisoners may not Charge or Throw Stones but will fight as normal if Ch
 
 **Good:** Paladin Took; Baldo Tulpenny; 12 Hobbit Militia; 4 Hobbit Archers.
 
-**Evil:** Sid Briarthorn, Ruffian Chief; 7 Ruffians; 3 Ruffians with whip; 5 Ruffians with bow.
+**Evil:** Sid Briarthorn, Ruffian Chief; 7 Ruffians; 3 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 5 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -514,9 +514,9 @@ At the start of each player's Move phase, roll a D6 for each Warrior model remov
 
 **PARTICIPANTS**
 
-**Good:** Meriadoc, Captain of the Shire with shield; Frodo of the Nine Fingers; Samwise the Brave; Farmer Tolman Cotton; Hamfast 'Gaffer' Gamgee; 6 Hobbit Militia; 4 Hobbit Archers.
+**Good:** Meriadoc, Captain of the Shire with [shield](../rules_manual/weapons_and_wargear.md#shields); Frodo of the Nine Fingers; Samwise the Brave; Farmer Tolman Cotton; Hamfast 'Gaffer' Gamgee; 6 Hobbit Militia; 4 Hobbit Archers.
 
-**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with whip; 4 Ruffians with bow.
+**Evil:** Rowan Thistlewood, Ruffian Enforcer; 6 Ruffians; 2 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 4 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -538,7 +538,7 @@ Hobbit models must Charge if able to do so.
 
 * **Let 'em have it!**
 
-Ruffian models must re-roll To Wound rolls of 1 during the Fight phase. Additionally, if Rowan Thistlewood is Engaged in combat or has been involved in a Fight this turn, and has not been removed as a casualty, Ruffian models treat him as a banner.
+Ruffian models must re-roll To Wound rolls of 1 during the Fight phase. Additionally, if Rowan Thistlewood is Engaged in combat or has been involved in a Fight this turn, and has not been removed as a casualty, Ruffian models treat him as a [banner](../rules_manual/weapons_and_wargear.md#banners).
 
 ![](../media/scenarios/scouring_of_the_shire/old_cottons_farm.jpg){ width=500 height=500 }
 
@@ -548,9 +548,9 @@ Ruffian models must re-roll To Wound rolls of 1 during the Fight phase. Addition
 
 **PARTICIPANTS**
 
-**Good:** Frodo of the Nine Fingers on pony; Samwise the Brave on pony; Meriadoc, Captain of the Shire with shield on pony; Peregrin, Captain of the Shire on pony; Farmer Tolman Cotton; Holfoot Bracegirdle, Shirriff-leader; Robin Smallburrow, Hobbit Shirriff; 8 Battlin' Brandybucks; 8 Tookish Hunters; 8 Hobbit Shirriffs.
+**Good:** Frodo of the Nine Fingers on [pony](../rules_manual/cavalry.md#pony); Samwise the Brave on [pony](../rules_manual/cavalry.md#pony); Meriadoc, Captain of the Shire with [shield](../rules_manual/weapons_and_wargear.md#shields) on [pony](../rules_manual/cavalry.md#pony); Peregrin, Captain of the Shire on [pony](../rules_manual/cavalry.md#pony); Farmer Tolman Cotton; Holfoot Bracegirdle, Shirriff-leader; Robin Smallburrow, Hobbit Shirriff; 8 Battlin' Brandybucks; 8 Tookish Hunters; 8 Hobbit Shirriffs.
 
-**Evil:** Sharkey & Worm; Sid Briarthorn, Ruffian Chief; Bill Ferny; 12 Ruffians; 4 Ruffians with whip; 8 Ruffians with bow.
+**Evil:** Sharkey & Worm; Sid Briarthorn, Ruffian Chief; Bill Ferny; 12 Ruffians; 4 Ruffians with [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips); 8 Ruffians with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -578,7 +578,7 @@ At the end of each Evil Move phase, roll a D6 for each Ruffian Warrior model tha
 
 * **Merry & Pippin**
 
-Once per game, both Merry and Pippin can each declare a Heroic Combat without spending Might.
+Once per game, both Merry and Pippin can each declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) without spending Might.
 
 ![](../media/scenarios/scouring_of_the_shire/the_battle_of_bywater.jpg){ width=500 height=500 }
 
@@ -590,7 +590,7 @@ Once per game, both Merry and Pippin can each declare a Heroic Combat without sp
 
 **Good:** Bandobras Took; 3 Rangers of the North; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs.
 
-**Evil:** Golfimbul, Orc Chieftain, on Warg; 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow.
+**Evil:** Golfimbul, Orc Chieftain, on [Warg](../rules_manual/cavalry.md#warg); 4 Warg Riders with [shield](../rules_manual/weapons_and_wargear.md#shields); 4 Warg Riders with [shield](../rules_manual/weapons_and_wargear.md#shields) & [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 4 Warg Riders with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -630,7 +630,7 @@ The Rangers may not willingly move beyond the tree-line. Should they find themse
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs. Note that Gandalf does not have Glamdring in this Scenario, instead he has a normal hand-and-a-half sword.
+**Good:** Gandalf the Grey; 8 Hobbit Militia; 4 Hobbit Archers; 4 Hobbit Shirriffs. Note that Gandalf does not have Glamdring in this Scenario, instead he has a normal [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords).
 
 **Evil:** Wild Warg Chieftain; 8 Wild Wargs.
 
@@ -668,9 +668,9 @@ The Evil player has Priority in the first turn.
 
 **PARTICIPANTS**
 
-**Good:** Bilbo Baggins with Mithril Coat and Sting; Aragorn - Strider with bow; 3 Rangers of the North; 3 Wood Elf Warriors; 3 Wood Elf Warriors with Wood Elf spear; 3 Wood Elf Warriors with Elf bow.
+**Good:** Bilbo Baggins with Mithril Coat and Sting; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); 3 Rangers of the North; 3 Wood Elf Warriors; 3 Wood Elf Warriors with Wood Elf [spear](../rules_manual/weapons_and_wargear.md#spears); 3 Wood Elf Warriors with Elf [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** 4 Warg Riders with shield; 4 Warg Riders with shield & throwing spears; 4 Warg Riders with Orc bow; 4 Orc Warriors with shield; 4 Orc Warriors with spear; 2 Orc Warriors with two-handed weapon; 2 Orc Warriors with Orc bow.
+**Evil:** 4 Warg Riders with [shield](../rules_manual/weapons_and_wargear.md#shields); 4 Warg Riders with [shield](../rules_manual/weapons_and_wargear.md#shields) & [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 4 Warg Riders with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Orc Warriors with [shield](../rules_manual/weapons_and_wargear.md#shields); 4 Orc Warriors with [spear](../rules_manual/weapons_and_wargear.md#spears); 2 Orc Warriors with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 2 Orc Warriors with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 

@@ -24,7 +24,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -64,7 +64,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -72,7 +72,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **5 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
@@ -106,7 +106,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn, after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -161,13 +161,13 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
 * For this Scenario you need to keep track of your Wound Tally. Your Wound Tally is equal to the number of Wounds that your army inflicted upon your opponent's army, plus any Fate points that your opponent pent. Hero models that are removed from the game with unspent Fate points will add 1 to the Wound Tally for each one unspent. Models that flee because their force is Broken count towards the Wound Tally, but mounts that flee do not. You score **3 Victory Points** if your Wound Tally is greater than your opponent's. If your Wound Tally is at least twice as large as your opponent's, then you instead score **5 Victory Points**. If your Wound Tally is at least three times as large as your opponent's, or your opponent has no models left on the board, then you instead score **7 Victory Points**.
 
-* You score 1 Victory Point for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
+* You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **2 Victory Points**.
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
@@ -205,7 +205,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 Models that have escaped the board count as being on the board for the purpose of determining if a force is Broken.
 
@@ -213,7 +213,7 @@ Models that have escaped the board count as being on the board for the purpose o
 
 * You score **3 Victory Points** if more of your models have escaped the battlefield via your opponent's board edge than vice versa. If at least two of your models and twice as many models than your opponent have escaped the board, then you instead score **5 Victory Points**. If at least three of your models, and three times as many models than your opponent have escaped the board, then you instead score **7 Victory Points**.
 
-* You score 1 Victory Point for causing one or more Wounds on the enemy leader - Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
+* You score **1 Victory Point** for causing one or more Wounds on the enemy leader - Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **3 Victory Points**.
 
@@ -262,7 +262,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -307,7 +307,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until either a model carrying the artefact carries it off the board via their opponent's board edge, or both forces have been reduced to a quarter (25%) of their starting number of models, or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until either a model carrying the artefact carries it off the board via their opponent's board edge, or both forces have been reduced to a quarter (25%) of their starting number of models, or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -321,7 +321,7 @@ The game lasts until either a model carrying the artefact carries it off the boa
 
 **The Artefact:** The artefact must be dug out of the soil before it can be carried anywhere. An Infantry model who is in base contact with the Artefact marker at the end of its Move may attempt to free it.
 
-Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
+Roll a D6. On a 4+, the artefact has been freed, the artefact is treated as a [Light Object](../rules_manual/advanced_rules.md#light-objects) (see page 109 of the Middle-earth Strategy Battle Game rules manual). Might cannot be used to influence this roll. Only one model from each side may attempt to pick up the artefact each turn.
 
 ![](../media/scenarios/matched_play_guide/scenario_seize_the_prize_matched.jpg){ width=738 height=492 }
 
@@ -364,7 +364,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -415,7 +415,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -460,7 +460,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -468,15 +468,15 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader. Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score 2 Victory Points.
+* You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
 **Uncovering the Relic:** Only one of the Objective markers is actually the relic that both sides seek. The first time each turn an unengaged Infantry model ends its movement in base contact with an Objective, they may search it in an attempt to uncover the relic. When this happens roll a D6. On a 6, the relic has been discovered and the model that discovered it takes possession of it (Might cannot be used to influence this roll). If the roll is a 1-5 then the relic is not there, remove the Objective from play. If the first five Objective markers to be searched do not reveal the relic, the last one will automatically be the relic, there is no need to roll for it.
 
-**Relic of Power:** The relic is treated as a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). However the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, models carrying the relic may not drop it or pass it to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6. On a 1, the model is Transfixed as on page 98 of the Middle-earth Strategy Battle Game rules manual. Might may not be used to modify this roll.
+**Relic of Power:** The relic is treated as a [Light Object](../rules_manual/advanced_rules.md#light-objects) (see page 109 of the Middle-earth Strategy Battle Game rules manual). However the dark powers that lie upon it may seep into the mind of its holder. Unwilling to give it up, models carrying the relic may not drop it or pass it to another model. Additionally, at the start of each turn, before Priority is rolled, roll a D6. On a 1, the model is Transfixed as on page 98 of the Middle-earth Strategy Battle Game rules manual. Might may not be used to modify this roll.
 
 **Maelstrom of Battle:** At the end of your Move phase, roll a D6 for each of your warbands not on the battlefield and consult the chart opposite (the warband's captain can use Might to alter the roll either up or down). Models can't Charge in the turn that they arrive but otherwise act normally. Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
@@ -521,7 +521,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -563,7 +563,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -609,7 +609,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -623,7 +623,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **Worthless Land:** The centre of the battlefield provides very little tactical value, and so is not much use to either force.
 
-Models wholly within 12" of the centre of the battlefield do not count as being in any quarter of the battlefield for working out Victory Points.
+Models wholly within 12" of the centre of the battlefield do not count as being in any quarter of the battlefield for working out **Victory Points**.
 
 **Maelstrom of Battle:** At the end of your Move phase, roll a D6 for each of your warbands not on the battlefield and consult the chart below (the warband's captain can use Might to alter the roll either up or down). Models can't charge in the turn that they arrive but otherwise act normally. Roll for each warband separately, deploy the models in the warband, then roll for the next. Warbands yet to arrive count as being on the battlefield for the purposes of determining if your force is Broken.
 
@@ -672,7 +672,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -685,7 +685,7 @@ at the end of the game. If the enemy force is Broken, and your force is unbroken
 
 **SPECIAL RULES**
 
-**The Relic:** Each relic is a Light Object (see page 109 of the Middle-earth Strategy Battle Game rules manual). A relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If a relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then a player must try to return it to its original position as quickly as possible. Until it has been picked up by an enemy model, friendly models may not pick up their own relic.
+**The Relic:** Each relic is a [Light Object](../rules_manual/advanced_rules.md#light-objects) (see page 109 of the Middle-earth Strategy Battle Game rules manual). A relic is considered to have been retrieved if at the end of the game it is being carried by a friendly model. If a relic has been picked up by an enemy model, and is then subsequently dropped or retaken by a friendly model, then a player must try to return it to its original position as quickly as possible. Until it has been picked up by an enemy model, friendly models may not pick up their own relic.
 
 ![](../media/scenarios/matched_play_guide/scenario_retrieval.jpg){ width=738 height=492 }
 
@@ -718,7 +718,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -765,7 +765,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -775,11 +775,11 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
-**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the Paralyse, Immobilise or Transfix Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
+**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the [Paralyse](../rules_manual/magical_powers.md#paralyse), [Immobilise](../rules_manual/magical_powers.md#immobilisetransfix) or [Transfix](../rules_manual/magical_powers.md#immobilisetransfix) Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
 
 ![](../media/scenarios/matched_play_guide/scenario_destroy_the_supplies.jpg){ width=738 height=492 }
 
@@ -815,7 +815,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -860,7 +860,7 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 Once one force has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+At the end of the game, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -906,7 +906,7 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -914,7 +914,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **5 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 * You score **2 Victory Points** if you kill the leader of the Secondary Force.
 
@@ -946,13 +946,13 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
 * You score **2 Victory Points** for each Objective marker that has at least one of your models, and no enemy models, within 3".
 
-* You score 1 Victory Point for each Objective marker that has both friendly and enemy models, but more friendly than enemy models, within 3".
+* You score **1 Victory Point** for each Objective marker that has both friendly and enemy models, but more friendly than enemy models, within 3".
 
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader.
 
@@ -1002,7 +1002,7 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+At the end of the game, the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -1018,7 +1018,7 @@ at the end of the game. If the enemy force is Broken and your force is unbroken,
 **Site of Power:** The area that both forces are fighting over is an ancient place of great power that is said to be imbued with
 magic.
 
-Models within 6" of the Objective marker gain the Resistant to Magic special rule, and may re-roll failed Fate rolls.
+Models within 6" of the Objective marker gain the [Resistant to Magic](../rules_manual/special_rules.md#resistant-to-magic) special rule, and may re-roll failed Fate rolls.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_take_and_hold.jpg){ width=738 height=492 }
 
@@ -1049,7 +1049,7 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -1098,7 +1098,7 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+At the end of the game, the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
@@ -1110,7 +1110,7 @@ At the end of the game, the team that has scored the most Victory Points wins th
 
 * You score **2 Victory Points** if your team has more models within the central terrain piece than your opponents. If your team has at least twice the number of models in the terrain piece than your opponents, you instead score **4 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_cornered.jpg){ width=738 height=493 }
 
@@ -1142,18 +1142,18 @@ Both teams roll a D6. The team with the highest score has Priority in the first 
 
 Once one army has been Broken, the game might suddenly end. At the end of each turn after this condition has been met, roll a D6. On a 1-2, the game ends - otherwise, the battle continues for another turn.
 
-At the end of the game, the team that has scored the most Victory Points wins the game. If both teams have the same number of Victory Points, the game is a draw.
+At the end of the game, the team that has scored the most **Victory Points** wins the game. If both teams have the same number of **Victory Points**, the game is a draw.
 
 **SCORING VICTORY POINTS**
 
 At the start of the game, each player secretly writes down one enemy Hero model to be the target of their forces. This means that each team will have two targets. Players may not discuss with their partner which Hero they have chosen for the duration of the game - it is secret from all players accept the player who wrote it down.
 
-* You score **1 Victory Point** for each of your team's targets that has been wounded. For each of your team's targets that has been slain, you instead score **2 Victory Points** (if the same Hero was chosen by both players, you score the Victory Points twice if they are wounded or slain).
+* You score **1 Victory Point** for each of your team's targets that has been wounded. For each of your team's targets that has been slain, you instead score **2 Victory Points** (if the same Hero was chosen by both players, you score the **Victory Points** twice if they are wounded or slain).
 
-* You score **2 Victory Points** for each of your opponent's targets that are within 6" of the centre of the board at the end of the game (if the same Hero was chosen by both players, you score the Victory Points twice if they are within 6" of the centre of the board).
+* You score **2 Victory Points** for each of your opponent's targets that are within 6" of the centre of the board at the end of the game (if the same Hero was chosen by both players, you score the **Victory Points** twice if they are within 6" of the centre of the board).
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_duel_of_wits.jpg){ width=738 height=493 }

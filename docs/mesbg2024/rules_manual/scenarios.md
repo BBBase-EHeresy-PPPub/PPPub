@@ -15,6 +15,6 @@ You can either agree with your opponent which Scenario you are going to play, or
 
 Each Scenario contains all of the information you will need to set up and start playing, and will be broken down into the following sections: Armies, Layout, Starting Positions, Initial Priority, Objectives and Special Rules (if there are any for that Scenario).
 
-The six Scenarios presented here give a balanced mix of different styles of Scenario, giving you a chance to try out multiple different ways of playing the Strategy Battle Game. Each Scenario has its own victory conditions, and each will have a maximum of 20 Victory Points available in it.
+The six Scenarios presented here give a balanced mix of different styles of Scenario, giving you a chance to try out multiple different ways of playing the Strategy Battle Game. Each Scenario has its own victory conditions, and each will have a maximum of **20 Victory Points** available in it.
 
 If you are looking to expand your Matched Play experience, then the Middle-earth Matched Play Guide is the ideal companion. It contains a further 18 Matched Play Scenarios (for a total of 24) that each change the way you play the game. It also has six specially designed doubles Scenarios - perfect for fighting side-by-side with a friend!

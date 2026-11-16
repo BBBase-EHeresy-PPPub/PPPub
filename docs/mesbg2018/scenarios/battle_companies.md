@@ -102,7 +102,7 @@ The game lasts until the end of a turn in which one Battle Company has been redu
 
 * **Objectives**
 
-The six objectives on the board are Light Objects, as detailed on page 109 of the main rules manual. This means that models may pick up and carry the objectives; in fact, a model will only count as holding an objective once they have picked it up. If a model holding an objective flees, it is immediately dropped where they stood before they fled, or as close as possible. Models may carry more than one objective.
+The six objectives on the board are [Light Objects](../rules_manual/advanced_rules.md#light-objects), as detailed on page 109 of the main rules manual. This means that models may pick up and carry the objectives; in fact, a model will only count as holding an objective once they have picked it up. If a model holding an objective flees, it is immediately dropped where they stood before they fled, or as close as possible. Models may carry more than one objective.
 
 ![](../media/scenarios/battle_companies/claim_the_treasure.jpg){ width=494 height=494 }
 
@@ -156,7 +156,7 @@ The game lasts until either the relic has been moved off of one board edge, or t
 
 * **The Relic**
 
-When a model moves into base contact with an Objective marker, flip it over. If it is not the relic, remove it from the game. If it is the relic, the model takes possession of it and all other markers are removed. The relic is treated as a Heavy Object.
+When a model moves into base contact with an Objective marker, flip it over. If it is not the relic, remove it from the game. If it is the relic, the model takes possession of it and all other markers are removed. The relic is treated as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
 
 * **The Glories to be Had**
 
@@ -238,7 +238,7 @@ The game lasts until either all the Fell Wargs have been slain, or both Battle C
 
 * **The Wargs**
 
-This Scenario requires 24 Fell Wargs. The Fell Wargs follow the usual profile for a Fell Warg. They will always move first in each Move phase, even before Heroic Moves, and will Charge the nearest model by the shortest possible route. If this is not possible, they will move as quickly as they can towards the nearest model from either Battle Company.
+This Scenario requires 24 Fell Wargs. The Fell Wargs follow the usual profile for a Fell Warg. They will always move first in each Move phase, even before [Heroic Moves](../rules_manual/heroes.md#heroic-move-move-phase), and will Charge the nearest model by the shortest possible route. If this is not possible, they will move as quickly as they can towards the nearest model from either Battle Company.
 
 * **The Enemy of my Enemy**
 
@@ -250,7 +250,7 @@ Both Battle Companies are forced to work together, at least for now, and so the 
 
 ## SEIZE THE OUTPOST
 
-For this Scenario, you will need the outpost defenders; these are 4 Orc Warriors with shield, 4 Orc Warriors with spear, 2 Orc Warriors with Orc bow, and 2 Orc Warriors with two-handed weapon.
+For this Scenario, you will need the outpost defenders; these are 4 Orc Warriors with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 Orc Warriors with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 Orc Warriors with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), and 2 Orc Warriors with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons).
 
 **STARTING POSITIONS**
 
@@ -270,7 +270,7 @@ Once the outpost's defenders have been reduced to 50% or less of their starting 
 
 * **The Outpost Defenders**
 
-The Orc Warriors follow the usual profile for Orc Warriors found on page 119 of *Armies of The Lord of the Rings*. The Orcs will always move first in each Move phase, even before Heroic Moves, and will charge the nearest model by the shortest possible route. If this is not possible, starting with the player without Priority, players may alternate moving Orcs until all have been moved. Orcs armed with an Orc bow that move in this way may only move up to 3" and must shoot the nearest enemy model in the Shoot phase.
+The Orc Warriors follow the usual profile for Orc Warriors found on page 119 of *Armies of The Lord of the Rings*. The Orcs will always move first in each Move phase, even before [Heroic Moves](../rules_manual/heroes.md#heroic-move-move-phase), and will charge the nearest model by the shortest possible route. If this is not possible, starting with the player without Priority, players may alternate moving Orcs until all have been moved. Orcs armed with an Orc [bow](../rules_manual/weapons_and_wargear.md#bows) that move in this way may only move up to 3" and must shoot the nearest enemy model in the Shoot phase.
 
 * **Defend the Outpost**
 
@@ -300,7 +300,7 @@ The game continues until either the Troll has been slain, or no other models rem
 
 * **The Troll**
 
-The Cave Troll follows the usual profile for a Cave Troll. The Troll will always move first in each Move phase, even before Heroic Moves, and will Charge the nearest model by the shortest possible route. If this is not possible, the player without Priority may move the Troll its full Move in a direction of their choice.
+The Cave Troll follows the usual profile for a Cave Troll. The Troll will always move first in each Move phase, even before [Heroic Moves](../rules_manual/heroes.md#heroic-move-move-phase), and will Charge the nearest model by the shortest possible route. If this is not possible, the player without Priority may move the Troll its full Move in a direction of their choice.
 
 * **The Trollslayer**
 
@@ -420,7 +420,7 @@ Due to the reduced visibility, models cannot be targeted by shooting, Magical Po
 
 * **Light the Fires!**
 
-During the End phase, any attacking model that is in base contact with an Objective marker that did not make a Shooting attack or participate in the Fight phase (including supporting) may attempt to set it alight. Roll a D6. On a 4+, the objective is set alight. Once a marker is alight it cannot be put out, the flames are too unruly. Any model that moves, or is moved, into base contact with a lit objective is immediately Set Ablaze. A model that has a torch automatically counts as having rolled a 4+ when attempting to set an objective alight.
+During the End phase, any attacking model that is in base contact with an Objective marker that did not make a Shooting attack or participate in the Fight phase (including supporting) may attempt to set it alight. Roll a D6. On a 4+, the objective is set alight. Once a marker is alight it cannot be put out, the flames are too unruly. Any model that moves, or is moved, into base contact with a lit objective is immediately [Set Ablaze](../rules_manual/special_rules.md#set-ablaze). A model that has a torch automatically counts as having rolled a 4+ when attempting to set an objective alight.
 
 The area within 2" of a lit objective counts as daylight, so models in this area can be seen from any distance.
 
@@ -456,7 +456,7 @@ The captured **Hero** is still a member of the Attacker's Battle Company, and wi
 
 * **Shackled by the Enemy**
 
-The prisoner has had their hands bound by their captors and their weapons and other wargear taken from them. The **Hero** counts as unarmed and is without any wargear such as shields, bows or other equipment (though they do still keep their armour). Whilst bound, the prisoner may only ever make a single Attack and may not declare Heroic Actions. An Attacker's model may free the prisoner from their bonds during the End phase of any turn in which they are in base contact with the prisoner and did not participate in a Fight in the preceding Fight phase. Once the prisoner has been freed, they no longer count as being unarmed - they count as being armed with a dagger for the remainder of the Scenario.
+The prisoner has had their hands bound by their captors and their weapons and other wargear taken from them. The **Hero** counts as [unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models) and is without any wargear such as [shields](../rules_manual/weapons_and_wargear.md#shields), [bows](../rules_manual/weapons_and_wargear.md#bows) or other equipment (though they do still keep their [armour](../rules_manual/weapons_and_wargear.md#armour)). Whilst bound, the prisoner may only ever make a single Attack and may not declare Heroic Actions. An Attacker's model may free the prisoner from their bonds during the End phase of any turn in which they are in base contact with the prisoner and did not participate in a Fight in the preceding Fight phase. Once the prisoner has been freed, they no longer count as being [unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models) - they count as being armed with a [dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) for the remainder of the Scenario.
 
 ![](../media/scenarios/battle_companies/a_daring_rescue.jpg){ width=494 height=494 }
 
@@ -494,7 +494,7 @@ This Scenario requires five Baggage Ponies, which will use the profile below. Th
 
 The Baggage Ponies all carry some valuable cargo, gold, weapons or other items that are of use.
 
-If a Baggage Pony is slain or flees the battlefield, place a 25mm Cargo marker where the model used to be. Any model can pick up a Cargo marker by moving into base contact with it; cargo is a Light Object. For each piece of cargo moved off the board via the northern board edge, the Defender gains an additional 1 Influence Point. For each piece of cargo in the Attacker's possession at the end of the game, the Attacker gains an additional 1 Influence Point.
+If a Baggage Pony is slain or flees the battlefield, place a 25mm Cargo marker where the model used to be. Any model can pick up a Cargo marker by moving into base contact with it; cargo is a [Light Object](../rules_manual/advanced_rules.md#light-objects). For each piece of cargo moved off the board via the northern board edge, the Defender gains an additional 1 Influence Point. For each piece of cargo in the Attacker's possession at the end of the game, the Attacker gains an additional 1 Influence Point.
 
 ![](../media/scenarios/battle_companies/baggage_train.jpg){ width=494 height=515 }
 
@@ -586,7 +586,7 @@ At the start of the game, after both forces have been deployed, roll a D6 to fin
 
 * **A Petty Squabble**
 
-Ruffians may not use their bows in the Shoot phase. Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.
+Ruffians may not use their [bows](../rules_manual/weapons_and_wargear.md#bows) in the Shoot phase. Additionally, all members of your company removed as a casualty automatically make a Full Recovery. There is no need to roll.
 
 * **Important Knowledge**
 
@@ -601,9 +601,9 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | 1 | Your company gains an additional 1 Influence Point. |
 | 2 | One **Hero** in your company may add a Dwarven Brew to their equipment. |
 | 3 | Permanently add a Ruffian to your Battle Company. They cannot gain Experience and therefore cannot become a **Hero**. |
-| 4 | Each member of your company may exchange their hand weapon for any other kind of hand weapon without spending Influence Points. |
+| 4 | Each member of your company may exchange their [hand weapon](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) for any other kind of [hand weapon](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) without spending Influence Points. |
 | 5 | Add a Local Scout to your company's roster. |
-| 6 | Your leader may be mounted on a horse without spending Influence Points, even if they couldn't usually do so. |
+| 6 | Your leader may be mounted on a [horse](../rules_manual/cavalry.md#horse) without spending Influence Points, even if they couldn't usually do so. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -619,7 +619,7 @@ If you are playing an Evil Battle Company, then the Breelanders are probably mor
 
 Your Battle Company.
 
-1 Barrow-wight, 4 Angmar Orcs with shield, 4 Angmar Orcs with spear, 2 Angmar Orcs with two-handed weapon, 2 Angmar Orcs with Orc bow, 3 Orc Trackers.
+1 Barrow-wight, 4 Angmar Orcs with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 Angmar Orcs with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 Angmar Orcs with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 Angmar Orcs with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 3 Orc Trackers.
 
 **LAYOUT**
 
@@ -645,7 +645,7 @@ This Scenario uses the rules for Haunted Ruins provided on **page 85**. The Barr
 
 * **Fell Beings of Angmar**
 
-All Orc models from the Angmar force gain the Terror special rule whilst within 3" of the Barrow-wight.
+All Orc models from the Angmar force gain the [Terror](../rules_manual/special_rules.md#terror) special rule whilst within 3" of the Barrow-wight.
 
 * **Slayer of Spirits**
 
@@ -659,9 +659,9 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Your Battle Company gains an additional 1 Influence Point. |
 | 2 | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. |
-| 3 | One **Hero** in your company may have this Ancient Dagger. This is a dagger. Additionally, when making Strikes with the Ancient Dagger, the bearer never needs more than a 5+ To Wound an enemy. |
+| 3 | One **Hero** in your company may have this Ancient [Dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords). This is a [dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords). Additionally, when making Strikes with the Ancient [Dagger](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords), the bearer never needs more than a 5+ To Wound an enemy. |
 | 4 | Your leader gains the Healing Herbs piece of equipment. |
-| 5 | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the Bane of Kings special rule. |
+| 5 | The leader of your Battle Company may have the Barrow-wight's blade. This is a [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) with the [Bane of Kings](../rules_manual/special_rules.md#bane-of-kingsvenom) special rule. |
 | 6 | One Hero in your company may have this stone shard - this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
@@ -722,10 +722,10 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 |-----------|-------------|
 | 1 | Your company immediately gains an additional 1 Influence Point. |
 | 2 | One **Hero** in your Battle Company may be given a Concealing Cloak. |
-| 3 | One **Hero** in your Battle Company may wear the Warg Pelt. Whilst they do, they cause Terror. |
+| 3 | One **Hero** in your Battle Company may wear the Warg Pelt. Whilst they do, they cause [Terror](../rules_manual/special_rules.md#terror). |
 | 4 | Permanently add a Dúnedain to your Battle Company. They cannot gain Experience and will roll on the Hero Injury chart when necessary. |
 | 5 | Your Battle Company's leader (or another **Hero,** if they did not participate in the game) gains a single Point of either Might, Will or Fate, up to the maximum for their chosen path. |
-| 6 | One **Hero** in your company may add a great bow to their wargear. |
+| 6 | One **Hero** in your company may add a great [bow](../rules_manual/weapons_and_wargear.md#bows) to their wargear. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -741,7 +741,7 @@ If you roll a 4 on the Rewards chart, you do not gain a Dúnedain for your compa
 
 Your Battle Company.
 
-2 Tribesfolk Captains, 4 Tribesfolk with shield, 4 Tribesfolk with two-handed axe, 4 Tribesfolk with bow.
+2 Tribesfolk Captains, 4 Tribesfolk with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 Tribesfolk with [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks), 4 Tribesfolk with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 *\*The Tribesfolk Captains use the same profile as the Dunlending Captain, the Tribesfolk use the same profile as Dunlending Warriors.*
 
@@ -769,7 +769,7 @@ The ice follows the same rules for Slippery Walkways, as presented on **page 87*
 
 * **Breaking the Ice**
 
-At the end of each model's Movement where they are at least partially on the ice, roll a D6. On a 2+ everything is fine. On the roll of a 1, they slip - roll a further D6. On a 6, the model keeps their footing, however, they may only move half their Move allowance next turn. On a 2-5, the model is knocked Prone. On the roll of a 1, the ice breaks and the model falls into the freezing waters of Forochel - remove the model as a casualty. Any model from your Battle Company removed in this way suffers a -1 penalty when making their Injury roll.
+At the end of each model's Movement where they are at least partially on the ice, roll a D6. On a 2+ everything is fine. On the roll of a 1, they slip - roll a further D6. On a 6, the model keeps their footing, however, they may only move half their Move allowance next turn. On a 2-5, the model is knocked [Prone](../rules_manual/move_phase.md#prone-models). On the roll of a 1, the ice breaks and the model falls into the freezing waters of Forochel - remove the model as a casualty. Any model from your Battle Company removed in this way suffers a -1 penalty when making their Injury roll.
 
 **REWARDS**
 
@@ -784,7 +784,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | 3 | Permanently add one Tribesfolk to your company. The Tribesfolk follows the profile for a Dunlending Warrior. |
 | 4 | Permanently add a Sage to your Battle Company. |
 | 5 | One **Hero** in your Battle Company may have this amulet. Whenever a friendly model within 6" of the bearer suffers a wound, roll a D6. On the roll of a Natural 6 the wound is ignored. |
-| 6 | One **Hero** in your company can be given a Master-forged two-handed axe. |
+| 6 | One **Hero** in your company can be given a [Master-forged](../rules_manual/weapons_and_wargear.md#master-forged-weapons) [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks). |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**
 
@@ -800,11 +800,11 @@ If you are using an Evil Battle Company, then if your company is victorious and 
 
 Your Battle Company.
 
-Cave Drake, 4 Moria Goblins with shield, 4 Moria Goblins with spear, 4 Moria Goblins with bow.
+Cave Drake, 4 Moria Goblins with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 Moria Goblins with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 Moria Goblins with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
-The board represents the Cave Drake's lair, and as such should be dotted with rocks and piles of its treasure hoard. The treasure piles should be placed so that models can move over them, though they will count as difficult terrain (walking over piles of gold is no easy feat!).
+The board represents the Cave Drake's lair, and as such should be dotted with rocks and piles of its treasure hoard. The treasure piles should be placed so that models can move over them, though they will count as [difficult terrain](../rules_manual/move_phase.md#difficult-terrain) (walking over piles of gold is no easy feat!).
 
 **STARTING POSITIONS**
 
@@ -837,11 +837,11 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | D6 | Result |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Every **Hero** in your Battle Company gains a single Point of either Might, Will or Fate - this can even be used to take your **Hero** above the usual maximum of 3/3/3. |
-| 2 | **Armour of Arthedain** - A single **Hero** in your Battle Company may be given the Armour of Arthedain. This is heavy armour. Additionally, a model wearing this armour will only ever suffer a wound on the roll of a natural 6. |
-| 3 | **Circlet of Annúminas** - A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the Fortify Spirit Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
-| 4 | **Shield of Arnor** - A single **Hero** in your Battle Company may be given the Shield of Arnor. This is a shield. Additionally, each time an enemy model makes a Strike against a model with the Shield of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
-| 5 | **Daggers of Gondolin** - A single **Hero** in your Battle Company may be given the Daggers of Gondolin. These are a pair of Elven-made daggers. Additionally, the bearer of these daggers adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these daggers may not use a shield or missile weapon when they fight with them. |
-| 6 | **Axe of the Blue Mountains** - A single **Hero** in your Battle Company may be given the Axe of the Blue Mountains. This is a Master-forged two-handed axe. Additionally, each wound dealt by this weapon is subject to the Mighty Blow special rule. |
+| 2 | **[Armour](../rules_manual/weapons_and_wargear.md#armour) of Arthedain** - A single **Hero** in your Battle Company may be given the [Armour](../rules_manual/weapons_and_wargear.md#armour) of Arthedain. This is [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour). Additionally, a model wearing this [armour](../rules_manual/weapons_and_wargear.md#armour) will only ever suffer a wound on the roll of a natural 6. |
+| 3 | **Circlet of Annúminas** - A single **Hero** in your Battle Company may be given the Circlet of Annúminas. A model wearing this always counts as having had the [Fortify Spirit](../rules_manual/magical_powers.md#fortify-spirit) Magical Power cast upon them. This is always in effect, even if the **Hero** has 0 Will remaining. |
+| 4 | **[Shield](../rules_manual/weapons_and_wargear.md#shields) of Arnor** - A single **Hero** in your Battle Company may be given the [Shield](../rules_manual/weapons_and_wargear.md#shields) of Arnor. This is a [shield](../rules_manual/weapons_and_wargear.md#shields). Additionally, each time an enemy model makes a Strike against a model with the [Shield](../rules_manual/weapons_and_wargear.md#shields) of Arnor and fails To Wound them, roll a D6. On a 6, the model that made the Strike suffers a wound. |
+| 5 | **[Daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) of Gondolin** - A single **Hero** in your Battle Company may be given the [Daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) of Gondolin. These are a pair of [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) [daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords). Additionally, the bearer of these [daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) adds 1 to their Attacks characteristic when they fight with them and may re-roll failed To Wound rolls when making Strikes. A model with these [daggers](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) may not use a [shield](../rules_manual/weapons_and_wargear.md#shields) or missile weapon when they fight with them. |
+| 6 | **[Axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks) of the Blue Mountains** - A single **Hero** in your Battle Company may be given the [Axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks) of the Blue Mountains. This is a [Master-forged](../rules_manual/weapons_and_wargear.md#master-forged-weapons) [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks). Additionally, each wound dealt by this weapon is subject to the [Mighty Blow](../rules_manual/special_rules.md#mighty-blow) special rule. |
 
 Results 2-6 will add an extra 30 points to the value of whichever model is carrying the item they have gained when working out your Battle Company's Rating.
 
@@ -873,9 +873,9 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models, or below, at which point, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
-Victory Points are scored for the following:
+**Victory Points** are scored for the following:
 
 - The Attacker scores **1 Victory Point** for causing one or more Wounds on the Battle Company leader (Wounds prevented by a successful Fate roll do not count). If they kill the Battle Company leader, they instead score **3 Victory Points**.
 
@@ -885,7 +885,7 @@ Victory Points are scored for the following:
 
 - If there are at least 50% of the models from the Battle Company alive at the end of the game, the Defender scores **2 Victory Points**. If the Battle Company has been reduced to 25% or less of its starting numbers, the Attacker scores **2 Victory Points**.
 
-- You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining then you instead score **2 Victory Points**.
+- You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -921,9 +921,9 @@ Both players roll a D6. The player with the highest score has Priority in the fi
 
 **OBJECTIVES**
 
-The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point, the force that has scored the most Victory Points wins the game. If both players have the same number of Victory Points, the game is a draw.
+The game lasts until the end of a turn in which one force has been reduced to a quarter (25%) of its starting number of models or below, at which point, the force that has scored the most **Victory Points** wins the game. If both players have the same number of **Victory Points**, the game is a draw.
 
-Victory Points are scored for the following:
+**Victory Points** are scored for the following:
 
 - You score **1 Victory Point** for causing one or more Wounds on the enemy leader (Wounds prevented by a successful Fate roll do not count). If you kill the enemy leader, you instead score **3 Victory Points**.
 
@@ -931,7 +931,7 @@ Victory Points are scored for the following:
 
 - You score **1 Victory Point** if you have slain at least half of the models in your opponent's Battle Company. If your Battle Company also has at least half of its models left alive, you instead score **3 Victory Points**.
 
-- You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining then you instead score **2 Victory Points**.
+- You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining then you instead score **2 Victory Points**.
 
 - If the leader of your Battle Company slays an enemy Hero in combat, you score **1 Victory Point**.
 

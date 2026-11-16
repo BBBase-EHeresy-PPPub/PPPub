@@ -119,7 +119,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- The One Ring
+- [The One Ring]
 - Mithril Coat
 - Sting
 

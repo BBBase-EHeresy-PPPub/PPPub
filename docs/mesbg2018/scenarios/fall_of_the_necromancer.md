@@ -2,11 +2,11 @@
 
 **PARTICIPANTS**
 
-**Good:** Woodsmen Chieftain with shield; 12 Woodsmen: 4 with shield, 4 with throwing spear and shield, 4 with bow.
+**Good:** Woodsmen Chieftain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Woodsmen: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) and [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 ***Note:** The Woodsmen Chieftain uses the same profile as a Captain of Rohan, the Woodsmen use the same profile as a Warrior of Rohan.*
 
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
+**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -30,7 +30,7 @@ The Necromancer begins the game with only 12 points of Will.
 
 * **The Sense of Dread**
 
-All Evil models have the Terror special rule in this scenario.
+All Evil models have the [Terror](../rules_manual/special_rules.md#terror) special rule in this scenario.
 
 ![](../media/scenarios/fall_of_the_necromancer/the_founding_of_dol_guldur.jpg){ width=500 height=500 }
 
@@ -42,7 +42,7 @@ All Evil models have the Terror special rule in this scenario.
 
 **Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
 
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
+**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -134,7 +134,7 @@ The game lasts until one force has completed their objective. The Good force win
 
 * **Spider Nests**
 
-Good models treat Spider Nests as difficult terrain.
+Good models treat Spider Nests as [difficult terrain](../rules_manual/move_phase.md#difficult-terrain).
 
 Additionally, whenever a **Spider** model is slain, with the exception of the Spider Queen, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each **Spider** model kept aside in this manner. On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter from, roll a further D6. On a 1-3, the Good player chooses which Spider Nest the model enters from; on a 4+, the Evil player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
@@ -198,7 +198,7 @@ Gandalf has 2 Attacks in this scenario.
 
 **Good:** Legolas Greenleaf, Prince of Mirkwood; Mirkwood Ranger Captain; 10 Mirkwood Rangers.
 
-**Evil:** 2 Orc Captains with shield; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow.
+**Evil:** 2 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -328,7 +328,7 @@ The game continues until one player has completed their objective. The Good play
 
 * **Investigating Statues**
 
-If Radagast ends his movement in base contact with a statue, he may investigate it. Roll a D6 - on a 1-5, it is just a statue and nothing happens. On a 6, Radagast locates the evidence he needs - this is a Light Object. Each statue can only be investigated once.
+If Radagast ends his movement in base contact with a statue, he may investigate it. Roll a D6 - on a 1-5, it is just a statue and nothing happens. On a 6, Radagast locates the evidence he needs - this is a [Light Object](../rules_manual/advanced_rules.md#light-objects). Each statue can only be investigated once.
 
 * **The Witch-king**
 
@@ -342,7 +342,7 @@ In this Scenario, the Witch-king does not benefit from his *Unholy Resurrection*
 
 * **The Will of the Necromancer**
 
-Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *Resistant to Magic* special rule.
+Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *[Resistant to Magic](../rules_manual/special_rules.md#resistant-to-magic)* special rule.
 
 ![](../media/scenarios/fall_of_the_necromancer/exploration_of_dol_guldur.jpg){ width=500 height=500 }
 
@@ -380,11 +380,11 @@ The Hunter Orcs begin the game as Sentries, as described in the main rules manua
 
 * **A Spell of Concealment**
 
-Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *Command* Magical Power upon it.
+Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *[Command](../rules_manual/magical_powers.md#commandcompel)* Magical Power upon it.
 
 * **The Wizard Has Come**
 
-Gandalf causes *Terror* in this Scenario.
+Gandalf causes *[Terror](../rules_manual/special_rules.md#terror)* in this Scenario.
 
 * **Grip of Madness**
 
@@ -396,7 +396,7 @@ Gandalf may not strike blows against Thráin if he wins a fight against him. Thi
 
 * **Quietly in the Darkness**
 
-Gandalf may not use the *Sorcerous Blast* or *Collapse Rocks* Magical Powers in this Scenario.
+Gandalf may not use the *[Sorcerous Blast](../rules_manual/magical_powers.md#sorcerous-blast)* or *[Collapse Rocks](../rules_manual/magical_powers.md#collapse-rocks)* Magical Powers in this Scenario.
 
 ![](../media/scenarios/fall_of_the_necromancer/thrain_the_broken.jpg){ width=500 height=500 }
 
@@ -428,7 +428,7 @@ The game lasts until one player completes their objective. The Good player wins 
 
 * **A Flash of Light**
 
-During the first turn of the game, all Evil models are treated as being under the effect of the *Immobilise* Magical Power.
+During the first turn of the game, all Evil models are treated as being under the effect of the *[Immobilise](../rules_manual/magical_powers.md#immobilisetransfix)* Magical Power.
 
 * **The General of Dol Guldur**
 
@@ -444,13 +444,13 @@ If your roll on the chart exceeds the number of models remaining to enter the bo
 |:---:|:---------------|
 | 2 | No reinforcements this turn |
 | 3‑6 | D3 Hunter Orcs |
-| 7‑9 | 1 Hunter Orc on Fell Warg |
+| 7‑9 | 1 Hunter Orc on [Fell Warg](../rules_manual/cavalry.md#fell-warg) |
 | 10‑11 | D3 Hunter Orcs on Fell Wargs |
 | 12 | The Necromancer of Dol Guldur |
 
 * **Bring the Bridge Crashing Down**
 
-During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 - on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a Jump test.
+During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. Roll a D6 - on a 4+, Gandalf has blasted a section out from the bridge. Mark the bridge to show a 1" wide chasm spanning the bridge directly behind Gandalf's base. Models wishing to pass the chasm will need to pass a [Jump test](../rules_manual/move_phase.md#jump-table).
 
 > **Designer's Notes:** *Winning this Scenario is very hard for the Good side - but not impossible. Gandalf can likely escape if he forsakes Thráin, but that would be quite uncharacteristic of the Grey Wizard!*
 
@@ -484,7 +484,7 @@ The game lasts until one side completes their objective. The Good side wins if R
 
 * **Spider Nests**
 
-Good models treat Spider Nests as difficult terrain. Additionally, whenever a Spider model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each Spider model kept aside in this manner.
+Good models treat Spider Nests as [difficult terrain](../rules_manual/move_phase.md#difficult-terrain). Additionally, whenever a Spider model is slain, keep it to one side. At the start of each turn, before Priority is determined, roll a D6 for each Spider model kept aside in this manner.
 
 On a 5+, that model will re-enter the board via one of the Spider Nests. To determine where they enter, roll a further D6. On a 1-3, the Good player chooses which Spider Nest the model enters from; on a 4+, the Evil player decides. Models that arrive in this manner are placed anywhere within or touching the Spider Nest and may act as normal that turn.
 
@@ -522,7 +522,7 @@ The Good player wins immediately if Gandalf is rescued by having him move off of
 
 * **A Wizard Lies Dying**
 
-Gandalf starts the game with no Might or Will, no Staff of Power, and under the effects of the *Paralyse* Magical Power. Friendly models may carry Gandalf, in which case he counts as a Heavy Object.
+Gandalf starts the game with no Might or Will, no [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and under the effects of the *[Paralyse](../rules_manual/magical_powers.md#paralyse)* Magical Power. Friendly models may carry Gandalf, in which case he counts as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
 
 * **"I will Destroy You!"**
 

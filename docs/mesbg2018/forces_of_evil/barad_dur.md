@@ -22,7 +22,7 @@ This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Tro
 
 - [Heavy Armour]
 - [Mace]
-- The One Ring
+- [The One Ring]
 
 **HEROIC ACTIONS**
 

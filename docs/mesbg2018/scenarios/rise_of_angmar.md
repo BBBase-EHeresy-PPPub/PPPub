@@ -4,7 +4,7 @@
 
 **Good:** 3 Captains of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor.
 
-**Evil:** The Witch-king on horse with Morgul Blade, 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
+**Evil:** The Witch-king on [horse](../rules_manual/cavalry.md#horse) with Morgul Blade, 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Angmar Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 12 Angmar Warg Riders: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -34,7 +34,7 @@ Good models may not willingly move further than 12" away from the center of the 
 
 * **Unknown Attackers**
 
-Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
+Arnor models do not have the [Hatred](../rules_manual/special_rules.md#hatred-x) (Angmar) special rule in this Scenario.
 
 ![](../media/scenarios/rise_of_angmar/the_founding_of_angmar.jpg){ width=500 height=500 }
 
@@ -44,9 +44,9 @@ Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
 **PARTICIPANTS**
 
-**Good:** Elrond, Master of Rivendell with heavy armour; Erestor; 25 High Elf Warriors: 8 with spear & shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+**Good:** Elrond, Master of Rivendell with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour); Erestor; 25 High Elf Warriors: 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows), 8 with no additional equipment, 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Evil:** 2 Angmar Orc Captains with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 6 Angmar Warg Riders: 2 with shield, 2 with throwing spears, 2 with Orc bow.
+**Evil:** 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with [spear](../rules_manual/weapons_and_wargear.md#spears); 6 Angmar Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -68,11 +68,11 @@ If Elrond is slain, the Evil player immediately wins.
 
 * **To War!**
 
-Evil Hero models may declare 1 Heroic March each turn without reducing their own store of Might.
+Evil Hero models may declare 1 [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase) each turn without reducing their own store of Might.
 
 * **Protection of Imladris**
 
-Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
+Elrond may not cast the [Wrath of Bruinen](../rules_manual/magical_powers.md#wrath-of-bruinen) Magical Power in this Scenario.
 
 ![](../media/scenarios/rise_of_angmar/assault_on_rivendell.jpg){ width=500 height=500 }
 
@@ -82,9 +82,9 @@ Elrond may not cast the Wrath of Bruinen Magical Power in this Scenario.
 
 **PARTICIPANTS**
 
-**Good:** Argeleb (King of Men with heavy armour and shield); Captain of Arnor; 16 Warriors of Arnor; 1 Warrior of Arnor with banner; 8 Rangers of Arnor.
+**Good:** Argeleb (King of Men with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields)); Captain of Arnor; 16 Warriors of Arnor; 1 Warrior of Arnor with [banner](../rules_manual/weapons_and_wargear.md#banners); 8 Rangers of Arnor.
 
-**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with Orc bow, 2 with two-handed weapon, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
+**Evil:** Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -106,11 +106,11 @@ Argeleb must re-roll failed To Wound rolls when making Strikes. Additionally, Ar
 
 * **The Hill-men**
 
-Carn Dum models gain the Hatred (Arnor) special rule.
+Carn Dum models gain the [Hatred](../rules_manual/special_rules.md#hatred-x) (Arnor) special rule.
 
 * **Unknown Attackers**
 
-Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
+Arnor models do not have the [Hatred](../rules_manual/special_rules.md#hatred-x) (Angmar) special rule in this Scenario.
 
 ![](../media/scenarios/rise_of_angmar/war_begins.jpg){ width=500 height=500 }
 
@@ -120,9 +120,9 @@ Arnor models do not have the Hatred (Angmar) special rule in this Scenario.
 
 **PARTICIPANTS**
 
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment.
 
-**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
+**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -134,17 +134,17 @@ The Good player deploys their models within 6" of the center of the board. The E
 
 **OBJECTIVES**
 
-Those that refused to bow to the Witch-king must flee the lands of Rhudaur if they wish to live. The game lasts until the end of a turn in which one side completes their objective. The Good side wins if five or more Good models can escape the board via any board edge. The Evil player wins if they can kill enough Good models to make it impossible for the Good side to win.
+Those that refused to [bow](../rules_manual/weapons_and_wargear.md#bows) to the Witch-king must flee the lands of Rhudaur if they wish to live. The game lasts until the end of a turn in which one side completes their objective. The Good side wins if five or more Good models can escape the board via any board edge. The Evil player wins if they can kill enough Good models to make it impossible for the Good side to win.
 
 **SPECIAL RULES**
 
 * **Hope is Lost**
 
-Evil models cause Terror in this Scenario.
+Evil models cause [Terror](../rules_manual/special_rules.md#terror) in this Scenario.
 
 * **Escape Through the Trees**
 
-Good models gain the Woodland Creature special rule.
+Good models gain the [Woodland Creature](../rules_manual/special_rules.md#woodland-creature) special rule.
 
 ![](../media/scenarios/rise_of_angmar/fall_of_rhudaur.jpg){ width=500 height=500 }
 
@@ -154,9 +154,9 @@ Good models gain the Woodland Creature special rule.
 
 **PARTICIPANTS**
 
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment.
 
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Wild Wargs.
+**Evil:** 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -192,9 +192,9 @@ Rangers of the North have 2 Attacks in this Scenario.
 
 **PARTICIPANTS**
 
-**Good:** Arveleg (King of Men with heavy armour and shield); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** Arveleg (King of Men with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields)); 2 Captains of Arnor; 24 Warriors of Arnor; 1 Warrior of Arnor with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment.
 
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with shield; Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with spear; 12 Angmar Warg Riders: 4 with shield, 4 with throwing spears, 4 with Orc bow.
+**Evil:** The Witch-king of Angmar on [horse](../rules_manual/cavalry.md#horse) with 3 Might, 15 Will, and 3 Fate; Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Captain of Carn Dum; 25 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Warriors of Carn Dum: 6 with no additional equipment, 6 with [spear](../rules_manual/weapons_and_wargear.md#spears); 12 Angmar Warg Riders: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -218,11 +218,11 @@ Models cannot enter, or be deployed within, the tower of Amon Sul.
 
 * **The Palantir**
 
-At the start of the game, the Good player secretly notes down one of their models (with the exception of Arveleg); this is the model that is carrying the Palantir. The Palantir is a Light Object that can never be passed. If the model carrying the Palantir is slain, then the Palantir is dropped rather than being immediately claimed. At this point the location of the Palantir becomes known to the Evil player. If the model carrying the Palantir escapes the board, then the game immediately ends.
+At the start of the game, the Good player secretly notes down one of their models (with the exception of Arveleg); this is the model that is carrying the Palantir. The Palantir is a [Light Object](../rules_manual/advanced_rules.md#light-objects) that can never be passed. If the model carrying the Palantir is slain, then the Palantir is dropped rather than being immediately claimed. At this point the location of the Palantir becomes known to the Evil player. If the model carrying the Palantir escapes the board, then the game immediately ends.
 
 * **Defiance of the King**
 
-Arveleg has the *Resistant to Magic* special rule, and may re-roll failed Fate rolls. Additionally, Arveleg gains the *Arnor* keyword.
+Arveleg has the *[Resistant to Magic](../rules_manual/special_rules.md#resistant-to-magic)* special rule, and may re-roll failed Fate rolls. Additionally, Arveleg gains the *Arnor* keyword.
 
 * **Rising Power**
 
@@ -238,7 +238,7 @@ The Witch-king increases his Attacks to 2 for this Scenario.
 
 **Good:** 2 Captains of Arnor; 16 Warriors of Arnor; 8 Rangers of Arnor.
 
-**Evil:** Angmar Orc Captain with shield; 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear; 6 siege ladders.
+**Evil:** Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Captains of Carn Dum; 13 Angmar Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with [spear](../rules_manual/weapons_and_wargear.md#spears); 6 [siege ladders](../rules_manual/sieges.md#siege-ladders).
 
 **LAYOUT**
 
@@ -262,7 +262,7 @@ Evil models that are fighting from a ladder do not treat the battlements as a ba
 
 * **The King is Dead**
 
-Evil models that are on the walls cause *Terror*.
+Evil models that are on the walls cause *[Terror](../rules_manual/special_rules.md#terror)*.
 
 ![](../media/scenarios/rise_of_angmar/defence_of_fornost.jpg){ width=500 height=500 }
 
@@ -272,9 +272,9 @@ Evil models that are on the walls cause *Terror*.
 
 **PARTICIPANTS**
 
-**Good:** Prince of Cardolan (King of Men with heavy armour); 16 Warriors of Arnor.
+**Good:** Prince of Cardolan (King of Men with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour)); 16 Warriors of Arnor.
 
-**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
+**Evil:** 2 Captains of Carn Dum; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -294,11 +294,11 @@ The game lasts until one side completes their objective. The Good player wins if
 
 * **A Skilled Fighter**
 
-The Prince of Cardolan has 3 Attacks rather than 2 and has the Hatred (Angmar) special rule.
+The Prince of Cardolan has 3 Attacks rather than 2 and has the [Hatred](../rules_manual/special_rules.md#hatred-x) (Angmar) special rule.
 
 * **Defend the Prince**
 
-Other Good models within 3" of the Prince of Cardolan count as being in range of a banner. If the Prince of Cardolan suffers a Wound, then the range of this special rule is increased to 6".
+Other Good models within 3" of the Prince of Cardolan count as being in range of a [banner](../rules_manual/weapons_and_wargear.md#banners). If the Prince of Cardolan suffers a Wound, then the range of this special rule is increased to 6".
 
 ![](../media/scenarios/rise_of_angmar/marauding_of_cardolan.jpg){ width=500 height=500 }
 
@@ -308,9 +308,9 @@ Other Good models within 3" of the Prince of Cardolan count as being in range of
 
 **PARTICIPANTS**
 
-**Good:** Glorfindel, Lord of the West, with Armour of Gondolin; Círdan; High Elf Captain with shield; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+**Good:** Glorfindel, Lord of the West, with [Armour](../rules_manual/weapons_and_wargear.md#armour) of Gondolin; Círdan; High Elf Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 25 High Elf Warriors: 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows), 8 with no additional equipment, 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Evil:** 2 Angmar Orc Captains with shield; 2 Captains of Carn Dum; 25 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow, 1 with banner; 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with spear.
+**Evil:** 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Captains of Carn Dum; 25 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 24 Warriors of Carn Dum: 12 with no additional equipment, 12 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -330,11 +330,11 @@ The game lasts until the end of a turn in which one side has completed their obj
 
 * **Seething Hatred**
 
-Evil models gain the Hatred (Elf) special rule.
+Evil models gain the [Hatred](../rules_manual/special_rules.md#hatred-x) (Elf) special rule.
 
 * **Test Their Resolve**
 
-Whenever an Evil Hero model is slain in combat, place a 25mm marker where they were slain. During the End phase, each Evil model within 3" of a marker must take a Courage test. If they fail, they flee the board and are removed as a casualty; Hero models that pass this Courage test may use Stand Fast!. Remove the marker at the end of the End phase.
+Whenever an Evil Hero model is slain in combat, place a 25mm marker where they were slain. During the End phase, each Evil model within 3" of a marker must take a Courage test. If they fail, they flee the board and are removed as a casualty; Hero models that pass this Courage test may use [Stand Fast!](../rules_manual/courage.md#stand-fast). Remove the marker at the end of the End phase.
 
 ![](../media/scenarios/rise_of_angmar/an_unlikely_ally.jpg){ width=500 height=500 }
 
@@ -344,9 +344,9 @@ Whenever an Evil Hero model is slain in combat, place a 25mm marker where they w
 
 **PARTICIPANTS**
 
-**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment.
 
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 3 Dead Marsh Spectres.
+**Evil:** 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 3 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -370,7 +370,7 @@ From turn 2 onwards, at the start of the Move phase, roll a D6 for each model le
 
 * **Make Haste!**
 
-Good models gain the Woodland Creature and Mountain Dweller special rules.
+Good models gain the [Woodland Creature](../rules_manual/special_rules.md#woodland-creature) and [Mountain Dweller](../rules_manual/special_rules.md#mountain-dweller) special rules.
 
 ![](../media/scenarios/rise_of_angmar/the_great_plague.jpg){ width=500 height=500 }
 
@@ -420,9 +420,9 @@ From turn 3 onwards, at the end of each Good move phase, the Good player rolls a
 
 **PARTICIPANTS**
 
-**Good:** Arvedui, Last King of Arnor; Argadir, Captain of Arnor; Malbeth the Seer; 24 Warriors of Arnor; 1 Warrior of Arnor with banner; 12 Rangers of Arnor: 4 with spear, 8 with no additional wargear; 6 Knights of Arnor.
+**Good:** Arvedui, Last King of Arnor; Argadir, Captain of Arnor; Malbeth the Seer; 24 Warriors of Arnor; 1 Warrior of Arnor with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional wargear; 6 Knights of Arnor.
 
-**Evil:** Aldrac, Warlord of Carn Dum; Fraecht, Vassal of the Witch-king; Nazthak, Orc Captain; Captain of Carn Dum; 36 Warriors of Carn Dum: 18 with no additional equipment, 18 with spear; 13 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow, 1 with banner.
+**Evil:** Aldrac, Warlord of Carn Dum; Fraecht, Vassal of the Witch-king; Nazthak, Orc Captain; Captain of Carn Dum; 36 Warriors of Carn Dum: 18 with no additional equipment, 18 with [spear](../rules_manual/weapons_and_wargear.md#spears); 13 Angmar Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
 **LAYOUT**
 
@@ -444,11 +444,11 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 * **The King of Arnor**
 
-Arvedui may declare a Heroic Combat each turn without spending Might. However, if Arvedui is slain, the best result the Good player can achieve is a draw.
+Arvedui may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) each turn without spending Might. However, if Arvedui is slain, the best result the Good player can achieve is a draw.
 
 * **Carn Dum War Chant**
 
-Once per game, after Priority has been determined, the Evil player can use this ability so long as Aldrac is still alive. Until the end of the turn, all Carn Dum models have the Terror special rule.
+Once per game, after Priority has been determined, the Evil player can use this ability so long as Aldrac is still alive. Until the end of the turn, all Carn Dum models have the [Terror](../rules_manual/special_rules.md#terror) special rule.
 
 * **Fateful Visions**
 
@@ -464,7 +464,7 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 **Good:** Arvedui, Last King of Arnor; Malbeth the Seer; Argadir, Captain of Arnor; Aranarth, First Chieftain of the Dúnedain; Captain of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor; 6 Knights of Arnor.
 
-**Evil:** Nazthak, Orc Captain; The Shadow of Rhudaur; Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 5 Werewolves; 2 Hill Trolls.
+**Evil:** Nazthak, Orc Captain; The Shadow of Rhudaur; Shade; Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 5 Werewolves; 2 Hill Trolls.
 
 **LAYOUT**
 
@@ -488,7 +488,7 @@ Whenever Arvedui suffers a Wound within 6" of Malbeth, he will ignore the Wound 
 
 * **Arvedui's Last Stand**
 
-Arvedui has the Fearless special rule.
+Arvedui has the [Fearless](../rules_manual/special_rules.md#fearless) special rule.
 
 ![](../media/scenarios/rise_of_angmar/the_fall_of_arnor.jpg){ width=501 height=501 }
 
@@ -498,9 +498,9 @@ Arvedui has the Fearless special rule.
 
 **PARTICIPANTS**
 
-**Good:** Arvedui, Last King of Arnor; Captain of Arnor; 12 Warriors of Arnor; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment.
+**Good:** Arvedui, Last King of Arnor; Captain of Arnor; 12 Warriors of Arnor; 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment.
 
-**Evil:** Gulavhar, the Terror of Arnor; Barrow-wight; 6 Angmar Orc Warriors: 3 with shield, 3 with Orc bow; 4 Werewolves.
+**Evil:** Gulavhar, the [Terror](../rules_manual/special_rules.md#terror) of Arnor; Barrow-wight; 6 Angmar Orc Warriors: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Werewolves.
 
 **LAYOUT**
 
@@ -524,7 +524,7 @@ At the end of each Evil Move phase, the Evil player rolls a D6 and adds the turn
 
 * **The Palantiri**
 
-At the start of the game, Arvedui is in possession of the Palantiri. This is a Light Object that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
+At the start of the game, Arvedui is in possession of the Palantiri. This is a [Light Object](../rules_manual/advanced_rules.md#light-objects) that cannot be passed and cannot be dropped unless the model carrying it is slain. If a model carrying the Palantiri is slain in combat, the model that slew them does not automatically gain possession of the Palantiri. Instead, it will be dropped where the model stood. If a Good model, other than Arvedui, can move the Palantiri off the board via the northern board edge, the game ends immediately and is a draw.
 
 ![](../media/scenarios/rise_of_angmar/flight_to_the_north.jpg){ width=500 height=743 }
 
@@ -536,7 +536,7 @@ At the start of the game, Arvedui is in possession of the Palantiri. This is a L
 
 **Good:** 3 Rangers of the North; 12 Hobbit Archers.
 
-**Evil:** Angmar Orc Captain with shield; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
+**Evil:** Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Angmar Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -556,7 +556,7 @@ The game lasts until one side has completed their objective. The Good side wins 
 
 * **Sure-footed**
 
-Good models gain the Woodland Creature special rule.
+Good models gain the [Woodland Creature](../rules_manual/special_rules.md#woodland-creature) special rule.
 
 * **The Orc Pack**
 
@@ -572,14 +572,14 @@ Evil models begin the game as Sentries as described in the main rules manual.
 
 **GOOD**
 
-**Gondor:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with shield;
-25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, 1 with banner; 6 Knights of Minas Tirith with shield.
+**Gondor:** Earnur, Last King of Gondor, with [armoured horse](../rules_manual/cavalry.md#armoured-horse) and [lance](../rules_manual/weapons_and_wargear.md#lances); Captain of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields);
+25 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 6 Knights of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Rivendell:** Glorfindel, Lord of the West, with Asfaloth and Armour of Gondolin; Círdan; 25 High Elf Warriors: 8 with spear and shield, 8 with Elf bow, 8 with no additional equipment, 1 with banner.
+**Rivendell:** Glorfindel, Lord of the West, with Asfaloth and [Armour](../rules_manual/weapons_and_wargear.md#armour) of Gondolin; Círdan; 25 High Elf Warriors: 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows), 8 with no additional equipment, 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Arnor:** Aranarth, First Chieftain of the Dúnedain; 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with spear, 8 with no additional equipment; 8 Hobbit Archers.
+**Arnor:** Aranarth, First Chieftain of the Dúnedain; 3 Rangers of the North; 3 Dúnedain; 12 Rangers of Arnor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional equipment; 8 Hobbit Archers.
 
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik; The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow, 2 with banner; 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
+**Evil:** The Witch-king of Angmar on [horse](../rules_manual/cavalry.md#horse) with 3 Might, 20 Will, and 3 Fate; The Tainted; The Dwimmerlaik; The Shadow of Rhudaur; Nazthak, Orc Captain; Shade; Barrow-wight; Warg Chieftain; 50 Angmar Orc Warriors: 16 with [shield](../rules_manual/weapons_and_wargear.md#shields), 16 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 8 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 2 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Wild Wargs; 6 Dead Marsh Spectres; 2 Werewolves; 2 Hill Trolls.
 
 **LAYOUT**
 
@@ -617,9 +617,9 @@ If Earnur, Glorfindel, Círdan, and Aranarth are all slain or have fled the boar
 
 **PARTICIPANTS**
 
-**Good:** 3 Captains of Minas Tirith with shield; 36 Warriors of Minas Tirith: 12 with shield, 12 with spear and shield, 12 with bow.
+**Good:** 3 Captains of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Warriors of Minas Tirith: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with shield; 36 Angmar Orc Warriors: 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 3 Dead Marsh Spectres.
+**Evil:** The Witch-king of Angmar on [horse](../rules_manual/cavalry.md#horse) with 3 Might, 15 Will, and 3 Fate; 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Angmar Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 3 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -653,10 +653,10 @@ Whenever an Evil Warrior model is slain, keep it to one side. At the end of each
 
 **PARTICIPANTS**
 
-**Good:** Earnur, Last King of Gondor, with armoured horse and lance; Captain of Minas Tirith with horse and shield; 12 Knights of Minas Tirith with shield.
+**Good:** Earnur, Last King of Gondor, with [armoured horse](../rules_manual/cavalry.md#armoured-horse) and [lance](../rules_manual/weapons_and_wargear.md#lances); Captain of Minas Tirith with [horse](../rules_manual/cavalry.md#horse) and [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Knights of Minas Tirith with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** The Witch-king of Angmar on horse with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with shield;
-24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 Dead Marsh Spectres.
+**Evil:** The Witch-king of Angmar on [horse](../rules_manual/cavalry.md#horse) with 3 Might, 16 Will, and 3 Fate; 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields);
+24 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Dead Marsh Spectres.
 
 > **Designer's Notes:** *This Scenario is designed to recreate the final showdown between Earnur and the Witch-king. The only way to win is for one of them to slay the other in single combat, and as both are remarkable warriors, one thing is for certain - it will be an epic conclusion!*
 
@@ -690,7 +690,7 @@ If a model, other than Earnur or the Witch-king, causes a Wound to either Earnur
 
 * **Death or Glory**
 
-Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch-king does not give up a Will point for being involved in a combat during this Scenario.
+Earnur gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule in this Scenario. Additionally, the Witch-king does not give up a Will point for being involved in a combat during this Scenario.
 
 ![](../media/scenarios/rise_of_angmar/last_sighting_of_earnur.jpg){ width=500 height=500 }
 
@@ -702,7 +702,7 @@ Earnur gains the Fearless special rule in this Scenario. Additionally, the Witch
 
 **Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
 
-**Evil:** 2 Angmar Orc Captains with shield; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 1 Hill Troll.
+**Evil:** 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 1 Hill Troll.
 
 **LAYOUT**
 
@@ -738,7 +738,7 @@ If the Hill Troll escapes the board, the best result the Good player can achieve
 
 **Good:** Arathorn; Halbarad; 9 Rangers of the North; 9 Dunedain.
 
-**Evil:** Buhrdur, Troll Chieftain; Angmar Orc Captain with shield; Wild Warg Chieftain; 12 Angmar Orc Warriors: 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
+**Evil:** Buhrdur, Troll Chieftain; Angmar Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Wild Warg Chieftain; 12 Angmar Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 2 Hill Trolls; 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -776,9 +776,9 @@ Once per game, at the start of the Fight phase, the Evil player may declare that
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with bow; Halbarad; Elladan & Elrohir with heavy armour; 9 Rangers of the North; 9 Dunedain.
+**Good:** Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Halbarad; Elladan & Elrohir with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour); 9 Rangers of the North; 9 Dunedain.
 
-**Evil:** Buhrdur, Troll Chieftain; 2 Angmar Orc Captains with shield; Wild Warg Chieftain; 24 Angmar Orc Warriors: 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 2 Hill Trolls; 6 Wild Wargs.
+**Evil:** Buhrdur, Troll Chieftain; 2 Angmar Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); Wild Warg Chieftain; 24 Angmar Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 2 Hill Trolls; 6 Wild Wargs.
 
 **LAYOUT**
 
@@ -808,7 +808,7 @@ From the third turn onwards, at the end of each Good Move phase, the Good player
 
 * **The Young Warrior**
 
-Aragorn does not have the Mighty Hero special rule in this scenario.
+Aragorn does not have the [Mighty Hero](../rules_manual/special_rules.md#mighty-hero) special rule in this scenario.
 
 ![](../media/scenarios/rise_of_angmar/aragorns_revenge.jpg){ width=500 height=500 }
 
@@ -818,9 +818,9 @@ Aragorn does not have the Mighty Hero special rule in this scenario.
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with bow; Halbarad; 6 Rangers of the North; 6 Dunedain.
+**Good:** Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Halbarad; 6 Rangers of the North; 6 Dunedain.
 
-**Evil:** Gulavhar, Terror of Arnor; 6 Dead Marsh Spectres.
+**Evil:** Gulavhar, [Terror](../rules_manual/special_rules.md#terror) of Arnor; 6 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -844,10 +844,10 @@ From the second turn onwards, at the end of each player's Move phase, they roll 
 
 * **The Young Warrior**
 
-Aragorn does not have the Mighty Hero special rule in this scenario.
+Aragorn does not have the [Mighty Hero](../rules_manual/special_rules.md#mighty-hero) special rule in this scenario.
 
 * **Chieftain of the Dunedain**
 
-Aragorn gains the Fearless special rule in this scenario.
+Aragorn gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule in this scenario.
 
 ![](../media/scenarios/rise_of_angmar/the_terror_of_arnor.jpg){ width=500 height=500 }

@@ -582,7 +582,7 @@ Whilst Húrin is alive and on the battlefield, your opponent cannot score any Vi
 **OPTIONS**
 
 - [Horse] - 20 points
-- The Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 

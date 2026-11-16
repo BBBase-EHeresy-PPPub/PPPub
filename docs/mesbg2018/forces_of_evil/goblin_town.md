@@ -216,7 +216,7 @@ The Goblin Scribe is automatically Trapped is he loses a Fight. In the Move phas
 
 - **The Precious** `ACTIVE`
 
-Unless there is another Ringbearer in play, Gollum has the Ring. If the Ringbearer is slain in a Fight with Gollum, he automatically adds the Ring to his wargear.
+Unless there is another Ringbearer in play, Gollum has [the Ring][The One Ring]. If the Ringbearer is slain in a Fight with Gollum, he automatically adds [the Ring][The One Ring] to his wargear.
 
 - **Strangler** `PASSIVE`
 

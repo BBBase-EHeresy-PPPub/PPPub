@@ -90,7 +90,7 @@ Khamul the Easterling has 3 Attacks instead of 2.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -134,7 +134,7 @@ You may have up to two Abyssal Knights. After Priority is rolled, you may move o
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -178,7 +178,7 @@ You may have up to two Abyssal Knights. After Priority is rolled, you may move o
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -222,7 +222,7 @@ If he scores a natural 6 when rolling To Wound, the Strike causes D3 Wounds inst
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -266,7 +266,7 @@ This is a [spear][Spear], and the Forsaken must re-roll failed To Wound rolls.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -310,7 +310,7 @@ After Priority is rolled, the Lingering Shadow may move anywhere within 3" of hi
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -354,7 +354,7 @@ You may have up to two Slayers of Men. This model never suffers the -1 penalty f
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -398,7 +398,7 @@ You may have up to two Slayers of Men. This model never suffers the -1 penalty f
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 
@@ -442,7 +442,7 @@ The Witch-king has 3 Might instead of 2.
 
 - **One of Nine** `PASSIVE`
 
-Maximum of nine Ringwraith models in your army. Hero models wearing the Ring are not invisible to these models.
+Maximum of nine Ringwraith models in your army. Hero models wearing [the Ring][The One Ring] are not invisible to these models.
 
 - **Servants of Evil** `PASSIVE`
 

@@ -26,7 +26,7 @@ The 'Evil' side wins immediately if they can gather five Plunder Tokens at the S
 
 * **Definitely not Life or Death**
 
-In this Scenario, the Hobbits are wounded in a special way. Frodo, Sam, Merry, and Pippin have 3 Wounds each, but no Might, Will, or Fate. If one of the Hobbits suffers 3 Wounds, the amount of dog bites and bruises they have gathered is enough to make them flee - remove them from the board. Frodo may not use the Ring in this Scenario.
+In this Scenario, the Hobbits are wounded in a special way. Frodo, Sam, Merry, and Pippin have 3 Wounds each, but no Might, Will, or Fate. If one of the Hobbits suffers 3 Wounds, the amount of dog bites and bruises they have gathered is enough to make them flee - remove them from the board. Frodo may not use [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) in this Scenario.
 
 * **Farmer Maggot**
 
@@ -34,11 +34,11 @@ If any dog suffers a Wound, then Farmer Maggot has been alerted. At the end of e
 
 * **The Farmer and his Hounds**
 
-No Hobbit may make Strikes against Farmer Maggot or target him with stones. The Hobbits may also not make Special Strikes. Should a dog suffer a Wound, it will not be slain; instead, it is removed from the board and placed touching the kennel. A dog sent to the kennel in this way may do nothing else unless Farmer Maggot touches the kennel, at which point the dog can act as normal. Additionally, Farmer Maggot and his dogs have the Terror special rule in this Scenario.
+No Hobbit may make Strikes against Farmer Maggot or target him with stones. The Hobbits may also not make Special Strikes. Should a dog suffer a Wound, it will not be slain; instead, it is removed from the board and placed touching the kennel. A dog sent to the kennel in this way may do nothing else unless Farmer Maggot touches the kennel, at which point the dog can act as normal. Additionally, Farmer Maggot and his dogs have the [Terror](../rules_manual/special_rules.md#terror) special rule in this Scenario.
 
 * **Loot and Plunder**
 
-If, during the End phase of any turn, any of the Hobbits are within Maggot's field and did not fight or shoot that turn, they immediately gain a Plunder Token - this is a Light Object.
+If, during the End phase of any turn, any of the Hobbits are within Maggot's field and did not fight or shoot that turn, they immediately gain a Plunder Token - this is a [Light Object](../rules_manual/advanced_rules.md#light-objects).
 
 If a Hobbit carrying a Plunder Token is charged, or charges, it will immediately drop the token within 1" of itself. Hobbits may only carry one Plunder Token at a time and may only voluntarily drop them when in base contact with the Stash Marker.
 
@@ -68,7 +68,7 @@ One Ringwraith is then deployed touching the center of each of the northern, sou
 
 **OBJECTIVES**
 
-Frodo is being hunted by the Black Riders and must slip past them to escape. The Ringwraiths are hunting Frodo, and if they find him, they will not hesitate to kill him and take the Ring.
+Frodo is being hunted by the Black Riders and must slip past them to escape. The Ringwraiths are hunting Frodo, and if they find him, they will not hesitate to kill him and take [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring).
 
 The Good player wins if Frodo escapes the board via the eastern board edge, or if all the Ringwraiths are slain. The Evil player wins if Frodo is slain.
 
@@ -76,7 +76,7 @@ The Good player wins if Frodo escapes the board via the eastern board edge, or i
 
 * **The Search**
 
-The Ringwraiths follow the rules for Sentries as detailed in the Middle-earth Strategy Battle Game Rules Manual. Additionally, as the Ringwraiths are not well-suited to seeing in daylight, all Good models gain the Stalk Unseen special rule. If Frodo puts the Ring on, the alarm is immediately raised, and each Ringwraith will move up to 6" towards Frodo if able.
+The Ringwraiths follow the rules for Sentries as detailed in the Middle-earth Strategy Battle Game Rules Manual. Additionally, as the Ringwraiths are not well-suited to seeing in daylight, all Good models gain the [Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen) special rule. If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on, the alarm is immediately raised, and each Ringwraith will move up to 6" towards Frodo if able.
 
 * **Lost in the Woods**
 
@@ -108,7 +108,7 @@ The Ringwraiths are deployed within 3" of the centerline of the board that runs 
 
 **OBJECTIVES**
 
-Frodo must not let the Ring fall into the Ringwraiths' hands, and must escape them using the Buckleberry Ferry to cross the river.
+Frodo must not let [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) fall into the Ringwraiths' hands, and must escape them using the Buckleberry Ferry to cross the river.
 
 The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if Frodo is slain.
 
@@ -116,7 +116,7 @@ The Good player wins if Frodo can escape the board via the eastern board edge. T
 
 * **The Search**
 
-The Nazgûl follow the rules for Sentries as detailed in the Middle-earth Strategy Battle Game rules manual. If Frodo puts the Ring on, the alarm is immediately raised and each Nazgûl will move up to 6" towards Frodo if able.
+The Nazgûl follow the rules for Sentries as detailed in the Middle-earth Strategy Battle Game rules manual. If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on, the alarm is immediately raised and each Nazgûl will move up to 6" towards Frodo if able.
 
 * **The Ferry**
 
@@ -124,7 +124,7 @@ The Ferry can be moved at a rate of D6" per turn, and must have at least one mod
 
 * **The Brandywine**
 
-The Brandywine is Deep Water. Additionally, any Hobbit in the water must make a Courage test before rolling on the Swim chart. If the test is failed, the Hobbit must try to swim towards the nearest bank during that turn. The Nazgûl may not enter the water under any circumstances.
+The Brandywine is [Deep Water](../rules_manual/advanced_rules.md#deep-water). Additionally, any Hobbit in the water must make a Courage test before rolling on the Swim chart. If the test is failed, the Hobbit must try to swim towards the nearest bank during that turn. The Nazgûl may not enter the water under any circumstances.
 
 * **Cry of the Nazgûl**
 
@@ -170,7 +170,7 @@ Trees that lose a fight can still be struck, but will not be slain if they suffe
 
 * **Knocked Unconscious**
 
-Any Hobbit that suffers its last Wound and would be slain will be knocked unconscious rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power.
+Any Hobbit that suffers its last Wound and would be slain will be knocked unconscious rather than being removed as a casualty. Treat the model as being under the effects of the [Paralyse](../rules_manual/magical_powers.md#paralyse) Magical Power.
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_old_forest.jpg){ width=500 height=500 }
 
@@ -214,7 +214,7 @@ During each Hobbit model's Move phase, if that Hobbit has seen a Barrow-wight, t
 
 * **Sacrifice**
 
-Any Hobbit that suffers its last Wound and would be slain will instead be paralyzed rather than being removed as a casualty. Treat the model as being under the effects of the Paralyse Magical Power. A Barrow-wight may drag a paralyzed Hobbit at full speed but will immediately drop them if Charged. Should a Hobbit recover from paralysis while being dragged, the Good player may place them within 1" of where they were. Should a Barrow-wight start its move in base contact with both a Barrow and a paralyzed Hobbit, they can attempt to sacrifice them. Roll a D6, on a 4+ the Hobbit has been sacrificed and removed as a casualty. The Barrow-wight may then act as normal.
+Any Hobbit that suffers its last Wound and would be slain will instead be paralyzed rather than being removed as a casualty. Treat the model as being under the effects of the [Paralyse](../rules_manual/magical_powers.md#paralyse) Magical Power. A Barrow-wight may drag a paralyzed Hobbit at full speed but will immediately drop them if Charged. Should a Hobbit recover from paralysis while being dragged, the Good player may place them within 1" of where they were. Should a Barrow-wight start its move in base contact with both a Barrow and a paralyzed Hobbit, they can attempt to sacrifice them. Roll a D6, on a 4+ the Hobbit has been sacrificed and removed as a casualty. The Barrow-wight may then act as normal.
 
 ![](../media/scenarios/quest_of_the_ringbearer/fog_on_the_barrow-downs.jpg){ width=500 height=500 }
 
@@ -226,7 +226,7 @@ Any Hobbit that suffers its last Wound and would be slain will instead be paraly
 
 **Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Barliman Butterbur; Harry Goatleaf.
 
-**Evil:** 4 Ringwraiths on horse with no additional Might, Will, or Fate.
+**Evil:** 4 Ringwraiths on [horse](../rules_manual/cavalry.md#horse) with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -240,13 +240,13 @@ Harry Goatleaf is deployed 3" from the center of the western board edge. The Rin
 
 **OBJECTIVES**
 
-The Nazgûl's hunt for the Ring has brought them to Bree, and they will tear the village apart to find it. Frodo must escape Bree to prevent the Ring from falling into the hands of the Ringwraiths. The Good side wins if Frodo, Aragorn, and at least two other Hobbit models escape the board via the eastern board edge. The Evil side wins if Frodo is slain.
+The Nazgûl's hunt for [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) has brought them to Bree, and they will tear the village apart to find it. Frodo must escape Bree to prevent [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) from falling into the hands of the Ringwraiths. The Good side wins if Frodo, Aragorn, and at least two other Hobbit models escape the board via the eastern board edge. The Evil side wins if Frodo is slain.
 
 **SPECIAL RULES**
 
 * **Move Quietly**
 
-Good models may not declare a Heroic March in this Scenario. The Good models within the Prancing Pony exit the inn via the door during the Good player's first Move phase.
+Good models may not declare a [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase) in this Scenario. The Good models within the Prancing Pony exit the inn via the door during the Good player's first Move phase.
 
 * **Hunting the Ringbearer**
 
@@ -260,7 +260,7 @@ If, after both sides have moved, a Ringwraith can draw Line of Sight to a Good m
 
 Before Frodo tries to move, he must take a Courage test.
 
-If he passes, everything is fine; however, if he fails, he must put the Ring on. Frodo suffers an additional -1 to this Courage test for each Ringwraith within 12" after the first. Frodo gains a bonus of +1 to this test for each friendly model in base contact. If Frodo puts the Ring on, the Heroes immediately count as being spotted and each Ringwraith may immediately move towards Frodo if able.
+If he passes, everything is fine; however, if he fails, he must put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on. Frodo suffers an additional -1 to this Courage test for each Ringwraith within 12" after the first. Frodo gains a bonus of +1 to this test for each friendly model in base contact. If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on, the Heroes immediately count as being spotted and each Ringwraith may immediately move towards Frodo if able.
 
 ![](../media/scenarios/quest_of_the_ringbearer/nazgul_in_bree.jpg){ width=500 height=500 }
 
@@ -284,13 +284,13 @@ Frodo is deployed in the center of Weathertop, with the other Hobbits surroundin
 
 **OBJECTIVES**
 
-The Nazgûl have come to claim the Ring for their master; only by driving them off can Frodo and his companions hope to keep the Ring. The Evil side wins if Frodo is slain. The Good side wins if all of the Ringwraiths are slain before this can happen.
+The Nazgûl have come to claim [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) for their master; only by driving them off can Frodo and his companions hope to keep [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). The Evil side wins if Frodo is slain. The Good side wins if all of the Ringwraiths are slain before this can happen.
 
 **SPECIAL RULES**
 
 * **Flaming Brands**
 
-Aragorn, Merry, Pippin, and Sam have flaming brands in addition to their normal weapons. If a Ringwraith loses a Duel roll against a model with a flaming brand, they will retreat D6" directly away from that model. Additionally, Aragorn may choose to use his flaming brand as a throwing weapon. If it hits, do not roll To Wound; instead the model is immediately Set Ablaze.
+Aragorn, Merry, Pippin, and Sam have flaming brands in addition to their normal weapons. If a Ringwraith loses a Duel roll against a model with a flaming brand, they will retreat D6" directly away from that model. Additionally, Aragorn may choose to use his flaming brand as a [throwing weapon](../rules_manual/weapons_and_wargear.md#throwing-weapons). If it hits, do not roll To Wound; instead the model is immediately [Set Ablaze](../rules_manual/special_rules.md#set-ablaze).
 
 Once Aragorn has thrown his flaming brand, he may not use it for the remainder of the Scenario.
 
@@ -314,7 +314,7 @@ Until the end of the turn, all Good models reduce their Courage value by 3. If t
 
 **Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider; Arwen Undómiel on Asfaloth.
 
-**Evil:** The Witch-king of Angmar on horse, and 8 Ringwraiths on horse, each with no additional Might, Will, or Fate.
+**Evil:** The Witch-king of Angmar on [horse](../rules_manual/cavalry.md#horse), and 8 Ringwraiths on [horse](../rules_manual/cavalry.md#horse), each with no additional Might, Will, or Fate.
 
 **LAYOUT**
 
@@ -326,13 +326,13 @@ The Good player deploys Arwen within 6" of the western board edge. Frodo starts 
 
 **OBJECTIVES**
 
-Frodo must reach the safety of Rivendell before the wound suffered by the Morgul Blade corrupts him, but cannot do so with the Ringwraiths so near. The Ringwraiths must slay the Hobbit and reclaim the Ring. The Good player wins if all nine Ringwraiths are slain. The Evil player wins if Frodo is slain. If both players achieve their objective in the same turn, the game is a draw.
+Frodo must reach the safety of Rivendell before the wound suffered by the Morgul Blade corrupts him, but cannot do so with the Ringwraiths so near. The Ringwraiths must slay the Hobbit and reclaim [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). The Good player wins if all nine Ringwraiths are slain. The Evil player wins if Frodo is slain. If both players achieve their objective in the same turn, the game is a draw.
 
 **SPECIAL RULES**
 
 * **Protection of Imladris**
 
-Good models that are on the eastern side of the river count as having the Fortify Spirit Magical Power cast upon them, even if their Will points are reduced to 0.
+Good models that are on the eastern side of the river count as having the [Fortify Spirit](../rules_manual/magical_powers.md#fortify-spirit) Magical Power cast upon them, even if their Will points are reduced to 0.
 
 * **Weakened by the Chase**
 
@@ -340,7 +340,7 @@ Frodo, Sam, and Aragorn start the game with no Might points in their store; Frod
 
 * **The Wrath of Bruinen**
 
-At the start of the game, the river is treated as Deep Water and the ford is open ground; however, Cavalry models may only move at half speed over the ford. Once Asfaloth has stepped foot in the river, the Good player may roll a D6 at the start of each following turn. On a 4+ Elrond is ready to unleash the power of the Bruinen, which the Good player can release at any point in any following Good Move phase. When the Bruinen is unleashed, all models in the river (Good and Evil) are removed from the game as casualties. From that point on, the river is treated as impassible terrain and the ford is treated as difficult terrain. Arwen may not use the Wrath of Bruinen Magical Power in this Scenario.
+At the start of the game, the river is treated as [Deep Water](../rules_manual/advanced_rules.md#deep-water) and the ford is open ground; however, Cavalry models may only move at half speed over the ford. Once Asfaloth has stepped foot in the river, the Good player may roll a D6 at the start of each following turn. On a 4+ Elrond is ready to unleash the power of the Bruinen, which the Good player can release at any point in any following Good Move phase. When the Bruinen is unleashed, all models in the river (Good and Evil) are removed from the game as casualties. From that point on, the river is treated as impassible terrain and the ford is treated as [difficult terrain](../rules_manual/move_phase.md#difficult-terrain). Arwen may not use the [Wrath of Bruinen](../rules_manual/magical_powers.md#wrath-of-bruinen) Magical Power in this Scenario.
 
 * **The Ringwraiths**
 
@@ -356,13 +356,13 @@ From the second turn onwards, roll a D6 for each Ringwraith that has not yet arr
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
 **Evil:** None!
 
 **SET-UP**
 
-For this mini-game, you will need a pack of ordinary playing cards. Separate the cards into suits; shuffle the hearts and diamonds together and deal them face-down as shown above - this is the Pass of Caradhras. Give the spades and clubs to the Evil player, which makes up their hand.
+For this mini-game, you will need a pack of ordinary playing cards. Separate the cards into suits; shuffle the hearts and diamonds together and deal them face-down as shown above - this is the Pass of Caradhras. Give the spades and [clubs](../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs) to the Evil player, which makes up their hand.
 
 **STARTING POSITIONS**
 
@@ -392,7 +392,7 @@ At the end of each turn, the Evil player can play a card from their hand to brin
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Bill the Pony.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields); Bill the Pony.
 
 **Evil:** Wild Warg Chieftain; 18 Wild Wargs.
 
@@ -420,7 +420,7 @@ At the start of each turn, any Evil Warrior models that have previously been sla
 
 * **Fearless**
 
-All Evil models gain the Fearless special rule.
+All Evil models gain the [Fearless](../rules_manual/special_rules.md#fearless) special rule.
 
 ![](../media/scenarios/quest_of_the_ringbearer/wargs_in_the_night.jpg){ width=500 height=500 }
 
@@ -430,7 +430,7 @@ All Evil models gain the Fearless special rule.
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
 **Evil:** The Watcher in the Water.
 
@@ -450,7 +450,7 @@ The Fellowship must escape the clutches of the Watcher in the Water by entering 
 
 * **Caught by Surprise**
 
-The Evil player has Priority on the first turn. Additionally, Good models cannot use Magical Powers, or declare a Heroic Move or Heroic Shoot during the first turn.
+The Evil player has Priority on the first turn. Additionally, Good models cannot use Magical Powers, or declare a [Heroic Move](../rules_manual/heroes.md#heroic-move-move-phase) or [Heroic Shoot](../rules_manual/heroes.md#heroic-shoot-shoot-phase) during the first turn.
 
 * **It won't Die!**
 
@@ -458,7 +458,7 @@ Whenever the Watcher in the Water suffers a Wound, it will immediately retreat D
 
 * **The Shallows**
 
-The Pool is shallow water. However, each time a Good model starts its Move within the Pool, they must roll a D6. On a 1, the model is knocked Prone and cannot move any further that turn. On a 2-5, the model counts as moving through difficult terrain. On a 6, the model may move as normal. Legolas gains a bonus of +1 to this roll. Additionally, as the water is too shallow, the Watcher in the Water may not use its Dragged to the Depths special rule.
+The Pool is shallow water. However, each time a Good model starts its Move within the Pool, they must roll a D6. On a 1, the model is knocked [Prone](../rules_manual/move_phase.md#prone-models) and cannot move any further that turn. On a 2-5, the model counts as moving through [difficult terrain](../rules_manual/move_phase.md#difficult-terrain). On a 6, the model may move as normal. Legolas gains a bonus of +1 to this roll. Additionally, as the water is too shallow, the Watcher in the Water may not use its Dragged to the Depths special rule.
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_gates_of_moria.jpg){ width=500 height=500 }
 
@@ -468,9 +468,9 @@ The Pool is shallow water. However, each time a Good model starts its Move withi
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
+**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 1 Cave Troll with [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [hammer](../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls) and Troll chain.
 
 **LAYOUT**
 
@@ -504,9 +504,9 @@ During the Evil player's fourth Move phase, the Cave Troll may enter the board f
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 1 Cave Troll with two-handed hammer and Troll chain.
+**Evil:** 2 Moria Goblin Captains; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 1 Cave Troll with [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) [hammer](../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls) and Troll chain.
 
 **LAYOUT**
 
@@ -540,9 +540,9 @@ Any model that leaves the walkways for any reason (except when a Good model esca
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
 
-**Evil:** The Balrog; 2 Moria Goblin Captains; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow.
+**Evil:** The Balrog; 2 Moria Goblin Captains; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -566,7 +566,7 @@ At the end of each Evil player's Move phase, the Evil player rolls a D6. If the 
 
 * **The Bridge of Khazad-dûm**
 
-Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical Power, providing he is standing on it. If successfully cast, do not follow the normal rules for the Magical Power; instead, roll a D6 and consult the chart below. Might may not be used to influence this roll.
+Gandalf may target the Bridge of Khazad-dûm with the *[Sorcerous Blast](../rules_manual/magical_powers.md#sorcerous-blast)* Magical Power, providing he is standing on it. If successfully cast, do not follow the normal rules for the Magical Power; instead, roll a D6 and consult the chart below. Might may not be used to influence this roll.
 
 | D6 | Result |
 |-----------|----------|
@@ -582,9 +582,9 @@ Gandalf may target the Bridge of Khazad-dûm with the *Sorcerous Blast* Magical 
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with shield; Haldir with Elf bow; 6 Wood Elf Warriors with Elf bow.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields); Haldir with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Wood Elf Warriors with Elf [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** 2 Moria Goblin Captains; Wild Warg Chieftain; 24 Moria Goblins: 8 with shield, 8 with spear, 8 with Orc bow; 18 Wild Wargs.
+**Evil:** 2 Moria Goblin Captains; Wild Warg Chieftain; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 18 Wild Wargs.
 
 **LAYOUT**
 
@@ -608,7 +608,7 @@ At the start of the game, the Good player places six 25mm markers numbered 1-6 i
 
 * **Weary from the Chase**
 
-Good models may not use Heroic March in this Scenario.
+Good models may not use [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase) in this Scenario.
 
 * **The Wargs**
 
@@ -622,11 +622,11 @@ At the end of each Evil Move phase, D6 Warg models may enter the board via the r
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin.
 
-All Good models have an Elven Cloak.
+All Good models have an [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
-**Evil:** Lurtz; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
+**Evil:** Lurtz; Uruk-hai Scout Captain with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 24 Uruk-hai Scouts: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Uruk-hai [bow](../rules_manual/weapons_and_wargear.md#bows), 8 with no additional wargear.
 
 **LAYOUT**
 
@@ -638,7 +638,7 @@ The Good player deploys Aragorn and Frodo in base contact with the Seeing Seat. 
 
 **OBJECTIVES**
 
-The Uruk-hai have come to claim the Ring for Saruman and to kill all who stand in their path. Should either Frodo or Aragorn fall, all shall be lost.
+The Uruk-hai have come to claim [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) for Saruman and to kill all who stand in their path. Should either Frodo or Aragorn fall, all shall be lost.
 
 The Good player wins if Frodo can escape the board via the southern board edge while Aragorn is still alive. If either Frodo or Aragorn is slain, the Evil player wins.
 
@@ -662,9 +662,9 @@ At the end of each Evil Move phase, the Evil player rolls a D6 for each Uruk-hai
 
 **Good:** Boromir of Gondor; Meriadoc Brandybuck; Peregrin Took.
 
-All Good models have an Elven Cloak.
+All Good models have an [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
-**Evil:** Uruk-hai Scout Captain with two-handed weapon; 18 Uruk-hai Scouts: 6 with shield, 6 with Uruk-hai bow, 6 with no additional wargear.
+**Evil:** Uruk-hai Scout Captain with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 18 Uruk-hai Scouts: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with Uruk-hai [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with no additional wargear.
 
 **LAYOUT**
 
@@ -688,7 +688,7 @@ From the 11th turn onwards, if the roll for Priority is ever a draw, then the ga
 
 * **Find the Halflings!**
 
-Evil models may not target a Hobbit with shooting attacks. Additionally, any Hobbit that loses its final Wound is not slain but knocked unconscious; they count as being under the effects of the *Paralyse* Magical Power. Uruk-hai models treat Hobbit models as Light Objects.
+Evil models may not target a Hobbit with shooting attacks. Additionally, any Hobbit that loses its final Wound is not slain but knocked unconscious; they count as being under the effects of the *[Paralyse](../rules_manual/magical_powers.md#paralyse)* Magical Power. Uruk-hai models treat Hobbit models as [Light Objects](../rules_manual/advanced_rules.md#light-objects).
 
 ![](../media/scenarios/quest_of_the_ringbearer/boromirs_redemption.jpg){ width=500 height=500 }
 
@@ -698,11 +698,11 @@ Evil models may not target a Hobbit with shooting attacks. Additionally, any Hob
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+**Good:** Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
 
-All Good models have an Elven Cloak.
+All Good models have an [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
-**Evil:** Lurtz with shield; Uruk-hai Scout Captain with two-handed weapon; 24 Uruk-hai Scouts: 8 with shield, 8 with Uruk-hai bow, 8 with no additional wargear.
+**Evil:** Lurtz with [shield](../rules_manual/weapons_and_wargear.md#shields); Uruk-hai Scout Captain with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons); 24 Uruk-hai Scouts: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Uruk-hai [bow](../rules_manual/weapons_and_wargear.md#bows), 8 with no additional wargear.
 
 **LAYOUT**
 
@@ -726,7 +726,7 @@ Boromir starts the game with 3 Might points and only a single Wound. Additionall
 
 * **Shield Throw**
 
-Once per game, Lurtz can choose to use his shield as a throwing weapon. This has a Strength of 4, and any Man-sized (or smaller) model hit by the shield is automatically knocked Prone. Once Lurtz has thrown his shield, he no longer carries it and cannot use it for the remainder of the battle.
+Once per game, Lurtz can choose to use his [shield](../rules_manual/weapons_and_wargear.md#shields) as a [throwing weapon](../rules_manual/weapons_and_wargear.md#throwing-weapons). This has a Strength of 4, and any Man-sized (or smaller) model hit by the [shield](../rules_manual/weapons_and_wargear.md#shields) is automatically knocked [Prone](../rules_manual/move_phase.md#prone-models). Once Lurtz has thrown his [shield](../rules_manual/weapons_and_wargear.md#shields), he no longer carries it and cannot use it for the remainder of the battle.
 
 ![](../media/scenarios/quest_of_the_ringbearer/breaking_of_the_fellowship.jpg){ width=500 height=500 }
 
@@ -736,11 +736,11 @@ Once per game, Lurtz can choose to use his shield as a throwing weapon. This has
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with [bow](../rules_manual/weapons_and_wargear.md#bows); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
 
-All Good models have an Elven Cloak.
+All Good models have an [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
-**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with shield, 8 with Uruk-hai bow.
+**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Uruk-hai [bow](../rules_manual/weapons_and_wargear.md#bows).
 
 **LAYOUT**
 
@@ -766,7 +766,7 @@ The Evil player can claim a draw even if Frodo escapes the board, so long as the
 
 * **Find the Halflings!**
 
-Should a Hobbit suffer their final Wound, instead of being slain they will recover a single Wound and be knocked out instead - treat them as being subject to the *Paralyse* Magical Power. Any Evil model may carry a knocked-out Hobbit as if he were a Heavy Object (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its move in base contact with a knocked-out Hobbit, they will automatically revive them and they may act as normal, although they will start their move in the Prone position. Should any Evil model leave any table edge while carrying a knocked-out Hobbit, with the exception of the western edge, the Evil player is considered to have captured that Hobbit.
+Should a Hobbit suffer their final Wound, instead of being slain they will recover a single Wound and be knocked out instead - treat them as being subject to the *[Paralyse](../rules_manual/magical_powers.md#paralyse)* Magical Power. Any Evil model may carry a knocked-out Hobbit as if he were a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects) (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its move in base contact with a knocked-out Hobbit, they will automatically revive them and they may act as normal, although they will start their move in the [Prone](../rules_manual/move_phase.md#prone-models) position. Should any Evil model leave any table edge while carrying a knocked-out Hobbit, with the exception of the western edge, the Evil player is considered to have captured that Hobbit.
 
 * **The Legions of Isengard**
 
@@ -780,7 +780,7 @@ At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has pre
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
+**Good:** Frodo Baggins with Sting, Mithril Coat, and [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
 **Evil:** Sméagol.
 
@@ -794,15 +794,15 @@ The Good player deploys Frodo and Sam in the center of the board. The Evil playe
 
 **OBJECTIVES**
 
-Gollum has tracked the Hobbits since Moria, and now has the opportunity to strike and steal the Ring. If they become aware of Gollum, the Hobbits will try to subdue him.
+Gollum has tracked the Hobbits since Moria, and now has the opportunity to strike and steal [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). If they become aware of Gollum, the Hobbits will try to subdue him.
 
-The Good player wins if Gollum is subdued. The Evil player wins if Gollum kills Frodo and reclaims the Ring. If Gollum is subdued but Sam has been slain, the game is a draw.
+The Good player wins if Gollum is subdued. The Evil player wins if Gollum kills Frodo and reclaims [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). If Gollum is subdued but Sam has been slain, the game is a draw.
 
 **SPECIAL RULES**
 
 * **Sleeping Hobbits**
 
-The Hobbits start the game Prone and may not move until they are disturbed. As Gollum approaches, there is a chance he will wake the Hobbits. Roll a D6 before Gollum moves.
+The Hobbits start the game [Prone](../rules_manual/move_phase.md#prone-models) and may not move until they are disturbed. As Gollum approaches, there is a chance he will wake the Hobbits. Roll a D6 before Gollum moves.
 If the number rolled is higher than the distance between him and the Hobbits, or a 6 is rolled, he has disturbed them and the Hobbits immediately stand up and act normally from this point onwards. If Gollum attacks a sleeping Hobbit, the Hobbits have been woken and may act normally from this point onwards.
 
 * **Subduing Gollum**
@@ -821,9 +821,9 @@ Each time Gollum loses a Fight against Frodo, he must make a Courage test. If th
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol.
+**Good:** Frodo Baggins with Sting, Mithril Coat, and [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Sméagol.
 
-**Evil:** Ringwraith on Fell Beast with 0 Might, 10 Will, and 0 Fate; 6 Dead Marsh Spectres.
+**Evil:** Ringwraith on [Fell Beast](../rules_manual/cavalry.md#fell-beast) with 0 Might, 10 Will, and 0 Fate; 6 Dead Marsh Spectres.
 
 **LAYOUT**
 
@@ -835,7 +835,7 @@ The Good player deploys Frodo, Sam, and Sméagol touching the center of the west
 
 **OBJECTIVES**
 
-With the Ringwraith overhead, Frodo and his companions must cross the Dead Marshes without being noticed if they wish to keep the Ring away from the Nazgûl.
+With the Ringwraith overhead, Frodo and his companions must cross the Dead Marshes without being noticed if they wish to keep [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) away from the Nazgûl.
 
 The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if Frodo is slain.
 
@@ -847,11 +847,11 @@ All Evil models start the game as Sentries. However, if a model would normally s
 
 * **Don't follow the Lights**
 
-If a Good model is moved into any of the marshland as a result of a Spectre's 'A Fell Light is in Them' special rule, they must roll a D6. On a 1 or 2, the model succumbs to the powers of the Spectres and falls into the marsh; they are now Prone. A model that has succumbed to the Spectres cannot act in any way, and if they remain in the marsh during the End phase of the following turn, they are removed as a casualty. A friendly model can rescue a model that has succumbed by ending their Move in base contact with them; the rescued model may then act as normal.
+If a Good model is moved into any of the marshland as a result of a Spectre's 'A Fell Light is in Them' special rule, they must roll a D6. On a 1 or 2, the model succumbs to the powers of the Spectres and falls into the marsh; they are now [Prone](../rules_manual/move_phase.md#prone-models). A model that has succumbed to the Spectres cannot act in any way, and if they remain in the marsh during the End phase of the following turn, they are removed as a casualty. A friendly model can rescue a model that has succumbed by ending their Move in base contact with them; the rescued model may then act as normal.
 
 * **Call of the Ring**
 
-If Frodo puts the Ring on, then the Ringwraith will no longer be a Sentry and will act as normal.
+If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on, then the Ringwraith will no longer be a Sentry and will act as normal.
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_dead_marshes.jpg){ width=500 height=500 }
 
@@ -861,9 +861,9 @@ If Frodo puts the Ring on, then the Ringwraith will no longer be a Sentry and wi
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with spear.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Sméagol; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
-**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
+**Evil:** 2 War Mûmakil of Harad each with 12 Haradrim Warriors with [bow](../rules_manual/weapons_and_wargear.md#bows); 24 Haradrim Warriors with [spear](../rules_manual/weapons_and_wargear.md#spears).
 
 **LAYOUT**
 
@@ -883,7 +883,7 @@ The game lasts until there are no Mûmakil left on the board. The Evil side wins
 
 * **Unseen Hunters**
 
-At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the *Stalk Unseen* special rule and may re-roll any 1s To Wound when making a shooting attack.
+At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the *[Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen)* special rule and may re-roll any 1s To Wound when making a shooting attack.
 
 ![](../media/scenarios/quest_of_the_ringbearer/ambush_at_ithilien.jpg){ width=500 height=500 }
 
@@ -893,9 +893,9 @@ At the start of the game, before the first Priority is rolled, each Good model m
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak; Sméagol; 13 Warriors of Minas Tirith: 4 with shield, 4 with spear & shield, 4 with bow, 1 with banner; 12 Rangers of Gondor: 4 with spear, 8 with no additional wargear; 6 Osgiliath Veterans: 2 with shield, 2 with spear, 2 with bow.
+**Good:** Faramir, Captain of Gondor with [bow](../rules_manual/weapons_and_wargear.md#bows); Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Anborn, Ranger of Ithilien; Mablung, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat, and [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Sméagol; 13 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Rangers of Gondor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with no additional wargear; 6 Osgiliath Veterans: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [bow](../rules_manual/weapons_and_wargear.md#bows).
 
-**Evil:** 3 Orc Captains with shield; 1 Ringwraith on Fell Beast with 2 Might, 10 Will, and 2 Fate; 37 Orc Warriors: 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon, 1 with banner.
+**Evil:** 3 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 1 Ringwraith on [Fell Beast](../rules_manual/cavalry.md#fell-beast) with 2 Might, 10 Will, and 2 Fate; 37 Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
 **LAYOUT**
 
@@ -909,7 +909,7 @@ The Ringwraith will be available later.
 
 **OBJECTIVES**
 
-Frodo must escape Osgiliath or the Ring may be captured. The Orcs do not know of the presence of the Ringbearer and are more concerned with capturing the city. The game lasts until Frodo is no longer on the board. The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if they control more of the ruined buildings than the Good side at the end of the game. If both players achieve their objective, the game is a draw; however, if Frodo is slain, the Evil side automatically wins.
+Frodo must escape Osgiliath or [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) may be captured. The Orcs do not know of the presence of the Ringbearer and are more concerned with capturing the city. The game lasts until Frodo is no longer on the board. The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if they control more of the ruined buildings than the Good side at the end of the game. If both players achieve their objective, the game is a draw; however, if Frodo is slain, the Evil side automatically wins.
 
 **SPECIAL RULES**
 
@@ -919,7 +919,7 @@ A building is considered to be controlled by a player if they have more models w
 
 * **Nazgûl!**
 
-The Ringwraith will automatically arrive at the end of the Evil player's third Move phase from the western board edge via the rules for Reinforcements. Once per game, during the Priority phase, the Nazgûl can let out a terrifying shriek, which will reduce all Good models' Courage value by 3 until the end of the turn. Additionally, with Frodo beginning to fall more under the influence of the Ring, he cannot risk putting it on. If Frodo puts on the Ring, he is removed as a casualty.
+The Ringwraith will automatically arrive at the end of the Evil player's third Move phase from the western board edge via the rules for Reinforcements. Once per game, during the Priority phase, the Nazgûl can let out a terrifying shriek, which will reduce all Good models' Courage value by 3 until the end of the turn. Additionally, with Frodo beginning to fall more under the influence of [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), he cannot risk putting it on. If Frodo puts on [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), he is removed as a casualty.
 
 * **Reinforcements**
 
@@ -991,7 +991,7 @@ Additionally, you will often know what is on your opponent's side of the Path, a
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat, and Elven Cloak; Samwise Gamgee with Elven Cloak.
+**Good:** Frodo Baggins with Sting, Mithril Coat, and [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks); Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks).
 
 **Evil:** Shelob; Sméagol.
 
@@ -1013,11 +1013,11 @@ The game lasts until one side has completed their objective. The Good player win
 
 * **Samwise the Brave**
 
-Sam will automatically pass all Courage tests in this Scenario. Additionally, as Sam carries the Phial of Galadriel, he causes Terror.
+Sam will automatically pass all Courage tests in this Scenario. Additionally, as Sam carries the Phial of Galadriel, he causes [Terror](../rules_manual/special_rules.md#terror).
 
 * **Not here, not so close to the Eye!**
 
-Frodo may not put on the Ring in this Scenario.
+Frodo may not put on [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) in this Scenario.
 
 * **Shadowed Hunter**
 
@@ -1035,9 +1035,9 @@ Strikes from Sting will automatically Wound Shelob. If Frodo is slain, place a 2
 
 **PARTICIPANTS**
 
-**Good:** Samwise Gamgee with Elven Cloak and Sting.
+**Good:** Samwise Gamgee with [Elven Cloak](../rules_manual/weapons_and_wargear.md#elven-cloaks) and Sting.
 
-**Evil:** Shagrat, Captain of Cirith Ungol; 15 Mordor Uruk-hai; Gorbag, Orc Captain; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
+**Evil:** Shagrat, Captain of Cirith Ungol; 15 Mordor Uruk-hai; Gorbag, Orc Captain; 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), and 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons).
 
 **LAYOUT**
 
@@ -1063,7 +1063,7 @@ The game lasts until either Sam is slain, or he reaches Frodo at the top of the 
 
 * **The Mithril Coat**
 
-The Mithril Coat is a Light Object. Models carrying the Mithril Coat cannot wear it and so do not gain any bonus from it. Sam may never carry the Mithril Coat.
+The Mithril Coat is a [Light Object](../rules_manual/advanced_rules.md#light-objects). Models carrying the Mithril Coat cannot wear it and so do not gain any bonus from it. Sam may never carry the Mithril Coat.
 
 * **Controlling Sam**
 
@@ -1075,7 +1075,7 @@ Sam is controlled by whichever side has Priority as if he were a model in their 
 
 * **That's for my old Gaffer!**
 
-Sam carries Sting in this Scenario and increases his Attacks characteristic to 2. Sam may spend a single point of Might each turn without depleting his own store, even if he has no Might remaining. Additionally, Sam causes Terror in this Scenario.
+Sam carries Sting in this Scenario and increases his Attacks characteristic to 2. Sam may spend a single point of Might each turn without depleting his own store, even if he has no Might remaining. Additionally, Sam causes [Terror](../rules_manual/special_rules.md#terror) in this Scenario.
 
 * **Doorways**
 
@@ -1090,9 +1090,9 @@ If moving from a trapdoor, place the model in base contact with the nearest door
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins in Orc armour; Samwise Gamgee in Orc armour.
+**Good:** Frodo Baggins in Orc [armour](../rules_manual/weapons_and_wargear.md#armour); Samwise Gamgee in Orc [armour](../rules_manual/weapons_and_wargear.md#armour).
 
-**Evil:** Orc Captain with shield; Orc Taskmaster; 24 Orc Warriors: 8 with shield, 8 with spear, 4 with Orc bow, and 4 with two-handed weapon.
+**Evil:** Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Orc Taskmaster; 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), and 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons).
 
 **LAYOUT**
 
@@ -1112,19 +1112,19 @@ The game lasts for 10 turns. The Good player wins if Frodo can escape the board 
 
 * **Orc Armour**
 
-Frodo and Sam both count as wearing armour and so their Defence characteristics will be increased by 1. Additionally, until they are discovered, Frodo and Sam may move through enemy models as if they weren't there, so long as they do not finish their move in base contact with an enemy model.
+Frodo and Sam both count as wearing [armour](../rules_manual/weapons_and_wargear.md#armour) and so their Defence characteristics will be increased by 1. Additionally, until they are discovered, Frodo and Sam may move through enemy models as if they weren't there, so long as they do not finish their move in base contact with an enemy model.
 
 * **Not here, not so close to the Eye!**
 
-Frodo may not put the Ring on in this Scenario.
+Frodo may not put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on in this Scenario.
 
 * **On the March**
 
-Until the Hobbits are discovered, the Orcs must move at least 2" towards the northern board edge each turn and may not Charge. Evil models that move into base contact with the northern board edge will escape and go off to war. Once per game, after Priority has been determined, the Orc Taskmaster may halt the march in order to whip the Orcs back into line. When this happens, no Evil models will move that turn.
+Until the Hobbits are discovered, the Orcs must move at least 2" towards the northern board edge each turn and may not Charge. Evil models that move into base contact with the northern board edge will escape and go off to war. Once per game, after Priority has been determined, the Orc Taskmaster may halt the march in order to [whip](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips) the Orcs back into line. When this happens, no Evil models will move that turn.
 
 * **Discovering the Hobbits**
 
-During the End phase of each turn, check to see if either of the Hobbits are within 6" of any enemy models. If so, roll a D6. On a 6, the Hobbits have been discovered and are at the mercy of the Orcs. Additionally, the Hobbits will automatically be discovered if they Charge an enemy model or target an enemy model with their Throw Stones special rule.
+During the End phase of each turn, check to see if either of the Hobbits are within 6" of any enemy models. If so, roll a D6. On a 6, the Hobbits have been discovered and are at the mercy of the Orcs. Additionally, the Hobbits will automatically be discovered if they Charge an enemy model or target an enemy model with their [Throw Stones](../rules_manual/special_rules.md#throw-stones) special rule.
 
 ![](../media/scenarios/quest_of_the_ringbearer/plateau_of_gorgoroth.jpg){ width=500 height=500 }
 
@@ -1134,9 +1134,9 @@ During the End phase of each turn, check to see if either of the Hobbits are wit
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc, Knight of the Mark, with shield; Peregrin, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with shield, 8 with spear and shield, 8 with bow, and 1 with banner; 25 Warriors of Rohan: 8 with shield, 8 with throwing spear and shield, 8 with bow, and 1 with banner.
+**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc, Knight of the Mark, with [shield](../rules_manual/weapons_and_wargear.md#shields); Peregrin, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), and 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), and 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
-**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on armoured horse; Gollum; 3 Morannon Orc Captains with shield; 50 Morannon Orcs: 12 with shield, 12 with spear, 12 with spear and shield, 12 with no additional wargear, and 2 with banner.
+**Evil:** Mordor Troll Chieftain; The Mouth of Sauron on [armoured horse](../rules_manual/cavalry.md#armoured-horse); Gollum; 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 50 Morannon Orcs: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with no additional wargear, and 2 with [banner](../rules_manual/weapons_and_wargear.md#banners).
 
 **LAYOUT**
 
@@ -1148,33 +1148,33 @@ The Good player deploys Frodo and Sam touching the south-west corner of the Crac
 
 **OBJECTIVES**
 
-Frodo must destroy the Ring quickly, or his friends will perish.
+Frodo must destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) quickly, or his friends will perish.
 
-The game lasts until either Frodo has destroyed the Ring, is taken over by the Ring, or is slain. The Good player wins if the Ring is destroyed. The Evil player wins if Frodo is either slain or taken over by the Ring. Additionally, if all the Good Heroes at the Black Gate are slain, the best result the Good player can achieve is a draw.
+The game lasts until either Frodo has destroyed [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), is taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), or is slain. The Good player wins if [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. The Evil player wins if Frodo is either slain or taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). Additionally, if all the Good Heroes at the Black Gate are slain, the best result the Good player can achieve is a draw.
 
 **SPECIAL RULES**
 
 * **Not here, not so close to the Eye!**
 
-Frodo may not put on the Ring in this Scenario.
+Frodo may not put on [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) in this Scenario.
 
 * **The Power of the Ring**
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try to slow Frodo down and corrupt him. To use one of these powers, the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, they may use the power:
 
-**Exhaustion (3+)** - During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately Prone. Sam may carry Frodo as a Heavy Object.
+**Exhaustion (3+)** - During the turn that this power is in effect, Frodo must take a Courage test for each inch he wishes to move. If Frodo fails any of these Courage tests, he collapses and is immediately [Prone](../rules_manual/move_phase.md#prone-models). Sam may carry Frodo as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
 
-**Corruption (4+)** - The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by the Ring and the game ends.
+**Corruption (4+)** - The Evil player rolls a D6 and compares it to Frodo's current Courage value. If the result is equal to or higher than Frodo's Courage value, then Frodo's Courage is reduced by 1 for the remainder of the game. If Frodo's Courage is reduced to 0, he has been taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and the game ends.
 
-**Lure of the Ring (5+)** - The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
+**Lure of the Ring (5+)** - [The Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
 
 * **Destroying the Ring**
 
-To destroy the Ring, Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with the Ring. Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, the Ring is destroyed. If the Evil player wins this roll three times in a row, the Ring corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
+To destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. If the Evil player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
 
 * **Gandalf's Staff**
 
-Gandalf does not have his Staff of Power, and therefore does not gain a free point of Will each turn.
+Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and therefore does not gain a free point of Will each turn.
 
 * **Teeming Hordes**
 
@@ -1186,6 +1186,6 @@ Good models may not willingly move more than 12" away from the center of the Bla
 
 * **Greatest of the Trolls**
 
-The Mordor Troll Chieftain gains the Fearless special rule and an additional point of Might, Will, and Fate.
+The Mordor Troll Chieftain gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule and an additional point of Might, Will, and Fate.
 
 ![](../media/scenarios/quest_of_the_ringbearer/the_end_of_all_things.jpg){ width=500 height=774 }

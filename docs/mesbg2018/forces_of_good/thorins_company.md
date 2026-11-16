@@ -246,7 +246,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 - [Pony] - 5 points
 - Sting - 5 points
-- The One Ring - Free
+- [The One Ring] - Free
 
 **SPECIAL RULES**
 
@@ -259,7 +259,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing the Ring.
+Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing [the Ring][The One Ring].
 
 </div>
 

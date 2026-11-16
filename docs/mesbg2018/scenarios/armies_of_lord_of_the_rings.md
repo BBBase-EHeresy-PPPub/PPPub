@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Elendil, High King of Gondor and Amor; Isildur; Gil-galad, High King of the Elves; Elrond, Master of Rivendell; 36 Warriors of Numenor: 12 with shield, 12 with spear & shield and 12 with bow; 37 High Elf Warriors: 12 with spear and shield, 12 with Elf bow, 12 with no additional equipment, 1 with banner.
+**Good:** Elendil, High King of Gondor and Amor; Isildur; Gil-galad, High King of the Elves; Elrond, Master of Rivendell; 36 Warriors of Numenor: 12 with [shield][Shield], 12 with [spear][Spear] & [shield][Shield] and 12 with [bow][Bow]; 37 High Elf Warriors: 12 with [spear][Spear] and [shield][Shield], 12 with Elf [bow][Bow], 12 with no additional equipment, 1 with [banner][Banner].
 
-**Evil:** The Dark Lord Sauron; 4 Orc Captains with shield; 2 Mordor Trolls; 72 Mordor Orcs: 24 with shield, 24 with spear, 12 with two-handed weapon, 12 with Orc bow.
+**Evil:** The Dark Lord Sauron; 4 Orc Captains with [shield][Shield]; 2 Mordor Trolls; 72 Mordor Orcs: 24 with [shield][Shield], 24 with [spear][Spear], 12 with [two-handed weapon][Two-handed Weapon], 12 with Orc [bow][Bow].
 
 **LAYOUT**
 
@@ -16,7 +16,7 @@ The Evil player places all of their models, except for Sauron, within 12" of the
 
 **OBJECTIVES**
 
-This is the final battle of the Age; only by ensuring the destruction of the enemy's leaders can one force hope to claim victory. The Good player wins immediately if at any point the Ring is separated from the Dark Lord's finger and he is slain. The Evil player wins if at the end of any turn all four of the Good Heroes are slain.
+This is the final battle of the Age; only by ensuring the destruction of the enemy's leaders can one force hope to claim victory. The Good player wins immediately if at any point [the Ring][The One Ring] is separated from the Dark Lord's finger and he is slain. The Evil player wins if at the end of any turn all four of the Good Heroes are slain.
 
 **SPECIAL RULES**
 
@@ -34,9 +34,9 @@ Good **Hero** models do not need to take Courage tests to Charge Sauron.
 
 * **The Fall of Kings**
 
-If Gil-galad is slain, from that point onwards Elrond may call a Heroic Strike each turn without expending Might.
+If Gil-galad is slain, from that point onwards Elrond may call a [Heroic Strike] each turn without expending Might.
 
-If Elendil is slain, from that point onwards Isildur may call a Heroic Strike each turn without expending Might.
+If Elendil is slain, from that point onwards Isildur may call a [Heroic Strike] each turn without expending Might.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/the_last_alliance.jpg){ width=558 height=377 }
 
@@ -46,9 +46,9 @@ If Elendil is slain, from that point onwards Isildur may call a Heroic Strike ea
 
 **PARTICIPANTS**
 
-**Good:** Durin, King of Khazad-dum; Mardin; Dwarf Captain with shield; 12 Khazad Guard with the Hearthguard upgrade; 12 Iron Guard; 6 Vault Warden teams; 24 Dwarf Warriors; Dwarf Ballista.
+**Good:** Durin, King of Khazad-dum; Mardin; Dwarf Captain with [shield][Shield]; 12 Khazad Guard with the Hearthguard upgrade; 12 Iron Guard; 6 Vault Warden teams; 24 Dwarf Warriors; Dwarf Ballista.
 
-**Evil:** The Balrog; Moria Goblin Captain with shield; Moria Goblin Shaman; Moria Blackshield Captain; 12 Moria Blackshields; 12 Moria Goblin Prowlers; 36 Moria Goblins: 12 with shield, 12 with spear, 12 with Orc bow; Moria Goblin Drum; 3 Cave Trolls.
+**Evil:** The Balrog; Moria Goblin Captain with [shield][Shield]; Moria Goblin Shaman; Moria Blackshield Captain; 12 Moria Blackshields; 12 Moria Goblin Prowlers; 36 Moria Goblins: 12 with [shield][Shield], 12 with [spear][Spear], 12 with Orc [bow][Bow]; Moria Goblin Drum; 3 Cave Trolls.
 
 **LAYOUT**
 
@@ -84,7 +84,7 @@ All Dwarf Hero models may re-roll any failed To Wound rolls.
 
 **Good:** Arvedui, Last King of Arnor; Malbeth the Seer; Captain of Arnor; 24 Warriors of Arnor; 12 Rangers of Arnor.
 
-**Evil:** Shade; Angmar Orc Captain with shield; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with shield, 8 with spear, 4 with Orc bow, 4 with two-handed weapon; 2 Cave Trolls.
+**Evil:** Shade; Angmar Orc Captain with [shield][Shield]; Angmar Orc Shaman; Barrow-wight; 3 Dead Marsh Spectres; 24 Angmar Orcs: 8 with [shield][Shield], 8 with [spear][Spear], 4 with Orc [bow][Bow], 4 with [two-handed weapon][Two-handed Weapon]; 2 Cave Trolls.
 
 **LAYOUT**
 
@@ -108,7 +108,7 @@ Whenever Arvedui suffers a Wound within 6 " of Malbeth, he will ignore the Wound
 
 * **Arvedui's Last Stand**
 
-Arvedui has the Fearless special rule.
+Arvedui has the [Fearless] special rule.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/the_fall_of_arnor.jpg){ width=550 height=549 }
 
@@ -118,11 +118,11 @@ Arvedui has the Fearless special rule.
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with bow; Legolas Greenleaf; Gimli, son of Gloin; Boromir of Gondor.
+**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn - Strider with [bow][Bow]; Legolas Greenleaf; Gimli, son of Gloin; Boromir of Gondor.
 
-*All Good models have an Elven Cloak.*
+*All Good models have an [Elven Cloak].*
 
-**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with shield, 8 with Uruk-hai bow.
+**Evil:** Lurtz; Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with no additional equipment, 8 with [shield][Shield], 8 with Uruk-hai [bow][Bow].
 
 **LAYOUT**
 
@@ -148,7 +148,7 @@ The Evil player can claim a draw even if Frodo escapes the board, so long as the
 
 * **Find the Halflings!**
 
-Should a **Hobbit** suffer their final Wound, instead of being slain they will recover a single Wound and be knocked-out instead - treat them as being subject to the Paralyse Magical Power. Any Evil model may carry a knocked-out **Hobbit** as if he were a Heavy Object (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its Move in base contact with a knocked-out **Hobbit**, they will automatically revive them and they may act as normal, although they will start their Move in the Prone position. Should any Evil model leave any table edge whilst carrying a knocked-out **Hobbit**, with the exception of the western edge, then the Evil player is considered to have captured that **Hobbit**.
+Should a **Hobbit** suffer their final Wound, instead of being slain they will recover a single Wound and be knocked-out instead - treat them as being subject to the [Paralyse] Magical Power. Any Evil model may carry a knocked-out **Hobbit** as if he were a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects) (see page 110 of the Middle-earth Strategy Battle Game Rules Manual). Should any Good model end its Move in base contact with a knocked-out **Hobbit**, they will automatically revive them and they may act as normal, although they will start their Move in the [Prone](../rules_manual/move_phase.md#prone-models) position. Should any Evil model leave any table edge whilst carrying a knocked-out **Hobbit**, with the exception of the western edge, then the Evil player is considered to have captured that **Hobbit**.
 
 * **The Legions of Isengard**
 
@@ -162,9 +162,9 @@ At the end of each Evil Move phase, roll a D6 for each Evil Warrior that has pre
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor with bow; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with spear.
+**Good:** Faramir, Captain of Gondor with [bow][Bow]; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 24 Rangers of Gondor: 16 with no additional equipment, 8 with [spear][Spear].
 
-**Evil:** 2 War Mumakil of Harad each with 12 Haradrim Warriors with bow; 24 Haradrim Warriors with spear.
+**Evil:** 2 War Mumakil of Harad each with 12 Haradrim Warriors with [bow][Bow]; 24 Haradrim Warriors with [spear][Spear].
 
 **LAYOUT**
 
@@ -184,7 +184,7 @@ The game lasts until there are no Mumakil left on the board. The Evil side wins 
 
 * **Unseen Hunters**
 
-At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the Stalk Unseen special mle and may re-roll any Is To Wound when making a shooting attack.
+At the start of the game, before the first Priority is rolled, each Good model may make a 'free' shooting attack as if it were the Shoot phase. Additionally, for the first three turns of the game, all Good models gain the [Stalk Unseen] special mle and may re-roll any Is To Wound when making a shooting attack.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/ambush_at_ithilien.jpg){ width=550 height=551 }
 
@@ -194,9 +194,9 @@ At the start of the game, before the first Priority is rolled, each Good model m
 
 **PARTICIPANTS**
 
-**Good:** Aragorn - Strider with armour; Legolas Greenleaf with armour; Gimli, son of Gloin; Haldir with heavy armour and Elf bow; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with spear, 4 with Elf bow; 12 Warriors of Rohan: 4 with shield, 4 with throwing spear & shield, 4 with bow.
+**Good:** Aragorn - Strider with [armour][Armour]; Legolas Greenleaf with [armour][Armour]; Gimli, son of Gloin; Haldir with [heavy armour][Heavy Armour] and Elf [bow][Bow]; 12 Galadhrim Warriors: 4 with no additional equipment, 4 with [spear][Spear], 4 with Elf [bow][Bow]; 12 Warriors of Rohan: 4 with [shield][Shield], 4 with [throwing spear][Throwing Weapons] & [shield][Shield], 4 with [bow][Bow].
 
-**Evil:** 3 Uruk-hai Captains with heavy armour & shield; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with shield, 10 with pike.
+**Evil:** 3 Uruk-hai Captains with [heavy armour][Heavy Armour] & [shield][Shield]; 8 Uruk-hai Berserkers; 20 Uruk-hai Warriors: 10 with [shield][Shield], 10 with [pike][Pike].
 
 **LAYOUT**
 
@@ -204,7 +204,7 @@ This Scenario is played on a 2'x2' board. Along the southern board edge should b
 
 **STARTING POSITIONS**
 
-The Good player deploys the Galadhrim Warriors within 2" of the northern board edge and then deploys Haldir, Legolas and the Warriors of Rohan anywhere on the walls in the Prone position. Aragorn is deployed in the centre of the board, also in the Prone position. Gimli is then deployed anywhere within the shallow water.
+The Good player deploys the Galadhrim Warriors within 2" of the northern board edge and then deploys Haldir, Legolas and the Warriors of Rohan anywhere on the walls in the [Prone](../rules_manual/move_phase.md#prone-models) position. Aragorn is deployed in the centre of the board, also in the [Prone](../rules_manual/move_phase.md#prone-models) position. Gimli is then deployed anywhere within the shallow water.
 
 The Evil player may then deploy up to 10 Uruk-hai Warriors, 2 Berserkers and a single Uruk-hai Captain within the shallow water, at least 1" from Gimli. The rest of the Evil models will be available as the game goes on.
 
@@ -212,9 +212,9 @@ The Evil player may then deploy up to 10 Uruk-hai Warriors, 2 Berserkers and a s
 
 The legions of Isengard are streaming into Helm's Deep, intent on butchering all in their path. It is their sole purpose to cause as much death and destruction as possible. Aragorn must lead the defenders of Helm's Deep in defence of the fortress and fight off Saruman's armies.
 
-The Scenario lasts for 10 turns, after which the side with the most Victory Points is declared the winner.
+The Scenario lasts for 10 turns, after which the side with the most **Victory Points** is declared the winner.
 
-There are three ways to score Victory Points in this Scenario:
+There are three ways to score **Victory Points** in this Scenario:
 
 1. The Good player scores **1 Victory Point** for each named **Hero** that is still alive at the end of the game. The Evil player scores **1 Victory Point** for each named Hero that has been slain.*
 
@@ -234,7 +234,7 @@ All Good **Hero** models start the game with 0 Fate.
 
 * **The Prince of Mirkwood**
 
-Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai shield. When he does this, Legolas may fire his Elven bow three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked Prone. Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai shield into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
+Once per game, if Legolas starts his Move phase in base contact with the top of a staircase, he may choose to use his Elven agility to slide down it atop an Uruk-hai [shield][Shield]. When he does this, Legolas may fire his Elven [bow][Bow] three times, as if it was the Shoot phase, as he moves down the staircase. Any model on the staircase automatically takes one Strength 3 hit and is knocked [Prone](../rules_manual/move_phase.md#prone-models). Additionally, one model within 3" of the bottom of the staircase suffers one Strength 4 hit as Legolas thrusts the Uruk-hai [shield][Shield] into their chest. Finally, Legolas is placed in base contact with the bottom of the staircase. He can move no further that turn and may not shoot in the following Shoot phase.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/the_deeping_wall_is_breached.jpg){ width=437 height=434 }
 
@@ -246,7 +246,7 @@ Once per game, if Legolas starts his Move phase in base contact with the top of 
 
 **Good:** Treebeard with Merry & Pippin; 5 Ents.
 
-**Evil:** 4 Orc Captains with shield; 48 Orcs Warriors: 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
+**Evil:** 4 Orc Captains with [shield][Shield]; 48 Orcs Warriors: 16 with [shield][Shield], 16 with [spear][Spear], 8 with [two-handed weapon][Two-handed Weapon], 8 with Orc [bow][Bow].
 
 **LAYOUT**
 
@@ -270,7 +270,7 @@ Any Orc that hits an Ent with a shooting attack on the roll of a 6, and then sub
 
 * **Bring them down!**
 
-If an Ent loses a Fight, all Orc models involved in the Fight may choose to try to fell the Ent rather than Strike it as normal. Instead of making Strikes, each Orc in base contact with the Ent rolls a single D6. If any 6s are scored, then the Ent has been successfully brought down and is knocked Prone.
+If an Ent loses a Fight, all Orc models involved in the Fight may choose to try to fell the Ent rather than Strike it as normal. Instead of making Strikes, each Orc in base contact with the Ent rolls a single D6. If any 6s are scored, then the Ent has been successfully brought down and is knocked [Prone](../rules_manual/move_phase.md#prone-models).
 
 * **Release the River**
 
@@ -284,11 +284,11 @@ The dam has a Defence of 10 and 5 Wounds, and can only be harmed in combat.
 
 **PARTICIPANTS**
 
-**Good:** Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with throwing spear); Ghan-buri-Ghan; 9 Woses.
+**Good:** Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, [Shield] Maiden of Rohan; Gamling, Captain of Rohan; 12 Riders of Rohan (including 4 with [throwing spear][Throwing Weapons]); Ghan-buri-Ghan; 9 Woses.
 
-All Rohan models must be mounted and may have armour and shields if they are able.
+All Rohan models must be mounted and may have [armour][Armour] and [shields][Shield] if they are able.
 
-**Evil:** 3 Morannon Orc Captains with shield, 36 Morannon Orcs: 8 with shield, 8 with spear & shield.
+**Evil:** 3 Morannon Orc Captains with [shield][Shield], 36 Morannon Orcs: 8 with [shield][Shield], 8 with [spear][Spear] & [shield][Shield].
 
 **LAYOUT**
 
@@ -308,7 +308,7 @@ The Good player wins if half (or more) of the Rohan models exit the board via th
 
 * **Wild Men know all Paths**
 
-All Good models gain the Fleetfoot and Woodland Creature special rules whilst they remain mounted.
+All Good models gain the [Fleetfoot] and [Woodland Creature] special rules whilst they remain mounted.
 
 * **Ambush!**
 
@@ -324,7 +324,7 @@ Evil models may not move at all on the first turn of the game.
 
 **Good:** The King of the Dead; 10 Warriors of the Dead; 6 Riders of the Dead.
 
-**Evil:** 3 Corsair Captains; 3 Corsair Bo'suns; 24 Corsairs of Umbar: 8 with shield, 8 with spear, 8 with bow.
+**Evil:** 3 Corsair Captains; 3 Corsair Bo'suns; 24 Corsairs of Umbar: 8 with [shield][Shield], 8 with [spear][Spear], 8 with [bow][Bow].
 
 **LAYOUT**
 
@@ -346,11 +346,11 @@ At the start of each turn, before Priority is rolled, each Corsair ship moves D6
 
 * **Charge of the Dead**
 
-Good models in base contact with a Corsair ship may move onto it without making a Climb test, counting each 1" moved up as 1" of movement. Additionally, Good models gain a bonus of +1 Fight value on a turn in which they charged.
+Good models in base contact with a Corsair ship may move onto it without making a [Climb test](../rules_manual/move_phase.md#climb-table), counting each 1" moved up as 1" of movement. Additionally, Good models gain a bonus of +1 Fight value on a turn in which they charged.
 
 * **The King of the Dead**
 
-The King of the Dead counts as a banner with a range of 6" to all Good models. Additionally, after he has killed three or more models, the King of the Dead gains the Harbinger of Evil special rule.
+The King of the Dead counts as a [banner][Banner] with a range of 6" to all Good models. Additionally, after he has killed three or more models, the King of the Dead gains the [Harbinger of Evil] special rule.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/the_black_ships.jpg){ width=551 height=549 }
 
@@ -364,31 +364,31 @@ The King of the Dead counts as a banner with a range of 6" to all Good models. A
 
 **Minas Tirith**
 
-Prince Imrahil of Dol Amroth on armoured horse with lance; Forlong the Fat; 12 Knights of Dol Amroth on armoured horse with lance; 12 Axemen of Lossarnach.
+Prince Imrahil of Dol Amroth on [armoured horse][Armoured Horse] with [lance][Lance]; Forlong the Fat; 12 Knights of Dol Amroth on [armoured horse][Armoured Horse] with [lance][Lance]; 12 Axemen of Lossarnach.
 
 **Rohan**
 
-Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, Shield Maiden of Rohan; Gamling, Captain of Rohan; Meriadoc, Knight of the Mark; 30 Riders of Rohan.
+Theoden, King of Rohan; Eomer, Marshal of the Riddermark; Eowyn, [Shield] Maiden of Rohan; Gamling, Captain of Rohan; Meriadoc, Knight of the Mark; 30 Riders of Rohan.
 
-All Rohan models must be mounted and may have armour and shields if they are able.
+All Rohan models must be mounted and may have [armour][Armour] and [shields][Shield] if they are able.
 
 **Grey Company**
 
-Aragorn - Strider with Anduril; Legolas with armour; Gimli, son of Gloin; Halbarad with the Banner of Arwen Evenstar; Elladan and Elrohir with heavy armour; The King of the Dead; Angbor the Fearless; Duinhir; 12 Rangers of the North; 12 Blackroot Vale Archers; 12 Clansmen of Lamedon; 10 Warriors of the Dead.
+Aragorn - Strider with Anduril; Legolas with [armour][Armour]; Gimli, son of Gloin; Halbarad with the [Banner] of Arwen Evenstar; Elladan and Elrohir with [heavy armour][Heavy Armour]; The King of the Dead; Angbor the [Fearless]; Duinhir; 12 Rangers of the North; 12 Blackroot Vale Archers; 12 Clansmen of Lamedon; 10 Warriors of the Dead.
 
 **EVIL**
 
 **Mordor**
 
-The Witch-king of Angmar on Fell Beast with the Crown of Morgul and flail; Gothmog on Warg; 3 Morannon Orc Captains; 48 Morannon Orcs; 2 Mordor Trolls.
+The Witch-king of Angmar on [Fell Beast] with the Crown of Morgul and [flail][Flail]; Gothmog on [Warg]; 3 Morannon Orc Captains; 48 Morannon Orcs; 2 Mordor Trolls.
 
 **Easterlings and Khand**
 
-Amdur, Lord of Blades on horse; Easterling Captain with shield; Khandish King with bow on chariot; Khandish Chieftain; 20 Easterling Warriors; 9 Khandish Warriors; 4 Khandish Horsemen; 2 Khandish Charioteers.
+Amdur, Lord of Blades on [horse][Horse]; Easterling Captain with [shield][Shield]; Khandish King with [bow][Bow] on chariot; Khandish Chieftain; 20 Easterling Warriors; 9 Khandish Warriors; 4 Khandish Horsemen; 2 Khandish Charioteers.
 
 **Harad**
 
-Suladan the Serpent Lord on Horse; The Golden King of Abrakhan; 2 War Mumakil of Harad with 12 Harad Warrior crew; War Mumak of Far Harad with 12 Mahud Warrior crew; 6 Serpent Riders; 12 Harad Raiders; 12 Abrakhan Merchant Guard.
+Suladan the Serpent Lord on [Horse]; The Golden King of Abrakhan; 2 War Mumakil of Harad with 12 Harad Warrior crew; War Mumak of Far Harad with 12 Mahud Warrior crew; 6 Serpent Riders; 12 Harad Raiders; 12 Abrakhan Merchant Guard.
 
 **LAYOUT**
 
@@ -416,7 +416,7 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age, and as su
 
 * **Charge of the Rohirrim**
 
-Any **Rohan** model that charged in the Move phase may call a Heroic Combat in the ensuing Fight phase without spending Might. This may be done by both **Warrior** and **Hero** models.
+Any **Rohan** model that charged in the Move phase may call a [Heroic Combat] in the ensuing Fight phase without spending Might. This may be done by both **Warrior** and **Hero** models.
 
 * **Dol Amroth for Gondor!**
 
@@ -440,7 +440,7 @@ At the end of the Evil player's seventh Move phase, the Evil player moves the Wi
 
 **PARTICIPANTS**
 
-**Good:** Frodo of the Nine Fingers on pony; Samwise the Brave on pony; Meriadoc, Captain of the Shire on pony; Peregrin, Captain of the Shire on pony; 8 Battlin' Brandybucks; 8 Tookish Hunters; 8 Hobbit Shirriffs
+**Good:** Frodo of the Nine Fingers on [pony][Pony]; Samwise the Brave on [pony][Pony]; Meriadoc, Captain of the Shire on [pony][Pony]; Peregrin, Captain of the Shire on [pony][Pony]; 8 Battlin' Brandybucks; 8 Tookish Hunters; 8 Hobbit Shirriffs
 
 **Evil:** Sharkey & Worm; 24 Ruffians.
 
@@ -470,6 +470,6 @@ At the end of each Evil Move phase, roll a D6 for each Ruffian that has been pre
 
 * **Merry & Pippin**
 
-Once per game, both Merry and Pippin can each call a Heroic Combat without spending Might.
+Once per game, both Merry and Pippin can each call a [Heroic Combat] without spending Might.
 
 ![](../media/scenarios/armies_of_lord_of_the_rings/the_battle_of_bywater.jpg){ width=551 height=548 }
