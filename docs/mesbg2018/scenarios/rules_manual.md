@@ -72,7 +72,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **5 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
 ![](../media/scenarios/rules_manual/scenario_to_the_death!.jpg){ width=742 height=496 }
@@ -434,7 +434,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 * You score **6 Victory Points** if your force is in possession of the relic at the end of the game. If at the end of the game you are not in possession of the relic but have more models within 3" of the relic than your opponent, then you instead score **3 Victory Points**.
 * You score **1 Victory Point** for causing one or more Wounds on the enemy leader. Wounds prevented by a successful Fate roll do not count. If you kill the enemy leader, you instead score **2 Victory Points**.
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 

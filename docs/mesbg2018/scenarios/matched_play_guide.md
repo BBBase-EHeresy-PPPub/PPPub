@@ -72,7 +72,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **5 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 * You score **2 Victory Points** if the enemy force is reduced to 25% of its starting models at the end of the game.
 
@@ -470,7 +470,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner remaining and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -775,11 +775,11 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
-**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the [Paralyse](../rules_manual/magical_powers.md#paralyse), [Immobilise](../rules_manual/magical_powers.md#immobilisetransfix) or [Transfix](../rules_manual/magical_powers.md#immobilisetransfix) Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
+**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the [Paralyse], [Immobilise] or [Transfix] Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
 
 ![](../media/scenarios/matched_play_guide/scenario_destroy_the_supplies.jpg){ width=738 height=492 }
 
@@ -914,7 +914,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 * You score **3 Victory Points** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **5 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 * You score **2 Victory Points** if you kill the leader of the Secondary Force.
 
@@ -1018,7 +1018,7 @@ at the end of the game. If the enemy force is Broken and your force is unbroken,
 **Site of Power:** The area that both forces are fighting over is an ancient place of great power that is said to be imbued with
 magic.
 
-Models within 6" of the Objective marker gain the [Resistant to Magic](../rules_manual/special_rules.md#resistant-to-magic) special rule, and may re-roll failed Fate rolls.
+Models within 6" of the Objective marker gain the [Resistant to Magic] special rule, and may re-roll failed Fate rolls.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_take_and_hold.jpg){ width=738 height=492 }
 
@@ -1110,7 +1110,7 @@ At the end of the game, the team that has scored the most **Victory Points** win
 
 * You score **2 Victory Points** if your team has more models within the central terrain piece than your opponents. If your team has at least twice the number of models in the terrain piece than your opponents, you instead score **4 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_cornered.jpg){ width=738 height=493 }
 
@@ -1154,6 +1154,6 @@ At the start of the game, each player secretly writes down one enemy Hero model 
 
 * You score **1 Victory Point** if the enemy force is Broken at the end of the game. If the enemy force is Broken, and your force is unbroken, you instead score **2 Victory Points**.
 
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners) remaining at the end of the game. If you have at least one [banner](../rules_manual/weapons_and_wargear.md#banners), and your opponent has none remaining, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have at least one banner, and your opponent has none remaining, then you instead score **2 Victory Points**.
 
 ![](../media/scenarios/matched_play_guide/double_event_scenario_duel_of_wits.jpg){ width=738 height=493 }

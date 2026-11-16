@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** 1 Mordor Orc Captain; 12 Mordor Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 2 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Good:** 1 [Mordor Orc Captain](../forces_of_evil/mordor.md#mordor-orc-captain-45-points); 12 [Mordor Orc Warriors](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
-**Evil:** Shelob.
+**Evil:** [Shelob](../forces_of_evil/mordor.md#shelob-100-points).
 
 **LAYOUT**
 
@@ -48,9 +48,9 @@ If at the beginning of her Activation Shelob is in a tile that contains no enemy
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Samwise Gamgee with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting, Mithril Coat and Elven cloak; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Elven cloak.
 
-**Evil:** Sméagol.
+**Evil:** [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points).
 
 **LAYOUT**
 
@@ -62,9 +62,9 @@ The Good player deploys Frodo and Sam in the centre of the board. The Evil playe
 
 **OBJECTIVES**
 
-Gollum has tracked the Hobbits since Moria, and now has the opportunity to strike and steal [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). If they become aware of Gollum, the Hobbits will try to subdue him.
+Gollum has tracked the Hobbits since Moria, and now has the opportunity to strike and steal the Ring. If they become aware of Gollum, the Hobbits will try to subdue him.
 
-The Good player wins if Gollum is subdued. The Evil player wins if Gollum kills Frodo and reclaims [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). If Gollum is subdued but Sam has been slain, the game is a draw.
+The Good player wins if Gollum is subdued. The Evil player wins if Gollum kills Frodo and reclaims the Ring. If Gollum is subdued but Sam has been slain, the game is a draw.
 
 **SPECIAL RULES**
 
@@ -88,9 +88,9 @@ Each time Gollum loses a Combat against Frodo he must make a Courage Test. If th
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Samwise Gamgee with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Sméagol.
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting, Mithril Coat and Elven cloak; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Elven cloak; [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points).
 
-**Evil:** 1 Ringwraith (1 Attack, 0 Might, 7 Will, 0 Fate) with [Fell Beast](../rules_manual/cavalry.md#fell-beast-60mm); 6 Spectres.
+**Evil:** 1 [Ringwraith](../forces_of_evil/mordor.md#ringwraith-points-cost-varies) (1 Attack, 0 Might, 7 Will, 0 Fate) with Fell Beast; 6 [Spectres](../forces_of_evil/mordor.md#spectre-15-points).
 
 **LAYOUT**
 
@@ -102,7 +102,7 @@ The Good player deploys Frodo, Sam and Sméagol touching the centre of the weste
 
 **OBJECTIVES**
 
-With the Ringwraith overhead, Frodo and his companions must cross the Dead Marshes without being noticed if they wish to keep [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) away from the Nazgûl.
+With the Ringwraith overhead, Frodo and his companions must cross the Dead Marshes without being noticed if they wish to keep the Ring away from the Nazgûl.
 
 The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if Frodo is slain.
 
@@ -118,7 +118,7 @@ If a Good model is Moved into any of the areas of marshland as a result of a Spe
 
 * **Call of the Ring**
 
-If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on then the Ringwraith will no longer be a Sentry and will act as normal.
+If Frodo puts the Ring on then the Ringwraith will no longer be a Sentry and will act as normal.
 
 ![](../media/scenarios/the_treachery_of_gollum/the_dead_marshes.jpg){ width=854 height=850 }
 
@@ -128,9 +128,9 @@ If Frodo puts [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on
 
 **PARTICIPANTS**
 
-**Good:** Faramir, Captain of Gondor; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; Frodo Baggins with Sting, Mithril Coat and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Samwise Gamgee with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Sméagol; 13 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 12 Rangers of Gondor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with no additional wargear; 6 Osgiliath Veterans: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 2 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Good:** [Faramir](../forces_of_good/gondor.md#faramir-100-points), Captain of Gondor; [Madril](../forces_of_good/gondor.md#madril-60-points), Captain of Ithilien; [Damrod](../forces_of_good/gondor.md#damrod-40-points), Ranger of Ithilien; [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting, Mithril Coat and Elven cloak; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Elven cloak; [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points); 13 [Warriors of Minas Tirith](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 4 with shield, 4 with shield and spear, 4 with bow, 1 with banner; 12 [Rangers of Gondor](../forces_of_good/gondor.md#ranger-of-gondor-8-points): 4 with spear, 8 with no additional wargear; 6 [Osgiliath Veterans](../forces_of_good/gondor.md#osgiliath-veteran-9-points): 2 with shield, 2 with spear, 2 with bow.
 
-**Evil:** 3 Mordor Orc Captains; 1 Ringwraith (2 Attacks, 1 Might, 10 Will, 1 Fate) with [Fell Beast](../rules_manual/cavalry.md#fell-beast-60mm); 37 Mordor Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Evil:** 3 [Mordor Orc Captains](../forces_of_evil/mordor.md#mordor-orc-captain-45-points); 1 [Ringwraith](../forces_of_evil/mordor.md#ringwraith-points-cost-varies) (2 Attacks, 1 Might, 10 Will, 1 Fate) with Fell Beast; 37 [Mordor Orc Warriors](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 12 with shield, 12 with spear, 6 with Orc bow, 6 with two-handed weapon, 1 with banner.
 
 **LAYOUT**
 
@@ -142,7 +142,7 @@ The Good player deploys Faramir, Frodo, Sam and Sméagol 12" from the centre of 
 
 **OBJECTIVES**
 
-Frodo must escape Osgiliath or [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) may well be captured. The Orcs do not know of the presence of the Ringbearer and are more concerned with capturing the city. The game lasts until Frodo is no longer on the board. The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if they control more of the ruined buildings than the Good side at the end of the game. If both players achieve their objective, the game is a draw; however, if Frodo is slain, the Evil side automatically wins.
+Frodo must escape Osgiliath or the Ring may well be captured. The Orcs do not know of the presence of the Ringbearer and are more concerned with capturing the city. The game lasts until Frodo is no longer on the board. The Good player wins if Frodo can escape the board via the eastern board edge. The Evil player wins if they control more of the ruined buildings than the Good side at the end of the game. If both players achieve their objective, the game is a draw; however, if Frodo is slain, the Evil side automatically wins.
 
 **SPECIAL RULES**
 
@@ -152,7 +152,7 @@ A building is considered to be controlled by a player if they have more models w
 
 * **"Nazgûl!"**
 
-The Ringwraith will automatically arrive at the end of the Evil player's third Activation Phase from the western board edge via the rules for Reinforcements. Once per game, during the Priority Phase, the Nazgûl can let out a terrifying shriek, which will worsen all Good models' Courage Values by 3 until the end of the turn. Additionally, with Frodo beginning to fall more under the influence of [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) he cannot risk putting it on. If Frodo puts on [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), he is removed as a casualty.
+The Ringwraith will automatically arrive at the end of the Evil player's third Activation Phase from the western board edge via the rules for Reinforcements. Once per game, during the Priority Phase, the Nazgûl can let out a terrifying shriek, which will worsen all Good models' Courage Values by 3 until the end of the turn. Additionally, with Frodo beginning to fall more under the influence of the Ring he cannot risk putting it on. If Frodo puts on the Ring, he is removed as a casualty.
 
 * **Reinforcements**
 
@@ -170,9 +170,9 @@ Sméagol is under the control of the Good player, however Good models may not be
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Samwise Gamgee with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Sméagol.
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting, Mithril Coat and Elven cloak; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Elven cloak; [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points).
 
-**Evil:** 1 Mordor Orc Captain; 12 Mordor Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 2 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** 1 [Mordor Orc Captain](../forces_of_evil/mordor.md#mordor-orc-captain-45-points); 12 [Mordor Orc Warriors](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -192,7 +192,7 @@ The game lasts until there are no Good models left on the board. The Good player
 
 * **Too Great a Risk**
 
-Frodo may not put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on in this Scenario.
+Frodo may not put the Ring on in this Scenario.
 
 * **Patrolling Orcs**
 
@@ -200,11 +200,11 @@ At the start of each Move Phase, before the Declare Heroic Actions Step, roll a 
 
 | D6 | Result |
 | --- | --- |
-| 1 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with [shield](../rules_manual/weapons_and_wargear.md#shields) and 1 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart). |
-| 2 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with [spear](../rules_manual/weapons_and_wargear.md#spear-78) and 1 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon). |
-| 3 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with [shield](../rules_manual/weapons_and_wargear.md#shields) and 1 with [spear](../rules_manual/weapons_and_wargear.md#spear-78). |
-| 4 | Place 3 Mordor Orc Warriors in base contact with the Marker: 1 with [shield](../rules_manual/weapons_and_wargear.md#shields), 1 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon) and 1 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart). |
-| 5 | Place 3 Mordor Orc Warriors in base contact with the Marker: 1 with [shield](../rules_manual/weapons_and_wargear.md#shields) and 2 with [spear](../rules_manual/weapons_and_wargear.md#spear-78). |
+| 1 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with shield and 1 with Orc bow. |
+| 2 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with spear and 1 with two-handed weapon. |
+| 3 | Place 2 Mordor Orc Warriors in base contact with the Marker: 1 with shield and 1 with spear. |
+| 4 | Place 3 Mordor Orc Warriors in base contact with the Marker: 1 with shield, 1 with two-handed weapon and 1 with Orc bow. |
+| 5 | Place 3 Mordor Orc Warriors in base contact with the Marker: 1 with shield and 2 with spear. |
 | 6 | Place the Mordor Orc Captain in base contact with the Marker. |
 
 Evil models placed are not immediately under the control of the Evil player; instead they act as Sentries. However, if the alarm is raised, only the Orcs already revealed will be alerted. Any Markers not yet revealed will still act as described above; however, once they are revealed the Orcs will act as normal as the alarm has been raised.
@@ -223,9 +223,9 @@ The sewer waters are treated as Shallow Water; Markers may Move through them tho
 
 **PARTICIPANTS**
 
-**Good:** Samwise Gamgee.
+**Good:** [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points).
 
-**Evil:** Sméagol.
+**Evil:** [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points).
 
 **SET-UP**
 
@@ -273,9 +273,9 @@ If a player has no cards in their hand, they may then draw a new hand of five ca
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting, Mithril Coat and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting, Mithril Coat and Elven cloak.
 
-**Evil:** Shelob; Sméagol.
+**Evil:** [Shelob](../forces_of_evil/mordor.md#shelob-100-points); [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points).
 
 **LAYOUT**
 
@@ -291,11 +291,11 @@ The game lasts until Frodo is no longer on the board. The Good player wins if Fr
 
 **SPECIAL RULES**
 
-Navigating the Lair *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, A Nameless [Terror](../rules_manual/special_rules.md#terror) *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, The Webs *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*
+Navigating the Lair *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, A Nameless [Terror] *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*, The Webs *([page 7](the_treachery_of_gollum.md#the-paths-of-cirith-ungol))*
 
 * **"Not here, not so close to the Eye!"**
 
-Frodo may not put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on in this Scenario.
+Frodo may not put the Ring on in this Scenario.
 
 * **Gollum's Cunning**
 
@@ -307,15 +307,15 @@ Frodo may not Charge Sméagol in this Scenario. At the beginning of each of his 
 
 * **Unawares**
 
-Shelob may not Activate at the start of the game. If a model Moves within 1" of a Web Marker, Shelob becomes aware of their presence. From that point onwards, Shelob may Activate as per the A Nameless [Terror](../rules_manual/special_rules.md#terror) special rule and must Move as quickly as possible to the Web Marker's location; if she Moves into base contact with it, it is removed. When Shelob reaches the location, she cannot Activate again until a model Moves within 1" of another Web Marker. If at any point after Shelob has been first Activated she can draw Line of Sight to either Frodo or Sméagol at the start of a turn, then she must Move as close as possible to the nearest one. If they are not in Line of Sight when she Activates, but were at the start of the turn, then she must Move as close as possible to where she could last see them.
+Shelob may not Activate at the start of the game. If a model Moves within 1" of a Web Marker, Shelob becomes aware of their presence. From that point onwards, Shelob may Activate as per the A Nameless [Terror] special rule and must Move as quickly as possible to the Web Marker's location; if she Moves into base contact with it, it is removed. When Shelob reaches the location, she cannot Activate again until a model Moves within 1" of another Web Marker. If at any point after Shelob has been first Activated she can draw Line of Sight to either Frodo or Sméagol at the start of a turn, then she must Move as close as possible to the nearest one. If they are not in Line of Sight when she Activates, but were at the start of the turn, then she must Move as close as possible to where she could last see them.
 
 * **Shelob's Hunger**
 
-In this Scenario, Shelob treats Sméagol as an enemy model. When Shelob Activates, if she can Charge an enemy model then she must do so via the shortest route, and enemy models cannot benefit from the [Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen) special rule. If when she Activates she could Charge either Frodo or Sméagol, then she must Charge the one that is nearest via the shortest route. If both Frodo and Sméagol are the same distance away, roll a D6. On a 1-3 she Charges Sméagol, and on a 4+ she Charges Frodo. Additionally, Shelob may not make Strikes against a non-Paralysed model; she may only use her Caught in a Web Brutal Power Attack.
+In this Scenario, Shelob treats Sméagol as an enemy model. When Shelob Activates, if she can Charge an enemy model then she must do so via the shortest route, and enemy models cannot benefit from the [Stalk Unseen] special rule. If when she Activates she could Charge either Frodo or Sméagol, then she must Charge the one that is nearest via the shortest route. If both Frodo and Sméagol are the same distance away, roll a D6. On a 1-3 she Charges Sméagol, and on a 4+ she Charges Frodo. Additionally, Shelob may not make Strikes against a non-Paralysed model; she may only use her Caught in a Web Brutal Power Attack.
 
 * **Elven Gifts**
 
-Frodo carries the Light of Eärendil and so causes [Terror](../rules_manual/special_rules.md#terror). Additionally, Sting is vital in this Scenario. When making Strikes against Shelob, Frodo may make 2 Strikes rather than one, and gains a bonus of +1 To Wound. When making Strikes against Web Markers with Sting, any roll of a 4+ To Wound will automatically destroy the web and cause the Web Marker to be removed. Additionally, Shelob may not use Will Points in this Scenario. If Shelob is removed as a casualty and Sméagol is still alive, then Sméagol is allowed to Charge Frodo for the remainder of the Scenario.
+Frodo carries the Light of Eärendil and so causes [Terror]. Additionally, Sting is vital in this Scenario. When making Strikes against Shelob, Frodo may make 2 Strikes rather than one, and gains a bonus of +1 To Wound. When making Strikes against Web Markers with Sting, any roll of a 4+ To Wound will automatically destroy the web and cause the Web Marker to be removed. Additionally, Shelob may not use Will Points in this Scenario. If Shelob is removed as a casualty and Sméagol is still alive, then Sméagol is allowed to Charge Frodo for the remainder of the Scenario.
 
 ![](../media/scenarios/the_treachery_of_gollum/shelobs_lair.jpg){ width=856 height=850 }
 
@@ -325,9 +325,9 @@ Frodo carries the Light of Eärendil and so causes [Terror](../rules_manual/spec
 
 **PARTICIPANTS**
 
-**Good:** Samwise Gamgee with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak).
+**Good:** [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Elven cloak.
 
-**Evil:** Shelob.
+**Evil:** [Shelob](../forces_of_evil/mordor.md#shelob-100-points).
 
 **LAYOUT**
 
@@ -351,7 +351,7 @@ Sam will automatically pass all Courage Tests in this Scenario. Additionally, if
 
 * **Light of Eärendil**
 
-Sam has the [Terror](../rules_manual/special_rules.md#terror) special rule in this Scenario.
+Sam has the [Terror] special rule in this Scenario.
 
 * **Shadowed Hunter**
 
@@ -359,7 +359,7 @@ Shelob may not spend Will Points to pass Courage Tests in this Scenario. Additio
 
 * **"Let him go, you filth!"**
 
-Whenever Shelob fails a Courage Test for her [Survival Instinct](../rules_manual/special_rules.md#survival-instinct) special rule, she is not removed from the board as a casualty. Instead, when she next Activates she must Move D6" directly away from Sam and end her Activation. If this Move would see Shelob touch any of the exits, then she slinks off into the gloom and retreats back into her lair.
+Whenever Shelob fails a Courage Test for her [Survival Instinct] special rule, she is not removed from the board as a casualty. Instead, when she next Activates she must Move D6" directly away from Sam and end her Activation. If this Move would see Shelob touch any of the exits, then she slinks off into the gloom and retreats back into her lair.
 
 * **Sting**
 
@@ -373,9 +373,9 @@ Sam carries Sting in this Scenario. Strikes from Sting gain a bonus of +1 To Wou
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields); Peregrin Took, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points); [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Sting; [Aragorn, King Elessar](../forces_of_good/gondor.md#aragorn-king-elessar-225-points); [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points); [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with shield; [Peregrin Took, Guard of the Citadel](../forces_of_good/gondor.md#peregrin-took-guard-of-the-citadel-25-points); [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark; 25 [Warriors of Minas Tirith](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 with shield, 8 with shield and spear, 8 with bow and 1 with banner; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow and 1 with banner.
 
-**Evil:** 1 Mordor Troll Chieftain; The Mouth of Sauron on [armoured horse](../rules_manual/cavalry.md#armoured-horse-40mm); Sméagol; 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 50 Morannon Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with no additional wargear and 2 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Evil:** 1 [Mordor Troll Chieftain](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points); The [Mouth of Sauron](../forces_of_evil/mordor.md#mouth-of-sauron-75-points) on armoured horse; [Sméagol](../forces_of_good/the_free_peoples.md#smeagol-30-points); 3 [Morannon Orc Captains](../forces_of_evil/mordor.md#morannon-orc-captain-55-points) with shield; 50 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear and 2 with banner.
 
 **LAYOUT**
 
@@ -387,31 +387,31 @@ The Good player deploys Frodo and Sam touching the south-west corner of the Crac
 
 **OBJECTIVES**
 
-Frodo must destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), and must do so quickly or his friends will perish.
+Frodo must destroy the Ring, and must do so quickly or his friends will perish.
 
-The game lasts until either Frodo has destroyed [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), is taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) or is slain. The Good player wins if [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. The Evil player wins if Frodo is either slain or taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). Additionally, if all the Good Hero models at the Black Gate are slain, the best result the Good player can achieve is a draw.
+The game lasts until either Frodo has destroyed the Ring, is taken over by the Ring or is slain. The Good player wins if the Ring is destroyed. The Evil player wins if Frodo is either slain or taken over by the Ring. Additionally, if all the Good Hero models at the Black Gate are slain, the best result the Good player can achieve is a draw.
 
 **SPECIAL RULES**
 
 * **"Not here, not so close to the Eye!"**
 
-Frodo may not put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on in this Scenario.
+Frodo may not put the Ring on in this Scenario.
 
 * **The Power of the Ring**
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try to slow Frodo down and corrupt him. To use one of these powers, the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, then they may use the power:
 
 - **Exhaustion (3+)** - During the turn that this power is in effect, Frodo must take a Courage Test for each inch he wishes to move. If Frodo fails any of these Courage Tests then he collapses and is immediately [Prone](../rules_manual/move_phase.md#prone-models). Sam may carry Frodo as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
-- **Corruption (4+)** - Frodo begins the game with 6 Resistant Points, which are unique to this Scenario. When this power is used, the Evil player rolls a D6 and compares it to the number of Resistant Points Frodo has remaining. If the result is equal to or higher than Frodo's current Resistant Points, then Frodo immediately loses 1 Resistant Point. If Frodo's Resistant Points are reduced to 0, then he has been taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and the game ends.
-- **Lure of the Ring (5+)** - [The Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) provokes Sméagol to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight Phase before Sméagol disappears back into hiding. If Sméagol is ever slain, this power can no longer be used.
+- **Corruption (4+)** - Frodo begins the game with 6 Resistant Points, which are unique to this Scenario. When this power is used, the Evil player rolls a D6 and compares it to the number of Resistant Points Frodo has remaining. If the result is equal to or higher than Frodo's current Resistant Points, then Frodo immediately loses 1 Resistant Point. If Frodo's Resistant Points are reduced to 0, then he has been taken over by the Ring and the game ends.
+- **Lure of the Ring (5+)** - The Ring provokes Sméagol to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight Phase before Sméagol disappears back into hiding. If Sméagol is ever slain, this power can no longer be used.
 
 * **Destroying the Ring**
 
-To destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. If the Evil player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
+To destroy the Ring, Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with the Ring. Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, the Ring is destroyed. If the Evil player wins this roll three times in a row, the Ring corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
 
 * **Gandalf's Staff**
 
-Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and therefore does not gain a free Will Point each turn.
+Gandalf does not have his Staff of Power, and therefore does not gain a free Will Point each turn.
 
 * **Teeming Hordes**
 
@@ -423,6 +423,6 @@ Good models may not willingly Move more than 12" away from the centre of the Bla
 
 * **Greatest of the Trolls**
 
-The Mordor Troll Chieftain gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule and an additional point of Might, Will and Fate.
+The Mordor Troll Chieftain gains the [Fearless] special rule and an additional point of Might, Will and Fate.
 
 ![](../media/scenarios/the_treachery_of_gollum/the_end_of_all_things.jpg){ width=857 height=1454 }

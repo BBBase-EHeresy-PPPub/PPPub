@@ -68,8 +68,8 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General has been wounded, and only has 1 Wound remaining, then you instead score **3 Victory Points**. If the enemy General was removed as a casualty, you instead score **5 Victory Points**.
 * You score **3 Victory Points** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **5 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 * You score **3 Victory Points** if the enemy Army has been reduced to 25% of its starting models at the end of the game.
 * You score **1 Victory Point** for each enemy Hero model that has been removed as a casualty, up to a maximum of **3 Victory Points**.
 
@@ -110,7 +110,7 @@ At the end of the game, the player who has scored the most **Victory Points** wi
 * You score **4 Victory Points** if you have more models within 6" of the objective than your opponent. If you have twice as many models within 6" of the objective than your opponent, then you instead score **8 Victory Points**. If you have three times as many models within 6" of the objective than your opponent, or you are the only player to have models within 6" of the objective, then you instead score **12 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 
 **SPECIAL RULES**
 
@@ -168,8 +168,8 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * If you have destroyed more Supply Markers than your opponent, you score **1 Victory Point**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 

@@ -2,7 +2,7 @@
 
 *Matched Play Scenarios are designed to pit players against each other in a battle of wits and generalship to see who will emerge victorious. This can throw up some seemingly strange situations, so we have included some important principles that will apply in the Matched Play Scenarios. Some may apply only to Scenarios with certain special rules or victory conditions, but most will apply to all Scenarios in some way. Below is a list of Matched Play Principles to remember:*
 
-- In Scenarios that award **Victory Points** for killing the enemy General, you will gain these **Victory Points** if the General is removed as a casualty in any way, such as fleeing the board or a Hero model with the [Will of Evil](../rules_manual/special_rules.md#will-of-evil) special rule being reduced to 0 Will points.
+- In Scenarios that award **Victory Points** for killing the enemy General, you will gain these **Victory Points** if the General is removed as a casualty in any way, such as fleeing the board or a Hero model with the [Will of Evil] special rule being reduced to 0 Will points.
 
 - In Scenarios that require models to hold Objective Markers, models that can temporarily switch sides will always count as scoring for their original owning player.
 

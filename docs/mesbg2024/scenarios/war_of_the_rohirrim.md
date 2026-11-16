@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-Good: Helm Hammerhand, King of Rohan.
+Good: [Helm Hammerhand, King of Rohan](../forces_of_good/rohan.md#helm-hammerhand-king-of-rohan-160-points).
 
-Evil: Freca, Lord of the West-march.
+Evil: [Freca, Lord of the West-march](../forces_of_evil/the_hill_tribes.md#freca-80-points).
 
 **LAYOUT**
 
@@ -24,7 +24,7 @@ The game lasts until one side completes their objective. The Good player wins if
 
 * **A Question of Honour**
 
-For the duration of the Scenario, neither Helm nor Freca is wearing any [armour](../rules_manual/weapons_and_wargear.md#armour_1) or carrying their usual weapons. However, as both men are fighting in hand-to-hand combat, neither is considered to be [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models).
+For the duration of the Scenario, neither Helm nor Freca is wearing any armour or carrying their usual weapons. However, as both men are fighting in hand-to-hand combat, neither is considered to be Unarmed.
 
 * **The First Punch**
 
@@ -46,7 +46,7 @@ If Freca rolls a natural 6 To Wound when making a Strike, and the Wound is succe
 
 **PARTICIPANTS**
 
-Good: Héra, Daughter of Helm with Ashere; Fréaláf, First Marshal of the Riddermark with [horse](../rules_manual/cavalry.md#horse-40mm); Olwyn, Shieldmaiden of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm); Lief, Page of Helm with [horse](../rules_manual/cavalry.md#horse-40mm).
+Good: [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points) with Ashere; [Fréaláf, First Marshal of the Riddermark](../forces_of_good/rohan.md#frealaf-100-points) with horse; [Olwyn, Shieldmaiden of Rohan](../forces_of_good/rohan.md#olwyn-shieldmaiden-of-rohan-80-points) with horse; [Lief, Page of Helm](../forces_of_good/rohan.md#lief-page-of-helm-50-points) with horse.
 
 Evil: Rabid Mûmak (see The Rabid Mûmak special rule).
 
@@ -68,7 +68,7 @@ The game lasts until one force achieves their objective. The Good player wins if
 
 * **The Rabid Mûmak**
 
-The Rabid Mûmak uses the War Mûmak of Harad profile, except that it does not have a Howdah or Haradrim Commander. Additionally, the Rabid Mûmak gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule and increases its Movement Characteristic to 10".
+The Rabid Mûmak uses the War Mûmak of Harad profile, except that it does not have a Howdah or Haradrim Commander. Additionally, the Rabid Mûmak gains the [Fearless] special rule and increases its Movement Characteristic to 10".
 
 * **Madness Beyond Pain**
 
@@ -98,9 +98,9 @@ Good models may not enter the lake for fear of being dragged to the depths by th
 
 **PARTICIPANTS**
 
-Good: Héra, Daughter of Helm; Fréaláf, First Marshal of the Riddermark; Olwyn, Shieldmaiden of Rohan.
+Good: [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points); [Fréaláf, First Marshal of the Riddermark](../forces_of_good/rohan.md#frealaf-100-points); [Olwyn, Shieldmaiden of Rohan](../forces_of_good/rohan.md#olwyn-shieldmaiden-of-rohan-80-points).
 
-Evil: Wulf, High Lord of the Hill Tribes; 24 Hill Tribesmen: 2 with no additional equipment, 2 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 2 with flaming brand, 2 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes; 24 Hill Tribesmen: 2 with no additional equipment, 2 with light shield, 2 with flaming brand, 2 with flaming brand and light shield, 4 with spear, 4 with two-handed weapon, 8 with bow.
 
 **LAYOUT**
 
@@ -124,7 +124,7 @@ This Scenario takes place at night and follows the rules for Fighting at Night a
 
 * **Prized Prisoner**
 
-In order to free Héra, Olwyn or Fréaláf must be standing and in base contact with either the northern or southern side of Wulf's quarters during the End Phase of a turn, having not been Engaged in Combat. Once Héra has been freed, place her in base contact with both the model that freed her and Wulf's quarters. Once Héra is freed, the alarm is immediately raised. Lastly, for the duration of the Scenario, Héra is [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models).
+In order to free Héra, Olwyn or Fréaláf must be standing and in base contact with either the northern or southern side of Wulf's quarters during the End Phase of a turn, having not been Engaged in Combat. Once Héra has been freed, place her in base contact with both the model that freed her and Wulf's quarters. Once Héra is freed, the alarm is immediately raised. Lastly, for the duration of the Scenario, Héra is Unarmed.
 
 * **Ride to Edoras**
 
@@ -146,9 +146,9 @@ On the first turn of the game, the Good player may choose who has Priority.
 
 **PARTICIPANTS**
 
-Good: Helm Hammerhand, King of Rohan with [armoured horse](../rules_manual/cavalry.md#armoured-horse-40mm); Haleth, Prince of Rohan with [armoured horse](../rules_manual/cavalry.md#armoured-horse-40mm); Háma, Prince of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm); Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm), [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); 6 Royal Guard: 4 with [horse](../rules_manual/cavalry.md#horse-40mm) and 2 with [horse](../rules_manual/cavalry.md#horse-40mm) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 24 Riders of Rohan: 16 with no additional equipment and 8 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons); 24 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) and [shield](../rules_manual/weapons_and_wargear.md#shields) and 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Good: [Helm Hammerhand, King of Rohan](../forces_of_good/rohan.md#helm-hammerhand-king-of-rohan-160-points) with armoured horse; [Haleth, Prince of Rohan](../forces_of_good/rohan.md#haleth-prince-of-rohan-100-points) with armoured horse; [Háma, Prince of Rohan](../forces_of_good/rohan.md#hama-prince-of-rohan-70-points) with horse; [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with horse, heavy armour and shield; 6 Royal Guard: 4 with horse and 2 with horse and throwing spears; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 16 with no additional equipment and 8 with throwing spear; 24 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with throwing spear and shield and 8 with bow.
 
-Evil: Wulf, High Lord of the Hill Tribes with [horse](../rules_manual/cavalry.md#horse-40mm); General Targg with [horse](../rules_manual/cavalry.md#horse-40mm); 3 Hill Tribes Chieftains; 72 Hill Tribesmen: 6 with no additional equipment, 6 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 6 with flaming brand, 6 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 12 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 24 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 3 War Mûmaks of Harad with a Haradrim Commander and 6 Haradrim Warriors: 3 with [spear](../rules_manual/weapons_and_wargear.md#spear-78) and 3 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), in the Howdah.
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes with horse; [General Targg](../forces_of_evil/the_hill_tribes.md#general-targg-80-points) with horse; 3 [Hill Tribes Chieftains](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points); 72 Hill Tribesmen: 6 with no additional equipment, 6 with light shield, 6 with flaming brand, 6 with flaming brand and light shield, 12 with spear, 12 with two-handed weapon, 24 with bow; 3 War Mûmaks of Harad with a Haradrim Commander and 6 Haradrim Warriors: 3 with spear and 3 with bow, in the Howdah.
 
 **LAYOUT**
 
@@ -182,9 +182,9 @@ Whilst they are within 12" of Helm and have the Cavalry keyword, Riders of Rohan
 
 **PARTICIPANTS**
 
-Good: Héra, Daughter of Helm; Lief, Page of Helm; 6 Warriors of Rohan: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Good: [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points); [Lief, Page of Helm](../forces_of_good/rohan.md#lief-page-of-helm-50-points); 6 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 2 with shield, 2 with shield and throwing spear, 2 with bow.
 
-Evil: Lord Thorne of the Wold; 6 Rohirrim Traitors: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: [Lord Thorne of the Wold](../forces_of_evil/the_hill_tribes.md#lord-thorne-of-the-wold-70-points); 6 Rohirrim Traitors: 2 with shield, 2 with shield and throwing spear, 2 with bow.
 
 **LAYOUT**
 
@@ -204,7 +204,7 @@ The game lasts until one force achieves their objective. The Good player wins if
 
 * **Unarmed**
 
-Héra begins the scenario [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models). If Héra moves into base contact with the Pitchfork Marker at any point during her Activation, she is no longer considered [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models).
+Héra begins the scenario Unarmed. If Héra moves into base contact with the Pitchfork Marker at any point during her Activation, she is no longer considered Unarmed.
 
 * **Easy Prey**
 
@@ -228,9 +228,9 @@ Once per game, at any point during Héra's Activation, she may call upon Ashere 
 
 **PARTICIPANTS**
 
-Good: Haleth, Prince of Rohan; Háma, Prince of Rohan; Héra, Daughter of Helm; 24 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Good: [Haleth, Prince of Rohan](../forces_of_good/rohan.md#haleth-prince-of-rohan-100-points); [Háma, Prince of Rohan](../forces_of_good/rohan.md#hama-prince-of-rohan-70-points); [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points); 24 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spear, 8 with bow.
 
-Evil: Wulf, High Lord of the Hill Tribes with [horse](../rules_manual/cavalry.md#horse-40mm); General Targg with [horse](../rules_manual/cavalry.md#horse-40mm); Hill Tribes Chieftain; 36 Hill Tribesmen: 3 with no additional equipment, 3 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 3 with flaming brand, 3 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 12 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 1 War Mûmak of Harad with Haradrim Commander and 6 Haradrim Warriors: 3 with [spear](../rules_manual/weapons_and_wargear.md#spear-78) and 3 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), in the Howdah.
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes with horse; [General Targg](../forces_of_evil/the_hill_tribes.md#general-targg-80-points) with horse; [Hill Tribes Chieftain](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points); 36 Hill Tribesmen: 3 with no additional equipment, 3 with light shield, 3 with flaming brand, 3 with flaming brand and light shield, 6 with spear, 6 with two-handed weapon, 12 with bow; 1 [War Mûmak of Harad](../forces_of_evil/fallen_realms.md#war-mumak-of-harad-250-points) with Haradrim Commander and 6 Haradrim Warriors: 3 with spear and 3 with bow, in the Howdah.
 
 **LAYOUT**
 
@@ -252,7 +252,7 @@ The Good player wins if the Mûmak has been slain and Haleth is still alive. The
 
 * **Spirit of the Ancestors**
 
-For the duration of this Scenario, Haleth gains the [Fearless](../rules_manual/special_rules.md#fearless), [Hatred](../rules_manual/special_rules.md#hatred-x) (Mûmak) and Mûmakbane special rules.
+For the duration of this Scenario, Haleth gains the [Fearless], [Hatred] (Mûmak) and Mûmakbane special rules.
 
 * **Monstrous Rampage**
 
@@ -260,7 +260,7 @@ If the Mûmak comes into contact with a building whilst Trampling, rather than s
 
 * **A Chance for Revenge**
 
-For the duration of the scenario, Wulf is armed with a [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart). Additionally, Wulf must re-roll failed To Hit and To Wound rolls when making a Shooting Attack that targets Haleth.
+For the duration of the scenario, Wulf is armed with a bow. Additionally, Wulf must re-roll failed To Hit and To Wound rolls when making a Shooting Attack that targets Haleth.
 
 ![](../media/scenarios/war_of_the_rohirrim/streets_of_edoras.jpg){ width=876 height=848 }
 
@@ -270,9 +270,9 @@ For the duration of the scenario, Wulf is armed with a [bow](../rules_manual/wea
 
 **PARTICIPANTS**
 
-Good: Helm Hammerhand, King of Rohan; Háma, Prince of Rohan; Héra, Daughter of Helm; Captain of Rohan with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); 6 Royal Guard: 4 with no additional equipment, 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons); 12 Warriors of Rohan: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons).
+Good: [Helm Hammerhand, King of Rohan](../forces_of_good/rohan.md#helm-hammerhand-king-of-rohan-160-points); [Háma, Prince of Rohan](../forces_of_good/rohan.md#hama-prince-of-rohan-70-points); [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points); [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with heavy armour and shield; 6 Royal Guard: 4 with no additional equipment, 2 with throwing spear; 12 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 4 with shield, 4 with bow, 4 with shield and throwing spear.
 
-Evil: Wulf, High Lord of the Hill Tribes; General Targg; 2 Hill Tribes Chieftains; 36 Hill Tribesmen: 3 with no additional equipment, 3 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 3 with flaming brand, 3 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 12 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes; [General Targg](../forces_of_evil/the_hill_tribes.md#general-targg-80-points); 2 [Hill Tribes Chieftains](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points); 36 Hill Tribesmen: 3 with no additional equipment, 3 with light shield, 3 with flaming brand, 3 with flaming brand and light shield, 6 with spear, 6 with two-handed weapon, 12 with bow.
 
 **LAYOUT**
 
@@ -310,9 +310,9 @@ Helm begins the game with no points of Fate. Additionally, for the duration of t
 
 **PARTICIPANTS**
 
-Good: Helm Hammerhand, Wraith of the Hornburg.
+Good: [Helm Hammerhand, Wraith of the Hornburg](../forces_of_good/rohan.md#helm-hammerhand-wraith-of-the-hornburg-180-points).
 
-Evil: 1 Hill Tribes Chieftain; 24 Hill Tribesmen: 2 with no additional equipment, 2 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 2 with flaming brand, 2 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: 1 [Hill Tribes Chieftain](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points); 24 Hill Tribesmen: 2 with no additional equipment, 2 with light shield, 2 with flaming brand, 2 with flaming brand and light shield, 4 with spear, 4 with two-handed weapon, 8 with bow.
 
 **LAYOUT**
 
@@ -342,7 +342,7 @@ Once the alarm has been raised, the Hill Tribes Chieftain may escape the battle 
 
 * **"Night after night, limb from limb"**
 
-For the duration of the Scenario, Helm has the [Terror](../rules_manual/special_rules.md#terror) special rule.
+For the duration of the Scenario, Helm has the [Terror] special rule.
 
 ![](../media/scenarios/war_of_the_rohirrim/wrath_of_the_hammerhand.jpg){ width=876 height=848 }
 
@@ -352,9 +352,9 @@ For the duration of the Scenario, Helm has the [Terror](../rules_manual/special_
 
 **PARTICIPANTS**
 
-Good: Héra, Daughter of Helm; Helm Hammerhand, Wraith of the Hornburg.
+Good: [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points); [Helm Hammerhand, Wraith of the Hornburg](../forces_of_good/rohan.md#helm-hammerhand-wraith-of-the-hornburg-180-points).
 
-Evil: Shank; Wrot; Snow Troll.
+Evil: [Shank](../forces_of_evil/the_hill_tribes.md#shank-wrot-150-points); [Wrot](../forces_of_evil/the_hill_tribes.md#shank-wrot-150-points); [Snow Troll](../forces_of_evil/the_hill_tribes.md#shank-wrot-150-points).
 
 **LAYOUT**
 
@@ -376,7 +376,7 @@ The Good player wins if all of the Evil models have been slain. The Evil player 
 
 * **Unarmed**
 
-For the duration of the Scenario, Héra is [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models).
+For the duration of the Scenario, Héra is Unarmed.
 
 * **Caught Unawares**
 
@@ -390,9 +390,9 @@ The Evil player has Priority in the first turn.
 
 **PARTICIPANTS**
 
-Good: Helm Hammerhand, Wraith of the Hornburg; Héra, Daughter of Helm.
+Good: [Helm Hammerhand, Wraith of the Hornburg](../forces_of_good/rohan.md#helm-hammerhand-wraith-of-the-hornburg-180-points); [Héra, Daughter of Helm](../forces_of_good/rohan.md#hera-daughter-of-helm-70-points).
 
-Evil: Wulf, High Lord of the Hill Tribes; General Targg; 24 Hill Tribesmen: 2 with no additional equipment, 2 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 2 with flaming brand, 2 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes; [General Targg](../forces_of_evil/the_hill_tribes.md#general-targg-80-points); 24 Hill Tribesmen: 2 with no additional equipment, 2 with light shield, 2 with flaming brand, 2 with flaming brand and light shield, 4 with spear, 4 with two-handed weapon, 8 with bow.
 
 **LAYOUT**
 
@@ -414,7 +414,7 @@ The Good player wins if Héra manages to exit the board and Helm is still alive 
 
 * **Fierce Blizzard**
 
-Models cannot see further than 6" in this scenario, and shooting attacks will only ever hit on the roll of a natural 6. Additionally, Hero models may not declare a [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase-65).
+Models cannot see further than 6" in this scenario, and shooting attacks will only ever hit on the roll of a natural 6. Additionally, Hero models may not declare a [Heroic March].
 
 * **Snowstorm**
 
@@ -426,7 +426,7 @@ At the beginning of each model's Activation, they must roll a D6 and consult the
 | 2 | The model may only Move up to half of its Move Value; however, they may not Charge an enemy model during their Move. |
 | 3 | The model may only Move up to half of its Move Value. |
 | 4 | The model may Move up to its full Move Value; however, they may not Charge an enemy model during their Move. |
-| 5 | The model may Move up to its full Move Value; however, they may not declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase-64) during the Fight Phase. |
+| 5 | The model may Move up to its full Move Value; however, they may not declare a [Heroic Combat] during the Fight Phase. |
 | 6 | The model may Move up to its full Move Value. |
 
 ![](../media/scenarios/war_of_the_rohirrim/last_stand_of_helm_hammerhand.jpg){ width=879 height=849 }
@@ -437,9 +437,9 @@ At the beginning of each model's Activation, they must roll a D6 and consult the
 
 **PARTICIPANTS**
 
-Good: Héra, Bride of Death; Olwyn, Shieldmaiden of Rohan; Fréaláf, First Marshal of the Riddermark with [horse](../rules_manual/cavalry.md#horse-40mm); Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm), [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Riders of Rohan: 16 with no additional equipment, 8 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons).
+Good: [Héra, Bride of Death](../forces_of_good/rohan.md#hera-the-bride-of-death-125-points); [Olwyn, Shieldmaiden of Rohan](../forces_of_good/rohan.md#olwyn-shieldmaiden-of-rohan-80-points); [Fréaláf, First Marshal of the Riddermark](../forces_of_good/rohan.md#frealaf-100-points) with horse; [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with horse, heavy armour and shield; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 16 with no additional equipment, 8 with throwing spear.
 
-Evil: Wulf, High Lord of the Hill Tribes; General Targg; 2 Hill Tribes Chieftains; 60 Hill Tribesmen: 5 with no additional equipment, 5 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 5 with flaming brand, 5 with flaming brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 10 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 10 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 20 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+Evil: [Wulf](../forces_of_evil/the_hill_tribes.md#wulf-110-points), High Lord of the Hill Tribes; [General Targg](../forces_of_evil/the_hill_tribes.md#general-targg-80-points); 2 [Hill Tribes Chieftains](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points); 60 Hill Tribesmen: 5 with no additional equipment, 5 with light shield, 5 with flaming brand, 5 with flaming brand and light shield, 10 with spear, 10 with two-handed weapon, 20 with bow.
 
 **LAYOUT**
 
@@ -468,11 +468,11 @@ Should Wulf be slain or there be fewer than 32 Evil models remaining on the boar
 
 * **The Marshal of the Mark**
 
-Whilst they are within 12" of Fréaláf and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge. Lastly, Fréaláf counts as wearing [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule for the duration of the Scenario.
+Whilst they are within 12" of Fréaláf and have the Cavalry keyword, Riders of Rohan gain a bonus of +1 to their Fight Value in a turn in which they Charge. Lastly, Fréaláf counts as wearing heavy armour and gains the [Fearless] special rule for the duration of the Scenario.
 
 * **Commander of the Hill Tribes**
 
-Friendly Dunland Warrior models treat General Targg as a [banner](../rules_manual/weapons_and_wargear.md#banner-80) with a range of 6".
+Friendly Dunland Warrior models treat General Targg as a banner with a range of 6".
 
 * **The Siege Tower**
 

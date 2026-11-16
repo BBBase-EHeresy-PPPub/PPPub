@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale.
+**Good:** [Girion, Lord of Dale](../forces_of_good/garrison_of_dale_girion.md#girion-lord-of-dale-75-points); 2 [Captains of Dale](../forces_of_good/garrison_of_dale_brand.md#captain-of-dale-50-points); 30 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points).
 
-**Evil:** Smaug.
+**Evil:** [Smaug](../forces_of_evil/desolator_of_the_north.md#smaug-700-points).
 
 **LAYOUT**
 
@@ -40,9 +40,9 @@ Girion automatically passes all Courage tests for this Scenario. Additionally, G
 
 **PARTICIPANTS**
 
-**Good:** Thrór; Thráin; Young Thorin Oakenshield; Young Balin the Dwarf; Young Dwalin the Dwarf; 36 Warriors of Erebor; 24 Grim [Hammers][Hammer].
+**Good:** [Thrór](../forces_of_good/army_of_thror.md#thror-120-points); [Thráin](../forces_of_good/army_of_thror.md#thrain-120-points); [Young Thorin Oakenshield](../forces_of_good/army_of_thror.md#young-thorin-oakenshield-100-points); [Young Balin the Dwarf](../forces_of_good/army_of_thror.md#young-balin-the-dwarf-55-points); [Young Dwalin the Dwarf](../forces_of_good/army_of_thror.md#young-dwalin-the-dwarf-85-points); 36 [Warriors of Erebor](../forces_of_good/army_of_thror.md#warrior-of-erebor-8-points); 24 Grim Hammers.
 
-**Evil:** Azog; The Keeper of the Dungeons; 3 Gundabad Orc Captains; 48 Gundabad Orcs.
+**Evil:** [Azog](../forces_of_evil/azogs_hunters.md#azog-165-points); [The Keeper of the Dungeons](../forces_of_evil/dark_powers_of_dol_guldur.md#the-keeper-of-the-dungeons-75-points); 3 [Gundabad Orc Captains](../forces_of_evil/azogs_legion.md#gundabad-orc-captain-50-points); 48 [Gundabad Orcs](../forces_of_evil/azogs_legion.md#gundabad-orc-warrior-8-points).
 
 **LAYOUT**
 
@@ -64,7 +64,7 @@ Whilst Thrór is alive and on the battlefield, Thráin receives no benefit from 
 
 * **There was one I could follow**
 
-If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a [banner][Banner] until the end of the turn.
+If both Thrór and Thráin have been slain, and Young Thorin Oakenshield wins a Duel roll, then all **Dwarf** models on the board count as if they are in range of a banner until the end of the turn.
 
 * **Hordes without End**
 
@@ -78,9 +78,9 @@ Whenever an Evil **Warrior** model is slain, place it to one side. At the end of
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found [The Ring][The One Ring].
+**Good:** [Thorin Oakenshield](../forces_of_good/thorins_company.md#thorin-oakenshield-100-points); [Kíli the Dwarf](../forces_of_good/thorins_company.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/thorins_company.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/thorins_company.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/thorins_company.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/thorins_company.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/thorins_company.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/thorins_company.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/thorins_company.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/thorins_company.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/thorins_company.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/thorins_company.md#oin-the-dwarf-45-points); [Glóin the Dwarf](../forces_of_good/thorins_company.md#gloin-the-dwarf-85-points); Bilbo Baggins. As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not have Orcrist or Sting respectively. Bilbo also has not yet found The Ring.
 
-**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
+**Evil:** [Bill the Troll](../forces_of_evil/the_trolls.md#bill-the-troll-150-points); [Bert the Troll](../forces_of_evil/the_trolls.md#bert-the-troll-130-points); [Tom the Troll](../forces_of_evil/the_trolls.md#tom-the-troll-120-points).
 
 **LAYOUT**
 
@@ -116,9 +116,9 @@ The Trolls may not make Strikes against Bilbo until the start of the third turn,
 
 **PARTICIPANTS**
 
-**Good:** Elrond with [heavy armour][Heavy Armour] and horse; 12 Rivendell Knights with [shield][Shield].
+**Good:** [Elrond](../forces_of_good/rivendell.md#elrond-170-points) with heavy armour and horse; 12 [Rivendell Knights](../forces_of_good/rivendell.md#rivendell-knight-21-points) with shield.
 
-**Evil:** Yazneg on [Fell Warg]; 12 Hunter Orcs on [Fell Warg]; 12 Fell Wargs.
+**Evil:** [Yazneg](../forces_of_evil/azogs_hunters.md#yazneg-45-points) on Fell Warg; 12 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points) on Fell Warg; 12 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points).
 
 **LAYOUT**
 
@@ -148,9 +148,9 @@ The Good player has Priority in the first two turns of this Scenario.
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
+**Good:** [Thorin Oakenshield](../forces_of_good/thorins_company.md#thorin-oakenshield-100-points) with Orcrist and Oakenshield; [Kíli the Dwarf](../forces_of_good/thorins_company.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/thorins_company.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/thorins_company.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/thorins_company.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/thorins_company.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/thorins_company.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/thorins_company.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/thorins_company.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/thorins_company.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/thorins_company.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/thorins_company.md#oin-the-dwarf-45-points); [Glóin the Dwarf](../forces_of_good/thorins_company.md#gloin-the-dwarf-85-points); [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points).
 
-**Evil:** The Goblin King; Grinnah; The Goblin Scribe; Goblin Captain; 36 Goblin Warriors.
+**Evil:** [The Goblin King](../forces_of_evil/goblin_town.md#the-goblin-king-130-points); [Grinnah](../forces_of_evil/goblin_town.md#grinnah-40-points); [The Goblin Scribe](../forces_of_evil/goblin_town.md#the-goblin-scribe-50-points); [Goblin Captain](../forces_of_evil/goblin_town.md#goblin-captain-35-points); 36 [Goblin Warriors](../forces_of_evil/goblin_town.md#goblin-warrior-4-points).
 
 **LAYOUT**
 
@@ -170,7 +170,7 @@ At the start of the game, the Evil player nominates any board edge; this is the 
 
 * **Take up arms**
 
-The Dwarves all start the game [unarmed][Unarmed]. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons - at which point they are no longer considered to be [unarmed][Unarmed].
+The Dwarves all start the game unarmed. Any Dwarf that moves into base contact with the weapons pile at any point in their Move phase may pick up their weapons - at which point they are no longer considered to be unarmed.
 
 * **A Wizard is never late**
 
@@ -192,9 +192,9 @@ The Goblin King may not move during the first turn of the game.
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Bilbo Baggins with Sting; Gwaihir; 4 Great Eagles.
+**Good:** [Thorin Oakenshield](../forces_of_good/thorins_company.md#thorin-oakenshield-100-points) with Orcrist and Oakenshield; Bilbo Baggins with Sting; [Gwaihir](../forces_of_good/radagasts_alliance.md#gwaihir-150-points); 4 [Great Eagles](../forces_of_good/radagasts_alliance.md#great-eagle-100-points).
 
-**Evil:** Azog on White Warg; Fimbul the Hunter on [Fell Warg]; 12 Hunter Orcs on [Fell Warg]; 12 Fell Wargs.
+**Evil:** [Azog](../forces_of_evil/azogs_hunters.md#azog-165-points) on White Warg; [Fimbul the Hunter](../forces_of_evil/azogs_hunters.md#fimbul-the-hunter-50-points) on Fell Warg; 12 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points) on Fell Warg; 12 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points).
 
 **LAYOUT**
 
@@ -236,9 +236,9 @@ At the start of any Fight phase, the Good player may place Bilbo in base contact
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist and Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf; Tauriel; 10 Mirkwood Rangers.
+**Good:** [Thorin Oakenshield](../forces_of_good/thorins_company.md#thorin-oakenshield-100-points) with Orcrist and Oakenshield; [Kíli the Dwarf](../forces_of_good/thorins_company.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/thorins_company.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/thorins_company.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/thorins_company.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/thorins_company.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/thorins_company.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/thorins_company.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/thorins_company.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/thorins_company.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/thorins_company.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/thorins_company.md#oin-the-dwarf-45-points); [Glóin the Dwarf](../forces_of_good/thorins_company.md#gloin-the-dwarf-85-points); [Legolas](../forces_of_good/the_fellowship.md#legolas-100-points) Greenleaf; [Tauriel](../forces_of_good/halls_of_thranduil.md#tauriel-85-points); 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** 10 Mirkwood Spiders.
+**Evil:** 10 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points).
 
 **LAYOUT**
 
@@ -276,9 +276,9 @@ Any Mirkwood Spiders that are slain are kept to one side. At the start of each t
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman; Bain, Son of Bard; Sigrid & Tilda; Tauriel; Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; the Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard and 24 Lake-town Guard: 8 with [sword][Sword], 8 with [spear][Spear] and 8 with [bow][Bow].
+**Good:** [Bard the Bowman](../forces_of_good/army_of_lake_town.md#bard-the-bowman-140-points); [Bain, Son of Bard](../forces_of_good/army_of_lake_town.md#bain-son-of-bard-40-points); [Sigrid & Tilda](../forces_of_good/army_of_lake_town.md#sigrid-tilda-30-points); [Tauriel](../forces_of_good/halls_of_thranduil.md#tauriel-85-points); [Kíli the Dwarf](../forces_of_good/thorins_company.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/thorins_company.md#fili-the-dwarf-50-points); [Bofur the Dwarf](../forces_of_good/thorins_company.md#bofur-the-dwarf-45-points); [Óin the Dwarf](../forces_of_good/thorins_company.md#oin-the-dwarf-45-points); the [Master of Lake-town](../forces_of_good/army_of_lake_town.md#master-of-lake-town-50-points); [Alfrid the Councillor](../forces_of_good/army_of_lake_town.md#alfrid-the-councillor-20-points); [Braga, Captain of the Guard](../forces_of_good/army_of_lake_town.md#braga-captain-of-the-guard-50-points) and 24 Lake-town Guard: 8 with sword, 8 with spear and 8 with bow.
 
-**Evil:** Smaug.
+**Evil:** [Smaug](../forces_of_evil/desolator_of_the_north.md#smaug-700-points).
 
 **LAYOUT**
 
@@ -322,9 +322,9 @@ Good models may shoot at Smaug even if he is Engaged in combat, with no risk of 
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light and Elrond, Master of Rivendell.
+**Good:** [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points); [Saruman the White](../forces_of_good/the_white_council.md#saruman-the-white-170-points); [Radagast the Brown](../forces_of_good/radagasts_alliance.md#radagast-the-brown-150-points) on Sleigh; [Galadriel, Lady of Light](../forces_of_good/the_white_council.md#galadriel-lady-of-light-130-points) and Elrond, Master of Rivendell.
 
-**Evil:** The Necromancer; All 9 Nazgûl of Dol Guldur and the Keeper of the Dungeons.
+**Evil:** [The Necromancer](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); All 9 [Nazgûl of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md) and the Keeper of the Dungeons.
 
 **LAYOUT**
 
@@ -342,7 +342,7 @@ The White Council are trying to save Gandalf from the clutches of the Necromance
 
 * **A Wizard Lays Dying**
 
-Gandalf starts the game with no Might or Will, no [Staff of Power], and under the effects of the [Paralyse] Magical Power. Friendly models may carry Gandalf, in which case he is a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
+Gandalf starts the game with no Might or Will, no Staff of Power, and under the effects of the [Paralyse] Magical Power. Friendly models may carry Gandalf, in which case he is a [Heavy Object].
 
 * **"I will Destroy You"**
 
@@ -380,11 +380,11 @@ Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor
 
 **The Iron Hills**
 
-Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with [spear][Spear], 12 with mattock, 12 with [crossbow][Crossbow]; Iron Hills Chariot.
+Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
 
 **Halls of Thranduil**
 
-Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with [shield][Shield]; 12 with [Elven-made] glaive; 12 with Elf [bow][Bow].
+Thranduil, King of the Woodland Realm on elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves; 12 with shield; 12 with Elven-made glaive; 12 with Elf bow.
 
 **Radagast's Alliance**
 
@@ -394,7 +394,7 @@ Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
 
 **Azog's Legion**
 
-Azog with [heavy armour][Heavy Armour], stone [flail][Flail] and Signal Tower; Bolg; 5 Gundabad Orc Captains with [shield][Shield]; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with [shield][Shield], 30 with [spear][Spear]; 2 Gundabad Trolls with crushing [club][Club]; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
+Azog with heavy armour, stone flail and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
 **LAYOUT**
 
@@ -440,10 +440,10 @@ Beorn enters the board as a passenger on the back of any of the Great Eagles (no
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman with [armour][Armour]; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar;
-Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with [shield][Shield], 12 with [spear][Spear], 12 with [bow][Bow]; 24 Mirkwood Elves: 8 with [shield][Shield], 8 with [Elven-made] glaive, 8 with Elf [bow][Bow].
+**Good:** [Bard the Bowman](../forces_of_good/army_of_lake_town.md#bard-the-bowman-140-points) with armour; [Bain, son of Bard](../forces_of_good/army_of_lake_town.md#bain-son-of-bard-40-points); [Sigrid & Tilda](../forces_of_good/army_of_lake_town.md#sigrid-tilda-30-points); [Percy](../forces_of_good/survivors_of_lake_town.md#percy-50-points); [Hilda Bianca](../forces_of_good/survivors_of_lake_town.md#hilda-bianca-30-points); [Alfrid the Councillor](../forces_of_good/army_of_lake_town.md#alfrid-the-councillor-20-points); [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points); [Bilbo Baggins, Master Burglar](../forces_of_good/survivors_of_lake_town.md#bilbo-baggins-master-burglar-90-points);
+[Thranduil](../forces_of_good/halls_of_thranduil.md#thranduil-100-points), King of the Woodland Realm; [Mirkwood Elf](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points) Captain; 36 [Lake-town Militia](../forces_of_good/survivors_of_lake_town.md#lake-town-militia-5-points): 12 with shield, 12 with spear, 12 with bow; 24 [Mirkwood Elves](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points): 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
 
-**Evil:** 4 Gundabad Orc Captains with [shield][Shield]; 48 Gundabad Orcs: 24 with [shield][Shield], 24 with [spear][Spear]; 4 Ogres.
+**Evil:** 4 [Gundabad Orc Captains](../forces_of_evil/azogs_legion.md#gundabad-orc-captain-50-points) with shield; 48 [Gundabad Orcs](../forces_of_evil/azogs_legion.md#gundabad-orc-warrior-8-points): 24 with shield, 24 with spear; 4 Ogres.
 
 **LAYOUT**
 

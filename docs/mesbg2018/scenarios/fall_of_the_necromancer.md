@@ -2,11 +2,11 @@
 
 **PARTICIPANTS**
 
-**Good:** Woodsmen Chieftain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Woodsmen: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons) and [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Woodsmen Chieftain](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield; 12 [Woodsmen](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 4 with shield, 4 with throwing spear and shield, 4 with bow.
 
 ***Note:** The Woodsmen Chieftain uses the same profile as a Captain of Rohan, the Woodsmen use the same profile as a Warrior of Rohan.*
 
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Evil:** [The Necromancer of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); 12 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -30,7 +30,7 @@ The Necromancer begins the game with only 12 points of Will.
 
 * **The Sense of Dread**
 
-All Evil models have the [Terror](../rules_manual/special_rules.md#terror) special rule in this scenario.
+All Evil models have the [Terror] special rule in this scenario.
 
 ![](../media/scenarios/fall_of_the_necromancer/the_founding_of_dol_guldur.jpg){ width=500 height=500 }
 
@@ -40,9 +40,9 @@ All Evil models have the [Terror](../rules_manual/special_rules.md#terror) speci
 
 **PARTICIPANTS**
 
-**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+**Good:** [Mirkwood Ranger Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** The Necromancer of Dol Guldur; 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Evil:** [The Necromancer of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); 12 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -76,9 +76,9 @@ Good models can only see up to 6" in this Scenario. Therefore, they cannot shoot
 
 **PARTICIPANTS**
 
-**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
+**Good:** 2 [Mirkwood Ranger Captains](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 20 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** 4 Castellans of Dol Guldur; 6 Giant Spiders; 6 Mirkwood Spiders; 6 Fell Wargs; 2 Bat Swarms.
+**Evil:** 4 Castellans of Dol Guldur; 6 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points); 6 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 6 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points); 2 Bat Swarms.
 
 **LAYOUT**
 
@@ -112,9 +112,9 @@ If, during the End phase of any turn, there is a non-Prone Good model in base co
 
 **PARTICIPANTS**
 
-**Good:** 2 Mirkwood Ranger Captains; 20 Mirkwood Rangers.
+**Good:** 2 [Mirkwood Ranger Captains](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 20 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** The Spider Queen; 6 Giant Spiders; 6 Mirkwood Spiders; 2 Bat Swarms.
+**Evil:** [The Spider Queen](../forces_of_evil/dark_denizens_of_mirkwood.md#the-spider-queen-115-points); 6 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points); 6 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 2 Bat Swarms.
 
 **LAYOUT**
 
@@ -150,9 +150,9 @@ Shooting attacks that target the Spider Queen suffer a -1 penalty when rolling T
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey.
+**Good:** [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points).
 
-**Evil:** The Necromancer of Dol Guldur; 4 Castellans of Dol Guldur.
+**Evil:** [The Necromancer of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); 4 Castellans of Dol Guldur.
 
 **LAYOUT**
 
@@ -196,9 +196,9 @@ Gandalf has 2 Attacks in this scenario.
 
 **PARTICIPANTS**
 
-**Good:** Legolas Greenleaf, Prince of Mirkwood; Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+**Good:** [Legolas Greenleaf, Prince of Mirkwood](../forces_of_good/halls_of_thranduil.md#legolas-greenleaf-prince-of-mirkwood-95-points); [Mirkwood Ranger Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** 2 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Evil:** 2 [Orc Captains](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow.
 
 **LAYOUT**
 
@@ -232,9 +232,9 @@ Good models may re-roll failed To Hit rolls when making shooting attacks if they
 
 **PARTICIPANTS**
 
-**Good:** Legolas Greenleaf, Prince of Mirkwood; Tauriel; 10 Mirkwood Rangers.
+**Good:** [Legolas Greenleaf, Prince of Mirkwood](../forces_of_good/halls_of_thranduil.md#legolas-greenleaf-prince-of-mirkwood-95-points); [Tauriel](../forces_of_good/halls_of_thranduil.md#tauriel-85-points); 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
+**Evil:** 6 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 6 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points).
 
 **LAYOUT**
 
@@ -270,9 +270,9 @@ Whenever a **Spider** model is slain, keep it to one side. At the start of each 
 
 **PARTICIPANTS**
 
-**Good:** Radagast the Brown.
+**Good:** [Radagast the Brown](../forces_of_good/radagasts_alliance.md#radagast-the-brown-150-points).
 
-**Evil:** 4 Mirkwood Spiders.
+**Evil:** 4 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points).
 
 **LAYOUT**
 
@@ -306,9 +306,9 @@ Whenever Radagast rescues a creature, he may restore one Fate point spent earlie
 
 **PARTICIPANTS**
 
-**Good:** Radagast the Brown with Sebastian.
+**Good:** [Radagast the Brown](../forces_of_good/radagasts_alliance.md#radagast-the-brown-150-points) with Sebastian.
 
-**Evil:** The Witch-king of Angmar, Nazgûl of Dol Guldur.
+**Evil:** [The Witch-king of Angmar](../forces_of_evil/mordor.md#witch-king-70-points), Nazgûl of Dol Guldur.
 
 **LAYOUT**
 
@@ -342,7 +342,7 @@ In this Scenario, the Witch-king does not benefit from his *Unholy Resurrection*
 
 * **The Will of the Necromancer**
 
-Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *[Resistant to Magic](../rules_manual/special_rules.md#resistant-to-magic)* special rule.
+Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witch-king of Angmar gains the *[Resistant to Magic]* special rule.
 
 ![](../media/scenarios/fall_of_the_necromancer/exploration_of_dol_guldur.jpg){ width=500 height=500 }
 
@@ -352,9 +352,9 @@ Radagast suffers a -1 penalty when making a Casting roll. Additionally, the Witc
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey.
+**Good:** [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points).
 
-**Evil:** Thráin the Broken; 5 Hunter Orcs.
+**Evil:** [Thráin](../forces_of_good/army_of_thror.md#thrain-120-points) the Broken; 5 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points).
 
 > **Designer's Note:** *This Scenario was originally created as a fan-made Scenario by Damian O'Byrne and Tom Harrison when the extended edition of The Hobbit™: The Battle of Five Armies came out. They have kindly allowed us to make some small tweaks to update the Scenario and publish it within this supplement.*
 
@@ -380,11 +380,11 @@ The Hunter Orcs begin the game as Sentries, as described in the main rules manua
 
 * **A Spell of Concealment**
 
-Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *[Command](../rules_manual/magical_powers.md#commandcompel)* Magical Power upon it.
+Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *[Command]* Magical Power upon it.
 
 * **The Wizard Has Come**
 
-Gandalf causes *[Terror](../rules_manual/special_rules.md#terror)* in this Scenario.
+Gandalf causes *[Terror]* in this Scenario.
 
 * **Grip of Madness**
 
@@ -396,7 +396,7 @@ Gandalf may not strike blows against Thráin if he wins a fight against him. Thi
 
 * **Quietly in the Darkness**
 
-Gandalf may not use the *[Sorcerous Blast](../rules_manual/magical_powers.md#sorcerous-blast)* or *[Collapse Rocks](../rules_manual/magical_powers.md#collapse-rocks)* Magical Powers in this Scenario.
+Gandalf may not use the *[Sorcerous Blast]* or *[Collapse Rocks]* Magical Powers in this Scenario.
 
 ![](../media/scenarios/fall_of_the_necromancer/thrain_the_broken.jpg){ width=500 height=500 }
 
@@ -406,9 +406,9 @@ Gandalf may not use the *[Sorcerous Blast](../rules_manual/magical_powers.md#sor
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey; Thráin the Broken.
+**Good:** [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points); [Thráin](../forces_of_good/army_of_thror.md#thrain-120-points) the Broken.
 
-**Evil:** The Necromancer of Dol Guldur; Azog; 6 Hunter Orcs on Fell Wargs; 12 Hunter Orcs.
+**Evil:** [The Necromancer of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); [Azog](../forces_of_evil/azogs_hunters.md#azog-165-points); 6 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points) on Fell Wargs; 12 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points).
 
 **LAYOUT**
 
@@ -428,7 +428,7 @@ The game lasts until one player completes their objective. The Good player wins 
 
 * **A Flash of Light**
 
-During the first turn of the game, all Evil models are treated as being under the effect of the *[Immobilise](../rules_manual/magical_powers.md#immobilisetransfix)* Magical Power.
+During the first turn of the game, all Evil models are treated as being under the effect of the *[Immobilise]* Magical Power.
 
 * **The General of Dol Guldur**
 
@@ -444,7 +444,7 @@ If your roll on the chart exceeds the number of models remaining to enter the bo
 |:---:|:---------------|
 | 2 | No reinforcements this turn |
 | 3‑6 | D3 Hunter Orcs |
-| 7‑9 | 1 Hunter Orc on [Fell Warg](../rules_manual/cavalry.md#fell-warg) |
+| 7‑9 | 1 Hunter Orc on Fell Warg |
 | 10‑11 | D3 Hunter Orcs on Fell Wargs |
 | 12 | The Necromancer of Dol Guldur |
 
@@ -462,9 +462,9 @@ During the Move phase, if Gandalf is on the bridge, he may attempt to smite it. 
 
 **PARTICIPANTS**
 
-**Good:** Radagast the Brown on Sleigh.
+**Good:** [Radagast the Brown](../forces_of_good/radagasts_alliance.md#radagast-the-brown-150-points) on Sleigh.
 
-**Evil:** 6 Mirkwood Spiders; 6 Giant Spiders.
+**Evil:** 6 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 6 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points).
 
 **LAYOUT**
 
@@ -500,9 +500,9 @@ Whilst riding his Sleigh, whenever Radagast charges into combat, the Sleigh will
 
 **PARTICIPANTS**
 
-**Good:** Gandalf the Grey; Saruman the White; Radagast the Brown on Sleigh; Galadriel, Lady of Light; Elrond, Master of Rivendell.
+**Good:** [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points); [Saruman the White](../forces_of_good/the_white_council.md#saruman-the-white-170-points); [Radagast the Brown](../forces_of_good/radagasts_alliance.md#radagast-the-brown-150-points) on Sleigh; [Galadriel, Lady of Light](../forces_of_good/the_white_council.md#galadriel-lady-of-light-130-points); [Elrond](../forces_of_good/rivendell.md#elrond-170-points), Master of Rivendell.
 
-**Evil:** The Necromancer; all 9 Nazgûl of Dol Guldur; and the Keeper of the Dungeons.
+**Evil:** [The Necromancer](../forces_of_evil/dark_powers_of_dol_guldur.md#the-necromancer-of-dol-guldur-250-points); all 9 [Nazgûl of Dol Guldur](../forces_of_evil/dark_powers_of_dol_guldur.md); and [the Keeper of the Dungeons](../forces_of_evil/dark_powers_of_dol_guldur.md#the-keeper-of-the-dungeons-75-points).
 
 **LAYOUT**
 
@@ -522,7 +522,7 @@ The Good player wins immediately if Gandalf is rescued by having him move off of
 
 * **A Wizard Lies Dying**
 
-Gandalf starts the game with no Might or Will, no [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and under the effects of the *[Paralyse](../rules_manual/magical_powers.md#paralyse)* Magical Power. Friendly models may carry Gandalf, in which case he counts as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
+Gandalf starts the game with no Might or Will, no Staff of Power, and under the effects of the *[Paralyse]* Magical Power. Friendly models may carry Gandalf, in which case he counts as a [Heavy Object].
 
 * **"I will Destroy You!"**
 

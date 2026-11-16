@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Brand, King of Dale; Captain of Dale with [shield](../rules_manual/weapons_and_wargear.md#shields); 20 Warriors of Dale: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Brand, King of Dale](../forces_of_good/garrison_of_dale_brand.md#brand-king-of-dale-110-points); [Captain of Dale](../forces_of_good/garrison_of_dale_brand.md#captain-of-dale-50-points) with shield; 20 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 6 with shield, 8 with spear and shield, 6 with Esgaroth bow.
 
-**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with [armoured horse](../rules_manual/cavalry.md#armoured-horse), [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) and [shield](../rules_manual/weapons_and_wargear.md#shields); Easterling War Priest; 20 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows); 5 Easterling Kataphrakts.
+**Evil:** [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Easterling Captain](../forces_of_evil/the_easterlings.md#easterling-captain-50-points) with armoured horse, sword and shield; [Easterling War Priest](../forces_of_evil/the_easterlings.md#easterling-war-priest-60-points); 20 Easterling Warriors: 8 with shield, 4 with pike and shield, 8 with bow; 5 Easterling Kataphrakts.
 
 **LAYOUT**
 
@@ -38,9 +38,9 @@ Easterling models may re-roll failed To Wound rolls in the Fight phase.
 
 **PARTICIPANTS**
 
-**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; Captain of Dale with [shield](../rules_manual/weapons_and_wargear.md#shields); Iron Hills Captain; 22 Warriors of Dale: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners), 1 with [war horn](../rules_manual/weapons_and_wargear.md#war-horns); 12 Knights of Dale; 25 Iron Hills Dwarves: 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with mattock, 6 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
+**Good:** [Brand, King of Dale](../forces_of_good/garrison_of_dale_brand.md#brand-king-of-dale-110-points); [Bard II, Prince of Dale](../forces_of_good/garrison_of_dale_brand.md#bard-ii-prince-of-dale-100-points); [Dáin Ironfoot, King Under the Mountain](../forces_of_good/erebor_reclaimed_king_dain.md#dain-ironfoot-king-under-the-mountain-130-points); [Thorin III Stonehelm](../forces_of_good/erebor_reclaimed_king_dain.md#thorin-iii-stonehelm-110-points); [Captain of Dale](../forces_of_good/garrison_of_dale_brand.md#captain-of-dale-50-points) with shield; [Iron Hills Captain](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-captain-80-points); 22 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner, 1 with war horn; 12 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 25 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points): 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
 
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with [armoured horse](../rules_manual/cavalry.md#armoured-horse), [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords) and [shield](../rules_manual/weapons_and_wargear.md#shields); Easterling War Priest; Easterling Dragon Knight; 31 Easterling Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 5 Easterling Kataphrakts; 18 Black Dragons: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Dragon Cult Acolytes; 4 Rhûnish War Drakes.
+**Evil:** [The Dragon Emperor](../forces_of_evil/the_easterlings.md#the-dragon-emperor-200-points) of Rhûn; [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; [Easterling Captain](../forces_of_evil/the_easterlings.md#easterling-captain-50-points) with armoured horse, sword and shield; [Easterling War Priest](../forces_of_evil/the_easterlings.md#easterling-war-priest-60-points); [Easterling Dragon Knight](../forces_of_evil/the_easterlings.md#easterling-dragon-knight-65-points); 31 Easterling Warriors: 12 with shield, 6 with shield and pike, 12 with bow, 1 with banner; 5 Easterling Kataphrakts; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 [Dragon](../forces_of_evil/moria.md#dragon-250-points) Cult Acolytes; 4 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -58,11 +58,11 @@ The Battle of Dale has begun, embroiling both sides in a desperate war. The game
 
 * **To War!**
 
-Models from both sides, apart from those armed with a [bow](../rules_manual/weapons_and_wargear.md#bows), Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows), or [crossbow](../rules_manual/weapons_and_wargear.md#crossbows), must Charge if able to do so.
+Models from both sides, apart from those armed with a bow, Esgaroth bow, or crossbow, must Charge if able to do so.
 
 * **A Bond Forged in War**
 
-If either Dáin or Brand would be Trapped in the Fight phase, then the other may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
+If either Dáin or Brand would be Trapped in the Fight phase, then the other may declare a [Heroic Combat] without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
 * **Heroes of the Easterlings**
 
@@ -76,9 +76,9 @@ Easterling Hero models may re-roll a D6 in a Duel roll.
 
 **PARTICIPANTS**
 
-**Good:** Brand, King of Dale; Bard II, Prince of Dale; Dáin Ironfoot, King Under the Mountain; Thorin III Stonehelm; 12 Warriors of Dale: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners), 1 with [war horn](../rules_manual/weapons_and_wargear.md#war-horns); 6 Knights of Dale; 13 Iron Hills Dwarves: 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with mattock, 3 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
+**Good:** [Brand, King of Dale](../forces_of_good/garrison_of_dale_brand.md#brand-king-of-dale-110-points); [Bard II, Prince of Dale](../forces_of_good/garrison_of_dale_brand.md#bard-ii-prince-of-dale-100-points); [Dáin Ironfoot, King Under the Mountain](../forces_of_good/erebor_reclaimed_king_dain.md#dain-ironfoot-king-under-the-mountain-130-points); [Thorin III Stonehelm](../forces_of_good/erebor_reclaimed_king_dain.md#thorin-iii-stonehelm-110-points); 12 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner, 1 with war horn; 6 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 13 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points): 6 with spear, 3 with mattock, 3 with crossbow, 1 with banner.
 
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Black Dragons: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields); 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
+**Evil:** [The Dragon Emperor](../forces_of_evil/the_easterlings.md#the-dragon-emperor-200-points) of Rhûn; [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 [Dragon](../forces_of_evil/moria.md#dragon-250-points) Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -100,7 +100,7 @@ An army is considered to be controlling an Objective Marker if there are more fr
 
 * **A Bond Forged in War**
 
-If either Dáin or Brand would be Trapped at the start of the Fight phase, then the other may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
+If either Dáin or Brand would be Trapped at the start of the Fight phase, then the other may declare a [Heroic Combat] without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
 * **Heroes of the Easterlings**
 
@@ -114,9 +114,9 @@ Easterling Hero models may re-roll a D6 in a Duel roll.
 
 **PARTICIPANTS**
 
-**Good:** Brand, King of Dale; Dáin Ironfoot, King Under the Mountain; 6 Knights of Dale; 12 Iron Hills Dwarves with [spear](../rules_manual/weapons_and_wargear.md#spears).
+**Good:** [Brand, King of Dale](../forces_of_good/garrison_of_dale_brand.md#brand-king-of-dale-110-points); [Dáin Ironfoot, King Under the Mountain](../forces_of_good/erebor_reclaimed_king_dain.md#dain-ironfoot-king-under-the-mountain-130-points); 6 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 12 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points) with spear.
 
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows); 2 Rhûnish War Drakes.
+**Evil:** [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -140,7 +140,7 @@ In this Scenario, Brand increases his Fight value to 6.
 
 * **Allies in War**
 
-Dáin may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) each turn without spending Might.
+Dáin may declare a [Heroic Combat] each turn without spending Might.
 
 ![](../media/scenarios/defence_of_the_north/death_of_brand.jpg){ width=500 height=500 }
 
@@ -150,9 +150,9 @@ Dáin may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-figh
 
 **PARTICIPANTS**
 
-**Good:** Dáin Ironfoot, King Under the Mountain; 12 Iron Hills Dwarves with [spear](../rules_manual/weapons_and_wargear.md#spears).
+**Good:** [Dáin Ironfoot, King Under the Mountain](../forces_of_good/erebor_reclaimed_king_dain.md#dain-ironfoot-king-under-the-mountain-130-points); 12 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points) with spear.
 
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 20 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows); 2 Rhûnish War Drakes.
+**Evil:** [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; 20 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -174,7 +174,7 @@ Dáin Ironfoot must re-roll all failed To Wound rolls.
 
 * **Victory within Reach**
 
-Easterling models within 3" of the center of the board count as being in range of a [banner](../rules_manual/weapons_and_wargear.md#banners).
+Easterling models within 3" of the center of the board count as being in range of a banner.
 
 ![](../media/scenarios/defence_of_the_north/dains_last_stand.jpg){ width=500 height=500 }
 
@@ -184,9 +184,9 @@ Easterling models within 3" of the center of the board count as being in range o
 
 **PARTICIPANTS**
 
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 11 Warriors of Dale: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with mattock, 3 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows).
+**Good:** [Bard II, Prince of Dale](../forces_of_good/garrison_of_dale_brand.md#bard-ii-prince-of-dale-100-points); [Thorin III Stonehelm](../forces_of_good/erebor_reclaimed_king_dain.md#thorin-iii-stonehelm-110-points); 11 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 3 with shield, 4 with spear and shield, 3 with Esgaroth bow, 1 with banner; 6 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 12 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points): 6 with spear, 3 with mattock, 3 with crossbow.
 
-**Evil:** Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; 21 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Black Dragons: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields); 6 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
+**Evil:** [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 [Dragon](../forces_of_evil/moria.md#dragon-250-points) Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -206,13 +206,13 @@ The game lasts until either the Good player completes their objective, or the Ev
 
 * **Fall Back!**
 
-Bard and Thorin may declare [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase) in this Scenario, even though they would not normally be able to do so.
+Bard and Thorin may declare [Heroic March] in this Scenario, even though they would not normally be able to do so.
 
-Additionally, whenever Bard or Thorin declare a [Heroic March](../rules_manual/heroes.md#heroic-march-move-phase), they do not need to spend Might points to do so - it is free.
+Additionally, whenever Bard or Thorin declare a [Heroic March], they do not need to spend Might points to do so - it is free.
 
 * **The Heirs to the Kingdoms**
 
-If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then the other may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
+If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then the other may declare a [Heroic Combat] without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
 ![](../media/scenarios/defence_of_the_north/retreat_to_erebor.jpg){ width=500 height=500 }
 
@@ -222,9 +222,9 @@ If either Thorin Stonehelm or Bard II would be Trapped in the Fight phase, then 
 
 **PARTICIPANTS**
 
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; 10 Warriors of Dale: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields), 3 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Knights of Dale; 12 Iron Hills Dwarves: 6 with [spear](../rules_manual/weapons_and_wargear.md#spears), 3 with mattock, 3 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows).
+**Good:** [Bard II, Prince of Dale](../forces_of_good/garrison_of_dale_brand.md#bard-ii-prince-of-dale-100-points); [Thorin III Stonehelm](../forces_of_good/erebor_reclaimed_king_dain.md#thorin-iii-stonehelm-110-points); 10 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 3 with shield, 4 with spear & shield, 3 with Esgaroth bow; 6 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 12 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points): 6 with spear, 3 with mattock, 3 with crossbow.
 
-**Evil:** Rutabi, General of the Dragon Legion; Easterling Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Easterling Dragon Knight; 21 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 12 Black Dragons: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields); 6 Dragon Cult Acolytes.
+**Evil:** [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Easterling Captain](../forces_of_evil/the_easterlings.md#easterling-captain-50-points) with shield; [Easterling Dragon Knight](../forces_of_evil/the_easterlings.md#easterling-dragon-knight-65-points); 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 12 Black Dragons: 6 with shield, 6 with pike and shield; 6 [Dragon](../forces_of_evil/moria.md#dragon-250-points) Cult Acolytes.
 
 **LAYOUT**
 
@@ -258,9 +258,9 @@ The southern edge of the walls of Erebor is lined with battlements that can trap
 
 **PARTICIPANTS**
 
-**Good:** Bard II, Prince of Dale; Thorin III Stonehelm; Captain of Dale with [shield](../rules_manual/weapons_and_wargear.md#shields); Iron Hills Dwarf Captain; 21 Warriors of Dale: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 6 Knights of Dale; 25 Iron Hills Dwarves: 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with mattock, 6 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners).
+**Good:** [Bard II, Prince of Dale](../forces_of_good/garrison_of_dale_brand.md#bard-ii-prince-of-dale-100-points); [Thorin III Stonehelm](../forces_of_good/erebor_reclaimed_king_dain.md#thorin-iii-stonehelm-110-points); [Captain of Dale](../forces_of_good/garrison_of_dale_brand.md#captain-of-dale-50-points) with shield; [Iron Hills Dwarf](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points) Captain; 21 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 6 with shield, 8 with spear and shield, 6 with Esgaroth bow, 1 with banner; 6 [Knights of Dale](../forces_of_good/garrison_of_dale_brand.md#knight-of-dale-11-points); 25 [Iron Hills Dwarves](../forces_of_good/erebor_reclaimed_king_dain.md#iron-hills-dwarf-11-points): 12 with spear, 6 with mattock, 6 with crossbow, 1 with banner.
 
-**Evil:** The Dragon Emperor of Rhûn; Rutabi, General of the Dragon Legion; Brórgîr the Conjurer; Easterling Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Easterling Dragon Knight; 21 Easterling Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [pike](../rules_manual/weapons_and_wargear.md#pikes), 8 with [bow](../rules_manual/weapons_and_wargear.md#bows), 1 with [banner](../rules_manual/weapons_and_wargear.md#banners); 18 Black Dragons: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with [pike](../rules_manual/weapons_and_wargear.md#pikes) and [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Dragon Cult Acolytes; 2 Rhûnish War Drakes.
+**Evil:** [The Dragon Emperor](../forces_of_evil/the_easterlings.md#the-dragon-emperor-200-points) of Rhûn; [Rutabi](../forces_of_evil/the_easterlings.md#rutabi-110-points), General of the Dragon Legion; [Brórgîr](../forces_of_evil/the_easterlings.md#brorgir-80-points) the Conjurer; [Easterling Captain](../forces_of_evil/the_easterlings.md#easterling-captain-50-points) with shield; [Easterling Dragon Knight](../forces_of_evil/the_easterlings.md#easterling-dragon-knight-65-points); 21 Easterling Warriors: 8 with shield, 4 with shield and pike, 8 with bow, 1 with banner; 18 Black Dragons: 9 with shield, 9 with pike and shield; 12 [Dragon](../forces_of_evil/moria.md#dragon-250-points) Cult Acolytes; 2 Rhûnish War Drakes.
 
 **LAYOUT**
 
@@ -280,7 +280,7 @@ The game lasts until the end of a turn in which one force has been reduced to 25
 
 * **The Heirs to the Kingdoms**
 
-If either Thorin III Stonehelm or Bard II would be Trapped in the Fight phase, the other may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase) without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
+If either Thorin III Stonehelm or Bard II would be Trapped in the Fight phase, the other may declare a [Heroic Combat] without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, they must move as close as possible to their Trapped ally.
 
 * **Broken Morale**
 
@@ -294,9 +294,9 @@ The Evil force counts as Broken for this Scenario, and must test to see if they 
 
 **PARTICIPANTS**
 
-**Good:** Mirkwood Ranger Captain; 10 Mirkwood Rangers.
+**Good:** [Mirkwood Ranger Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** Gollum; Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Fell Wargs.
+**Evil:** [Gollum](../forces_of_evil/goblin_town.md#gollum-35-points); [Orc Captain](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 12 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points).
 
 **LAYOUT**
 
@@ -316,7 +316,7 @@ The game lasts until one force has completed their objective. The Good player wi
 
 * **Gollum**
 
-Gollum does not have [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) in this Scenario. Additionally, Gollum may not charge enemy models, though he will fight as normal if he is charged.
+Gollum does not have the Ring in this Scenario. Additionally, Gollum may not charge enemy models, though he will fight as normal if he is charged.
 
 * **Elven Prisoner**
 
@@ -330,9 +330,9 @@ If Gollum is slain, the best result the Good player can achieve is a draw.
 
 **PARTICIPANTS**
 
-**'Good':** The Spider Queen; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms.
+**'Good':** [The Spider Queen](../forces_of_evil/dark_denizens_of_mirkwood.md#the-spider-queen-115-points); 4 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 4 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points); 2 Bat Swarms.
 
-**Evil:** Razgûsh, War Leader of the North; Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 3 Orc Trackers.
+**Evil:** [Razgûsh](../forces_of_evil/mordor.md#razgush-110-points), War Leader of the North; [Orc Captain](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 3 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers.
 
 **LAYOUT**
 
@@ -370,9 +370,9 @@ Evil models treat Spider Nests as [difficult terrain](../rules_manual/move_phase
 
 **PARTICIPANTS**
 
-**Good:** Grimbeorn; 12 Beornings: 8 with [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks), 4 with great [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Grimbeorn](../forces_of_good/wanderers_in_the_wild_good.md#grimbeorn-200-points); 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
 
-**Evil:** 2 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers.
+**Evil:** 2 [Orc Captains](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers.
 
 **LAYOUT**
 
@@ -406,9 +406,9 @@ Grimbeorn must re-roll all failed To Wound rolls.
 
 **PARTICIPANTS**
 
-**Good:** Tauriel; Mirkwood Captain; Mirkwood Ranger Captain; 12 Mirkwood Elves: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) glaive, 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 10 Mirkwood Rangers.
+**Good:** [Tauriel](../forces_of_good/halls_of_thranduil.md#tauriel-85-points); [Mirkwood Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-captain-75-points); [Mirkwood Ranger Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 12 [Mirkwood Elves](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points): 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** Razgûsh, War Leader of the North; The Spider Queen; Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers; 2 Mirkwood Spiders; 2 Giant Spiders; 1 Bat Swarm.
+**Evil:** [Razgûsh](../forces_of_evil/mordor.md#razgush-110-points), War Leader of the North; [The Spider Queen](../forces_of_evil/dark_denizens_of_mirkwood.md#the-spider-queen-115-points); [Orc Captain](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers; 2 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 2 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points); 1 [Bat Swarm](../forces_of_evil/dark_denizens_of_mirkwood.md#bat-swarm-35-points).
 
 **LAYOUT**
 
@@ -453,9 +453,9 @@ When a tree falls, draw a 1mm wide line from the center of the tree that extends
 
 **PARTICIPANTS**
 
-**Good:** Thranduil, King of the Woodland Realm, with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour) and additional [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords); Tauriel; Palace Guard Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Mirkwood Captain; Mirkwood Ranger Captain; 10 Palace Guard: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [spear](../rules_manual/weapons_and_wargear.md#spears) & [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Mirkwood Elves: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) glaive, 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 10 Mirkwood Rangers.
+**Good:** [Thranduil](../forces_of_good/halls_of_thranduil.md#thranduil-100-points), King of the Woodland Realm, with heavy armour and additional Elven-made hand-and-a-half sword; [Tauriel](../forces_of_good/halls_of_thranduil.md#tauriel-85-points); [Palace Guard Captain](../forces_of_good/halls_of_thranduil.md#palace-guard-captain-75-points) with shield; [Mirkwood Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-captain-75-points); [Mirkwood Ranger Captain](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-captain-75-points); 10 [Palace Guard](../forces_of_good/halls_of_thranduil.md#palace-guard-12-points): 4 with shield, 4 with spear, 2 with spear & shield; 12 [Mirkwood Elves](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points): 4 with shield, 4 with Elven-made glaive, 4 with Elf bow; 10 [Mirkwood Rangers](../forces_of_good/halls_of_thranduil.md#mirkwood-ranger-14-points).
 
-**Evil:** Razgûsh, War Leader of the North; The Spider Queen; 2 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); Orc Shaman; 36 Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers; 4 Mirkwood Spiders; 4 Giant Spiders; 2 Bat Swarms; 6 Fell Wargs.
+**Evil:** [Razgûsh](../forces_of_evil/mordor.md#razgush-110-points), War Leader of the North; [The Spider Queen](../forces_of_evil/dark_denizens_of_mirkwood.md#the-spider-queen-115-points); 2 [Orc Captains](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; [Orc Shaman](../forces_of_evil/barad_dur.md#orc-shaman-50-points); 36 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers; 4 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points); 4 [Giant Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#giant-spider-20-points); 2 Bat Swarms; 6 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points).
 
 **LAYOUT**
 
@@ -477,11 +477,11 @@ The Good player wins if the Evil force has been reduced to 25%. The Evil player 
 
 * **Through the Forest**
 
-Evil models gain the [Woodland Creature](../rules_manual/special_rules.md#woodland-creature) special rule.
+Evil models gain the [Woodland Creature] special rule.
 
 * **Death to the Elves**
 
-Evil models gain the [Hatred](../rules_manual/special_rules.md#hatred-x) (Elf) special rule.
+Evil models gain the [Hatred] (Elf) special rule.
 
 * **The War Leader**
 
@@ -499,9 +499,9 @@ Elf models must re-roll 1s To Wound during the Fight phase.
 
 **PARTICIPANTS**
 
-**Good:** Wood Elf Captain with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Wood Elf Warriors: 4 with [throwing daggers](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Wood Elf [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 1 Wood Elf Sentinel.
+**Good:** [Wood Elf Captain](../forces_of_good/lothlorien.md#wood-elf-captain-65-points) with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 1 [Wood Elf Sentinel](../forces_of_good/halls_of_thranduil.md#wood-elf-sentinel-25-points).
 
-**Evil:** Muzgúr, Orc Shaman; Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers.
+**Evil:** [Muzgúr](../forces_of_evil/mordor.md#muzgur-70-points), Orc Shaman; [Orc Captain](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 12 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers.
 
 **LAYOUT**
 
@@ -535,9 +535,9 @@ The river is [Deep Water](../rules_manual/advanced_rules.md#deep-water), with th
 
 **PARTICIPANTS**
 
-**Good:** Orophin; Wood Elf Captain with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Galadhrim Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Wood Elf Warriors: 4 with [throwing daggers](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Wood Elf [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Orophin](../forces_of_good/lothlorien.md#orophin-85-points); [Wood Elf Captain](../forces_of_good/lothlorien.md#wood-elf-captain-65-points) with Elf bow; 12 [Galadhrim Warriors](../forces_of_good/lothlorien.md#galadhrim-warrior-9-points): 4 with shield, 4 with spear and shield, 4 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow.
 
-**Evil:** Muzgúr, Orc Shaman; Orc Captain with [shield](../rules_manual/weapons_and_wargear.md#shields); Orc Shaman; 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers.
+**Evil:** [Muzgúr](../forces_of_evil/mordor.md#muzgur-70-points), Orc Shaman; [Orc Captain](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; [Orc Shaman](../forces_of_evil/barad_dur.md#orc-shaman-50-points); 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers.
 
 **LAYOUT**
 
@@ -577,9 +577,9 @@ Additionally, both Muzgúr and the Orc Shaman gain a free Will point per turn, w
 
 **PARTICIPANTS**
 
-**Good:** Rúmil; Orophin; Wood Elf Captain with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 24 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Wood Elf Warriors: 4 with [throwing daggers](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Wood Elf [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Guard of the Galadhrim Court; 1 Wood Elf Sentinel.
+**Good:** [Rúmil](../forces_of_good/lothlorien.md#rumil-85-points); [Orophin](../forces_of_good/lothlorien.md#orophin-85-points); [Wood Elf Captain](../forces_of_good/lothlorien.md#wood-elf-captain-65-points) with Elf bow; 24 [Galadhrim Warriors](../forces_of_good/lothlorien.md#galadhrim-warrior-9-points): 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 [Guard of the Galadhrim Court](../forces_of_good/lothlorien.md#guard-of-the-galadhrim-court-12-points); 1 [Wood Elf Sentinel](../forces_of_good/halls_of_thranduil.md#wood-elf-sentinel-25-points).
 
-**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Goblin [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Venom-back Spiders; 2 Warg Marauders.
+**Evil:** [Muzgúr](../forces_of_evil/mordor.md#muzgur-70-points), Orc Shaman; [Drûzhag](../forces_of_evil/moria.md#druzhag-90-points) the Beastcaller; [Ashrâk](../forces_of_evil/moria.md#ashrak-55-points); [Orc Shaman](../forces_of_evil/barad_dur.md#orc-shaman-50-points); 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers; 24 [Moria Goblins](../forces_of_evil/moria.md#moria-goblin-warrior-4-points): 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 2 Warg Marauders.
 
 **LAYOUT**
 
@@ -599,7 +599,7 @@ The game lasts for 12 turns. At the end of the 12th turn, whichever side has the
 
 * **Cover of Darkness**
 
-The battle takes place at night. As such, due to the reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Models with the [Cave Dweller](../rules_manual/special_rules.md#cave-dweller) special rule can see as normal.
+The battle takes place at night. As such, due to the reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, as it is much harder to avoid a shot in the dark, all shooting attacks gain a bonus of +1 when rolling To Wound. Models with the [Cave Dweller] special rule can see as normal.
 
 * **Dark Magics**
 
@@ -617,9 +617,9 @@ All Good models automatically pass any Courage tests they are required to make.
 
 **PARTICIPANTS**
 
-**Good:** Galadriel with mirror of Galadriel; Celeborn with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields), and [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords); Rúmil; Orophin; 24 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 12 Wood Elf Warriors: 4 with [throwing daggers](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with Wood Elf [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Guard of the Galadhrim Court; 3 Wood Elf Sentinels.
+**Good:** [Galadriel](../forces_of_good/lothlorien.md#galadriel-130-points) with mirror of Galadriel; Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; [Rúmil](../forces_of_good/lothlorien.md#rumil-85-points); [Orophin](../forces_of_good/lothlorien.md#orophin-85-points); 24 [Galadhrim Warriors](../forces_of_good/lothlorien.md#galadhrim-warrior-9-points): 8 with shield, 8 with spear and shield, 8 with Elf bow; 12 Wood Elf Warriors: 4 with throwing daggers, 4 with Wood Elf spear, 4 with Elf bow; 4 [Guard of the Galadhrim Court](../forces_of_good/lothlorien.md#guard-of-the-galadhrim-court-12-points); 3 Wood Elf Sentinels.
 
-**Evil:** Muzgúr, Orc Shaman; Drûzhag the Beastcaller; Ashrâk; Orc Shaman; 24 Orc Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 4 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [throwing spear](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows); 6 Orc Trackers; 24 Moria Goblins: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears), 8 with Goblin [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Venom-back Spiders; 3 Warg Marauders.
+**Evil:** [Muzgúr](../forces_of_evil/mordor.md#muzgur-70-points), Orc Shaman; [Drûzhag](../forces_of_evil/moria.md#druzhag-90-points) the Beastcaller; [Ashrâk](../forces_of_evil/moria.md#ashrak-55-points); [Orc Shaman](../forces_of_evil/barad_dur.md#orc-shaman-50-points); 24 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 8 with shield, 8 with spear, 4 with two-handed weapon, 4 with Orc bow; 6 [Warg Riders](../forces_of_evil/barad_dur.md#warg-rider-11-points): 2 with shield, 2 with throwing spear, 2 with Orc bow; 6 [Orc](../forces_of_evil/barad_dur.md#orc-warrior-5-points) Trackers; 24 [Moria Goblins](../forces_of_evil/moria.md#moria-goblin-warrior-4-points): 8 with shield, 8 with spear, 8 with Goblin bow; 4 Venom-back Spiders; 3 Warg Marauders.
 
 **LAYOUT**
 
@@ -643,7 +643,7 @@ If Galadriel is slain, the game immediately ends and the Evil side is victorious
 
 * **Cover of Darkness**
 
-The battle takes place at night. Due to reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, all shooting attacks gain a bonus of +1 when rolling To Wound, as it is harder to avoid a shot in the dark. Models with the [Cave Dweller](../rules_manual/special_rules.md#cave-dweller) special rule can see as normal.
+The battle takes place at night. Due to reduced visibility, models cannot be targeted by shooting, Magical Powers, or special abilities over 12" away. However, all shooting attacks gain a bonus of +1 when rolling To Wound, as it is harder to avoid a shot in the dark. Models with the [Cave Dweller] special rule can see as normal.
 
 * **Dark Magics**
 
@@ -661,9 +661,9 @@ All Good models automatically pass any Courage tests they are required to make.
 
 **PARTICIPANTS**
 
-**Good:** Galadriel; Celeborn with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour), [shield](../rules_manual/weapons_and_wargear.md#shields), and [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [sword](../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords); Rúmil; Orophin; 24 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows); 4 Guard of the Galadhrim Court.
+**Good:** [Galadriel](../forces_of_good/lothlorien.md#galadriel-130-points); Celeborn with heavy armour, shield, and Elven-made hand-and-a-half sword; [Rúmil](../forces_of_good/lothlorien.md#rumil-85-points); [Orophin](../forces_of_good/lothlorien.md#orophin-85-points); 24 [Galadhrim Warriors](../forces_of_good/lothlorien.md#galadhrim-warrior-9-points): 8 with shield, 8 with spear and shield, 8 with Elf bow; 4 [Guard of the Galadhrim Court](../forces_of_good/lothlorien.md#guard-of-the-galadhrim-court-12-points).
 
-**Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 Hunter Orcs: 4 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows), 2 with [two-handed](../rules_manual/weapons_and_wargear.md#two-handed-weapons) pick, 6 with no additional wargear; 12 Fell Wargs; 4 Mirkwood Spiders.
+**Evil:** 6 Castellans of Dol Guldur with Morgul Blade; 12 [Hunter Orcs](../forces_of_evil/azogs_hunters.md#hunter-orc-8-points): 4 with Orc bow, 2 with two-handed pick, 6 with no additional wargear; 12 [Fell Wargs](../forces_of_evil/azogs_hunters.md#fell-warg-8-points); 4 [Mirkwood Spiders](../forces_of_evil/dark_denizens_of_mirkwood.md#mirkwood-spider-20-points).
 
 **LAYOUT**
 
@@ -702,9 +702,9 @@ Each Good Hero model starts the game with one fewer Might point than usual.
 
 **PARTICIPANTS**
 
-**Good:** Girion, Lord of Dale; 2 Captains of Dale; 30 Warriors of Dale: 9 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears) and [shield](../rules_manual/weapons_and_wargear.md#shields), 9 with Esgaroth [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Girion, Lord of Dale](../forces_of_good/garrison_of_dale_girion.md#girion-lord-of-dale-75-points); 2 [Captains of Dale](../forces_of_good/garrison_of_dale_brand.md#captain-of-dale-50-points); 30 [Warriors of Dale](../forces_of_good/garrison_of_dale_brand.md#warrior-of-dale-7-points): 9 with shield, 12 with spear and shield, 9 with Esgaroth bow.
 
-**Evil:** Smaug.
+**Evil:** [Smaug](../forces_of_evil/desolator_of_the_north.md#smaug-700-points).
 
 **LAYOUT**
 
@@ -740,9 +740,9 @@ Girion automatically passes all Courage tests for this Scenario. Additionally, G
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman with armor; Bain, son of Bard; Sigrid & Tilda; Percy; Hilda Bianca; Alfrid the Councillor; Gandalf the Grey; Bilbo Baggins, Master Burglar; Thranduil, King of the Woodland Realm; Mirkwood Elf Captain; 36 Lake-town Militia: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with [bow](../rules_manual/weapons_and_wargear.md#bows); 24 Mirkwood Elves: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) glaive, 8 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Bard the Bowman](../forces_of_good/army_of_lake_town.md#bard-the-bowman-140-points) with armor; [Bain, son of Bard](../forces_of_good/army_of_lake_town.md#bain-son-of-bard-40-points); [Sigrid & Tilda](../forces_of_good/army_of_lake_town.md#sigrid-tilda-30-points); [Percy](../forces_of_good/survivors_of_lake_town.md#percy-50-points); [Hilda Bianca](../forces_of_good/survivors_of_lake_town.md#hilda-bianca-30-points); [Alfrid the Councillor](../forces_of_good/army_of_lake_town.md#alfrid-the-councillor-20-points); [Gandalf the Grey](../forces_of_good/survivors_of_lake_town.md#gandalf-the-grey-170-points); [Bilbo Baggins, Master Burglar](../forces_of_good/survivors_of_lake_town.md#bilbo-baggins-master-burglar-90-points); [Thranduil](../forces_of_good/halls_of_thranduil.md#thranduil-100-points), King of the Woodland Realm; [Mirkwood Elf](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points) Captain; 36 [Lake-town Militia](../forces_of_good/survivors_of_lake_town.md#lake-town-militia-5-points): 12 with shield, 12 with spear, 12 with bow; 24 [Mirkwood Elves](../forces_of_good/halls_of_thranduil.md#mirkwood-elf-9-points): 8 with shield, 8 with Elven-made glaive, 8 with Elf bow.
 
-**Evil:** 4 Gundabad Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 48 Gundabad Orcs: 24 with [shield](../rules_manual/weapons_and_wargear.md#shields), 24 with [spear](../rules_manual/weapons_and_wargear.md#spears); 4 Ogres.
+**Evil:** 4 [Gundabad Orc Captains](../forces_of_evil/azogs_legion.md#gundabad-orc-captain-50-points) with shield; 48 [Gundabad Orcs](../forces_of_evil/azogs_legion.md#gundabad-orc-warrior-8-points): 24 with shield, 24 with spear; 4 Ogres.
 
 **LAYOUT**
 
@@ -782,15 +782,15 @@ Whenever Gandalf declares that he is casting a Magical Power, declare how many W
 
 **Erebor Reclaimed:** Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
 
-**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 12 with mattock, 12 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbows); Iron Hills Chariot.
+**The Iron Hills:** Dáin Ironfoot, Lord of the Iron Hills on war boar; Iron Hills Captain; Iron Hills Captain with Mattock; 36 Iron Hills Dwarves: 12 with spear, 12 with mattock, 12 with crossbow; Iron Hills Chariot.
 
-**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [Elven-made](../rules_manual/weapons_and_wargear.md#elven-made-weapons) glaive, 12 with Elf [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Halls of Thranduil:** Thranduil, King of the Woodland Realm on Elk; 2 Mirkwood Elf Captains; 36 Mirkwood Elves: 12 with shield, 12 with Elven-made glaive, 12 with Elf bow.
 
 **Radagast's Alliance:** Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
 
 **EVIL**
 
-**Azog's Legion:** Azog with heavy armor, stone [flail](../rules_manual/weapons_and_wargear.md#whirl-flails-scourges-and-whips), and Signal Tower; Bolg; 5 Gundabad Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with [shield](../rules_manual/weapons_and_wargear.md#shields), 30 with [spear](../rules_manual/weapons_and_wargear.md#spears); 2 Gundabad Trolls with crushing [club](../rules_manual/weapons_and_wargear.md#stun-clubs-and-staffs); 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
+**Azog's Legion:** Azog with heavy armor, stone flail, and Signal Tower; Bolg; 5 Gundabad Orc Captains with shield; 2 Goblin Mercenary Captains; 60 Gundabad Orcs: 30 with shield, 30 with spear; 2 Gundabad Trolls with crushing club; 2 Gundabad Trolls with scythe gauntlets; Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers; 24 Goblin Mercenaries; 6 War Bats; Catapult Troll.
 
 **LAYOUT**
 
@@ -832,9 +832,9 @@ Beorn enters the board as a passenger on the back of any of the Great Eagles (no
 
 **PARTICIPANTS**
 
-**Good:** Beorn; Grimbeorn; 12 Beornings: 8 with [hand-and-a-half](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons) [axe](../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks), 4 with great [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Good:** [Beorn](../forces_of_good/radagasts_alliance.md#beorn-200-points); [Grimbeorn](../forces_of_good/wanderers_in_the_wild_good.md#grimbeorn-200-points); 12 Beornings: 8 with hand-and-a-half axe, 4 with great bow.
 
-**Evil:** 3 Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spears), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapons), 6 with Orc [bow](../rules_manual/weapons_and_wargear.md#bows).
+**Evil:** 3 [Orc Captains](../forces_of_evil/barad_dur.md#orc-captain-40-points) with shield; 36 [Orc Warriors](../forces_of_evil/barad_dur.md#orc-warrior-5-points): 12 with shield, 12 with spear, 6 with two-handed weapon, 6 with Orc bow.
 
 **LAYOUT**
 

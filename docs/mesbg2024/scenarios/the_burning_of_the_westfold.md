@@ -2,9 +2,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields); 24 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bows](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Good:** [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield; 24 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bows.
 
-**Evil:** Wild Man Chieftain with [light shield](../rules_manual/weapons_and_wargear.md#light-shield); 24 Wild Men of Dunland: 4 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield) and Flaming Brand, 4 with [spears](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [two-handed weapons](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 8 with [bows](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** [Wild Man Chieftain](../forces_of_evil/isengard.md#wild-man-chieftain-40-points) with light shield; 24 [Wild Men of Dunland](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 4 with light shield, 4 with light shield and Flaming Brand, 4 with spears, 4 with two-handed weapons, 8 with bows.
 
 **LAYOUT**
 
@@ -22,7 +22,7 @@ The game lasts for 10 turns. If, at the end of 10 turns, less than half of the R
 
 * **"To arms, to arms!"**
 
-From the fourth turn onwards, a Rohan model that ends its move in base contact with the central Rohan house while the house is not on fire may ring the bell tower. Until the end of the turn, all Rohan models count as being in range of a [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+From the fourth turn onwards, a Rohan model that ends its move in base contact with the central Rohan house while the house is not on fire may ring the bell tower. Until the end of the turn, all Rohan models count as being in range of a banner.
 
 * **"Burn the houses!"**
 
@@ -40,9 +40,9 @@ Any Rohan model that ends its move in base contact with a Rohan house that is on
 
 **PARTICIPANTS**
 
-**Good:** Théodred, Prince of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields) and Brego; 12 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with no additional equipment.
+**Good:** [Théodred](../forces_of_good/rohan.md#theodred-85-points), Prince of Rohan with shield and Brego; 12 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 4 with no additional equipment.
 
-**Evil:** Wild Man Chieftain with [light shield](../rules_manual/weapons_and_wargear.md#light-shield); 25 Wild Men of Dunland: 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [two-handed weapons](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 4 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [light shield](../rules_manual/weapons_and_wargear.md#light-shield) and Flaming Brand, 8 with [bows](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Evil:** [Wild Man Chieftain](../forces_of_evil/isengard.md#wild-man-chieftain-40-points) with light shield; 25 [Wild Men of Dunland](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 4 with spear, 4 with two-handed weapons, 4 with light shield, 4 with light shield and Flaming Brand, 8 with bows, 1 with banner.
 
 **LAYOUT**
 
@@ -50,11 +50,11 @@ The board represents a camp of the Dunlendings set up amongst the smouldering ru
 
 **STARTING POSITIONS**
 
-The Evil player places the Wild Man with a [banner](../rules_manual/weapons_and_wargear.md#banner-80) as close to the centre of the board as possible. The Evil player then deploys a single Dunland Warrior in base contact with each Dunlending tent. The Good player then chooses a board edge and places their models in base contact with it. The remaining Evil models are kept to one side to arrive later.
+The Evil player places the Wild Man with a banner as close to the centre of the board as possible. The Evil player then deploys a single Dunland Warrior in base contact with each Dunlending tent. The Good player then chooses a board edge and places their models in base contact with it. The remaining Evil models are kept to one side to arrive later.
 
 **OBJECTIVES**
 
-The game lasts until one force completes their Objective. The Good player wins if they destroy at least five Dunlending tents and the Evil player has no [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining on the board. The Evil player wins if they have killed more than 75% of the Good force before this can happen. If Théodred is slain, the best result the Good player can achieve is a draw.
+The game lasts until one force completes their Objective. The Good player wins if they destroy at least five Dunlending tents and the Evil player has no banner remaining on the board. The Evil player wins if they have killed more than 75% of the Good force before this can happen. If Théodred is slain, the best result the Good player can achieve is a draw.
 
 **SPECIAL RULES**
 
@@ -74,9 +74,9 @@ At the start of the End Phase, a Rohan model that is in base contact with a Dunl
 
 **PARTICIPANTS**
 
-**Good:** Théodred, Prince of Rohan with Brego and [shield](../rules_manual/weapons_and_wargear.md#shields); Elfhelm, Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm); Captain of Rohan with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); 12 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with no additional equipment; 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Good:** [Théodred](../forces_of_good/rohan.md#theodred-85-points), Prince of Rohan with Brego and shield; [Elfhelm, Captain of Rohan](../forces_of_good/rohan.md#elfhelm-captain-of-rohan-60-points) with horse; [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with heavy armour and shield; 12 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 4 with no additional equipment; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with throwing spears, 8 with bow and 1 with banner.
 
-**Evil:** 2 Uruk-hai Scout Captains; Uruk-hai Drummer; Wild Man Chieftain with [light shield](../rules_manual/weapons_and_wargear.md#light-shield); 25 Uruk-hai Scouts: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with no additional equipment, 8 with [Uruk-hai bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 12 Wild Men of Dunland: 4 with Flaming Brand and [light shield](../rules_manual/weapons_and_wargear.md#light-shield), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 6 Isengard Warg Riders: 2 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 2 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** 2 [Uruk-hai Scout Captains](../forces_of_evil/isengard.md#uruk-hai-scout-captain-55-points); [Uruk-hai Drummer](../forces_of_evil/isengard.md#uruk-hai-drummer-35-points); [Wild Man Chieftain](../forces_of_evil/isengard.md#wild-man-chieftain-40-points) with light shield; 25 [Uruk-hai Scouts](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 with shield, 8 with no additional equipment, 8 with Uruk-hai bow and 1 with banner; 12 [Wild Men of Dunland](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 4 with Flaming Brand and light shield, 4 with spear, 4 with bow; 6 [Isengard Warg Riders](../forces_of_evil/isengard.md#isengard-warg-rider-11-points): 2 with shield, 2 with shield and throwing spears, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -118,9 +118,9 @@ During the End Phase of each turn the Good player must roll a D6 and add the tur
 
 **PARTICIPANTS**
 
-**Good:** Éomer, Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; Peregrin Took; 1 Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields) and horse; 12 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and 4 with no additional equipment.
+**Good:** [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; [Peregrin Took](../forces_of_good/the_free_peoples.md#peregrin-took-10-points); 1 [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield and horse; 12 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears and 4 with no additional equipment.
 
-**Evil:** Uglúk, Uruk-hai Scout Captain; Grishnákh, Orc Captain; Snaga, Orc Captain; 1 Uruk-hai Scout Captain; 12 Uruk-hai Scouts: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [Uruk-hai bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 4 with no additional equipment; 12 Isengard Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 2 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** [Uglúk](../forces_of_evil/isengard.md#ugluk-75-points), Uruk-hai Scout Captain; [Grishnákh](../forces_of_evil/isengard.md#grishnakh-55-points), Orc Captain; [Snaga](../forces_of_evil/isengard.md#snaga-50-points), Orc Captain; 1 [Uruk-hai Scout Captain](../forces_of_evil/isengard.md#uruk-hai-scout-captain-55-points); 12 [Uruk-hai Scouts](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 4 with shield, 4 with Uruk-hai bow, 4 with no additional equipment; 12 [Isengard Orc Warriors](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -160,9 +160,9 @@ Grishnákh follows the same rules for Movement as the Hobbits, except that he Cr
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan with Snowmane; Aragorn (Strider) with Brego; Legolas Greenleaf with [horse](../rules_manual/cavalry.md#horse-40mm); Gimli, Son of Glóin; Gamling, Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm); Háma, Captain of Rohan; 6 Riders of Rohan: 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 2 with no additional equipment.
+**Good:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with Snowmane; [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with Brego; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with horse; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), Son of Glóin; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with horse; [Háma, Captain of Rohan](../forces_of_good/rohan.md#hama-captain-of-rohan-60-points); 6 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 4 with throwing spears; 2 with no additional equipment.
 
-**Evil:** Sharku, Warg Rider Captain; Isengard Orc Captain with [Warg](../rules_manual/cavalry.md#warg-40mm); 18 Isengard Warg Riders: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 6 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
+**Evil:** [Sharku](../forces_of_evil/isengard.md#sharku-70-points), Warg Rider Captain; [Isengard Orc Captain](../forces_of_evil/isengard.md#isengard-orc-captain-45-points) with Warg; 18 [Isengard Warg Riders](../forces_of_evil/isengard.md#isengard-warg-rider-11-points): 6 with shield, 6 with Orc bow, 6 with throwing spears.
 
 **LAYOUT**
 
@@ -202,9 +202,9 @@ Gimli will start the game as a Passenger on Legolas' horse.
 
 **PARTICIPANTS**
 
-**Good:** Aragorn (Strider) with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gimli, Son of Glóin; Haldir, Galadhrim Captain with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) & [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 24 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and Elven [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 8 with no additional equipment.
+**Good:** [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with armour; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with armour; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), Son of Glóin; [Haldir, Galadhrim Captain](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points) with heavy armour & Elf bow; 24 [Galadhrim Warriors](../forces_of_good/elven_kingdoms.md#galadhrim-warrior-9-points): 8 with shield and Elven spear, 8 with Elf bow, 8 with no additional equipment.
 
-**Evil:** 4 Uruk-hai Captains; 20 Uruk-hai Warriors: 10 with [shield](../rules_manual/weapons_and_wargear.md#shields), 10 with [pike](../rules_manual/weapons_and_wargear.md#pike-79); 8 Uruk-hai Berserkers; 3 Uruk-hai Demolition Teams.
+**Evil:** 4 [Uruk-hai Captains](../forces_of_evil/isengard.md#uruk-hai-captain-65-points); 20 [Uruk-hai Warriors](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 10 with shield, 10 with pike; 8 [Uruk-hai Berserkers](../forces_of_evil/isengard.md#uruk-hai-berserker-15-points); 3 [Uruk-hai Demolition Teams](../forces_of_evil/isengard.md#uruk-hai-demolition-team-80-points).
 
 **LAYOUT**
 
@@ -230,7 +230,7 @@ Evil models add 1 to the result when rolling on the Detonation Table.
 
 * **"There is always hope"**
 
-Good Warrior models treat friendly Hero models as a [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+Good Warrior models treat friendly Hero models as a banner.
 
 ![](../media/scenarios/the_burning_of_the_westfold/walls_of_helms_deep.jpg){ width=889 height=891 }
 
@@ -240,9 +240,9 @@ Good Warrior models treat friendly Hero models as a [banner](../rules_manual/wea
 
 **PARTICIPANTS**
 
-**Good:** Aragorn (Strider) with [armour](../rules_manual/weapons_and_wargear.md#armour_1) and Brego; Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour_1) and horse; Théoden, King of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields), [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and Snowmane with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gamling, Captain of Rohan with Royal Standard of Rohan and horse; 4 Rohan Royal Guard with [horse](../rules_manual/cavalry.md#horse-40mm) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons).
+**Good:** [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with armour and Brego; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with armour and horse; [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with shield, heavy armour and Snowmane with armour; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with Royal Standard of Rohan and horse; 4 [Rohan Royal Guard](../forces_of_good/rohan.md#rohan-royal-guard-11-points) with horse and throwing spears.
 
-**Evil:** 4 Uruk-hai Captains; 21 Uruk-hai Warriors: 10 with [shield](../rules_manual/weapons_and_wargear.md#shields), 10 with [pike](../rules_manual/weapons_and_wargear.md#pike-79) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Evil:** 4 [Uruk-hai Captains](../forces_of_evil/isengard.md#uruk-hai-captain-65-points); 21 [Uruk-hai Warriors](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 10 with shield, 10 with pike and 1 with banner.
 
 **LAYOUT**
 
@@ -260,7 +260,7 @@ The game lasts until one player's force is wiped out, at which point the other p
 
 * **"Let this be the hour, when we draw swords together"**
 
-Cavalry models gain a bonus of +1 Strength on a turn in which they Charge. In addition, once per game, at the start of any Move Phase, the Good player can declare the horn of Helm Hammerhand is being blown. Until the end of that turn, all Good Cavalry models gain the [Terror](../rules_manual/special_rules.md#terror) special rule.
+Cavalry models gain a bonus of +1 Strength on a turn in which they Charge. In addition, once per game, at the start of any Move Phase, the Good player can declare the horn of Helm Hammerhand is being blown. Until the end of that turn, all Good Cavalry models gain the [Terror] special rule.
 
 ![](../media/scenarios/the_burning_of_the_westfold/ride_out_from_helms_deep.jpg){ width=889 height=892 }
 
@@ -270,9 +270,9 @@ Cavalry models gain a bonus of +1 Strength on a turn in which they Charge. In ad
 
 **PARTICIPANTS**
 
-**Good:** Éomer, Marshal of the Riddermark with [shield](../rules_manual/weapons_and_wargear.md#shields) and Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gandalf the White on Shadowfax; 24 Riders of Rohan: 16 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with no additional equipment.
+**Good:** [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with shield and Firefoot with armour; [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points) on Shadowfax; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 16 with throwing spears, 8 with no additional equipment.
 
-**Evil:** 3 Uruk-hai Captains; 30 Uruk-hai Warriors: 15 with [shield](../rules_manual/weapons_and_wargear.md#shields), 15 with [pike](../rules_manual/weapons_and_wargear.md#pike-79).
+**Evil:** 3 [Uruk-hai Captains](../forces_of_evil/isengard.md#uruk-hai-captain-65-points); 30 [Uruk-hai Warriors](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 15 with shield, 15 with pike.
 
 **LAYOUT**
 
@@ -302,15 +302,15 @@ The special rules for the Riders of Éomer Army List (see [page 99](../good_army
 
 **Good:**
 
-**Defenders of the Hornburg:** Théoden, King of Rohan with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); Gamling, Captain of Rohan with Royal Standard of Rohan; 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Defenders of the Hornburg:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with heavy armour and shield; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with Royal Standard of Rohan; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner.
 
-**Defenders of the Deeping Wall:** Aragorn (Strider) with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gimli, son of Glóin; Haldir, Galadhrim Captain with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); Haleth, Son of Háma; Aldor, Rohan Archer; 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 1 with [War Horn](../rules_manual/weapons_and_wargear.md#war-horn), [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 25 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and Elven [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Defenders of the Deeping Wall:** [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with armour; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with armour; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; [Haldir, Galadhrim Captain](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points) with heavy armour and Elf bow; [Haleth, Son of Háma](../forces_of_good/rohan.md#haleth-son-of-hama-30-points); [Aldor](../forces_of_good/rohan.md#aldor-20-points), Rohan Archer; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner; 1 with War Horn, shield and throwing spears; 25 [Galadhrim Warriors](../forces_of_good/elven_kingdoms.md#galadhrim-warrior-9-points): 8 with shield, 8 with shield and Elven spear, 8 with Elf bow, 1 with banner.
 
-**Relief Force:** Éomer, Marshal of the Riddermark on Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gandalf the White on Shadowfax; 1 Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields) on [horse](../rules_manual/cavalry.md#horse-40mm); 24 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 16 with no additional equipment.
+**Relief Force:** [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark on Firefoot with armour; [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points) on Shadowfax; 1 [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield on horse; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 16 with no additional equipment.
 
 **Evil:**
 
-**Legions of Isengard:** 5 Uruk-hai Captains; 1 Isengard Assault Ballista; 5 Uruk-hai Demolition Teams; 83 Uruk-hai Warriors: 35 with [shield](../rules_manual/weapons_and_wargear.md#shields), 35 with [pike](../rules_manual/weapons_and_wargear.md#pike-79), 10 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbow), 3 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 16 Uruk-hai Berserkers; 10 [Siege Ladders](../rules_manual/sieges.md#siege-ladders).
+**Legions of Isengard:** 5 [Uruk-hai Captains](../forces_of_evil/isengard.md#uruk-hai-captain-65-points); 1 [Isengard Assault Ballista](../forces_of_evil/isengard.md#isengard-assault-ballista-75-points); 5 [Uruk-hai Demolition Teams](../forces_of_evil/isengard.md#uruk-hai-demolition-team-80-points); 83 [Uruk-hai Warriors](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 35 with shield, 35 with pike, 10 with crossbow, 3 with banner; 16 [Uruk-hai Berserkers](../forces_of_evil/isengard.md#uruk-hai-berserker-15-points); 10 [Siege Ladders](../rules_manual/sieges.md#siege-ladders).
 
 **LAYOUT**
 
@@ -336,7 +336,7 @@ The Siege of Helm's Deep is a huge battle fought across the entire fortress; as 
 
 * **Ride Out**
 
-At the start of the eighth turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a [horse](../rules_manual/cavalry.md#horse-40mm) (or a named horse if relevant) may immediately gain a Mount.
+At the start of the eighth turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a horse (or a named horse if relevant) may immediately gain a Mount.
 
 * **The Deeping Wall**
 
@@ -358,9 +358,9 @@ This scenario follows all of the rules for Sieges, including siege equipment, as
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields), [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and Snowmane with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Éomer, Marshal of the Riddermark with [shield](../rules_manual/weapons_and_wargear.md#shields), [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Éowyn, Shieldmaiden of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm), [shield](../rules_manual/weapons_and_wargear.md#shields), [armour](../rules_manual/weapons_and_wargear.md#armour_1), [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and Merry; Gamling, Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm) and Royal Standard of Rohan; 12 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 4 with no additional equipment; Ghân-buri-Ghân; 12 Woses Warriors.
+**Good:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with shield, heavy armour and Snowmane with armour; [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with shield, throwing spears and Firefoot with armour; [Éowyn](../forces_of_good/rohan.md#eowyn-60-points), Shieldmaiden of Rohan with horse, shield, armour, throwing spears and Merry; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with horse and Royal Standard of Rohan; 12 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 4 with no additional equipment; [Ghân-buri-Ghân](../forces_of_good/the_free_peoples.md#ghan-buri-ghan-65-points); 12 [Woses Warriors](../forces_of_good/the_free_peoples.md#woses-warrior-9-points).
 
-**Evil:** 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 36 Morannon Orc Warriors: 18 with [shield](../rules_manual/weapons_and_wargear.md#shields), 18 with [spear](../rules_manual/weapons_and_wargear.md#spear-78) & [shield](../rules_manual/weapons_and_wargear.md#shields).
+**Evil:** 3 [Morannon Orc Captains](../forces_of_evil/mordor.md#morannon-orc-captain-55-points) with shield; 36 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 18 with shield, 18 with spear & shield.
 
 **LAYOUT**
 
@@ -378,7 +378,7 @@ The Good player wins if at least half of the Rohan models exit the board via the
 
 * **Wild Men Know all Paths**
 
-All Rohan models gain the [Woodland Creature](../rules_manual/special_rules.md#woodland-creature) special rule so long as they are mounted; each model's Mount also gains the special rule.
+All Rohan models gain the [Woodland Creature] special rule so long as they are mounted; each model's Mount also gains the special rule.
 
 * **Ambush!**
 
@@ -392,13 +392,13 @@ Evil models may not move on the first turn of the game.
 
 **PARTICIPANTS**
 
-**Good:** Théoden, King of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields), [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and Snowmane with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Éomer, Marshal of the Riddermark with [shield](../rules_manual/weapons_and_wargear.md#shields), [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Déorwine, Chief of the King's Knights with [horse](../rules_manual/cavalry.md#horse-40mm); Gamling, Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm) and Royal Standard of Rohan; Éowyn, Shieldmaiden of Rohan with Merry, [armour](../rules_manual/weapons_and_wargear.md#armour_1), [shield](../rules_manual/weapons_and_wargear.md#shields), [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and horse; Elfhelm, Captain of Rohan with [horse](../rules_manual/cavalry.md#horse-40mm); 6 Rohan Royal Guard with [horse](../rules_manual/cavalry.md#horse-40mm) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons); 36 Riders of Rohan: 24 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 12 with no additional equipment.
+**Good:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with shield, heavy armour and Snowmane with armour; [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with shield, throwing spears and Firefoot with armour; [Déorwine, Chief of the King's Knights](../forces_of_good/rohan.md#deorwine-chief-of-the-kings-knights-70-points) with horse; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with horse and Royal Standard of Rohan; [Éowyn](../forces_of_good/rohan.md#eowyn-60-points), Shieldmaiden of Rohan with Merry, armour, shield, throwing spears and horse; [Elfhelm, Captain of Rohan](../forces_of_good/rohan.md#elfhelm-captain-of-rohan-60-points) with horse; 6 [Rohan Royal Guard](../forces_of_good/rohan.md#rohan-royal-guard-11-points) with horse and throwing spears; 36 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 24 with throwing spears, 12 with no additional equipment.
 
 **Evil:**
 
-**Army Of Gothmog:** Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; 2 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 48 Morannon Orc Warriors: 24 with [shield](../rules_manual/weapons_and_wargear.md#shields), 24 with [spear](../rules_manual/weapons_and_wargear.md#spear-78) and [shield](../rules_manual/weapons_and_wargear.md#shields).
+**Army Of Gothmog:** [Gothmog](../forces_of_evil/mordor.md#gothmog-120-points), Lieutenant of Sauron; [Gothmog's Enforcer](../forces_of_evil/mordor.md#gothmogs-enforcer-55-points); 2 [Morannon Orc Captains](../forces_of_evil/mordor.md#morannon-orc-captain-55-points) with shield; 48 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 24 with shield, 24 with spear and shield.
 
-**Haradrim:** Mûmak War Leader with 12 Haradrim Warriors in the Howdah: 6 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78); 2 War Mûmakil of Harad, each with 12 Haradrim Warriors in the Howdah: 6 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78).
+**Haradrim:** [Mûmak War Leader](../forces_of_evil/fallen_realms.md#mumak-war-leader-400-points) with 12 Haradrim Warriors in the Howdah: 6 with bow, 6 with spear; 2 War Mûmakil of Harad, each with 12 Haradrim Warriors in the Howdah: 6 with bow, 6 with spear.
 
 **LAYOUT**
 
@@ -430,7 +430,7 @@ Evil Armies can become Broken in this scenario, even though an Army does not nor
 
 * **"Arise! Arise Riders of Théoden"**
 
-So long as Théoden is on the board, a single Rohan Cavalry model may declare a [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase-64) each turn for free. This may be either a Hero or a Warrior.
+So long as Théoden is on the board, a single Rohan Cavalry model may declare a [Heroic Combat] each turn for free. This may be either a Hero or a Warrior.
 
 * **"A sword-day, a red day"**
 

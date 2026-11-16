@@ -4,9 +4,9 @@
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Bilbo Baggins. Note: As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not carry Orcrist or Sting respectively. Bilbo also has not yet found [The One Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and therefore cannot use it.
+**Good:** [Thorin Oakenshield](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points) with the Oakenshield; [Kíli the Dwarf](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/dwarven_holds.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/dwarven_holds.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/dwarven_holds.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points); [Glóin the Dwarf](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-85-points); [Bilbo Baggins](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points). Note: As they have not yet ventured into the Troll's hoard, Thorin and Bilbo do not carry Orcrist or Sting respectively. Bilbo also has not yet found The One Ring and therefore cannot use it.
 
-**Evil:** Bill the Troll; Bert the Troll; Tom the Troll.
+**Evil:** [Bill the Troll](../forces_of_evil/the_misty_mountains.md#bill-the-troll-150-points); [Bert the Troll](../forces_of_evil/the_misty_mountains.md#bert-the-troll-130-points); [Tom the Troll](../forces_of_evil/the_misty_mountains.md#tom-the-troll-120-points).
 
 **LAYOUT**
 
@@ -46,9 +46,9 @@ The Trolls may not make Strikes against Bilbo until the start of the third turn,
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Gandalf the Grey.
+**Good:** [Thorin Oakenshield](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points) with Orcrist and the Oakenshield; [Kíli the Dwarf](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/dwarven_holds.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/dwarven_holds.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/dwarven_holds.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points); [Glóin the Dwarf](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-85-points); [Gandalf the Grey](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points).
 
-**Evil:** The Goblin King; Grinnah, Goblin Jailer; 30 Goblin Warriors.
+**Evil:** [The Goblin King](../forces_of_evil/the_misty_mountains.md#the-goblin-king-150-points); [Grinnah, Goblin Jailer](../forces_of_evil/the_misty_mountains.md#grinnah-goblin-jailer-50-points); 30 [Goblin Warriors](../forces_of_evil/the_misty_mountains.md#goblin-warrior-5-points).
 
 **LAYOUT**
 
@@ -68,7 +68,7 @@ At the beginning of the game, the Evil player must nominate a board edge. This i
 
 * **"Take Up Arms"**
 
-Each of the Dwarves will begin the game [Unarmed](../rules_manual/weapons_and_wargear.md#unarmed-models). If any of the Dwarves Moves into base contact with the Weapon Marker at any point during their Activation, they will be able to recover the weapons listed in their Wargear.
+Each of the Dwarves will begin the game Unarmed. If any of the Dwarves Moves into base contact with the Weapon Marker at any point during their Activation, they will be able to recover the weapons listed in their Wargear.
 
 * **"A Wizard is Never Late"**
 
@@ -94,9 +94,9 @@ In the first turn of the game, the Goblin King may not Move or declare Heroic Ac
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist and the Oakenshield; Bilbo Baggins with [The One Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and Sting; Gwaihir; 4 Great Eagles.
+**Good:** [Thorin Oakenshield](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points) with Orcrist and the Oakenshield; [Bilbo Baggins](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points) with The One Ring and Sting; [Gwaihir](../forces_of_good/the_free_peoples.md#gwaihir-200-points); 4 [Great Eagles](../forces_of_good/the_free_peoples.md#great-eagle-100-points).
 
-**Evil:** Azog on the White Warg; Fimbul, Hunter Orc Captain on [Fell Warg](../rules_manual/cavalry.md#fell-warg-40mm); 12 Hunter Orc Warg Riders; 12 Fell Wargs.
+**Evil:** Azog on the White Warg; [Fimbul, Hunter Orc Captain](../forces_of_evil/gundabad_and_dol_guldur.md#fimbul-hunter-orc-captain-50-points) on Fell Warg; 12 [Hunter Orc Warg Riders](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warg-rider-15-points); 12 [Fell Wargs](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points).
 
 **LAYOUT**
 
@@ -124,7 +124,7 @@ The Eagles enter the board from the northern or southern board edge at the end o
 
 * **Thorin's Wrath**
 
-When Thorin Moves, he must always Charge an enemy model if possible; prioritising Azog if able. If when Thorin Moves he cannot Charge an enemy model, then he must Move as close as possible to Azog. Additionally, until Thorin suffers a Wound, he gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule.
+When Thorin Moves, he must always Charge an enemy model if possible; prioritising Azog if able. If when Thorin Moves he cannot Charge an enemy model, then he must Move as close as possible to Azog. Additionally, until Thorin suffers a Wound, he gains the [Fearless] special rule.
 
 * **Bilbo**
 
@@ -140,9 +140,9 @@ At the start of any Fight Phase, the Good player may place Bilbo in base contact
 
 **PARTICIPANTS**
 
-**Good:** Bilbo Baggins with [The One Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and Sting.
+**Good:** [Bilbo Baggins](../forces_of_good/dwarven_holds.md#bilbo-baggins-55-points) with The One Ring and Sting.
 
-**Evil:** 6 Mirkwood Giant Spiders.
+**Evil:** 6 [Mirkwood Giant Spiders](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points).
 
 **LAYOUT**
 
@@ -150,7 +150,7 @@ This Scenario takes place in the spider-infested forest of Mirkwood. The board s
 
 **STARTING POSITIONS**
 
-The Evil player places three 25mm Markers on the board at least 6" apart. Two of these Markers represent the captured Dwarves, the other is a decoy (the Evil player chooses these in secret). These may be placed in [Difficult Terrain](../rules_manual/move_phase.md#difficult-terrain-10) - even in trees if you agree that Bilbo may climb them. The Evil player then positions their Mirkwood Giant Spiders at least 6" away from one another. Finally, the Good player places Bilbo Baggins touching any board edge. Bilbo starts the game wearing [The One Ring](../rules_manual/weapons_and_wargear.md#the-one-ring).
+The Evil player places three 25mm Markers on the board at least 6" apart. Two of these Markers represent the captured Dwarves, the other is a decoy (the Evil player chooses these in secret). These may be placed in [Difficult Terrain](../rules_manual/move_phase.md#difficult-terrain-10) - even in trees if you agree that Bilbo may climb them. The Evil player then positions their Mirkwood Giant Spiders at least 6" away from one another. Finally, the Good player places Bilbo Baggins touching any board edge. Bilbo starts the game wearing The One Ring.
 
 **OBJECTIVES**
 
@@ -162,7 +162,7 @@ The game will last until the end of a turn in which one player completes their o
 
 * **Brave Master Baggins**
 
-In a turn in which Bilbo Charges, he receives +1 Fight Value and +1 Attack until the End Phase of the turn. Additionally, Bilbo's Thrown Stones become a [throwing weapon](../rules_manual/weapons_and_wargear.md#throwing-weapons) with a Strength of 1, instead of following the normal rules for Thrown Stones.
+In a turn in which Bilbo Charges, he receives +1 Fight Value and +1 Attack until the End Phase of the turn. Additionally, Bilbo's Thrown Stones become a throwing weapon with a Strength of 1, instead of following the normal rules for Thrown Stones.
 
 * **The Power of the Ring**
 
@@ -182,9 +182,9 @@ If Bilbo is touching a Marker in the End Phase, the Good player rolls a D6. On a
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield with Orcrist; Kíli the Dwarf; Fíli the Dwarf; Balin the Dwarf; Dwalin the Dwarf; Bifur the Dwarf; Bofur the Dwarf; Bombur the Dwarf; Ori the Dwarf; Nori the Dwarf; Dori the Dwarf; Óin the Dwarf; Glóin the Dwarf; Legolas Greenleaf, Prince of Mirkwood with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Tauriel, Ranger of Mirkwood with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 10 Mirkwood Rangers.
+**Good:** [Thorin Oakenshield](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points) with Orcrist; [Kíli the Dwarf](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points); [Balin the Dwarf](../forces_of_good/dwarven_holds.md#balin-the-dwarf-40-points); [Dwalin the Dwarf](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-95-points); [Bifur the Dwarf](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-45-points); [Bofur the Dwarf](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points); [Bombur the Dwarf](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-45-points); [Ori the Dwarf](../forces_of_good/dwarven_holds.md#ori-the-dwarf-40-points); [Nori the Dwarf](../forces_of_good/dwarven_holds.md#nori-the-dwarf-55-points); [Dori the Dwarf](../forces_of_good/dwarven_holds.md#dori-the-dwarf-55-points); [Óin the Dwarf](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points); [Glóin the Dwarf](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-85-points); [Legolas Greenleaf, Prince of Mirkwood](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points) with Elven cloak; [Tauriel, Ranger of Mirkwood](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points) with Elf bow; 10 [Mirkwood Rangers](../forces_of_good/elven_kingdoms.md#mirkwood-ranger-14-points).
 
-**Evil:** 10 Mirkwood Giant Spiders.
+**Evil:** 10 [Mirkwood Giant Spiders](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points).
 
 **LAYOUT**
 
@@ -222,9 +222,9 @@ Any Mirkwood Giant Spiders that are slain should be put to one side. At the star
 
 **PARTICIPANTS**
 
-**Good:** Legolas Greenleaf, Prince of Mirkwood with Orcrist.
+**Good:** [Legolas Greenleaf, Prince of Mirkwood](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points) with Orcrist.
 
-**Evil:** Bolg, Spawn of Azog; Fimbul, Hunter Orc Captain; 24 Hunter Orc Warriors: 6 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 6 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 12 with no additional wargear.
+**Evil:** [Bolg, Spawn of Azog](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points); [Fimbul, Hunter Orc Captain](../forces_of_evil/gundabad_and_dol_guldur.md#fimbul-hunter-orc-captain-50-points); 24 [Hunter Orc Warriors](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warrior-8-points): 6 with Orc bow, 6 with two-handed weapon, 12 with no additional wargear.
 
 **LAYOUT**
 
@@ -266,9 +266,9 @@ Bolg has 3 Fate Points in this Scenario. Additionally, whilst he has all of his 
 
 **PARTICIPANTS**
 
-**Good:** Bard the Bowman; Bard's Family; Tauriel, Ranger of Mirkwood with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); Kíli the Dwarf; Fíli the Dwarf; Bofur the Dwarf; Óin the Dwarf; The Master of Lake-town; Alfrid the Councillor; Braga, Captain of the Guard; 24 Lake-town Guard: 8 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 8 with no additional equipment.
+**Good:** [Bard the Bowman](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points); [Bard's Family](../forces_of_good/kingdoms_of_men.md#bards-family-60-points); [Tauriel, Ranger of Mirkwood](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points) with Elf bow; [Kíli the Dwarf](../forces_of_good/dwarven_holds.md#kili-the-dwarf-50-points); [Fíli the Dwarf](../forces_of_good/dwarven_holds.md#fili-the-dwarf-50-points); [Bofur the Dwarf](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-45-points); [Óin the Dwarf](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points); [The Master of Lake-town](../forces_of_good/kingdoms_of_men.md#the-master-of-lake-town-70-points); [Alfrid the Councillor](../forces_of_good/kingdoms_of_men.md#alfrid-the-councillor-30-points); [Braga, Captain of the Guard](../forces_of_good/kingdoms_of_men.md#braga-captain-of-the-guard-55-points); 24 [Lake-town Guard](../forces_of_good/kingdoms_of_men.md#lake-town-guard-7-points): 8 with spear, 8 with bow, 8 with no additional equipment.
 
-**Evil:** Smaug.
+**Evil:** [Smaug](../forces_of_evil/smaug.md#smaug-700-points).
 
 **LAYOUT**
 
@@ -296,15 +296,15 @@ Bain starts the game in possession of the Black Arrow, which is a [Light Object]
 
 * **A Dragon's Wrath**
 
-Good Hero models gain the [Stalk Unseen](../rules_manual/special_rules.md#stalk-unseen) special rule. However, any Hero model in one of the towers will lose this special rule whilst they remain in one of the towers.
+Good Hero models gain the [Stalk Unseen] special rule. However, any Hero model in one of the towers will lose this special rule whilst they remain in one of the towers.
 
 * **Bard's Destiny**
 
-Bard gains the [Mighty Hero](../rules_manual/special_rules.md#mighty-hero) special rule. Additionally, Bard may ignore the rule where if one of his family is slain then he must Charge the model that killed them if possible - he is already trying to slay the Dragon after all!
+Bard gains the [Mighty Hero] special rule. Additionally, Bard may ignore the rule where if one of his family is slain then he must Charge the model that killed them if possible - he is already trying to slay the Dragon after all!
 
 * **The Waters of the Long Lake**
 
-The water is always [Deep Water](../rules_manual/advanced_rules.md#deep-water). Additionally, any model that has been [Set Ablaze](../rules_manual/special_rules.md#set-ablaze) that enters the water for any reason will no longer be [Set Ablaze](../rules_manual/special_rules.md#set-ablaze).
+The water is always [Deep Water](../rules_manual/advanced_rules.md#deep-water). Additionally, any model that has been [Set Ablaze] that enters the water for any reason will no longer be [Set Ablaze].
 
 ![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/fire_and_water.jpg){ width=866 height=853 }
 
@@ -314,9 +314,9 @@ The water is always [Deep Water](../rules_manual/advanced_rules.md#deep-water). 
 
 **PARTICIPANTS**
 
-**Good:** Thorin Oakenshield, King Under the Mountain; Dwalin the Dwarf, Champion of Erebor; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Bilbo Baggins, Master Burglar; Tauriel, Ranger of Mirkwood; Legolas Greenleaf, Prince of Mirkwood with Orcrist.
+**Good:** [Thorin Oakenshield, King Under the Mountain](../forces_of_good/dwarven_holds.md#thorin-oakenshield-king-under-the-mountain-130-points); [Dwalin the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-champion-of-erebor-110-points); [Kíli the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#kili-the-dwarf-champion-of-erebor-70-points); [Fíli the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#fili-the-dwarf-champion-of-erebor-70-points); [Bilbo Baggins, Master Burglar](../forces_of_good/kingdoms_of_men.md#bilbo-baggins-master-burglar-75-points); [Tauriel, Ranger of Mirkwood](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points); [Legolas Greenleaf, Prince of Mirkwood](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points) with Orcrist.
 
-**Evil:** Azog the Defiler with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and Stone Flail; Bolg, Spawn of Azog; 12 Gundabad Berserkers; 6 Gundabad Orc Warriors: 3 with [shield](../rules_manual/weapons_and_wargear.md#shields) and 3 with [spear](../rules_manual/weapons_and_wargear.md#spear-78).
+**Evil:** [Azog the Defiler](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points) with heavy armour and Stone Flail; [Bolg, Spawn of Azog](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points); 12 [Gundabad Berserkers](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-berserker-15-points); 6 [Gundabad Orc Warriors](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-warrior-9-points): 3 with shield and 3 with spear.
 
 **LAYOUT**
 
@@ -340,7 +340,7 @@ The Evil player has Priority on the first turn.
 
 * **The Last Stand**
 
-Hero models may not declare [Heroic Strikes](../rules_manual/heroes.md#heroic-strike-fight-phase).
+Hero models may not declare [Heroic Strikes][Heroic Strike].
 
 * **Orcrist**
 
@@ -365,21 +365,21 @@ If Tauriel is slain, Legolas immediately increases his Fight Value to 7 and his 
 **Good:**
 
 **Erebor Reclaimed:**
-Thorin Oakenshield, King Under the Mountain; Kíli the Dwarf, Champion of Erebor; Fíli the Dwarf, Champion of Erebor; Balin the Dwarf, Champion of Erebor; Dwalin the Dwarf, Champion of Erebor; Bifur the Dwarf, Champion of Erebor; Bofur the Dwarf, Champion of Erebor; Bombur the Dwarf, Champion of Erebor; Ori the Dwarf, Champion of Erebor; Nori the Dwarf, Champion of Erebor; Dori the Dwarf, Champion of Erebor; Óin the Dwarf, Champion of Erebor; Glóin the Dwarf, Champion of Erebor.
+[Thorin Oakenshield, King Under the Mountain](../forces_of_good/dwarven_holds.md#thorin-oakenshield-king-under-the-mountain-130-points); [Kíli the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#kili-the-dwarf-champion-of-erebor-70-points); [Fíli the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#fili-the-dwarf-champion-of-erebor-70-points); [Balin the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#balin-the-dwarf-champion-of-erebor-60-points); [Dwalin the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#dwalin-the-dwarf-champion-of-erebor-110-points); [Bifur the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#bifur-the-dwarf-champion-of-erebor-65-points); [Bofur the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#bofur-the-dwarf-champion-of-erebor-65-points); [Bombur the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#bombur-the-dwarf-champion-of-erebor-60-points); [Ori the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#ori-the-dwarf-champion-of-erebor-50-points); [Nori the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#nori-the-dwarf-champion-of-erebor-75-points); [Dori the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#dori-the-dwarf-champion-of-erebor-75-points); [Óin the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#oin-the-dwarf-champion-of-erebor-60-points); [Glóin the Dwarf, Champion of Erebor](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-champion-of-erebor-100-points).
 
 **The Iron Hills:**
-Dáin Ironfoot, Lord of the Iron Hills on War Boar; 1 Iron Hills Captain; 1 Iron Hills Captain with Mattock; 36 Iron Hills Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields) & [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with Mattock, 12 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbow); 1 Iron Hills Chariot.
+[Dáin Ironfoot, Lord of the Iron Hills](../forces_of_good/dwarven_holds.md#dain-ironfoot-lord-of-the-iron-hills-160-points) on War Boar; 1 [Iron Hills Captain](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points); 1 [Iron Hills Captain](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points) with Mattock; 36 [Iron Hills Warriors](../forces_of_good/dwarven_holds.md#iron-hills-warrior-10-points): 12 with shield & spear, 12 with Mattock, 12 with crossbow; 1 [Iron Hills Chariot](../forces_of_good/dwarven_holds.md#iron-hills-chariot-170-points).
 
 **Halls of Thranduil:**
-Thranduil, King of the Woodland Realm on Great Elk; 1 Mirkwood Elf Captain; 36 Mirkwood Elf Warriors, 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with Elven Glaive, 12 with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+[Thranduil, King of the Woodland Realm](../forces_of_good/elven_kingdoms.md#thranduil-king-of-the-woodland-realm-130-points) on Great Elk; 1 [Mirkwood Elf Captain](../forces_of_good/elven_kingdoms.md#mirkwood-elf-captain-75-points); 36 [Mirkwood Elf Warriors](../forces_of_good/elven_kingdoms.md#mirkwood-elf-warrior-9-points), 12 with shield, 12 with Elven Glaive, 12 with Elf bow.
 
 **Radagast's Alliance:**
-Beorn; Radagast the Brown on Great Eagle; Gwaihir; 4 Great Eagles.
+[Beorn](../forces_of_good/the_free_peoples.md#beorn-200-points); [Radagast the Brown](../forces_of_good/the_free_peoples.md#radagast-the-brown-145-points) on Great Eagle; [Gwaihir](../forces_of_good/the_free_peoples.md#gwaihir-200-points); 4 [Great Eagles](../forces_of_good/the_free_peoples.md#great-eagle-100-points).
 
 **Evil:**
 
 **Azog's Legion:**
-Azog the Defiler with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and Stone Flail; Bolg, Spawn of Azog; 5 Gundabad Orc Captains; 2 Goblin Mercenary Captains; 60 Gundabad Orc Warriors: 30 with [shield](../rules_manual/weapons_and_wargear.md#shields), 30 with [spear](../rules_manual/weapons_and_wargear.md#spear-78); 2 Gundabad Trolls with crushing [club](../rules_manual/weapons_and_wargear.md#hand-weapon); 2 Gundabad Trolls with Scythe Gauntlets; 1 Troll Brute; 6 Gundabad Ogres; 24 Gundabad Berserkers (up to 12 may have a [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon)); 24 Goblin Mercenaries; 6 War Bats; 1 Gundabad Catapult Troll.
+[Azog the Defiler](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points) with heavy armour and Stone Flail; [Bolg, Spawn of Azog](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points); 5 [Gundabad Orc Captains](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-captain-60-points); 2 [Goblin Mercenary Captains](../forces_of_evil/gundabad_and_dol_guldur.md#goblin-mercenary-captain-50-points); 60 [Gundabad Orc Warriors](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-warrior-9-points): 30 with shield, 30 with spear; 2 [Gundabad Trolls](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-troll-120-points) with crushing club; 2 [Gundabad Trolls](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-troll-120-points) with Scythe Gauntlets; 1 [Troll Brute](../forces_of_evil/gundabad_and_dol_guldur.md#troll-brute-120-points); 6 Gundabad Ogres; 24 [Gundabad Berserkers](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-berserker-15-points) (up to 12 may have a two-handed weapon); 24 [Goblin](../forces_of_evil/the_misty_mountains.md#goblin-warrior-5-points) Mercenaries; 6 [War Bats](../forces_of_evil/gundabad_and_dol_guldur.md#war-bat-25-points); 1 [Gundabad Catapult Troll](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-catapult-troll-180-points).
 
 **LAYOUT**
 
@@ -421,7 +421,7 @@ If Bofur is Engaged in Combat with the Troll Brute and the Good player wins the 
 
 * **The Signal Tower**
 
-In this Scenario, the Evil force benefits from the Raise the [Banners](../rules_manual/weapons_and_wargear.md#banner-80) special rule as presented in the Army of Gundabad Army List. This can be found on [page 147](../evil_army_list/army_of_gundabad.md) of *Armies of The Hobbit*.
+In this Scenario, the Evil force benefits from the Raise the Banners special rule as presented in the Army of Gundabad Army List. This can be found on [page 147](../evil_army_list/army_of_gundabad.md) of *Armies of The Hobbit*.
 
 ![](../media/scenarios/narrative_scenarios/hobbit_the_battle_of_the_five_armies/the_battle_of_the_five_armies.jpg){ width=1000 height=680 }
 
@@ -433,9 +433,9 @@ In this Scenario, the Evil force benefits from the Raise the [Banners](../rules_
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points); [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points); Meriadoc Brandybuck; [Peregrin Took](../forces_of_good/the_free_peoples.md#peregrin-took-10-points); [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with bow.
 
-**Evil:** The Witch-king of Angmar (1 Attack, 1 Might, 10 Will, 1 Fate) with Morgul Blade; 4 Ringwraiths (1 Attack, 0 Might, 7 Will, 0 Fate).
+**Evil:** The Witch-king of Angmar (1 Attack, 1 Might, 10 Will, 1 Fate) with Morgul Blade; 4 [Ringwraiths](../forces_of_evil/mordor.md#ringwraith-points-cost-varies) (1 Attack, 0 Might, 7 Will, 0 Fate).
 
 **LAYOUT**
 
@@ -447,7 +447,7 @@ The Good player deploys Frodo in the centre of Weathertop and then deploys the o
 
 **OBJECTIVES**
 
-The Nazgûl have come to claim [the One Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) for their master; only by driving them off can Frodo and his companions hope to keep [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) from their clutches.
+The Nazgûl have come to claim the One Ring for their master; only by driving them off can Frodo and his companions hope to keep the Ring from their clutches.
 
 The game lasts until one side has completed their objective. The Evil player wins immediately if Frodo is slain. The Good player wins if all Evil models are slain before this can happen.
 
@@ -455,7 +455,7 @@ The game lasts until one side has completed their objective. The Evil player win
 
 * **Flaming Brands**
 
-Aragorn, Sam, Merry and Pippin have flaming brands in this scenario in addition to their normal wargear. If a Ringwraith loses a Combat against a model with a flaming brand, then after Backing Away they will retreat D6" away from that model, in a direction chosen by their controlling player. Additionally, once per game, Aragorn may choose to use his flaming brand as a [throwing weapon](../rules_manual/weapons_and_wargear.md#throwing-weapons). If Aragorn hits with this flaming brand do not roll To Wound; instead the hit model is automatically [Set Ablaze](../rules_manual/special_rules.md#set-ablaze). Once Aragorn has thrown his flaming brand, remove it from his wargear.
+Aragorn, Sam, Merry and Pippin have flaming brands in this scenario in addition to their normal wargear. If a Ringwraith loses a Combat against a model with a flaming brand, then after Backing Away they will retreat D6" away from that model, in a direction chosen by their controlling player. Additionally, once per game, Aragorn may choose to use his flaming brand as a throwing weapon. If Aragorn hits with this flaming brand do not roll To Wound; instead the hit model is automatically [Set Ablaze]. Once Aragorn has thrown his flaming brand, remove it from his wargear.
 
 * **Aragorn**
 
@@ -473,9 +473,9 @@ Once per game, at the start of any Move Phase, the Evil player can declare they 
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Gandalf the Grey; Aragorn (Strider) with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor with [shield](../rules_manual/weapons_and_wargear.md#shields).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting and Mithril Coat; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points); Meriadoc Brandybuck; [Peregrin Took](../forces_of_good/the_free_peoples.md#peregrin-took-10-points); [Gandalf the Grey](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points); [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with bow; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; [Boromir of Gondor](../forces_of_good/the_free_peoples.md#boromir-of-gondor-95-points) with shield.
 
-**Evil:** 2 Moria Goblin Captains; 24 Moria Goblin Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 1 Cave Troll with [hand-and-a-half weapon](../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapon).
+**Evil:** 2 [Moria Goblin Captains](../forces_of_evil/the_misty_mountains.md#moria-goblin-captain-40-points); 24 [Moria Goblin Warriors](../forces_of_evil/the_misty_mountains.md#moria-goblin-warrior-4-points): 8 with shield, 8 with spear, 8 with Orc bow; 1 [Cave Troll](../forces_of_evil/the_misty_mountains.md#cave-troll-75-points) with hand-and-a-half weapon.
 
 **LAYOUT**
 
@@ -513,11 +513,11 @@ The Cave Troll gains a bonus of +1 to its Fight Value during a turn in which it 
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins with Sting and Mithril Coat; Samwise Gamgee; Meriadoc Brandybuck; Peregrin Took; Aragorn (Strider) with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); Legolas Greenleaf; Gimli, son of Glóin; Boromir of Gondor.
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points) with Sting and Mithril Coat; [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points); Meriadoc Brandybuck; [Peregrin Took](../forces_of_good/the_free_peoples.md#peregrin-took-10-points); [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with bow; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; [Boromir of Gondor](../forces_of_good/the_free_peoples.md#boromir-of-gondor-95-points).
 
-All Good models have an [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak).
+All Good models have an Elven cloak.
 
-**Evil:** Lurtz, Uruk-hai Scout Captain; 1 Uruk-hai Scout Captain; 24 Uruk-hai Scouts: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [Uruk-hai bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 8 with no additional equipment.
+**Evil:** [Lurtz](../forces_of_evil/isengard.md#lurtz-100-points), Uruk-hai Scout Captain; 1 [Uruk-hai Scout Captain](../forces_of_evil/isengard.md#uruk-hai-scout-captain-55-points); 24 [Uruk-hai Scouts](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 with shield, 8 with Uruk-hai bow, 8 with no additional equipment.
 
 **LAYOUT**
 
@@ -541,7 +541,7 @@ The game lasts until Frodo leaves the board under any circumstance. The Good pla
 
 * **"Find the Halflings!"**
 
-Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the [Paralyse](../rules_manual/magic.md#paralyse) Magical Power. Evil models treat a knocked out Hobbit as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects) (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation [Prone](../rules_manual/move_phase.md#prone-models). Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
+Should a Hobbit model suffer their final Wound, then instead of being slain they will recover a single Wound and be knocked out - treat them as under the effects of the [Paralyse] Magical Power. Evil models treat a knocked out Hobbit as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects) (see [page 134](../rules_manual/advanced_rules.md#heavy-objects) of the *Middle-earth Strategy Battle Game Rules Manual*). Should a Good model end its Activation in base contact with a knocked out Hobbit model, they will automatically revive them and the Hobbit model may act as normal from then on, though they will begin their Activation [Prone](../rules_manual/move_phase.md#prone-models). Should an Evil model leave the board whilst carrying a knocked out Hobbit, then that Hobbit is captured. Evil models may not leave the board via the River Anduin on the western board edge.
 
 * **The Legions of Isengard**
 
@@ -557,9 +557,9 @@ At the start of each of the Evil player's Activation Phases, they may roll a D6 
 
 **PARTICIPANTS**
 
-**Good:** Éomer, Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; Peregrin Took; 1 Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields) and horse; 12 Riders of Rohan: 4 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and 8 with no additional equipment.
+**Good:** [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with Firefoot; Meriadoc Brandybuck; [Peregrin Took](../forces_of_good/the_free_peoples.md#peregrin-took-10-points); 1 [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield and horse; 12 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 4 with throwing spears and 8 with no additional equipment.
 
-**Evil:** Uglúk, Uruk-hai Scout Captain; Grishnákh, Orc Captain; Snaga, Orc Captain; 1 Uruk-hai Scout Captain; 12 Uruk-hai Scouts: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [Uruk-hai bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 4 with no additional equipment; 12 Isengard Orc Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 2 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 2 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** [Uglúk](../forces_of_evil/isengard.md#ugluk-75-points), Uruk-hai Scout Captain; [Grishnákh](../forces_of_evil/isengard.md#grishnakh-55-points), Orc Captain; [Snaga](../forces_of_evil/isengard.md#snaga-50-points), Orc Captain; 1 [Uruk-hai Scout Captain](../forces_of_evil/isengard.md#uruk-hai-scout-captain-55-points); 12 [Uruk-hai Scouts](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 4 with shield, 4 with Uruk-hai bow, 4 with no additional equipment; 12 [Isengard Orc Warriors](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 4 with shield, 4 with spear, 2 with two-handed weapon, 2 with Orc bow.
 
 **LAYOUT**
 
@@ -601,9 +601,9 @@ Grishnákh follows the same rules for Movement as the Hobbits, except that he cr
 
 **PARTICIPANTS**
 
-**Good:** Treebeard with Merry & Pippin; Birchseed; Beechbone; 3 Ents.
+**Good:** [Treebeard](../forces_of_good/the_free_peoples.md#treebeard-190-points) with Merry & Pippin; [Birchseed](../forces_of_good/the_free_peoples.md#birchseed-150-points); [Beechbone](../forces_of_good/the_free_peoples.md#beechbone-150-points); 3 [Ents](../forces_of_good/the_free_peoples.md#ent-100-points).
 
-**Evil:** 4 Isengard Orc Captains; 48 Isengard Orc Warriors: 16 with [shield](../rules_manual/weapons_and_wargear.md#shields), 16 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [two-handed weapon](../rules_manual/weapons_and_wargear.md#two-handed-weapon), 8 with [Orc bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Evil:** 4 [Isengard Orc Captains](../forces_of_evil/isengard.md#isengard-orc-captain-45-points); 48 [Isengard Orc Warriors](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 16 with shield, 16 with spear, 8 with two-handed weapon, 8 with Orc bow.
 
 **LAYOUT**
 
@@ -623,7 +623,7 @@ The game lasts until one side has completed their objective. The Good player win
 
 * **Flaming Arrows**
 
-If an Orc makes a shooting attack against an Ent and scores a natural 6 To Hit, and then subsequently Wounds their target, then the Ent will suffer 2 Wounds rather than 1 and will immediately become [Set Ablaze](../rules_manual/special_rules.md#set-ablaze).
+If an Orc makes a shooting attack against an Ent and scores a natural 6 To Hit, and then subsequently Wounds their target, then the Ent will suffer 2 Wounds rather than 1 and will immediately become [Set Ablaze].
 
 * **"Bring them down!"**
 
@@ -643,15 +643,15 @@ The dam has a Defence of 10 and 5 Wounds, and can only be harmed in Combat.
 
 **GOOD:**
 
-**Defenders of the Hornburg:** Théoden, King of Rohan with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [shield](../rules_manual/weapons_and_wargear.md#shields); Gamling, Captain of Rohan with Royal Standard of Rohan; 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Defenders of the Hornburg:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with heavy armour and shield; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with Royal Standard of Rohan; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner.
 
-**Defenders of the Deeping Wall:** Aragorn (Strider) with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gimli, son of Glóin; Haldir, Galadhrim Captain with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour) and [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); Haleth, Son of Háma; Aldor, Rohan Archer; 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 25 Galadhrim Warriors: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and Elven [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [Elf bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart), 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Defenders of the Deeping Wall:** [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with armour; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with armour; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; [Haldir, Galadhrim Captain](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points) with heavy armour and Elf bow; [Haleth, Son of Háma](../forces_of_good/rohan.md#haleth-son-of-hama-30-points); [Aldor](../forces_of_good/rohan.md#aldor-20-points), Rohan Archer; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow, 1 with banner; 25 [Galadhrim Warriors](../forces_of_good/elven_kingdoms.md#galadhrim-warrior-9-points): 8 with shield, 8 with shield and Elven spear, 8 with Elf bow, 1 with banner.
 
-**Relief Force:** Éomer, Marshal of the Riddermark on Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Gandalf the White on Shadowfax; 1 Captain of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields) on [horse](../rules_manual/cavalry.md#horse-40mm); 24 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 16 with no additional equipment.
+**Relief Force:** [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark on Firefoot with armour; [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points) on Shadowfax; 1 [Captain of Rohan](../forces_of_good/rohan.md#captain-of-rohan-45-points) with shield on horse; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 16 with no additional equipment.
 
 **EVIL:**
 
-**Legions of Isengard:** 5 Uruk-hai Captains; 1 Isengard Assault Ballista; 5 Uruk-hai Demolition Teams; 85 Uruk-hai Warriors: 35 with [shield](../rules_manual/weapons_and_wargear.md#shields), 35 with [pike](../rules_manual/weapons_and_wargear.md#pike-79), 12 with [crossbow](../rules_manual/weapons_and_wargear.md#crossbow), 3 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 16 Uruk-hai Berserkers; 10 [Siege Ladders](../rules_manual/sieges.md#siege-ladders).
+**Legions of Isengard:** 5 [Uruk-hai Captains](../forces_of_evil/isengard.md#uruk-hai-captain-65-points); 1 [Isengard Assault Ballista](../forces_of_evil/isengard.md#isengard-assault-ballista-75-points); 5 [Uruk-hai Demolition Teams](../forces_of_evil/isengard.md#uruk-hai-demolition-team-80-points); 85 [Uruk-hai Warriors](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 35 with shield, 35 with pike, 12 with crossbow, 3 with banner; 16 [Uruk-hai Berserkers](../forces_of_evil/isengard.md#uruk-hai-berserker-15-points); 10 [Siege Ladders](../rules_manual/sieges.md#siege-ladders).
 
 **LAYOUT**
 
@@ -683,7 +683,7 @@ The Siege of Helm's Deep is a huge battle fought across the entire fortress; as 
 
 * **Ride Out**
 
-At the start of the 8th turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a [horse](../rules_manual/cavalry.md#horse-40mm) (or a named horse if relevant) may immediately gain a Mount.
+At the start of the 8th turn, and any turn that follows, any Good Hero within 6" of the gates of the Hornburg that could be mounted on a horse (or a named horse if relevant) may immediately gain a Mount.
 
 * **The Deeping Wall**
 
@@ -707,9 +707,9 @@ This scenario follows all of the rules for Sieges, including siege equipment, as
 
 **PARTICIPANTS**
 
-Good: Faramir, Captain of Gondor; Madril, Captain of Ithilien; Damrod, Ranger of Ithilien; 12 Warriors of Minas Tirith: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 4 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 12 Rangers of Gondor: 4 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with no additional equipment.
+Good: [Faramir](../forces_of_good/gondor.md#faramir-100-points), Captain of Gondor; [Madril](../forces_of_good/gondor.md#madril-60-points), Captain of Ithilien; [Damrod](../forces_of_good/gondor.md#damrod-40-points), Ranger of Ithilien; 12 [Warriors of Minas Tirith](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 4 with shield, 4 with shield and spear, 4 with bow; 12 [Rangers of Gondor](../forces_of_good/gondor.md#ranger-of-gondor-8-points): 4 with spear, 8 with no additional equipment.
 
-Evil: Gothmog, Lieutenant of Sauron; Gothmog's Enforcer; Guritz, Master of Reserves; 24 Morannon Orc Warriors: 6 with [shield](../rules_manual/weapons_and_wargear.md#shields), 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with no additional equipment; 1 Mordor Troll.
+Evil: [Gothmog](../forces_of_evil/mordor.md#gothmog-120-points), Lieutenant of Sauron; [Gothmog's Enforcer](../forces_of_evil/mordor.md#gothmogs-enforcer-55-points); [Guritz](../forces_of_evil/mordor.md#guritz-65-points), Master of Reserves; 24 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 6 with shield, 6 with spear, 6 with shield and spear, 6 with no additional equipment; 1 [Mordor Troll](../forces_of_evil/mordor.md#mordor-troll-90-points).
 
 **LAYOUT**
 
@@ -749,15 +749,15 @@ At the start of each Move Phase, the Evil player may select a single Good Warrio
 
 **GOOD:**
 
-**Gondor:** Gandalf the White with Shadowfax and Pippin; Irolas, Captain of the Guard; 24 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 6 Citadel Guard: 3 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 3 with [longbow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Gondor:** [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points) with Shadowfax and Pippin; [Irolas](../forces_of_good/gondor.md#irolas-65-points), Captain of the Guard; 24 [Warriors of Minas Tirith](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 with shield, 8 with shield and spear, 8 with bow; 6 [Citadel Guard](../forces_of_good/gondor.md#citadel-guard-8-points): 3 with spear, 3 with longbow.
 
-**Rohan:** Théoden, King of Rohan with [heavy armour](../rules_manual/weapons_and_wargear.md#heavy-armour), [shield](../rules_manual/weapons_and_wargear.md#shields) and Snowmane with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Éomer, Marshal of the Riddermark with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons) and Firefoot with [armour](../rules_manual/weapons_and_wargear.md#armour_1); Éowyn, Shieldmaiden of Rohan with [armour](../rules_manual/weapons_and_wargear.md#armour_1), [shield](../rules_manual/weapons_and_wargear.md#shields), horse and Merry; Gamling, Captain of Rohan with Royal Standard of Rohan and horse; 24 Riders of Rohan: 8 with [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 16 with no additional equipment.
+**Rohan:** [Théoden](../forces_of_good/rohan.md#theoden-75-points), King of Rohan with heavy armour, shield and Snowmane with armour; [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark with throwing spears and Firefoot with armour; [Éowyn](../forces_of_good/rohan.md#eowyn-60-points), Shieldmaiden of Rohan with armour, shield, horse and Merry; [Gamling](../forces_of_good/rohan.md#gamling-55-points), Captain of Rohan with Royal Standard of Rohan and horse; 24 [Riders of Rohan](../forces_of_good/rohan.md#rider-of-rohan-14-points): 8 with throwing spears, 16 with no additional equipment.
 
-**Dead of Dunharrow:** Aragorn (Strider) with Andúril, Flame of the West and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Legolas Greenleaf with [armour](../rules_manual/weapons_and_wargear.md#armour_1) and [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); Gimli, son of Glóin with [Elven cloak](../rules_manual/weapons_and_wargear.md#elven-cloak); King of the Dead; 2 Heralds of the Dead; 20 Warriors of the Dead: 10 with [shield](../rules_manual/weapons_and_wargear.md#shields), 10 with [spear](../rules_manual/weapons_and_wargear.md#spear-78).
+**Dead of Dunharrow:** [Aragorn (Strider](../forces_of_good/the_free_peoples.md#aragorn-strider-160-points)) with Andúril, Flame of the West and Elven cloak; [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf with armour and Elven cloak; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin with Elven cloak; [King of the Dead](../forces_of_good/gondor.md#king-of-the-dead-100-points); 2 Heralds of the Dead; 20 [Warriors of the Dead](../forces_of_good/gondor.md#warrior-of-the-dead-14-points): 10 with shield, 10 with spear.
 
 **EVIL:**
 
-**Mordor:** The Witch-king of Angmar (3 Attacks, 3 Might, 18 Will, 3 Fate) with Crown of Morgul and armoured Fell Beast; Gothmog, Lieutenant of Sauron with [Warg](../rules_manual/cavalry.md#warg-40mm); Gothmog's Enforcer; Guritz, Master of Reserves; the Mûmak War Leader (with 12 crew); 1 Haradrim Chieftain with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart); 1 Easterling Captain; 48 Morannon Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with no additional equipment; 2 Mordor Trolls; 2 War Mûmaks of Harad (each with 12 crew), 12 Haradrim Warriors: 6 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 6 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart): 10 Easterling Warriors: 4 with [shield](../rules_manual/weapons_and_wargear.md#shields), 2 with Easterling halberd and [shield](../rules_manual/weapons_and_wargear.md#shields), 4 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart).
+**Mordor:** The Witch-king of Angmar (3 Attacks, 3 Might, 18 Will, 3 Fate) with Crown of Morgul and armoured Fell Beast; [Gothmog](../forces_of_evil/mordor.md#gothmog-120-points), Lieutenant of Sauron with Warg; [Gothmog's Enforcer](../forces_of_evil/mordor.md#gothmogs-enforcer-55-points); [Guritz](../forces_of_evil/mordor.md#guritz-65-points), Master of Reserves; the [Mûmak War Leader](../forces_of_evil/fallen_realms.md#mumak-war-leader-400-points) (with 12 crew); 1 [Haradrim Chieftain](../forces_of_evil/fallen_realms.md#haradrim-chieftain-50-points) with bow; 1 [Easterling Captain](../forces_of_evil/mordor.md#easterling-captain-60-points); 48 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional equipment; 2 [Mordor Trolls](../forces_of_evil/mordor.md#mordor-troll-90-points); 2 War Mûmaks of Harad (each with 12 crew), 12 Haradrim Warriors: 6 with spear, 6 with bow: 10 Easterling Warriors: 4 with shield, 2 with Easterling halberd and shield, 4 with bow.
 
 **LAYOUT**
 
@@ -781,7 +781,7 @@ The Battle of Pelennor Fields is the greatest battle of the Third Age, and has m
 
 * **Charge of the Rohirrim**
 
-Any Rohan model that Charged during the Move Phase may declare a free [Heroic Combat](../rules_manual/heroes.md#heroic-combat-fight-phase-64) in the ensuing Fight Phase. This may be done by both Hero and Warrior models.
+Any Rohan model that Charged during the Move Phase may declare a free [Heroic Combat] in the ensuing Fight Phase. This may be done by both Hero and Warrior models.
 
 * **War Beasts of Harad**
 
@@ -803,9 +803,9 @@ At the end of the Good player's sixth Activation Phase, the Gondor force will Mo
 
 **PARTICIPANTS**
 
-**Good:** Frodo Baggins; Samwise Gamgee with Sting; Aragorn, King Elessar; Gandalf the White; Legolas Greenleaf; Gimli, son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with [shield](../rules_manual/weapons_and_wargear.md#shields); Peregrin Took, Guard of the Citadel; Éomer, Marshal of the Riddermark; 25 Warriors of Minas Tirith: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80); 25 Warriors of Rohan: 8 with [shield](../rules_manual/weapons_and_wargear.md#shields), 8 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [throwing spears](../rules_manual/weapons_and_wargear.md#throwing-weapons), 8 with [bow](../rules_manual/weapons_and_wargear.md#missile-weapon-chart) and 1 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Good:** [Frodo Baggins](../forces_of_good/the_free_peoples.md#frodo-baggins-55-points); [Samwise Gamgee](../forces_of_good/the_free_peoples.md#samwise-gamgee-40-points) with Sting; [Aragorn, King Elessar](../forces_of_good/gondor.md#aragorn-king-elessar-225-points); [Gandalf the White](../forces_of_good/gondor.md#gandalf-the-white-200-points); [Legolas](../forces_of_good/the_free_peoples.md#legolas-100-points) Greenleaf; [Gimli](../forces_of_good/the_free_peoples.md#gimli-100-points), son of Glóin; Meriadoc Brandybuck, Esquire of Rohan with shield; [Peregrin Took, Guard of the Citadel](../forces_of_good/gondor.md#peregrin-took-guard-of-the-citadel-25-points); [Éomer](../forces_of_good/rohan.md#eomer-110-points), Marshal of the Riddermark; 25 [Warriors of Minas Tirith](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 with shield, 8 with shield and spear, 8 with bow and 1 with banner; 25 [Warriors of Rohan](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 8 with shield, 8 with shield and throwing spears, 8 with bow and 1 with banner.
 
-**Evil:** 1 Mordor Troll Chieftain; The Mouth of Sauron on [armoured horse](../rules_manual/cavalry.md#armoured-horse-40mm); Gollum; 3 Morannon Orc Captains with [shield](../rules_manual/weapons_and_wargear.md#shields); 50 Morannon Orc Warriors: 12 with [shield](../rules_manual/weapons_and_wargear.md#shields), 12 with [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with [shield](../rules_manual/weapons_and_wargear.md#shields) and [spear](../rules_manual/weapons_and_wargear.md#spear-78), 12 with no additional wargear and 2 with [banner](../rules_manual/weapons_and_wargear.md#banner-80).
+**Evil:** 1 [Mordor Troll Chieftain](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points); The [Mouth of Sauron](../forces_of_evil/mordor.md#mouth-of-sauron-75-points) on armoured horse; [Gollum](../forces_of_evil/the_misty_mountains.md#gollum-40-points); 3 [Morannon Orc Captains](../forces_of_evil/mordor.md#morannon-orc-captain-55-points) with shield; 50 [Morannon Orc Warriors](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 12 with shield, 12 with spear, 12 with shield and spear, 12 with no additional wargear and 2 with banner.
 
 **LAYOUT**
 
@@ -817,31 +817,31 @@ The Good player deploys Frodo and Sam touching the southwest corner of the Crack
 
 **OBJECTIVES**
 
-Frodo must destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), and must do so quickly or his friends will perish.
+Frodo must destroy the Ring, and must do so quickly or his friends will perish.
 
-The game lasts until either Frodo has destroyed [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), is taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) or is slain. The Good player wins if [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. The Evil player wins if Frodo is either slain or taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring). Additionally, if all the Good Hero models at the Black Gate are slain, the best result the Good player can achieve is a draw.
+The game lasts until either Frodo has destroyed the Ring, is taken over by the Ring or is slain. The Good player wins if the Ring is destroyed. The Evil player wins if Frodo is either slain or taken over by the Ring. Additionally, if all the Good Hero models at the Black Gate are slain, the best result the Good player can achieve is a draw.
 
 **SPECIAL RULES**
 
 * **"Not here, not so close to the Eye!"**
 
-Frodo may not put [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) on in this scenario.
+Frodo may not put the Ring on in this scenario.
 
 * **The Power of the Ring**
 
 At the start of each turn, before Priority is rolled, the Evil player may use one of the following powers to try and slow Frodo down and corrupt him. To use one of these powers the Evil player declares which power they wish to use and rolls a D6. If the score is equal to or higher than the score required, then they may use the power:
 
 * **Exhaustion (3+)** - During the turn that this power is in effect, Frodo must take a Courage Test for each inch he wishes to move. If Frodo fails any of these Courage tests then he collapses and is immediately [Prone](../rules_manual/move_phase.md#prone-models). Sam may carry Frodo as a [Heavy Object](../rules_manual/advanced_rules.md#heavy-objects).
-* **Corruption (4+)** - Frodo begins the game with 6 Resistant Points, which are unique to this Scenario. When this power is used, the Evil player rolls a D6 and compares it to the number of Resistant Points Frodo has remaining. If the result is equal to or higher than Frodo's current Resistant Points, then Frodo immediately loses 1 Resistant Point. If Frodo's Resistant Points are reduced to 0, then he has been taken over by [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) and the game ends.
-* **Lure of the Ring (5+)** - [The Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight Phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
+* **Corruption (4+)** - Frodo begins the game with 6 Resistant Points, which are unique to this Scenario. When this power is used, the Evil player rolls a D6 and compares it to the number of Resistant Points Frodo has remaining. If the result is equal to or higher than Frodo's current Resistant Points, then Frodo immediately loses 1 Resistant Point. If Frodo's Resistant Points are reduced to 0, then he has been taken over by the Ring and the game ends.
+* **Lure of the Ring (5+)** - The Ring provokes Gollum to attack, and he is placed in base contact with the Ringbearer. They will fight as normal during the Fight Phase before Gollum disappears back into hiding. If Gollum is ever slain, this power can no longer be used.
 
 * **Destroying the Ring**
 
-To destroy [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring), Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with Ring. Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) is destroyed. If the Evil player wins this roll three times in a row, [the Ring](../rules_manual/weapons_and_wargear.md#the-one-ring) corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
+To destroy the Ring, Frodo must be in base contact with the edge of the precipice over the lava. Frodo will then enter a battle of wills with Ring. Both players roll a D6 (re-rolling any ties) and compare results. If the Good player wins this roll three times in a row, the Ring is destroyed. If the Evil player wins this roll three times in a row, the Ring corrupts Frodo and the game ends. Frodo may use Might to influence these rolls.
 
 * **Gandalf's Staff**
 
-Gandalf does not have his [Staff of Power](../rules_manual/weapons_and_wargear.md#staff-of-power), and therefore does not gain a free Will Point each turn.
+Gandalf does not have his Staff of Power, and therefore does not gain a free Will Point each turn.
 
 * **Teeming Hordes**
 
@@ -853,6 +853,6 @@ Good models may not willingly Move more than 12" away from the centre of the Bla
 
 * **Greatest of the Trolls**
 
-The Mordor Troll Chieftain gains the [Fearless](../rules_manual/special_rules.md#fearless) special rule and an additional point of Might, Will and Fate.
+The Mordor Troll Chieftain gains the [Fearless] special rule and an additional point of Might, Will and Fate.
 
 ![](../media/scenarios/narrative_scenarios/lotr_the_return_of_the_king/the_end_of_all_things.jpg){ width=1000 height=542 }

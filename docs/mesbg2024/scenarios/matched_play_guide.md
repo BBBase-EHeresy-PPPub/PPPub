@@ -68,8 +68,8 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General has been wounded, and only has a single Wound remaining, then you instead score **3 Victory Points**. If the enemy General was removed as a casualty, you instead score **5 Victory Points**.
 * You score **3 Victory Points** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **5 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game; if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this.
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game; if they didn't have a banner to start with, you automatically score this.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 * You score **3 Victory Points** if the enemy Army has been reduced to 25% of its starting models at the end of the game.
 * You score **1 Victory Point** for each enemy Hero model that has been removed as a casualty, up to a maximum of **3 Victory Points**.
 
@@ -110,7 +110,7 @@ At the end of the game, the player who has scored the most **Victory Points** wi
 * You score **4 Victory Points** if you have more models within 6" of the objective than your opponent. If you have twice as many models within 6" of the objective than your opponent, then you instead score **8 Victory Points**. If you have three times as many models within 6" of the objective than your opponent, or you are the only player to have models within 6" of the objective, then you instead score **12 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game; if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game; if they didn't have a banner to start with, you automatically score this.
 
 **SPECIAL RULES**
 
@@ -157,8 +157,8 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * If you have destroyed more Supply Markers than your opponent, you score **1 Victory Point**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -351,7 +351,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score **3 Victory Points** if there are more friendly models than enemy models within 3" of the Objective Marker in your opponent's deployment zone. If there is at least one friendly model, and no enemy models, within 3" of this Objective Marker, you instead score **5 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **2 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **2 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 * You score **1 Victory Point** if the model with the highest points cost in your opponent's army, that is not their General, was wounded during the game. If the most expensive model that is not their General was removed as a casualty, you instead score **2 Victory Points**.
 
 ![](../media/scenarios/matched_play_guide/breakthrough.jpg){ width=1000 height=681 }
@@ -437,7 +437,7 @@ At the end of the game, the player who has scored the most **Victory Points** wi
 
 **SCORING VICTORY POINTS**
 
-* For this Scenario you need to keep track of your Wound Tally. Your Wound Tally is equal to the number of Wounds your opponent's Army has suffered, regardless of how they were inflicted, including any disabled Siege Engine models, plus any Fate Points that your opponent spent. Wounds that are prevented by a manner other than Fate, such as the [Fury](../rules_manual/magic.md#fury-x) Magical Power or if a model can use Will Points as if they were Fate points, do not add to your Wound Tally. Hero models that are removed from the game with unspent Fate Points will add 1 to the Wound Tally for each one unspent. Models that flee because their force is Broken count towards the Wound Tally, but a Mount that flees does not. You score **4 Victory Points** if your Wound Tally is greater than your opponent's. If your Wound Tally is at least twice as large as your opponent's, then you instead score **8 Victory Points**. If your Wound Tally is at least three times as large as your opponent's, or your opponent has no models left on the board, then you instead score **12 Victory Points**.
+* For this Scenario you need to keep track of your Wound Tally. Your Wound Tally is equal to the number of Wounds your opponent's Army has suffered, regardless of how they were inflicted, including any disabled Siege Engine models, plus any Fate Points that your opponent spent. Wounds that are prevented by a manner other than Fate, such as the [Fury] Magical Power or if a model can use Will Points as if they were Fate points, do not add to your Wound Tally. Hero models that are removed from the game with unspent Fate Points will add 1 to the Wound Tally for each one unspent. Models that flee because their force is Broken count towards the Wound Tally, but a Mount that flees does not. You score **4 Victory Points** if your Wound Tally is greater than your opponent's. If your Wound Tally is at least twice as large as your opponent's, then you instead score **8 Victory Points**. If your Wound Tally is at least three times as large as your opponent's, or your opponent has no models left on the board, then you instead score **12 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
 * You score **1 Victory Point** for each enemy Hero model that has been removed as a casualty, up to a maximum of **2 Victory Points**.
@@ -552,7 +552,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 * **Stand and Fight**
 
-At the start of every Move Phase, the Champion that currently has scored the fewest number of kills, see the first bullet point of Scoring **Victory Points** above, may declare a [Heroic Move](../rules_manual/heroes.md#heroic-move-move-phase-63) for free during that Move Phase. If they do, they must Charge an enemy model.
+At the start of every Move Phase, the Champion that currently has scored the fewest number of kills, see the first bullet point of Scoring **Victory Points** above, may declare a [Heroic Move] for free during that Move Phase. If they do, they must Charge an enemy model.
 
 ![](../media/scenarios/matched_play_guide/contest_of_champions.jpg){ width=1000 height=679 }
 
@@ -592,7 +592,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score **1 Victory Point** for each Objective Marker your Army has uncovered which has been revealed to be a decoy.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **2 Victory Points**.
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -789,7 +789,7 @@ The game lasts until either all three Artefacts have been carried off the board,
 * At the end of the game, for each of the Artefacts that is still on the board but not in the possession of any model, the player who has the most models within 3" of the Artefact scores **1 Victory Point**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 
 **SPECIAL RULES**
 
@@ -870,7 +870,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 **SCORING VICTORY POINTS**
 
-* You score **5 Victory Points** if your Army managed to capture your opponent's camp. If your Army managed to capture your opponent's camp and you have a Hero model in your opponent's camp, you instead score **7 Victory Points**. If your Army managed to capture your opponent's camp and you have a model with a [banner](../rules_manual/weapons_and_wargear.md#banner-80) in your opponent's camp, you instead score **10 Victory Points**.
+* You score **5 Victory Points** if your Army managed to capture your opponent's camp. If your Army managed to capture your opponent's camp and you have a Hero model in your opponent's camp, you instead score **7 Victory Points**. If your Army managed to capture your opponent's camp and you have a model with a banner in your opponent's camp, you instead score **10 Victory Points**.
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **2 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
 * You score **1 Victory Point** for each model you have in your opponent's camp, to a maximum of **5 Victory Points**.
@@ -966,7 +966,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * <span style="color: darkmagenta">You score **2 Victory Points** for each of your wounded allies that is in base contact with a friendly model, and no enemy models, in your opponent's board half. For each wounded ally that has been rescued, you instead score **4 Victory Points**.</span>
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 
 **SPECIAL RULES**
 
@@ -1014,8 +1014,8 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **4 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **4 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
-* You score **1 Victory Point** if you have at least one [banner](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game. If you have more [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining than your opponent, then you instead score **2 Victory Points**.
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
+* You score **1 Victory Point** if you have at least one banner remaining at the end of the game. If you have more banners remaining than your opponent, then you instead score **2 Victory Points**.
 * You score **1 Victory Point** for each enemy Hero model that has been removed as a casualty, up to a maximum of **4 Victory Points**.
 * You score **1 Victory Point** if you have more models within 3" of the objective than your opponent. If you have twice as many models within 3" of the objective than your opponent, or you are the only player to have models within 3" of the objective, then you instead score **4 Victory Points**.
 
@@ -1061,7 +1061,7 @@ The game lasts until the end of a turn in which one Army has been reduced to a q
 * You score **4 Victory Points** for each Objective Marker that has a friendly Hero model, and no enemy Hero models, within 3".
 * You score **1 Victory Point** if the enemy Army is Broken at the end of the game. If the enemy Army is Broken and your Army is not, you instead score **3 Victory Points**.
 * You score **1 Victory Point** if the enemy General was wounded during the game. If the enemy General was removed as a casualty, you instead score **3 Victory Points**.
-* You score **2 Victory Points** if your opponent has no [banners](../rules_manual/weapons_and_wargear.md#banner-80) remaining at the end of the game (if they didn't have a [banner](../rules_manual/weapons_and_wargear.md#banner-80) to start with, you automatically score this).
+* You score **2 Victory Points** if your opponent has no banners remaining at the end of the game (if they didn't have a banner to start with, you automatically score this).
 
 **SPECIAL RULES**
 
