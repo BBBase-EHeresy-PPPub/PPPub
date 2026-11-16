@@ -51,14 +51,14 @@ This is a [hand weapon](battlehost_quickstart_rules_guide.md#single-handed-weapo
 One of the following options:
 
 - [Shield](battlehost_quickstart_rules_guide.md#shields)
-- [Shield](battlehost_quickstart_rules_guide.md#shields) and [Throwing Spears](battlehost_quickstart_rules_guide.md#throwing-spears)
+- [Shield](battlehost_quickstart_rules_guide.md#shields) and [Throwing](battlehost_quickstart_rules_guide.md#throwing-spears) Spears
 - [Bow](battlehost_quickstart_rules_guide.md#bows)
 
 **SPECIAL RULES**
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing spears](battlehost_quickstart_rules_guide.md#throwing-spears) as a normal [spear](battlehost_quickstart_rules_guide.md#spears) during the Fight Phase, so long as it hasn't made a Shooting Attack in the preceding Move Phase or Shoot Phase.
+This model may use its [throwing](battlehost_quickstart_rules_guide.md#throwing-spears) spears as a normal [spear](battlehost_quickstart_rules_guide.md#spears) during the Fight Phase, so long as it hasn't made a Shooting Attack in the preceding Move Phase or Shoot Phase.
 
 </div>
 
@@ -85,7 +85,7 @@ This model may use its [throwing spears](battlehost_quickstart_rules_guide.md#th
 
 Riders of Rohan may also take the following option:
 
-- [Throwing Spears](battlehost_quickstart_rules_guide.md#throwing-spears)
+- [Throwing](battlehost_quickstart_rules_guide.md#throwing-spears) Spears
 
 **SPECIAL RULES**
 

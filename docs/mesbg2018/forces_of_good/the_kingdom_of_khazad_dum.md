@@ -20,7 +20,7 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 **WARGEAR**
 
-- Heavy Mithril [Armour]
+- Heavy Mithril Armour
 - Durin's Axe
 
 **HEROIC ACTIONS**
@@ -35,11 +35,11 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 - **Durin's axe** `ACTIVE`
 
-[Master-forged][Master-Forged] [two-handed][Two-Handed] [axe][Axe], re-roll a single dice in duel rolls.
+[Master-forged][] [two-handed][] [axe], re-roll a single dice in duel rolls.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
-A [war horn][War Horn], that also gives Durin the [Terror] special rule.
+A [war horn], that also gives Durin the [Terror] special rule.
 
 - **The Ring of Durin** `PASSIVE`
 
@@ -48,6 +48,10 @@ Once per game, you may re-roll a single Priority roll.
 - **The Crown of Kings** `PASSIVE`
 
 For each wound he suffers, roll a D6. On a 6, the wound is ignored.
+
+- **Heavy Mithril Armour** `PASSIVE`
+
+The protection of this armour is already included in Durin's Defence of 9.
 
 </div>
 
@@ -77,9 +81,9 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 
 **OPTIONS**
 
-- [Throwing] [Axes][Axe] - 5 points
-- [Two-Handed] [Axe] - 5 points
-- Swap Weapon - 5 points
+- [Throwing] Axes - 5 points
+- [Two-Handed][] [Axe] - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -107,9 +111,9 @@ For each wound he suffers, roll a D6. On a 6, the wound is ignored.
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Throwing] [Axes][Axe] - 5 points
-- [Two-Handed] [Axe] - 5 points
-- Swap Weapon - 5 points
+- [Throwing] Axes - 5 points
+- [Two-Handed][] [Axe] - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -157,7 +161,7 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two Axes
+- [Two Axes][Axe]
 
 **HEROIC ACTIONS**
 
@@ -166,7 +170,7 @@ Floi recovers 1 Will point every time a friendly Moria Dwarf model slays an enem
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -234,7 +238,7 @@ This is a Foe [Spear], with the Trollbane special rule. Additionally, Mardin add
 
 - **In Defence of the King** `ACTIVE`
 
-At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the [Heroic combat][Heroic Combat] is successful, they must use their following Move to either join the fight, or move as close as possible.
+At the start of the game, nominate a single Dwarf Hero model with the highest Heroic Tier to protect. If that model is within 3" and in a fight, the Shieldbearer may call a [Heroic Combat] without spending Might. If the [Heroic combat] is successful, they must use their following Move to either join the fight, or move as close as possible.
 
 - **Lead by Example** `PASSIVE`
 
@@ -263,10 +267,10 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 **OPTIONS**
 
-- Dwarf Longbow - 1 point
-- [Throwing] [Axes][Axe] - 1 point
-- [Two-Handed] [Axe] - 1 point
-- Swap Weapon - 1 point
+- [Dwarf Longbow] - 1 point
+- [Throwing] Axes - 1 point
+- [Two-Handed][] [Axe] - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -297,8 +301,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - [Banner] - 25 points
 - Dwarf [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-Handed] [Axe] & [Dagger] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Axe] & [Dagger] - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -318,11 +322,11 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - [Dwarf Armour]
 - [Sword]
-- [Throwing] [Axes][Axe]
+- [Throwing] Axes
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -341,17 +345,21 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **WARGEAR**
 
 - [Dwarf Armour]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 - [Axe]
 
 **OPTIONS**
 
 - Heathguard Upgrade - 2 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - [Bodyguard]
+
+- **Heathguard Upgrade**
+
+Khazad Guard in Durin's Warband may be upgraded to Hearthguard. Hearthguard gain [Burly].
 
 </div>
 
@@ -395,10 +403,10 @@ Crewed by two Dwarf Warriors with heavy armour and axe, one of which is a [Siege
 
 - Dwarf [Engineer Captain] - 60 points
 - [Flaming Ammunition] - 15 points
-- Additional Crew - 8 points
+- [Additional Crew] - 8 points
 - [Engineer Captain] - [Shield] - 5 points
-- [Engineer Captain] - [Throwing] [Axes][Axe] - 5 points
-- [Engineer Captain] - [Two-Handed] [Axe] - 5 points
+- [Engineer Captain] - [Throwing] Axes - 5 points
+- [Engineer Captain] - [Two-Handed][] [Axe] - 5 points
 
 **SPECIAL RULES**
 

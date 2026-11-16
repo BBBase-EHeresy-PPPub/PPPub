@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - Ring of Barahir
-- [Hand-and-a-half][Hand-And-A-Half] [Sword].
+- [Hand-and-a-half][] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -43,7 +43,7 @@ This is a Unique piece of Wargear. Whenever Aragorn is affected by a Magical Pow
 
 - **Andúril, Flame of the West** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
+This is a Unique Elven [hand-and-a-half] weapon. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed] weapon, then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
 
 **BREGO**
 
@@ -108,7 +108,7 @@ If Brego's rider would be knocked Prone whilst riding Brego, and Brego is not sl
 
 - **Glamdring** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
+This is a Unique Elven [hand-and-a-half] weapon. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -149,7 +149,7 @@ At the start of every friendly Shoot Phase, Gandalf may select one of the firewo
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon][Hand Weapon])
+- Claws and Beak ([hand weapon])
 
 **HEROIC ACTIONS**
 
@@ -235,7 +235,7 @@ Radagast is always assumed to have Line of Sight to anywhere on the battlefield.
 
 **WARGEAR**
 
-- Claws and beak ([hand weapon][Hand Weapon])
+- Claws and beak ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -267,6 +267,10 @@ If Radagast dismounts from the Great Eagle, it automatically passes its Courage 
 When Radagast's Sleigh Moves via Chariot Charge, it will inflict 2 Strength 4 Impact hits.
 
 If Radagast dismounts from his Sleigh, it must be removed from play.
+
+- **Exchange Staff for Great Eagle**
+
+Replace Radagast's [Staff of Power] with a [Great Eagle mount](../forces_of_good/the_free_peoples.md#great-eagle-100-points). Use the Great Eagle profile shown on this page.
 
 </div>
 
@@ -333,7 +337,7 @@ At the beginning of each Move Phase, before the Declare Heroic Actions Step, Sar
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon][Hand Weapon])
+- Roots and Branches ([hand weapon])
 
 **HEROIC ACTIONS**
 
@@ -379,7 +383,7 @@ Before models Back Away, select one enemy model involved in the Combat to be pic
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -478,7 +482,7 @@ If Beorn wins a Duel Roll he can choose to use this Brutal Power Attack. If he d
 
 - **Horn of Gondor** `ACTIVE`
 
-This is a Unique [war horn][War Horn]. At the start of a Combat involving Boromir, if he is outnumbered in the Combat then he may blow the Horn of Gondor. If he does, then one enemy model involved in the Combat (chosen by their controlling player) must take a Courage Test. If the Courage Test is passed then the Combat is fought as normal. If the Courage Test is failed then no Duel Roll is made and Boromir automatically wins the Combat.
+This is a Unique [war horn]. At the start of a Combat involving Boromir, if he is outnumbered in the Combat then he may blow the Horn of Gondor. If he does, then one enemy model involved in the Combat (chosen by their controlling player) must take a Courage Test. If the Courage Test is passed then the Combat is fought as normal. If the Courage Test is failed then no Duel Roll is made and Boromir automatically wins the Combat.
 
 - **Protect the little ones!** `PASSIVE`
 
@@ -595,7 +599,7 @@ Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a p
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 - [Great Bow]
 
 **HEROIC ACTIONS**
@@ -748,7 +752,7 @@ Instead of shooting normally, Legolas may make a single shooting attack against 
 
 - **Horn of the Riddermark** `ACTIVE`
 
-This is a Unique [war horn][War Horn]. Additionally, Merry gains the [Fearless] special rule.
+This is a Unique [war horn]. Additionally, Merry gains the [Fearless] special rule.
 
 Any Hobbit Militia in Merry's Warband upgraded to Battlin' Brandybucks have Strength 3.
 
@@ -849,7 +853,7 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon][Hand Weapon])
+- Roots and Branches ([hand weapon])
 
 **HEROIC ACTIONS**
 
@@ -891,7 +895,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon][Hand Weapon])
+- Roots and Branches ([hand weapon])
 
 **HEROIC ACTIONS**
 
@@ -932,7 +936,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
@@ -942,7 +946,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 - **Get out of my fields!** `ACTIVE`
 
-Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a [two-handed weapon][Two-handed Weapon].
+Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a [two-handed] weapon.
 
 ---
 
@@ -964,7 +968,7 @@ Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1
 
 - **Loyal Hounds** `PASSIVE`
 
-Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whilst he is alive and on the battlefield. Additionally, Grip, Fang and Wolf treat Farmer Maggot as a [banner][Banner] with a range of 6", and may re-roll failed To Wound Rolls whilst within 6" of Farmer Maggot.
+Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whilst he is alive and on the battlefield. Additionally, Grip, Fang and Wolf treat Farmer Maggot as a [banner] with a range of 6", and may re-roll failed To Wound Rolls whilst within 6" of Farmer Maggot.
 
 </div>
 
@@ -996,7 +1000,7 @@ Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whils
 
 - **Pitchfork** `PASSIVE`
 
-A Pitchfork can either be used as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
+A Pitchfork can either be used as a [spear] or a [two-handed] weapon.
 
 - **"This is our Country"** `PASSIVE`
 
@@ -1038,11 +1042,11 @@ Friendly Hobbit models within 3" of Farmer Cotton may re-roll any rolls of a 1 w
 
 - **Mithril Coat** `PASSIVE`
 
-This is a Unique piece of [Mithril armour][Mithril Armour]. Additionally, the wearer may re-roll Fate rolls of a 1.
+This is a Unique piece of [Mithril armour]. Additionally, the wearer may re-roll Fate rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 </div>
 
@@ -1078,7 +1082,7 @@ This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 t
 
 - **Mithril Coat** `PASSIVE`
 
-This is a Unique piece of [Mithril armour][Mithril Armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
+This is a Unique piece of [Mithril armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
 
 - **"It will never really heal!"** `PASSIVE`
 
@@ -1086,7 +1090,7 @@ Frodo may never Charge enemy models under any circumstances. Additionally, Frodo
 
 - **Home is the Hero** `PASSIVE`
 
-Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
+Friendly Hobbit models treat Frodo as a [banner] with a range of 6".
 
 </div>
 
@@ -1105,9 +1109,9 @@ Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed Weapon]
+- [Master Forged][Master-Forged] [Two-handed] Weapon
 - Two [Hand Weapons][Hand Weapon]
-- [Throwing Weapons]
+- [Throwing] Weapons
 
 **HEROIC ACTIONS**
 
@@ -1122,7 +1126,7 @@ Friendly Hobbit models treat Frodo as a [banner][Banner] with a range of 6".
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of each Combat he is involved in, Gimli can choose to either fight with an [axe][Axe] in each hand, in which case he will fight with 3 Attacks, or with his [two-handed][Two-Handed] [axe][Axe].
+At the beginning of each Combat he is involved in, Gimli can choose to either fight with an [axe] in each hand, in which case he will fight with 3 Attacks, or with his [two-handed][] [axe].
 
 - **"I myself am sitting pretty on 43"** `ACTIVE`
 
@@ -1171,7 +1175,7 @@ After both sides have deployed, before the first turn begins, Hamfast's controll
 
 **WARGEAR**
 
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -1185,7 +1189,7 @@ After both sides have deployed, before the first turn begins, Hamfast's controll
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their [hand-and-a-half weapon][Hand-and-a-half Weapon] as a [two-handed weapon][Two-handed Weapon].
+Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their [hand-and-a-half] weapon as a [two-handed] weapon.
 
 </div>
 
@@ -1274,7 +1278,7 @@ Any Hobbit Archers in Paladin's Warband upgraded to Tookish Hunters may re-roll 
 
 **WARGEAR**
 
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -1368,7 +1372,7 @@ Instead of making Strikes if he wins a Duel Roll, Sam may choose to use his Fryi
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **"There's some good in this world, Mr Frodo, and it's worth fighting for"** `ACTIVE`
 
@@ -1502,15 +1506,15 @@ If Fredegar attempts to Charge an enemy model with the [Terror] special rule and
 
 - **Mithril Coat** `PASSIVE`
 
-This is a Unique piece of [Mithril armour][Mithril Armour]. Additionally, the wearer may re-roll Fate rolls of a 1.
+This is a Unique piece of [Mithril armour]. Additionally, the wearer may re-roll Fate rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **Slip Away** `PASSIVE`
 
-Whilst Bilbo is wearing [the One Ring][The One Ring] and is [Invisible], enemy models Engaged in Combat with Bilbo will halve their Fight Value even if there are other models friendly to Bilbo Engaged in the same Combat.
+Whilst Bilbo is wearing [the One Ring] and is [Invisible], enemy models Engaged in Combat with Bilbo will halve their Fight Value even if there are other models friendly to Bilbo Engaged in the same Combat.
 
 </div>
 
@@ -1528,7 +1532,7 @@ Whilst Bilbo is wearing [the One Ring][The One Ring] and is [Invisible], enemy m
 
 **WARGEAR**
 
-- Iron-shod Hooves ([hand weapon][Hand Weapon])
+- Iron-shod Hooves ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -1536,7 +1540,7 @@ Whilst Bilbo is wearing [the One Ring][The One Ring] and is [Invisible], enemy m
 
 - **Official Meals** `PASSIVE`
 
-Friendly Fellowship models treat Bill the [Pony] as a [banner][Banner].
+Friendly Fellowship models treat Bill the [Pony] as a [banner].
 
 - **Second Breakfast** `PASSIVE`
 
@@ -1637,7 +1641,7 @@ At any point during her Activation, Goldberry may spend a Will Point to sing one
 
 - **Umbrella** `ACTIVE`
 
-This is a [hand weapon][Hand Weapon]. If Lobelia wins a Combat she may not make Strikes (she will likely just give her opponent a good, but ultimately painless, battering with her umbrella!).
+This is a [hand weapon]. If Lobelia wins a Combat she may not make Strikes (she will likely just give her opponent a good, but ultimately painless, battering with her umbrella!).
 
 - **Furious Tirade** `ACTIVE`
 
@@ -1739,7 +1743,7 @@ Whilst Sam is within 3" of Rosie, Sam may re-roll any failed To Wound Rolls when
 
 - **"Sweet Maiden of the Golden Ale"** `PASSIVE`
 
-Friendly Hobbit models treat Rosie Cotton as a [banner][Banner] with a range of 6". Additionally, so long as she is alive, Rosie will also count as a [banner][Banner] for the purpose of Victory Points in Scenarios that award Victory Points for having a [banner][Banner] left alive.
+Friendly Hobbit models treat Rosie Cotton as a [banner] with a range of 6". Additionally, so long as she is alive, Rosie will also count as a [banner] for the purpose of Victory Points in Scenarios that award Victory Points for having a [banner] left alive.
 
 </div>
 
@@ -1887,12 +1891,12 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Axe]
+- [Hand-and-a-half][] [Axe]
 - [Axe]
 
 **OPTIONS**
 
-- Swap [hand-and-a-half][Hand-And-A-Half] [Axe] for [Great Bow] - Free
+- Swap [hand-and-a-half][] [Axe] for [Great Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1901,7 +1905,7 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 - **Followers of the Bear** `PASSIVE`
 
-This model treats friendly Bear models as a [banner][Banner].
+This model treats friendly Bear models as a [banner].
 
 </div>
 
@@ -1919,7 +1923,7 @@ This model treats friendly Bear models as a [banner][Banner].
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon][Hand Weapon])
+- Roots and Branches ([hand weapon])
 
 **OPTIONS**
 
@@ -1943,6 +1947,22 @@ Before models Back Away, select one enemy model involved in the Combat to be pic
 
 Choose another model involved in the Combat. Both the chosen model and the Bludgeon suffer one Strength 8 hit. If the chosen model is slain, choose a different model involved in the Combat and repeat the process. Keep doing this until either the Ent fails to slay a chosen model, or no more models can be chosen. The process carries on even if the Bludgeon is slain; the Ent keeps using their body as a weapon. If the Bludgeon survives, they will be placed back where they were in the Combat and be knocked Prone. Once this Brutal Power Attack is resolved, enemy models Back Away as normal.
 
+- **Ash**
+
+Improve the Ent's Shoot Value to 3+. It may use [Throw Stones] after Moving, provided it has not Moved more than half its Move Value.
+
+- **Beech**
+
+The Ent re-rolls To Wound rolls of a natural 1 when making Strikes.
+
+- **Chestnut**
+
+The Ent gains [Mighty Blow].
+
+- **Oak**
+
+The Ent improves its Wounds characteristic to 4.
+
 </div>
 
 ---
@@ -1959,7 +1979,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon][Hand Weapon])
+- Claws and Beak ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -1985,7 +2005,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon][Hand Weapon])
+- Claws and Beak ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -2024,6 +2044,10 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1)
 
+- **Tookish Hunters**
+
+Hobbit Archers in Pippin's or Paladin's Warband upgraded to Tookish Hunters re-roll To Wound rolls of a natural 1 when making Shooting Attacks.
+
 </div>
 
 ---
@@ -2051,6 +2075,10 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
 
+- **Battlin' Brandybucks**
+
+Hobbit Militia in Merry's Warband upgraded to Battlin' Brandybucks have Strength 3.
+
 </div>
 
 ---
@@ -2067,7 +2095,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **SPECIAL RULES**
 

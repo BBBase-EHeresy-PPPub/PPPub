@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -139,7 +139,7 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -156,7 +156,15 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 
 - **Commanding Presence** `PASSIVE`
 
-Friendly Khand models treat a Khandish King as a [banner][Banner] with a range of 6".
+Friendly Khand models treat a Khandish King as a [banner] with a range of 6".
+
+- **Khandish Chariot**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 7 | 1 | 3 | 7+ | 7+ |
+
+This is a Horse, Khand, Chariot on a 60mm base. Use the [Chariot rules](../rules_manual/chariots.md). Chariot Charge inflicts 2 Strength 4 Impact Hits. If the Khandish King dismounts, remove the Chariot from play.
 
 </div>
 
@@ -186,6 +194,20 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 **OPTIONS**
 
 - War Camel - 25 points
+
+**SPECIAL RULES**
+
+- **War Camel**
+
+**CAMEL | MAHUD | MOUNT | 40MM**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|
+| 10" | 2 | 6+ | 4 | 4 | 0 | 1 | 8+ | 8+ |
+
+- **Impaler** `ACTIVE`
+
+Each time this model Charges into Combat, it will inflict a single Strength 4 hit upon one model it has Charged (Cavalry models suffer this hit on both the rider and the Mount). If after this hit, this model is no longer Engaged in Combat, they may continue their Move in any way their controlling player wishes; stopping straight away, Charging another enemy model, or anything in between.
 
 </div>
 
@@ -219,7 +241,7 @@ Friendly Khand models treat a Khandish King as a [banner][Banner] with a range o
 
 - **Bone-breakers** `ACTIVE`
 
-This is a Unique [hand weapon][Hand Weapon]. Enemy models with an [Elven weapon][Elven Weapon] Engaged in Combat with, or supporting a model Engaged in Combat with, Razgush do not receive the bonus to the roll-off should the Duel Roll result in a Drawn Combat.
+This is a Unique [hand weapon]. Enemy models with an [Elven weapon] Engaged in Combat with, or supporting a model Engaged in Combat with, Razgush do not receive the bonus to the roll-off should the Duel Roll result in a Drawn Combat.
 
 - **The Beasts of Mirkwood** `PASSIVE`
 
@@ -324,7 +346,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a [banner][Banner] with a range of 6".
+At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a [banner] with a range of 6".
 
 </div>
 
@@ -343,7 +365,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -390,7 +412,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 - The Golden Throne
 
 **HEROIC ACTIONS**
@@ -403,7 +425,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 - **The Golden Throne** `PASSIVE`
 
-This is a Unique [banner][Banner]. The Golden King does not suffer the -1 penalty to his Duel Rolls for carrying a [banner][Banner].
+This is a Unique [banner]. The Golden King does not suffer the -1 penalty to his Duel Rolls for carrying a [banner].
 
 - **Riches Beyond Renown** `ACTIVE`
 
@@ -459,7 +481,7 @@ If the Golden King loses a Duel Roll, he may immediately spend a Will Point to u
 
 - **Armour of the Sundered Land** `PASSIVE`
 
-This is Unique [heavy armour][Heavy Armour]. Additionally, the Knight of Umbar only loses a Will Point for having been in a Combat, as per the [Will of Evil] special rule, if his side loses a Combat during the Fight Phase.
+This is Unique [heavy armour]. Additionally, the Knight of Umbar only loses a Will Point for having been in a Combat, as per the [Will of Evil] special rule, if his side loses a Combat during the Fight Phase.
 
 - **Combat Mimicry** `ACTIVE`
 
@@ -632,7 +654,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -685,7 +707,7 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 - [Armour]
 - [Hand Weapon]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -753,7 +775,7 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 
 - [Armour]
 - [Hand Weapon]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -814,7 +836,7 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -848,7 +870,7 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -912,7 +934,7 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 
 **WARGEAR**
 
-- Hooves ([hand weapon][Hand Weapon])
+- Hooves ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -934,7 +956,7 @@ When a Great Beast Tramples, it will inflict 3 Strength 6 hits.
 
 - **Orc Archers** `PASSIVE`
 
-The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an [Orc bow][Orc Bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
+The Orcs in the Howdah are not treated as separate models, and as such cannot be targeted individually. During the Shoot Phase, the Howdah can make a number of shooting attacks equal to its remaining Wounds, using its own Shoot Value. These shots are treated as being made with an [Orc bow], can still be made if the Great Beast has Moved over half its Move Value, and do not suffer the -1 penalty for Moving and Shooting. Measure the range from the base of the Great Beast, and Line of Sight from the Commander.
 
 ---
 
@@ -1049,7 +1071,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -1156,7 +1178,7 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -1348,7 +1370,7 @@ At the start of any Combat involving Zagdush, before any dice are rolled, Zagdus
 
 - **Morgul Blade** `ACTIVE`
 
-This is a [hand weapon][Hand Weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of the normal [hand weapon][Hand Weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use Strength and Attacks of the rider rather than their Mount.
+This is a [hand weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of the normal [hand weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use Strength and Attacks of the rider rather than their Mount.
 
 - **Automatons** `PASSIVE`
 
@@ -1378,7 +1400,7 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **SPECIAL RULES**
 
@@ -1487,7 +1509,7 @@ Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a na
 
 - **Dunlending War Axe** `ACTIVE`
 
-This can be used as either a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [spear] or a [two-handed] weapon.
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -1519,7 +1541,7 @@ A Dunlending Warrior must have one of the following options for the listed point
 - [Banner] - 25 points
 - [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 </div>
 
@@ -1597,7 +1619,7 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 
 **OPTIONS**
 
-- Exchange [Hand Weapon] for [Two-handed Weapon] - Free
+- Exchange [Hand Weapon] for [Two-handed] Weapon - Free
 
 **SPECIAL RULES**
 
@@ -1621,12 +1643,12 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 - [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
+- Exchange [Hand-and-a-half] Weapon for [Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1653,7 +1675,7 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 - [Hand Weapon]
 - [Bow]
 - [Horse]
@@ -1675,12 +1697,12 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 - [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
+- Exchange [Hand-and-a-half] Weapon for [Bow] - Free
 
 </div>
 
@@ -1807,7 +1829,7 @@ Each time this model Charges into Combat, it will inflict a single Strength 4 hi
 
 - **Run and Drum** `ACTIVE`
 
-The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner]. • Whilst being played, the Moria Blackshield Drum counts as a [banner][Banner] for the purpose of Victory Points.
+The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a [banner]. • Whilst being played, the Moria Blackshield Drum counts as a [banner] for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 
@@ -1873,7 +1895,7 @@ If the Moria Blackshield Drummer or Moria Blackshield Drum Bearer is slain, then
 
 ### WARG MARAUDER [35 POINTS]
 
-A Warg Marauder consists of three Moria Goblin Warriors riding a single Warg Mount. Two of the Warriors have an [Orc bow][Orc Bow], the other has a [shield][Shield]. This is treated as any other Cavalry model with the following exceptions: Whilst the Warrior with shield remains alive, all parts of the Cavalry model gain the +1 Defence bonus. The Warg Marauder only counts as a single model towards an Army's Bow Limit. If one Moria Goblin Warrior wishes to dismount, then they must all do so together.
+A Warg Marauder consists of three Moria Goblin Warriors riding a single Warg Mount. Two of the Warriors have an [Orc bow], the other has a [shield]. This is treated as any other Cavalry model with the following exceptions: Whilst the Warrior with shield remains alive, all parts of the Cavalry model gain the +1 Defence bonus. The Warg Marauder only counts as a single model towards an Army's Bow Limit. If one Moria Goblin Warrior wishes to dismount, then they must all do so together.
 
 **Moria Goblin Warrior**
 
@@ -1895,7 +1917,7 @@ A Warg Marauder consists of three Moria Goblin Warriors riding a single Warg Mou
 
 - **On the Hunt** `ACTIVE`
 
-During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an [Orc bow][Orc Bow] for each Moria Goblin Warrior with an [Orc bow][Orc Bow] still alive upon the [Warg]. These shooting attacks can still be made even if the [Warg] Marauder has Moved further than half its Move Value that turn, and even if it is Engaged in Combat.
+During the Shoot Phase, a [Warg] Marauder can make a shooting attack with an [Orc bow] for each Moria Goblin Warrior with an [Orc bow] still alive upon the [Warg]. These shooting attacks can still be made even if the [Warg] Marauder has Moved further than half its Move Value that turn, and even if it is Engaged in Combat.
 
 - **Lethal Union** `ACTIVE`
 

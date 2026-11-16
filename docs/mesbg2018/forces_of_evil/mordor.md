@@ -53,7 +53,7 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed] [Flail] - 5 points
+- [Two-Handed][] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -184,7 +184,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Sword].
+- [Hand-and-a-half][] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -234,12 +234,12 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 **SPECIAL RULES**
 
-- Elfbane
+- [Elfbane][Bane Weapons]
 - [Hatred] (Elf)
 
 - **Bone-breaker** `ACTIVE`
 
-This is a [mace][Mace], and enemy models do not receive any bonus from [Elven-made] weapons when fighting against Razgush.
+This is a [mace], and enemy models do not receive any bonus from [Elven-made] weapons when fighting against Razgush.
 
 - **The Beasts of Mirkwood** `PASSIVE`
 
@@ -349,7 +349,7 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of a fight phase, he may choose to spend one point of Will to turn himself into a [banner][Banner] for all friendly Warrior models within 6", for the rest of that turn.
+At the start of a fight phase, he may choose to spend one point of Will to turn himself into a [banner] for all friendly Warrior models within 6", for the rest of that turn.
 
 </div>
 
@@ -368,7 +368,7 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Sword]
+- [Two-handed][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -643,8 +643,8 @@ The Undying may spend Will points for Fate rolls.
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -676,7 +676,7 @@ The Undying may spend Will points for Fate rolls.
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -735,7 +735,7 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -852,7 +852,7 @@ Models within the Howdah do not count towards your Bow Limit.
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][Two-Handed] [Pick]
+- [Two-handed][] [Pick]
 - [Sword]
 
 **HEROIC ACTIONS**
@@ -931,8 +931,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -960,7 +960,7 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -994,8 +994,8 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -1064,7 +1064,7 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 - [Warg] - 10 points
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -1092,7 +1092,7 @@ Muzgur regains one Will Point each time he slays an enemy model in combat.
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -1143,7 +1143,7 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -1210,7 +1210,7 @@ When Shagrat charges, he gains the Knock to Ground bonus as if he were a Calvary
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -1257,7 +1257,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 **OPTIONS**
 
 - [Warg] - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -1281,7 +1281,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -1305,7 +1305,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -1323,7 +1323,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 
 **WARGEAR**
 
-- Large Venomous Fangs
+- [Large Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -1359,7 +1359,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -1392,7 +1392,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 **OPTIONS**
 
 - <span style="color: darkmagenta">Swap [Shield] for [Banner] - 25 points</span>
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1418,7 +1418,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1440,7 +1440,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -1462,13 +1462,17 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
 - [Swift Movement]
 - [Terror]
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -1486,7 +1490,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -1497,6 +1501,10 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -1522,7 +1530,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1541,12 +1549,12 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Hammer]
+- [Hand-and-a-half][] [Hammer]
 
 **OPTIONS**
 
 - [War Drum] (Mordor) - 30 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1577,8 +1585,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-Handed] [Mace] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Mace] - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1606,7 +1614,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1633,7 +1641,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1661,7 +1669,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 **OPTIONS**
 
 - [Warg] - 7 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1688,8 +1696,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
-- Swap Weapon - 1 point
+- [Two-handed] Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1716,8 +1724,8 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
-- Swap Weapon - 1 point
+- [Throwing] Spears - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -1747,7 +1755,7 @@ Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Vet
 
 - Orc [Engineer Captain] - 40 points
 - [Flaming Ammunition] - 15 points
-- Additional Crew - 5 points
+- [Additional Crew] - 5 points
 - [Engineer Captain] - Orc [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -1794,7 +1802,7 @@ Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Vet
 - Orc [Engineer Captain] - 40 points
 - [Flaming Ammunition] - 15 points
 - [Severed Heads] - 5 points
-- Additional Crew - 5 points
+- [Additional Crew] - 5 points
 - [Engineer Captain] - Orc [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -1812,6 +1820,6 @@ Always fires using Volley Fire, with range 12" - 96".
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick] the highest.
 
 </div>

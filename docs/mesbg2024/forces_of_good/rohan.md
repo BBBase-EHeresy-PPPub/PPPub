@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 - [Hand Weapon]
 - The Horn of the Hammerhand
 
@@ -38,7 +38,7 @@ This is a Unique [war horn]. Additionally, once per game at the start of any Mov
 
 - **The Hammerhand** `ACTIVE`
 
-Helm is never considered to be [Unarmed][Unarmed]; ever.
+Helm is never considered to be [Unarmed]; ever.
 
 - **Into the Fray** `ACTIVE`
 
@@ -83,7 +83,7 @@ This is a Unique [war horn]. Additionally, once per game at the start of any Mov
 
 - **The Hammerhand** `ACTIVE`
 
-Helm is never considered to be [Unarmed][Unarmed]; ever.
+Helm is never considered to be [Unarmed]; ever.
 
 - **No Longer a Leader** `ACTIVE`
 
@@ -230,7 +230,7 @@ Whilst mounted on Snowmane, Théoden may re-roll any failed Courage Tests to Cha
 - Firefoot - 20 points
 - Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
-- <span style="color: darkmagenta">[Throwing] [Spears][Spear] - 5 points</span>
+- <span style="color: darkmagenta">[Throwing] Spears - 5 points</span>
 
 **SPECIAL RULES**
 
@@ -245,6 +245,14 @@ This is a Unique [hand weapon]. Additionally, each time a model armed with Gúth
 - **The Price of Grief** `ACTIVE`
 
 If Théoden or Éowyn are in the same Army as Éomer, and either (or both) are removed as a casualty, then for the remainder of the game Éomer must re-roll all failed To Wound Rolls when making Strikes. Additionally, for the remainder of the game, when Éomer Moves he must Charge an enemy model if possible.
+
+- **Firefoot**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 12" | 2 | 6+ | 3 | 4 | 0 | 1 | 7+ | 7+ |
+
+Firefoot is a Mount on a 40mm base. If equipped with armour, increase Defence to 5.
 
 </div>
 
@@ -315,7 +323,7 @@ Any Warriors of Rohan included in Fréaláf's Warband are automatically upgraded
 **OPTIONS**
 
 - [Armoured Horse] - 25 points
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -403,6 +411,14 @@ Háma may spend a Will Point at the start of any Fight Phase to use this ability
 - **Reckless Charge** `ACTIVE`
 
 When Théodred Moves, he must always Charge an enemy model if possible. Additionally, in a turn in which Théodred Charges he must re-roll any failed To Wound Rolls when making Strikes.
+
+- **Brego**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 4 | 0 | 1 | 6+ | 6+ |
+
+Brego is a Mount on a 40mm base. **Sure-footed Steed:** If the rider would be knocked Prone and Brego survives the effect, roll a D6 before Brego becomes a Separated Mount. On a 6, the rider remains mounted and is not knocked Prone. The rider may use Might to modify this roll.
 
 </div>
 
@@ -497,7 +513,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Théoden is Engage
 - [Armour]
 - [Hand Weapon]
 - [Shield]
-- [Throwing] [Spears][Spear]
+- [Throwing] Spears
 
 **HEROIC ACTIONS**
 
@@ -516,7 +532,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Théoden is Engage
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [throwing] [spears][Spear]. Additionally, when [throwing] his [throwing] [spears][Spear], Elfhelm may re-roll any failed To Hit, To Wound or In The Way Rolls when making that shooting attack.
+Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [throwing] spears. Additionally, when [throwing] his [throwing] spears, Elfhelm may re-roll any failed To Hit, To Wound or In The Way Rolls when making that shooting attack.
 
 </div>
 
@@ -548,7 +564,7 @@ Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [thr
 - [Horse] - 20 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -561,7 +577,7 @@ Whilst within 3" of Théoden, Éowyn may re-roll To Wound Rolls of a natural 1 w
 
 - **Merry** `PASSIVE`
 
-If Éowyn is upgraded to take Merry, then Merry will be treated as a Passenger on Éowyn's [horse][Horse]. Merry uses the Meriadoc Brandybuck, Esquire of Rohan profile, has a [shield][Shield], and will always count as an Independent Hero in this instance. Merry will still count towards the Army's total number of models and Break Point, though will not take up a space in Éowyn's Warband. Whilst Merry is mounted on Éowyn's [horse][Horse], Éowyn gains the [Resistant to Magic] special rule, increases her Attacks characteristic to 3, and can spend Merry's Might, Will and Fate Points as if they were her own.
+If Éowyn is upgraded to take Merry, then Merry will be treated as a Passenger on Éowyn's [horse]. Merry uses the Meriadoc Brandybuck, Esquire of Rohan profile, has a [shield], and will always count as an Independent Hero in this instance. Merry will still count towards the Army's total number of models and Break Point, though will not take up a space in Éowyn's Warband. Whilst Merry is mounted on Éowyn's [horse], Éowyn gains the [Resistant to Magic] special rule, increases her Attacks characteristic to 3, and can spend Merry's Might, Will and Fate Points as if they were her own.
 
 </div>
 
@@ -677,6 +693,14 @@ Héra may ignore the [Stalk Unseen] special rule of enemy models, and may theref
 - **Daughter of Rohan** `PASSIVE`
 
 If Héra is involved in a Combat where there is only a single model on each side, and neither model is Supported, then Héra increases her Attacks characteristic to 3 and may re-roll To Wound Rolls of a natural 1 when making Strikes.
+
+- **Ashere**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 2 | 6+ | 3 | 4 | 0 | 1 | 7+ | 7+ |
+
+Ashere is a Rohan Mount on a 40mm base. **Swift Gallop:** When Hera Activates while mounted on Ashere, she may increase Ashere's Move to 12" and give Ashere [Woodland Creature] until the end of that Activation; Hera cannot Charge during this Move.
 
 </div>
 
@@ -892,7 +916,7 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 **OPTIONS**
 
 - [Banner] - 25 points
-- [Throwing] [Spears][Spear] - 2 points
+- [Throwing] Spears - 2 points
 - Westfold Redshield - 1 point
 
 **SPECIAL RULES**
@@ -905,7 +929,11 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, then
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+
+- **Westfold Redshield**
+
+Riders of Rohan in Erkenbrand's Warband upgraded to Westfold Redshields treat Erkenbrand as a [banner].
 
 </div>
 
@@ -929,9 +957,9 @@ This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] dur
 
 **OPTIONS**
 
-- [Horse] and [Throwing] [Spears][Spear] - 7 points
+- [Horse] and [Throwing] Spears - 7 points
 - [Horse] - 5 points
-- [Throwing] [Spears][Spear] - 2 points
+- [Throwing] Spears - 2 points
 
 **SPECIAL RULES**
 
@@ -944,7 +972,7 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, then
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 
@@ -969,9 +997,9 @@ This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] dur
 
 A Warrior of Rohan must have one of the following options for the listed points cost:
 
-- [War Horn], [Shield], [Throwing] [Spears][Spear] - 28 points
+- [War Horn], [Shield], [Throwing] Spears - 28 points
 - [Banner] - 25 points
-- [Shield] and [Throwing] [Spears][Spear] - 3 points
+- [Shield] and [Throwing] Spears - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 - Helmingas - 1 point
@@ -980,7 +1008,11 @@ A Warrior of Rohan must have one of the following options for the listed points 
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] [spears][Spear] as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+
+- **Helmingas**
+
+Warriors of Rohan in Grimbold's Warband may be upgraded to Helmingas. Helmingas have Strength 4 instead of 3.
 
 </div>
 

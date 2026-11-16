@@ -20,7 +20,7 @@ This army may include: Gwaihir; Great Eagle.
 
 **WARGEAR**
 
-- Claws and Beak
+- [Claws and Beak][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -56,7 +56,7 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 
 **WARGEAR**
 
-- Claws and Beak
+- [Claws and Beak][Single-handed Weapons]
 
 **SPECIAL RULES**
 

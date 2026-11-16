@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Hand Weapon]
-- [Throwing Weapons]
+- [Throwing] Weapons
 - Smoke Bombs
 
 **HEROIC ACTIONS**
@@ -27,7 +27,7 @@
 
 - **Smoke Bombs** `ACTIVE`
 
-These are [throwing weapons][Throwing Weapons] with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a Will Point or suffer the effects of the [Transfix] Magical Power and have their Fight Value halved until the End Phase of the turn. Should Dalamyr ever roll a 1 To Hit with his Smoke Bombs then his supply has run out and he cannot use them for the remainder of the game.
+These are [throwing] weapons with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a Will Point or suffer the effects of the [Transfix] Magical Power and have their Fight Value halved until the End Phase of the turn. Should Dalamyr ever roll a 1 To Hit with his Smoke Bombs then his supply has run out and he cannot use them for the remainder of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -64,11 +64,11 @@ Dalamyr can never count as Trapped whilst still standing.
 
 - **Long-bladed Spear** `ACTIVE`
 
-This weapon can either be used as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon].
+This weapon can either be used as a [spear] or a [two-handed] weapon.
 
 - **Imposing Presence** `PASSIVE`
 
-Whilst atop his Royal War Mûmak, the first time each turn an enemy model within 12" of the Mûmak War Leader declares a [Heroic Move][Heroic Move], roll a D6. On a 4+, the [Heroic Move][Heroic Move] is cancelled and the Might Point spent is lost. Measure this range from the base of the Royal War Mûmak.
+Whilst atop his Royal War Mûmak, the first time each turn an enemy model within 12" of the Mûmak War Leader declares a [Heroic Move], roll a D6. On a 4+, the [Heroic Move] is cancelled and the Might Point spent is lost. Measure this range from the base of the Royal War Mûmak.
 
 - **High King of the South** `PASSIVE`
 
@@ -104,7 +104,7 @@ The Royal War Mûmak and any models in the Howdah gain the [Resistant to Magic] 
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly models treat this model as a [banner][Banner] with a range of 6".
+Friendly models treat this model as a [banner] with a range of 6".
 
 **Howdah**
 
@@ -191,7 +191,7 @@ The range of Suladân's [Stand Fast] is 12" rather than 6".
 
 - **The Emperor's Glaive** `ACTIVE`
 
-This is a Unique Elven [spear][Spear]. Additionally, the Dragon Emperor may use it to use the [Shielding] rule even though he does not have a [shield][Shield]. The Dragon Emperor cannot Support whilst mounted upon his Royal Palanquin.
+This is a Unique Elven [spear]. Additionally, the Dragon Emperor may use it to use the [Shielding] rule even though he does not have a [shield]. The Dragon Emperor cannot Support whilst mounted upon his Royal Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -203,7 +203,7 @@ This is a Unique piece of wargear which grants the Dragon Emperor the [Resistant
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 ---
 
@@ -225,7 +225,7 @@ Unlike a normal Mount, the Dragon Emperor does not use any of the characteristic
 
 - **Standards of the Emperor** `PASSIVE`
 
-The Royal Palanquin is a [banner][Banner] with a range of 6". As these banners are attached to the Royal Palanquin, the Dragon Emperor never suffers the -1 penalty to his Duel Rolls for carrying a [banner][Banner].
+The Royal Palanquin is a [banner] with a range of 6". As these banners are attached to the Royal Palanquin, the Dragon Emperor never suffers the -1 penalty to his Duel Rolls for carrying a [banner].
 
 - **In the Name of the Dragon Emperor** `PASSIVE`
 
@@ -241,11 +241,11 @@ Whilst the Palanquin has 3 or more Wounds remaining it will Move as normal. If i
 
 When the Palanquin is hit by a shooting attack, the shooter must take an In The Way Test to see if the Dragon Emperor or the Palanquin itself are hit. However, for this In The Way Test a roll of a 1-4 will hit the Royal Palanquin and a 5+ will hit the Dragon Emperor. A model with the [Sharpshooter] special rule may still target either rider or Mount as normal.
 
-The Palanquin is always treated as a single Mount, rather than multiple single models. If the Dragon Emperor dismounts from the Palanquin, or is slain whilst riding the Palanquin, then replace the Palanquin with a number of Black Dragon Warriors with [shield][Shield] equal to the number of Wounds the Palanquin currently has remaining - they do not need to take Courage Tests as a result of being a Separated Mount. These models should be placed within the footprint of the Palanquin.
+The Palanquin is always treated as a single Mount, rather than multiple single models. If the Dragon Emperor dismounts from the Palanquin, or is slain whilst riding the Palanquin, then replace the Palanquin with a number of Black Dragon Warriors with [shield] equal to the number of Wounds the Palanquin currently has remaining - they do not need to take Courage Tests as a result of being a Separated Mount. These models should be placed within the footprint of the Palanquin.
 
-The Royal Palanquin cannot be knocked Prone for any reason, with the exception of if it is hit by the [Direct Hit] of a Siege Engine.
+The Royal Palanquin cannot be knocked Prone for any reason, with the exception of if it is hit by the [Direct Hit](../rules_manual/siege_engines.md#scatter-table) of a Siege Engine.
 
-The Royal Palanquin, and any model riding it, cannot be affected by the [Hurl] or [Barge] Brutal Power Attacks and cannot be forced back by Magical Powers (such as [Call Winds]) or by being flung back by the effects of a Siege Engine.
+The Royal Palanquin, and any model riding it, cannot be affected by the [Hurl](../rules_manual/monsters.md#hurl-76) or [Barge](../rules_manual/monsters.md#barge) Brutal Power Attacks and cannot be forced back by Magical Powers (such as [Call Winds]) or by being flung back by the effects of a Siege Engine.
 
 The Royal Palanquin has the [Dominant] (X) special rule, where X is the number of Wounds it has remaining.
 
@@ -288,19 +288,19 @@ Whenever an enemy Hero model Engaged in Combat with Amdûr declares a [Heroic St
 
 - **Herald of Victory** `PASSIVE`
 
-Friendly Easterling models treat Amdûr as a [banner][Banner]. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a [banner][Banner] with a range of 6".
+Friendly Easterling models treat Amdûr as a [banner]. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a [banner] with a range of 6".
 
 - **Durtuz, the Silver Falchion** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+This is a Unique Elven [hand-and-a-half] weapon. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield] will still benefit from this special rule.
 
 </div>
 
@@ -321,7 +321,7 @@ This model gains the [Shieldwall] special rule whilst they have the Cavalry keyw
 - [Armour]
 - [Hand Weapon]
 - [Whip]
-- [Throwing Weapons]
+- [Throwing] Weapons
 
 **HEROIC ACTIONS**
 
@@ -365,7 +365,7 @@ Friendly Corsair Warrior models within 3" of Delgamar may choose to re-roll a si
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **Show No Mercy** `ACTIVE`
 
@@ -411,7 +411,7 @@ Each time Brôrgîr rolls one or more natural 6s when making a Casting Test, he 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike] or a [two-handed] weapon.
 
 </div>
 
@@ -432,7 +432,7 @@ This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed We
 - [Light Armour]
 - [Hand Weapon]
 - [Spear]
-- [Throwing Weapons]
+- [Throwing] Weapons
 
 **HEROIC ACTIONS**
 
@@ -446,7 +446,7 @@ This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed We
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
+Friendly Corsair models treat a Corsair Bo’sun as a [banner].
 
 </div>
 
@@ -466,8 +466,8 @@ Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
 
 - [Light Armour]
 - [Hand Weapon]
-- [Two-handed Weapon]
-- [Throwing Weapons]
+- [Two-handed] Weapon
+- [Throwing] Weapons
 
 **HEROIC ACTIONS**
 
@@ -475,7 +475,7 @@ Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
 
 **OPTIONS**
 
-- Exchange [Two-handed Weapon] for [Crossbow] - Free
+- Exchange [Two-handed] Weapon for [Crossbow] - Free
 
 </div>
 
@@ -506,11 +506,11 @@ Friendly Corsair models treat a Corsair Bo’sun as a [banner][Banner].
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield] will still benefit from this special rule.
 
 </div>
 
@@ -551,7 +551,7 @@ This model gains the [Shieldwall] special rule whilst they have the Cavalry keyw
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike] or a [two-handed] weapon.
 
 </div>
 
@@ -632,7 +632,7 @@ Whenever a friendly Hero model within 6" declares a [Heroic Move], Heroic March 
 **WARGEAR**
 
 - [Hand Weapons][Hand Weapon]
-- [Throwing Weapons]
+- [Throwing] Weapons
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -725,7 +725,7 @@ When a Mûmak Tramples, it will inflict 3 Strength 9 Impact Hits.
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly models treat this model as a [banner][Banner] with a range of 6".
+Friendly models treat this model as a [banner] with a range of 6".
 
 **Howdah**
 
@@ -774,6 +774,30 @@ Friendly models treat this model as a [banner][Banner] with a range of 6".
 
 The Haradrim Commander is replaced by a Mahûd Beastmaster Chieftain, which is placed on the forked wooden platform at the front of the Howdah.
 
+- **Gnarled Hide** `PASSIVE`
+
+The Mumak has a Defence of 8 rather than 7.
+
+- **Rocks** `ACTIVE`
+
+If they do not Move in their Activation, models in the Howdah can make a shooting attack with range 8" and Strength 6 instead of using a different shooting attack.
+
+- **Sigils of Defiance** `PASSIVE`
+
+The Mumak and any models in the Howdah gain the     Resistant to Magic, and whenever they suffer a Wound they may roll a D6. On a natural 6, the Wound is prevented.
+
+- **Tusk Weapons** `ACTIVE`
+
+When the Mumak Tramples, it will Inflict 4 Strength 9 Impact Hits rather than 3.
+
+- **Foul Temperament** `PASSIVE`
+
+The Mumak has 4 Attacks, but suffers a -1 penalty to its Courage Tests when seeing if it will Stampede.
+
+- **Rappelling Lines** `PASSIVE`
+
+Models in the Howdah may attempt to dismount during their Activation by rolling a D6. On a 2+, the model dismounts and is placed in base contact with the Mumak. However, on a 1 the model suffers Falling Damage - if it survives, place it in base contact with the Mumak. A model that        successfully dismounts may then continue its  Activation as normal, even Charging if it    wishes, though may not make a shooting    attack that turn.
+
 </div>
 
 ---
@@ -812,11 +836,11 @@ A Dragon Knight may use the [Shielding] rule even though they do not have a shie
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield] will still benefit from this special rule.
 
 - **Leader of the Dragon Cult** `PASSIVE`
 
@@ -851,11 +875,11 @@ This model may only include Black Dragon Warrior models in their Warband.
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike] or a [two-handed] weapon.
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **Warriors of the Dragon Cult** `PASSIVE`
 
@@ -885,7 +909,7 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 - **Pavise** `PASSIVE`
 
-This is a [shield][Shield] that provides the bearer +3 Defence rather than +1. However, a model with a Pavise cannot gain this bonus to their Defence whilst Engaged in Combat.
+This is a [shield] that provides the bearer +3 Defence rather than +1. However, a model with a Pavise cannot gain this bonus to their Defence whilst Engaged in Combat.
 
 </div>
 
@@ -911,7 +935,7 @@ This is a [shield][Shield] that provides the bearer +3 Defence rather than +1. H
 A Corsair of Umbar must have one of the following options for the listed points cost:
 
 - [Bow] - 1 point
-- [Light Shield] and [Throwing Weapons] - 1 point
+- [Light Shield] and [Throwing] Weapons - 1 point
 - [Spear] - 1 point
 
 </div>
@@ -931,7 +955,7 @@ A Corsair of Umbar must have one of the following options for the listed points 
 **WARGEAR**
 
 - [Armour]
-- [Throwing Weapons]
+- [Throwing] Weapons
 - [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
@@ -980,11 +1004,11 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield][Shield] will still benefit from this special rule.
+This model gains the [Shieldwall] special rule whilst they have the Cavalry keyword, and may still benefit from the special rule whilst mounted. The bonus of +1 Defence is applied to both rider and Mount. Hero models with this special rule that do not have a [shield] will still benefit from this special rule.
 
 </div>
 

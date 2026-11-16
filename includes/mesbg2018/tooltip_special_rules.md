@@ -1,9 +1,8 @@
 [Ancient Enemies]: ../rules_manual/special_rules.md#ancient-enemies-x
 [Ancient Evil]: ../rules_manual/special_rules.md#ancient-evil
 [Backstabbers]: ../rules_manual/special_rules.md#backstabbers
-[Bane of Kings/Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Bane of Kings]: ../rules_manual/special_rules.md#bane-of-kingsvenom
-[Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
+[Bane of Kings/Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Bane Weapons]: ../rules_manual/special_rules.md#bane-weapons
 [Blades of the Dead]: ../rules_manual/special_rules.md#blades-of-the-dead
 [Blood and Glory]: ../rules_manual/special_rules.md#blood-and-glory
@@ -29,12 +28,13 @@
 [Set Ablaze]: ../rules_manual/special_rules.md#set-ablaze
 [Shieldwall]: ../rules_manual/special_rules.md#shieldwall
 [Stalk Unseen]: ../rules_manual/special_rules.md#stalk-unseen
+[Stand Fast!]: ../rules_manual/courage.md#stand-fast
 [Survival Instinct]: ../rules_manual/special_rules.md#survival-instinct
 [Swift Movement]: ../rules_manual/special_rules.md#swift-movement
 [Sworn Protector]: ../rules_manual/special_rules.md#sworn-protector
 [Terror]: ../rules_manual/special_rules.md#terror
 [Throw Stones]: ../rules_manual/special_rules.md#throw-stones
 [Unyielding Combat Stance]: ../rules_manual/special_rules.md#unyielding-combat-stance
+[Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Will of Evil]: ../rules_manual/special_rules.md#will-of-evil
 [Woodland Creature]: ../rules_manual/special_rules.md#woodland-creature
-[Stand Fast!]: ../rules_manual/courage.md#stand-fast

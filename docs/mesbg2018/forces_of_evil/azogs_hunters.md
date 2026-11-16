@@ -40,7 +40,7 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed][Two-Handed] [flail][Flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][] [flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
@@ -49,6 +49,35 @@ This army may include: Azog; Bolg; Fimbul the Hunter; Hunter Orc Captain; Narzug
 - **I am the Master** `ACTIVE`
 
 Never requires more than 3+ for To Wound against Hero models.
+
+**The White Warg**
+
+**WARG, INFANTRY, HERO**
+
+| Mv | F | S | D | A | W | C |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10" | 5/5+ | 5 | 5 | 2 | 2 | 4 |
+
+**WARGEAR**
+
+- [Claws and teeth][Single-handed Weapons]
+
+**SPECIAL RULES**
+
+- [Fell Sight]
+- [Terror]
+
+- **Deadly Union** `PASSIVE`
+
+If Azog is mounted upon the White Warg, both models can share each other's Might, Will and Fate points.
+
+- **Pack Master** `PASSIVE`
+
+Once separated from Azog, only Warg models may use the White Warg's [Stand Fast!] and benefit from its Heroic Actions.
+
+- **Raging Beast** `PASSIVE`
+
+When Azog dismounts, the White Warg automatically passes its Courage test to stay and fight, and will pass all Courage tests for the rest of the battle.
 
 </div>
 
@@ -67,7 +96,7 @@ Never requires more than 3+ for To Wound against Hero models.
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][Two-Handed] [Pick]
+- [Two-handed][] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -144,7 +173,7 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -154,8 +183,8 @@ When mounted, Fimbul ignores the penalties suffered by Cavalry models trying to 
 
 - [Fell Warg] - 10 points
 - Orc [Bow] - 5 points
-- [Two-Handed] [Pick] - 5 points
-- Swap Weapon - 5 points
+- [Two-Handed][] [Pick] - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -197,7 +226,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 - **Lethal Aim** `ACTIVE`
 
-Each turn, Narzug gets a free point of Might (even with no Might remaining) to modify either a To Hit, In The Way, or To Wound roll when shooting with his Orc [bow][Bow].
+Each turn, Narzug gets a free point of Might (even with no Might remaining) to modify either a To Hit, In The Way, or To Wound roll when shooting with his Orc [bow].
 
 - **Morgul Arrows** `PASSIVE`
 
@@ -220,7 +249,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -257,7 +286,7 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -280,7 +309,7 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **OPTIONS**
 
@@ -288,8 +317,8 @@ If your army contains both Azog and Yazneg, and the two are in base contact at t
 - [Banner] - 25 points
 - [Fell Warg] - 8 points
 - Orc [Bow] - 1 point
-- [Two-Handed] [Pick] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Pick] - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

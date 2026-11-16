@@ -21,7 +21,7 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][Two-Handed] [Sword]
+- [Two-handed][] [Sword]
 - The Horn of the Hammerhand
 
 **HEROIC ACTIONS**
@@ -52,7 +52,7 @@ Rohan Warrior models within 6" gain +1 Fight value.
 
 - **The Hammerhand** `PASSIVE`
 
-May choose to use his fists instead of his [sword][Sword], in which case he may use Bash special strike, and never counts as [unarmed][Unarmed].
+May choose to use his fists instead of his [sword], in which case he may use Bash special strike, and never counts as [unarmed].
 
 </div>
 
@@ -131,7 +131,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - [Shield] - 5 points
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -161,7 +161,7 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 - [Heavy Armour]
 - [Sword]
 - [Shield]
-- [Throwing] [Spears][Spear]
+- [Throwing] Spears
 - Felarof
 
 **HEROIC ACTIONS**
@@ -179,6 +179,10 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 - **Legendary Hero** `PASSIVE`
 
 The first time each turn that Eorl the Young spends a Might point, roll a D6. On a 4+, the point of Might is free.
+
+- **Felarof**
+
+Felarof is an [armoured horse] with a Move Value of 12".
 
 </div>
 
@@ -208,7 +212,7 @@ The first time each turn that Eorl the Young spends a Might point, roll a D6. On
 
 - [Horse] - 10 points
 - [Shield] - 5 points
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -248,8 +252,8 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 - [Bow] - 5 points
 - [Heavy Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] [Spears][Spear] - 5 points
-- Swap Weapon - 5 points
+- [Throwing] Spears - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -258,7 +262,7 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 
 - **Arise Riders of Theoden!** `ACTIVE`
 
-If within 12" of Theoden, and riding a [horse][Horse], this model receives +1 bonus to their Fight value on a turn in which they Charge.
+If within 12" of Theoden, and riding a [horse], this model receives +1 bonus to their Fight value on a turn in which they Charge.
 
 </div>
 
@@ -318,7 +322,7 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 - [Armour]
 - [Sword]
 - [Shield]
-- [Throwing] [Spears][Spear]
+- [Throwing] Spears
 
 **HEROIC ACTIONS**
 
@@ -336,7 +340,7 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [spear][Spear], and never suffers the -1 penalty when moving and shooting with a throwing [spear][Spear].
+Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [spear], and never suffers the -1 penalty when moving and shooting with a throwing [spear].
 
 </div>
 
@@ -375,7 +379,7 @@ Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [
 
 - **The Horn of the Hammerhand** `ACTIVE`
 
-This is a [war horn][War Horn] that adds +2 Courage rather than +1, but only affects friendly Rohan models.
+This is a [war horn] that adds +2 Courage rather than +1, but only affects friendly Rohan models.
 
 </div>
 
@@ -414,7 +418,7 @@ This is a [war horn][War Horn] that adds +2 Courage rather than +1, but only aff
 
 - **Royal Standard of Rohan** `PASSIVE`
 
-As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might left and within 3" may regain 1 Might point.~~ <span style="color: darkmagenta">a single Rohan Hero model within 3" of the Royal Standard of Rohan at the start of the turn, that has no Might remaining, may automatically add 1 point of Might to their store.</span> Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this [banner][Banner].
+As well as being a [banner], ~~a single Rohan Hero model with no Might left and within 3" may regain 1 Might point.~~ <span style="color: darkmagenta">a single Rohan Hero model within 3" of the Royal Standard of Rohan at the start of the turn, that has no Might remaining, may automatically add 1 point of Might to their store.</span> Cannot regain Might beyond a Hero's starting level. Gamling suffers no penalties for carrying this [banner].
 
 </div>
 
@@ -433,7 +437,7 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -506,7 +510,7 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 
 **OPTIONS**
 
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -542,7 +546,7 @@ As well as being a [banner][Banner], ~~a single Rohan Hero model with no Might l
 - [Horse] - 10 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] [Spears][Spear] - 5 points
+- [Throwing] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -571,7 +575,7 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 
 - [Armour]
 - [Sword]
-- Longbow
+- [Longbow]
 
 **HEROIC ACTIONS**
 
@@ -579,7 +583,7 @@ If Theoden is slain, Eowyn must move towards the spot where he died if she can. 
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -613,7 +617,7 @@ Aldor must always shoot first in the Shoot phase, even before Heroic Shoots are 
 
 - **Lucky Shot** `ACTIVE`
 
-Aldor must re-roll failed To Hit and To Wound rolls with his [bow][Bow].
+Aldor must re-roll failed To Hit and To Wound rolls with his [bow].
 
 </div>
 
@@ -711,9 +715,9 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- [Throwing] [Spears][Spear] - 2 points
+- [Throwing] Spears - 2 points
 - Westfold Redshield Upgrade - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -721,7 +725,11 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 - **Arise, Riders of Theoden!** `ACTIVE`
 
-If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
+If this model is within 12" of Theoden and on a [horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
+
+- **Westfold Redshield Upgrade**
+
+Riders of Rohan in Erkenbrand's Warband may be upgraded to Westfold Redshields. Westfold Redshields count as being in range of a [banner] while Erkenbrand is within 3".
 
 </div>
 
@@ -746,7 +754,7 @@ If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 b
 **OPTIONS**
 
 - [Horse] - 5 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -780,8 +788,8 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 - [Banner] - 25 points
 - [Horse] - 5 points
-- [Throwing] [Spears][Spear] - 2 points
-- Swap Weapon - 1 point
+- [Throwing] Spears - 2 points
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -790,7 +798,7 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 - **Arise, Riders of Theoden!** `ACTIVE`
 
-If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
+If this model is within 12" of Theoden and on a [horse], it receives +1 bonus to it's fight value on a turn in which they Charge.
 
 </div>
 
@@ -815,7 +823,7 @@ If this model is within 12" of Theoden and on a [horse][Horse], it receives +1 b
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -841,17 +849,23 @@ Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
 
 **WARGEAR**
 
-- Amour
+- [Armour]
 - [Sword] or [Axe]
 
 **OPTIONS**
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- [Throwing] [Spears][Spear] - 2 points
+- [Throwing] Spears - 2 points
 - [Shield] - 1 point
 - Helminga Upgrade - 1 point
 - [Bow] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
+
+**SPECIAL RULES**
+
+- **Helminga Upgrade**
+
+If the army includes Grimbold, Warriors of Rohan may be upgraded to Helmingas. Helmingas have Strength 4 instead of 3.
 
 </div>

@@ -20,7 +20,7 @@
 
 ## ADDITIONAL RULES
 
-- "[Shield] Throw" -" Once per game, Lurtz can choose to use his [shield][Shield] as a [throwing weapon][Throwing Weapon]. This has a Strength of 4, and any Man-sized (or smaller) model hit by the [shield][Shield] is automatically knocked Prone. Once Lurtz has thrown his [shield][Shield] he no longer carries it and cannot use it for the remainder of the battle. Note that even though he no longer has a [shield][Shield], Lurtz's Defence will not be reduced.
+- "[Shield] Throw" -" Once per game, Lurtz can choose to use his [shield] as a [throwing] weapon. This has a Strength of 4, and any Man-sized (or smaller) model hit by the [shield] is automatically knocked Prone. Once Lurtz has thrown his [shield] he no longer carries it and cannot use it for the remainder of the battle. Note that even though he no longer has a [shield], Lurtz's Defence will not be reduced.
 
 ## SPECIAL RULES
 

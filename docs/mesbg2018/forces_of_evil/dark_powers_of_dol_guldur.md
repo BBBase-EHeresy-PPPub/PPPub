@@ -44,7 +44,7 @@ This army may include: The Necromancer of Dol Guldur; Khamul the Easterling; The
 - [Terror]
 - [Will of Evil]
 
-- ***He cannot yet take Physical Form** `PASSIVE`
+- **He cannot yet take Physical Form** `PASSIVE`
 
 The Necromancer may use Will points as Fate points.
 
@@ -73,7 +73,7 @@ Any Nazgul of Dol Guldur in your army gain +1 bonus to rolls for their Unholy Re
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -117,7 +117,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -161,7 +161,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -262,7 +262,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 - **Trident Spear** `ACTIVE`
 
-This is a [spear][Spear], and the Forsaken must re-roll failed To Wound rolls.
+This is a [spear], and the Forsaken must re-roll failed To Wound rolls.
 
 - **One of Nine** `PASSIVE`
 
@@ -337,7 +337,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -350,7 +350,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 - **Spiritual Displacement** `ACTIVE`
 
-You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed weapon][Two-handed Weapon].
+You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed] weapon.
 
 - **One of Nine** `PASSIVE`
 
@@ -381,7 +381,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -394,7 +394,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 - **Spiritual Displacement** `ACTIVE`
 
-You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed weapon][Two-handed Weapon].
+You may have up to two Slayers of Men. This model never suffers the -1 penalty for wielding a [two-handed] weapon.
 
 - **One of Nine** `PASSIVE`
 
@@ -478,7 +478,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **OPTIONS**
 
 - [Shield] - 5 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -502,7 +502,7 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -512,8 +512,8 @@ When slain, place a marker where it was removed. In the next Priority phase afte
 
 - [Fell Warg] - 10 points
 - Orc [Bow] - 5 points
-- [Two-Handed] [Pick] - 5 points
-- Swap Weapon - 5 points
+- [Two-Handed][] [Pick] - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -539,7 +539,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 - [Armour]
 - [Sword]
-- [Two-handed][Two-Handed] [Pick]
+- [Two-handed][] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -580,7 +580,7 @@ The Keeper of the Dungeons gets +1 bonus To Wound against any model who bears on
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - Morgul Blade - 5 points
 
 **SPECIAL RULES**
@@ -618,7 +618,7 @@ Castellans may use Will points as Fate points if they wish.
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -648,7 +648,7 @@ Castellans may use Will points as Fate points if they wish.
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -672,7 +672,7 @@ Castellans may use Will points as Fate points if they wish.
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **OPTIONS**
 
@@ -680,8 +680,8 @@ Castellans may use Will points as Fate points if they wish.
 - [Banner] - 25 points
 - [Fell Warg] - 8 points
 - Orc [Bow] - 1 point
-- [Two-Handed] [Pick] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Pick] - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -705,7 +705,7 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -716,5 +716,9 @@ Whilst they have the Infantry keyword, a model with this special rule gains +1 A
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>

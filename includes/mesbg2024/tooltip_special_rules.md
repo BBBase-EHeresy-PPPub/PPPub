@@ -33,6 +33,7 @@
 [Shieldwall]: ../rules_manual/special_rules.md#shieldwall
 [Spectral Walk]: ../rules_manual/special_rules.md#spectral-walk
 [Stalk Unseen]: ../rules_manual/special_rules.md#stalk-unseen
+[Stand Fast]: ../rules_manual/courage_and_intelligence.md#stand-fast-47
 [Static]: ../rules_manual/siege_engines.md#moving-a-siege-engine
 [Survival Instinct]: ../rules_manual/special_rules.md#survival-instinct
 [Swift Movement]: ../rules_manual/special_rules.md#swift-movement
@@ -44,4 +45,3 @@
 [Venom]: ../rules_manual/special_rules.md#venom
 [Will of Evil]: ../rules_manual/special_rules.md#will-of-evil
 [Woodland Creature]: ../rules_manual/special_rules.md#woodland-creature
-[Stand Fast]: ../rules_manual/courage_and_intelligence.md#stand-fast-47

@@ -32,7 +32,7 @@
 ## ADDITIONAL RULES
 
 - A Wolves of Isengard Army must always contain Sharku, who is always the Army's General.
-- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with [throwing weapons][Throwing Weapons] rather than the usual 33%.
+- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with [throwing] weapons rather than the usual 33%.
 
 ## SPECIAL RULES
 

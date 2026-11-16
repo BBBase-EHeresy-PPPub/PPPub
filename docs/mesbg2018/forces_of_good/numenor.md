@@ -43,7 +43,7 @@ Elendil permanently has [Fortify Spirit] cast upon him.
 
 - **Narsil** `ACTIVE`
 
-A [Master-forged][Master-Forged] [hand-and-a-half][Hand-And-A-Half] [sword][Sword], and may call a [Heroic Combat] each turn for free.
+A [Master-forged][] [hand-and-a-half][] [sword], and may call a [Heroic Combat] each turn for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -66,7 +66,7 @@ Elendil's [Stand Fast!] Is 12" rather than 6".
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -121,7 +121,7 @@ If your force does not contain Elendil or Anarion, Isildur may carry [The One Ri
 - [Heavy Armour] - 5 points
 - [Lance] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -156,7 +156,7 @@ This model gains the [Resistant to Magic] special rule whilst within 6" of Elend
 - [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

@@ -4,7 +4,7 @@ This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebo
 
 ## ARMY BONUS
 
-**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a [banner][Banner] if Thror is within 6".
+**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a [banner] if Thror is within 6".
 
 ## HEROES OF ARMY OF THROR
 
@@ -58,7 +58,7 @@ Once per game, you may re-roll a single Priority roll.
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Hammer]
+- [Master Forged][Master-Forged] [Two-handed][] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -145,7 +145,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 **OPTIONS**
 
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -165,7 +165,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- [Throwing] [Axes][Axe]
+- [Throwing] Axes
 
 **HEROIC ACTIONS**
 
@@ -173,13 +173,13 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
 - **Pick-hammer** `ACTIVE`
 
-[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half] weapon, which may use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -231,7 +231,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 **WARGEAR**
 
 - [Dwarf Armour]
-- Two Axes
+- [Two Axes][Axe]
 
 **HEROIC ACTIONS**
 
@@ -244,7 +244,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for using a [two-handed weapon][Two-handed Weapon].
+Dwalin is never considered [unarmed], and never suffers the -1 penalty in Duel rolls for using a [two-handed] weapon.
 
 - **Dwarven Fury** `ACTIVE`
 
@@ -270,20 +270,24 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- [Throwing] [Axes][Axe]
+- [Throwing] Axes
 
 **OPTIONS**
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - Guardians of the King Upgrade - 1 point
 
 **SPECIAL RULES**
 
 - **Pick-hammer** `ACTIVE`
 
-[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half] weapon, which may use either the Bash or Piercing Strike Special Strikes.
+
+- **Guardians of the King Upgrade**
+
+Grim Hammers in Thror's Warband may be upgraded to Guardians of the King. Guardians of the King have Strength 4.
 
 </div>
 
@@ -310,6 +314,6 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>

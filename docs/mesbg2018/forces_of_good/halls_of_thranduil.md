@@ -20,7 +20,7 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -32,7 +32,7 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **OPTIONS**
 
-- Additional [Elven-made] [Sword] - 30 points
+- Additional [Elven-made][] [Sword] - 30 points
 - Circlet of Kings - 25 points
 - Elk - 20 points
 - [Heavy Armour] - 10 points
@@ -53,9 +53,17 @@ Cast [Aura of Dismay] and [Nature's Wrath] for free once per game.
 
 Thranduil gets Attack 3, Fight 7, and gains *Bladelord.
 
-- ***Bladelord** `ACTIVE`
+- **Bladelord** `ACTIVE`
 
 If he has Infantry keyword, gain +1 Attack. Receive additional attack for each enemy model engaged with him after the first.
+
+- **Elk**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 4/5+ | 4 | 5 | 0 | 2 | 4 |
+
+If Thranduil Charges while riding his Elk, his Strikes are resolved at Strength 5.
 
 </div>
 
@@ -98,7 +106,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 - **Orcrist** `ACTIVE`
 
-[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
+[Elven-made][] [hand-and-a-half][] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 </div>
 
@@ -125,7 +133,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -133,7 +141,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -161,7 +169,7 @@ A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -188,7 +196,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -197,7 +205,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 **OPTIONS**
 
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -268,13 +276,13 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 - [Horse]
 
 **OPTIONS**
 
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - [Shield] - 1 point
 
 **SPECIAL RULES**
@@ -284,7 +292,7 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 
 - **King's Knights** `PASSIVE`
 
-Whilst mounted, Mirkwood Cavalry count as being in range of a [banner][Banner] if they are within 6" of Thranduil.
+Whilst mounted, Mirkwood Cavalry count as being in range of a [banner] if they are within 6" of Thranduil.
 
 </div>
 
@@ -303,14 +311,14 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a [banner][Banner] i
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
 - [Elven-made] Glaive - 2 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - [Shield] - 1 point
 
 **SPECIAL RULES**
@@ -319,7 +327,7 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a [banner][Banner] i
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -344,7 +352,7 @@ A glaive can be used as either a [spear][Spear] or [hand-and-a-half][Hand-And-A-
 **OPTIONS**
 
 - [War Horn] - 30 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -371,7 +379,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **OPTIONS**
 
@@ -379,7 +387,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -406,13 +414,13 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - Elf [Bow]
 - [Elven Cloak]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

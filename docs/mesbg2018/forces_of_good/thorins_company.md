@@ -95,7 +95,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 - **Orcrist** `ACTIVE`
 
-[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
+[Elven-made][] [hand-and-a-half][] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **The Oakenshield** `ACTIVE`
 
@@ -157,8 +157,8 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 - [Dwarf Armour]
 - [Dagger]
-- Two Axes
-- [Two-handed][Two-Handed] [Hammer]
+- [Two Axes][Axe]
+- [Two-handed][] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -176,7 +176,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
+Dwalin is never considered to be [unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed] weapon.
 
 </div>
 
@@ -212,7 +212,7 @@ Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 pe
 
 - **Boar spear** `ACTIVE`
 
-This weapon can be used as either a [spear][Spear] or [two-handed weapon][Two-handed Weapon].
+This weapon can be used as either a [spear] or [two-handed] weapon.
 
 - **Embedded Axe-blade** `ACTIVE`
 
@@ -255,11 +255,11 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 - **Sting** `ACTIVE`
 
-[Elven-made] [dagger][Dagger], gain +1 Strength when making strikes.
+[Elven-made][] [dagger], gain +1 Strength when making strikes.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing [the Ring][The One Ring].
+Bilbo ignores Sauron's Will section of [the One Ring] rules. If Bilbo if the only model left on his side, he is not removed as a casualty if he is wearing [the Ring][The One Ring].
 
 </div>
 
@@ -292,7 +292,7 @@ Bilbo ignores Sauron's Will section of [the One Ring][The One Ring] rules. If Bi
 
 - **Mattock** `ACTIVE`
 
-[Two-handed weapon][Two-handed Weapon], which can use either Bash or Piercing Strike Special Strikes.
+[Two-handed] weapon, which can use either Bash or Piercing Strike Special Strikes.
 
 - **Steadfast** `PASSIVE`
 
@@ -314,7 +314,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 **WARGEAR**
 
-- Cleaver ([sword][Sword])
+- Cleaver ([sword])
 
 **HEROIC ACTIONS**
 
@@ -328,7 +328,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 
 - **Beefy** `ACTIVE`
 
-May use the Bash Special Strike, as if he were using a [mace][Mace].
+May use the Bash Special Strike, as if he were using a [mace].
 
 - **Lumbering** `PASSIVE`
 
@@ -390,7 +390,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - [Armour]
 - [Sword]
-- [Throwing] [Axes][Axe]
+- [Throwing] Axes
 
 **HEROIC ACTIONS**
 
@@ -424,8 +424,8 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 **WARGEAR**
 
 - [Dwarf Armour]
-- Two Axes
-- [Throwing] [Axes][Axe]
+- [Two Axes][Axe]
+- [Throwing] Axes
 
 **HEROIC ACTIONS**
 
@@ -495,7 +495,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - [Armour]
 - [Dagger]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -509,7 +509,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
+Nori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
 
 </div>
 
@@ -527,7 +527,7 @@ Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Staff]
+- [Hand-and-a-half][] [Staff]
 
 **HEROIC ACTIONS**
 

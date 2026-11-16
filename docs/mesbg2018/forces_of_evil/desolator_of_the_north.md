@@ -20,8 +20,8 @@ The Desolator of the North army list does not get a special rule - having a mass
 
 **WARGEAR**
 
-- Razor-sharp Teeth
-- Massive Talons
+- [Razor-sharp Teeth][Single-handed Weapons]
+- [Massive Talons][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -49,9 +49,9 @@ The Desolator of the North army list does not get a special rule - having a mass
 
 - **Breathe Fire** `ACTIVE`
 
-Spend a Will point to Breath Fire, which is like a [bow][Bow] with range 18". If the shot hits, the target and all models within 2" are [Set Ablaze], and suffer a Strength 10 hit. Cavalry models suffer this on both the rider and mount. Fate may prevent these wounds, but any model that suffers just a single wound is slain.
+Spend a Will point to Breath Fire, which is like a [bow] with range 18". If the shot hits, the target and all models within 2" are [Set Ablaze], and suffer a Strength 10 hit. Cavalry models suffer this on both the rider and mount. Fate may prevent these wounds, but any model that suffers just a single wound is slain.
 
-- ***Desolator of the North** `PASSIVE`
+- **Desolator of the North** `PASSIVE`
 
 Smaug may spell a free Will point each turn. Also re-rolls To Wound rolls of 1 when making Strikes against Dwarf models.
 

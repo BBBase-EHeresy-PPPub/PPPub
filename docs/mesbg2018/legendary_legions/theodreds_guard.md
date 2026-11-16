@@ -40,4 +40,4 @@
 
 **"Riders of Theodred!"** - Captains of Rohan, Riders of Rohan and Rohan Royal Guard treat Théodred as if he were Théoden for the purpose of their Arise Riders of Théoden special rule.
 
-**"Fight in Ranks!"** - Friendly Rohan Infantry models armed with throwing spears may use them as standard spears in addition to their normal use. However, if a model uses their [spear][Spear] as a throwing [spear][Spear] in a turn, they cannot use it as a standard [spear][Spear] in the same turn.
+**"Fight in Ranks!"** - Friendly Rohan Infantry models armed with throwing spears may use them as standard spears in addition to their normal use. However, if a model uses their [spear] as a throwing [spear] in a turn, they cannot use it as a standard [spear] in the same turn.

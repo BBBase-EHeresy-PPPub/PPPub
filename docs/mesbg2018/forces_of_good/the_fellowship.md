@@ -58,6 +58,14 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
+- **Cart**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8" | 0 | 3 | 5 | 0 | 3 | 3 |
+
+This is a Mount. At the start of each friendly Shoot Phase, choose one enemy model within 6" and roll a D6. On a 4+, that model suffers one Strength 2 hit.
+
 </div>
 
 ---
@@ -159,9 +167,9 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed][Two-Handed] [Axe]
-- Two Axes
-- [Throwing] [Axes][Axe]
+- [Master Forged][Master-Forged] [Two-handed][] [Axe]
+- [Two Axes][Axe]
+- [Throwing] Axes
 
 **HEROIC ACTIONS**
 
@@ -176,7 +184,7 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of a fight, you can choose his [two-handed][Two-Handed] [axe][Axe], or an [axe][Axe] in each hand which gives him an Attack value of 3.
+At the beginning of a fight, you can choose his [two-handed][] [axe], or an [axe] in each hand which gives him an Attack value of 3.
 
 - **I myself am sitting pretty on 43** `ACTIVE`
 
@@ -264,7 +272,7 @@ Frodo gains +3 Defence whilst wearing the Mithril Coat.
 
 - **Sting** `ACTIVE`
 
-An [Elven-made] [dagger][Dagger], Frodo gains +1 Strength when making strikes with Sting.
+An [Elven-made][] [dagger], Frodo gains +1 Strength when making strikes with Sting.
 
 </div>
 
@@ -318,7 +326,7 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -342,6 +350,10 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 
 - [Woodland Creature]
 - [Expert Rider]
+
+- **Asfaloth**
+
+Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [Fleetfoot] while mounted on Asfaloth.
 
 </div>
 
@@ -422,13 +434,13 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 
 **WARGEAR**
 
-- Iron-shod Hooves
+- [Iron-shod Hooves][Single-handed Weapons]
 
 **SPECIAL RULES**
 
 - **Official Meals** `PASSIVE`
 
-Hobbit models treat Bill the [Pony] as a [banner][Banner].
+Hobbit models treat Bill the [Pony] as a [banner].
 
 - **Second Breakfast** `PASSIVE`
 
@@ -453,7 +465,7 @@ May never charge, and no other models can benefit from his [Stand Fast!]. Howeve
 
 **WARGEAR**
 
-- Strangling Fingers
+- [Strangling Fingers][Single-handed Weapons]
 
 **SPECIAL RULES**
 

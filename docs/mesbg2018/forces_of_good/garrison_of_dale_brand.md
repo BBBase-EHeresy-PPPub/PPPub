@@ -71,7 +71,7 @@ At the start of a Fight involving Brand, if he would be Trapped by losing the Du
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that charged them this turn.
 
 </div>
 
@@ -100,7 +100,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 
 - Esgaroth [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -127,13 +127,13 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that charged them this turn.
 
 </div>
 
@@ -161,13 +161,13 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 - Esgaroth [Bow] - 2 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that charged them this turn.
 
 </div>
 
@@ -196,7 +196,7 @@ Crewed by two Warriors of Dale with armour and sword, one of which is a [Siege V
 **OPTIONS**
 
 - Dale [Engineer Captain] - 50 points
-- Additional Crew - 7 points
+- [Additional Crew] - 7 points
 - [Engineer Captain] - Esgaroth [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 

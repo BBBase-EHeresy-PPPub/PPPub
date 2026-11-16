@@ -60,6 +60,18 @@ Radagast always has Line of Sight to any point on the battlefield. Eagle models 
 
 Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move through difficult terrain without penalty.
 
+- **Sleigh**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 2 | 3 | 4 | 4 | 2 |
+
+This is a Mount with [Woodland Creature]. If Radagast is slain or dismounts, remove the Sleigh from play.
+
+- **Great Eagle**
+
+The [Great Eagle](../forces_of_good/the_misty_mountains.md#great-eagle-100-points) is a Mount, replacing Radagast's Staff of Power. If Radagast dismounts, the Eagle automatically passes its Courage Test to stay and fight.
+
 </div>
 
 ---
@@ -76,7 +88,7 @@ Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move t
 
 **WARGEAR**
 
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -147,7 +159,7 @@ If Beorn wins a Duel, instead of striking as normal, choose a single model in th
 
 **WARGEAR**
 
-- Claws and Beak
+- [Claws and Beak][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -183,7 +195,7 @@ Only Eagle and Wizard models may benefit from Gwaihir's [Stand Fast!] or benefit
 
 **WARGEAR**
 
-- Claws and Beak
+- [Claws and Beak][Single-handed Weapons]
 
 **SPECIAL RULES**
 

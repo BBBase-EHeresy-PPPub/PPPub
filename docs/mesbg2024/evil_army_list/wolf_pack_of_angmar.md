@@ -27,6 +27,6 @@
 
 **Feral Charge** - When a friendly [Warg] model Charges an enemy Infantry model, they gain the Knock to the Ground bonus as if they were Cavalry. This bonus is lost if they are subsequently Charged by an enemy Cavalry model.
 
-**Protect the Alpha** - If your General has suffered at least one Wound, then friendly models treat them as a [banner][Banner] with a range of 6".
+**Protect the Alpha** - If your General has suffered at least one Wound, then friendly models treat them as a [banner] with a range of 6".
 
 **Howl of the Wolf Pack** - Once per game, at the start of any Fight Phase, your General can declare they are using this ability. Until the End Phase of the turn, friendly models gain a bonus of +1 to their Fight Value and may re-roll To Wound Rolls of a natural 1 when making Strikes.

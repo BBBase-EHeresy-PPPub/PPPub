@@ -56,7 +56,7 @@ She may spend a free point of Will each turn.
 
 - **Mirror of Galadriel** `PASSIVE`
 
-[Heavy object][Heavy Object] with Defence 8 and 3 Wounds. At the end of each phase, one hero model within 6" may restore all their Fate points.
+[Heavy object] with Defence 8 and 3 Wounds. At the end of each phase, one hero model within 6" may restore all their Fate points.
 
 </div>
 
@@ -89,7 +89,7 @@ She may spend a free point of Will each turn.
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- [Elven-made] [Hand-and-a-Half][Hand-And-A-Half] [Sword] - 5 points
+- [Elven-made][] [Hand-and-a-Half][] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -123,7 +123,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -144,7 +144,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 - **Allies 'til the end** `PASSIVE`
 
-When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a [banner][Banner], and passes all courage tests.
+When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a [banner], and passes all courage tests.
 
 - **One Final Blow** `ACTIVE`
 
@@ -166,7 +166,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 - [Heavy Armour]
 
 **HEROIC ACTIONS**
@@ -178,7 +178,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 - [Armoured Horse] - 15 points
 - Elf [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -234,7 +234,7 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -269,7 +269,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -279,9 +279,9 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 **OPTIONS**
 
 - Elf [Bow] - 5 points
-- [Throwing] [Daggers][Dagger] - 5 points
+- [Throwing] Daggers - 5 points
 - Wood Elf [Spear] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -289,7 +289,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 
 - **Wood Elf spear** `ACTIVE`
 
-This [spear][Spear] may also parry, which uses the rules for Shielding.
+This [spear] may also parry, which uses the rules for Shielding.
 
 </div>
 
@@ -308,7 +308,7 @@ This [spear][Spear] may also parry, which uses the rules for Shielding.
 **WARGEAR**
 
 - [Armour]
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -348,7 +348,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- ~~[Elven-made] [Sword]~~ <span style="color: darkmagenta">[Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]</span>
+- ~~[Elven-made][] [Sword]~~ <span style="color: darkmagenta">[Elven-made][] [Hand-and-a-half][] [Sword]</span>
 - [Heavy Armour]
 - [Armoured Horse]
 
@@ -357,7 +357,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
 - [Shield] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -381,7 +381,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword],
+- [Elven-made][] [Hand-and-a-half][] [Sword],
 - [Heavy Armour]
 
 **OPTIONS**
@@ -392,11 +392,15 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - [Shield] - 1 point
 - Galadhrim Guard Upgrade - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - [Woodland Creature]
+
+- **Galadhrim Guard Upgrade**
+
+Galadhrim Warriors in the Warband of Galadriel or Celeborn may be upgraded to Galadhrim Guard. Galadhrim Guard have Courage 6.
 
 </div>
 
@@ -420,7 +424,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 **OPTIONS**
 
 - Replace [Pike] with [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -446,13 +450,13 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - Elf [Bow]
 - [Elven Cloak]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -490,16 +494,16 @@ Sentinel gains [Terror] for rest of the turn.
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- [Throwing] [Daggers][Dagger] - 2 points
+- [Throwing] Daggers - 2 points
 - Wood Elf [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -507,6 +511,6 @@ Sentinel gains [Terror] for rest of the turn.
 
 - **Wood Elf spear** `ACTIVE`
 
-This [spear][Spear] may also parry, which uses the rules for Shielding.
+This [spear] may also parry, which uses the rules for Shielding.
 
 </div>

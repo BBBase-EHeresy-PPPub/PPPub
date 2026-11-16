@@ -47,7 +47,7 @@ Never requires more than a 4 for To Wound rolls.
 
 - **Stand Men of the West!** `PASSIVE`
 
-Friendly models within 6" count as being in range of a [banner][Banner].
+Friendly models within 6" count as being in range of a [banner].
 
 </div>
 
@@ -90,7 +90,7 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 
 - **The Banner of Minas Tirith** `PASSIVE`
 
-This is a [banner][Banner] with a range of 6". Boromir and all Gondor Warriors within 6" gain +1 Fight value. Boromir does not suffer the -1 penalty for using a [banner][Banner] in the Duel Roll. Additionally, he may not carry this [banner][Banner] if he is also carrying a [lance][Lance].
+This is a [banner] with a range of 6". Boromir and all Gondor Warriors within 6" gain +1 Fight value. Boromir does not suffer the -1 penalty for using a [banner] in the Duel Roll. Additionally, he may not carry this [banner] if he is also carrying a [lance].
 
 </div>
 
@@ -259,6 +259,14 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
+- **Shadowfax**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 12" | 0 | 4 | 5 | 0 | 1 | 5 |
+
+Shadowfax is a Mount with 0 Might, 2 Will and 1 Fate.
+
 </div>
 
 ---
@@ -292,7 +300,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 - **The Warden's Sword** `ACTIVE`
 
-Master Forged [hand-and-a-half][Hand-And-A-Half] [sword][Sword].
+Master Forged [hand-and-a-half][] [sword].
 
 - **In Defence of the King** `ACTIVE`
 
@@ -335,7 +343,7 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 - [Heavy Armour] - 5 points
 - [Lance] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -366,7 +374,7 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 - [Bow] - 5 points
 - [Lance] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -466,7 +474,7 @@ Ingold and friendly Gondor Warrior models within 3" do not Back Away if they los
 
 - **Defend the White City** `ACTIVE`
 
-Irolas may use the Shielding special rule, even without a [shield][Shield]. If he wins a Duel whilst Shielding, he may make a single Strength 4 Strike against one enemy model from the same fight.
+Irolas may use the Shielding special rule, even without a [shield]. If he wins a Duel whilst Shielding, he may make a single Strength 4 Strike against one enemy model from the same fight.
 
 </div>
 
@@ -494,17 +502,17 @@ Irolas may use the Shielding special rule, even without a [shield][Shield]. If h
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
 - **White Sword of Gondor** `ACTIVE`
 
-This is a two handed [sword][Sword], and strikes made with this [sword][Sword] also have the [Mighty Blow] special rule.
+This is a two handed [sword], and strikes made with this [sword] also have the [Mighty Blow] special rule.
 
 - **The Bladelord's Skill** `ACTIVE`
 
-If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-handed weapon][Two-handed Weapon].
+If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-handed] weapon.
 
 </div>
 
@@ -589,7 +597,7 @@ Each turn, Anborn may spend a point of Might without reducing his store (even wi
 
 - [Heavy Armour]
 - [Sword]
-- Longbow
+- [Longbow]
 
 **HEROIC ACTIONS**
 
@@ -721,7 +729,7 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 - [Horse] - 7 points
 - Swap [Spear] for Longbow - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -751,7 +759,7 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 - Swap [Spear] with [Banner] - 25 points
 - [Shield] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -782,7 +790,7 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 
 - [Banner] - 25 points
 - [Shield] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -812,7 +820,7 @@ Mablung and any Rangers (including Faramir, Madril, Damrod and Anborn) within 6"
 - [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -843,7 +851,7 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 **OPTIONS**
 
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -871,7 +879,7 @@ If this model is within 6" of Boromir or Faramir, they receive +1 Fight value.
 - [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -905,7 +913,7 @@ Crewed by three Warriors of Minas Tirith with armour and sword, one of which is 
 
 - Minas Tirith [Engineer Captain] - 50 points
 - [Swift Reload] - 20 points
-- Additional Crew - 7 points
+- [Additional Crew] - 7 points
 - [Engineer Captain] - [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -945,7 +953,7 @@ Crewed by three Warriors of Minas Tirith with armour and sword, one of which is 
 
 - Minas Tirith [Engineer Captain] - 50 points
 - [Flaming Ammunition] - 15 points
-- Additional Crew - 7 points
+- [Additional Crew] - 7 points
 - [Engineer Captain] - [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -961,6 +969,6 @@ If a Battlefield target is hit, all models within 2" also suffer one Strength 5 
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick] the highest.
 
 </div>

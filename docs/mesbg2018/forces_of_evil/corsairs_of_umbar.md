@@ -21,7 +21,7 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 **WARGEAR**
 
 - [Sword]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 - Smoke Bombs
 
 **HEROIC ACTIONS**
@@ -36,7 +36,7 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 
 - **Smoke Bombs** `ACTIVE`
 
-[Throwing weapon][Throwing Weapon] with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of [Transfix]. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
+[Throwing] weapon with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of [Transfix]. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -61,7 +61,7 @@ Dalamyr can never be Trapped whilst still standing.
 - [Armour]
 - [Sword]
 - [Whip]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 
 **HEROIC ACTIONS**
 
@@ -90,7 +90,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 **WARGEAR**
 
 - [Dagger]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -100,7 +100,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -193,8 +193,8 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -217,7 +217,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 **WARGEAR**
 
 - [Sword]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 
 **HEROIC ACTIONS**
 
@@ -228,15 +228,15 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-Handed] [Axe] - 5 points
-- Swap Weapon - 5 points
+- [Two-Handed][] [Axe] - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 **SPECIAL RULES**
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models within 3" of the Bo'sun count as being in range of a [banner][Banner].
+Friendly Corsair models within 3" of the Bo'sun count as being in range of a [banner].
 
 </div>
 
@@ -255,7 +255,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 **WARGEAR**
 
 - [Sword]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 
 **HEROIC ACTIONS**
 
@@ -266,8 +266,8 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-Handed] [Axe] - 5 points
-- Swap Weapon - 5 points
+- [Two-Handed][] [Axe] - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -295,7 +295,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -323,13 +323,13 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a [ba
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Pavise** `PASSIVE`
 
-Giant wooden [shield][Shield] that provides +3 Defence, so long as the model is not engaged in a Fight. May use the same rules for shielding, but does not gain the +1 Defence bonus due to also carrying a [crossbow][Crossbow].
+Giant wooden [shield] that provides +3 Defence, so long as the model is not engaged in a Fight. May use the same rules for shielding, but does not gain the +1 Defence bonus due to also carrying a [crossbow].
 
 </div>
 
@@ -347,11 +347,11 @@ Giant wooden [shield][Shield] that provides +3 Defence, so long as the model is 
 
 **WARGEAR**
 
-- Two Swords
+- [Two Swords][Dagger]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -376,13 +376,13 @@ If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must tak
 **WARGEAR**
 
 - [Sword]
-- [Throwing] [Daggers][Dagger]
+- [Throwing] Daggers
 
 **OPTIONS**
 
 - [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>

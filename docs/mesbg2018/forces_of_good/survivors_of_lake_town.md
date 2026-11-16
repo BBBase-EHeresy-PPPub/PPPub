@@ -32,7 +32,7 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 
 **OPTIONS**
 
-- Windlance - 75 points
+- [Windlance](../forces_of_good/garrison_of_dale_brand.md#windlance-75-points) - 75 points
 - [Horse] - 10 points
 - [Armour] - 5 points
 
@@ -40,7 +40,7 @@ This army may include: Bard the Bowman; Gandalf the Grey; Bilbo Baggins, Master 
 
 - **Rapid Fire** `ACTIVE`
 
-If his great [bow][Bow] hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
+If his great [bow] hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
 
 - **The Black Arrow** `ACTIVE`
 
@@ -48,7 +48,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner][Banner].
+Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner].
 
 </div>
 
@@ -140,11 +140,11 @@ Bilbo has +3 Defence value included in his profile.
 
 - **Sting** `ACTIVE`
 
-[Elven-made] [dagger][Dagger], add +1 Strength when making Strikes.
+[Elven-made][] [dagger], add +1 Strength when making Strikes.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores Sauron's Will section of [the One Ring][The One Ring]'s rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
+Bilbo ignores Sauron's Will section of [the One Ring]'s rules. If Bilbo is the last model left on his player's side, he is not removed as a casualty as would usually be the case.
 
 </div>
 
@@ -200,7 +200,7 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Shield] - 5 points
 
 </div>
@@ -230,7 +230,7 @@ If Hilda-Bianca Charges, then during the ensuing Fight phase, she and Lake-town 
 
 - **Archers, This Way!** `PASSIVE`
 
-Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a [bow][Bow].
+Percy and Lake-town Militia within 6" of Percy may re-roll To Hit results of 1, when making shooting attacks with a [bow].
 
 </div>
 
@@ -310,7 +310,7 @@ Alfrid may spend any number of Will points at the start of the Priority phase. F
 - [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

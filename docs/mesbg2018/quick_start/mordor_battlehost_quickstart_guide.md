@@ -23,7 +23,7 @@ The Witch-king may also take the following options:
 
 * Crown of Morgul
 * Morgul Blade
-* *[Two-handed]* Flail
+* *[Two-handed](battlehost_quickstart_rules_guide.md#two-handed-weapons)* Flail
 
 **SPECIAL RULES**
 
@@ -45,9 +45,9 @@ Once per game, the Witch-king can declare he is using the Morgul Blade during th
 
 | | Range | Casting |
 |----------------|:-----:|:-------:|
-| Transfix | 12" | 3+ |
-| Compel | 12" | 4+ |
-| Black Dart | 12" | 5+ |
+| [Transfix](battlehost_quickstart_rules_guide.md#immobilisetransfix) | 12" | 3+ |
+| [Compel](battlehost_quickstart_rules_guide.md#commandcompel) | 12" | 4+ |
+| [Black Dart](battlehost_quickstart_rules_guide.md#black-dart) | 12" | 5+ |
 
 </div>
 
@@ -74,7 +74,7 @@ One of the following options:
 * Shield
 * Spear
 * Orc bow
-* *[Two-handed]* axe
+* *[Two-handed](battlehost_quickstart_rules_guide.md#two-handed-weapons)* axe
 
 </div>
 

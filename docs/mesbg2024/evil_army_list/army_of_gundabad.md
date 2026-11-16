@@ -51,9 +51,9 @@
 
 **The Horn of Gorgoroth** - Once per game, after Priority has been determined, as long as your General is alive and on the battlefield they can order the Horn of Gorgoroth to be blown. Until the End of the turn, all friendly Gundabad models gain a bonus of +2 to any Courage Tests they are required to take. Additionally, until the end of the turn, all enemy models on the battlefield suffer a -2 penalty to any Courage Tests they are required to take. Note that this is not cumulative with other rules that confer similar penalties.
 
-**Raise the Banners** - During the Priority Phase, after Priority has been determined, as long as your General is alive and on the battlefield they may command one of the banners on the signal tower to be raised. If they do, choose one of the banners below and apply its effects until the End Phase of the turn. You may not raise the same [banner][Banner] as the previous turn.
+**Raise the Banners** - During the Priority Phase, after Priority has been determined, as long as your General is alive and on the battlefield they may command one of the banners on the signal tower to be raised. If they do, choose one of the banners below and apply its effects until the End Phase of the turn. You may not raise the same [banner] as the previous turn.
 
-The [Banner] of Dol Guldur - All friendly Gundabad models on the battlefield count themselves as being in range of a [banner][Banner].
+The [Banner] of Dol Guldur - All friendly Gundabad models on the battlefield count themselves as being in range of a [banner].
 
 The [Banner] of Gundabad - All friendly Gundabad Hero models on the battlefield may declare a [Heroic March] for free.
 

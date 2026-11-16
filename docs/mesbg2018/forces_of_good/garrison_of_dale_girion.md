@@ -30,7 +30,7 @@ This army may include: Girion, Lord of Dale; Captain of Dale; Knight of Dale; Wa
 
 **OPTIONS**
 
-- Windlance - 75 points
+- [Windlance](../forces_of_good/garrison_of_dale_brand.md#windlance-75-points) - 75 points
 - Great [Bow] - 5 points
 
 **SPECIAL RULES**
@@ -41,7 +41,7 @@ A Windlance is a small Siege Engine with Superior Construction. Girion is the on
 
 - **Rapid Fire** `ACTIVE`
 
-If Girion hits a target with his great [bow][Bow], he may shoot at another target within 3" of them, or the same target. If that shot is also a hit, he may shoot again - to a maximum of three shots in total.
+If Girion hits a target with his great [bow], he may shoot at another target within 3" of them, or the same target. If that shot is also a hit, he may shoot again - to a maximum of three shots in total.
 
 </div>
 
@@ -70,7 +70,7 @@ If Girion hits a target with his great [bow][Bow], he may shoot at another targe
 
 - Esgaroth [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -97,13 +97,13 @@ If Girion hits a target with his great [bow][Bow], he may shoot at another targe
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that charged them this turn.
 
 </div>
 
@@ -131,7 +131,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 - Esgaroth [Bow] - 2 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -160,7 +160,7 @@ Crewed by two Warriors of Dale with armour and sword, one of which is a [Siege V
 **OPTIONS**
 
 - Dale [Engineer Captain] - 50 points
-- Additional Crew - 7 points
+- [Additional Crew] - 7 points
 - [Engineer Captain] - Esgaroth [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 

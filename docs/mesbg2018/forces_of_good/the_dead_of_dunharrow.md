@@ -67,7 +67,7 @@ This model may move over water features as normal ground.
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -110,7 +110,7 @@ This model may move over water features as normal ground.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -120,6 +120,10 @@ This model may move over water features as normal ground.
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
+
+- **Spectral Steed**
+
+This is a [horse] with the Spirit keyword and Defence 6.
 
 </div>
 
@@ -143,7 +147,7 @@ This model may move over water features as normal ground.
 **OPTIONS**
 
 - [Banner] - 25 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Shield] - 1 point
 - [Spear] - 1 point
 
@@ -181,7 +185,7 @@ This model may move over water features as normal ground.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -191,6 +195,10 @@ This model may move over water features as normal ground.
 - **Spectral Walk** `PASSIVE`
 
 This model may move over water features as normal ground.
+
+- **Spectral Steed**
+
+This is a [horse] with the Spirit keyword and Defence 6.
 
 </div>
 
@@ -216,7 +224,7 @@ This model may move over water features as normal ground.
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

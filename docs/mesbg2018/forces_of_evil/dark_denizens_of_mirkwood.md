@@ -20,7 +20,7 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 
 **WARGEAR**
 
-- Large Venomous Fangs
+- [Large Venomous Fangs][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -54,7 +54,7 @@ During any point of her Move phase, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -80,7 +80,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -102,13 +102,17 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
 - [Swift Movement]
 - [Terror]
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -126,7 +130,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -137,6 +141,10 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -156,7 +164,7 @@ A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its tar
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -182,7 +190,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -204,13 +212,17 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
 - Poisoned Fangs
 - [Swift Movement]
 - [Terror]
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -228,7 +240,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -239,5 +251,9 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 - **Spider Webs** `ACTIVE`
 
 A Mirkwood Spider can shoot webs, with a range of 8". If the spider hits its target, do not roll To Wound. Instead, the model suffers the effects of the [Paralyse] Magical Power. If a Hero model is hit by the web, it can attempt to spend a point of Fate to negate the effects of [Paralyse].
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>

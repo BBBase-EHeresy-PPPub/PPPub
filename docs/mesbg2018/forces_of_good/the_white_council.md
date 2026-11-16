@@ -94,7 +94,7 @@ Can re-roll one dice when making Casting or Resist tests.
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- [Elven-made] [Hand-and-a-Half][Hand-And-A-Half] [Sword] - 5 points
+- [Elven-made][] [Hand-and-a-Half][] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -155,7 +155,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 - **Hadhafang** `ACTIVE`
 
-[Hand-and-a-half][Hand-And-A-Half] [sword][Sword], +1 To Wound when striking Spirit models.
+[Hand-and-a-half][] [sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `PASSIVE`
 
@@ -238,7 +238,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -261,7 +261,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 - **Armour of Gondolin** `PASSIVE`
 
-[Heavy armour][Heavy Armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
+[Heavy armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
 
 - **Unbending Resolve** `PASSIVE`
 
@@ -270,6 +270,10 @@ Glorfindel permanently has the [Fortify Spirit] spell cast upon him.
 - **Lord of the West** `ACTIVE`
 
 Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
+
+- **Asfaloth**
+
+Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [Fleetfoot] while mounted on Asfaloth.
 
 </div>
 
@@ -327,6 +331,18 @@ Radagast always has Line of Sight to any point on the battlefield. Eagle models 
 
 Whilst he has the Infantry keyword, Radagast gains [Stalk Unseen] and may move through difficult terrain without penalty.
 
+- **Sleigh**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 3/6+ | 2 | 3 | 4 | 4 | 2 |
+
+This is a Mount with [Woodland Creature]. If Radagast is slain or dismounts, remove the Sleigh from play.
+
+- **Great Eagle**
+
+The [Great Eagle](../forces_of_good/the_misty_mountains.md#great-eagle-100-points) is a Mount, replacing Radagast's Staff of Power. If Radagast dismounts, the Eagle automatically passes its Courage Test to stay and fight.
+
 </div>
 
 ---
@@ -378,6 +394,6 @@ Galadriel can spend a single point of Will each turn for free.
 
 - **War Aspect** `PASSIVE`
 
-All enemies within 6" suffer -1 Courage, never counts as [unarmed][Unarmed].
+All enemies within 6" suffer -1 Courage, never counts as [unarmed].
 
 </div>

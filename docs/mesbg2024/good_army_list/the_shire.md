@@ -52,7 +52,7 @@
 
 ## SPECIAL RULES
 
-**Bilbo's Magic Ring** - In this Army List, Bilbo carries [the One Ring][The One Ring] instead of Frodo.
+**Bilbo's Magic Ring** - In this Army List, Bilbo carries [the One Ring] instead of Frodo.
 
 **"This'll be a night to remember"** - Friendly models may re-roll failed Courage Tests. Additionally, friendly models cannot have their Courage Tests reduced by the special rules or Magical Powers of enemy models.
 

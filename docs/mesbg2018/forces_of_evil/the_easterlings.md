@@ -36,7 +36,7 @@ This army may include: The Dragon Emperor; Amdur; <span style="color: darkmagent
 
 - **The Emperor's Glaive** `ACTIVE`
 
-[Elven-made] [spear][Spear], may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
+[Elven-made][] [spear], may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -48,7 +48,7 @@ The Emperor is [Resistant to Magic].
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 ---
 
@@ -62,7 +62,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 
 - **Standards of the Emperor** `PASSIVE`
 
-The Royal Palanquin is a [banner][Banner] with a range of 12". The Dragon Emperor and Black Dragons do not suffer the -1 penalty to their Duel rolls.
+The Royal Palanquin is a [banner] with a range of 12". The Dragon Emperor and Black Dragons do not suffer the -1 penalty to their Duel rolls.
 
 - **In the Name of the Dragon Emperor** `PASSIVE`
 
@@ -121,11 +121,19 @@ If an enemy model in combat with Amdur declares a [Heroic Strike], he may do the
 
 - **Herald of Victory** `PASSIVE`
 
-All Easterling models treat Amdur as a [banner][Banner]. If Amdur kills the enemy leader, the [banner][Banner] range is increased to 6"
+All Easterling models treat Amdur as a [banner]. If Amdur kills the enemy leader, the [banner] range is increased to 6"
 
 - **Durtuz** `PASSIVE`
 
-[Elven-made] [hand-and-a-half][Hand-And-A-Half] [sword][Sword].
+[Elven-made][] [hand-and-a-half][] [sword].
+
+- **Phalanx** `ACTIVE`
+
+Easterlings can use pike and shield without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **The Gleaming Horde** `ACTIVE`
+
+While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
 
 </div>
 
@@ -212,7 +220,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **Show No Mercy** `ACTIVE`
 
@@ -256,6 +264,10 @@ When making strikes against trapped enemy models, you may re-roll failed To Woun
 
 Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 
+- **Easterling Battle Stave**
+
+This weapon can be used as a [spear] or a [two-handed][] [axe].
+
 </div>
 
 ---
@@ -273,7 +285,7 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 **WARGEAR**
 
 - [Heavy Armour]
-- Easterling Glaive ([hand-and-a-half][Hand-And-A-Half] [Axe])
+- Easterling Glaive ([hand-and-a-half][] [Axe])
 
 **HEROIC ACTIONS**
 
@@ -284,17 +296,17 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 - Swap Glaive for [Armoured Horse] & [Sword] - 10 points
 - [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield].
 
 </div>
 
@@ -329,7 +341,13 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 **OPTIONS**
 
 - [Armoured Horse] - 15 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
+
+**SPECIAL RULES**
+
+- **Easterling Battle Stave**
+
+This weapon can be used as a [spear] or a [two-handed][] [axe].
 
 </div>
 
@@ -348,7 +366,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 **WARGEAR**
 
 - [Heavy Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -357,7 +375,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 **OPTIONS**
 
 - [Armoured Horse] - 15 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -370,11 +388,11 @@ Can use the Shielding rule.
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
+While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield].
 
 - **Knights of the Dragon Cult** `PASSIVE`
 
@@ -399,12 +417,12 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 **WARGEAR**
 
 - [Armour]
-- [Throwing] [Daggers][Dagger]
-- Two Swords
+- [Throwing] Daggers
+- [Two Swords][Dagger]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -440,17 +458,21 @@ Gain a bonus of +2 to any Jump, Leap and Climb tests. Additionally, automaticall
 - [Banner] - 25 points
 - [War Drum] (Easterling) - 15 points
 - Black Dragon Upgrade - 2 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield].
+
+- **Black Dragon Upgrade**
+
+Black Dragons have Fight 4 and Courage 4.
 
 </div>
 
@@ -478,17 +500,21 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 - [Banner] - 25 points
 - [War Drum] (Easterling) - 15 points
 - Black Dragon Upgrade - 2 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield][Shield].
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a [shield].
+
+- **Black Dragon Upgrade**
+
+Black Dragons have Fight 4 and Courage 4.
 
 </div>
 
@@ -506,7 +532,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 **WARGEAR**
 
-- Heavy Amour
+- [Heavy Armour]
 - [Sword] or [Dagger]
 
 **OPTIONS**
@@ -516,13 +542,17 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 - [Pike] - 1 point
 - [Shield] - 1 point
 - [Bow] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **Black Dragon Upgrade**
+
+Black Dragons have Fight 4 and Courage 4.
 
 </div>
 
@@ -540,7 +570,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 
 **WARGEAR**
 
-- Heavy Amour
+- [Heavy Armour]
 - [Sword] or [Dagger]
 
 **OPTIONS**
@@ -550,13 +580,17 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 - [Pike] - 1 point
 - [Shield] - 1 point
 - [Bow] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Phalanx** `ACTIVE`
 
-Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+Easterlings can use [pike] and [shield] without penalty. If an Easterling model loses a duel roll on foot, up to two other models that also have the Phalanx rule can Make Way, instead of one.
+
+- **Black Dragon Upgrade**
+
+Black Dragons have Fight 4 and Courage 4.
 
 </div>
 
@@ -575,7 +609,7 @@ Easterlings can use [pike][Pike] and [shield][Shield] without penalty. If an Eas
 **WARGEAR**
 
 - [Armour]
-- Teeth and Claws
+- [Teeth and Claws][Single-handed Weapons]
 
 **SPECIAL RULES**
 

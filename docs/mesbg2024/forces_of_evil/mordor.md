@@ -86,7 +86,7 @@ Sauron gains a free Will Point at the start of each turn. If this free Will Poin
 
 - **The One Ring** `PASSIVE`
 
-Sauron does not follow the normal rules for [the One Ring][The One Ring]. Instead, each time Sauron would lose his last Wound and be removed as a casualty, roll a D6. On a 2+, the power of the One Ring sustains him and instead of being removed as a casualty he will remain on the board with 1 Wound remaining. If during a Combat Sauron suffers multiple Wounds that would cause him to be removed as a casualty, he will make this roll for each of them. Sauron may use Might to improve this roll.
+Sauron does not follow the normal rules for [the One Ring]. Instead, each time Sauron would lose his last Wound and be removed as a casualty, roll a D6. On a 2+, the power of the One Ring sustains him and instead of being removed as a casualty he will remain on the board with 1 Wound remaining. If during a Combat Sauron suffers multiple Wounds that would cause him to be removed as a casualty, he will make this roll for each of them. Sauron may use Might to improve this roll.
 
 - **Unstoppable!** `BRUTAL POWER ATTACK`
 
@@ -133,7 +133,7 @@ Instead of making Strikes, Sauron may instead choose a single enemy model involv
 | [Enchant Blades] | 12" | 4+ |
 | [Black Dart] | 6" | 5+ |
 | [Instill Fear] | Self | 5+ |
-| Your Staff is Broken | 12" | 5+ |
+| [Your Staff is Broken] | 12" | 5+ |
 
 **OPTIONS**
 
@@ -150,7 +150,7 @@ The Witch-king may also take the following options:
 - Crown of Morgul - 25 points
 - [Horse] - 20 points
 - Morgul Blade - 10 points
-- [Two-handed Weapon] - 5 points
+- [Two-handed] Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -160,11 +160,11 @@ The Witch-king may also take the following options:
 
 - **Morgul Blade** `ACTIVE`
 
-This is a [hand weapon][Hand Weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of their normal [hand weapon][Hand Weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use the Strength and Attacks of the rider rather than their Mount.
+This is a [hand weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of their normal [hand weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use the Strength and Attacks of the rider rather than their Mount.
 
 - **Crown of Morgul** `PASSIVE`
 
-This is a Unique piece of Wargear. Whilst wearing the Crown of Morgul, enemy models within 6" of the Witch-king, or attempting to Charge the Witch-king, cannot benefit from special rules that would allow them to automatically pass Courage Tests, with the exception of [Heroic Resolve]. Additionally, once per game, at the start of any Fight Phase, the Witch-king can imbue its great power to ignite his [hand weapon][Hand Weapon] - until the end of the turn, any model that suffers a Wound from a Strike made by the Witch-king is [Set Ablaze].
+This is a Unique piece of Wargear. Whilst wearing the Crown of Morgul, enemy models within 6" of the Witch-king, or attempting to Charge the Witch-king, cannot benefit from special rules that would allow them to automatically pass Courage Tests, with the exception of [Heroic Resolve]. Additionally, once per game, at the start of any Fight Phase, the Witch-king can imbue its great power to ignite his [hand weapon] - until the end of the turn, any model that suffers a Wound from a Strike made by the Witch-king is [Set Ablaze].
 
 ---
 
@@ -211,7 +211,7 @@ When a Fell Beast becomes a Separated Mount, it will automatically fail the Cour
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -295,7 +295,7 @@ A Ringwraith may also take the following options:
 
 - **Morgul Blade** `ACTIVE`
 
-This is a [hand weapon][Hand Weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of their normal [hand weapon][Hand Weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use the Strength and Attacks of the rider rather than their Mount.
+This is a [hand weapon]. Once per game, a model with a Morgul Blade can use it during a Combat instead of their normal [hand weapon]; this must be declared before Strikes are made. If they do, all their Strikes must be resolved against a single enemy model, and if the target suffers a Wound that is not prevented in some way, they will immediately lose all remaining Wounds and be removed as a casualty. If the model using the Morgul Blade is mounted, they must use the Strength and Attacks of the rider rather than their Mount.
 
 ---
 
@@ -389,11 +389,11 @@ If an enemy model attempts to Charge this model and fails its Courage Test as a 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike] or a [two-handed] weapon.
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 </div>
 
@@ -475,7 +475,7 @@ Whilst Gothmog's Enforcer is within 3" of Gothmog, then Gothmog can spend Gothmo
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 - [Hand Weapon]
 
 **HEROIC ACTIONS**
@@ -518,7 +518,7 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a bonus of +1
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Two-handed Weapon] - 5 points
+- [Two-handed] Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -635,7 +635,7 @@ Whenever a friendly Hero model within 6" declares a [Heroic Move], [Heroic March
 
 **OPTIONS**
 
-- [Two-handed Weapon] - 5 points
+- [Two-handed] Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -752,7 +752,7 @@ If this model rolls a natural 6 To Wound when making a Strike, and the Wound is 
 
 **WARGEAR**
 
-- Fangs ([hand weapon][Hand Weapon])
+- Fangs ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -872,11 +872,11 @@ If an enemy model attempts to Charge this model and fails its Courage Test as a 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike][Pike] or a [two-handed weapon][Two-handed Weapon].
+This can be used as either a [pike] or a [two-handed] weapon.
 
 - **Phalanx** `ACTIVE`
 
-A model with this special rule can use a [pike][Pike] and a [shield][Shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
+A model with this special rule can use a [pike] and a [shield] at the same time without penalty. Additionally, should an Infantry model with this special rule lose a Combat, up to two friendly models with this special rule can Make Way instead of one.
 
 </div>
 
@@ -937,7 +937,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 </div>
 
@@ -956,7 +956,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **OPTIONS**
 
@@ -989,7 +989,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 
 **OPTIONS**
 
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -1021,10 +1021,10 @@ If this model rolls a natural 6 To Wound when making a Strike, and the Wound is 
 
 A Mordor Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and [Throwing] [Spears][Spear] - 2 points
+- [Shield] and [Throwing] Spears - 2 points
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
+- [Throwing] Spears - 1 point
 
 </div>
 

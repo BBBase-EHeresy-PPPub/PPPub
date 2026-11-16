@@ -70,8 +70,8 @@
 
 ## SPECIAL RULES
 
-**Allies 'til the End** - Haldir treats both Aragorn and Théoden as a [banner][Banner] with a range of 6". Additionally, whilst within 6" of either Aragorn or Théoden, Haldir automatically passes all Courage Tests and may re-roll failed To Wound Rolls when making Strikes.
+**Allies 'til the End** - Haldir treats both Aragorn and Théoden as a [banner] with a range of 6". Additionally, whilst within 6" of either Aragorn or Théoden, Haldir automatically passes all Courage Tests and may re-roll failed To Wound Rolls when making Strikes.
 
 **"Fall Back to the Keep!"** - If this Army is Broken, friendly Warrior models gain a bonus of +1 to any Courage Tests they are required to take. Additionally, if this Army is Broken, friendly Warrior models within 6" of Théoden may re-roll failed Courage Tests.
 
-**"Give them a Volley"** - Friendly models increase the range of their shooting attacks by 6", provided they have not moved that turn. This special rule does not apply to [throwing weapons][Throwing Weapons].
+**"Give them a Volley"** - Friendly models increase the range of their shooting attacks by 6", provided they have not moved that turn. This special rule does not apply to [throwing] weapons.

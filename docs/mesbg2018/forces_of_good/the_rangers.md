@@ -106,7 +106,7 @@ Never requires more than a 4 for To Wound rolls.
 
 - **Banner of Arwen Evenstar** `PASSIVE`
 
-A [banner][Banner] that affects all friendly models within 6", and gain the [Fearless] special rule. Halbarad suffers no -1 penalty in Duel rolls.
+A [banner] that affects all friendly models within 6", and gain the [Fearless] special rule. Halbarad suffers no -1 penalty in Duel rolls.
 
 </div>
 
@@ -133,7 +133,7 @@ A [banner][Banner] that affects all friendly models within 6", and gain the [Fea
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 </div>
@@ -163,7 +163,7 @@ A [banner][Banner] that affects all friendly models within 6", and gain the [Fea
 **OPTIONS**
 
 - [Horse] - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 </div>

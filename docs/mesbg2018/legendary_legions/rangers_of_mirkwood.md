@@ -18,7 +18,7 @@
 
 ## SPECIAL RULES
 
-**"Knife Mastery"** - Friendly models may re-roll 1s ToWound when making strikes. Additionally, friendly models may use the Shielding special rule even though they are not armed with a [shield][Shield]; however, if they elect to [shield][Shield], they may not use their Knife Fighters or Blade Mistress special rules.
+**"Knife Mastery"** - Friendly models may re-roll 1s ToWound when making strikes. Additionally, friendly models may use the Shielding special rule even though they are not armed with a [shield]; however, if they elect to [shield], they may not use their Knife Fighters or Blade Mistress special rules.
 
 **"The Prince of Mirkwood"** - Legolas gains the Knife Fighters special rule when part of this Legendary Legion.
 

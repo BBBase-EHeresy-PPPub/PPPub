@@ -176,7 +176,7 @@ Mount models have their own list of keywords; for their Faction keyword, a Mount
 
 **SPECIAL RULES**
 
-- Timid
+- [Timid]
 
 </div>
 
@@ -208,7 +208,7 @@ Mount models have their own list of keywords; for their Faction keyword, a Mount
 
 **SPECIAL RULES**
 
-- Fell Sight
+- [Fell Sight]
 
 </div>
 

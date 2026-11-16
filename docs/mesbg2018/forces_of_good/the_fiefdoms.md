@@ -42,9 +42,9 @@ This army may include: Prince Imrahil; Angbor the Fearless; Duinhir; Forlong the
 
 Imrahil's [Stand Fast!] Is 12" rather than 6".
 
-- ***Dol Amroth for Gondor!** `PASSIVE`
+- **Dol Amroth for Gondor!** `PASSIVE`
 
-Friendly Fiefdom models within 12" of Imrahil count as being in range of a [banner][Banner].
+Friendly Fiefdom models within 12" of Imrahil count as being in range of a [banner].
 
 </div>
 
@@ -75,9 +75,9 @@ Friendly Fiefdom models within 12" of Imrahil count as being in range of a [bann
 
 - **Broadsword** `ACTIVE`
 
-Two handed [sword][Sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
+Two handed [sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
 
-- ***Chief of Lamedon** `PASSIVE`
+- **Chief of Lamedon** `PASSIVE`
 
 Clansmen of Lamedon within 6" of Angbor gain the [Fearless] special rule.
 
@@ -115,7 +115,7 @@ Clansmen of Lamedon within 6" of Angbor gain the [Fearless] special rule.
 
 Duinhir can re-roll failed To Wound rolls when shooting. Also, wounds against Monsters whilst shooting cause D3 wounds rather than one.
 
-- ***Lord of the Blackroot Vale** `PASSIVE`
+- **Lord of the Blackroot Vale** `PASSIVE`
 
 Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as long as they didn't move during the Move phase.
 
@@ -150,7 +150,7 @@ Blackroot Vale Archers within 6" of Duinhir may re-roll To Hit rolls of 1, as lo
 
 **SPECIAL RULES**
 
-- ***The Lord of Lossarnach** `PASSIVE`
+- **The Lord of Lossarnach** `PASSIVE`
 
 Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound during the Fight phase.
 
@@ -182,7 +182,7 @@ Axemen of Lossarnach within 6" must re-roll results of a 1 when rolling To Wound
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -215,13 +215,13 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 **OPTIONS**
 
 - Replace [Axe] with [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Axe of Lossarnach** `ACTIVE`
 
-This weapon can be used as either a [spear][Spear] or [two-handed][Two-Handed] [axe][Axe].
+This weapon can be used as either a [spear] or [two-handed][] [axe].
 
 </div>
 
@@ -248,7 +248,7 @@ This weapon can be used as either a [spear][Spear] or [two-handed][Two-Handed] [
 - [War Horn] - 30 points
 - [Banner] - 25 points
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -279,17 +279,17 @@ When benefiting from a [Heroic Shoot], this model may re-roll failed To Wound ro
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - **Broadsword** `ACTIVE`
 
-Two handed [sword][Sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
+Two handed [sword], and if they roll a natural 6 in the Duel roll, this model does not suffer the usual -1 penalty.
 
 - **The Honour of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range of a [banner][Banner].
+Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range of a [banner].
 
 </div>
 
@@ -317,7 +317,7 @@ Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range o
 - [Banner] - 25 points
 - [Armoured Horse] - 8 points
 - [Lance] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -348,7 +348,7 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 **OPTIONS**
 
 - Replace [Pike] with [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

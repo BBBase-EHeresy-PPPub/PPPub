@@ -47,4 +47,4 @@
 
 **Sharkey's Wrath** - Sharkey gains the [Hatred] (Hobbit) special rule.
 
-**The Chief's Whips** - Friendly Ruffian models gain a bonus of +1 To Hit when making a shooting attack with a [whip][Whip].
+**The Chief's Whips** - Friendly Ruffian models gain a bonus of +1 To Hit when making a shooting attack with a [whip].

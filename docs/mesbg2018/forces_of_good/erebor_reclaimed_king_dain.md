@@ -6,7 +6,7 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 **"Will you follow me, one last time?"** - All models in this army list change their Iron Hills keyword for the Erebor keyword. All friendly Erebor Dwarf models from this army list gain the Du Bekar special rule.
 
-**"Du Bekar"** - A model with this special rule counts as being in range of a [banner][Banner] if they are within 6" of Dain Ironfoot, King Under the Mountain.
+**"Du Bekar"** - A model with this special rule counts as being in range of a [banner] if they are within 6" of Dain Ironfoot, King Under the Mountain.
 
 ## HEROES OF EREBOR RECLAIMED (KING DAIN)
 
@@ -37,7 +37,7 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 - **Barazantathul** `ACTIVE`
 
-[Master-forged][Master-Forged] [hand-and-a-half][Hand-And-A-Half] [axe][Axe].
+[Master-forged][] [hand-and-a-half][] [axe].
 
 - **King Under the Mountain** `ACTIVE`
 
@@ -45,7 +45,7 @@ Friendly Erebor Dwarf models, including Hero models, benefit from Dain's [Stand 
 
 - **Venerable** `PASSIVE`
 
-Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick][Pick] the lowest result.
+Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick] the lowest result.
 
 </div>
 
@@ -64,8 +64,8 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick]
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- Two Axes
-- [Two-handed][Two-Handed] [Axe]
+- [Two Axes][Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -80,11 +80,11 @@ Whenever Dain makes a Jump, Leap or Climb test, he will roll two dice and [pick]
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be [unarmed][Unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
+Dwalin is never considered to be [unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed] weapon.
 
 - **The King's Axeman** `ACTIVE`
 
-Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe][Axe] in each hand for 4 Attacks, or his [two-handed][Two-Handed] [axe][Axe] for 3 Attacks.
+Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe] in each hand for 4 Attacks, or his [two-handed][] [axe] for 3 Attacks.
 
 </div>
 
@@ -104,7 +104,7 @@ Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can c
 
 - [Heavy Armour]
 - [Shield]
-- [Hand-and-a-half][Hand-And-A-Half] [Pick]
+- [Hand-and-a-half][] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -135,7 +135,7 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the action is free
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Axe]
+- [Hand-and-a-half][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -166,7 +166,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 
 **WARGEAR**
 
-- [Heavy Dwarf Armour], [Hand-and-a-half][Hand-And-A-Half] [Hammer]
+- [Heavy Dwarf Armour], [Hand-and-a-half][] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -198,7 +198,7 @@ When targeted by a Magical Power or special rule, Bofur may roll a D6. On a 2+, 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][Two-Handed] [Mace]
+- [Two-handed][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -215,7 +215,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - **Weapon Master** `ACTIVE`
 
-Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
+Dori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
 
 </div>
 
@@ -234,7 +234,7 @@ Dori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -251,7 +251,7 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 - **Weapon Master** `ACTIVE`
 
-Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
+Gloin is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
 
 </div>
 
@@ -281,13 +281,25 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 **OPTIONS**
 
 - War Goat - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - Swap [War Spear] and [Shield] for Mattock - Free
 
 **SPECIAL RULES**
 
 - [Master of Battle] (5+)
 - [Shieldwall]
+
+- **War Goat**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8" | 2/6+ | 4 | 5 | 0 | 1 | 3 |
+
+The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models, roll a D6 for each: on a 5+, that model is immediately Knocked to the Ground.
+
+- **Mattock** `ACTIVE`
+
+This is a [two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -320,7 +332,7 @@ Gloin is never considered [unarmed][Unarmed], and does not suffer the -1 penalty
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered [unarmed][Unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
+Nori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
 
 - **Weapon Synergy** `ACTIVE`
 
@@ -353,7 +365,7 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 - [Banner] - 25 points
 - [Spear] - 1 point
 - Swap [Shield] for [Crossbow] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - Swap [Shield] for Mattock - Free
 
 **SPECIAL RULES**
@@ -362,7 +374,7 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 
 - **Mattock** `ACTIVE`
 
-[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -388,13 +400,21 @@ Nori may re-roll one dice in the Duel roll and may re-roll one dice when making 
 **OPTIONS**
 
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - Swap [Spear] for Mattock - Free
 
 **SPECIAL RULES**
 
 - **Mattock** `ACTIVE`
 
-[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+
+- **War Goat**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8" | 2/6+ | 4 | 5 | 0 | 1 | 3 |
+
+The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models, roll a D6 for each: on a 5+, that model is immediately Knocked to the Ground.
 
 </div>

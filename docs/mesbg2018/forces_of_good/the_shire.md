@@ -87,6 +87,14 @@ Gandalf's strength is 5 when making strikes with Glamdring.
 
 Gandalf may re-roll his dice when making fate rolls.
 
+- **Cart**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8" | 0 | 3 | 5 | 0 | 3 | 3 |
+
+This is a Mount. At the start of each friendly Shoot Phase, choose one enemy model within 6" and roll a D6. On a 4+, that model suffers one Strength 2 hit.
+
 </div>
 
 ---
@@ -201,7 +209,12 @@ Baldo may re-roll failed To Hit rolls on stone throws. If Baldo rolls a 6 on his
 
 - **Master of Traps** `PASSIVE`
 
-At the start of the game, Baldo may place eight 25mm Trap markers on the board. These traps are described on page 64 of the Scouring of the Shire supplement book.
+After both armies deploy and before the first turn, place eight face-down 25mm Trap markers: two each of Snare, Tripwire, Pitfall and Dummy. They cannot be in the enemy deployment zone, within an enemy Control Zone, within 3" of another Trap or within 2" of an Objective. Friendly models treat Traps as open ground, but no model may end its Move overlapping one. When an enemy moves within 1", it stops and reveals the Trap.
+
+- **Tripwire:** On a 2+, the Infantry model suffers a Strength 2 hit and is knocked Prone. Cavalry are affected on a 4+ and also suffer Knocked Flying. Monsters are unaffected and may continue moving. Remove the Trap.
+- **Snare:** On a 2+, the Infantry model suffers a Strength 1 hit, is knocked Prone, cannot move or stand up after winning a Fight, and counts as Trapped. At each End Phase, a D6 result no higher than its Strength frees it and lets it stand. Cavalry are affected on a 4+ and also suffer Knocked Flying. Monsters are unaffected and may continue moving. Remove the Trap.
+- **Pitfall:** On a 2+, the Infantry model falls in and counts as Trapped. At the start of its Move, a 4+ frees it at the cost of half its Move. Cavalry are affected on a 4+ and also suffer Knocked Flying; Monsters are unaffected. Leave the marker face-up: crossing it requires a Jump Test, and failing or being forced into contact makes a model fall in. Only one model can occupy it.
+- **Dummy:** Remove the marker; Infantry still stop moving. Cavalry and War Beasts may continue moving.
 
 </div>
 
@@ -236,6 +249,14 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
 
+- **Mithril Coat** `PASSIVE`
+
+While wearing the Mithril Coat, Bilbo gains +3 Defence.
+
+- **Sting** `ACTIVE`
+
+Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
+
 </div>
 
 ---
@@ -252,7 +273,7 @@ At the start of the game, Baldo may place eight 25mm Trap markers on the board. 
 
 **WARGEAR**
 
-- [Two-handed][Two-Handed] Scythe ([pick][Pick])
+- [Two-handed] Scythe ([pick])
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
@@ -276,7 +297,7 @@ Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf
 
 **WARGEAR**
 
-- Claws and teeth
+- [Claws and teeth][Single-handed Weapons]
 
 </div>
 
@@ -308,7 +329,7 @@ Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf
 
 - **Pitchfork** `PASSIVE`
 
-[Hand-and-a-half weapon][Hand-and-a-half Weapon] that may use the Stab Special Strike, and may support as if it was a [spear][Spear].
+[Hand-and-a-half] weapon that may use the Stab Special Strike, and may support as if it was a [spear].
 
 - **"This is our Country"** `PASSIVE`
 
@@ -357,7 +378,7 @@ Frodo never charge enemies, and makes no strikes in a Fight.
 
 - **Home is the Hero** `PASSIVE`
 
-All Hobbit models within 6" count as being in range of a [banner][Banner]
+All Hobbit models within 6" count as being in range of a [banner]
 
 </div>
 
@@ -375,7 +396,7 @@ All Hobbit models within 6" count as being in range of a [banner][Banner]
 
 **WARGEAR**
 
-- Spade ([staff][Staff])
+- Spade ([staff])
 
 **SPECIAL RULES**
 
@@ -402,7 +423,7 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Club].
+- [Hand-and-a-half][] [Club].
 
 **HEROIC ACTIONS**
 
@@ -415,7 +436,7 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as [two-handed][Two-Handed] weapons.
+Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as [two-handed] weapons.
 
 </div>
 
@@ -474,7 +495,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 
 **WARGEAR**
 
-- Walking Cane ([club][Club]).
+- Walking Cane ([club]).
 
 **HEROIC ACTIONS**
 
@@ -505,7 +526,7 @@ Paladin's [Stand Fast!] Only affects Hobbit models and has a range of 12".
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Club].
+- [Hand-and-a-half][] [Club].
 
 **HEROIC ACTIONS**
 
@@ -555,7 +576,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 - **Sting** `ACTIVE`
 
-[Elven-made] [dagger][Dagger], adds +1 to Strength when making Strikes with Sting.
+[Elven-made][] [dagger], adds +1 to Strength when making Strikes with Sting.
 
 </div>
 
@@ -573,7 +594,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 **WARGEAR**
 
-- Walking Cane ([staff][Staff]).
+- Walking Cane ([staff]).
 
 **HEROIC ACTIONS**
 
@@ -586,7 +607,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 - **Mayor of Hobbiton** `ACTIVE`
 
-At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a [banner][Banner].
+At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a [banner].
 
 </div>
 
@@ -613,7 +634,7 @@ At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he 
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 </div>
@@ -682,7 +703,7 @@ If Folco is within 3" of Frodo at the start of a turn, Frodo may spend one of Fo
 
 **WARGEAR**
 
-- Umbrella
+- [Umbrella][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -749,12 +770,16 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 - [War Horn] - 30 points
 - Tookish Hunters - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1)
+
+- **Tookish Hunters**
+
+Hobbit Archers in Peregrin, Captain of the Shire's Warband may be upgraded to Tookish Hunters. Tookish Hunters have Fight/Shoot 3/3+.
 
 </div>
 
@@ -778,12 +803,16 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 **OPTIONS**
 
 - Battlin' Brandybucks - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1)
+
+- **Battlin' Brandybucks**
+
+Hobbit Militia in Meriadoc, Captain of the Shire's Warband may be upgraded to Battlin' Brandybucks. Battlin' Brandybucks have Strength 3.
 
 </div>
 
@@ -801,11 +830,11 @@ Whilst within 6" of Sam, he increases his Attacks to 2. Additionally, if within 
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Club]
+- [Hand-and-a-half][] [Club]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

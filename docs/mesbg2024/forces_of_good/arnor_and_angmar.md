@@ -83,7 +83,7 @@ At the start of a Combat involving Eärnur, before any Heroic Strikes are resolv
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- Elven [Hand-and-a-half] Weapon
 - Armour of Gondolin
 
 **HEROIC ACTIONS**
@@ -117,6 +117,14 @@ Glorfindel gains a bonus of +1 To Wound when making Strikes against Monster mode
 - **Lord of the West** `ACTIVE`
 
 This model may re-roll a single D6 when making a Duel Roll. Additionally, they may re-roll a single D6 when rolling To Wound when making Strikes.
+
+- **Asfaloth**
+
+| Mv | Fv | Sv | S | D | A | W | C | I |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 12" | 3 | 6+ | 3 | 4 | 0 | 1 | 6+ | 6+ |
+
+Asfaloth is a Hero, Mount on a 40mm base, with 0 Might, 1 Will, 1 Fate and [Woodland Creature].
 
 </div>
 
@@ -230,7 +238,7 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 
 - **Remnants of Arnor** `PASSIVE`
 
-Friendly Dunedain models treat Aranarth as a [banner][Banner]. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
+Friendly Dunedain models treat Aranarth as a [banner]. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
 
 </div>
 
@@ -298,7 +306,7 @@ Friendly Dunedain Hero models may benefit from Arathorn's [Stand Fast].
 
 - **Lead by Example** `ACTIVE`
 
-If Buhrdûr slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner][Banner]. If Buhrdûr has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner][Banner] with a range of 6" instead.
+If Buhrdûr slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner]. If Buhrdûr has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner] with a range of 6" instead.
 
 - **Brutish Cunning** `ACTIVE`
 
@@ -483,7 +491,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 - [Armour]
 - [Hand Weapon]
-- [Hand-and-a-half Weapon]
+- [Hand-and-a-half] Weapon
 
 **HEROIC ACTIONS**
 
@@ -536,7 +544,7 @@ Incantation of Swiftness - Friendly Carn Dûm models that start their Move withi
 
 - **Banner of Arwen Evenstar** `PASSIVE`
 
-This is a [banner][Banner] with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a [banner][Banner]. Additionally, friendly models within 6" and Line of Sight of the [Banner] of Arwen Evenstar automatically pass any Courage Tests they are required to take.
+This is a [banner] with a range of 6" rather than 3", and Halbarad never suffers the -1 penalty to his Duel Rolls for carrying a [banner]. Additionally, friendly models within 6" and Line of Sight of the [Banner] of Arwen Evenstar automatically pass any Courage Tests they are required to take.
 
 </div>
 
@@ -597,7 +605,7 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 - **Scavenge** `ACTIVE`
 
-Whenever Nazthák slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of [armour][Armour], living creatures, [the One Ring][The One Ring], or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthák's list of wargear. Nazthák will benefit from the scavenged wargear as if he was the original model. Nazthák may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
+Whenever Nazthák slays an enemy model in Combat (with the exception of Monster models), he may choose to scavenge a single piece of wargear carried by that model, with the exception of a Mount, another type of [armour], living creatures, [the One Ring], or items of wargear that are integral to the model (such as claws and teeth). This will happen before any effects that allow the slain model to pass on that piece of wargear. Add the scavenged item to Nazthák's list of wargear. Nazthák will benefit from the scavenged wargear as if he was the original model. Nazthák may choose to discard any piece of scavenged wargear at any time, though if he does so then he cannot reclaim it - it is lost.
 
 </div>
 
@@ -793,7 +801,7 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 </div>
 
@@ -819,10 +827,10 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 
 An Angmar Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and [Throwing] [Spears][Spear] - 2 points
+- [Shield] and [Throwing] Spears - 2 points
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
+- [Throwing] Spears - 1 point
 
 </div>
 
@@ -880,6 +888,10 @@ This model may re-roll a single D6 in a Duel Roll when fighting solely against I
 
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1)
+
+- **Tookish Hunter**
+
+Hobbit Archers in Pippin's or Paladin's Warband upgraded to Tookish Hunters re-roll To Wound rolls of a natural 1 when making Shooting Attacks.
 
 </div>
 

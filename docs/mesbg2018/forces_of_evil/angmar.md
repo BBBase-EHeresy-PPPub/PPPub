@@ -50,7 +50,7 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed] [Flail] - 5 points
+- [Two-Handed][] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -137,7 +137,7 @@ If Aldrac slays an enemy model in combat, then he may declare a free [Heroic Com
 
 - **Lead by Example** `ACTIVE`
 
-In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a [banner][Banner].
+In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a [banner].
 
 </div>
 
@@ -155,7 +155,7 @@ In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc 
 
 **WARGEAR**
 
-- Huge Claws and Teeth
+- [Huge Claws and Teeth][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -174,7 +174,7 @@ In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc 
 
 Regains a single Wound for each model slain. Rend is the only Brutal Power Attack that can also work in this manner. His wounds can never exceed 4.
 
-- ***Strength of Body, Strength of Will** `PASSIVE`
+- **Strength of Body, Strength of Will** `PASSIVE`
 
 Attack and Courage value are equal to remaining wounds.
 
@@ -195,7 +195,7 @@ Attack and Courage value are equal to remaining wounds.
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Sword]
+- [Two-handed][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -312,7 +312,7 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 - [Warg] - 10 points
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -341,7 +341,7 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -374,7 +374,7 @@ Roll a D6 for each non-spirit model (2D6 for cavalry), for both friendly or enem
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -423,7 +423,7 @@ If this model is in combat with an enemy hero model (but not if they are support
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Mace]
+- [Hand-and-a-half][] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -467,7 +467,7 @@ When Golfimbul suffers a wound, roll a D6. On a 5+, the Wound is ignored. This c
 
 - **Scavenge** `ACTIVE`
 
-Whenever Nazthak kills an enemy model in combat (except for Monsters), he may scavenge a single piece of wargear carried by that model, except for a mount, [the One Ring][The One Ring], or integral items to the model (such as claws and teeth). This happens before any effects that allow the enemy model to pass on that wargear. That item becomes part of Nazthak's wargear, with any of it's benefits. He may choose to discard any scavenged wargear at any time, but it cannot be reclaimed once done so.
+Whenever Nazthak kills an enemy model in combat (except for Monsters), he may scavenge a single piece of wargear carried by that model, except for a mount, [the One Ring], or integral items to the model (such as claws and teeth). This happens before any effects that allow the enemy model to pass on that wargear. That item becomes part of Nazthak's wargear, with any of it's benefits. He may choose to discard any scavenged wargear at any time, but it cannot be reclaimed once done so.
 
 </div>
 
@@ -489,7 +489,7 @@ Whenever Nazthak kills an enemy model in combat (except for Monsters), he may sc
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -569,7 +569,7 @@ If The Shadow of Rhudaur rolls a natural 6 on a casting roll, the channelled ver
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -618,7 +618,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 **OPTIONS**
 
 - [Warg] - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -647,8 +647,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
-- Swap Weapon - 1 point
+- [Two-handed] Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -675,8 +675,8 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
-- Swap Weapon - 1 point
+- [Throwing] Spears - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -700,7 +700,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 
 - Troll Chain - 5 points
 - Swap [Spear] for [Hammer] - 5 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -710,7 +710,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 
 - **Troll Chain** `ACTIVE`
 
-A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
+A [throwing] weapon with range 3" and Strength 5.
 
 </div>
 
@@ -733,7 +733,7 @@ A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -764,7 +764,7 @@ During its move, a spectre can choose an enemy model within 12" and in Line of S
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -773,7 +773,7 @@ During its move, a spectre can choose an enemy model within 12" and in Line of S
 
 - **Pathfinders** `PASSIVE`
 
-At the start of a game, if you have any Hill Trolls in your force, you may select a piece of difficult terrain (other than a water feature). Friendly Angmar models will no longer treat it as difficult terrain. This still does not allow a model to [fly][Fly] out of a woods.
+At the start of a game, if you have any Hill Trolls in your force, you may select a piece of difficult terrain (other than a water feature). Friendly Angmar models will no longer treat it as difficult terrain. This still does not allow a model to [fly] out of a woods.
 
 - **Hill Troll Intelligence** `ACTIVE`
 
@@ -802,7 +802,7 @@ May re-roll a single D6 in the Duel roll when fighting solely against infantry m
 **OPTIONS**
 
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - [Spear] - 1 point
 
 **SPECIAL RULES**
@@ -827,7 +827,7 @@ If this model is in combat with an enemy hero model (but not if they are support
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -854,6 +854,6 @@ When a werewolf charges an enemy Infantry model, they gain the Knock to Ground s
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 </div>

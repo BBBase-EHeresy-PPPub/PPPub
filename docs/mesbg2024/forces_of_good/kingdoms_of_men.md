@@ -56,7 +56,7 @@ At the start of any Combat involving Brand, check to see if Brand would be consi
 
 **OPTIONS**
 
-- Windlance - 50 points
+- [Windlance](../forces_of_good/kingdoms_of_men.md#windlance-70-points) - 50 points
 
 **SPECIAL RULES**
 
@@ -101,7 +101,7 @@ Girion's [Stand Fast] is 12" rather than 6". Additionally, friendly Dale models 
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that Charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that Charged them this turn.
 
 </div>
 
@@ -131,7 +131,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear][S
 
 - **Moneybags** `ACTIVE`
 
-At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a [banner][Banner] until the end of the turn.
+At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a [banner] until the end of the turn.
 
 - **Price of Greed** `PASSIVE`
 
@@ -202,7 +202,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 
 **OPTIONS**
 
-- Windlance - 50 points
+- [Windlance](../forces_of_good/kingdoms_of_men.md#windlance-70-points) - 50 points
 - Exchange [Great Bow] for [Armour] and [Horse] - 20 points
 
 **SPECIAL RULES**
@@ -214,7 +214,7 @@ At the start of his Activation, Alfrid may choose a single other friendly Lake-t
 
 - **Rapid Fire** `ACTIVE`
 
-If Bard hits a target with his [great bow][Great Bow], he may make another shooting attack with his [great bow][Great Bow] that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
+If Bard hits a target with his [great bow], he may make another shooting attack with his [great bow] that targets a model within 3" of the initial target - it may even be the same target. If that second shot also hits, then Bard may Shoot again as described above. Bard can make a maximum of three shots per turn as a result of this special rule.
 
 - **Swift Shot** `ACTIVE`
 
@@ -261,15 +261,15 @@ If Bard is upgraded to take a Windlance, then he counts as the only crew for the
 
 - **Mithril Coat** `PASSIVE`
 
-This is a Unique piece of [Mithril Armour][Mithril Armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
+This is a Unique piece of [Mithril Armour]. Additionally, the wearer may re-roll Fate Rolls of a 1.
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon][Hand Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 
-Bilbo ignores the Sauron's Will section of the rules for [the One Ring][The One Ring]. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing [the One Ring][The One Ring], he is not removed as a casualty as would usually be the case.
+Bilbo ignores the Sauron's Will section of the rules for [the One Ring]. Furthermore, if Bilbo is the only model left on his controlling player's side, and is wearing [the One Ring], he is not removed as a casualty as would usually be the case.
 
 </div>
 
@@ -553,7 +553,7 @@ Whilst within 6" of Sigrid or Tilda, Bard the Bowman gains a bonus of +1 to his 
 
 - **Wall of Blades** `ACTIVE`
 
-This model gains a bonus of +1 To Wound when making Strikes with their [spear][Spear] against a model that Charged them this turn.
+This model gains a bonus of +1 To Wound when making Strikes with their [spear] against a model that Charged them this turn.
 
 </div>
 

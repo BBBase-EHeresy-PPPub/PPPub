@@ -36,4 +36,4 @@
 
 **"The Isengard Hordes"** - Hero models from this force increase the number of models they can include in their warband by 6.
 
-**"Break the Walls"** - Isengard Ballistae from this army list may re-roll results of 1 on To Hit and Scatter rolls during the Shoot phase. Additionally, whenever a demolition charge from your army is detonated, you may roll two dice rather than one and [pick][Pick] either result.
+**"Break the Walls"** - Isengard Ballistae from this army list may re-roll results of 1 on To Hit and Scatter rolls during the Shoot phase. Additionally, whenever a demolition charge from your army is detonated, you may roll two dice rather than one and [pick] either result.

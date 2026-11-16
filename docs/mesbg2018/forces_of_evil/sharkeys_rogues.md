@@ -34,7 +34,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 **WARGEAR**
 
-- Jagged Knife ([sword][Sword])
+- Jagged Knife ([sword])
 - [Club]
 - [Whip]
 
@@ -48,7 +48,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 - **With Me Lads!** `PASSIVE`
 
-Other friendly Ruffian models treat Sid as a [banner][Banner].
+Other friendly Ruffian models treat Sid as a [banner].
 
 - **Put 'em in Chains** `ACTIVE`
 
@@ -56,7 +56,7 @@ Instead of making Strikes, Sid may choose a Hobbit model and roll a D6. If highe
 
 - **Brawler** `PASSIVE`
 
-Never counts as being [unarmed][Unarmed].
+Never counts as being [unarmed].
 
 </div>
 
@@ -178,7 +178,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 **WARGEAR**
 
 - [Club]
-- Knife ([sword][Sword])
+- Knife ([sword])
 
 **SPECIAL RULES**
 
@@ -214,7 +214,7 @@ Once per game, if within 1" of a building or woodland terrain, roll a D6. On 3+,
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Bow] - 1 point
 - [Whip] - 1 point
 
@@ -274,7 +274,7 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -303,7 +303,7 @@ Ted may include only include Hobbit models in his warband, and may include Hobbi
 
 - [Bow] - 1 point
 - [Whip] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

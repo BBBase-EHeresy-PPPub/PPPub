@@ -20,7 +20,7 @@ This army may include: Treebeard; Beechbone; Quickbeam; Ent.
 
 **WARGEAR**
 
-- Roots and Branches
+- [Roots and Branches][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -108,7 +108,7 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 
 **WARGEAR**
 
-- Roots and Branches
+- [Roots and Branches][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -145,7 +145,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and Branches
+- [Roots and Branches][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -179,7 +179,7 @@ Choose one enemy model as a bludgeon, and another model as the target. Both suff
 
 **WARGEAR**
 
-- Roots and Branches
+- [Roots and Branches][Single-handed Weapons]
 
 **SPECIAL RULES**
 

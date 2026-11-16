@@ -16,7 +16,7 @@ This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatle
 
 **WARGEAR**
 
-- [Hand-and-a-half][Hand-And-A-Half] [Axe]
+- [Hand-and-a-half][] [Axe]
 - Great [Bow]
 
 **HEROIC ACTIONS**
@@ -106,7 +106,7 @@ If Grimbeorn wins a Duel, instead of striking as normal, choose a single model i
 
 **WARGEAR**
 
-- Cudgel ([club][Club])
+- Cudgel ([club])
 
 **HEROIC ACTIONS**
 
@@ -265,12 +265,12 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 **WARGEAR**
 
-- <span style="color: darkmagenta">[Hand-and-a-half][Hand-And-A-Half] [Axe]</span>
+- <span style="color: darkmagenta">[Hand-and-a-half][] [Axe]</span>
 - <span style="color: darkmagenta">[Axe]</span>
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - Swap [Axe] for Great [Bow] - Free
 
 **SPECIAL RULES**
@@ -280,7 +280,7 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 - **Followers of the Bear** `PASSIVE`
 
-This model counts as being in range of a [banner][Banner] if they are within 6" of a friendly Bear model.
+This model counts as being in range of a [banner] if they are within 6" of a friendly Bear model.
 
 </div>
 
@@ -297,13 +297,13 @@ This model counts as being in range of a [banner][Banner] if they are within 6" 
 
 **WARGEAR**
 
-- Iron-shod Hooves
+- [Iron-shod Hooves][Single-handed Weapons]
 
 **SPECIAL RULES**
 
 - **Official Meals** `PASSIVE`
 
-Hobbit models treat Bill the [Pony] as a [banner][Banner].
+Hobbit models treat Bill the [Pony] as a [banner].
 
 - **Second Breakfast** `PASSIVE`
 

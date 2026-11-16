@@ -46,7 +46,7 @@
 
 - **Breathe Fire** `ACTIVE`
 
-<span style="color: darkmagenta">The Dragon can Breathe Fire as a shooting attack during the Shoot Phase; treat this as a [bow][Bow] with a range of 12". If the shot hits, then the model that is hit suffers a Strength 10 hit and if they suffer a Wound from this hit, which is not prevented, they are automatically slain. Additionally, all other models (friend and foe) within 2" are immediately [Set Ablaze] - though they will not be automatically slain if wounded. This is a fire-based attack.</span>
+<span style="color: darkmagenta">The Dragon can Breathe Fire as a shooting attack during the Shoot Phase; treat this as a [bow] with a range of 12". If the shot hits, then the model that is hit suffers a Strength 10 hit and if they suffer a Wound from this hit, which is not prevented, they are automatically slain. Additionally, all other models (friend and foe) within 2" are immediately [Set Ablaze] - though they will not be automatically slain if wounded. This is a fire-based attack.</span>
 
 - **Fly** `ACTIVE`
 
@@ -94,7 +94,7 @@ The Dragon gains a free Will Point at the start of each turn. If this free Will 
 
 - **Fiery Lash** `ACTIVE`
 
-This is a [throwing weapon][Throwing Weapon] with a range of 8" and a Strength of 7. Additionally, a model that is hit by this weapon and is not slain will be removed from the board and then placed anywhere in base contact with the Balrog, as chosen by the Balrog's controlling player. A Cavalry model that is hit will have the whole model dragged in this way. If, for whatever reason, the model cannot be placed in base contact, then it is not moved at all. If a model placed in this way would end up in base contact with other enemy models in addition to the Balrog, then those models do not count as being Engaged in Combat with the placed model unless they subsequently Charge the placed model. This is a fire-based attack, so if a model is immune to [fire-based attacks][Fire-based Attacks], they are immune to this attack.
+This is a [throwing] weapon with a range of 8" and a Strength of 7. Additionally, a model that is hit by this weapon and is not slain will be removed from the board and then placed anywhere in base contact with the Balrog, as chosen by the Balrog's controlling player. A Cavalry model that is hit will have the whole model dragged in this way. If, for whatever reason, the model cannot be placed in base contact, then it is not moved at all. If a model placed in this way would end up in base contact with other enemy models in addition to the Balrog, then those models do not count as being Engaged in Combat with the placed model unless they subsequently Charge the placed model. This is a fire-based attack, so if a model is immune to [fire-based attacks], they are immune to this attack.
 
 - **Goblin Mastery** `PASSIVE`
 
@@ -102,7 +102,7 @@ Friendly Moria Goblin models within 6" of the Balrog automatically pass any Cour
 
 - **Flame of Udun** `PASSIVE`
 
-The Balrog is never considered to be Unarmed. Additionally, at the end of a Combat involving the Balrog, any model that suffered a Wound from the Balrog (even if the Wound is prevented) and was not slain must roll a D6. On a natural 6, the model is immediately [Set Ablaze]. If a model is immune to [fire-based attacks][Fire-based Attacks], they will still suffer Wounds from the Balrog's Strikes as normal, but can not be [Set Ablaze]. The Balrog is itself immune to [fire-based attacks][Fire-based Attacks].
+The Balrog is never considered to be Unarmed. Additionally, at the end of a Combat involving the Balrog, any model that suffered a Wound from the Balrog (even if the Wound is prevented) and was not slain must roll a D6. On a natural 6, the model is immediately [Set Ablaze]. If a model is immune to [fire-based attacks], they will still suffer Wounds from the Balrog's Strikes as normal, but can not be [Set Ablaze]. The Balrog is itself immune to [fire-based attacks].
 
 - **Demon of the Ancient World** `PASSIVE`
 
@@ -124,7 +124,7 @@ The Balrog may declare a [Heroic Combat] each turn for free. Additionally, speci
 
 **WARGEAR**
 
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -145,7 +145,7 @@ The Goblin King may Move through friendly Goblin models when he Charges into Com
 
 - **Goblin Projectile** `ACTIVE`
 
-During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack — this has a range of 12" and counts as a [throwing weapon][Throwing Weapon]. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
+During the Shoot Phase, if the Goblin King is in base contact with a friendly Goblin model and neither are Engaged in Combat, then the Goblin King can make a shooting attack — this has a range of 12" and counts as a [throwing] weapon. Remove the friendly Goblin model as a casualty, and then make the To Hit Roll and any In The Way Tests as normal. The shot is resolved at a Strength of 8, and any model that is hit will automatically be knocked Prone.
 
 - **Blubbery Mass** `PASSIVE`
 
@@ -334,7 +334,7 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
+This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed] weapon in the same Combat.
 
 </div>
 
@@ -369,7 +369,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions Step, Grinnah
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
+This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed] weapon in the same Combat.
 
 </div>
 
@@ -568,10 +568,10 @@ Instead of making Strikes, a Cave Drake may choose a single enemy model on a 25m
 
 **WARGEAR**
 
-- Strangling fingers ([hand weapon][Hand Weapon])
+- Strangling fingers ([hand weapon])
 - [The One Ring]
 
-Gollum has strong, strangling fingers and so is never considered to be [Unarmed] - ever! If your opponent does not have a Ringbearer in their Army, then Gollum carries [the One Ring][The One Ring].
+Gollum has strong, strangling fingers and so is never considered to be [Unarmed] - ever! If your opponent does not have a Ringbearer in their Army, then Gollum carries [the One Ring].
 
 **SPECIAL RULES**
 
@@ -581,7 +581,7 @@ Gollum has strong, strangling fingers and so is never considered to be [Unarmed]
 
 - **The Precious** `ACTIVE`
 
-If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must always Charge the enemy Ringbearer if possible. Additionally, if Gollum kills the enemy Ringbearer in Combat, then he will automatically regain [the One Ring][The One Ring] - from that point onwards he counts as having it as part of his Wargear.
+If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must always Charge the enemy Ringbearer if possible. Additionally, if Gollum kills the enemy Ringbearer in Combat, then he will automatically regain [the One Ring] - from that point onwards he counts as having it as part of his Wargear.
 
 </div>
 
@@ -599,7 +599,7 @@ If your opponent's Army contains a Ringbearer, then when Gollum Moves, he must a
 
 **WARGEAR**
 
-- Tentacles ([hand weapon][Hand Weapon])
+- Tentacles ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -688,7 +688,7 @@ Enemy models Engaged in Combat with a Bat Swarm halve their Fight value.
 
 A Cave Troll must have one of the following options for the listed points cost:
 
-- [Hand-and-a-half][Hand-And-A-Half] [Hammer] - 5 points
+- [Hand-and-a-half][] [Hammer] - 5 points
 - Troll [Spear] - 5 points
 
 **SPECIAL RULES**
@@ -699,11 +699,11 @@ A Cave Troll must have one of the following options for the listed points cost:
 
 - **Troll Chain** `ACTIVE`
 
-This is a [throwing weapon][Throwing Weapon] with a range of 3" and a Strength of 5.
+This is a [throwing] weapon with a range of 3" and a Strength of 5.
 
 - **Troll Spear** `ACTIVE`
 
-This is a [spear][Spear]. Additionally, if this model is not Supporting, any To Wound Rolls of a natural 6 it makes when making Strikes that are not prevented will deal 2 Wounds rather than 1.
+This is a [spear]. Additionally, if this model is not Supporting, any To Wound Rolls of a natural 6 it makes when making Strikes that are not prevented will deal 2 Wounds rather than 1.
 
 </div>
 
@@ -725,7 +725,7 @@ This is a [spear][Spear]. Additionally, if this model is not Supporting, any To 
 
 **OPTIONS**
 
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -733,7 +733,7 @@ This is a [spear][Spear]. Additionally, if this model is not Supporting, any To 
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a [spear][Spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
+This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed] weapon in the same Combat.
 
 </div>
 
@@ -761,9 +761,9 @@ Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are re
 
 Enemy models suffer a -1 penalty to any Courage Tests they are required to take.
 
-Friendly Moria Goblin models within 18" count as being in range of a [banner][Banner].
+Friendly Moria Goblin models within 18" count as being in range of a [banner].
 
-Whilst being played, the Moria Goblin Drum counts as a [banner][Banner] for the purpose of Victory Points.
+Whilst being played, the Moria Goblin Drum counts as a [banner] for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 
@@ -803,8 +803,8 @@ If a Moria Goblin Drummer is slain, then they may pass on their wargear to a fri
 **WARGEAR**
 
 - [Armour]
-- [Two-handed Weapon]
-- [Throwing Weapons]
+- [Two-handed] Weapon
+- [Throwing] Weapons
 
 **SPECIAL RULES**
 

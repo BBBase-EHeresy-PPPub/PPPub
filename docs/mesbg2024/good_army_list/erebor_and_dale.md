@@ -45,12 +45,12 @@
 - An Erebor & Dale Army must include Girion and at least one Unique Erebor Hero.
 - Erebor Warrior models can only be included in the Warband of an Erebor Hero.
 - Dale Warrior models can only be included in the Warband of a Dale Hero.
-- Ignore the usual rules for Bow Limit and [Throwing Weapon] Limit in this Army List. Instead, a maximum of 50% of your Dale Warrior models can have a [bow][Bow], and a maximum of 50% of your Erebor Warrior models can have [throwing weapons][Throwing Weapons].
+- Ignore the usual rules for Bow Limit and [Throwing] Weapon Limit in this Army List. Instead, a maximum of 50% of your Dale Warrior models can have a [bow], and a maximum of 50% of your Erebor Warrior models can have [throwing] weapons.
 
 ## SPECIAL RULES
 
 **Alliance of Men and Dwarves** - Friendly Dale models may re-roll To Wound Rolls of a natural 1 when making Strikes if there is a friendly Erebor model Engaged in the same Combat. Friendly Erebor models may re-roll To Wound Rolls of a natural 1 when making Strikes if there is a friendly Dale model Engaged in the same Combat.
 
-**Lords of the Kingdoms** - Friendly Dale models treat Girion as a [banner][Banner]. Friendly Erebor models treat Thrór as a [banner][Banner].
+**Lords of the Kingdoms** - Friendly Dale models treat Girion as a [banner]. Friendly Erebor models treat Thrór as a [banner].
 
 **Great Prosperity** - Whenever a friendly Hero model spends a Might Point, roll a D6. On a natural 6, the Might Point was free and does not reduce the Hero model's store of Might.

@@ -33,10 +33,10 @@ Gandalf may re-roll his dice when making Fate rolls.
 
 | | Range | Casting |
 |------------------|:-----:|:-------:|
-| Immobilise | 12" | 2+ |
-| Terrifying Aura | - | 2+ |
-| Command | 12" | 3+ |
-| Sorcerous Blast | 12" | 4+ |
+| [Immobilise](battlehost_quickstart_rules_guide.md#immobilisetransfix) | 12" | 2+ |
+| [Terrifying Aura](battlehost_quickstart_rules_guide.md#terrifying-aura) | - | 2+ |
+| [Command](battlehost_quickstart_rules_guide.md#commandcompel) | 12" | 3+ |
+| [Sorcerous Blast](battlehost_quickstart_rules_guide.md#sorcerous-blast) | 12" | 4+ |
 
 </div>
 

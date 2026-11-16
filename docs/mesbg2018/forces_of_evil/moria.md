@@ -62,7 +62,7 @@ May call a free [Heroic Combat] each turn.
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -81,7 +81,7 @@ May call a free [Heroic Combat] each turn.
 **OPTIONS**
 
 - Breathe Fire - 50 points
-- Fly - 50 points
+- [Fly] - 50 points
 - Tough Hide - 50 points
 - Wyrmtongue - 50 points
 
@@ -92,6 +92,22 @@ May call a free [Heroic Combat] each turn.
 - [Resistant to Magic]
 - [Survival Instinct]
 - [Terror]
+
+- **Breathe Fire**
+
+Each time a Dragon Breathes Fire, it expense a point of Will. Treat the Dragon's fiery breath as a bow with a range of 12". If the shot hits, the target and all models (friends and foe) within 2" suffer a Strength 10 hit. Any model that suffers an unsaved wound (Fate may still bge taken) from a Dragon's Breathe Fire is automatically slain.
+
+- **Tough Hide**
+
+The Dragon increases its wounds and defence to 9, rather than 7.
+
+- **Wyrmtongue**
+
+A Dragon with this ability can spend a single Will point each turn without reducing its own store of Will, so long as the Will point is used to cast one of the following Magical Powers. The controlling player may still spend extra Will points to increase the number of dice in the usual way:
+
+- [Transfix] (range 12", casting 3+)
+
+- [Compel] (range 12", casting 4+)
 
 </div>
 
@@ -143,7 +159,7 @@ Durburz's [Stand Fast!] has a range of 12"
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Staff]
+- [Two-handed][] [Staff]
 
 **HEROIC ACTIONS**
 
@@ -261,7 +277,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][Two-Handed] [Sword]
+- [Two-handed][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -269,7 +285,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -303,7 +319,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -325,7 +341,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **HEROIC ACTIONS**
 
@@ -445,7 +461,7 @@ Instead of striking as normal, select a single Man-sized (or smaller model) and 
 
 - **From the Deep** `ACTIVE`
 
-See page 159 of Armies of LOTR book.
+Do not deploy the Watcher with the army; it cannot be part of another Hero's Warband. In each Priority Phase after Priority is rolled, you may declare that it will arrive and roll a D6. On a 3+, immediately place it anywhere on the battlefield. After declaring its arrival, you must roll in every subsequent Priority Phase until it arrives. Displace any models the minimum distance needed to leave them 1" away, or as close as possible; players alternate displacing models, starting with the Watcher's player. The Watcher cannot Charge on the turn it arrives.
 
 - **Many Tentacles** `PASSIVE`
 
@@ -481,7 +497,7 @@ Whilst within water, The Watcher can choose a single Man-sized (or smaller) mode
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -513,7 +529,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 - Troll Chain - 5 points
 - Swap [Spear] for [Hammer] - 5 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -523,7 +539,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 - **Troll Chain** `ACTIVE`
 
-A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
+A [throwing] weapon with range 3" and Strength 5.
 
 </div>
 
@@ -541,7 +557,7 @@ A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -568,7 +584,7 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 
 **WARGEAR**
 
-- Venomous Fangs
+- [Venomous Fangs][Single-handed Weapons]
 
 **OPTIONS**
 
@@ -579,6 +595,14 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 - Poisoned Fangs
 - [Swift Movement]
 - [Terror]
+
+- **Poisoned Fangs**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
+
+- **Venom-back Spider**
+
+If the force includes Ashrak, Giant Spiders may be upgraded to Venom-back Spiders. They gain [Venom].
 
 </div>
 
@@ -603,7 +627,7 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 **OPTIONS**
 
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -627,12 +651,12 @@ Whenever a Dweller in the Dark slays an enemy model in combat, it regains a sing
 **WARGEAR**
 
 - [Heavy Armour]
-- Clubs
+- [Clubs][Club]
 - One Drum
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -649,7 +673,11 @@ If Drummer and Bearer are in base contact, the drum is playing.
 
 - **Doom! Doom!** `ACTIVE`
 
-Drum effects found on page 161 of Armies of LOTR book.
+While the drum is playing, Fights within 12" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a [banner]. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules.
+
+- **One Drum**
+
+The two Moria Blackshield Drummers share one drum. It is playing while the Drummer and Drum Bearer are in base contact; apply Doom! Doom! as described above.
 
 </div>
 
@@ -667,7 +695,7 @@ Drum effects found on page 161 of Armies of LOTR book.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -681,7 +709,7 @@ If a Drummer is slain, they may pass on their wargear to any unengaged Moria Gob
 
 - **Drums in the Deep** `ACTIVE`
 
-A Drummer must be in contact with the drum, and not Engaged. Drum effects found on page 161 of Armies of LOTR book.
+At least one Moria Goblin Drummer must have started the turn in base contact with the drum and must not be Engaged to play it. While playing, Fights within 18" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a [banner]. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules. The drum is a [Heavy Object] and cannot be played in a turn in which it moved.
 
 </div>
 
@@ -700,12 +728,12 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][Two-Handed] [Axe]
-- [Throwing] [Daggers][Dagger]
+- [Two-handed][] [Axe]
+- [Throwing] Daggers
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -736,7 +764,7 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -758,11 +786,11 @@ A Drummer must be in contact with the drum, and not Engaged. Drum effects found 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -792,6 +820,6 @@ Goblins mounted with Orc bows can still fire even after the [Warg] Marauder has 
 
 **WARGEAR**
 
-- Claws and Teeth
+- [Claws and Teeth][Single-handed Weapons]
 
 </div>

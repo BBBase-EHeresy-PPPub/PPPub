@@ -49,7 +49,7 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 
 - **Hadhafang** `ACTIVE`
 
-[Hand-and-a-half][Hand-And-A-Half] [sword][Sword], +1 To Wound when striking Spirit models.
+[Hand-and-a-half][] [sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `<span style="color: darkmagenta">PASSIVE</span>`
 
@@ -105,7 +105,7 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 
 - **Aiglos** `ACTIVE`
 
-[Elven-made] [spear][Spear], add +1 to all To Wound rolls.
+[Elven-made][] [spear], add +1 to all To Wound rolls.
 
 - **High King of the Elves** `ACTIVE`
 
@@ -131,7 +131,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -154,7 +154,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 - **Armour of Gondolin** `PASSIVE`
 
-[Heavy armour][Heavy Armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
+[Heavy armour], monsters may not use brutal power attacks against Glorfindel if he equips this.
 
 - **Unbending Resolve** `PASSIVE`
 
@@ -163,6 +163,10 @@ Glorfindel permanently has the [Fortify Spirit] spell cast upon him.
 - **Lord of the West** `ACTIVE`
 
 Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
+
+- **Asfaloth**
+
+Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [Fleetfoot] while mounted on Asfaloth.
 
 </div>
 
@@ -180,10 +184,10 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **OPTIONS**
 
-- Horses - 20 points
+- [Horses][Horse] - 20 points
 - [Heavy Armour] - 10 points
-- Elf Bows - 10 points
-- Elven Cloaks - 10 points
+- [Elf Bows][Bow] - 10 points
+- [Elven Cloaks][Elven Cloak] - 10 points
 
 </div>
 
@@ -215,7 +219,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 - **Noldorin Daggers** `ACTIVE`
 
-[Elven-made] daggers, may be used as [Throwing weapons][Throwing Weapons]. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
+[Elven-made] daggers, may be used as [Throwing] weapons. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
 
 </div>
 
@@ -233,7 +237,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -271,7 +275,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -283,7 +287,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 - Elf [Bow] - 5 points
 - [Lance] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -306,7 +310,7 @@ Re-roll a single D6 in the Duel roll. Also re-roll a single D6 in To Wound roll.
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 
 **OPTIONS**
 
@@ -345,7 +349,7 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **WARGEAR**
 
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -369,6 +373,10 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 - [Woodland Creature]
 - [Expert Rider]
+
+- **Asfaloth**
+
+Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [Fleetfoot] while mounted on Asfaloth.
 
 </div>
 
@@ -427,7 +435,7 @@ Cirdan may spend a single point of Will each turn for free.
 **WARGEAR**
 
 - [Armour]
-- [Elven-made] [Sword]
+- [Elven-made][] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -482,6 +490,14 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - [Resistant to Magic]
 - [Throw Stones] (range 8", Strength 1).
 
+- **Mithril Coat** `PASSIVE`
+
+While wearing the Mithril Coat, Bilbo gains +3 Defence.
+
+- **Sting** `ACTIVE`
+
+Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
+
 </div>
 
 ---
@@ -501,7 +517,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 
 **OPTIONS**
 
@@ -511,11 +527,15 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - [Shield] - 1 point
 - [Spear] - 1 point
 - King's Guard Upgrade - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
 - [Woodland Creature]
+
+- **King's Guard Upgrade**
+
+High Elf Warriors in Gil-galad's Warband may be upgraded to King's Guard. King's Guard have Fight 6.
 
 </div>
 
@@ -535,7 +555,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 - [Heavy Armour]
 - [Lance]
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 - Elf [Bow]
 - [Horse]
 
@@ -544,7 +564,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 - [War Horn] - 30 points
 - [Banner] - 25 points
 - [Shield] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -567,17 +587,17 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- [Elven-made] [Hand-and-a-half][Hand-And-A-Half] [Sword]
+- [Elven-made][] [Hand-and-a-half][] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- [Throwing] [Daggers][Dagger] - 2 points
+- [Throwing] Daggers - 2 points
 - Wood Elf [Spear] - 1 point
 - Noldorin Exiles Upgrade - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -585,6 +605,10 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 - **Wood Elf spear** `ACTIVE`
 
-This [spear][Spear] may also parry, which uses the rules for Shielding.
+This [spear] may also parry, which uses the rules for Shielding.
+
+- **Noldorin Exiles Upgrade**
+
+Wood Elf Warriors in Gildor Inglorion's Warband must be upgraded to Noldorin Exiles. Noldorin Exiles have a Move Value of 8".
 
 </div>

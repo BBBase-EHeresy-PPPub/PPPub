@@ -52,11 +52,11 @@ This army may include: Sauron; Witch King; Black Numenorean Marshall; Mordor Tro
 
 Must be your army's leader.
 
-- ***The Lord of the Rings** `PASSIVE`
+- **The Lord of the Rings** `PASSIVE`
 
 Free point of Will each turn.
 
-- ****The One Ring** `PASSIVE`
+- **The One Ring** `PASSIVE`
 
 D6 for each wound that would slay him. On 2+, restore 1 Wound.
 
@@ -114,7 +114,7 @@ Single strike against one model. If they survive, they are [Set Ablaze].
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed] [Flail] - 5 points
+- [Two-Handed][] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -161,8 +161,8 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -194,7 +194,7 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -229,7 +229,7 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 - [Warg] - 10 points
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -257,7 +257,7 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -308,7 +308,7 @@ Each time a friendly Mordor Hero model within 6" (including the Taskmaster himse
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -354,7 +354,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 **OPTIONS**
 
 - [Warg] - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -378,7 +378,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -396,7 +396,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 
 **WARGEAR**
 
-- Large Venomous Fangs
+- [Large Venomous Fangs][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -440,7 +440,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -463,12 +463,12 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][Hand-And-A-Half] [Hammer]
+- [Hand-and-a-half][] [Hammer]
 
 **OPTIONS**
 
 - [War Drum] (Mordor) - 30 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -501,7 +501,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -529,7 +529,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 **OPTIONS**
 
 - [Warg] - 7 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -556,8 +556,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
-- Swap Weapon - 1 point
+- [Two-handed] Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -584,8 +584,8 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
-- Swap Weapon - 1 point
+- [Throwing] Spears - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -615,7 +615,7 @@ Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Vet
 
 - Orc [Engineer Captain] - 40 points
 - [Flaming Ammunition] - 15 points
-- Additional Crew - 5 points
+- [Additional Crew] - 5 points
 - [Engineer Captain] - Orc [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -662,7 +662,7 @@ Crewed by three Orc Warriors with armour and sword, one of which is a [Siege Vet
 - Orc [Engineer Captain] - 40 points
 - [Flaming Ammunition] - 15 points
 - [Severed Heads] - 5 points
-- Additional Crew - 5 points
+- [Additional Crew] - 5 points
 - [Engineer Captain] - Orc [Bow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
 
@@ -680,6 +680,6 @@ Always fires using Volley Fire, with range 12" - 96".
 
 - **Wall-breaker**
 
-When rolling To Wound against a Siege target, you may roll two dice and [pick][Pick] the highest.
+When rolling To Wound against a Siege target, you may roll two dice and [pick] the highest.
 
 </div>

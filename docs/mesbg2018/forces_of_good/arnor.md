@@ -36,7 +36,7 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 
 - **Chieftain of the Dunedain** `PASSIVE`
 
-If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a [banner][Banner].
+If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a [banner].
 
 </div>
 
@@ -130,7 +130,7 @@ Arvedui's [Stand Fast!] Is 12", rather than 6".
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - Swap [Shield] for [Bow] - Free
 
 **SPECIAL RULES**
@@ -190,7 +190,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 </div>
@@ -220,7 +220,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 **OPTIONS**
 
 - [Horse] - 10 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
 </div>
@@ -247,7 +247,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 **OPTIONS**
 
 - [War Horn] - 30 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -278,7 +278,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -307,7 +307,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 **OPTIONS**
 
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -333,7 +333,7 @@ Every time a friendly Arnor model suffers a Wound within 6" of Malbeth, roll a D
 **OPTIONS**
 
 - Swap [Spear] and [Shield] for [Banner] - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 

@@ -4,7 +4,7 @@ This army may include: Bill the Troll; Bert the Troll; Tom the Troll.
 
 ## ARMY BONUS
 
-**"Hold his toes over the fire, make him squeal"** - You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a [banner][Banner] in addition to all other effects it would usually provide.
+**"Hold his toes over the fire, make him squeal"** - You may include the Campfire in your army without having to pay the points for it. Additionally, the Three Trolls will treat the Campfire as a [banner] in addition to all other effects it would usually provide.
 
 ## HEROES OF THE TROLLS
 

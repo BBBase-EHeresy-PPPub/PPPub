@@ -55,7 +55,7 @@
 
 ## SPECIAL RULES
 
-**The Scorpion's Sting** - Friendly models with the [Poisoned Attacks] ([bow][Bow]) special rule exchange it for [Poisoned Attacks] on all of their weapons.
+**The Scorpion's Sting** - Friendly models with the [Poisoned Attacks] ([bow]) special rule exchange it for [Poisoned Attacks] on all of their weapons.
 
 **Suladân's Bodyguard** - So long as Suladân has Will Points remaining, friendly Elite models gain the [Sworn Protector] (Suladân) special rule.
 

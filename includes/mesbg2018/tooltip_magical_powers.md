@@ -18,7 +18,6 @@
 [Fortify Spirit]: ../rules_manual/magical_powers.md#fortify-spirit
 [Fury]: ../rules_manual/magical_powers.md#fury-x
 [Immobilise]: ../rules_manual/magical_powers.md#immobilisetransfix
-[Transfix]: ../rules_manual/magical_powers.md#immobilisetransfix
 [Instill Fear]: ../rules_manual/magical_powers.md#instill-fear
 [Nature's Wrath]: ../rules_manual/magical_powers.md#natures-wrath
 [Panic Steed]: ../rules_manual/magical_powers.md#panic-steed
@@ -32,6 +31,7 @@
 [Sorcerous Blast]: ../rules_manual/magical_powers.md#sorcerous-blast
 [Strengthen Will]: ../rules_manual/magical_powers.md#strengthen-will
 [Terrifying Aura]: ../rules_manual/magical_powers.md#terrifying-aura
+[Transfix]: ../rules_manual/magical_powers.md#immobilisetransfix
 [Tremor]: ../rules_manual/magical_powers.md#tremor
 [Wither]: ../rules_manual/magical_powers.md#wither
 [Wrath of Bruinen]: ../rules_manual/magical_powers.md#wrath-of-bruinen

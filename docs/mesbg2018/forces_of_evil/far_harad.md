@@ -35,7 +35,7 @@ This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War
 
 - **Long-bladed Spear** `ACTIVE`
 
-A [spear][Spear] and [two-handed weapon][Two-handed Weapon].
+A [spear] and [two-handed] weapon.
 
 - **Royal War Mumak** `PASSIVE`
 
@@ -78,9 +78,19 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 **OPTIONS**
 
 - War Camel - 10 points
-- [Blowpipe] with Poisoned Darts - 5 points
+- [Blowpipe] with [Poisoned Darts][Poisoned Weapons] - 5 points
 - [Shield] - 5 points
 - [War Spear] - 5 points
+
+**SPECIAL RULES**
+
+- **War Camel**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 0 | 4 | 4 | 0 | 1 | 2 |
+
+**Impaler:** On Charging, inflict one Strength 4 hit on one model Charged; against Cavalry, both rider and mount suffer the hit. If no longer Engaged and movement remains, the rider may continue moving, including Charging another enemy.
 
 </div>
 
@@ -109,10 +119,20 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 **OPTIONS**
 
 - War Camel - 10 points
-- [Blowpipe] with Poisoned Darts - 5 points
+- [Blowpipe] with [Poisoned Darts][Poisoned Weapons] - 5 points
 - [Shield] - 5 points
 - [War Spear] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
+
+**SPECIAL RULES**
+
+- **War Camel**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 0 | 4 | 4 | 0 | 1 | 2 |
+
+**Impaler:** On Charging, inflict one Strength 4 hit on one model Charged; against Cavalry, both rider and mount suffer the hit. If no longer Engaged and movement remains, the rider may continue moving, including Charging another enemy.
 
 </div>
 
@@ -153,6 +173,30 @@ Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel
 
 Inflicts three Strength 9 hits.
 
+- **Gnarled Hide**
+
+The Mumak has Defence 8 rather than 7.
+
+- **Rocks**
+
+If they do not move, models in the Howdah may make a Shooting attack with a range of 8" and a Strength of 6.
+
+- **Sigils of Defiance**
+
+Models in the Howdah gain the Resistant to Magic special rule. Additionally, every time a model in the Howdah suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if a point of Fate had been expended.
+
+- **Tusk Weapons**
+
+A Mumak with Tusk Weapons will inflict four Strength 9 hits when it Tramples, rather than three.
+
+- **Foul Temperament**
+
+The Mumak has its Attacks increased to 4, however, it will suffer a -1 penalty to all Courage tests when rolling to see whether or not it will Stampede.
+
+- **Rappelling Lines**
+
+Models in the Howdah may attempt to dismount from the Mûmak during the Move phase, after the Mûmak has moved. Roll a D6 for each model that is attempting to dismount. On a 1, the rope has snapped and the unfortunate model suffers falling damage as normal. On a 2+, the model successfully dismounts, place it in base contact with the Mûmak. Models that dismount may still Charge as normal, although they may not make shooting attacks.
+
 </div>
 
 ---
@@ -176,8 +220,8 @@ Inflicts three Strength 9 hits.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
-- [Two-Handed] [Club] - 1 point
+- [Swap Weapon] - 1 point
+- [Two-Handed][] [Club] - 1 point
 
 **SPECIAL RULES**
 
@@ -207,9 +251,19 @@ Inflicts three Strength 9 hits.
 **OPTIONS**
 
 - [Banner] - 25 points
-- [Blowpipe] with Poisoned Darts - 1 point
+- [Blowpipe] with [Poisoned Darts][Poisoned Weapons] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
+
+**SPECIAL RULES**
+
+- **War Camel**
+
+| Mv | F | S | D | A | W | C |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 10" | 0 | 4 | 4 | 0 | 1 | 2 |
+
+**Impaler:** On Charging, inflict one Strength 4 hit on one model Charged; against Cavalry, both rider and mount suffer the hit. If no longer Engaged and movement remains, the rider may continue moving, including Charging another enemy.
 
 </div>
 
@@ -234,8 +288,8 @@ Inflicts three Strength 9 hits.
 **OPTIONS**
 
 - [Banner] - 25 points
-- [Blowpipe] with Poisoned Darts - 1 point
+- [Blowpipe] with [Poisoned Darts][Poisoned Weapons] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>

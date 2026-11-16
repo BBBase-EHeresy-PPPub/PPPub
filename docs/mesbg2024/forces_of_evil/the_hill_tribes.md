@@ -66,7 +66,7 @@ Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their F
 
 - **Claim the Throne** `PASSIVE`
 
-If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle friendly Dunland models treat Freca as a [banner][Banner] with a range of 6".
+If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle friendly Dunland models treat Freca as a [banner] with a range of 6".
 
 </div>
 
@@ -130,7 +130,7 @@ Whilst General Targg is alive and on the battlefield, if you win the roll to cho
 **OPTIONS**
 
 - [Light Shield] - 5 points
-- [Two-handed Weapon] - 5 points
+- [Two-handed] Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -202,7 +202,7 @@ During the Fight phase, friendly Rohirrim Traitors within 6" of Lord Thorne gain
 
 - **Orcish Halberd** `ACTIVE`
 
-An Orcish Halberd can be used either as a [spear][Spear] or a [two-handed weapon][Two-handed Weapon]. Additionally, Shank may re-roll failed To Wound Rolls when making Strikes against a Trapped model.
+An Orcish Halberd can be used either as a [spear] or a [two-handed] weapon. Additionally, Shank may re-roll failed To Wound Rolls when making Strikes against a Trapped model.
 
 - **Loot the Bodies** `ACTIVE`
 
@@ -253,7 +253,7 @@ Whenever Shank or Wrot slays a model in Combat, they may roll a D6. On a natural
 
 **WARGEAR**
 
-- Claws ([hand weapon][Hand Weapon])
+- Claws ([hand weapon])
 
 **SPECIAL RULES**
 
@@ -294,7 +294,7 @@ During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +
 - Flaming Brand - 1 point
 - [Light Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
+- [Two-handed] Weapon - 1 point
 
 **SPECIAL RULES**
 
@@ -327,9 +327,9 @@ A model with a Flaming Brand has the [Terror] (Cavalry) and [Terror] (Beast) spe
 
 A Rohirrim Traitor must have one of the following options for the listed points cost:
 
-- [War Horn], [Shield], [Throwing] [Spears][Spear] - 28 points
+- [War Horn], [Shield], [Throwing] Spears - 28 points
 - [Banner] - 25 points
-- [Shield] and [Throwing] [Spears][Spear] - 3 points
+- [Shield] and [Throwing] Spears - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 
@@ -339,7 +339,7 @@ A Rohirrim Traitor must have one of the following options for the listed points 
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its throwing spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 

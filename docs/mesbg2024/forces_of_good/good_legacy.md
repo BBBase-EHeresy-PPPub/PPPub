@@ -26,7 +26,7 @@
 
 - **Durin's Axe** `ACTIVE`
 
-This is a Unique [Master-forged][Master-Forged] [two-handed weapon][Two-handed Weapon]. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
+This is a Unique [Master-forged][] [two-handed] weapon. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
 
 - **Longbeard** `ACTIVE`
 
@@ -51,7 +51,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 - [Heavy Armour]
 - [Hand Weapon]
 - [Shield]
-- [Throwing] [Spears][Spear]
+- [Throwing] Spears
 - Felarof
 
 **HEROIC ACTIONS**
@@ -73,7 +73,7 @@ The first time each turn Eorl spends a Might Point, roll a D6. On a 4+, the Migh
 
 - **Spear Mastery** `PASSIVE`
 
-This model may use its throwing spears as a normal [spear][Spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its throwing spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 ---
 
@@ -236,7 +236,7 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 
 - **Noldorin Daggers** `ACTIVE`
 
-These are Elven hand weapons, which Erestor may also use as Elven [throwing weapons][Throwing Weapons]. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
+These are Elven hand weapons, which Erestor may also use as Elven [throwing] weapons. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
 
 </div>
 
@@ -272,7 +272,7 @@ These are Elven hand weapons, which Erestor may also use as Elven [throwing weap
 
 - **Horn of the Hammerhand** `ACTIVE`
 
-This is a Unique [war horn][War Horn]. Additionally, once per game at the start of any Move Phase, Erkenbrand can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Erkenbrand suffer a -1 penalty to any Courage Test they are required to make.
+This is a Unique [war horn]. Additionally, once per game at the start of any Move Phase, Erkenbrand can unleash a fearsome blow of the Horn of the Hammerhand. Until the End Phase of the turn, enemy models within 24" of Erkenbrand suffer a -1 penalty to any Courage Test they are required to make.
 
 </div>
 
@@ -337,7 +337,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Writhing Vines] | Self | 4+ |
 
 **SPECIAL RULES**
@@ -362,7 +362,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 **WARGEAR**
 
 - [Armour]
-- [Two-handed Weapon]
+- [Two-handed] Weapon
 
 **HEROIC ACTIONS**
 
@@ -453,7 +453,7 @@ If the King's Champion this Herald belongs to is Wounded, and this model is in b
 
 - **White Sword of Gondor** `ACTIVE`
 
-This is a [two-handed weapon][Two-handed Weapon]. Additionally, Strikes made with a White [Sword] of Gondor have the [Mighty Blow] special rule.
+This is a [two-handed] weapon. Additionally, Strikes made with a White [Sword] of Gondor have the [Mighty Blow] special rule.
 
 - **The Bladelord's Skill** `ACTIVE`
 
@@ -528,7 +528,7 @@ If this model rolls a natural 6 during its Casting Test, then upon completion of
 
 - **Kalazal** `ACTIVE`
 
-This is a Unique [hand weapon][Hand Weapon]. Murin gains a bonus of +1 To Wound when making Strikes against Orc, Goblin or Uruk-hai models.
+This is a Unique [hand weapon]. Murin gains a bonus of +1 To Wound when making Strikes against Orc, Goblin or Uruk-hai models.
 
 </div>
 
@@ -708,14 +708,14 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- Elven [Hand-and-a-half] Weapon
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- Elven [Throwing Weapons] - 2 points
+- Elven [Throwing] Weapons - 2 points
 - Wood Elf [Spear] - 1 point
 
 **SPECIAL RULES**
@@ -724,7 +724,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 - **Wood Elf spear** `ACTIVE`
 
-This is an Elven [spear][Spear]. Additionally, a model armed with a Wood Elf [Spear][Spear] may use the [Shielding] rule even though they do not have a [shield][Shield].
+This is an Elven [spear]. Additionally, a model armed with a Wood Elf [Spear] may use the [Shielding] rule even though they do not have a [shield].
 
 </div>
 

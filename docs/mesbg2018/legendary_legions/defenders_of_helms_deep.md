@@ -54,8 +54,8 @@
 
 **"Fight in Ranks!"** - Friendly Rohan Infantry models armed with throwing spears spears may use them as standard spears in addition to their normal use.
 
- However, if a model uses their [spear][Spear] as a throwing [spear][Spear] in a turn, they cannot use it as a standard [spear][Spear] in the same turn.
+ However, if a model uses their [spear] as a throwing [spear] in a turn, they cannot use it as a standard [spear] in the same turn.
 
-**"Give them a Volley"** - Models from this Legendary Legion armed with either a [bow][Bow], longbow or Elf [bow][Bow] may increase the range of their type of [bow][Bow] from 24" to 30", provided they have not moved that turn.
+**"Give them a Volley"** - Models from this Legendary Legion armed with either a [bow], longbow or Elf [bow] may increase the range of their type of [bow] from 24" to 30", provided they have not moved that turn.
 
 **"Fall Back to the keep!"** - If this force is Broken, then Warrior models from this force add 1 to their Courage value. Additionally, if this force is Broken, friendly Warrior models may re-roll failed Courage tests whilst they are within 6" of Théoden.

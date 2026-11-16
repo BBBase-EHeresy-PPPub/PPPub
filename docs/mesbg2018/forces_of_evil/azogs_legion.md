@@ -43,7 +43,7 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed][Two-Handed] [flail][Flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][] [flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
@@ -65,7 +65,7 @@ Never requires more than 3+ for To Wound against Hero models.
 
 **WARGEAR**
 
-- Claws and teeth
+- [Claws and teeth][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -104,7 +104,7 @@ For each of the four parts of this tower, a Lieutenant must be in base contact w
 
 - **The Banner of Dol Guldur** `PASSIVE`
 
-All friendly Gundabad models count as being in range of a [banner][Banner].
+All friendly Gundabad models count as being in range of a [banner].
 
 - **The Banner of Gundabad** `PASSIVE`
 
@@ -120,7 +120,7 @@ A [War Horn] that also reduces the Courage of all enemy models by 1. This is not
 
 - **Summoning of the Hosts** `PASSIVE`
 
-All friendly Gundabad models count as being in range of a [banner][Banner].
+All friendly Gundabad models count as being in range of a [banner].
 
 - **Destroying the Signal Tower** `PASSIVE`
 
@@ -162,7 +162,7 @@ Each part of the tower is a Battlefield Target with Defence 10 and 3 Wounds. If 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][Two-Handed] [Pick]
+- [Two-handed][] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -215,7 +215,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -223,7 +223,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -255,7 +255,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 **OPTIONS**
 
 - [Shield] - 5 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -285,7 +285,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -293,7 +293,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear][Spear]. Supporting models do not get the benefit of [two-handed][Two-Handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -320,8 +320,8 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- [Two-Handed] [Pick] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Pick] - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -356,7 +356,7 @@ Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner
 - [Banner] - 25 points
 - [Shield] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -417,7 +417,7 @@ If armed with these gauntlets, the troll receives a +1 bonus on To Wound rolls w
 
 **WARGEAR**
 
-- Wooden Clubs
+- [Wooden Clubs][Club]
 
 **SPECIAL RULES**
 
@@ -470,7 +470,7 @@ Each time a Troll Brute moves into base contact with another model, it must infl
 
 **WARGEAR**
 
-- Razor-sharp Teeth and Talons
+- [Razor-sharp Teeth and Talons][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -482,7 +482,7 @@ When a War Bat charges, the Defence of the charged model and any models that sub
 
 - **Pluck** `ACTIVE`
 
-At the end of the War Bat's move, [pick][Pick] an unengaged man-sized (or smaller) enemy that it moved over, and roll a D6. On a 4+, they suffer a Strength 4 hit. If it survives, roll another D6. On a 4+, that model is Knocked to the Ground.
+At the end of the War Bat's move, [pick] an unengaged man-sized (or smaller) enemy that it moved over, and roll a D6. On a 4+, they suffer a Strength 4 hit. If it survives, roll another D6. On a 4+, that model is Knocked to the Ground.
 
 </div>
 
@@ -515,7 +515,7 @@ If the troll wins the fight, his Goblin crew may also make D6 Strength 3 strikes
 
 - **Metal Gauntlets** `ACTIVE`
 
-Never count as being [unarmed][Unarmed], and he counts as Strength 10 when rolling for distance with a Hurl Brutal Power Attack
+Never count as being [unarmed], and he counts as Strength 10 when rolling for distance with a Hurl Brutal Power Attack
 
 - **Catapult**
 

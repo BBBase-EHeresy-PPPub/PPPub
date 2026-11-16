@@ -28,7 +28,7 @@
 
  Sharkey's Wrath - Sharkey gains the [Hatred] (Hobbit) special rule.
 
-**"The Chief's Whips"** - Ruffian models gain +1 to hit when using a [whip][Whip].
+**"The Chief's Whips"** - Ruffian models gain +1 to hit when using a [whip].
 
 **"The Chief's Command"** - Ruffian models within 6" of Sharky may use his courage value instead of their own when making Courage tests.
 

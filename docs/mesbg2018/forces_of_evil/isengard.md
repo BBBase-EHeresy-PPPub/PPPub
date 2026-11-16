@@ -109,7 +109,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 - [Armour]
 - [Dagger]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -118,8 +118,8 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 **OPTIONS**
 
 - [Bow] - 5 points
-- Swap Weapon - 5 points
-- Swap [Two-Handed] [Axe] for [Axe] and [Shield] - Free
+- [Swap Weapon] - 5 points
+- Swap [Two-Handed][] [Axe] for [Axe] and [Shield] - Free
 
 </div>
 
@@ -174,7 +174,7 @@ Frida and friendly Dunlending models within 3" may re-roll To Wound rolls agains
 **WARGEAR**
 
 - [Armour]
-- Two Axes
+- [Two Axes][Axe]
 - [Dagger]
 
 **HEROIC ACTIONS**
@@ -206,7 +206,7 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 **WARGEAR**
 
 - [Armour]
-- Two Swords
+- [Two Swords][Dagger]
 
 **HEROIC ACTIONS**
 
@@ -241,7 +241,7 @@ If at the start of a fight, Gorulf is engaged with an enemy Hero, he may declare
 - [Warg] - 10 points
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -328,7 +328,7 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 - [Armour]
 - [Sword]
-- [Two-handed][Two-Handed] [Axe]
+- [Two-handed][] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -405,8 +405,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -435,8 +435,8 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 - Uruk-Hai [Bow] - 5 points
 - [Shield] - 5 points
-- [Two-handed Weapon] - 5 points
-- Swap Weapon - 5 points
+- [Two-handed] Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -533,7 +533,7 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 - [Armour] - 5 points
 
 </div>
@@ -558,7 +558,7 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -578,7 +578,7 @@ Friendly Wild Men of Dunland within 6" of the Oathmaker gain the [Fearless] spec
 
 **WARGEAR**
 
-- Beaks and Claws
+- [Beaks and Claws][Single-handed Weapons]
 
 **SPECIAL RULES**
 
@@ -616,7 +616,7 @@ Shooting attacks will only ever hit a Crebain on a natural 6 roll.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -646,7 +646,7 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -654,7 +654,7 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 
 - **Dunlending War Axe** `ACTIVE`
 
-Can either be used as a [spear][Spear] or [two-handed][Two-Handed] [axe][Axe].
+Can either be used as a [spear] or [two-handed][] [axe].
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -683,9 +683,9 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 - [Banner] - 25 points
 - [Shield] - 1 point
-- [Two-Handed] [Axe] - 1 point
+- [Two-Handed][] [Axe] - 1 point
 - Swap [Axe] for [Dagger] and [Bow] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -703,11 +703,11 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 **WARGEAR**
 
-- Two Swords
+- [Two Swords][Dagger]
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -738,7 +738,7 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 **OPTIONS**
 
 - Swap [Shield] for [War Drum] (Isengard Uruk-Hai) - 25 points
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 - Swap [Sword] for [Spear] - Free
 
 **SPECIAL RULES**
@@ -771,8 +771,8 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed Weapon] - 1 point
-- Swap Weapon - 1 point
+- [Two-handed] Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -796,7 +796,7 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 - **Berserker Blade** `ACTIVE`
 
-A [hand-and-a-half][Hand-And-A-Half] [sword][Sword]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
+A [hand-and-a-half][] [sword]. If using as a [two-handed] weapon, the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -828,7 +828,21 @@ The berserkers Defence is 6 against enemy shooting attacks
 
 - **Demolition Charges**
 
-See page 178 of Armies of LOTR book.
+A demolition charge is a [Heavy Object] and cannot be carried by mounted models. It must be dropped before detonation. At the start of the Fight Phase, an unengaged model with a flaming brand in base contact may take a Courage Test to ignite it. On success, roll on the table below. Without a flaming brand, an unengaged model from the same army in base contact can attempt a Desperate Detonation: pass the Courage Test, then roll a D6; a 6 detonates it.
+
+An explosion affects everything within 2", including friend and foe, gates and doors. Each target suffers D6 Wounds regardless of Defence; both rider and mount are affected for Cavalry.
+
+| D6 | Result |
+|:--:|:--|
+| 1 | Dud: remove the charge without exploding. |
+| 2-5 | The charge explodes as described above. |
+| 6 | Titanic Explosion: inflict 2D6 Wounds instead of D6. |
+
+The charge has Defence 7 and 3 Wounds and can be attacked or shot normally. For each Wound inflicted on it, roll a D6: on a 6 it detonates; if wounded by another charge, it detonates on a 4+. If reduced to 0 Wounds without detonating, remove it. An unengaged enemy model in base contact for a Fight Phase can automatically disable and remove it.
+
+- **Equip Additional Flaming Brand**
+
+An Uruk-hai Warrior in the Demolition Team gains a flaming brand and can attempt to detonate the charge. A model carrying a flaming brand cannot use a two-handed weapon; if the bearer is killed, the brand is extinguished and lost.
 
 </div>
 
@@ -855,7 +869,13 @@ See page 178 of Armies of LOTR book.
 - [Shield] - 1 point
 - Uruk-Hai [Bow] - 1 point
 - Marauder Upgrade - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
+
+**SPECIAL RULES**
+
+- **Marauder Upgrade**
+
+Uruk-hai Scouts in Mauhur's Warband may be upgraded to Marauders. Marauders have a Move Value of 8".
 
 </div>
 
@@ -882,7 +902,7 @@ See page 178 of Armies of LOTR book.
 - [Crossbow] - 2 points
 - [Pike] - 1 point
 - [Shield] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -909,8 +929,8 @@ See page 178 of Armies of LOTR book.
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] [Spears][Spear] - 1 point
-- Swap Weapon - 1 point
+- [Throwing] Spears - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
@@ -932,8 +952,8 @@ See page 178 of Armies of LOTR book.
 
 **OPTIONS**
 
-- [Two-Handed] [Axe] - 1 point
-- Swap Weapon - 1 point
+- [Two-Handed][] [Axe] - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -967,10 +987,10 @@ Crewed by three Uruk-Hai Warriors with heavy armour and sword, one of which is a
 
 - Uruk-Hai [Engineer Captain] - 50 points
 - [Superior Construction] - 15 points
-- Additional Crew - 9 points
+- [Additional Crew] - 9 points
 - [Engineer Captain] - [Crossbow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
-- [Engineer Captain] - [Two-Handed Weapon][Two-handed Weapon] - 5 points
+- [Engineer Captain] - [Two-Handed] Weapon - 5 points
 
 **SPECIAL RULES**
 
@@ -986,7 +1006,7 @@ If a shot hits a target, then they suffer one S9 hit. Additionally, if the targe
 
 - **Raise the Ladders!**
 
-See page 179 of Armies of LOTR book.
+Instead of firing normally, choose a point on enemy battlements within range and in Line of Sight of the Ballista and at least one crew member. Roll To Hit; on a miss nothing happens. On a hit, immediately move one siege ladder within 6" of the wall base below that point to the wall and raise it. Its carriers drop it, but one may hold on and ride it to the top. Treat that model as having climbed to the top that turn, including Charging a defender there. That defender receives no benefit for defending an obstacle during this turn.
 
 </div>
 
@@ -1019,7 +1039,7 @@ See page 179 of Armies of LOTR book.
 
 - **A Traitor Within** `PASSIVE`
 
-Grima can be deployed as part of an enemy warband, but moves and fights during the controlling player's turn. Enemy models cannot shoot him, strike blows, or shoot if he is In The Way of the shot. He can be targeted by Magical Powers. This ends if Saruman is slain, Grima voluntarily charges an enemy, or successfully wounds an enemy with his [dagger][Dagger]. Grima may choose not to make any strikes if he wins a Duel.
+Grima can be deployed as part of an enemy warband, but moves and fights during the controlling player's turn. Enemy models cannot shoot him, strike blows, or shoot if he is In The Way of the shot. He can be targeted by Magical Powers. This ends if Saruman is slain, Grima voluntarily charges an enemy, or successfully wounds an enemy with his [dagger]. Grima may choose not to make any strikes if he wins a Duel.
 
 - **Wormtongue** `PASSIVE`
 

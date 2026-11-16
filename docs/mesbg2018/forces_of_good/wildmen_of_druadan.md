@@ -38,6 +38,10 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 - [Woodland Creature]
 - Poisoned Blowpipe
 
+- **Poisoned Blowpipe**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
+
 </div>
 
 ---
@@ -60,7 +64,7 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -70,6 +74,10 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 - [Stalk Unseen]
 - [Woodland Creature]
 - Poisoned Blowpipe
+
+- **Poisoned Blowpipe**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>
 
@@ -95,7 +103,7 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 
 **OPTIONS**
 
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -105,5 +113,9 @@ This army may include: Ghan-Buri-Ghan; Woses Warrior; Woses Warrior.
 - [Stalk Unseen]
 - [Woodland Creature]
 - Poisoned Blowpipe
+
+- **Poisoned Blowpipe**
+
+This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when using it.
 
 </div>

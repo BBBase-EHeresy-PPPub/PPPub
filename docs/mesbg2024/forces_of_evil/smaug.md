@@ -38,7 +38,7 @@
 
 - **Breathe Fire** `ACTIVE`
 
-Smaug can breathe fire as a shooting attack. This is treated as a [bow][Bow] with a range of 18". If the shot hits a model, then the hit model and all models within 2" of them immediately suffer a Strength 10 hit, and any model that suffers a Wound from this shot which is not prevented will immediately be slain and removed as a casualty. Any model hit by this shooting attack and not slain will be [Set Ablaze]. This is a fire based attack, so if a model is immune to fire-based attacks, they are immune to this shooting attack.
+Smaug can breathe fire as a shooting attack. This is treated as a [bow] with a range of 18". If the shot hits a model, then the hit model and all models within 2" of them immediately suffer a Strength 10 hit, and any model that suffers a Wound from this shot which is not prevented will immediately be slain and removed as a casualty. Any model hit by this shooting attack and not slain will be [Set Ablaze]. This is a fire based attack, so if a model is immune to fire-based attacks, they are immune to this shooting attack.
 
 - **Immovable Object** `PASSIVE`
 
@@ -54,7 +54,7 @@ If a model rolls a natural 6 when making a shooting attack that targets Smaug, a
 
 - **"I am fire, I am death"** `PASSIVE`
 
-Smaug is immune to any [fire-based attacks][Fire-based Attacks].
+Smaug is immune to any [fire-based attacks].
 
 - **Colossal Frame** `PASSIVE`
 

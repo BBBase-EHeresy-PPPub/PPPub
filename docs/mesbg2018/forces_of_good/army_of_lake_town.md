@@ -32,7 +32,7 @@ This army may include: Bard the Bowman; Master of Lake-town; Alfrid the Councill
 
 **OPTIONS**
 
-- Windlance - 75 points
+- [Windlance](../forces_of_good/garrison_of_dale_brand.md#windlance-75-points) - 75 points
 - [Horse] - 10 points
 - [Armour] - 5 points
 
@@ -40,7 +40,7 @@ This army may include: Bard the Bowman; Master of Lake-town; Alfrid the Councill
 
 - **Rapid Fire** `ACTIVE`
 
-If his great [bow][Bow] hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
+If his great [bow] hits, he may shoot at another target within 3". If the second shot hits, he can shoot again, up to three shots total.
 
 - **The Black Arrow** `ACTIVE`
 
@@ -48,7 +48,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner][Banner].
+Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner].
 
 </div>
 
@@ -76,7 +76,7 @@ Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town
 
 - **Moneybags** `ACTIVE`
 
-The Master can spend a point of Might at the start of the Fight phase. Braga, Lake-town Guards and Lake-town Guard Captains within 6" receive +1 Fight value, and count as being in range of a [banner][Banner] until the end of the phase.
+The Master can spend a point of Might at the start of the Fight phase. Braga, Lake-town Guards and Lake-town Guard Captains within 6" receive +1 Fight value, and count as being in range of a [banner] until the end of the phase.
 
 - **Dragon-sickness** `PASSIVE`
 
@@ -169,7 +169,7 @@ Braga, any Lake-town Guard Captains or Lake-town Guards within 3" of him may not
 
 **OPTIONS**
 
-- Swap Weapon - 5 points
+- [Swap Weapon] - 5 points
 
 </div>
 
@@ -224,7 +224,7 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 
 - [Bow] - 1 point
 - [Spear] - 1 point
-- Swap Weapon - 1 point
+- [Swap Weapon] - 1 point
 
 </div>
 
