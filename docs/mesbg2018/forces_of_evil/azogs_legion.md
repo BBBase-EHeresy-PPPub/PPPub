@@ -43,7 +43,7 @@ This army may include: Azog; Bolg; Goblin Mercenary Captain; Gundabad Orc Captai
 
 - **Stone flail** `ACTIVE`
 
-[Two-handed][] [flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
+[Two-handed][Two-handed Weapon] [flail], but when used in a fight, Azog's Fight value is reduced to 6/5+. This does not happen when using the Whirl Special Strike. Causes D3 Wounds instead of one (determined after Fate points are used). Any model struck but not slain is knocked Prone.
 
 - **General of the North** `ACTIVE`
 
@@ -162,7 +162,7 @@ Each part of the tower is a Battlefield Target with Defence 10 and 3 Wounds. If 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][] [Pick]
+- [Two-handed][Two-handed Weapon] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -223,7 +223,7 @@ Any model that suffers a Wound from this model's shooting attack, and isn't slai
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -293,7 +293,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -320,7 +320,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- [Two-Handed][] [Pick] - 1 point
+- [Two-handed][Two-handed Weapon] [Pick] - 1 point
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**

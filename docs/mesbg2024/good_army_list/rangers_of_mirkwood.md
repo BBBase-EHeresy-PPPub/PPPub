@@ -13,7 +13,7 @@
 - [**Legolas Greenleaf, Prince of Mirkwood**](../forces_of_good/elven_kingdoms.md#legolas-greenleaf-prince-of-mirkwood-105-points): 105 points
     - Elven cloak: 5 points
 - [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 - [**Thorin Oakenshield**](../forces_of_good/dwarven_holds.md#thorin-oakenshield-100-points): 110 points
     - Orcrist
     - The Oakenshield: 5 points

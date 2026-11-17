@@ -25,7 +25,7 @@
 **WARRIORS**
 
 - [**Erebor Dwarf Warrior**](../forces_of_good/dwarven_holds.md#erebor-dwarf-warrior-9-points): 9 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - [**Grim Hammer Warrior**](../forces_of_good/dwarven_holds.md#grim-hammer-warrior-11-points): 11 points
@@ -34,8 +34,8 @@
 - [**Warrior of Dale**](../forces_of_good/kingdoms_of_men.md#warrior-of-dale-7-points): 7 points
     - War horn: 25 points
     - Banner: 25 points
-    - Esgaroth bow: 2 points
-    - Shield and spear: 2 points
+    - Esgaroth Bow: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
 
 </div>
@@ -45,7 +45,7 @@
 - An Erebor & Dale Army must include Girion and at least one Unique Erebor Hero.
 - Erebor Warrior models can only be included in the Warband of an Erebor Hero.
 - Dale Warrior models can only be included in the Warband of a Dale Hero.
-- Ignore the usual rules for Bow Limit and [Throwing] Weapon Limit in this Army List. Instead, a maximum of 50% of your Dale Warrior models can have a [bow], and a maximum of 50% of your Erebor Warrior models can have [throwing] weapons.
+- Ignore the usual rules for Bow Limit and [Throwing Weapon] Limit in this Army List. Instead, a maximum of 50% of your Dale Warrior models can have a [bow], and a maximum of 50% of your Erebor Warrior models can have [throwing weapons][Throwing Weapon].
 
 ## SPECIAL RULES
 

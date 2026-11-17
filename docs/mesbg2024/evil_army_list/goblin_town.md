@@ -21,7 +21,7 @@
 **WARRIORS**
 
 - [**Goblin Warrior**](../forces_of_evil/the_misty_mountains.md#goblin-warrior-5-points): 5 points
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 
 </div>
 

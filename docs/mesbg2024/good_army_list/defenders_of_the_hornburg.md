@@ -28,11 +28,11 @@
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
 

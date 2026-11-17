@@ -30,7 +30,7 @@
     - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 - **WARG MARAUDER**: 30 points
 - **WARG RIDER**: 11 points
     - Banner: 25 points

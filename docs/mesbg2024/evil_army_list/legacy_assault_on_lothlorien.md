@@ -15,7 +15,7 @@
 - [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
 - [**Mordor Orc Shaman**](../forces_of_evil/mordor.md#mordor-orc-shaman-50-points): 50 points
 - [**Moria Goblin Captain**](../forces_of_evil/the_misty_mountains.md#moria-goblin-captain-40-points): 40 points
-    - Orc bow: 5 points
+    - Orc Bow: 5 points
 - [**Moria Goblin Shaman**](../forces_of_evil/the_misty_mountains.md#moria-goblin-shaman-45-points): 45 points
 - [**Wild Warg Chieftain**](../forces_of_good/arnor_and_angmar.md#wild-warg-chieftain-80-points): 80 points
 
@@ -27,18 +27,18 @@
     - Upgrade to Venomback Spider: 2 points
 - [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Warg Rider**](../forces_of_evil/mordor.md#mordor-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 - [**Moria Goblin Prowler**](../forces_of_evil/the_misty_mountains.md#moria-goblin-prowler-7-points): 7 points
 - [**Moria Goblin Warrior**](../forces_of_evil/the_misty_mountains.md#moria-goblin-warrior-4-points): 4 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
 - [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points

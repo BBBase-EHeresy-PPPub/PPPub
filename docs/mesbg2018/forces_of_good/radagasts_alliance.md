@@ -34,7 +34,7 @@ This army may include: Radagast the Brown; Beorn; Gwaihir; Great Eagle.
 |:--|:--:|:--:|
 | [Panic Steed] | 12" | 2+ |
 | [Terrifying Aura] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Renew] | 12" | 3+ |
 | [Nature's Wrath] | 3" | 4+ |
 | [Aura of Dismay] | - | 5+ |
@@ -88,7 +88,7 @@ The [Great Eagle](../forces_of_good/the_misty_mountains.md#great-eagle-100-point
 
 **WARGEAR**
 
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 

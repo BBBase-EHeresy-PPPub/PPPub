@@ -21,7 +21,7 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 **WARGEAR**
 
 - [Sword]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 - Smoke Bombs
 
 **HEROIC ACTIONS**
@@ -31,12 +31,12 @@ This army may include: Dalamyr, Fleetmaster of Umbar; Delgamar, Gatemaster of Um
 
 **SPECIAL RULES**
 
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 - [Stalk Unseen]
 
 - **Smoke Bombs** `ACTIVE`
 
-[Throwing] weapon with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of [Transfix]. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
+[Throwing weapon][Throwing Weapon] with Strength 1. Any target hit but not slain but spend a point of Will or be subject to the Channelled version of [Transfix]. If Dalamyr rolls a 1 on To Hit, he has run out of supply cannot use smoke bombs again for the rest of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -61,7 +61,7 @@ Dalamyr can never be Trapped whilst still standing.
 - [Armour]
 - [Sword]
 - [Whip]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -90,7 +90,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 **WARGEAR**
 
 - [Dagger]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -104,7 +104,7 @@ Friendly Corsair Warrior models within 3" may re-roll a single dice during the D
 
 **SPECIAL RULES**
 
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 - [Stalk Unseen]
 
 - **Preternatural Agility** `ACTIVE`
@@ -193,7 +193,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
@@ -217,7 +217,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 **WARGEAR**
 
 - [Sword]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -228,7 +228,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 - [Spear] - 1 point
 
@@ -255,7 +255,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a ban
 **WARGEAR**
 
 - [Sword]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -266,7 +266,7 @@ Friendly Corsair models within 3" of the Bo'sun count as being in range of a ban
 - [Bow] - 5 points
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -376,7 +376,7 @@ If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must tak
 **WARGEAR**
 
 - [Sword]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 
 **OPTIONS**
 

@@ -53,7 +53,7 @@ This army may include: Witch King; Gothmog; Khamul; Mouth of Sauron; Razgush; Th
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed][] [Flail] - 5 points
+- [Two-handed][Two-handed Weapon] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -184,7 +184,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][] [Sword].
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -239,7 +239,7 @@ Khamul regains one point of Will for each wound he causes with his strikes. He c
 
 - **Bone-breaker** `ACTIVE`
 
-This is a [mace], and enemy models do not receive any bonus from [Elven-made] weapons when fighting against Razgush.
+This is a [mace], and enemy models do not receive any bonus from [Elven-made weapons][Elven-made Weapon] when fighting against Razgush.
 
 - **The Beasts of Mirkwood** `PASSIVE`
 
@@ -294,7 +294,7 @@ Razgush's warband may only include Orc Warriors, [Warg] Riders, Bat Swarms, Mirk
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 
 - **Master of Poisons** `PASSIVE`
 
@@ -368,7 +368,7 @@ At the start of a fight phase, he may choose to spend one point of Will to turn 
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Sword]
+- [Two-handed][Two-handed Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -643,7 +643,7 @@ The Undying may spend Will points for Fate rolls.
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
@@ -735,7 +735,7 @@ If outnumbered in a fight, Gorbag gains +1 to both his Fight and Attack value. S
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Mace]
+- [Two-handed][Two-handed Weapon] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -852,7 +852,7 @@ Models within the Howdah do not count towards your Bow Limit.
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][] [Pick]
+- [Two-handed][Two-handed Weapon] [Pick]
 - [Sword]
 
 **HEROIC ACTIONS**
@@ -931,7 +931,7 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -994,7 +994,7 @@ At the start of the priority phase, before any dice are rolled, Kardush can be s
 
 - Orc [Bow] - 5 points
 - [Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -1331,7 +1331,7 @@ At the start of his Fight before any dice are rolled, Zagdush may choose to incr
 - [Survival Instinct]
 - [Swift Movement]
 - [Terror]
-- [Venom]
+- [Venom][Bane of Kings/Venom]
 
 - **Lone Hunter** `PASSIVE`
 
@@ -1549,7 +1549,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Hammer]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Hammer]
 
 **OPTIONS**
 
@@ -1585,7 +1585,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-Handed][] [Mace] - 1 point
+- [Two-handed][Two-handed Weapon] [Mace] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -1696,7 +1696,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -1724,7 +1724,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 - [Swap Weapon] - 1 point
 
 </div>

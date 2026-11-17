@@ -49,7 +49,7 @@ This army may include: Elrond; Gil-Galad; Glorfindel; Elladan & Elrohir; Erestor
 
 - **Hadhafang** `ACTIVE`
 
-[Hand-and-a-half][] [sword], +1 To Wound when striking Spirit models.
+[Hand-and-a-half][Hand-and-a-half Weapon] [sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `<span style="color: darkmagenta">PASSIVE</span>`
 
@@ -105,7 +105,7 @@ You may re-roll one dice in both the Duel roll and rolling To Wound.
 
 - **Aiglos** `ACTIVE`
 
-[Elven-made][] [spear], add +1 to all To Wound rolls.
+[Elven-made][Elven-made Weapon] [spear], add +1 to all To Wound rolls.
 
 - **High King of the Elves** `ACTIVE`
 
@@ -131,7 +131,7 @@ May re-roll a single D6 in both Duel Rolls and To Wound rolls.
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -219,7 +219,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 
 - **Noldorin Daggers** `ACTIVE`
 
-[Elven-made] daggers, may be used as [Throwing] weapons. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
+[Elven-made][Elven-made Weapon] daggers, may be used as [Throwing weapons][Throwing Weapon]. May re-roll failed To Wound rolls when throwing or making strikes with these daggers.
 
 </div>
 
@@ -237,7 +237,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -251,7 +251,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 
 **SPECIAL RULES**
 
@@ -275,7 +275,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -310,7 +310,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 
 **OPTIONS**
 
@@ -347,7 +347,7 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -431,7 +431,7 @@ Cirdan may spend a single point of Will each turn for free.
 **WARGEAR**
 
 - [Armour]
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -492,7 +492,7 @@ While wearing the Mithril Coat, Bilbo gains +3 Defence.
 
 - **Sting** `ACTIVE`
 
-Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
+Sting is an [Elven-made][Elven-made Weapon] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
 
 </div>
 
@@ -513,7 +513,7 @@ Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **OPTIONS**
 
@@ -551,7 +551,7 @@ High Elf Warriors in Gil-galad's Warband may be upgraded to King's Guard. King's
 
 - [Heavy Armour]
 - [Lance]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - Elf [Bow]
 - [Horse]
 
@@ -583,14 +583,14 @@ High Elf Warriors in Gil-galad's Warband may be upgraded to King's Guard. King's
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- [Throwing] Daggers - 2 points
+- [Throwing][Throwing Weapon] Daggers - 2 points
 - Wood Elf [Spear] - 1 point
 - Noldorin Exiles Upgrade - 1 point
 - [Swap Weapon] - 1 point

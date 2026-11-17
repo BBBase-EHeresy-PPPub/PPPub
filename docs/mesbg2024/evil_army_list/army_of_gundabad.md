@@ -8,13 +8,13 @@
 
 - [**Azog the Defiler**](../forces_of_evil/gundabad_and_dol_guldur.md#azog-the-defiler-175-points): 185 points
     - Heavy armour
-    - Stone flail: 15 points
+    - Stone Flail: 15 points
 
 **HEROES OF VALOUR**
 
 - [**Bolg, Spawn of Azog**](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points): 175 points
     - Fell Warg: 20 points
-    - Orc bow: 5 points
+    - Orc Bow: 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -30,7 +30,7 @@
 
 - [**Goblin Mercenary**](../forces_of_evil/gundabad_and_dol_guldur.md#goblin-mercenary-6-points): 6 points
 - [**Gundabad Berserker**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-berserker-15-points): 15 points
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Gundabad Ogre**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-ogre-60-points): 60 points
 - [**Gundabad Orc Warrior**](../forces_of_evil/gundabad_and_dol_guldur.md#gundabad-orc-warrior-9-points): 9 points
     - Banner and shield: 26 points

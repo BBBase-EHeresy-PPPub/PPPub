@@ -14,14 +14,14 @@
 - **URUK-HAI SCOUT CAPTAIN**: 55 points
     - Uruk-Hai Bow: 5 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **URUK-HAI DRUMMER**: 35 points
 - **ORC WARRIOR**: 5 points
     - Banner: 25 points
     - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 - **URUK-HAI SCOUT**: 8 points
     - Banner: 25 points
     - Shield: 1 point

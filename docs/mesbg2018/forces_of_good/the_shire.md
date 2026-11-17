@@ -64,9 +64,9 @@ This army may include: Bandobras Took; Gandalf the Grey; Meriadoc, Captain of th
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 12" | 4+ |
+| [Command][Compel] | 12" | 4+ |
 | [Protection of the Valar] | 12" | 4+ |
 | [Strengthen Will] | 12" | 4+ |
 | [Collapse Rocks] | 6" | 5+ |
@@ -255,7 +255,7 @@ While wearing the Mithril Coat, Bilbo gains +3 Defence.
 
 - **Sting** `ACTIVE`
 
-Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
+Sting is an [Elven-made][Elven-made Weapon] [dagger]. Bilbo gains +1 Strength when making Strikes with Sting.
 
 </div>
 
@@ -273,7 +273,7 @@ Sting is an [Elven-made][] [dagger]. Bilbo gains +1 Strength when making Strikes
 
 **WARGEAR**
 
-- [Two-handed] Scythe ([pick])
+- [Two-handed][Two-handed Weapon] Scythe ([Pick])
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
@@ -329,7 +329,7 @@ Farmer Maggot is always accompanied by his loyal guard dogs. Grip, Fang and Wolf
 
 - **Pitchfork** `PASSIVE`
 
-[Hand-and-a-half] weapon that may use the Stab Special Strike, and may support as if it was a [spear].
+[Hand-and-a-half weapon][Hand-and-a-half Weapon] that may use the Stab Special Strike, and may support as if it was a [spear].
 
 - **"This is our Country"** `PASSIVE`
 
@@ -396,7 +396,7 @@ All Hobbit models within 6" count as being in range of a banner
 
 **WARGEAR**
 
-- Spade ([staff])
+- Spade ([Staff])
 
 **SPECIAL RULES**
 
@@ -423,7 +423,7 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 **WARGEAR**
 
-- [Hand-and-a-half][] [Club].
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Club].
 
 **HEROIC ACTIONS**
 
@@ -436,7 +436,7 @@ At the start of the game after deployments, Hamfast may place three 25mm Flower 
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as [two-handed] weapons.
+Holfoot Bracegirdle, Robin Smallburrow and Hobbit Shirriffs within 3" of him do not suffer the penalty for using their clubs as [two-handed weapons][Two-handed Weapon].
 
 </div>
 
@@ -526,7 +526,7 @@ Paladin's [Stand Fast!] Only affects Hobbit models and has a range of 12".
 
 **WARGEAR**
 
-- [Hand-and-a-half][] [Club].
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Club].
 
 **HEROIC ACTIONS**
 
@@ -576,7 +576,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 - **Sting** `ACTIVE`
 
-[Elven-made][] [dagger], adds +1 to Strength when making Strikes with Sting.
+[Elven-made][Elven-made Weapon] [dagger], adds +1 to Strength when making Strikes with Sting.
 
 </div>
 
@@ -594,7 +594,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 **WARGEAR**
 
-- Walking Cane ([staff]).
+- Walking Cane ([Staff]).
 
 **HEROIC ACTIONS**
 
@@ -830,7 +830,7 @@ Hobbit Militia in Meriadoc, Captain of the Shire's Warband may be upgraded to Ba
 
 **WARGEAR**
 
-- [Hand-and-a-half][] [Club]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Club]
 
 **OPTIONS**
 

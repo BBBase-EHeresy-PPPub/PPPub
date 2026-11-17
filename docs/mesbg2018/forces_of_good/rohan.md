@@ -21,7 +21,7 @@ This army may include: Helm Hammerhand; Theoden; Eomer; Eorl the Young; Theodred
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][] [Sword]
+- [Two-handed][Two-handed Weapon] [Sword]
 - The Horn of the Hammerhand
 
 **HEROIC ACTIONS**
@@ -131,7 +131,7 @@ If Theoden is within 6" of Grima, Theoden is reduced to 3/4+ Fight value and 1 A
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - [Shield] - 5 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -161,7 +161,7 @@ If Theoden or Eowyn are in the same army, and either are slain, Eomer adds +1 on
 - [Heavy Armour]
 - [Sword]
 - [Shield]
-- [Throwing] Spears
+- [Throwing][Throwing Weapon] Spears
 - Felarof
 
 **HEROIC ACTIONS**
@@ -212,7 +212,7 @@ Felarof is an [armoured horse] with a Move Value of 12".
 
 - [Horse] - 10 points
 - [Shield] - 5 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -252,7 +252,7 @@ Theodred must Charge enemy models if able to so. Additionally, when he charges, 
 - [Bow] - 5 points
 - [Heavy Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 - [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
@@ -322,7 +322,7 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 - [Armour]
 - [Sword]
 - [Shield]
-- [Throwing] Spears
+- [Throwing][Throwing Weapon] Spears
 
 **HEROIC ACTIONS**
 
@@ -437,7 +437,7 @@ As well as being a [banner], ~~a single Rohan Hero model with no Might left and 
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -510,7 +510,7 @@ As well as being a [banner], ~~a single Rohan Hero model with no Might left and 
 
 **OPTIONS**
 
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -546,7 +546,7 @@ As well as being a [banner], ~~a single Rohan Hero model with no Might left and 
 - [Horse] - 10 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -715,7 +715,7 @@ If Haleth is engaged in combat, Aragorn and friendly Rohan Infantry models withi
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- [Throwing] Spears - 2 points
+- [Throwing][Throwing Weapon] Spears - 2 points
 - Westfold Redshield Upgrade - 1 point
 - [Swap Weapon] - 1 point
 
@@ -788,7 +788,7 @@ Outriders may use friendly Hero model's Stand Fast, regardless of range.
 
 - [Banner] - 25 points
 - [Horse] - 5 points
-- [Throwing] Spears - 2 points
+- [Throwing][Throwing Weapon] Spears - 2 points
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -856,7 +856,7 @@ Gain +1 bonus to Attack value whilst within 6" of Eorl the Young.
 
 - [War Horn] - 30 points
 - [Banner] - 25 points
-- [Throwing] Spears - 2 points
+- [Throwing][Throwing Weapon] Spears - 2 points
 - [Shield] - 1 point
 - Helminga Upgrade - 1 point
 - [Bow] - 1 point

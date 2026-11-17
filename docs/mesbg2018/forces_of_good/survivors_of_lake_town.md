@@ -81,9 +81,9 @@ Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 12" | 4+ |
+| [Command][Compel] | 12" | 4+ |
 | [Protection of the Valar] | 12" | 4+ |
 | [Strengthen Will] | 12" | 4+ |
 | [Collapse Rocks] | 6" | 5+ |
@@ -140,7 +140,7 @@ Bilbo has +3 Defence value included in his profile.
 
 - **Sting** `ACTIVE`
 
-[Elven-made][] [dagger], add +1 Strength when making Strikes.
+[Elven-made][Elven-made Weapon] [dagger], add +1 Strength when making Strikes.
 
 - **It has not yet Awoken** `PASSIVE`
 

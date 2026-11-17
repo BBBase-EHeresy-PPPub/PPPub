@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - [**Bard the Bowman**](../forces_of_good/kingdoms_of_men.md#bard-the-bowman-130-points): 150 points
-    - Exchange great bow for armour and horse
+    - Exchange great Bow for armour and horse
 - [**Dain Ironfoot, Lord of the Iron Hills**](../forces_of_good/dwarven_holds.md#dain-ironfoot-lord-of-the-iron-hills-160-points): 160 points
     - War Boar: 25 points
 - [**Gandalf the Grey**](../forces_of_good/dwarven_holds.md#gandalf-the-grey-170-points): 170 points
@@ -44,7 +44,7 @@
 - [**Gloin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-champion-of-erebor-100-points): 100 points
 - [**Hilda-Bianca**](../forces_of_good/kingdoms_of_men.md#hilda-bianca-35-points): 35 points
 - [**Iron Hills Captain**](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points): 80 points
-    - Exchange shield and spear for Mattock: Free
+    - Exchange shield and Spear for Mattock: Free
 - [**Lake-town Militia Captain**](../forces_of_good/kingdoms_of_men.md#lake-town-militia-captain-50-points): 50 points
 - [**Mirkwood Elf Captain**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-captain-75-points): 75 points
 - [**Nori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#nori-the-dwarf-champion-of-erebor-75-points): 75 points
@@ -52,7 +52,7 @@
 - [**Ori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#ori-the-dwarf-champion-of-erebor-50-points): 50 points
 - [**Percy, Lake-town Archer**](../forces_of_good/kingdoms_of_men.md#percy-lake-town-archer-50-points): 50 points
 - [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 
 **INDEPENDENT HEROES**
 
@@ -64,11 +64,11 @@
 - [**Fledgeling Great Eagle**](../forces_of_good/the_free_peoples.md#fledgeling-great-eagle-75-points): 75 points
 - [**Great Eagle**](../forces_of_good/the_free_peoples.md#great-eagle-100-points): 100 points
 - [**Iron Hills Goat Rider**](../forces_of_good/dwarven_holds.md#iron-hills-goat-rider-20-points): 20 points
-    - Exchange war spear for Mattock: Free
+    - Exchange war Spear for Mattock: Free
 - [**Iron Hills Warrior**](../forces_of_good/dwarven_holds.md#iron-hills-warrior-10-points): 10 points
     - Banner and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Crossbow: 2 points
     - Mattock: 1 point
 - [**Lake-town Militia**](../forces_of_good/kingdoms_of_men.md#lake-town-militia-5-points): 5 points
@@ -77,7 +77,7 @@
     - Spear: 1 point
 - [**Mirkwood Elf Knight**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-knight-16-points): 16 points
 - [**Mirkwood Elf Warrior**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-warrior-9-points): 9 points
-    - Elf bow: 2 points
+    - Elf Bow: 2 points
     - Elven Glaive: 2 points
     - Shield: 1 point
 

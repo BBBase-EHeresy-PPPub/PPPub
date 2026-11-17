@@ -22,15 +22,15 @@
 **WARRIORS**
 
 - [**Dwarf Ranger**](../forces_of_good/dwarven_holds.md#dwarf-ranger-8-points): 8 points
-    - Dwarf longbow: 1 point
-    - Throwing weapons: 1 point
-    - Two-handed weapon: 1 point
+    - Dwarf Longbow: 1 point
+    - Throwing Weapons: 1 point
+    - Two-handed Weapon: 1 point
 - [**Dwarf Warrior**](../forces_of_good/dwarven_holds.md#dwarf-warrior-8-points): 8 points
     - War horn: 25 points
     - Banner: 25 points
-    - Dwarf bow: 1 point
+    - Dwarf Bow: 1 point
     - Shield: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Iron Guard**](../forces_of_good/dwarven_holds.md#iron-guard-15-points): 15 points
 - [**Khazad Guard**](../forces_of_good/dwarven_holds.md#khazad-guard-12-points): 12 points
     - Hearthguard: 2 points

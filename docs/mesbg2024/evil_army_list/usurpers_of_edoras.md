@@ -16,7 +16,7 @@
     - Horse: 20 points
 - [**Hill Tribes Chieftain**](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points): 40 points
     - Light shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - [**Lord Thorne of the Wold**](../forces_of_evil/the_hill_tribes.md#lord-thorne-of-the-wold-70-points): 70 points
 
 **MINOR HEROES**
@@ -44,11 +44,11 @@
     - Flaming brand: 1 point
     - Light shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Rohirrim Traitor**](../forces_of_evil/the_hill_tribes.md#rohirrim-traitor-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
 

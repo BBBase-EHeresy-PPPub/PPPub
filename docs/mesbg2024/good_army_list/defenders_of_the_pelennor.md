@@ -13,7 +13,7 @@
     - Pippin: 25 points
     - Shadowfax: 25 points
 - [**Prince Imrahil**](../forces_of_good/gondor.md#prince-imrahil-140-points): 140 points
-    - Armoured horse and lance: 30 points
+    - Armoured horse and Lance: 30 points
 - [**Theoden**](../forces_of_good/rohan.md#theoden-75-points): 110 points
     - Snowmane with armour
     - Exchange armour for heavy armour
@@ -24,7 +24,7 @@
 - [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 140 points
     - Firefoot with armour
     - Shield
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**Forlong the Fat**](../forces_of_good/gondor.md#forlong-the-fat-90-points): 90 points
 - [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
     - Elven Cloak: 5 points
@@ -40,7 +40,7 @@
 - [**Angbor the Fearless**](../forces_of_good/gondor.md#angbor-the-fearless-70-points): 70 points
 - [**Beregond, Guard of the Citadel**](../forces_of_good/gondor.md#beregond-guard-of-the-citadel-65-points): 65 points
 - [**Captain of Dol Amroth**](../forces_of_good/gondor.md#captain-of-dol-amroth-65-points): 65 points
-    - Armoured horse and lance: 30 points
+    - Armoured horse and Lance: 30 points
 - [**Captain of Minas Tirith**](../forces_of_good/gondor.md#captain-of-minas-tirith-60-points): 60 points
 - [**Captain of Rohan**](../forces_of_good/rohan.md#captain-of-rohan-45-points): 65 points
     - Horse
@@ -58,7 +58,7 @@
     - Horse
     - Armour
     - Shield: 5 points
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 75 points
     - Horse
     - Royal Standard of Rohan: 40 points
@@ -93,26 +93,26 @@
     - Armoured horse and war horn: 33 points
     - Banner: 25 points
     - War horn: 25 points
-    - Armoured horse and lance: 9 points
+    - Armoured horse and Lance: 9 points
 - [**Knight of Minas Tirith**](../forces_of_good/gondor.md#knight-of-minas-tirith-15-points): 15 points
-    - Exchange shield and lance for banner: 25 points
+    - Exchange shield and Lance for banner: 25 points
 - [**Man-at-arms of Dol Amroth**](../forces_of_good/good_legacy.md#man-at-arms-of-dol-amroth-10-points): 10 points
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Rider of the Dead**](../forces_of_good/gondor.md#rider-of-the-dead-25-points): 25 points
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 16 points
     - Horse
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 - [**Warrior of the Dead**](../forces_of_good/gondor.md#warrior-of-the-dead-14-points): 14 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 

@@ -1,7 +1,6 @@
 [Ancient Enemies]: ../rules_manual/special_rules.md#ancient-enemies-x
 [Ancient Evil]: ../rules_manual/special_rules.md#ancient-evil
 [Backstabbers]: ../rules_manual/special_rules.md#backstabbers
-[Bane of Kings]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Bane of Kings/Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Bane Weapons]: ../rules_manual/special_rules.md#bane-weapons
 [Blades of the Dead]: ../rules_manual/special_rules.md#blades-of-the-dead
@@ -35,6 +34,5 @@
 [Terror]: ../rules_manual/special_rules.md#terror
 [Throw Stones]: ../rules_manual/special_rules.md#throw-stones
 [Unyielding Combat Stance]: ../rules_manual/special_rules.md#unyielding-combat-stance
-[Venom]: ../rules_manual/special_rules.md#bane-of-kingsvenom
 [Will of Evil]: ../rules_manual/special_rules.md#will-of-evil
 [Woodland Creature]: ../rules_manual/special_rules.md#woodland-creature

@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - Ring of Barahir
-- [Hand-and-a-half][] [Sword].
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Sword].
 
 **HEROIC ACTIONS**
 
@@ -43,7 +43,7 @@ This is a Unique piece of Wargear. Whenever Aragorn is affected by a Magical Pow
 
 - **Andúril, Flame of the West** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed] weapon, then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
 
 **BREGO**
 
@@ -108,7 +108,7 @@ If Brego's rider would be knocked Prone whilst riding Brego, and Brego is not sl
 
 - **Glamdring** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -149,7 +149,7 @@ At the start of every friendly Shoot Phase, Gandalf may select one of the firewo
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon])
+- Claws and Beak ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -235,7 +235,7 @@ Radagast is always assumed to have Line of Sight to anywhere on the battlefield.
 
 **WARGEAR**
 
-- Claws and beak ([hand weapon])
+- Claws and beak ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -337,7 +337,7 @@ At the beginning of each Move Phase, before the Declare Heroic Actions Step, Sar
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon])
+- Roots and Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -383,7 +383,7 @@ Before models Back Away, select one enemy model involved in the Combat to be pic
 
 **WARGEAR**
 
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -415,7 +415,7 @@ At the beginning of his Activation, Beorn can change his form from Man to Bear. 
 
 **WARGEAR**
 
-- Claws and teeth ([hand weapons][Hand Weapon])
+- Claws and teeth ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -599,7 +599,7 @@ Whenever a friendly Druadan model within 6" of Ghan-buri-Ghan that is within a p
 
 **WARGEAR**
 
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - [Great Bow]
 
 **HEROIC ACTIONS**
@@ -636,7 +636,7 @@ Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
 
 **WARGEAR**
 
-- Claws and teeth ([hand weapons][Hand Weapon])
+- Claws and teeth ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -682,7 +682,7 @@ If Grimbeorn wins a Duel Roll he can choose to use this Brutal Power Attack. If 
 
 **WARGEAR**
 
-- [Elven-made] Weapon
+- [Elven-made][Elven Weapon] Weapon
 - [Elf Bow]
 
 **HEROIC ACTIONS**
@@ -853,7 +853,7 @@ Dummy Trap - When this is revealed, the Activation of the model that revealed th
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon])
+- Roots and Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -895,7 +895,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon])
+- Roots and Branches ([Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -936,7 +936,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 **WARGEAR**
 
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - Grip, Fang and Wolf
 
 **SPECIAL RULES**
@@ -946,7 +946,7 @@ Choose another model involved in the Combat. Both the chosen model and the Bludg
 
 - **Get out of my fields!** `ACTIVE`
 
-Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a [two-handed] weapon.
+Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1 penalty to his Duel rolls for using a [two-handed weapon][Two-handed Weapon].
 
 ---
 
@@ -960,7 +960,7 @@ Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1
 
 **WARGEAR**
 
-- Teeth and claws ([hand weapons][Hand Weapon])
+- Teeth and claws ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1000,7 +1000,7 @@ Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whils
 
 - **Pitchfork** `PASSIVE`
 
-A Pitchfork can either be used as a [spear] or a [two-handed] weapon.
+A Pitchfork can either be used as a [spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **"This is our Country"** `PASSIVE`
 
@@ -1109,9 +1109,9 @@ Friendly Hobbit models treat Frodo as a banner with a range of 6".
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed] Weapon
+- [Master-forged][Master-forged Weapon] [Two-handed Weapon]
 - Two [Hand Weapons][Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1126,7 +1126,7 @@ Friendly Hobbit models treat Frodo as a banner with a range of 6".
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of each Combat he is involved in, Gimli can choose to either fight with an [axe] in each hand, in which case he will fight with 3 Attacks, or with his [two-handed][] [axe].
+At the beginning of each Combat he is involved in, Gimli can choose to either fight with an [axe] in each hand, in which case he will fight with 3 Attacks, or with his [two-handed][Two-handed Weapon] [axe].
 
 - **"I myself am sitting pretty on 43"** `ACTIVE`
 
@@ -1175,7 +1175,7 @@ After both sides have deployed, before the first turn begins, Hamfast's controll
 
 **WARGEAR**
 
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1189,7 +1189,7 @@ After both sides have deployed, before the first turn begins, Hamfast's controll
 
 - **Head Shirriff** `PASSIVE`
 
-Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their [hand-and-a-half] weapon as a [two-handed] weapon.
+Holfoot, and any Hobbit Shirriffs (including Robin Smallburrow) within 3" of him, do not suffer the -1 penalty to their Duel Roll for using their [hand-and-a-half weapon][Hand-and-a-half Weapon] as a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -1278,7 +1278,7 @@ Any Hobbit Archers in Paladin's Warband upgraded to Tookish Hunters may re-roll 
 
 **WARGEAR**
 
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1532,7 +1532,7 @@ Whilst Bilbo is wearing [the One Ring] and is [Invisible], enemy models Engaged 
 
 **WARGEAR**
 
-- Iron-shod Hooves ([hand weapon])
+- Iron-shod Hooves ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1891,12 +1891,12 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 **WARGEAR**
 
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Axe]
 
 **OPTIONS**
 
-- Swap [hand-and-a-half][] [Axe] for [Great Bow] - Free
+- Swap [Hand-and-a-half][Hand-and-a-half Weapon] [Axe] for [Great Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1923,7 +1923,7 @@ This model treats friendly Bear models as a banner.
 
 **WARGEAR**
 
-- Roots and Branches ([hand weapon])
+- Roots and Branches ([Hand Weapon])
 
 **OPTIONS**
 
@@ -1979,7 +1979,7 @@ The Ent improves its Wounds characteristic to 4.
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon])
+- Claws and Beak ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -2005,7 +2005,7 @@ The Ent improves its Wounds characteristic to 4.
 
 **WARGEAR**
 
-- Claws and Beak ([hand weapon])
+- Claws and Beak ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -2095,7 +2095,7 @@ Hobbit Militia in Merry's Warband upgraded to Battlin' Brandybucks have Strength
 
 **WARGEAR**
 
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **SPECIAL RULES**
 

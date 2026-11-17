@@ -35,9 +35,9 @@ This army may include: Gandalf the Grey; Aragorn, Strider; Boromir of Gondor; Gi
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 12" | 4+ |
+| [Command][Compel] | 12" | 4+ |
 | [Protection of the Valar] | 12" | 4+ |
 | [Strengthen Will] | 12" | 4+ |
 | [Collapse Rocks] | 6" | 5+ |
@@ -167,9 +167,9 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed][] [Axe]
+- [Master-forged][Master-forged Weapon] [Two-handed][Two-handed Weapon] [Axe]
 - [Two Axes][Axe]
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **HEROIC ACTIONS**
 
@@ -184,7 +184,7 @@ If outnumbered, enemy with highest courage must take a courage test. If they fai
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of a fight, you can choose his [two-handed][] [axe], or an [axe] in each hand which gives him an Attack value of 3.
+At the beginning of a fight, you can choose his [two-handed][Two-handed Weapon] [axe], or an [axe] in each hand which gives him an Attack value of 3.
 
 - **I myself am sitting pretty on 43** `ACTIVE`
 
@@ -206,7 +206,7 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 
 **WARGEAR**
 
-- [Elven-made] Daggers
+- [Elven-made][Elven-made Weapon] Daggers
 - Elf [Bow]
 
 **HEROIC ACTIONS**
@@ -272,7 +272,7 @@ Frodo gains +3 Defence whilst wearing the Mithril Coat.
 
 - **Sting** `ACTIVE`
 
-An [Elven-made][] [dagger], Frodo gains +1 Strength when making strikes with Sting.
+An [Elven-made][Elven-made Weapon] [dagger], Frodo gains +1 Strength when making strikes with Sting.
 
 </div>
 
@@ -326,7 +326,7 @@ If Frodo is Engaged in a Fight within 6" of Sam, then Sam may call a [Heroic Com
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 
 **HEROIC ACTIONS**
 

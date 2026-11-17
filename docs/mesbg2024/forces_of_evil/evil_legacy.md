@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -139,7 +139,7 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -236,7 +236,7 @@ Each time this model Charges into Combat, it will inflict a single Strength 4 hi
 
 **SPECIAL RULES**
 
-- [Elfbane]
+- [Elfbane][Bane Weapons]
 - [Hatred] (Elf)
 
 - **Bone-breakers** `ACTIVE`
@@ -365,7 +365,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, the Dar
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -412,7 +412,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Dwim
 
 **WARGEAR**
 
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - The Golden Throne
 
 **HEROIC ACTIONS**
@@ -551,7 +551,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Shad
 
 **WARGEAR**
 
-- Large Venomous Fangs ([hand weapons][Hand Weapon])
+- Large Venomous Fangs ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -578,7 +578,7 @@ At the beginning of her Activation, the Spider Queen may spend any number of Wil
 
 **WARGEAR**
 
-- Fangs ([hand weapons][Hand Weapon])
+- Fangs ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -654,7 +654,7 @@ At the start of the Fight Phase, before the Declare Heroic Actions step, roll a 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -707,7 +707,7 @@ The Undying can spend his Will Points as if they were Fate Points.
 
 - [Armour]
 - [Hand Weapon]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -775,7 +775,7 @@ Whilst there is at least one friendly Ringwraith on the battlefield, treat this 
 
 - [Armour]
 - [Hand Weapon]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -836,7 +836,7 @@ Friendly Dunland models within 3" of Frida may re-roll failed To Wound rolls whe
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -870,7 +870,7 @@ Whenever Golfimbul suffers a Wound, roll a D6. On the roll of a 5+, the Wound is
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -934,7 +934,7 @@ If at the start of the Fight Phase Gorulf is Engaged in Combat with an enemy Her
 
 **WARGEAR**
 
-- Hooves ([hand weapon])
+- Hooves ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1071,7 +1071,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, Kardush 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -1178,7 +1178,7 @@ At the start of a Combat in which Mauhur Charged, Mauhur may declare he is using
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1400,7 +1400,7 @@ Whilst within 6" of Sauron or a friendly Ringwraith model, this model automatica
 
 **WARGEAR**
 
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **SPECIAL RULES**
 
@@ -1509,7 +1509,7 @@ Whilst this model has the Cavalry keyword, it may re-roll To Wound rolls of a na
 
 - **Dunlending War Axe** `ACTIVE`
 
-This can be used as either a [spear] or a [two-handed] weapon.
+This can be used as either a [spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -1541,7 +1541,7 @@ A Dunlending Warrior must have one of the following options for the listed point
 - [Banner] - 25 points
 - [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -1559,7 +1559,7 @@ A Dunlending Warrior must have one of the following options for the listed point
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapons][Hand Weapon])
+- Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1619,7 +1619,7 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 
 **OPTIONS**
 
-- Exchange [Hand Weapon] for [Two-handed] Weapon - Free
+- Exchange [Hand Weapon] for [Two-handed Weapon] - Free
 
 **SPECIAL RULES**
 
@@ -1643,12 +1643,12 @@ Whenever a Feral Uruk-hai suffers a Wound, roll a D6. On the roll of a natural 6
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange [Hand-and-a-half] Weapon for [Bow] - Free
+- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
 
 **SPECIAL RULES**
 
@@ -1675,7 +1675,7 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - [Hand Weapon]
 - [Bow]
 - [Horse]
@@ -1697,12 +1697,12 @@ When a Khandish Charioteer Moves via Chariot Charge, it will inflict 2 Strength 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - [Hand Weapon]
 
 **OPTIONS**
 
-- Exchange [Hand-and-a-half] Weapon for [Bow] - Free
+- Exchange [Hand-and-a-half Weapon] for [Bow] - Free
 
 </div>
 

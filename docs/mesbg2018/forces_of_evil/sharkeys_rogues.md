@@ -34,7 +34,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 **WARGEAR**
 
-- Jagged Knife ([sword])
+- Jagged Knife ([Sword])
 - [Club]
 - [Whip]
 
@@ -178,7 +178,7 @@ Lotho cannot take part in any Heroic Actions from Bilbo or Frodo.
 **WARGEAR**
 
 - [Club]
-- Knife ([sword])
+- Knife ([Sword])
 
 **SPECIAL RULES**
 

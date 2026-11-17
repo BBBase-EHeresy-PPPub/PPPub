@@ -22,17 +22,17 @@
 - [**Gimli**](../forces_of_good/the_free_peoples.md#gimli-100-points): 100 points
 - [**Gloin the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#gloin-the-dwarf-champion-of-erebor-100-points): 100 points
 - [**Iron Hills Captain**](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points): 80 points
-    - Exchange shield and spear for Mattock: Free
+    - Exchange shield and Spear for Mattock: Free
 - [**Nori the Dwarf, Champion of Erebor**](../forces_of_good/dwarven_holds.md#nori-the-dwarf-champion-of-erebor-75-points): 75 points
 
 **WARRIORS**
 
 - [**Iron Hills Goat Rider**](../forces_of_good/dwarven_holds.md#iron-hills-goat-rider-20-points): 20 points
-    - Exchange war spear for Mattock: Free
+    - Exchange war Spear for Mattock: Free
 - [**Iron Hills Warrior**](../forces_of_good/dwarven_holds.md#iron-hills-warrior-10-points): 10 points
     - Banner and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Crossbow: 2 points
     - Mattock: 1 point
 

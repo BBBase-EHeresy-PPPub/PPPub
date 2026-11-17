@@ -14,17 +14,17 @@
 **WARRIORS**
 
 - [**Dwarf Ranger**](../forces_of_good/dwarven_holds.md#dwarf-ranger-8-points): 8 points
-    - Dwarf longbow: 1 point
-    - Throwing weapons: 1 point
-    - Two-handed weapon: 1 point
+    - Dwarf Longbow: 1 point
+    - Throwing Weapons: 1 point
+    - Two-handed Weapon: 1 point
 - [**Dwarf Warrior**](../forces_of_good/dwarven_holds.md#dwarf-warrior-8-points): 8 points
     - War horn: 25 points
     - Banner: 25 points
-    - Dwarf bow: 1 point
+    - Dwarf Bow: 1 point
     - Shield: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Knight of Minas Tirith**](../forces_of_good/gondor.md#knight-of-minas-tirith-15-points): 15 points
-    - Exchange shield and lance for banner: 25 points
+    - Exchange shield and Lance for banner: 25 points
 - [**Ranger of Gondor**](../forces_of_good/gondor.md#ranger-of-gondor-8-points): 8 points
     - Banner: 25 points
     - War horn: 25 points
@@ -32,7 +32,7 @@
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 

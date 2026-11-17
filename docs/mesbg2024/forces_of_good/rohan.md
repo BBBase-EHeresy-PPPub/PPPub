@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - [Hand Weapon]
 - The Horn of the Hammerhand
 
@@ -230,7 +230,7 @@ Whilst mounted on Snowmane, Théoden may re-roll any failed Courage Tests to Cha
 - Firefoot - 20 points
 - Firefoot with [Armour] - 25 points
 - [Shield] - 5 points
-- <span style="color: darkmagenta">[Throwing] Spears - 5 points</span>
+- <span style="color: darkmagenta">[Throwing][Throwing Weapon] Spears - 5 points</span>
 
 **SPECIAL RULES**
 
@@ -323,7 +323,7 @@ Any Warriors of Rohan included in Fréaláf's Warband are automatically upgraded
 **OPTIONS**
 
 - [Armoured Horse] - 25 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -513,7 +513,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Théoden is Engage
 - [Armour]
 - [Hand Weapon]
 - [Shield]
-- [Throwing] Spears
+- [Throwing][Throwing Weapon] Spears
 
 **HEROIC ACTIONS**
 
@@ -532,7 +532,7 @@ During the Declare Heroic Actions step of the Fight Phase, if Théoden is Engage
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [throwing] spears. Additionally, when [throwing] his [throwing] spears, Elfhelm may re-roll any failed To Hit, To Wound or In The Way Rolls when making that shooting attack.
+Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [throwing][Throwing Weapon] spears. Additionally, when [throwing][Throwing Weapon] his [throwing][Throwing Weapon] spears, Elfhelm may re-roll any failed To Hit, To Wound or In The Way Rolls when making that shooting attack.
 
 </div>
 
@@ -564,7 +564,7 @@ Elfhelm never suffers the -1 penalty for Moving and Shooting when using his [thr
 - [Horse] - 20 points
 - [Armour] - 5 points
 - [Shield] - 5 points
-- [Throwing] Spears - 5 points
+- [Throwing][Throwing Weapon] Spears - 5 points
 
 **SPECIAL RULES**
 
@@ -916,7 +916,7 @@ If at the start of the Fight Phase Haleth is Engaged in Combat, then for the dur
 **OPTIONS**
 
 - [Banner] - 25 points
-- [Throwing] Spears - 2 points
+- [Throwing][Throwing Weapon] Spears - 2 points
 - Westfold Redshield - 1 point
 
 **SPECIAL RULES**
@@ -929,7 +929,7 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, then
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing][Throwing Weapon] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 - **Westfold Redshield**
 
@@ -957,9 +957,9 @@ Riders of Rohan in Erkenbrand's Warband upgraded to Westfold Redshields treat Er
 
 **OPTIONS**
 
-- <span style="color: darkmagenta">[Horse] and [Throwing] Spears - 7 points</span>
+- <span style="color: darkmagenta">[Horse] and [Throwing][Throwing Weapon] Spears - 7 points</span>
 - [Horse] - 5 points
-- [Throwing] Spears - 2 points
+- [Throwing][Throwing Weapon] Spears - 2 points
 
 **SPECIAL RULES**
 
@@ -972,7 +972,7 @@ If this model is within 12" of a Rohan General and has the Cavalry keyword, then
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing][Throwing Weapon] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 </div>
 
@@ -997,9 +997,9 @@ This model may use its [throwing] spears as a normal [spear] during the Fight Ph
 
 A Warrior of Rohan must have one of the following options for the listed points cost:
 
-- [War Horn], [Shield], [Throwing] Spears - 28 points
+- [War Horn], [Shield], [Throwing][Throwing Weapon] Spears - 28 points
 - [Banner] - 25 points
-- [Shield] and [Throwing] Spears - 3 points
+- [Shield] and [Throwing][Throwing Weapon] Spears - 3 points
 - [Shield] - 1 point
 - [Bow] - 1 point
 - Helmingas - 1 point
@@ -1008,7 +1008,7 @@ A Warrior of Rohan must have one of the following options for the listed points 
 
 - **Spear Mastery** `ACTIVE`
 
-This model may use its [throwing] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
+This model may use its [throwing][Throwing Weapon] spears as a normal [spear] during the Fight Phase, so long as it hasn't made a shooting attack with it in either the preceding Move Phase or Shoot Phase.
 
 - **Helmingas**
 

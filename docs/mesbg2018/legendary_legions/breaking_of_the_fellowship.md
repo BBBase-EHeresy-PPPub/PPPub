@@ -39,7 +39,7 @@ Sam - Elven Rope: Sam always counts as rolling a 6 for any Climb, Jump, or Leap 
 
 Merry & Pippin - Daggers of the Noldorin: Merry & Pippin may re-roll any failed To Wound rolls in combat.
 
-Aragorn - Elven [Dagger]: This is an [Elven-made][] [dagger] with the Uruk-Hai bane special rule.
+Aragorn - Elven [Dagger]: This is an [Elven-made][Elven-made Weapon] [dagger] with the Uruk-Hai bane special rule.
 
 Legolas - [Bow] of the Galadhrim: Whilst within 3" of a friendly model, Legolas may re-roll any failed To Hit rolls when shooting.
 

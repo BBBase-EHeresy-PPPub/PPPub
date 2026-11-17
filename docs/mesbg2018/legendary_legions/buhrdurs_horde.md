@@ -5,20 +5,20 @@
 - **BUHRDUR**: 110 points
 - **ANGMAR ORC CAPTAIN**: 40 points
     - Warg: 10 points
-    - Orc bow: 5 points
+    - Orc Bow: 5 points
     - Shield: 5 points
 - **WILD WARG CHIEFTAIN**: 80 points
 - **ANGMAR ORC SHAMAN**: 50 points
     - Warg: 10 points
 - **ANGMAR ORC WARRIOR**: 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 - **ANGMAR WARG RIDER**: 11 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Throwing Spears: 1 point
 - **HILL TROLL**: 75 points

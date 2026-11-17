@@ -13,7 +13,7 @@
     - Crown of Morgul: 25 points
     - Horse: 20 points
     - Morgul Blade: 10 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 
 **HEROES OF VALOUR**
 
@@ -59,12 +59,12 @@
 - [**Kardush the Firecaller**](../forces_of_evil/evil_legacy.md#kardush-the-firecaller-65-points): 65 points
 - [**Morannon Orc Captain**](../forces_of_evil/mordor.md#morannon-orc-captain-55-points): 55 points
     - Shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
 - [**Mordor Orc Taskmaster**](../forces_of_evil/mordor.md#mordor-orc-taskmaster-45-points): 45 points
 - [**Mordor Troll Chieftain**](../forces_of_evil/mordor.md#mordor-troll-chieftain-150-points): 150 points
 - [**Mordor Uruk-Hai Captain**](../forces_of_evil/mordor.md#mordor-uruk-hai-captain-55-points): 55 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - [**Muzgur, Orc Shaman**](../forces_of_evil/evil_legacy.md#muzgur-orc-shaman-70-points): 70 points
 - [**Shagrat**](../forces_of_evil/mordor.md#shagrat-110-points): 110 points
 - [**Zagdush, Orc Captain**](../forces_of_evil/evil_legacy.md#zagdush-orc-captain-60-points): 60 points
@@ -86,32 +86,32 @@
 - [**Black Guard of Barad-dur**](../forces_of_evil/evil_legacy.md#black-guard-of-barad-dur-12-points): 12 points
     - Exchange shield for banner: 25 points
 - [**Black Numenorean Knight**](../forces_of_evil/mordor.md#black-numenorean-knight-20-points): 20 points
-    - Exchange lance for banner: 25 points
-    - Exchange lance for war horn: 25 points
+    - Exchange Lance for banner: 25 points
+    - Exchange Lance for war horn: 25 points
 - [**Black Numenorean Warrior**](../forces_of_evil/mordor.md#black-numenorean-warrior-10-points): 10 points
 - [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
 - [**Mirkwood Giant Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-giant-spider-20-points): 20 points
 - [**Mirkwood Hunting Spider**](../forces_of_evil/gundabad_and_dol_guldur.md#mirkwood-hunting-spider-20-points): 20 points
 - [**Morannon Orc Warrior**](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 8 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 - [**Mordor Uruk-Hai**](../forces_of_evil/mordor.md#mordor-uruk-hai-8-points): 8 points
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Warg Rider**](../forces_of_evil/mordor.md#mordor-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 - [**Morgul Stalker**](../forces_of_evil/evil_legacy.md#morgul-stalker-10-points): 10 points
 - [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points
 

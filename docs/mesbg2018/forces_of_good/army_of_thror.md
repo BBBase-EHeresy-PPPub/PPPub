@@ -58,7 +58,7 @@ Once per game, you may re-roll a single Priority roll.
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed][] [Hammer]
+- [Master-forged][Master-forged Weapon] [Two-handed][Two-handed Weapon] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -165,7 +165,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **HEROIC ACTIONS**
 
@@ -179,7 +179,7 @@ Once per game when moving Thorin, this rule may be declared. All friendly Erebor
 
 - **Pick-hammer** `ACTIVE`
 
-[Hand-and-a-half] weapon, which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -244,7 +244,7 @@ In the Priority phase, Balin may spend a Will point to enable his side to re-rol
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered [unarmed], and never suffers the -1 penalty in Duel rolls for using a [two-handed] weapon.
+Dwalin is never considered [unarmed], and never suffers the -1 penalty in Duel rolls for using a [two-handed weapon][Two-handed Weapon].
 
 - **Dwarven Fury** `ACTIVE`
 
@@ -270,7 +270,7 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 
 - [Heavy Dwarf Armour]
 - Pick-hammer
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **OPTIONS**
 
@@ -283,7 +283,7 @@ Before the Duel roll, Dwalin may choose to reduce his Fight value by D3. If he d
 
 - **Pick-hammer** `ACTIVE`
 
-[Hand-and-a-half] weapon, which may use either the Bash or Piercing Strike Special Strikes.
+[Hand-and-a-half weapon][Hand-and-a-half Weapon], which may use either the Bash or Piercing Strike Special Strikes.
 
 - **Guardians of the King Upgrade**
 

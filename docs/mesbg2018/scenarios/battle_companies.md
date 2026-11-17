@@ -661,7 +661,7 @@ If you were victorious in the Scenario, roll on the chart below to see what rewa
 | 2 | Do not make any Injury rolls for the members of your company - they all count as making a Full Recovery. |
 | 3 | One **Hero** in your company may have this Ancient Dagger. This is a dagger. Additionally, when making Strikes with the Ancient Dagger, the bearer never needs more than a 5+ To Wound an enemy. |
 | 4 | Your leader gains the Healing Herbs piece of equipment. |
-| 5 | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the [Bane of Kings] special rule. |
+| 5 | The leader of your Battle Company may have the Barrow-wight's blade. This is a sword with the [Bane of Kings][Bane of Kings/Venom] special rule. |
 | 6 | One Hero in your company may have this stone shard - this is a small piece of wargear. Once per game, so long as the bearer is on the battlefield, the controlling player may choose to re-roll their Priority roll. |
 
 **WHAT IF I'M USING AN EVIL BATTLECOMPANY?**

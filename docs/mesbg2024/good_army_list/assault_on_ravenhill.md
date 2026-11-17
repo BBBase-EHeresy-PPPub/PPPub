@@ -38,4 +38,4 @@
 
 **Heroes of Mirkwood** - Legolas increases his Fight Value to 7 and his Attacks to 3. Additionally, Tauriel must re-roll all failed To Wound Rolls when making Strikes.
 
-**Throwing Stones** - Instead of using his [Throw Stones] special rule as normal, Bilbo may use stones in the same way as a [Throwing] Weapon. These have a Strength of 1 and a range of 8", and Bilbo may re-roll any failed To Wound Rolls when using stones as a [Throwing] Weapon.
+**Throwing Stones** - Instead of using his [Throw Stones] special rule as normal, Bilbo may use stones in the same way as a [Throwing Weapon]. These have a Strength of 1 and a range of 8", and Bilbo may re-roll any failed To Wound Rolls when using stones as a [Throwing Weapon].

@@ -24,7 +24,7 @@
 **WARRIORS**
 
 - [**Erebor Dwarf Warrior**](../forces_of_good/dwarven_holds.md#erebor-dwarf-warrior-9-points): 9 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - [**Grim Hammer Warrior**](../forces_of_good/dwarven_holds.md#grim-hammer-warrior-11-points): 11 points
@@ -34,7 +34,7 @@
 
 ## ADDITIONAL RULES
 
-- <span style="color: darkmagenta">An Army of Thror Army may have up to 50% of its Warrior models armed with [throwing] weapons rather than the usual 33%.</span>
+- <span style="color: darkmagenta">An Army of Thror Army may have up to 50% of its Warrior models armed with [throwing weapons][Throwing Weapon] rather than the usual 33%.</span>
 
 ## SPECIAL RULES
 

@@ -136,7 +136,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 - [Harbinger of Evil]
 - [Terror]
 - [Will of Evil]
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 
 - **Master of Poisons** `PASSIVE`
 
@@ -158,7 +158,7 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 **WARGEAR**
 
-- [Two Handed Weapon][Two-Handed]
+- [Two Handed Weapon][Two-handed Weapon]
 - Golden Throne
 
 **HEROIC ACTIONS**
@@ -270,7 +270,7 @@ Each time a friendly Hero model within 6" (including himself) attempts a [Heroic
 **WARGEAR**
 
 - [Dagger]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -284,7 +284,7 @@ Each time a friendly Hero model within 6" (including himself) attempts a [Heroic
 
 **SPECIAL RULES**
 
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 - [Stalk Unseen]
 
 - **Preternatural Agility** `ACTIVE`
@@ -317,7 +317,7 @@ A Hasharin can never be trapped while still standing.
 
 **SPECIAL RULES**
 
-- [Bane of Kings]
+- [Bane of Kings][Bane of Kings/Venom]
 - [Sworn Protector] (Suladan)
 
 - **The Serpent's Weapon** `ACTIVE`
@@ -410,7 +410,7 @@ Replaces the Haradrim Commander with a Mahud Beastmaster Chieftain. Use the Mahu
 
 **WARGEAR**
 
-- [Two-handed][] [Sword]
+- [Two-handed][Two-handed Weapon] [Sword]
 
 **OPTIONS**
 

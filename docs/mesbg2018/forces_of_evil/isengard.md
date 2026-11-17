@@ -30,9 +30,9 @@ This army may include: Saruman; Lurtz; Dunlending Chieftain; Frida Tallspear; Go
 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
-| [Immobilise] | 18" | 2+ |
+| [Immobilise][Transfix] | 18" | 2+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 18" | 3+ |
+| [Command][Compel] | 18" | 3+ |
 | [Sorcerous Blast] | 12" | 4+ |
 | [Flameburst] | 6" | 5+ |
 
@@ -109,7 +109,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 - [Armour]
 - [Dagger]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -119,7 +119,7 @@ Lurtz can choose when and where his warband will arrive in a scenario, no dice r
 
 - [Bow] - 5 points
 - [Swap Weapon] - 5 points
-- Swap [Two-Handed][] [Axe] for [Axe] and [Shield] - Free
+- Swap [Two-handed][Two-handed Weapon] [Axe] for [Axe] and [Shield] - Free
 
 </div>
 
@@ -328,7 +328,7 @@ Snaga can choose not to take part in a friendly Hero model's Heroic Action, and 
 
 - [Armour]
 - [Sword]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -405,7 +405,7 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 - [Crossbow] - 5 points
 - [Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -435,7 +435,7 @@ If his warband is broken, instead of taking a courage test, Uglúk can kill a fr
 
 - Uruk-Hai [Bow] - 5 points
 - [Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -654,7 +654,7 @@ Whilst they have the Cavalry keyword, Horsemen re-roll To Wounds of 1 against mo
 
 - **Dunlending War Axe** `ACTIVE`
 
-Can either be used as a [spear] or [two-handed][] [axe].
+Can either be used as a [spear] or [two-handed][Two-handed Weapon] [axe].
 
 - **Favour of the War Chief** `PASSIVE`
 
@@ -683,7 +683,7 @@ Huscarls supporting a fight within 3" of a Dunlending Hero gain +1 Fight value i
 
 - [Banner] - 25 points
 - [Shield] - 1 point
-- [Two-Handed][] [Axe] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - Swap [Axe] for [Dagger] and [Bow] - 1 point
 - [Swap Weapon] - 1 point
 
@@ -771,7 +771,7 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -796,7 +796,7 @@ When a Feral Uruk-Hai suffers a wound, roll a D6. On a 6, the wound is ignored.
 
 - **Berserker Blade** `ACTIVE`
 
-A [hand-and-a-half][] [sword]. If using as a [two-handed] weapon, the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
+A [hand-and-a-half][Hand-and-a-half Weapon] [sword]. If using as a [two-handed weapon][Two-handed Weapon], the berserker can do one Strength 4 at +1 To Wound on every model in base contact, friend or foe.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -929,7 +929,7 @@ Uruk-hai Scouts in Mauhur's Warband may be upgraded to Marauders. Marauders have
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -952,7 +952,7 @@ Uruk-hai Scouts in Mauhur's Warband may be upgraded to Marauders. Marauders have
 
 **OPTIONS**
 
-- [Two-Handed][] [Axe] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -990,7 +990,7 @@ Crewed by three Uruk-Hai Warriors with heavy armour and sword, one of which is a
 - [Additional Crew] - 9 points
 - [Engineer Captain] - [Crossbow] - 5 points
 - [Engineer Captain] - [Shield] - 5 points
-- [Engineer Captain] - [Two-Handed] Weapon - 5 points
+- [Engineer Captain] - [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 

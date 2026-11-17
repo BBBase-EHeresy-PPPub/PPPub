@@ -6,7 +6,7 @@
     - Horse: 10 points
 - **DUNLENDING CHIEFTAIN**: 55 points
     - Bow: 5 points
-    - Swap Two-Handed Axe for Axe and Shield: Free
+    - Swap Two-handed Axe for Axe and Shield: Free
 - **FRIDA TALLSPEAR**: 65 points
 - **GORULF IRONSKIN**: 70 points
 - **WILD MAN OATHMAKER**: 55 points
@@ -16,10 +16,10 @@
 - **DUNLENDING WARRIOR**: 7 points
     - Banner: 25 points
     - Shield: 1 point
-    - Two-Handed Axe: 1 point
+    - Two-handed Axe: 1 point
     - Swap Axe for Dagger and Bow: 1 point
 - **WILD MAN OF DUNLAND**: 5 points
-    - Two-Handed Axe: 1 point
+    - Two-handed Axe: 1 point
 </div>
 
 ## SPECIAL RULES

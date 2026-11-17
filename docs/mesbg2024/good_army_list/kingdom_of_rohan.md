@@ -18,7 +18,7 @@
     - Firefoot with armour: 25 points
     - Firefoot: 20 points
     - Shield: 5 points
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**Theodred**](../forces_of_good/rohan.md#theodred-85-points): 85 points
     - Brego: 20 points
     - Shield: 5 points
@@ -46,25 +46,25 @@
     - Horse: 20 points
     - Armour: 5 points
     - Shield: 5 points
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**King's Huntsman**](../forces_of_good/good_legacy.md#kings-huntsman-55-points): 55 points
 
 **WARRIORS**
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
     - Upgrade to Westfold Redshield: 1 point
 - [**Rohan Outrider**](../forces_of_good/good_legacy.md#rohan-outrider-8-points): 8 points
     - Horse: 5 points
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
-    - Horse and throwing spears: 7 points
+    - Horse and Throwing Spears: 7 points
     - Horse: 5 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
     - Upgrade to Helmingas: 1 point

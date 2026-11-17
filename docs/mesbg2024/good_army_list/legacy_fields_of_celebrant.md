@@ -31,12 +31,12 @@
     - Spear: 1 point
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Son of Eorl**](../forces_of_good/good_legacy.md#son-of-eorl-20-points): 20 points
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 

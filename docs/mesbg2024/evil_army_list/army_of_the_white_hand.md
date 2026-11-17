@@ -24,7 +24,7 @@
 - [**Vrasku**](../forces_of_evil/evil_legacy.md#vrasku-70-points): 70 points
 - [**Wild Man Chieftain**](../forces_of_evil/isengard.md#wild-man-chieftain-40-points): 40 points
     - Light shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - [**Wild Man Oathmaker**](../forces_of_evil/isengard.md#wild-man-oathmaker-55-points): 55 points
 
 **MINOR HEROES**
@@ -47,26 +47,26 @@
     - Banner: 25 points
     - Bow: 1 point
     - Shield: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Feral Uruk-Hai**](../forces_of_evil/evil_legacy.md#feral-uruk-hai-13-points): 13 points
 - [**Isengard Orc Warrior**](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Isengard Troll**](../forces_of_evil/isengard.md#isengard-troll-100-points): 100 points
     - Swap shield for war drum (Isengard): 25 points
     - Spear: 5 points
 - [**Isengard Warg Rider**](../forces_of_evil/isengard.md#isengard-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 - [**Uruk-Hai Scout**](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 points
     - Banner: 25 points
     - Shield: 1 point
-    - Uruk-hai bow: 1 point
+    - Uruk-hai Bow: 1 point
 - [**Wild Man of Dunland**](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 5 points
     - <span style="color: darkmagenta">Banner and light shield: 26 points</span>
     - <span style="color: darkmagenta">War horn and light shield: 26 points</span>
@@ -77,7 +77,7 @@
     - Flaming Brand: 1 point
     - Light shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 
 </div>
 

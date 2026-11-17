@@ -10,7 +10,7 @@
 - **GURITZ**: 60 points
 - **MORANNON ORC CAPTAIN**: 50 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **ORC TASKMASTER**: 50 points
 - **ZAGDUSH**: 60 points
 - **ORC SHAMAN**: 50 points
@@ -27,7 +27,7 @@
     - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 - **MORDOR SIEGE BOW**: 50 points
     - Orc Engineer Captain: 40 points
     - Flaming Ammunition: 15 points

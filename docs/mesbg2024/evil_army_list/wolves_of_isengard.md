@@ -22,17 +22,17 @@
 
 - [**Isengard Warg**](../forces_of_evil/isengard.md#isengard-warg-7-points): 7 points
 - [**Isengard Warg Rider**](../forces_of_evil/isengard.md#isengard-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 
 </div>
 
 ## ADDITIONAL RULES
 
 - A Wolves of Isengard Army must always contain Sharku, who is always the Army's General.
-- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with [throwing] weapons rather than the usual 33%.
+- A Wolves of Isengard Army may have up to 50% of its Warrior models armed with [throwing weapons][Throwing Weapon] rather than the usual 33%.
 
 ## SPECIAL RULES
 

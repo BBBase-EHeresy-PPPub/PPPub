@@ -35,12 +35,12 @@
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Rohan Outrider**](../forces_of_good/good_legacy.md#rohan-outrider-8-points): 13 points
     - Horse
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 16 points
     - Horse
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 
 </div>
 

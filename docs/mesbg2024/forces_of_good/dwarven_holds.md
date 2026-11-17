@@ -26,7 +26,7 @@
 
 - **Barazantathul** `ACTIVE`
 
-This is a Unique [Master-forged][] [two-handed] weapon.
+This is a Unique [Master-forged][Master-forged Weapon] [two-handed weapon][Two-handed Weapon].
 
 - **King Under the Mountain** `ACTIVE`
 
@@ -75,7 +75,7 @@ This is a set of Unique [Mithril Armour] that will add 4 to Durin's Defence rath
 
 - **Durin's axe** `ACTIVE`
 
-This is a Unique [Master-forged][] [two-handed] weapon. Additionally, Durin may re-roll a single D6 when making a Duel Roll.
+This is a Unique [Master-forged][Master-forged Weapon] [two-handed weapon][Two-handed Weapon]. Additionally, Durin may re-roll a single D6 when making a Duel Roll.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
@@ -128,7 +128,7 @@ Any Khazad Guard in Durin's Warband upgraded to Hearthguard have the [Burly] spe
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **Du Bekar** `PASSIVE`
 
@@ -196,7 +196,7 @@ Any Grim Hammer Warriors upgraded to Guardians of the King in Thror's warband wi
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -226,7 +226,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -258,7 +258,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -318,7 +318,7 @@ If Dáin wins a Duel Roll but fails to slay every enemy model involved in the Co
 
 - [Armour]
 - Grasper & Keeper
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -356,7 +356,7 @@ Dwalin is never considered [Unarmed].
 
 - [Heavy Dwarf Armour]
 - Grasper & Keeper
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -398,7 +398,7 @@ At the beginning of a Combat, so long as he is within 3" of Thorin, Dwalin can u
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -407,7 +407,7 @@ At the beginning of a Combat, so long as he is within 3" of Thorin, Dwalin can u
 
 **OPTIONS**
 
-- [Throwing] Weapons - Free
+- [Throwing Weapons][Throwing Weapon] - Free
 
 **SPECIAL RULES**
 
@@ -419,7 +419,7 @@ Erebor - This model gains the [Ancient Enemies] (Orc) special rule.
 
 Iron Hills - This model gains the [Fearless] special rule.
 
-Khazad-dûm - This model gains [throwing] weapons.
+Khazad-dûm - This model gains [throwing weapons][Throwing Weapon].
 
 </div>
 
@@ -501,7 +501,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 - **Glamdring** `ACTIVE`
 
-Elven [hand-and-a-half] weapon. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -642,7 +642,7 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the Heroic Action 
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **The Oakenshield** `ACTIVE`
 
@@ -669,7 +669,7 @@ Friendly Thorin's Company models within 6" of Thorin may re-roll To Wound Rolls 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed] Weapon
+- [Master-forged][Master-forged Weapon] [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -711,7 +711,7 @@ If your army does not include Thror, Thrain carries the Ring of Durin.
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -831,7 +831,7 @@ Once per game, at the start of his Activation, Thorin can declare he is using th
 
 - **Boar Spear** `ACTIVE`
 
-This can be used as either a [spear] or a [two-handed] weapon.
+This can be used as either a [spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Embedded Axe** `ACTIVE`
 
@@ -854,7 +854,7 @@ If Bifur wins a Duel Roll, then he may choose to headbutt an enemy model instead
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -938,7 +938,7 @@ Bilbo ignores the Sauron's Will section of the rules for [the One Ring]. Further
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
 
 - **Steadfast** `PASSIVE`
 
@@ -961,8 +961,8 @@ Whenever a friendly Thorin's Company model within 3" of Bofur is affected by an 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
-- [Throwing] Weapons
+- [Two-handed Weapon]
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1054,7 +1054,7 @@ Once per turn, during his Activation, Bombur can choose a friendly Erebor Hero m
 
 - **Flail** `ACTIVE`
 
-This is a [hand-and-a-half] weapon. Additionally, if the bearer wins a Duel Roll, then they can either make Strikes as normal or make a single Strike against each enemy model that was involved in the Combat.
+This is a [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, if the bearer wins a Duel Roll, then they can either make Strikes as normal or make a single Strike against each enemy model that was involved in the Combat.
 
 </div>
 
@@ -1102,7 +1102,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1186,7 +1186,7 @@ Whilst within 3" of either Ori or Nori, Dori increases his Attacks to 3 and may 
 
 - [Light Armour]
 - [Hand Weapons][Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1217,7 +1217,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 - [Heavy Armour]
 - [Hand Weapons][Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1247,7 +1247,7 @@ If Glóin is outnumbered in a Combat, he increases his Attacks to 4 for the dura
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1280,7 +1280,7 @@ If Glóin is outnumbered in a Combat, he increases his Attacks to 4 for the dura
 
 - [Heavy Dwarf Armour]
 - Mattock
-- [Throwing] Weapon
+- [Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1292,7 +1292,7 @@ If Glóin is outnumbered in a Combat, he increases his Attacks to 4 for the dura
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
@@ -1333,7 +1333,7 @@ If he dismounts, the Chariot remains in play as a standard Iron Hills Chariot.
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
@@ -1384,7 +1384,7 @@ At the start of any Phase, before the Declare Heroic Actions step, if Kili and F
 
 - [Light Armour]
 - [Hand Weapon]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1419,7 +1419,7 @@ Whilst Nori is carrying an Objective in Scenarios where this applies, he may re-
 - [Heavy Dwarf Armour]
 - [Hand Weapon]
 - [Shield]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1453,7 +1453,7 @@ Whilst Nori is carrying an Objective in Scenarios where this applies, he may re-
 
 **WARGEAR**
 
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 - Hearing Trumpet
 
 **HEROIC ACTIONS**
@@ -1567,8 +1567,8 @@ If Ori scores a natural 6 when rolling To Hit with his [sling], then do not make
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
-- [Throwing] Weapons
+- [Two-handed Weapon]
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1584,7 +1584,7 @@ Whenever a friendly Thorin's Company model within 6" and Line of Sight of Ori sl
 
 - **Protect the Young** `PASSIVE`
 
-Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a [two-handed] weapon.
+Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty to their Duel roll for using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -1610,8 +1610,8 @@ Other friendly Erebor Hero models within 6" of Ori do not suffer the -1 penalty 
 A Dwarf Ranger must have one of the following options for the listed points cost:
 
 - [Dwarf Longbow] - 1 point
-- [Throwing] Weapons - 1 point
-- [Two-handed] Weapon - 1 point
+- [Throwing Weapons][Throwing Weapon] - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1648,7 +1648,7 @@ A Dwarf Warrior must have one of the following options for the listed points cos
 - [Banner] - 25 points
 - [Dwarf Bow] - 1 point
 - [Shield] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -1699,7 +1699,7 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 
 - [Heavy Dwarf Armour]
 - Mattock
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **OPTIONS**
 
@@ -1711,7 +1711,7 @@ An Erebor Dwarf Warrior must have one of the following options for the listed po
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
 
 - **Guardian of the King**
 
@@ -1735,7 +1735,7 @@ Grim Hammer Warriors in Thror's Warband upgraded to Guardians of the King have S
 
 - [Heavy Armour]
 - [Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **SPECIAL RULES**
 
@@ -1822,7 +1822,7 @@ When this model Charges against one or more 25mm models, roll a D6 for each. On 
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. If the wielder wins a Duel Roll, it may forgo Strikes to try to knock one enemy in the Combat Prone. Both models roll a D6 and add Strength; if the wielder equals or beats the enemy total, the enemy is knocked Prone. Resolve this before other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. If the wielder wins a Duel Roll, it may forgo Strikes to try to knock one enemy in the Combat Prone. Both models roll a D6 and add Strength; if the wielder equals or beats the enemy total, the enemy is knocked Prone. Resolve this before other friendly models make their Strikes.
 
 </div>
 
@@ -1859,7 +1859,7 @@ An Iron Hills Warrior must have one of the following options for the listed poin
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, if a model wielding a Mattock wins a Duel Roll they may choose to try to knock down an enemy model instead of making Strikes. If they do, choose a single enemy model involved in the Combat. This model and the chosen model both roll a single D6 and add their Strength characteristic. If this model rolls equal to or higher than the chosen model, then the chosen model is immediately knocked Prone. This may be done before any other friendly models make their Strikes.
 
 </div>
 
@@ -1878,7 +1878,7 @@ This is a [two-handed] weapon. Additionally, if a model wielding a Mattock wins 
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - [Hand Weapon]
 
 **OPTIONS**

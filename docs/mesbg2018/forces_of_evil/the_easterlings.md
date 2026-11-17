@@ -36,7 +36,7 @@ This army may include: The Dragon Emperor; Amdur; <span style="color: darkmagent
 
 - **The Emperor's Glaive** `ACTIVE`
 
-[Elven-made][] [spear], may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
+[Elven-made][Elven-made Weapon] [spear], may use Feint special strike, and Shielding special rule. May not support whilst mounted on Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -125,7 +125,7 @@ All Easterling models treat Amdur as a banner. If Amdur kills the enemy leader, 
 
 - **Durtuz** `PASSIVE`
 
-[Elven-made][] [hand-and-a-half][] [sword].
+[Elven-made][Elven-made Weapon] [hand-and-a-half][Hand-and-a-half Weapon] [sword].
 
 - **Phalanx** `ACTIVE`
 
@@ -266,7 +266,7 @@ Brorgir regains 1 Will point every time he rolls a natural 6 on Casting rolls.
 
 - **Easterling Battle Stave**
 
-This weapon can be used as a [spear] or a [two-handed][] [axe].
+This weapon can be used as a [spear] or a [two-handed][Two-handed Weapon] [axe].
 
 </div>
 
@@ -285,7 +285,7 @@ This weapon can be used as a [spear] or a [two-handed][] [axe].
 **WARGEAR**
 
 - [Heavy Armour]
-- Easterling Glaive ([hand-and-a-half][] [Axe])
+- Easterling Glaive ([Hand-and-a-half][Hand-and-a-half Weapon] [Axe])
 
 **HEROIC ACTIONS**
 
@@ -347,7 +347,7 @@ While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider 
 
 - **Easterling Battle Stave**
 
-This weapon can be used as a [spear] or a [two-handed][] [axe].
+This weapon can be used as a [spear] or a [two-handed][Two-handed Weapon] [axe].
 
 </div>
 
@@ -417,7 +417,7 @@ While mounted, gain the Shield-wall rule. The +1 Defence applies to both rider a
 **WARGEAR**
 
 - [Armour]
-- [Throwing] Daggers
+- [Throwing][Throwing Weapon] Daggers
 - [Two Swords][Dagger]
 
 **OPTIONS**
@@ -614,7 +614,7 @@ Black Dragons have Fight 4 and Courage 4.
 **SPECIAL RULES**
 
 - [Terror]
-- [Venom]
+- [Venom][Bane of Kings/Venom]
 
 - **Slow-acting Venom** `PASSIVE`
 

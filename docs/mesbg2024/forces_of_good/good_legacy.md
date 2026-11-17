@@ -26,7 +26,7 @@
 
 - **Durin's Axe** `ACTIVE`
 
-This is a Unique [Master-forged][] [two-handed] weapon. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
+This is a Unique [Master-forged][Master-forged Weapon] [two-handed weapon][Two-handed Weapon]. Additionally, Balin may re-roll a single D6 when making a Duel Roll.
 
 - **Longbeard** `ACTIVE`
 
@@ -51,7 +51,7 @@ During the Priority Phase, after the roll for Priority has taken place, Balin ca
 - [Heavy Armour]
 - [Hand Weapon]
 - [Shield]
-- [Throwing] Spears
+- [Throwing][Throwing Weapon] Spears
 - Felarof
 
 **HEROIC ACTIONS**
@@ -236,7 +236,7 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 
 - **Noldorin Daggers** `ACTIVE`
 
-These are Elven hand weapons, which Erestor may also use as Elven [throwing] weapons. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
+These are Elven hand weapons, which Erestor may also use as Elven [throwing weapons][Throwing Weapon]. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
 
 </div>
 
@@ -362,7 +362,7 @@ Whenever a friendly model slays an enemy Hero or Monster model that Floi can dra
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -453,7 +453,7 @@ If the King's Champion this Herald belongs to is Wounded, and this model is in b
 
 - **White Sword of Gondor** `ACTIVE`
 
-This is a [two-handed] weapon. Additionally, Strikes made with a White [Sword] of Gondor have the [Mighty Blow] special rule.
+This is a [two-handed weapon][Two-handed Weapon]. Additionally, Strikes made with a White [Sword] of Gondor have the [Mighty Blow] special rule.
 
 - **The Bladelord's Skill** `ACTIVE`
 
@@ -708,14 +708,14 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- Elven [Throwing] Weapons - 2 points
+- Elven [Throwing Weapons][Throwing Weapon] - 2 points
 - Wood Elf [Spear] - 1 point
 
 **SPECIAL RULES**

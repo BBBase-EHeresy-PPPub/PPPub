@@ -779,7 +779,7 @@ The game lasts until the end of a turn in which one force has been reduced to a 
 
 **SPECIAL RULES**
 
-**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the [Paralyse], [Immobilise] or [Transfix] Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
+**Supply Markers:** The Objective markers represent a series of supplies that both sides are trying to destroy. To destroy an enemy supply marker, a model must be in base contact with the marker during the End phase of a turn having not cast any Magical Powers, used a missile weapon, been involved in a Fight, or been under the effects of the [Paralyse], [Immobilise][Transfix] or [Transfix] Magical Power during that turn. Once a supply marker has been destroyed, remove it from play.
 
 ![](../media/scenarios/matched_play_guide/scenario_destroy_the_supplies.jpg){ width=738 height=492 }
 

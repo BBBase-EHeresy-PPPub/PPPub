@@ -22,19 +22,19 @@
 - [**Captain of Numenor**](../forces_of_good/gondor.md#captain-of-numenor-70-points): 70 points
 - [**Erestor**](../forces_of_good/good_legacy.md#erestor-85-points): 85 points
 - [**Rivendell Captain**](../forces_of_good/elven_kingdoms.md#rivendell-captain-70-points): 70 points
-    - Horse, Elf bow and Elven lance: 30 points
+    - Horse, Elf Bow and Elven Lance: 30 points
     - Shield: 5 points
 
 **WARRIORS**
 
 - [**Rivendell Warrior**](../forces_of_good/elven_kingdoms.md#rivendell-warrior-9-points): 9 points
     - Banner: 25 points
-    - Elf bow: 2 points
-    - Shield and Elven spear: 2 points
+    - Elf Bow: 2 points
+    - Shield and Elven Spear: 2 points
     - Shield: 1 point
     - Upgrade to King's Guard: 1 point
 - [**Warrior of Numenor**](../forces_of_good/gondor.md#warrior-of-numenor-9-points): 9 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Longbow: 1 point
 

@@ -19,10 +19,10 @@
 **WARRIORS**
 
 - [**Khandish Charioteer**](../forces_of_evil/evil_legacy.md#khandish-charioteer-40-points): 40 points
-    - Exchange hand-and-a-half weapon for bow: Free
+    - Exchange Hand-and-a-half Weapon for Bow: Free
 - [**Khandish Horseman**](../forces_of_evil/evil_legacy.md#khandish-horseman-14-points): 14 points
 - [**Khandish Warrior**](../forces_of_evil/evil_legacy.md#khandish-warrior-8-points): 8 points
-    - Exchange hand-and-a-half weapon for bow: Free
+    - Exchange Hand-and-a-half Weapon for Bow: Free
 
 </div>
 

@@ -9,7 +9,7 @@
 - [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 140 points
     - Firefoot with armour
     - Shield
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 
 **HEROES OF VALOUR**
 
@@ -28,7 +28,7 @@
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
     - Upgrade to Westfold Redshield: 1 point
 
 </div>

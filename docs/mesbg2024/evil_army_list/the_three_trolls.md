@@ -34,7 +34,7 @@
 
 **Rumbling Momentum** - Bill, Bert and Tom increase their Attacks to 4 on a turn in which they Charge.
 
-**Bowl them over** - Instead of using their [Throw Stones] special rule as normal, Bill, Bert and Tom may use stones in the same way as a [Throwing] Weapon. These have a Strength of 8 and a range of 12". Additionally, Bill, Bert and Tom may re-roll the dice when determining the Hurl Distance when using the Hurl Brutal Power Attack.
+**Bowl them over** - Instead of using their [Throw Stones] special rule as normal, Bill, Bert and Tom may use stones in the same way as a [Throwing Weapon]. These have a Strength of 8 and a range of 12". Additionally, Bill, Bert and Tom may re-roll the dice when determining the Hurl Distance when using the Hurl Brutal Power Attack.
 
 **Dominant presence** - Whilst either Bill, Bert or Tom are within 3" of an Objective Marker, they are automatically considered to be holding it and the opposition are considered to have no models within range of the Objective Marker. If models from both sides have a special rule that confers this effect, and the applicable models are within range of the same Objective Marker, then neither Army will get their corresponding special rule.
 

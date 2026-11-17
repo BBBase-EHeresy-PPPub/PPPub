@@ -15,7 +15,7 @@
 **WARRIORS**
 
 - [**Beorning**](../forces_of_good/the_free_peoples.md#beorning-20-points): 20 points
-    - Swap hand-and-a-half weapon for great bow: Free
+    - Swap Hand-and-a-half Weapon for great Bow: Free
 
 </div>
 

@@ -83,7 +83,7 @@ At the start of a Combat involving Eärnur, before any Heroic Strikes are resolv
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - Armour of Gondolin
 
 **HEROIC ACTIONS**
@@ -142,7 +142,7 @@ Asfaloth is a Hero, Mount on a 40mm base, with 0 Might, 1 Will, 1 Fate and [Wood
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapons][Hand Weapon])
+- Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -491,7 +491,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 - [Armour]
 - [Hand Weapon]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -623,7 +623,7 @@ Whenever Nazthák slays an enemy model in Combat (with the exception of Monster 
 
 **WARGEAR**
 
-- An Amalgamation of Grasping Spectral Hands ([hand weapons][Hand Weapon])
+- An Amalgamation of Grasping Spectral Hands ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -660,7 +660,7 @@ Friendly Angmar Orc models within 12" of one or more models with this special ru
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapons][Hand Weapon])
+- Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -801,7 +801,7 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -827,10 +827,10 @@ An Angmar Orc Warrior must have one of the following options for the listed poin
 
 An Angmar Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and [Throwing] Spears - 2 points
+- [Shield] and [Throwing][Throwing Weapon] Spears - 2 points
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 
 </div>
 
@@ -1025,7 +1025,7 @@ If this model is Engaged in Combat with an enemy Hero, then this model gains a b
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapons][Hand Weapon])
+- Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1052,7 +1052,7 @@ When a Werewolf Charges an enemy Infantry model, they gain the Knock to the Grou
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapons][Hand Weapon])
+- Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 </div>
 

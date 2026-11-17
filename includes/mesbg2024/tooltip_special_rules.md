@@ -7,7 +7,6 @@
 [Burly]: ../rules_manual/special_rules.md#burly
 [Cave Dweller]: ../rules_manual/special_rules.md#cave-dweller
 [Dominant]: ../rules_manual/special_rules.md#dominant-x
-[Elfbane]: ../rules_manual/special_rules.md#bane-weapons
 [Expert Rider]: ../rules_manual/special_rules.md#expert-rider
 [Expert Shot]: ../rules_manual/special_rules.md#expert-shot
 [Fearful]: ../rules_manual/special_rules.md#fearful

@@ -8,7 +8,6 @@
 [Call Winds]: ../rules_manual/magical_powers.md#call-winds
 [Chill Soul]: ../rules_manual/magical_powers.md#chill-soul
 [Collapse Rocks]: ../rules_manual/magical_powers.md#collapse-rocks
-[Command]: ../rules_manual/magical_powers.md#commandcompel
 [Compel]: ../rules_manual/magical_powers.md#commandcompel
 [Curse]: ../rules_manual/magical_powers.md#curse
 [Drain Courage]: ../rules_manual/magical_powers.md#drain-courage
@@ -17,7 +16,6 @@
 [Flameburst]: ../rules_manual/magical_powers.md#flameburst
 [Fortify Spirit]: ../rules_manual/magical_powers.md#fortify-spirit
 [Fury]: ../rules_manual/magical_powers.md#fury-x
-[Immobilise]: ../rules_manual/magical_powers.md#immobilisetransfix
 [Instill Fear]: ../rules_manual/magical_powers.md#instill-fear
 [Nature's Wrath]: ../rules_manual/magical_powers.md#natures-wrath
 [Panic Steed]: ../rules_manual/magical_powers.md#panic-steed

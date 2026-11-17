@@ -236,9 +236,9 @@ If Denethor is alive and in the same army, Faramir passes all courage tests and 
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
-| [Immobilise] | 12" | 2+ |
+| [Immobilise][Transfix] | 12" | 2+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 12" | 3+ |
+| [Command][Compel] | 12" | 3+ |
 | [Fortify Spirit] | 12" | 3+ |
 | [Strengthen Will] | 12" | 3+ |
 | [Banishment] | 12" | 4+ |
@@ -300,7 +300,7 @@ Shadowfax is a Mount with 0 Might, 2 Will and 1 Fate.
 
 - **The Warden's Sword** `ACTIVE`
 
-Master Forged [hand-and-a-half][] [sword].
+[Master-forged][Master-forged Weapon] [hand-and-a-half][Hand-and-a-half Weapon] [sword].
 
 - **In Defence of the King** `ACTIVE`
 
@@ -510,7 +510,7 @@ This is a two handed [sword], and strikes made with this [sword] also have the [
 
 - **The Bladelord's Skill** `ACTIVE`
 
-If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-handed] weapon.
+If a natural 6 is rolled in a duel, do not apply the penalty for using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 

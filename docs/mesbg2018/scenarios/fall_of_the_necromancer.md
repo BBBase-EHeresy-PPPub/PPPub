@@ -380,7 +380,7 @@ The Hunter Orcs begin the game as Sentries, as described in the main rules manua
 
 * **A Spell of Concealment**
 
-Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *[Command]* Magical Power upon it.
+Gandalf must disarm the spells that linger over the five objectives. To disarm an objective, Gandalf must be within 1" of the objective and successfully cast the *[Command][Compel]* Magical Power upon it.
 
 * **The Wizard Has Come**
 
@@ -428,7 +428,7 @@ The game lasts until one player completes their objective. The Good player wins 
 
 * **A Flash of Light**
 
-During the first turn of the game, all Evil models are treated as being under the effect of the *[Immobilise]* Magical Power.
+During the first turn of the game, all Evil models are treated as being under the effect of the *[Immobilise][Transfix]* Magical Power.
 
 * **The General of Dol Guldur**
 

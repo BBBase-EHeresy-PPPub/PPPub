@@ -68,7 +68,7 @@ At the beginning of the game, after both sides have deployed, Saruman may choose
 **WARGEAR**
 
 - [Hand Weapon]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -157,7 +157,7 @@ In Scenarios that use the Maelstrom of Battle special rule, Lurtz's Warband does
 
 - **Shield Throw** `PASSIVE`
 
-If Lurtz has been equipped with a [shield], then once per game Lurtz can use it as a [throwing] weapon and may re-roll the To Hit Roll. This has a Strength of 4 and any model on a 25mm base that is hit will immediately be knocked Prone. Once Lurtz has thrown his [shield], he no longer carries it; though Lurtz's Defence will not be reduced as a result.
+If Lurtz has been equipped with a [shield], then once per game Lurtz can use it as a [throwing weapon][Throwing Weapon] and may re-roll the To Hit Roll. This has a Strength of 4 and any model on a 25mm base that is hit will immediately be knocked Prone. Once Lurtz has thrown his [shield], he no longer carries it; though Lurtz's Defence will not be reduced as a result.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -539,7 +539,7 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -570,7 +570,7 @@ At the start of his Activation, Uglúk can kill a friendly Orc Warrior within 2"
 **OPTIONS**
 
 - [Light Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -754,7 +754,7 @@ If Grima is deployed as part of the enemy Army, then enemy models treat him as a
 
 **WARGEAR**
 
-- Beaks and Claws ([hand weapon])
+- Beaks and Claws ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -795,7 +795,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -844,7 +844,7 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 **WARGEAR**
 
-- Teeth and Claws ([hand weapon])
+- Teeth and Claws ([Hand Weapon])
 
 </div>
 
@@ -870,10 +870,10 @@ An Isengard Orc Warrior must have one of the following options for the listed po
 
 An Isengard Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and [Throwing] Spears - 2 points
+- [Shield] and [Throwing][Throwing Weapon] Spears - 2 points
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 
 </div>
 
@@ -898,7 +898,7 @@ An Isengard Warg Rider must have one of the following options for the listed poi
 
 - **Berserker Blade** `ACTIVE`
 
-This is a [hand-and-a-half] weapon. Additionally, if an Uruk-hai Berserker wins a Combat whilst using their Berserker Blade as a [two-handed] weapon, they may make a single Strike against every enemy model they were Engaged in Combat with.
+This is a [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, if an Uruk-hai Berserker wins a Combat whilst using their Berserker Blade as a [two-handed weapon][Two-handed Weapon], they may make a single Strike against every enemy model they were Engaged in Combat with.
 
 - **Oblivious to Pain** `PASSIVE`
 
@@ -1042,7 +1042,7 @@ An Uruk-Hai Warrior must have one of the following options for the listed points
 - [Bow] - 1 point
 - [Light Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed][] [Axe] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - Flaming Brand - 1 point
 
 **SPECIAL RULES**

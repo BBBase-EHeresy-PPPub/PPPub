@@ -21,7 +21,7 @@
 **WARRIORS**
 
 - [**Warrior of Numenor**](../forces_of_good/gondor.md#warrior-of-numenor-9-points): 9 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Longbow: 1 point
 

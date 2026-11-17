@@ -24,18 +24,18 @@
 - [**Palace Guard Captain**](../forces_of_good/elven_kingdoms.md#palace-guard-captain-80-points): 80 points
     - Shield: 5 points
 - [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 
 **WARRIORS**
 
 - [**Mirkwood Elf Knight**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-knight-16-points): 16 points
 - [**Mirkwood Elf Warrior**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-warrior-9-points): 9 points
-    - Elf bow: 2 points
+    - Elf Bow: 2 points
     - Elven Glaive: 2 points
     - Shield: 1 point
 - [**Mirkwood Ranger**](../forces_of_good/elven_kingdoms.md#mirkwood-ranger-14-points): 14 points
 - [**Palace Guard**](../forces_of_good/elven_kingdoms.md#palace-guard-12-points): 12 points
-    - Shield and Elven spear: 2 points
+    - Shield and Elven Spear: 2 points
     - Shield: 1 point
     - Elven Spear: 1 point
 - [**Wood Elf Sentinel**](../forces_of_good/elven_kingdoms.md#wood-elf-sentinel-25-points): 25 points

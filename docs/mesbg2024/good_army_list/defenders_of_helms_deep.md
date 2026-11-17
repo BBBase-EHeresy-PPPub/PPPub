@@ -18,7 +18,7 @@
     - Elven Cloak: 5 points
 - [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 85 points
     - Heavy armour
-    - Elf bow
+    - Elf Bow
     - Elven cloak: 5 points
 - [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Armour: 5 points
@@ -30,7 +30,7 @@
     - Exchange armour for heavy armour: 5 points
     - Shield: 5 points
 - [**Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#galadhrim-captain-70-points): 70 points
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 - [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 55 points
     - Royal Standard of Rohan: 40 points
 
@@ -46,18 +46,18 @@
 **WARRIORS**
 
 - [**Galadhrim Warrior**](../forces_of_good/elven_kingdoms.md#galadhrim-warrior-9-points): 9 points
-    - War horn and Elf bow: 27 points
+    - War horn and Elf Bow: 27 points
     - Banner: 25 points
-    - Elf bow: 2 points
-    - Shield and Elven spear: 2 points
-    - Elven spear: 1 point
+    - Elf Bow: 2 points
+    - Shield and Elven Spear: 2 points
+    - Elven Spear: 1 point
     - Shield: 1 point
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
 
@@ -74,4 +74,4 @@
 
 **"Fall Back to the Keep!"** - If this Army is Broken, friendly Warrior models gain a bonus of +1 to any Courage Tests they are required to take. Additionally, if this Army is Broken, friendly Warrior models within 6" of Théoden may re-roll failed Courage Tests.
 
-**"Give them a Volley"** - Friendly models increase the range of their shooting attacks by 6", provided they have not moved that turn. This special rule does not apply to [throwing] weapons.
+**"Give them a Volley"** - Friendly models increase the range of their shooting attacks by 6", provided they have not moved that turn. This special rule does not apply to [throwing weapons][Throwing Weapon].

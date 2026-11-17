@@ -19,7 +19,7 @@
     - Elven cloak
 - [**Haldir, Galadhrim Captain**](../forces_of_good/elven_kingdoms.md#haldir-galadhrim-captain-70-points): 70 points
     - Elven cloak
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 - [**Legolas**](../forces_of_good/the_free_peoples.md#legolas-100-points): 100 points
     - Elven cloak
 
@@ -43,9 +43,9 @@
 
 - [**Lothlorien Warrior**](../forces_of_good/elven_kingdoms.md#lothlorien-warrior-8-points): 8 points
     - Banner: 25 points
-    - Elf bow: 2 points
-    - Elven throwing weapons: 2 points
-    - Wood Elf spear: 1 point
+    - Elf Bow: 2 points
+    - Elven Throwing Weapons: 2 points
+    - Wood Elf Spear: 1 point
 
 </div>
 

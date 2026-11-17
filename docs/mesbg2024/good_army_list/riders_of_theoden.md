@@ -16,7 +16,7 @@
 - [**Eomer**](../forces_of_good/rohan.md#eomer-110-points): 140 points
     - Firefoot with armour
     - Shield
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -33,7 +33,7 @@
     - Horse
     - Armour
     - Shield: 5 points
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**Gamling**](../forces_of_good/rohan.md#gamling-55-points): 75 points
     - Horse
     - Royal Standard of Rohan: 40 points
@@ -42,10 +42,10 @@
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 16 points
     - Horse
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 
 </div>
 

@@ -35,7 +35,7 @@
 - [**Uruk-Hai Scout**](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 points
     - Banner: 25 points
     - Shield: 1 point
-    - Uruk-hai bow: 1 point
+    - Uruk-hai Bow: 1 point
 - [**Uruk-Hai Warrior**](../forces_of_evil/isengard.md#uruk-hai-warrior-9-points): 9 points
     - Banner: 25 points
     - Crossbow: 2 points

@@ -5,7 +5,7 @@
 - **URUK-HAI CAPTAIN**: 60 points
     - Crossbow: 5 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **URUK-HAI SHAMAN**: 50 points
     - Armour: 5 points
 - **ISENGARD TROLL**: 110 points
@@ -25,7 +25,7 @@
     - Additional Crew: 9 points
     - Engineer Captain - Crossbow: 5 points
     - Engineer Captain - Shield: 5 points
-    - Engineer Captain - Two-Handed Weapon: 5 points
+    - Engineer Captain - Two-handed Weapon: 5 points
 </div>
 
 ## SPECIAL RULES

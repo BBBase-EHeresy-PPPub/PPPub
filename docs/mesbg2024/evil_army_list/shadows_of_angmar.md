@@ -29,15 +29,15 @@
 
 - [**Angmar Orc Warrior**](../forces_of_good/arnor_and_angmar.md#angmar-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Angmar Warg Rider**](../forces_of_good/arnor_and_angmar.md#angmar-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 - [**Spectre**](../forces_of_evil/mordor.md#spectre-15-points): 15 points
 - [**Werewolf**](../forces_of_good/arnor_and_angmar.md#werewolf-25-points): 25 points
 - [**Wild Warg**](../forces_of_good/arnor_and_angmar.md#wild-warg-7-points): 7 points

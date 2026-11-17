@@ -7,7 +7,7 @@
 **HEROES OF LEGEND**
 
 - [**Prince Imrahil**](../forces_of_good/gondor.md#prince-imrahil-140-points): <span style="color: darkmagenta">140 points</span>
-    - Armoured horse and lance: 30 points
+    - Armoured horse and Lance: 30 points
 
 **HEROES OF VALOUR**
 
@@ -18,7 +18,7 @@
 **HEROES OF FORTITUDE**
 
 - [**Captain of Dol Amroth**](../forces_of_good/gondor.md#captain-of-dol-amroth-65-points): 65 points
-    - Armoured horse and lance: 30 points
+    - Armoured horse and Lance: 30 points
 
 **WARRIORS**
 
@@ -33,7 +33,7 @@
     - Armoured horse and war horn: 33 points
     - Banner: 25 points
     - War horn: 25 points
-    - Armoured horse and lance: 9 points
+    - Armoured horse and Lance: 9 points
 - [**Man-at-arms of Dol Amroth**](../forces_of_good/good_legacy.md#man-at-arms-of-dol-amroth-10-points): 10 points
 
 </div>

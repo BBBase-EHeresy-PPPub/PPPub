@@ -35,9 +35,9 @@
 - [**Abrakhan Merchant Guard**](../forces_of_evil/evil_legacy.md#abrakhan-merchant-guard-9-points): 9 points
 - [**Haradrim Raider**](../forces_of_evil/fallen_realms.md#haradrim-raider-11-points): 11 points
     - Banner: 25 points
-    - Bow & war spear: 2 points
+    - Bow & war Spear: 2 points
     - Bow: 1 point
-    - War spear: 1 point
+    - War Spear: 1 point
 - [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - War horn: 25 points
     - Banner: 25 points

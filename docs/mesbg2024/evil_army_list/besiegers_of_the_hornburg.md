@@ -15,7 +15,7 @@
     - Horse: 20 points
 - [**Hill Tribes Chieftain**](../forces_of_evil/the_hill_tribes.md#hill-tribes-chieftain-40-points): 40 points
     - Light shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 
 **MINOR HEROES**
 
@@ -34,7 +34,7 @@
     - Flaming brand: 1 point
     - Light shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 
 </div>
 

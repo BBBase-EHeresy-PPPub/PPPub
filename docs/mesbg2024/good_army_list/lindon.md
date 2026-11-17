@@ -21,7 +21,7 @@
 - [**Cirdan**](../forces_of_good/elven_kingdoms.md#cirdan-75-points): 75 points
 - [**Erestor**](../forces_of_good/good_legacy.md#erestor-85-points): 85 points
 - [**Rivendell Captain**](../forces_of_good/elven_kingdoms.md#rivendell-captain-70-points): 70 points
-    - Horse, Elf bow and Elven lance: 30 points
+    - Horse, Elf Bow and Elven Lance: 30 points
     - Shield: 5 points
 
 **MINOR HEROES**
@@ -31,12 +31,12 @@
 **WARRIORS**
 
 - [**Rivendell Knight**](../forces_of_good/elven_kingdoms.md#rivendell-knight-20-points): 20 points
-    - Exchange Elven lance for banner: 25 points
+    - Exchange Elven Lance for banner: 25 points
     - Shield: 1 point
 - [**Rivendell Warrior**](../forces_of_good/elven_kingdoms.md#rivendell-warrior-9-points): 9 points
     - Banner: 25 points
-    - Elf bow: 2 points
-    - Shield and Elven spear: 2 points
+    - Elf Bow: 2 points
+    - Shield and Elven Spear: 2 points
     - Shield: 1 point
     - Upgrade to King's Guard: 1 point
 

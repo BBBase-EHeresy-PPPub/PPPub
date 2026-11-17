@@ -12,7 +12,7 @@
 [Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
 [Dwarf Longbow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloaks
-[Elven-made]: ../rules_manual/weapons_and_wargear.md#elven-made-weapons
+[Elven-made Weapon]: ../rules_manual/weapons_and_wargear.md#elven-made-weapons
 [Engineer Captain]: ../rules_manual/siege_engines.md#engineer-captain
 [Fell Beast]: ../rules_manual/cavalry.md#fell-beast
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg
@@ -20,7 +20,7 @@
 [Flaming Ammunition]: ../rules_manual/siege_engines.md#flaming-ammunition
 [Hammer]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
 [Hand Weapon]: ../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords
-[Hand-And-A-Half]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons
+[Hand-and-a-half Weapon]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapons
 [Heavy Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour-and-dwarf-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
 [Heavy Object]: ../rules_manual/advanced_rules.md#heavy-objects
@@ -28,7 +28,7 @@
 [Lance]: ../rules_manual/weapons_and_wargear.md#lances
 [Longbow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Mace]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
-[Master-Forged]: ../rules_manual/weapons_and_wargear.md#master-forged-weapons
+[Master-forged Weapon]: ../rules_manual/weapons_and_wargear.md#master-forged-weapons
 [Maul]: ../rules_manual/weapons_and_wargear.md#bash-hammers-maces-and-mauls
 [Pick]: ../rules_manual/weapons_and_wargear.md#piercing-strike-axes-and-picks
 [Pike]: ../rules_manual/weapons_and_wargear.md#pikes
@@ -47,9 +47,9 @@
 [Swift Reload]: ../rules_manual/siege_engines.md#swift-reload
 [Sword]: ../rules_manual/weapons_and_wargear.md#feint-or-stab-daggers-and-swords
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
-[Throwing]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Throwing Weapon]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
 [Troll]: ../rules_manual/siege_engines.md#troll
-[Two-Handed]: ../rules_manual/weapons_and_wargear.md#two-handed-weapons
+[Two-handed Weapon]: ../rules_manual/weapons_and_wargear.md#two-handed-weapons
 [Unarmed]: ../rules_manual/weapons_and_wargear.md#unarmed-models
 [War Drum]: ../rules_manual/weapons_and_wargear.md#war-drum-x
 [War Horn]: ../rules_manual/weapons_and_wargear.md#war-horns

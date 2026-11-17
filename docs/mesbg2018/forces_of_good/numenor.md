@@ -43,7 +43,7 @@ Elendil permanently has [Fortify Spirit] cast upon him.
 
 - **Narsil** `ACTIVE`
 
-A [Master-forged][] [hand-and-a-half][] [sword], and may call a [Heroic Combat] each turn for free.
+A [Master-forged][Master-forged Weapon] [hand-and-a-half][Hand-and-a-half Weapon] [sword], and may call a [Heroic Combat] each turn for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -66,7 +66,7 @@ Elendil's [Stand Fast!] Is 12" rather than 6".
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][] [Sword]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 

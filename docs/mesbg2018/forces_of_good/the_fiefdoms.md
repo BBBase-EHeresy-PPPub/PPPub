@@ -221,7 +221,7 @@ Whilst within 3" of Prince Imrahil, add +1 to Fight value.
 
 - **Axe of Lossarnach** `ACTIVE`
 
-This weapon can be used as either a [spear] or [two-handed][] [axe].
+This weapon can be used as either a [spear] or [two-handed][Two-handed Weapon] [axe].
 
 </div>
 

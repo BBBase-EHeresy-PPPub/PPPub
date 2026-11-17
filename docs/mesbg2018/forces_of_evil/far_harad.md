@@ -35,7 +35,7 @@ This army may include: The Mumak War Leader; Mahud King; Mahud Tribesmaster; War
 
 - **Long-bladed Spear** `ACTIVE`
 
-A [spear] and [two-handed] weapon.
+A [spear] and [two-handed weapon][Two-handed Weapon].
 
 - **Royal War Mumak** `PASSIVE`
 
@@ -219,7 +219,7 @@ Models in the Howdah may attempt to dismount from the Mûmak during the Move pha
 **OPTIONS**
 
 - [Swap Weapon] - 1 point
-- [Two-Handed][] [Club] - 1 point
+- [Two-handed][Two-handed Weapon] [Club] - 1 point
 
 **SPECIAL RULES**
 

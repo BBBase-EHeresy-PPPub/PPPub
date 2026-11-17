@@ -15,7 +15,6 @@
 [Elf Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Elven Cloak]: ../rules_manual/weapons_and_wargear.md#elven-cloak
 [Elven Weapon]: ../rules_manual/weapons_and_wargear.md#elven-weapon
-[Elven-made]: ../rules_manual/weapons_and_wargear.md#elven-weapon
 [Esgaroth Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Fell Beast]: ../rules_manual/cavalry.md#fell-beast-60mm
 [Fell Warg]: ../rules_manual/cavalry.md#fell-warg-40mm
@@ -23,7 +22,7 @@
 [Great Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Hammer]: ../rules_manual/weapons_and_wargear.md#hand-weapon
 [Hand Weapon]: ../rules_manual/weapons_and_wargear.md#hand-weapon
-[Hand-And-A-Half]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapon
+[Hand-and-a-half Weapon]: ../rules_manual/weapons_and_wargear.md#hand-and-a-half-weapon
 [Heavy Armour]: ../rules_manual/weapons_and_wargear.md#heavy-armour
 [Heavy Dwarf Armour]: ../rules_manual/weapons_and_wargear.md#heavy-dwarf-armour
 [Horse]: ../rules_manual/cavalry.md#horse-40mm
@@ -32,7 +31,7 @@
 [Light Shield]: ../rules_manual/weapons_and_wargear.md#light-shield
 [Longbow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Mace]: ../rules_manual/weapons_and_wargear.md#hand-weapon
-[Master-Forged]: ../rules_manual/weapons_and_wargear.md#master-forged
+[Master-forged Weapon]: ../rules_manual/weapons_and_wargear.md#master-forged
 [Mithril Armour]: ../rules_manual/weapons_and_wargear.md#mithril-armour
 [Orc Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart
 [Pick]: ../rules_manual/weapons_and_wargear.md#hand-weapon
@@ -47,8 +46,8 @@
 [Staff of Power]: ../rules_manual/weapons_and_wargear.md#staff-of-power
 [Sword]: ../rules_manual/weapons_and_wargear.md#hand-weapon
 [The One Ring]: ../rules_manual/weapons_and_wargear.md#the-one-ring
-[Throwing]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
-[Two-Handed]: ../rules_manual/weapons_and_wargear.md#two-handed-weapon
+[Throwing Weapon]: ../rules_manual/weapons_and_wargear.md#throwing-weapons
+[Two-handed Weapon]: ../rules_manual/weapons_and_wargear.md#two-handed-weapon
 [Unarmed]: ../rules_manual/weapons_and_wargear.md#unarmed-models
 [Untrained Crew]: ../rules_manual/siege_engines.md#untrained-crew
 [Uruk-hai Bow]: ../rules_manual/weapons_and_wargear.md#missile-weapon-chart

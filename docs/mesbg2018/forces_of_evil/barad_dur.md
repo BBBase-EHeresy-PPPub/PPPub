@@ -114,7 +114,7 @@ Single strike against one model. If they survive, they are [Set Ablaze].
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed][] [Flail] - 5 points
+- [Two-handed][Two-handed Weapon] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -161,7 +161,7 @@ Attack value increased to 3. You can re-roll one dice when rolling for Casting o
 
 - [Armoured Horse] - 15 points
 - [Lance] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 - [Swap Weapon] - 5 points
 
 **SPECIAL RULES**
@@ -404,7 +404,7 @@ There can only be a maximum of nine Ringwraith models in your force (including a
 - [Survival Instinct]
 - [Swift Movement]
 - [Terror]
-- [Venom]
+- [Venom][Bane of Kings/Venom]
 
 - **Lone Hunter** `PASSIVE`
 
@@ -463,7 +463,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Hammer]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Hammer]
 
 **OPTIONS**
 
@@ -556,7 +556,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -584,7 +584,7 @@ Shelob can opt to direct a single strike at one model in the fight, that isn't a
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 - [Swap Weapon] - 1 point
 
 </div>

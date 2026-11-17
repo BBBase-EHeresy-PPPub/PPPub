@@ -20,7 +20,7 @@
 **WARRIORS**
 
 - [**Half Troll**](../forces_of_evil/evil_legacy.md#half-troll-25-points): 25 points
-    - Exchange hand weapon for two-handed weapon: Free
+    - Exchange Hand Weapon for Two-handed Weapon: Free
 - [**Mahud Raider**](../forces_of_evil/evil_legacy.md#mahud-raider-17-points): 17 points
     - Blowpipe: 1 point
     - Spear: 1 point

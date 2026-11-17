@@ -20,7 +20,7 @@
 - [**Lake-town Guard Captain**](../forces_of_good/kingdoms_of_men.md#lake-town-guard-captain-45-points): 45 points
 - [**Oin the Dwarf**](../forces_of_good/dwarven_holds.md#oin-the-dwarf-50-points): 50 points
 - [**Tauriel, Ranger of Mirkwood**](../forces_of_good/elven_kingdoms.md#tauriel-ranger-of-mirkwood-90-points): 90 points
-    - Elf bow: 5 points
+    - Elf Bow: 5 points
 
 **INDEPENDENT HEROES**
 

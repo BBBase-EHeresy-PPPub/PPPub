@@ -20,7 +20,7 @@ This army may include: The Goblin King; Goblin Captain; Goblin Mercenary Captain
 
 **WARGEAR**
 
-- [Two-handed][] [Pick]
+- [Two-handed][Two-handed Weapon] [Pick]
 
 **HEROIC ACTIONS**
 
@@ -45,7 +45,7 @@ In the Shoot phase, if a friendly Goblin model is in base contact with him, and 
 
 - **Blubbery Mass** `PASSIVE`
 
-Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it was caused by a Magic Power or [Elven-made] weapon.
+Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it was caused by a Magic Power or [Elven-made weapon][Elven-made Weapon].
 
 </div>
 
@@ -80,7 +80,7 @@ Every time he is wounded, roll a D6. On a 3+, the Wound is ignored, unless it wa
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 </div>
 
@@ -115,7 +115,7 @@ This model can support other models who also have the Chittering Hordes rule, as
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -150,7 +150,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 - **Scourge** `ACTIVE`
 
-[Throwing] weapon with range 12" and Strength 2.
+[Throwing weapon][Throwing Weapon] with range 12" and Strength 2.
 
 - **Swap with Me** `ACTIVE`
 
@@ -158,7 +158,7 @@ A Special Heroic Action for the start of any phase. Grinnah can swap places with
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 </div>
 
@@ -253,7 +253,7 @@ Gollum is never considered to be [unarmed].
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -281,7 +281,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 **OPTIONS**
 
-- [Two-Handed][] [Axe] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -290,6 +290,6 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 - **Chittering Hordes** `ACTIVE`
 
-This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed] weapons if it has one.
+This model can support other models who also have the Chittering Hordes rule, as if they had a [spear]. Supporting models do not get the benefit of [two-handed weapons][Two-handed Weapon] if it has one.
 
 </div>

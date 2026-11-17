@@ -39,7 +39,7 @@ This is a Unique piece of Wargear. Whenever Aragorn is affected by a Magical Pow
 
 - **Anduril, Flame of the West** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed] weapon, then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
 
 - **"Stand, Men of the West"** `PASSIVE`
 
@@ -76,7 +76,7 @@ Friendly models treat Aragorn, King Elessar as a banner with a range of 6".
 
 - **Narsil** `ACTIVE`
 
-This is a Unique [Master-forged][] [two-handed] weapon. Additionally, a model wielding Narsil may declare a [Heroic Combat] during each Fight Phase for free.
+This is a Unique [Master-forged][Master-forged Weapon] [two-handed weapon][Two-handed Weapon]. Additionally, a model wielding Narsil may declare a [Heroic Combat] during each Fight Phase for free.
 
 - **High King of Gondor and Arnor** `ACTIVE`
 
@@ -133,7 +133,7 @@ The range of Elendil's [Stand Fast] is 12" rather than 6".
 
 - **Glamdring** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -548,7 +548,7 @@ Other friendly Lossarnach models within 3" of Forlong the Fat may re-roll To Wou
 
 - **The Warden's Sword** `ACTIVE`
 
-This is a [Master-forged][] [hand-and-a-half] weapon.
+This is a [Master-forged][Master-forged Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon].
 
 - **In Defence of the King** `ACTIVE`
 
@@ -575,7 +575,7 @@ Whilst Húrin is alive and on the battlefield, your opponent cannot score any Vi
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][] [Sword]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -689,7 +689,7 @@ Only friendly Dunharrow models may benefit from the King of the Dead's [Stand Fa
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -1087,7 +1087,7 @@ In Scenarios where you roll for Warbands to arrive, or ones where you roll to se
 
 - **Axe of Lossarnach** `ACTIVE`
 
-An Axe of Lossarnach can be used either as a [spear] or a [two-handed] weapon.
+An Axe of Lossarnach can be used either as a [spear] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -1170,7 +1170,7 @@ A Citadel Guard must have one of the following options for the listed points cos
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **SPECIAL RULES**
 

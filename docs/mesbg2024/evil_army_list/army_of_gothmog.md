@@ -17,7 +17,7 @@
 - [**Guritz**](../forces_of_evil/mordor.md#guritz-65-points): 65 points
 - [**Morannon Orc Captain**](../forces_of_evil/mordor.md#morannon-orc-captain-55-points): 55 points
     - Shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - <span style="color: darkmagenta">**Mordor Orc Captain**: 45 points</span>
 - [**Zagdush, Orc Captain**](../forces_of_evil/evil_legacy.md#zagdush-orc-captain-60-points): 60 points
 
@@ -30,15 +30,15 @@
 
 - [**Morannon Orc Warrior**](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 8 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - <span style="color: darkmagenta">**Mordor Orc Warrior**: 5 points</span>
     - <span style="color: darkmagenta">Banner: 25 points</span>
-    - <span style="color: darkmagenta">Orc bow: 1 point</span>
+    - <span style="color: darkmagenta">Orc Bow: 1 point</span>
     - <span style="color: darkmagenta">Shield: 1 point</span>
     - <span style="color: darkmagenta">Spear: 1 point</span>
-    - <span style="color: darkmagenta">Two-handed weapon: 1 point</span>
+    - <span style="color: darkmagenta">Two-handed Weapon: 1 point</span>
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 

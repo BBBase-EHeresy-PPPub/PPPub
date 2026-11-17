@@ -35,7 +35,7 @@ This army may include: Durin; Dwarf King; Dwarf Captain; Floi Stonehand; King's 
 
 - **Durin's axe** `ACTIVE`
 
-[Master-forged][] [two-handed][] [axe], re-roll a single dice in duel rolls.
+[Master-forged][Master-forged Weapon] [two-handed][Two-handed Weapon] [axe], re-roll a single dice in duel rolls.
 
 - **The Horn of Zirakzigil** `ACTIVE`
 
@@ -79,8 +79,8 @@ The protection of this armour is already included in Durin's Defence of 9.
 
 **OPTIONS**
 
-- [Throwing] Axes - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Throwing][Throwing Weapon] Axes - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -109,8 +109,8 @@ The protection of this armour is already included in Durin's Defence of 9.
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Throwing] Axes - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Throwing][Throwing Weapon] Axes - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -266,8 +266,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **OPTIONS**
 
 - [Dwarf Longbow] - 1 point
-- [Throwing] Axes - 1 point
-- [Two-Handed][] [Axe] - 1 point
+- [Throwing][Throwing Weapon] Axes - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -299,7 +299,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - [Banner] - 25 points
 - Dwarf [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-Handed][] [Axe] & [Dagger] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] & [Dagger] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -320,7 +320,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - [Dwarf Armour]
 - [Sword]
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **OPTIONS**
 
@@ -343,7 +343,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **WARGEAR**
 
 - [Dwarf Armour]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 - [Axe]
 
 **OPTIONS**
@@ -403,8 +403,8 @@ Crewed by two Dwarf Warriors with heavy armour and axe, one of which is a [Siege
 - [Flaming Ammunition] - 15 points
 - [Additional Crew] - 8 points
 - [Engineer Captain] - [Shield] - 5 points
-- [Engineer Captain] - [Throwing] Axes - 5 points
-- [Engineer Captain] - [Two-Handed][] [Axe] - 5 points
+- [Engineer Captain] - [Throwing][Throwing Weapon] Axes - 5 points
+- [Engineer Captain] - [Two-handed][Two-handed Weapon] [Axe] - 5 points
 
 **SPECIAL RULES**
 

@@ -16,7 +16,7 @@
     - ~~Bow: 5 points~~
 - [**Haleth, Prince of Rohan**](../forces_of_good/rohan.md#haleth-prince-of-rohan-100-points): 100 points
     - Armoured horse: 25 points
-    - <span style="color: darkmagenta">Throwing spears: 5 points</span>
+    - <span style="color: darkmagenta">Throwing Spears: 5 points</span>
 - [**Hama, Prince of Rohan**](../forces_of_good/rohan.md#hama-prince-of-rohan-70-points): 70 points
     - Horse: 20 points
 
@@ -41,15 +41,15 @@
 
 - [**Rider of Rohan**](../forces_of_good/rohan.md#rider-of-rohan-14-points): 14 points
     - Banner: 25 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
-    - <span style="color: darkmagenta">Horse and throwing spears: 7 points</span>
+    - <span style="color: darkmagenta">Horse and Throwing Spears: 7 points</span>
     - Horse: 5 points
-    - Throwing spears: 2 points
+    - Throwing Spears: 2 points
 - [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
 

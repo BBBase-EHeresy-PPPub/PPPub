@@ -9,7 +9,7 @@
 - **URUK-HAI SCOUT CAPTAIN**: 55 points
     - Uruk-Hai Bow: 5 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **URUK-HAI DRUMMER**: 35 points
 - **URUK-HAI SCOUT**: 8 points
     - Banner: 25 points
@@ -20,7 +20,7 @@
 
 ## ADDITIONAL RULES
 
-- "[Shield] Throw" -" Once per game, Lurtz can choose to use his [shield] as a [throwing] weapon. This has a Strength of 4, and any Man-sized (or smaller) model hit by the [shield] is automatically knocked Prone. Once Lurtz has thrown his [shield] he no longer carries it and cannot use it for the remainder of the battle. Note that even though he no longer has a [shield], Lurtz's Defence will not be reduced.
+- "[Shield] Throw" -" Once per game, Lurtz can choose to use his [shield] as a [throwing weapon][Throwing Weapon]. This has a Strength of 4, and any Man-sized (or smaller) model hit by the [shield] is automatically knocked Prone. Once Lurtz has thrown his [shield] he no longer carries it and cannot use it for the remainder of the battle. Note that even though he no longer has a [shield], Lurtz's Defence will not be reduced.
 
 ## SPECIAL RULES
 

@@ -21,7 +21,7 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Bow]
 
 **HEROIC ACTIONS**
@@ -72,7 +72,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Dagger]
 - [Bow]
 
@@ -121,7 +121,7 @@ Friendly Khandish models within 6" of a Khandish King count as being in range of
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Dagger]
 - Khandish Chariot
 
@@ -179,7 +179,7 @@ The Chariot has [Monstrous Charge]. At the start of movement it may pivot up to 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Bow]
 - [Dagger]
 - [Horse]
@@ -205,7 +205,7 @@ The Chariot has [Monstrous Charge]. At the start of movement it may pivot up to 
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - [Dagger]
 
 **OPTIONS**

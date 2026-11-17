@@ -20,7 +20,7 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -32,7 +32,7 @@ This army may include: Thranduil; Legolas Greenleaf, Prince of Mirkwood; Mirkwoo
 
 **OPTIONS**
 
-- Additional [Elven-made][] [Sword] - 30 points
+- Additional [Elven-made][Elven-made Weapon] [Sword] - 30 points
 - Circlet of Kings - 25 points
 - Elk - 20 points
 - [Heavy Armour] - 10 points
@@ -83,7 +83,7 @@ If Thranduil Charges while riding his Elk, his Strikes are resolved at Strength 
 
 - [Armour]
 - Elf [Bow]
-- [Elven-made] Daggers
+- [Elven-made][Elven-made Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -106,7 +106,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 - **Orcrist** `ACTIVE`
 
-[Elven-made][] [hand-and-a-half][] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
+[Elven-made][Elven-made Weapon] [hand-and-a-half][Hand-and-a-half Weapon] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 </div>
 
@@ -125,7 +125,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made] Glaive
+- [Elven-made][Elven-made Weapon] Glaive
 
 **HEROIC ACTIONS**
 
@@ -141,7 +141,7 @@ Can fire three shots in the shoot phase. Alternatively can make one shot that wi
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear] or [hand-and-a-half][Hand-and-a-half Weapon] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -160,7 +160,7 @@ A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alterna
 **WARGEAR**
 
 - Elf [Bow]
-- [Elven-made] Daggers
+- [Elven-made][Elven-made Weapon] Daggers
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -196,7 +196,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -234,7 +234,7 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 
 - [Armour]
 - [Elven Cloak]
-- [Elven-made] Daggers
+- [Elven-made][Elven-made Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -276,7 +276,7 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - [Horse]
 
 **OPTIONS**
@@ -311,13 +311,13 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- [Elven-made] Glaive - 2 points
+- [Elven-made][Elven-made Weapon] Glaive - 2 points
 - [Swap Weapon] - 1 point
 - [Shield] - 1 point
 
@@ -327,7 +327,7 @@ Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are
 
 - **Glaive** `ACTIVE`
 
-A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
+A glaive can be used as either a [spear] or [hand-and-a-half][Hand-and-a-half Weapon] [sword]. Alternatively the bearer of the glaive can use the Shielding rule.
 
 </div>
 
@@ -346,7 +346,7 @@ A glaive can be used as either a [spear] or [hand-and-a-half][] [sword]. Alterna
 **WARGEAR**
 
 - Elf [Bow]
-- [Elven-made] Daggers
+- [Elven-made][Elven-made Weapon] Daggers
 - [Elven Cloak]
 
 **OPTIONS**
@@ -379,7 +379,7 @@ Mirkwood rangers receive an additional Attack for each enemy model they engaged 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **OPTIONS**
 
@@ -414,7 +414,7 @@ Whilst within 3" of Thranduil, this model receives +1 Fight value.
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - Elf [Bow]
 - [Elven Cloak]
 

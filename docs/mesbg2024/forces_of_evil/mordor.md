@@ -150,7 +150,7 @@ The Witch-king may also take the following options:
 - Crown of Morgul - 25 points
 - [Horse] - 20 points
 - Morgul Blade - 10 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -180,7 +180,7 @@ An Armoured Fell Beast has a Defence of 7 rather than 6.
 
 **WARGEAR**
 
-- Claws and teeth ([hand weapons][Hand Weapon])
+- Claws and teeth ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -211,7 +211,7 @@ When a Fell Beast becomes a Separated Mount, it will automatically fail the Cour
 **WARGEAR**
 
 - [Heavy Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -311,7 +311,7 @@ An Armoured Fell Beast has a Defence of 7 rather than 6.
 
 **WARGEAR**
 
-- Claws and teeth ([hand weapons][Hand Weapon])
+- Claws and teeth ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -389,7 +389,7 @@ If an enemy model attempts to Charge this model and fails its Courage Test as a 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike] or a [two-handed] weapon.
+This can be used as either a [pike] or a [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
@@ -475,7 +475,7 @@ Whilst Gothmog's Enforcer is within 3" of Gothmog, then Gothmog can spend Gothmo
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 - [Hand Weapon]
 
 **HEROIC ACTIONS**
@@ -518,7 +518,7 @@ Whilst Engaged in Combat with an enemy Man model, this model gains a bonus of +1
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -635,7 +635,7 @@ Whenever a friendly Hero model within 6" declares a [Heroic Move], [Heroic March
 
 **OPTIONS**
 
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -752,7 +752,7 @@ If this model rolls a natural 6 To Wound when making a Strike, and the Wound is 
 
 **WARGEAR**
 
-- Fangs ([hand weapon])
+- Fangs ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -872,7 +872,7 @@ If an enemy model attempts to Charge this model and fails its Courage Test as a 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike] or a [two-handed] weapon.
+This can be used as either a [pike] or a [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
@@ -937,7 +937,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 </div>
 
@@ -956,7 +956,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half] Weapon
+- [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
@@ -989,7 +989,7 @@ A Mordor Orc Warrior must have one of the following options for the listed point
 
 **OPTIONS**
 
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1021,10 +1021,10 @@ If this model rolls a natural 6 To Wound when making a Strike, and the Wound is 
 
 A Mordor Warg Rider must have one of the following options for the listed points cost:
 
-- [Shield] and [Throwing] Spears - 2 points
+- [Shield] and [Throwing][Throwing Weapon] Spears - 2 points
 - [Orc Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 
 </div>
 

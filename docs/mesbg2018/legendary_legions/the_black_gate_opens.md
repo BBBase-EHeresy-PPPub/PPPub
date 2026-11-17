@@ -6,7 +6,7 @@
     - Armoured Horse: 15 points
 - **MORANNON ORC CAPTAIN**: 50 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **MORDOR TROLL CHIEFTAIN**: 140 points
 - **ORC CAPTAIN**: 40 points
     - Warg: 10 points
@@ -23,7 +23,7 @@
     - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 </div>
 
 ## SPECIAL RULES

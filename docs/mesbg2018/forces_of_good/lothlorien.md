@@ -34,8 +34,8 @@ This army may include: Galadriel; Celeborn; Haldir; Galadhrim Captain; Orophin; 
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
 | [Blessing of the Valar] | 12" | 3+ |
-| [Immobilise] | 12" | 3+ |
-| [Command] | 12" | 4+ |
+| [Immobilise][Transfix] | 12" | 3+ |
+| [Command][Compel] | 12" | 4+ |
 
 **OPTIONS**
 
@@ -84,12 +84,12 @@ She may spend a free point of Will each turn.
 |:--|:--:|:--:|
 | [Aura of Command] | - | 2+ |
 | [Enchanted Blades] | 6" | 3+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- [Elven-made][] [Hand-and-a-Half][] [Sword] - 5 points
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -121,7 +121,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -164,7 +164,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - [Heavy Armour]
 
 **HEROIC ACTIONS**
@@ -201,7 +201,7 @@ When slain in close combat, Haldir can make a Strength 4 strike against all enem
 **WARGEAR**
 
 - [Heavy Armour]
-- Two [Elven-made] Swords
+- Two [Elven-made][Elven-made Weapon] Swords
 
 **HEROIC ACTIONS**
 
@@ -232,7 +232,7 @@ If Orophin rolls one or more natural 6s in the Duel roll, then any dice that rol
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -267,7 +267,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -277,7 +277,7 @@ May force opponent to re-roll one dice in their duel roll. Must be done before a
 **OPTIONS**
 
 - Elf [Bow] - 5 points
-- [Throwing] Daggers - 5 points
+- [Throwing][Throwing Weapon] Daggers - 5 points
 - Wood Elf [Spear] - 5 points
 - [Swap Weapon] - 5 points
 
@@ -306,7 +306,7 @@ This [spear] may also parry, which uses the rules for Shielding.
 **WARGEAR**
 
 - [Armour]
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - [Staff]
 
 **HEROIC ACTIONS**
@@ -346,7 +346,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- ~~[Elven-made][] [Sword]~~ <span style="color: darkmagenta">[Elven-made][] [Hand-and-a-half][] [Sword]</span>
+- ~~[Elven-made][Elven-made Weapon] [Sword]~~ <span style="color: darkmagenta">[Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]</span>
 - [Heavy Armour]
 - [Armoured Horse]
 
@@ -379,7 +379,7 @@ If the Stormcaller rolls a 6 during a Cast roll, they may refund the Will points
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword],
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword],
 - [Heavy Armour]
 
 **OPTIONS**
@@ -448,7 +448,7 @@ In addition to the normal rules for pikes, they may also use the rules for shiel
 
 **WARGEAR**
 
-- [Elven-made][] [Sword]
+- [Elven-made][Elven-made Weapon] [Sword]
 - Elf [Bow]
 - [Elven Cloak]
 
@@ -492,14 +492,14 @@ Sentinel gains [Terror] for rest of the turn.
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - Elf [Bow] - 2 points
-- [Throwing] Daggers - 2 points
+- [Throwing][Throwing Weapon] Daggers - 2 points
 - Wood Elf [Spear] - 1 point
 - [Swap Weapon] - 1 point
 

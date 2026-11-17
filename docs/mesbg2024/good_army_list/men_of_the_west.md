@@ -17,7 +17,7 @@
     - Firefoot with armour: 25 points
     - Firefoot: 20 points
     - Shield: 5 points
-    - Throwing spears: 5 points
+    - Throwing Spears: 5 points
 - [**Gandalf the White**](../forces_of_good/gondor.md#gandalf-the-white-200-points): 200 points
     - Pippin: 25 points
     - Shadowfax: 25 points
@@ -57,13 +57,13 @@
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 - [**Warrior of Rohan**](../forces_of_good/rohan.md#warrior-of-rohan-6-points): 6 points
-    - War horn, shield, throwing spears: 28 points
+    - War horn, shield, Throwing Spears: 28 points
     - Banner: 25 points
-    - Shield and throwing spears: 3 points
+    - Shield and Throwing Spears: 3 points
     - Shield: 1 point
     - Bow: 1 point
 

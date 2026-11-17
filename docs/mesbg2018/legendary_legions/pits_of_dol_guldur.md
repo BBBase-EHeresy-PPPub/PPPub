@@ -9,7 +9,7 @@
 - **HUNTER ORC CAPTAIN**: 45 points
     - Fell Warg: 10 points
     - Orc Bow: 5 points
-    - Two-Handed Pick: 5 points
+    - Two-handed Pick: 5 points
 - **THE KEEPER OF THE DUNGEONS**: 75 points
 - **THRAIN THE BROKEN (EVIL)**: 10 points
 - **FELL WARG**: 8 points
@@ -22,7 +22,7 @@
     - Banner: 25 points
     - Fell Warg: 8 points
     - Orc Bow: 1 point
-    - Two-Handed Pick: 1 point
+    - Two-handed Pick: 1 point
 </div>
 
 ## ADDITIONAL RULES

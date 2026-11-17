@@ -13,7 +13,7 @@
 
 - [**Bolg, Spawn of Azog**](../forces_of_evil/gundabad_and_dol_guldur.md#bolg-spawn-of-azog-175-points): 175 points
     - Fell Warg: 20 points
-    - Orc bow: 5 points
+    - Orc Bow: 5 points
 
 **HEROES OF FORTITUDE**
 
@@ -21,21 +21,21 @@
     - Fell Warg: 20 points
 - [**Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-captain-45-points): 45 points
     - Fell Warg: 20 points
-    - Orc bow: 5 points
-    - Two-handed weapon: 5 points
+    - Orc Bow: 5 points
+    - Two-handed Weapon: 5 points
 - [**Narzug, Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#narzug-hunter-orc-captain-55-points): 55 points
 - [**Yazneg, Hunter Orc Captain**](../forces_of_evil/gundabad_and_dol_guldur.md#yazneg-hunter-orc-captain-55-points): 55 points
-    - Fell Warg and lance: 25 points
+    - Fell Warg and Lance: 25 points
 
 **WARRIORS**
 
 - [**Fell Warg**](../forces_of_evil/gundabad_and_dol_guldur.md#fell-warg-8-points): 8 points
 - [**Hunter Orc Warg Rider**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warg-rider-15-points): 15 points
-    - Orc bow: 1 point
-    - Two-handed weapon: 1 point
+    - Orc Bow: 1 point
+    - Two-handed Weapon: 1 point
 - [**Hunter Orc Warrior**](../forces_of_evil/gundabad_and_dol_guldur.md#hunter-orc-warrior-8-points): 8 points
-    - Orc bow: 1 point
-    - Two-handed weapon: 1 point
+    - Orc Bow: 1 point
+    - Two-handed Weapon: 1 point
 
 </div>
 

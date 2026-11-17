@@ -39,22 +39,22 @@
 **WARRIORS**
 
 - [**Black Numenorean Knight**](../forces_of_evil/mordor.md#black-numenorean-knight-20-points): 20 points
-    - Exchange lance for banner: 25 points
-    - Exchange lance for war horn: 25 points
+    - Exchange Lance for banner: 25 points
+    - Exchange Lance for war horn: 25 points
 - [**Black Numenorean Warrior**](../forces_of_evil/mordor.md#black-numenorean-warrior-10-points): 10 points
 - [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 - [**Mordor Warg Rider**](../forces_of_evil/mordor.md#mordor-warg-rider-11-points): 11 points
-    - Shield and throwing spears: 2 points
-    - Orc bow: 1 point
+    - Shield and Throwing Spears: 2 points
+    - Orc Bow: 1 point
     - Shield: 1 point
-    - Throwing spears: 1 point
+    - Throwing Spears: 1 point
 - [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points
 
 **SIEGE ENGINES**

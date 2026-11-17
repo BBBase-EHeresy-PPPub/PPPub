@@ -9,7 +9,7 @@
 - [**The Witch-king of Angmar**](../forces_of_evil/mordor.md#the-witch-king-of-angmar-points-cost-varies): 245 points
     - 3 Attacks, 3 Might, 18 Will, 3 Fate, with Armoured Fell Beast and Crown of Morgul
     - Morgul Blade: 10 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 
 **HEROES OF VALOUR**
 
@@ -63,7 +63,7 @@
 - [**Hasharin**](../forces_of_evil/fallen_realms.md#hasharin-80-points): 80 points
 - [**Morannon Orc Captain**](../forces_of_evil/mordor.md#morannon-orc-captain-55-points): 55 points
     - Shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - <span style="color: darkmagenta">**Mordor Orc Captain**: 45 points</span>
 - [**Raza, Fang of the Serpent**](../forces_of_evil/fallen_realms.md#raza-fang-of-the-serpent-75-points): 75 points
 - [**War Mumak of Harad**](../forces_of_evil/fallen_realms.md#war-mumak-of-harad-250-points): 250 points
@@ -90,8 +90,8 @@
     - Exchange shield for banner: 25 points
     - Easterling Halberd: 1 point
 - [**Black Numenorean Knight**](../forces_of_evil/mordor.md#black-numenorean-knight-20-points): 20 points
-    - Exchange lance for banner: 25 points
-    - Exchange lance for war horn: 25 points
+    - Exchange Lance for banner: 25 points
+    - Exchange Lance for war horn: 25 points
 - [**Black Numenorean Warrior**](../forces_of_evil/mordor.md#black-numenorean-warrior-10-points): 10 points
 - [**Easterling Kataphrakt**](../forces_of_evil/fallen_realms.md#easterling-kataphrakt-15-points): 15 points
     - Banner: 25 points
@@ -103,9 +103,9 @@
     - Bow: 1 point
 - [**Haradrim Raider**](../forces_of_evil/fallen_realms.md#haradrim-raider-11-points): 11 points
     - Banner: 25 points
-    - Bow & war spear: 2 points
+    - Bow & war Spear: 2 points
     - Bow: 1 point
-    - War spear: 1 point
+    - War Spear: 1 point
 - [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - War horn: 25 points
     - Banner: 25 points
@@ -113,15 +113,15 @@
     - Spear: 1 point
 - [**Morannon Orc Warrior**](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 8 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - <span style="color: darkmagenta">**Mordor Orc Warrior**: 5 points</span>
     - <span style="color: darkmagenta">Banner: 25 points</span>
-    - <span style="color: darkmagenta">Orc bow: 1 point</span>
+    - <span style="color: darkmagenta">Orc Bow: 1 point</span>
     - <span style="color: darkmagenta">Shield: 1 point</span>
     - <span style="color: darkmagenta">Spear: 1 point</span>
-    - <span style="color: darkmagenta">Two-handed weapon: 1 point</span>
+    - <span style="color: darkmagenta">Two-handed Weapon: 1 point</span>
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 - [**Watcher of Karna**](../forces_of_evil/evil_legacy.md#watcher-of-karna-9-points): 9 points

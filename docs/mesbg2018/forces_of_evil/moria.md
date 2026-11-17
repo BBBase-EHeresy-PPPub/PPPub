@@ -159,7 +159,7 @@ Durburz's [Stand Fast!] has a range of 12"
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Staff]
+- [Two-handed][Two-handed Weapon] [Staff]
 
 **HEROIC ACTIONS**
 
@@ -182,7 +182,7 @@ Any model that wounds, or is wounded by Ahshrak must roll a D6. On a 4+, they su
 
 - **Poison Blood** `PASSIVE`
 
-May include Giant Spiders in his warband. Giant Spiders in the same force can be upgraded to Venom-back spiders for 2 points, and gain [Venom] special rule.
+May include Giant Spiders in his warband. Giant Spiders in the same force can be upgraded to Venom-back spiders for 2 points, and gain [Venom][Bane of Kings/Venom] special rule.
 
 - **Spider-kin** `PASSIVE`
 
@@ -277,7 +277,7 @@ At the start of the Fight phase, before Heroic Actions are declared, roll a D6. 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed][] [Sword]
+- [Two-handed][Two-handed Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -539,7 +539,7 @@ The Fight value of any enemy model engaged in combat with a Bat Swarm is halved 
 
 - **Troll Chain** `ACTIVE`
 
-A [throwing] weapon with range 3" and Strength 5.
+A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 </div>
 
@@ -602,7 +602,7 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 
 - **Venom-back Spider**
 
-If the force includes Ashrak, Giant Spiders may be upgraded to Venom-back Spiders. They gain [Venom].
+If the force includes Ashrak, Giant Spiders may be upgraded to Venom-back Spiders. They gain [Venom][Bane of Kings/Venom].
 
 </div>
 
@@ -728,8 +728,8 @@ At least one Moria Goblin Drummer must have started the turn in base contact wit
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Axe]
-- [Throwing] Daggers
+- [Two-handed][Two-handed Weapon] [Axe]
+- [Throwing][Throwing Weapon] Daggers
 
 **OPTIONS**
 

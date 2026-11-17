@@ -18,9 +18,9 @@
 
 - [**Black Numenorean Marshal**](../forces_of_evil/mordor.md#black-numenorean-marshal-70-points): 70 points
 - [**Corsair Bo'sun**](../forces_of_evil/fallen_realms.md#corsair-bosun-50-points): 50 points
-    - Exchange spear for crossbow: Free
+    - Exchange Spear for Crossbow: Free
 - [**Corsair Captain**](../forces_of_evil/fallen_realms.md#corsair-captain-55-points): 55 points
-    - Exchange two-handed weapon for crossbow: Free
+    - Exchange Two-handed Weapon for Crossbow: Free
 - [**Haradrim Chieftain**](../forces_of_evil/fallen_realms.md#haradrim-chieftain-50-points): 50 points
     - Bow: 5 points
 - [**Hasharin**](../forces_of_evil/fallen_realms.md#hasharin-80-points): 80 points
@@ -31,7 +31,7 @@
 - [**Corsair Reaver**](../forces_of_evil/evil_legacy.md#corsair-reaver-9-points): 9 points
 - [**Corsair of Umbar**](../forces_of_evil/fallen_realms.md#corsair-of-umbar-8-points): 8 points
     - Bow: 1 point
-    - Light shield and throwing weapons: 1 point
+    - Light shield and Throwing Weapons: 1 point
     - Spear: 1 point
 - [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - Banner: 25 points

@@ -19,8 +19,8 @@
 - [**Warrior of Dale**](../forces_of_good/kingdoms_of_men.md#warrior-of-dale-7-points): 7 points
     - War horn: 25 points
     - Banner: 25 points
-    - Esgaroth bow: 2 points
-    - Shield and spear: 2 points
+    - Esgaroth Bow: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
 
 **SIEGE ENGINES**

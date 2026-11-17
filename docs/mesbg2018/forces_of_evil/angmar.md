@@ -50,7 +50,7 @@ This army may include: Witch King; Aldrac; Buhrdur; Gulavhar; The Dwimmerlaik; T
 - [Armoured Horse] - 15 points
 - [Horse] - 10 points
 - Morgul Blade - 10 points
-- [Two-Handed][] [Flail] - 5 points
+- [Two-handed][Two-handed Weapon] [Flail] - 5 points
 - Might - 5 points
 - Will - 5 points
 - Fate - 5 points
@@ -195,7 +195,7 @@ Attack and Courage value are equal to remaining wounds.
 **WARGEAR**
 
 - [Armour]
-- [Two-handed][] [Sword]
+- [Two-handed][Two-handed Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -423,7 +423,7 @@ If this model is in combat with an enemy hero model (but not if they are support
 **WARGEAR**
 
 - [Armour]
-- [Hand-and-a-half][] [Mace]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -647,7 +647,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
 - [Spear] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -675,7 +675,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 - [Banner] - 25 points
 - Orc [Bow] - 1 point
 - [Shield] - 1 point
-- [Throwing] Spears - 1 point
+- [Throwing][Throwing Weapon] Spears - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -710,7 +710,7 @@ Only friendly [Warg] models benefit from a Wild [Warg] Chieftain's [Stand Fast!]
 
 - **Troll Chain** `ACTIVE`
 
-A [throwing] weapon with range 3" and Strength 5.
+A [throwing weapon][Throwing Weapon] with range 3" and Strength 5.
 
 </div>
 

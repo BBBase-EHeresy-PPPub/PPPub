@@ -33,9 +33,9 @@
 **HEROES OF FORTITUDE**
 
 - [**Corsair Bo'sun**](../forces_of_evil/fallen_realms.md#corsair-bosun-50-points): 50 points
-    - Exchange spear for crossbow: Free
+    - Exchange Spear for Crossbow: Free
 - [**Corsair Captain**](../forces_of_evil/fallen_realms.md#corsair-captain-55-points): 55 points
-    - Exchange two-handed weapon for crossbow: Free
+    - Exchange Two-handed Weapon for Crossbow: Free
 - [**Easterling Captain**](../forces_of_evil/mordor.md#easterling-captain-60-points): 60 points
 - [**Easterling Kataphrakt Captain**](../forces_of_evil/fallen_realms.md#easterling-kataphrakt-captain-90-points): 90 points
 - [**Easterling War Priest**](../forces_of_evil/fallen_realms.md#easterling-war-priest-60-points): 60 points
@@ -50,7 +50,7 @@
     - War Camel: 25 points
     - Blowpipe: 5 points
     - Shield: 5 points
-    - War spear: 5 points
+    - War Spear: 5 points
 - [**Raza, Fang of the Serpent**](../forces_of_evil/fallen_realms.md#raza-fang-of-the-serpent-75-points): 75 points
 - [**War Mumak of Harad**](../forces_of_evil/fallen_realms.md#war-mumak-of-harad-250-points): 250 points
     - Gnarled Hide: 25 points
@@ -76,7 +76,7 @@
 - [**Corsair Reaver**](../forces_of_evil/evil_legacy.md#corsair-reaver-9-points): 9 points
 - [**Corsair of Umbar**](../forces_of_evil/fallen_realms.md#corsair-of-umbar-8-points): 8 points
     - Bow: 1 point
-    - Light shield and throwing weapons: 1 point
+    - Light shield and Throwing Weapons: 1 point
     - Spear: 1 point
 - [**Dragon Cult Acolyte**](../forces_of_evil/fallen_realms.md#dragon-cult-acolyte-11-points): 11 points
 - [**Easterling Kataphrakt**](../forces_of_evil/fallen_realms.md#easterling-kataphrakt-15-points): 15 points
@@ -88,25 +88,25 @@
     - Shield: 1 point
     - Bow: 1 point
 - [**Half Troll**](../forces_of_evil/evil_legacy.md#half-troll-25-points): 25 points
-    - Exchange hand weapon for two-handed weapon: Free
+    - Exchange Hand Weapon for Two-handed Weapon: Free
 - [**Haradrim Raider**](../forces_of_evil/fallen_realms.md#haradrim-raider-11-points): 11 points
     - Banner: 25 points
-    - Bow & war spear: 2 points
+    - Bow & war Spear: 2 points
     - Bow: 1 point
-    - War spear: 1 point
+    - War Spear: 1 point
 - [**Haradrim Warrior**](../forces_of_evil/fallen_realms.md#haradrim-warrior-6-points): 6 points
     - War horn: 25 points
     - Banner: 25 points
     - Bow: 1 point
     - Spear: 1 point
 - [**Khandish Charioteer**](../forces_of_evil/evil_legacy.md#khandish-charioteer-40-points): 40 points
-    - Exchange hand-and-a-half weapon for bow: Free
+    - Exchange Hand-and-a-half Weapon for Bow: Free
 - [**Khandish Horseman**](../forces_of_evil/evil_legacy.md#khandish-horseman-14-points): 14 points
 - [**Khandish Warrior**](../forces_of_evil/evil_legacy.md#khandish-warrior-8-points): 8 points
-    - Exchange hand-and-a-half weapon for bow: Free
+    - Exchange Hand-and-a-half Weapon for Bow: Free
 - [**Mahud Raider**](../forces_of_evil/evil_legacy.md#mahud-raider-17-points): 17 points
     - Blowpipe: 1 point
-    - War spear: 1 point
+    - War Spear: 1 point
 - [**Mahud Warrior**](../forces_of_evil/evil_legacy.md#mahud-warrior-8-points): 8 points
     - Blowpipe: 1 point
     - Spear: 1 point

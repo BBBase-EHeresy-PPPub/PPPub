@@ -31,7 +31,7 @@
 
 - **Stone flail** `ACTIVE`
 
-This is a Unique [two-handed] weapon. If Azog uses the Stone Flail during a Combat, he gains the [Mighty Blow] special rule, though reduces his Fight Value to 6 for the duration of the Combat - even after a [Heroic Strike]. Additionally, any model that is struck by the Stone Flail and not slain will be Knocked Prone at the end of the Combat.
+This is a Unique [two-handed weapon][Two-handed Weapon]. If Azog uses the Stone Flail during a Combat, he gains the [Mighty Blow] special rule, though reduces his Fight Value to 6 for the duration of the Combat - even after a [Heroic Strike]. Additionally, any model that is struck by the Stone Flail and not slain will be Knocked Prone at the end of the Combat.
 
 - **General of the North** `ACTIVE`
 
@@ -77,7 +77,7 @@ Once the White Warg is separated from Azog, only Warg models may benefit from it
 
 **WARGEAR**
 
-- Spectral Hands ([hand weapons][Hand Weapon])
+- Spectral Hands ([Hand Weapons][Hand Weapon])
 
 **HEROIC ACTIONS**
 
@@ -136,7 +136,7 @@ Any friendly Nazgûl of Dol Guldur in the same Army as the Necromancer gain a bo
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -177,7 +177,7 @@ Keep a track of how many enemy models Bolg kills in Combat. Once he has killed t
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -220,7 +220,7 @@ Whilst the Marker is in play, this model counts as on the board for the purpose 
 **WARGEAR**
 
 - [Armour]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -346,7 +346,7 @@ Whilst the Marker is in play, this model counts as on the board for the purpose 
 **WARGEAR**
 
 - [Heavy Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -426,7 +426,7 @@ Whilst the Marker is in play, this model counts as on the board for the purpose 
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -559,7 +559,7 @@ Whilst he has the Cavalry keyword, Fimbul does not suffer any penalties for Movi
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed] weapon in the same Combat.
+This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -627,7 +627,7 @@ Models placed on the board in this manner cannot be placed in the Control Zones 
 
 - [Fell Warg] - 20 points
 - [Orc Bow] - 5 points
-- [Two-handed] Weapon - 5 points
+- [Two-handed Weapon] - 5 points
 
 **SPECIAL RULES**
 
@@ -685,7 +685,7 @@ Each turn, Narzug gains a free Might Point that can only be spent during a shoot
 **WARGEAR**
 
 - [Armour]
-- [Two-handed] Weapon
+- [Two-handed Weapon]
 
 **HEROIC ACTIONS**
 
@@ -814,7 +814,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 Impact hits.
 
 **WARGEAR**
 
-- Claws and Teeth ([hand weapon])
+- Claws and Teeth ([Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -845,7 +845,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 Impact hits.
 
 - **Chittering Hordes** `ACTIVE`
 
-This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed] weapon in the same Combat.
+This model may Support as if it had a [spear], with the exception that they can only Support another model with this special rule. A model Supporting whilst using this special rule cannot also use a [two-handed weapon][Two-handed Weapon] in the same Combat.
 
 - **Mercenary Ambush** `ACTIVE`
 
@@ -878,7 +878,7 @@ Models placed on the board in this manner cannot be placed in the Control Zones 
 
 **OPTIONS**
 
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1013,7 +1013,7 @@ A Gundabad Troll armed with Scythe Gauntlets increases its Attacks to 4.
 **OPTIONS**
 
 - [Orc Bow] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1043,7 +1043,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 **OPTIONS**
 
 - [Orc Bow] - 1 point
-- [Two-handed] Weapon - 1 point
+- [Two-handed Weapon] - 1 point
 
 **SPECIAL RULES**
 
@@ -1067,7 +1067,7 @@ This model gains a bonus of +1 Attacks on a turn in which it Charges.
 
 **WARGEAR**
 
-- Fangs ([hand weapons][Hand Weapon])
+- Fangs ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -1095,7 +1095,7 @@ A Mirkwood Giant Spider can shoot spider webs; these are treated as throwing wea
 
 **WARGEAR**
 
-- Fangs ([hand weapons][Hand Weapon])
+- Fangs ([Hand Weapons][Hand Weapon])
 
 **OPTIONS**
 
@@ -1132,7 +1132,7 @@ Mirkwood Hunting Spiders in Ashrak's Warband may be upgraded to Venom-back Spide
 
 **WARGEAR**
 
-- Razor-sharp Teeth and Talons ([hand weapons][Hand Weapon])
+- Razor-sharp Teeth and Talons ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

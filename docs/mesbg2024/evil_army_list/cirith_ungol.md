@@ -14,7 +14,7 @@
 - [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
 - [**Mordor Orc Taskmaster**](../forces_of_evil/mordor.md#mordor-orc-taskmaster-45-points): 45 points
 - [**Mordor Uruk-Hai Captain**](../forces_of_evil/mordor.md#mordor-uruk-hai-captain-55-points): 55 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 
 **MINOR HEROES**
 
@@ -30,12 +30,12 @@
 
 - [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Uruk-Hai**](../forces_of_evil/mordor.md#mordor-uruk-hai-8-points): 8 points
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Orc Tracker**](../forces_of_evil/evil_legacy.md#orc-tracker-6-points): 6 points
 
 </div>

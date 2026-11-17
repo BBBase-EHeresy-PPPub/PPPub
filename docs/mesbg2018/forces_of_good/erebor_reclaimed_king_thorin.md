@@ -41,7 +41,7 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 
 - **Orcrist** `ACTIVE`
 
-[Elven-made][] [hand-and-a-half][] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
+[Elven-made][Elven-made Weapon] [hand-and-a-half][Hand-and-a-half Weapon] [sword] with Orc bane, Goblin bane and Uruk-hai bane, [Terror] (Goblin), [Terror] (Orc) and [Terror] (Uruk-hai) special rules.
 
 - **A Score to Settle** `ACTIVE`
 
@@ -76,7 +76,7 @@ The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][] [Mace]
+- [Two-handed][Two-handed Weapon] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -108,7 +108,7 @@ In Priority phase, Balin may spend a Will point to enable his side to re-roll th
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][] [Hammer]
+- [Two-handed][Two-handed Weapon] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -169,7 +169,7 @@ The War Boar has [Burly] and [Fearless].
 
 - [Heavy Dwarf Armour]
 - [Two Axes][Axe]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -188,11 +188,11 @@ The War Boar has [Burly] and [Fearless].
 
 - **Weapon Master** `ACTIVE`
 
-Dwalin is never considered to be [unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed] weapon.
+Dwalin is never considered to be [unarmed], and never suffers the -1 penalty in Duel rolls for fighting with a [two-handed weapon][Two-handed Weapon].
 
 - **The King's Axeman** `ACTIVE`
 
-Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe] in each hand for 4 Attacks, or his [two-handed][] [axe] for 3 Attacks.
+Whilst he has the Infantry keyword, at the beginning of each Fight, Dwalin can choose to use either an [axe] in each hand for 4 Attacks, or his [two-handed][Two-handed Weapon] [axe] for 3 Attacks.
 
 - **War Goat**
 
@@ -269,7 +269,7 @@ If this upgrade is taken for the Chariot, then instead of being crewed by four I
 
 **WARGEAR**
 
-- [Heavy Dwarf Armour], [Hand-and-a-half][] [Axe].
+- [Heavy Dwarf Armour], [Hand-and-a-half][Hand-and-a-half Weapon] [Axe].
 
 **HEROIC ACTIONS**
 
@@ -301,7 +301,7 @@ If Bifur wins a fight, he may make a single Strike against his opponent. If he w
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Hand-and-a-half][] [Hammer]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -372,7 +372,7 @@ Once each turn in his Move phase, choose a friendly model in base contact and ro
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][] [Mace]
+- [Two-handed][Two-handed Weapon] [Mace]
 
 **HEROIC ACTIONS**
 
@@ -389,7 +389,7 @@ If Bilbo is within 3" of Dori, he may spend Dori's Might, Will and Fate points a
 
 - **Weapon Master** `ACTIVE`
 
-Dori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
+Dori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -456,7 +456,7 @@ The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -473,7 +473,7 @@ Gloin must re-roll scores of 1 To Wound in combat.
 
 - **Weapon Master** `ACTIVE`
 
-Gloin is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
+Gloin is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -521,7 +521,7 @@ The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+This is a [two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -603,7 +603,7 @@ The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models
 
 - **Weapon Master** `ACTIVE`
 
-Nori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed] weapon.
+Nori is never considered [unarmed], and does not suffer the -1 penalty during Duel rolls when using a [two-handed weapon][Two-handed Weapon].
 
 - **Weapon Synergy** `ACTIVE`
 
@@ -662,7 +662,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -712,7 +712,7 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 - **Mattock** `ACTIVE`
 
-[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -745,7 +745,7 @@ If a member of Thorin's Company slays an enemy Hero or Monster within 3" of Ori,
 
 - **Mattock** `ACTIVE`
 
-[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 - **War Goat**
 

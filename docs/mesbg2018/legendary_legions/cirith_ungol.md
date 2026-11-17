@@ -7,7 +7,7 @@
 - **MORDOR URUK-HAI CAPTAIN**: 55 points
     - Orc Bow: 5 points
     - Shield: 5 points
-    - Two-Handed Weapon: 5 points
+    - Two-handed Weapon: 5 points
 - **ORC CAPTAIN**: 40 points
     - Orc Bow: 5 points
     - Shield: 5 points
@@ -20,13 +20,13 @@
     - Banner: 25 points
     - Orc Bow: 1 point
     - Shield: 1 point
-    - Two-Handed Mace: 1 point
+    - Two-handed Mace: 1 point
 - **ORC WARRIOR**: 5 points
     - Banner: 25 points
     - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-Handed Weapon: 1 point
+    - Two-handed Weapon: 1 point
 </div>
 
 ## ADDITIONAL RULES

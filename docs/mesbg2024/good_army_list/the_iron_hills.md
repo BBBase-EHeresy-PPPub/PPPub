@@ -18,18 +18,18 @@
 - [**Drar**](../forces_of_good/good_legacy.md#drar-70-points): 70 points
 - [**Iron Hills Captain**](../forces_of_good/dwarven_holds.md#iron-hills-captain-80-points): 80 points
     - Iron Hills Chariot: 170 points
-    - Exchange shield and spear for Mattock: Free
+    - Exchange shield and Spear for Mattock: Free
 - [**Murin**](../forces_of_good/good_legacy.md#murin-70-points): 70 points
 
 **WARRIORS**
 
 - [**Iron Hills Chariot**](../forces_of_good/dwarven_holds.md#iron-hills-chariot-170-points): 170 points
 - [**Iron Hills Goat Rider**](../forces_of_good/dwarven_holds.md#iron-hills-goat-rider-20-points): 20 points
-    - Exchange war spear for Mattock: Free
+    - Exchange war Spear for Mattock: Free
 - [**Iron Hills Warrior**](../forces_of_good/dwarven_holds.md#iron-hills-warrior-10-points): 10 points
     - Banner and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Crossbow: 2 points
     - Mattock: 1 point
 

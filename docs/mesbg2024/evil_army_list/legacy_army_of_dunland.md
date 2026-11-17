@@ -25,7 +25,7 @@
     - Banner: 25 points
     - Bow: 1 point
     - Shield: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Wild Man of Dunland**](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 5 points
     - Banner and light shield: 26 points
     - War horn and light shield: 26 points
@@ -35,7 +35,7 @@
     - Bow: 1 point
     - Light shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
     - Flaming Brand: 1 point
 
 </div>

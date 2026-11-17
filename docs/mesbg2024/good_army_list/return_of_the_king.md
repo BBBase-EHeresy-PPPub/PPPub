@@ -28,7 +28,7 @@
 - [**Rider of the Dead**](../forces_of_good/gondor.md#rider-of-the-dead-25-points): 25 points
 - [**Warrior of the Dead**](../forces_of_good/gondor.md#warrior-of-the-dead-14-points): 14 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 

@@ -33,11 +33,11 @@
     - Longbow: 1 point
     - Spear: 1 point
 - [**Knight of Minas Tirith**](../forces_of_good/gondor.md#knight-of-minas-tirith-15-points): 15 points
-    - Exchange shield and lance for banner: 25 points
+    - Exchange shield and Lance for banner: 25 points
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 

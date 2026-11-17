@@ -29,14 +29,14 @@
 
 - [**Isengard Orc Warrior**](../forces_of_evil/isengard.md#isengard-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Uruk-Hai Scout**](../forces_of_evil/isengard.md#uruk-hai-scout-8-points): 8 points
     - Banner: 25 points
     - Shield: 1 point
-    - Uruk-hai bow: 1 point
+    - Uruk-hai Bow: 1 point
 
 </div>
 

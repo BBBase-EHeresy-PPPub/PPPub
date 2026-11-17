@@ -11,7 +11,7 @@
     - Shield: 5 points
 - [**Denethor**](../forces_of_good/gondor.md#denethor-50-points): 50 points
 - [**Faramir**](../forces_of_good/gondor.md#faramir-100-points): 100 points
-    - Exchange armour and bow for heavy armour
+    - Exchange armour and Bow for heavy armour
     - Horse: 20 points
     - Shield: 5 points
 - [**Hurin the Tall, Warden of the Keys**](../forces_of_good/gondor.md#hurin-the-tall-warden-of-the-keys-80-points): 80 points
@@ -33,11 +33,11 @@
     - Spear: 1 point
 - [**Guard of the Fountain Court**](../forces_of_good/gondor.md#guard-of-the-fountain-court-10-points): 10 points
 - [**Knight of Minas Tirith**](../forces_of_good/gondor.md#knight-of-minas-tirith-15-points): 15 points
-    - Exchange shield and lance for banner: 25 points
+    - Exchange shield and Lance for banner: 25 points
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Bow: 1 point
 

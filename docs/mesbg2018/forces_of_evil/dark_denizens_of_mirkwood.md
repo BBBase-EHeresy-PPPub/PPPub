@@ -32,7 +32,7 @@ This army may include: The Spider Queen; Bat Swarm; Fell Warg; Giant Spider; Mir
 - [Monstrous Charge]
 - [Swift Movement]
 - [Terror]
-- [Venom]
+- [Venom][Bane of Kings/Venom]
 
 - **Progeny** `ACTIVE`
 

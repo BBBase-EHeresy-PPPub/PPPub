@@ -21,7 +21,7 @@ This army may include: Dain Ironfoot, Lord of the Iron Hills; Iron Hills Captain
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Two-handed][] [Hammer]
+- [Two-handed][Two-handed Weapon] [Hammer]
 
 **HEROIC ACTIONS**
 
@@ -110,7 +110,7 @@ The War Goat has [Mountain Dweller]. When it Charges Man-sized or smaller models
 
 - **Mattock** `ACTIVE`
 
-This is a [two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+This is a [two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -264,7 +264,7 @@ If this upgrade is taken for the Chariot, then instead of being crewed by four I
 
 - **Mattock** `ACTIVE`
 
-[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 </div>
 
@@ -297,7 +297,7 @@ If this upgrade is taken for the Chariot, then instead of being crewed by four I
 
 - **Mattock** `ACTIVE`
 
-[Two-handed] weapon that can use either the Bash or Piercing Strike Special Strikes.
+[Two-handed weapon][Two-handed Weapon] that can use either the Bash or Piercing Strike Special Strikes.
 
 - **War Goat**
 

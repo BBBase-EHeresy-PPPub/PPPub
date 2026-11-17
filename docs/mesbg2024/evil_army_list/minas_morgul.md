@@ -13,7 +13,7 @@
     - Crown of Morgul: 25 points
     - Horse: 20 points
     - Morgul Blade: 10 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 
 **HEROES OF VALOUR**
 
@@ -28,7 +28,7 @@
 - [**Kardush the Firecaller**](../forces_of_evil/evil_legacy.md#kardush-the-firecaller-65-points): 65 points
 - [**Morannon Orc Captain**](../forces_of_evil/mordor.md#morannon-orc-captain-55-points): 55 points
     - Shield: 5 points
-    - Two-handed weapon: 5 points
+    - Two-handed Weapon: 5 points
 - [**Mordor Orc Captain**](../forces_of_evil/mordor.md#mordor-orc-captain-45-points): 45 points
 - [**Mordor Orc Taskmaster**](../forces_of_evil/mordor.md#mordor-orc-taskmaster-45-points): 45 points
 
@@ -45,15 +45,15 @@
 
 - [**Morannon Orc Warrior**](../forces_of_evil/mordor.md#morannon-orc-warrior-8-points): 8 points
     - Banner: 25 points
-    - Shield and spear: 2 points
+    - Shield and Spear: 2 points
     - Shield: 1 point
     - Spear: 1 point
 - [**Mordor Orc Warrior**](../forces_of_evil/mordor.md#mordor-orc-warrior-5-points): 5 points
     - Banner: 25 points
-    - Orc bow: 1 point
+    - Orc Bow: 1 point
     - Shield: 1 point
     - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - Two-handed Weapon: 1 point
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 - [**Morgul Stalker**](../forces_of_evil/evil_legacy.md#morgul-stalker-10-points): 10 points

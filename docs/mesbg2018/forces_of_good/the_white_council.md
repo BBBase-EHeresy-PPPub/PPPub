@@ -36,9 +36,9 @@ A White Council army may only include a single warband. Unlike the usual model l
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Aura of Command] | - | 2+ |
-| [Immobilise] | 18" | 2+ |
+| [Immobilise][Transfix] | 18" | 2+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 18" | 3+ |
+| [Command][Compel] | 18" | 3+ |
 | [Sorcerous Blast] | 12" | 4+ |
 
 **OPTIONS**
@@ -89,12 +89,12 @@ Can re-roll one dice when making Casting or Resist tests.
 |:--|:--:|:--:|
 | [Aura of Command] | - | 2+ |
 | [Enchanted Blades] | 6" | 3+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 
 **OPTIONS**
 
 - [Heavy Armour] - 10 points
-- [Elven-made][] [Hand-and-a-Half][] [Sword] - 5 points
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword] - 5 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -155,7 +155,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 - **Hadhafang** `ACTIVE`
 
-[Hand-and-a-half][] [sword], +1 To Wound when striking Spirit models.
+[Hand-and-a-half][Hand-and-a-half Weapon] [sword], +1 To Wound when striking Spirit models.
 
 - **Vilya** `PASSIVE`
 
@@ -200,9 +200,9 @@ D6 Foresight points, each point can alter opponents priority by +1/-1.
 | Power | Range | Casting Value |
 |:--|:--:|:--:|
 | [Blinding Light] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Terrifying Aura] | - | 2+ |
-| [Command] | 12" | 4+ |
+| [Command][Compel] | 12" | 4+ |
 | [Protection of the Valar] | 12" | 4+ |
 | [Strengthen Will] | 12" | 4+ |
 | [Collapse Rocks] | 6" | 5+ |
@@ -238,7 +238,7 @@ Gandalf may re-roll his dice when making fate rolls.
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven-made Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -305,7 +305,7 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 |:--|:--:|:--:|
 | [Panic Steed] | 12" | 2+ |
 | [Terrifying Aura] | - | 2+ |
-| [Immobilise] | 12" | 3+ |
+| [Immobilise][Transfix] | 12" | 3+ |
 | [Renew] | 12" | 3+ |
 | [Nature's Wrath] | 3" | 4+ |
 | [Aura of Dismay] | - | 5+ |

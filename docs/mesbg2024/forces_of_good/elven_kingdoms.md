@@ -113,7 +113,7 @@ Any Rivendell Warriors upgraded to King's Guard in Gil-Galad's warband will have
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapons
+- Elven [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -256,7 +256,7 @@ Any Galadhrim Warriors upgraded to Lorien Guard in Celeborn's warband may re-rol
 
 - **Hadhafang** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 - **Vilya** `PASSIVE`
 
@@ -286,7 +286,7 @@ At the start of the game, before either side deploys, roll a D6 and make a note 
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -328,7 +328,7 @@ If Haldir is slain in Combat, he may immediately make a single Strength 4 Strike
 
 - [Armour]
 - [Elf Bow]
-- [Elven-made] daggers
+- [Elven-made][Elven Weapon] Daggers
 
 **HEROIC ACTIONS**
 
@@ -349,7 +349,7 @@ If Haldir is slain in Combat, he may immediately make a single Strength 4 Strike
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **Deadly Shot** `ACTIVE`
 
@@ -402,7 +402,7 @@ Instead of shooting normally, Legolas may make a single shooting attack against 
 
 - **Hadhafang** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 - **Asfaloth**
 
@@ -497,7 +497,7 @@ Whilst he has the Infantry Keyword, Elladan can choose to fight in one of the th
 
 Elladan can fight with 3 Attacks rather than 2.
 
-Elladan can use his Elven weapons as Elven [hand-and-a-half] weapons.
+Elladan can use his Elven weapons as Elven [hand-and-a-half weapons][Hand-and-a-half Weapon].
 
 Elladan can use his Elven weapons to parry, which counts as [Shielding].
 
@@ -547,7 +547,7 @@ Whilst he has the Infantry Keyword, Elrohir can choose to fight in one of the th
 
 Elrohir can fight with 3 Attacks rather than 2.
 
-Elrohir can use his Elven weapons as Elven [hand-and-a-half] weapons.
+Elrohir can use his Elven weapons as Elven [hand-and-a-half weapons][Hand-and-a-half Weapon].
 
 Elrohir can use his Elven weapons to parry, which counts as [Shielding].
 
@@ -571,7 +571,7 @@ Whilst within 3" of Elladan, Elrohir gains the [Dominant] (2) special rule and m
 
 **WARGEAR**
 
-- [Elven-made][] [Hand-and-a-half][] [Sword]
+- [Elven-made][Elven Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 - [Heavy Armour]
 
 **HEROIC ACTIONS**
@@ -644,7 +644,7 @@ If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a fre
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - [Elf Bow]
 - [Elven Cloak]
 
@@ -768,7 +768,7 @@ If Orophin rolls a natural 6 in the Duel roll, then he will make double the numb
 **WARGEAR**
 
 - [Heavy Armour]
-- [Elven-made][] [hand-and-a-half][] [Sword]
+- [Elven-made][Elven Weapon] [Hand-and-a-half][Hand-and-a-half Weapon] [Sword]
 
 **HEROIC ACTIONS**
 
@@ -807,7 +807,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -915,7 +915,7 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 **WARGEAR**
 
 - Galadhrim Steed
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - [Heavy Armour]
 
 **OPTIONS**
@@ -956,7 +956,7 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapon,
+- Elven [Hand-and-a-half Weapon],
 - [Heavy Armour]
 
 **OPTIONS**
@@ -1024,14 +1024,14 @@ This model may use the [Shielding] rule with their Elven [pike]. All of the usua
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- Elven [Throwing] Weapons - 2 points
+- Elven [Throwing Weapons][Throwing Weapon] - 2 points
 - Wood Elf [Spear] - 1 point
 - Noldorin Exile - 1 point
 
@@ -1065,7 +1065,7 @@ Lothlorien Warriors in Gildor's Warband must be upgraded to Noldorin Exiles. Rep
 
 - [Heavy Armour]
 - [Horse]
-- Elven [Hand-and-a-half] Weapons
+- Elven [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
 
 **SPECIAL RULES**
 
@@ -1093,7 +1093,7 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 to their Fi
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
@@ -1157,7 +1157,7 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
@@ -1195,7 +1195,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 - [Heavy Armour]
 - Elven [Lance]
 - [Horse]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 - [Elf Bow]
 
 **OPTIONS**
@@ -1225,7 +1225,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half] Weapon
+- Elven [Hand-and-a-half Weapon]
 
 **OPTIONS**
 

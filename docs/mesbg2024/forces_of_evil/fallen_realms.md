@@ -11,7 +11,7 @@
 **WARGEAR**
 
 - [Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 - Smoke Bombs
 
 **HEROIC ACTIONS**
@@ -27,7 +27,7 @@
 
 - **Smoke Bombs** `ACTIVE`
 
-These are [throwing] weapons with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a Will Point or suffer the effects of the [Transfix] Magical Power and have their Fight Value halved until the End Phase of the turn. Should Dalamyr ever roll a 1 To Hit with his Smoke Bombs then his supply has run out and he cannot use them for the remainder of the game.
+These are [throwing weapons][Throwing Weapon] with a Strength of 1. Any model hit, but not slain, by these weapons must immediately expend a Will Point or suffer the effects of the [Transfix] Magical Power and have their Fight Value halved until the End Phase of the turn. Should Dalamyr ever roll a 1 To Hit with his Smoke Bombs then his supply has run out and he cannot use them for the remainder of the game.
 
 - **Preternatural Agility** `ACTIVE`
 
@@ -64,7 +64,7 @@ Dalamyr can never count as Trapped whilst still standing.
 
 - **Long-bladed Spear** `ACTIVE`
 
-This weapon can either be used as a [spear] or a [two-handed] weapon.
+This weapon can either be used as a [spear] or a [two-handed weapon][Two-handed Weapon].
 
 - **Imposing Presence** `PASSIVE`
 
@@ -86,7 +86,7 @@ The range of the Mûmak War Leader's [Stand Fast] is 12" rather than 6". Additio
 
 **WARGEAR**
 
-- Tusks and huge stomping feet ([hand weapons][Hand Weapon])
+- Tusks and huge stomping feet ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 
@@ -292,7 +292,7 @@ Friendly Easterling models treat Amdûr as a banner. If Amdûr slays the enemy G
 
 - **Durtuz, the Silver Falchion** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half] weapon. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 
 - **Phalanx** `ACTIVE`
 
@@ -321,7 +321,7 @@ This model gains the [Shieldwall] special rule whilst they have the Cavalry keyw
 - [Armour]
 - [Hand Weapon]
 - [Whip]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -411,7 +411,7 @@ Each time Brôrgîr rolls one or more natural 6s when making a Casting Test, he 
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike] or a [two-handed] weapon.
+This can be used as either a [pike] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -432,7 +432,7 @@ This can be used as either a [pike] or a [two-handed] weapon.
 - [Light Armour]
 - [Hand Weapon]
 - [Spear]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -466,8 +466,8 @@ Friendly Corsair models treat a Corsair Bo’sun as a banner.
 
 - [Light Armour]
 - [Hand Weapon]
-- [Two-handed] Weapon
-- [Throwing] Weapons
+- [Two-handed Weapon]
+- [Throwing Weapons][Throwing Weapon]
 
 **HEROIC ACTIONS**
 
@@ -475,7 +475,7 @@ Friendly Corsair models treat a Corsair Bo’sun as a banner.
 
 **OPTIONS**
 
-- Exchange [Two-handed] Weapon for [Crossbow] - Free
+- Exchange [Two-handed Weapon] for [Crossbow] - Free
 
 </div>
 
@@ -551,7 +551,7 @@ This model gains the [Shieldwall] special rule whilst they have the Cavalry keyw
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike] or a [two-handed] weapon.
+This can be used as either a [pike] or a [two-handed weapon][Two-handed Weapon].
 
 </div>
 
@@ -632,7 +632,7 @@ Whenever a friendly Hero model within 6" declares a [Heroic Move], Heroic March 
 **WARGEAR**
 
 - [Hand Weapons][Hand Weapon]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 - [Blowpipe]
 
 **HEROIC ACTIONS**
@@ -701,7 +701,7 @@ At the beginning of the game, after both sides have been deployed, secretly sele
 
 **WARGEAR**
 
-- Tusks and Huge Stomping Feet ([hand weapons][Hand Weapon])
+- Tusks and Huge Stomping Feet ([Hand Weapons][Hand Weapon])
 
 **OPTIONS**
 
@@ -875,7 +875,7 @@ This model may only include Black Dragon Warrior models in their Warband.
 
 - **Easterling Halberd** `ACTIVE`
 
-This can be used as either a [pike] or a [two-handed] weapon.
+This can be used as either a [pike] or a [two-handed weapon][Two-handed Weapon].
 
 - **Phalanx** `ACTIVE`
 
@@ -935,7 +935,7 @@ This is a [shield] that provides the bearer +3 Defence rather than +1. However, 
 A Corsair of Umbar must have one of the following options for the listed points cost:
 
 - [Bow] - 1 point
-- [Light Shield] and [Throwing] Weapons - 1 point
+- [Light Shield] and [Throwing Weapons][Throwing Weapon] - 1 point
 - [Spear] - 1 point
 
 </div>
@@ -955,7 +955,7 @@ A Corsair of Umbar must have one of the following options for the listed points 
 **WARGEAR**
 
 - [Armour]
-- [Throwing] Weapons
+- [Throwing Weapons][Throwing Weapon]
 - [Hand Weapons][Hand Weapon]
 
 **SPECIAL RULES**
@@ -1138,7 +1138,7 @@ A Haradrim Warrior must have one of the following options for the listed points 
 
 **WARGEAR**
 
-- [Armour], Claws and Teeth ([hand weapons][Hand Weapon])
+- [Armour], Claws and Teeth ([Hand Weapons][Hand Weapon])
 
 **SPECIAL RULES**
 

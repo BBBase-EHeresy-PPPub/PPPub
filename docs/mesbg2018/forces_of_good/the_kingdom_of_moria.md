@@ -42,7 +42,7 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 
 - **Durin's axe** `ACTIVE`
 
-[Master-forged][] [two-handed][] [axe], re-roll a single dice in duel rolls.
+[Master-forged][Master-forged Weapon] [two-handed][Two-handed Weapon] [axe], re-roll a single dice in duel rolls.
 
 </div>
 
@@ -70,8 +70,8 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 
 **OPTIONS**
 
-- [Throwing] Axes - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Throwing][Throwing Weapon] Axes - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -91,9 +91,9 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Master Forged][Master-Forged] [Two-handed][] [Axe]
+- [Master-forged][Master-forged Weapon] [Two-handed][Two-handed Weapon] [Axe]
 - [Two Axes][Axe]
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **HEROIC ACTIONS**
 
@@ -108,7 +108,7 @@ Balin may spend 1 point of Will so you can re-roll your dice in the Priority rol
 
 - **Axes of the Dwarves!** `ACTIVE`
 
-At the beginning of a fight, you can choose his [two-handed][] [axe], or an [axe] in each hand which gives him an Attack value of 3.
+At the beginning of a fight, you can choose his [two-handed][Two-handed Weapon] [axe], or an [axe] in each hand which gives him an Attack value of 3.
 
 - **I myself am sitting pretty on 43** `ACTIVE`
 
@@ -140,8 +140,8 @@ If Gimli has fewer kills than Legolas, he gets +1 To Wound rolls.
 **OPTIONS**
 
 - [Shield] - 5 points
-- [Throwing] Axes - 5 points
-- [Two-Handed][] [Axe] - 5 points
+- [Throwing][Throwing Weapon] Axes - 5 points
+- [Two-handed][Two-handed Weapon] [Axe] - 5 points
 - [Swap Weapon] - 5 points
 
 </div>
@@ -260,7 +260,7 @@ Once per Fight phase, Oin can use a Will point to enable a friendly model within
 **WARGEAR**
 
 - [Heavy Dwarf Armour]
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 
 **HEROIC ACTIONS**
 
@@ -333,8 +333,8 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **OPTIONS**
 
 - [Dwarf Longbow] - 1 point
-- [Throwing] Axes - 1 point
-- [Two-Handed][] [Axe] - 1 point
+- [Throwing][Throwing Weapon] Axes - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] - 1 point
 - [Swap Weapon] - 1 point
 
 **SPECIAL RULES**
@@ -366,7 +366,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 - [Banner] - 25 points
 - Dwarf [Bow] - 1 point
 - [Shield] - 1 point
-- [Two-Handed][] [Axe] & [Dagger] - 1 point
+- [Two-handed][Two-handed Weapon] [Axe] & [Dagger] - 1 point
 - [Swap Weapon] - 1 point
 
 </div>
@@ -387,7 +387,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 
 - [Dwarf Armour]
 - [Sword]
-- [Throwing] Axes
+- [Throwing][Throwing Weapon] Axes
 
 **OPTIONS**
 
@@ -410,7 +410,7 @@ Friendly Dwarf models within 12" may re-roll failed Courage tests.
 **WARGEAR**
 
 - [Dwarf Armour]
-- [Two-handed][] [Axe]
+- [Two-handed][Two-handed Weapon] [Axe]
 - [Axe]
 
 **OPTIONS**
@@ -465,8 +465,8 @@ Crewed by two Dwarf Warriors with heavy armour and axe, one of which is a [Siege
 - [Flaming Ammunition] - 15 points
 - [Additional Crew] - 8 points
 - [Engineer Captain] - [Shield] - 5 points
-- [Engineer Captain] - [Throwing] Axes - 5 points
-- [Engineer Captain] - [Two-Handed][] [Axe] - 5 points
+- [Engineer Captain] - [Throwing][Throwing Weapon] Axes - 5 points
+- [Engineer Captain] - [Two-handed][Two-handed Weapon] [Axe] - 5 points
 
 **SPECIAL RULES**
 

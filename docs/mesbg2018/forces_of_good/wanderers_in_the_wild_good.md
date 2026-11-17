@@ -16,7 +16,7 @@ This army may include: Grimbeorn; Murin & Drar; Barliman Butterbur; Harry Goatle
 
 **WARGEAR**
 
-- [Hand-and-a-half][] [Axe]
+- [Hand-and-a-half][Hand-and-a-half Weapon] [Axe]
 - Great [Bow]
 
 **HEROIC ACTIONS**
@@ -265,7 +265,7 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 **WARGEAR**
 
-- <span style="color: darkmagenta">[Hand-and-a-half][] [Axe]</span>
+- <span style="color: darkmagenta">[Hand-and-a-half][Hand-and-a-half Weapon] [Axe]</span>
 - <span style="color: darkmagenta">[Axe]</span>
 
 **OPTIONS**

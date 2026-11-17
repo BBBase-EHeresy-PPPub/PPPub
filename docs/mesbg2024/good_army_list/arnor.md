@@ -32,7 +32,7 @@
     - War horn: 25 points
     - Spear: 1 point
 - [**Warrior of Arnor**](../forces_of_good/arnor_and_angmar.md#warrior-of-arnor-8-points): 8 points
-    - Swap spear and shield for banner: 25 points
+    - Swap Spear and shield for banner: 25 points
 
 </div>
 

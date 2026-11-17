@@ -5,7 +5,7 @@
 - **BEORN**: 200 points
 - **GRIMBEORN**: 200 points
 - **BEORNING**: 20 points
-    - Swap Hand-and-a-Half Axe for Great Bow: Free
+    - Swap Hand-and-a-half Axe for Great Bow: Free
 </div>
 
 ## ADDITIONAL RULES
