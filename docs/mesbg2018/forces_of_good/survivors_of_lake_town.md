@@ -48,7 +48,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner].
+Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
 
 </div>
 
@@ -325,7 +325,8 @@ Lake-town Militia that are within 3" of a friendly Lake-town Hero model who is i
 <div class="unitCard" markdown>
 
 ### SIGRID & TILDA [30 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

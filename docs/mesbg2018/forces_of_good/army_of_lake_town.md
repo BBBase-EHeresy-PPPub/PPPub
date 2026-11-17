@@ -48,7 +48,7 @@ May fire a Black Arrow once per game from a Windlance. Re-roll failed To Hit and
 
 - **Saviour of Lake-town** `PASSIVE`
 
-Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a [banner].
+Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town Militia and Lake-town Militia Captains within 6" gain +1 Fight value and count as being in range of a banner.
 
 </div>
 
@@ -76,7 +76,7 @@ Bard's [Stand Fast!] has range of 6". Additionally Bain, Percy, Hilda, Lake-town
 
 - **Moneybags** `ACTIVE`
 
-The Master can spend a point of Might at the start of the Fight phase. Braga, Lake-town Guards and Lake-town Guard Captains within 6" receive +1 Fight value, and count as being in range of a [banner] until the end of the phase.
+The Master can spend a point of Might at the start of the Fight phase. Braga, Lake-town Guards and Lake-town Guard Captains within 6" receive +1 Fight value, and count as being in range of a banner until the end of the phase.
 
 - **Dragon-sickness** `PASSIVE`
 
@@ -233,7 +233,8 @@ Bain gains +1 Courage whilst within 6" of Bard the Bowman.
 <div class="unitCard" markdown>
 
 ### SIGRID & TILDA [30 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

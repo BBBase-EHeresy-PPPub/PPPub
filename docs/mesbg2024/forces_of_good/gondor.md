@@ -43,7 +43,7 @@ This is a Unique Elven [hand-and-a-half] weapon. Whenever Aragorn makes Strikes 
 
 - **"Stand, Men of the West"** `PASSIVE`
 
-Friendly models treat Aragorn, King Elessar as a [banner] with a range of 6".
+Friendly models treat Aragorn, King Elessar as a banner with a range of 6".
 
 </div>
 
@@ -346,7 +346,7 @@ The range of Prince Imrahil's [Stand Fast] is 12" rather than 6".
 
 - **Dol Amroth for Gondor!** `PASSIVE`
 
-Other friendly Dol Amroth models treat Prince Imrahil as a [banner] with a range of 6".
+Other friendly Dol Amroth models treat Prince Imrahil as a banner with a range of 6".
 
 </div>
 

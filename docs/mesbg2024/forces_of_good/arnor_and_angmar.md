@@ -132,7 +132,7 @@ Asfaloth is a Hero, Mount on a 40mm base, with 0 Might, 1 Will, 1 Fate and [Wood
 
 <div class="unitCard" markdown>
 
-### GULAVHAR, THE TERROR OF ARNOR [<span style="color: darkmagenta">200</span> POINTS]
+### GULAVHAR, THE TERROR OF ARNOR [200 POINTS]
 
 **SPIRIT | ANGMAR | HERO, INFANTRY, MONSTER, UNIQUE | 60MM**
 
@@ -238,7 +238,7 @@ If Aldrac slays an enemy model that he was Engaged in Combat with, then in the f
 
 - **Remnants of Arnor** `PASSIVE`
 
-Friendly Dunedain models treat Aranarth as a [banner]. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
+Friendly Dunedain models treat Aranarth as a banner. Additionally, all Dunedain models in the same Army List as Aranarth gain the Arnor Keyword.
 
 </div>
 
@@ -306,7 +306,7 @@ Friendly Dunedain Hero models may benefit from Arathorn's [Stand Fast].
 
 - **Lead by Example** `ACTIVE`
 
-If Buhrdûr slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner]. If Buhrdûr has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a [banner] with a range of 6" instead.
+If Buhrdûr slays an enemy Hero or Monster in Combat, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a banner. If Buhrdûr has slain 3 or more enemy Hero or Monster models, then for the rest of the game other friendly Orc or Troll models treat Buhrdûr as a banner with a range of 6" instead.
 
 - **Brutish Cunning** `ACTIVE`
 

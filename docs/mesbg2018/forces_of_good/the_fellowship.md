@@ -426,7 +426,8 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 <div class="unitCard" markdown>
 
 ### BILL THE PONY [25 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -440,7 +441,7 @@ If Merry is within 3" of Boromir of Gondor, Merry may spend his Might points as 
 
 - **Official Meals** `PASSIVE`
 
-Hobbit models treat Bill the [Pony] as a [banner].
+Hobbit models treat Bill the [Pony] as a banner.
 
 - **Second Breakfast** `PASSIVE`
 
@@ -457,7 +458,8 @@ May never charge, and no other models can benefit from his [Stand Fast!]. Howeve
 <div class="unitCard" markdown>
 
 ### SMEAGOL [30 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -47,7 +47,7 @@ Never requires more than a 4 for To Wound rolls.
 
 - **Stand Men of the West!** `PASSIVE`
 
-Friendly models within 6" count as being in range of a [banner].
+Friendly models within 6" count as being in range of a banner.
 
 </div>
 
@@ -319,8 +319,6 @@ Your opponent cannot score Victory Points for slaying the enemy leader if Hurin 
 ### KING OF MEN [60 POINTS]
 
 **MAN, GONDOR, INFANTRY, HERO - HERO OF VALOUR**
-
-*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -62,8 +62,6 @@ This weapon benefits from [Poisoned Weapons]: re-roll To Wound rolls of 1 when u
 
 **MAN, HARADRIM, INFANTRY, HERO - HERO OF VALOUR**
 
-*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
-
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/4+ | 4 | 5 | 2 | 2 | 5 | 2 | 2 | 1 |
@@ -360,7 +358,7 @@ At the start of the game, secretly select one Hero model in the opponent's force
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with [Banner] re-rolls.
+Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with Banner re-rolls.
 
 - **Trample**
 

@@ -120,7 +120,7 @@ Helm Hammerhand must always Charge if he is able to do so. Additionally, if Helm
 
 **OPTIONS**
 
-- [Shield] - <span style="color: darkmagenta">5 points</span>
+- [Shield] - 5 points
 
 **SPECIAL RULES**
 
@@ -933,7 +933,7 @@ This model may use its [throwing] spears as a normal [spear] during the Fight Ph
 
 - **Westfold Redshield**
 
-Riders of Rohan in Erkenbrand's Warband upgraded to Westfold Redshields treat Erkenbrand as a [banner].
+Riders of Rohan in Erkenbrand's Warband upgraded to Westfold Redshields treat Erkenbrand as a banner.
 
 </div>
 
@@ -957,7 +957,7 @@ Riders of Rohan in Erkenbrand's Warband upgraded to Westfold Redshields treat Er
 
 **OPTIONS**
 
-- [Horse] and [Throwing] Spears - 7 points
+- <span style="color: darkmagenta">[Horse] and [Throwing] Spears - 7 points</span>
 - [Horse] - 5 points
 - [Throwing] Spears - 2 points
 

@@ -353,7 +353,7 @@ This is a Unique Elven [hand-and-a-half] weapon. Orcrist has the Orcbane, Goblin
 
 - **Deadly Shot** `ACTIVE`
 
-Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).
+Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. <span style="color: darkmagenta">Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).</span>
 
 - **Pinpoint Shot** `ACTIVE`
 

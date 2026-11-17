@@ -121,7 +121,7 @@ If an enemy model in combat with Amdur declares a [Heroic Strike], he may do the
 
 - **Herald of Victory** `PASSIVE`
 
-All Easterling models treat Amdur as a [banner]. If Amdur kills the enemy leader, the [banner] range is increased to 6"
+All Easterling models treat Amdur as a banner. If Amdur kills the enemy leader, the banner range is increased to 6"
 
 - **Durtuz** `PASSIVE`
 

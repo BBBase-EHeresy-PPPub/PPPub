@@ -131,7 +131,7 @@ This model gains a bonus of +1 To Wound when making Strikes with their [spear] a
 
 - **Moneybags** `ACTIVE`
 
-At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a [banner] until the end of the turn.
+At the start of the Fight Phase, before the declare Heroic Actions Step, the Master of Lake-town may spend a Will Point to use this special rule. If he does, then Braga, Captain of the Guard, and any friendly Lake-town Guard Captains and Lake-town Guard within 6" of the Master of Lake-town gain a bonus of +1 to their Fight Value and treat the Master of Lake-town as a banner until the end of the turn.
 
 - **Price of Greed** `PASSIVE`
 

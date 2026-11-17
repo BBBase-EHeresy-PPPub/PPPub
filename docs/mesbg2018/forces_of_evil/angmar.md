@@ -137,7 +137,7 @@ If Aldrac slays an enemy model in combat, then he may declare a free [Heroic Com
 
 - **Lead by Example** `ACTIVE`
 
-In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a [banner].
+In a turn where Buhrdur slays an enemy Hero or Monster, all friendly Angmar Orc and Troll models within 6" count as being in range of a banner.
 
 </div>
 

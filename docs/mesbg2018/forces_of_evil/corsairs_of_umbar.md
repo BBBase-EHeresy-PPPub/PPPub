@@ -236,7 +236,7 @@ At the start of a fight phase, he may choose to spend one point of Will to use t
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models within 3" of the Bo'sun count as being in range of a [banner].
+Friendly Corsair models within 3" of the Bo'sun count as being in range of a banner.
 
 </div>
 

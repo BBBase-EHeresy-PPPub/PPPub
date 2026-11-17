@@ -41,7 +41,7 @@
 
 ## SPECIAL RULES
 
-**Saviour of Lake-town** - Other friendly Lake-town models within 6" of Bard gain a bonus of +1 to their Fight Value. Additionally, other friendly Lake-town models treat Bard as a [banner] with a range of 6". Alfrid does not benefit from this special rule.
+**Saviour of Lake-town** - Other friendly Lake-town models within 6" of Bard gain a bonus of +1 to their Fight Value. Additionally, other friendly Lake-town models treat Bard as a banner with a range of 6". Alfrid does not benefit from this special rule.
 
 **Heir of Dale** - Bard the Bowman gains the [Mighty Hero] and [Fearless] special rules.
 

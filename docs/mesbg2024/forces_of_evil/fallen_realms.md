@@ -104,7 +104,7 @@ The Royal War Mûmak and any models in the Howdah gain the [Resistant to Magic] 
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly models treat this model as a [banner] with a range of 6".
+Friendly models treat this model as a banner with a range of 6".
 
 **Howdah**
 
@@ -288,7 +288,7 @@ Whenever an enemy Hero model Engaged in Combat with Amdûr declares a [Heroic St
 
 - **Herald of Victory** `PASSIVE`
 
-Friendly Easterling models treat Amdûr as a [banner]. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a [banner] with a range of 6".
+Friendly Easterling models treat Amdûr as a banner. If Amdûr slays the enemy General, then friendly Easterling models treat Amdûr as a banner with a range of 6".
 
 - **Durtuz, the Silver Falchion** `ACTIVE`
 
@@ -446,7 +446,7 @@ This can be used as either a [pike] or a [two-handed] weapon.
 
 - **Commanding Bellow** `ACTIVE`
 
-Friendly Corsair models treat a Corsair Bo’sun as a [banner].
+Friendly Corsair models treat a Corsair Bo’sun as a banner.
 
 </div>
 
@@ -725,7 +725,7 @@ When a Mûmak Tramples, it will inflict 3 Strength 9 Impact Hits.
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly models treat this model as a [banner] with a range of 6".
+Friendly models treat this model as a banner with a range of 6".
 
 **Howdah**
 
@@ -998,7 +998,7 @@ This model may only be included in the Warband of a Black Dragon Hero. Additiona
 **OPTIONS**
 
 - [Banner] - 25 points
-- Exchange [Shield] for [War Drum] (Easterling) - 25 points
+- <span style="color: darkmagenta">Exchange [Shield] for [War Drum] (Easterling) - 25 points</span>
 
 **SPECIAL RULES**
 

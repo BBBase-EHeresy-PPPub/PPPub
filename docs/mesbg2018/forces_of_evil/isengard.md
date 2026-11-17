@@ -1017,7 +1017,8 @@ Instead of firing normally, choose a point on enemy battlements within range and
 <div class="unitCard" markdown>
 
 ### GRIMA [25 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

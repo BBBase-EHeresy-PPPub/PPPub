@@ -6,7 +6,7 @@ This army may include: Thorin Oakenshield, King Under the Mountain; Balin the Dw
 
 **"Will you follow me, one last time?"** - All friendly Erebor Dwarf models from this army list gain the Du Bekar special rule.
 
-**"Du Bekar"** - A model with this special rule counts as being in range of a [banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+**"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 ## HEROES OF EREBOR RECLAIMED (KING THORIN)
 
@@ -429,7 +429,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - **Du Bekar!** `PASSIVE`
 
-This model counts as being in range of a [banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 - **War Goat**
 
@@ -562,7 +562,7 @@ If in base contact, Kili and Fili may swap places at the start of any phase, and
 
 - **Du Bekar!** `PASSIVE`
 
-This model counts as being in range of a [banner] if they are within 6" of Thorin Oakenshield, King Under the Mountain.
+This model counts as being in range of a banner if they are within 6" of Thorin Oakenshield, King Under the Mountain.
 
 - **War Goat**
 

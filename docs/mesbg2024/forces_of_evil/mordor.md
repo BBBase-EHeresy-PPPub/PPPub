@@ -742,9 +742,9 @@ If this model rolls a natural 6 To Wound when making a Strike, and the Wound is 
 
 <div class="unitCard" markdown>
 
-### SHELOB [<span style="color: darkmagenta">100</span> POINTS]
+### SHELOB [100 POINTS]
 
-**SPIDER | MORDOR | HERO, INFANTRY, MONSTER, BEAST, UNIQUE | 80MM**
+**SPIDER | MORDOR | HERO, INFANTRY, MONSTER, BEAST, UNIQUE | <span style="color: darkmagenta">80MM</span>**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|

@@ -37,7 +37,7 @@ Gandalf - Friendly White Council models within 3" of Gandalf may re-roll To Woun
 
 Radagast - Friendly White Council models that begin their Activation within 3" of Radagast may Move through difficult terrain without penalty.
 
-Elrond - Friendly White Council models treat Elrond as a [banner].
+Elrond - Friendly White Council models treat Elrond as a banner.
 
 Galadriel - Friendly White Council models within 3" of Galadriel gain the [Resistant to Magic] special rule.
 

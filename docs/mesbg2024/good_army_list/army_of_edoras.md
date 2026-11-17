@@ -13,6 +13,7 @@
 
 - [**Frealaf**](../forces_of_good/rohan.md#frealaf-100-points): 100 points
     - Horse: 20 points
+    - ~~Bow: 5 points~~
 - [**Haleth, Prince of Rohan**](../forces_of_good/rohan.md#haleth-prince-of-rohan-100-points): 100 points
     - Armoured horse: 25 points
     - <span style="color: darkmagenta">Throwing spears: 5 points</span>

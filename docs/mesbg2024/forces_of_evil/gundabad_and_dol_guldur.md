@@ -806,7 +806,7 @@ When a Troll Brute Tramples, it will inflict 2 Strength 10 Impact hits.
 
 ### FELL WARG [8 POINTS]
 
-**WARG | GUNDABAD | WARRIOR, INFANTRY, BEAST | 40MM**
+**WARG | GUNDABAD | WARRIOR, INFANTRY, BEAST | <span style="color: darkmagenta">40MM</span>**
 
 | Mv | Fv | Sv | S | D | A | W | C | I |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|

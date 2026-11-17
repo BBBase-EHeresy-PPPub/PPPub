@@ -36,7 +36,7 @@ This army may include: Aranarth; Arvedui, Last King of Arnor; Argadir; Captain o
 
 - **Chieftain of the Dunedain** `PASSIVE`
 
-If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a [banner].
+If your force includes Aranarth, you may include Ranger of the North and Dunedain as if they were from the Arnor army list, and they will gain the Arnor keyword. Additionally, friendly Rangers of the North and Dunedain within 6" of Aranarth count as being in range of a banner.
 
 </div>
 

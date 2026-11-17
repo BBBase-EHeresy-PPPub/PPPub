@@ -339,8 +339,6 @@ If Lindir is within 6" of Elrond, then Elrond may spend a single point of Will e
 
 **ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
 
-*<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
-
 <span style="color: darkmagenta">Arwen may be included in a Fellowship army as part of the Fellowship army list, so long as it also includes Aragorn - Strider.</span>
 
 | Mv | F | S | D | A | W | C | M | W | F |
@@ -387,8 +385,6 @@ Asfaloth is a [horse] with a Move Value of 12" instead of 10". The rider gains [
 ### CIRDAN [80 POINTS]
 
 **ELF, RIVENDELL, INFANTRY, HERO - MINOR HERO**
-
-*<span style="color: darkmagenta">MINOR HERO</span>, UNIQUE, 6 WARBAND*
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

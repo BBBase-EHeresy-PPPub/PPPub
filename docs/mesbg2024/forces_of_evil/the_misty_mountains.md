@@ -312,9 +312,7 @@ Instead of making Strikes, if he is within 6" of a Campfire, Bert may choose a s
 
 ### GOBLIN CAPTAIN [40 POINTS]
 
-**GOBLIN | GOBLIN-TOWN | HERO, INFANTRY | 25MM**
-
-*<span style="color: darkmagenta">HERO</span> OF FORTITUDE, 18 WARBAND*
+**GOBLIN | GOBLIN-TOWN | <span style="color: darkmagenta">HERO</span>, INFANTRY | 25MM**
 
 | Mv | Fv | Sv | S | D | A | W | C | I | M | W | F |
 |:--:|:--:|:--:|:-:|:-:|:-:|:-:|:--:|:--:|:-:|:-:|:-:|
@@ -761,9 +759,9 @@ Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are re
 
 Enemy models suffer a -1 penalty to any Courage Tests they are required to take.
 
-Friendly Moria Goblin models within 18" count as being in range of a [banner].
+Friendly Moria Goblin models within 18" count as being in range of a banner.
 
-Whilst being played, the Moria Goblin Drum counts as a [banner] for the purpose of Victory Points.
+Whilst being played, the Moria Goblin Drum counts as a banner for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 

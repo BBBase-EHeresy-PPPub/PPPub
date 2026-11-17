@@ -27,7 +27,7 @@
 
 **"The Grey Wanderer"** - Gandalf gains the [Fearless] special rule. Furthermore, friendly models within 3" of Gandalf cannot have their Courage value reduced by enemy Magical Powers or special rules.
 
-**"Lord of Imladris"** - Elrond may declare a [Heroic Strike] every Fight phase without expending Might. Additionally, other friendly models within 3" of Elrond count as being in range of a [banner].
+**"Lord of Imladris"** - Elrond may declare a [Heroic Strike] every Fight phase without expending Might. Additionally, other friendly models within 3" of Elrond count as being in range of a banner.
 
 **"Wisest of the Istari"** - Saruman can attempt to cast two Magical Powers each turn rather than one, but may not attempt to cast the same Magical Power twice or target the same model twice. Additionally, when other friendly models within 3" of Saruman attempt to cast a Magical Power, they may re-roll a single D6 as part of the casting attempt.
 

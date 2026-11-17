@@ -378,7 +378,7 @@ Frodo never charge enemies, and makes no strikes in a Fight.
 
 - **Home is the Hero** `PASSIVE`
 
-All Hobbit models within 6" count as being in range of a [banner]
+All Hobbit models within 6" count as being in range of a banner
 
 </div>
 
@@ -607,7 +607,7 @@ When rolling for Reinforcements, you may modify the roll for Robin's warband by 
 
 - **Mayor of Hobbiton** `ACTIVE`
 
-At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a [banner].
+At the start of the Fight phase, Will Whitfoot can spend a point of Will. If he does so, friendly Hobbit models within 6" count as being in range of a banner.
 
 </div>
 

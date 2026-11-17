@@ -156,7 +156,7 @@ Each time Khamul slays an enemy model in Combat, he immediately regains a single
 
 - **Commanding Presence** `PASSIVE`
 
-Friendly Khand models treat a Khandish King as a [banner] with a range of 6".
+Friendly Khand models treat a Khandish King as a banner with a range of 6".
 
 - **Khandish Chariot**
 
@@ -346,7 +346,7 @@ At the start of the Move Phase, before the Declare Heroic Actions step, the Betr
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a [banner] with a range of 6".
+At the start of the Fight Phase, before the Declare Heroic Actions step, the Dark Marshal may spend a Will Point to use this special rule. If he does, then until the End Phase of the turn, friendly Warrior models treat the Dark Marshal as a banner with a range of 6".
 
 </div>
 
@@ -1829,7 +1829,7 @@ Each time this model Charges into Combat, it will inflict a single Strength 4 hi
 
 - **Run and Drum** `ACTIVE`
 
-The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a [banner]. • Whilst being played, the Moria Blackshield Drum counts as a [banner] for the purpose of Victory Points.
+The Drum is considered to be playing as long as both the Drummer and Drum Bearer are in base contact, and the Drummer is not Engaged in Combat. Whilst the Drum is being played it has the following effects: • Friendly Moria Goblin models gain a bonus of +1 to any Courage Tests they are required to take. • Enemy models suffer a -1 penalty to any Courage Tests they are required to take. • Friendly Moria Goblin models within 18" count as being in range of a banner. • Whilst being played, the Moria Blackshield Drum counts as a banner for the purpose of Victory Points.
 
 - **Take up the Drum** `ACTIVE`
 

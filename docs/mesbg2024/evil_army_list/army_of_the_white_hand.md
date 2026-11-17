@@ -44,7 +44,7 @@
 - [**Dunlending Horseman**](../forces_of_evil/evil_legacy.md#dunlending-horseman-12-points): 12 points
 - [**Dunlending Huscarl**](../forces_of_evil/evil_legacy.md#dunlending-huscarl-11-points): 11 points
 - [**Dunlending Warrior**](../forces_of_evil/evil_legacy.md#dunlending-warrior-7-points): 7 points
-    - <span style="color: darkmagenta">Banner: 25 points</span>
+    - Banner: 25 points
     - Bow: 1 point
     - Shield: 1 point
     - Two-handed weapon: 1 point
@@ -70,7 +70,7 @@
 - [**Wild Man of Dunland**](../forces_of_evil/isengard.md#wild-man-of-dunland-5-points): 5 points
     - <span style="color: darkmagenta">Banner and light shield: 26 points</span>
     - <span style="color: darkmagenta">War horn and light shield: 26 points</span>
-    - Banner: 25 points
+    - <span style="color: darkmagenta">Banner: 25 points</span>
     - <span style="color: darkmagenta">War horn: 25 points</span>
     - Light shield and Flaming Brand: 2 points
     - Bow: 1 point

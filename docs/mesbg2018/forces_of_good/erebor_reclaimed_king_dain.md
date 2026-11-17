@@ -6,7 +6,7 @@ This army may include: Dain Ironfoot, King Under the Mountain; Dwalin the Dwarf,
 
 **"Will you follow me, one last time?"** - All models in this army list change their Iron Hills keyword for the Erebor keyword. All friendly Erebor Dwarf models from this army list gain the Du Bekar special rule.
 
-**"Du Bekar"** - A model with this special rule counts as being in range of a [banner] if they are within 6" of Dain Ironfoot, King Under the Mountain.
+**"Du Bekar"** - A model with this special rule counts as being in range of a banner if they are within 6" of Dain Ironfoot, King Under the Mountain.
 
 ## HEROES OF EREBOR RECLAIMED (KING DAIN)
 

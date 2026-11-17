@@ -30,4 +30,4 @@
 
 **"The Heir of Isildur"** - Aragorn does not have to pay any points for Andúril, Flame of the West, he automatically has this upgrade - it is free.
 
-**"Fight for us and Regain Your Honor"** - Spirit models from this army list count as being in range of a [banner] if Aragorn is within 6".
+**"Fight for us and Regain Your Honor"** - Spirit models from this army list count as being in range of a banner if Aragorn is within 6".

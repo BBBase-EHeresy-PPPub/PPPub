@@ -673,7 +673,7 @@ If Drummer and Bearer are in base contact, the drum is playing.
 
 - **Doom! Doom!** `ACTIVE`
 
-While the drum is playing, Fights within 12" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a [banner]. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules.
+While the drum is playing, Fights within 12" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a banner. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules.
 
 - **One Drum**
 
@@ -709,7 +709,7 @@ If a Drummer is slain, they may pass on their wargear to any unengaged Moria Gob
 
 - **Drums in the Deep** `ACTIVE`
 
-At least one Moria Goblin Drummer must have started the turn in base contact with the drum and must not be Engaged to play it. While playing, Fights within 18" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a [banner]. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules. The drum is a [Heavy Object] and cannot be played in a turn in which it moved.
+At least one Moria Goblin Drummer must have started the turn in base contact with the drum and must not be Engaged to play it. While playing, Fights within 18" that include at least one friendly Moria Goblin may re-roll one D6 for the Duel Roll; this does not stack with a banner. All friendly Moria Goblins on the battlefield gain +1 Courage and all enemies suffer -1 Courage; these modifiers do not stack with similar rules. The drum is a [Heavy Object] and cannot be played in a turn in which it moved.
 
 </div>
 

@@ -361,7 +361,7 @@ At the beginning of each Move Phase, before the Declare Heroic Actions Step, Sar
 
 - **Merry & Pippin** `PASSIVE`
 
-If this option is taken, then both Merry and Pippin will ride into battle on Treebeard, and will use the profiles given on [page 11](#meriadoc-brandybuck-10-points). They are still treated as individual models and will count towards the Army's total number of models and Break Point. Merry and Pippin are treated as Passengers (though this will not give Treebeard either the Cavalry or Mount keywords), with the exception that they cannot be targeted individually by shooting attacks, Magical Powers, or special rules, and Strikes cannot be made against them in Combat. Any shooting attacks that hit Treebeard do not need to make In The Way Tests - they will automatically hit Treebeard. Whilst riding Treebeard, Merry and Pippin may still use their [Throw Stones] special rule and will never count as having Moved. They can still do this even whilst Treebeard is Engaged in Combat. Unlike other Passengers, should Merry or Pippin dismount, they may remount Treebeard again by ending their Move in base contact with him. So long as at least one of Merry and Pippin remains on Treebeard, Treebeard has the [Resistant to Magic] special rule.
+If this option is taken, then both Merry and Pippin will ride into battle on Treebeard, and will use the profiles given on [page 11](#meriadoc-brandybuck-10-points). They are still treated as individual models and will count towards the Army's total number of models and Break Point. <span style="color: darkmagenta">Merry and Pippin are treated as Passengers (though this will not give Treebeard either the Cavalry or Mount keywords), with the exception that they cannot be targeted individually by shooting attacks, Magical Powers, or special rules, and Strikes cannot be made against them in Combat.</span> Any shooting attacks that hit Treebeard do not need to make In The Way Tests - they will automatically hit Treebeard. Whilst riding Treebeard, Merry and Pippin may still use their [Throw Stones] special rule and will never count as having Moved. They can still do this even whilst Treebeard is Engaged in Combat. Unlike other Passengers, should Merry or Pippin dismount, they may remount Treebeard again by ending their Move in base contact with him. So long as at least one of Merry and Pippin remains on Treebeard, Treebeard has the [Resistant to Magic] special rule.
 
 - **Bludgeon** `BRUTAL POWER ATTACK`
 
@@ -707,7 +707,7 @@ If your Army contains both Legolas Greenleaf and Gimli, son of Glóin, then keep
 
 - **Deadly Shot** `ACTIVE`
 
-Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).
+Legolas may make three shooting attacks during the Shoot Phase instead of one, using all the normal rules for shooting. <span style="color: darkmagenta">Additionally, Legolas may still make shooting attacks whilst he is Engaged in Combat if there are no other friendly models engaged in the same combat, and does not suffer the -1 penalty To Hit for Moving and Shooting so long as he has the Infantry keyword. If Legolas shoots whilst he is Engaged in Combat, he may shoot at enemy models he is Engaged in Combat with, and does not need to make In The Way Tests for shooting at models he is Engaged in Combat with (though they may still block Line of Sight as normal).</span>
 
 - **Pinpoint Shot** `ACTIVE`
 
@@ -968,7 +968,7 @@ Whilst within range of an Objective Marker, Farmer Maggot does not suffer the -1
 
 - **Loyal Hounds** `PASSIVE`
 
-Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whilst he is alive and on the battlefield. Additionally, Grip, Fang and Wolf treat Farmer Maggot as a [banner] with a range of 6", and may re-roll failed To Wound Rolls whilst within 6" of Farmer Maggot.
+Grip, Fang and Wolf will always use Farmer Maggot's Courage characteristic whilst he is alive and on the battlefield. Additionally, Grip, Fang and Wolf treat Farmer Maggot as a banner with a range of 6", and may re-roll failed To Wound Rolls whilst within 6" of Farmer Maggot.
 
 </div>
 
@@ -1090,7 +1090,7 @@ Frodo may never Charge enemy models under any circumstances. Additionally, Frodo
 
 - **Home is the Hero** `PASSIVE`
 
-Friendly Hobbit models treat Frodo as a [banner] with a range of 6".
+Friendly Hobbit models treat Frodo as a banner with a range of 6".
 
 </div>
 
@@ -1540,7 +1540,7 @@ Whilst Bilbo is wearing [the One Ring] and is [Invisible], enemy models Engaged 
 
 - **Official Meals** `PASSIVE`
 
-Friendly Fellowship models treat Bill the [Pony] as a [banner].
+Friendly Fellowship models treat Bill the [Pony] as a banner.
 
 - **Second Breakfast** `PASSIVE`
 
@@ -1743,7 +1743,7 @@ Whilst Sam is within 3" of Rosie, Sam may re-roll any failed To Wound Rolls when
 
 - **"Sweet Maiden of the Golden Ale"** `PASSIVE`
 
-Friendly Hobbit models treat Rosie Cotton as a [banner] with a range of 6". Additionally, so long as she is alive, Rosie will also count as a [banner] for the purpose of Victory Points in Scenarios that award Victory Points for having a [banner] left alive.
+Friendly Hobbit models treat Rosie Cotton as a banner with a range of 6". Additionally, so long as she is alive, Rosie will also count as a banner for the purpose of Victory Points in Scenarios that award Victory Points for having a banner left alive.
 
 </div>
 
@@ -1867,7 +1867,7 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 "Hey! Come Merry Doll!" - Choose a friendly model within 6" of Tom Bombadil. The chosen model immediately regains a single Wound lost earlier in the battle. A model may only be chosen by this song once per turn.
 
-"Hop along, my hearties!" - Until the end of the turn, friendly models that begin their Activation within 6" of Tom Bombadil may add 3" to their Move Value and will treat all areas of Difficult Terrain as Open Ground. A model may only be affected by this song once per turn.
+"Hop along, my hearties!" - Until the end of the turn, friendly models that begin their Activation within 6" of Tom Bombadil may add 3" to their Move Value and will treat all areas of Difficult Terrain as Open Ground. <span style="color: darkmagenta">A model may only be affected by this song once per turn.</span>
 
 "Wake now my merry lads!" - Choose a friendly model within 6" of Tom Bombadil. The chosen model immediately recovers from the effects of any enemy Magical Powers currently cast upon them. Additionally, until the end of the turn, the chosen model cannot be chosen as the target of any enemy Magical Powers or special rules.
 
@@ -1905,7 +1905,7 @@ At any point during his Activation, Tom may spend a Will Point to sing one of th
 
 - **Followers of the Bear** `PASSIVE`
 
-This model treats friendly Bear models as a [banner].
+This model treats friendly Bear models as a banner.
 
 </div>
 

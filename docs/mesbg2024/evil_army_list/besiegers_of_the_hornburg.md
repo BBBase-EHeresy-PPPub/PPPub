@@ -25,10 +25,10 @@
 
 - [**Crebain**](../forces_of_evil/isengard.md#crebain-20-points): 20 points
 - [**Hill Tribesman**](../forces_of_evil/the_hill_tribes.md#hill-tribesman-5-points): 5 points
-    - Banner and light shield: 26 points
-    - War horn and light shield: 26 points
-    - Banner: 25 points
-    - War horn: 25 points
+    - <span style="color: darkmagenta">Banner and light shield: 26 points</span>
+    - <span style="color: darkmagenta">War horn and light shield: 26 points</span>
+    - <span style="color: darkmagenta">Banner: 25 points</span>
+    - <span style="color: darkmagenta">War horn: 25 points</span>
     - Light shield and flaming brand: 2 points
     - Bow: 1 point
     - Flaming brand: 1 point

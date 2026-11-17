@@ -66,7 +66,7 @@ Friendly Dunland Warrior models within 6" of Freca gain a bonus of +1 to their F
 
 - **Claim the Throne** `PASSIVE`
 
-If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle friendly Dunland models treat Freca as a [banner] with a range of 6".
+If the enemy General is removed as a casualty whilst within 6" of Freca, then for the duration of the battle friendly Dunland models treat Freca as a banner with a range of 6".
 
 </div>
 
@@ -285,10 +285,10 @@ During a turn in which a Snow Troll Charges, it gains a bonus of +1 Attack and +
 
 **OPTIONS**
 
-- [Banner] and [Light Shield] - 26 points
-- [War Horn] and [Light Shield] - 26 points
-- [Banner] - 25 points
-- [War Horn] - 25 points
+- <span style="color: darkmagenta">[Banner] and [Light Shield] - 26 points</span>
+- <span style="color: darkmagenta">[War Horn] and [Light Shield] - 26 points</span>
+- <span style="color: darkmagenta">[Banner] - 25 points</span>
+- <span style="color: darkmagenta">[War Horn] - 25 points</span>
 - [Light Shield] and Flaming Brand - 2 points
 - [Bow] - 1 point
 - Flaming Brand - 1 point

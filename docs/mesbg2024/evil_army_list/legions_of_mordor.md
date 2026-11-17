@@ -117,11 +117,11 @@
     - Shield: 1 point
     - Spear: 1 point
 - <span style="color: darkmagenta">**Mordor Orc Warrior**: 5 points</span>
-    - Banner: 25 points
-    - Orc bow: 1 point
-    - Shield: 1 point
-    - Spear: 1 point
-    - Two-handed weapon: 1 point
+    - <span style="color: darkmagenta">Banner: 25 points</span>
+    - <span style="color: darkmagenta">Orc bow: 1 point</span>
+    - <span style="color: darkmagenta">Shield: 1 point</span>
+    - <span style="color: darkmagenta">Spear: 1 point</span>
+    - <span style="color: darkmagenta">Two-handed weapon: 1 point</span>
 - [**Mordor Troll**](../forces_of_evil/mordor.md#mordor-troll-90-points): 90 points
     - War drum (Mordor): 25 points
 - [**Watcher of Karna**](../forces_of_evil/evil_legacy.md#watcher-of-karna-9-points): 9 points

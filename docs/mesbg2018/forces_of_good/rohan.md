@@ -729,7 +729,7 @@ If this model is within 12" of Theoden and on a [horse], it receives +1 bonus to
 
 - **Westfold Redshield Upgrade**
 
-Riders of Rohan in Erkenbrand's Warband may be upgraded to Westfold Redshields. Westfold Redshields count as being in range of a [banner] while Erkenbrand is within 3".
+Riders of Rohan in Erkenbrand's Warband may be upgraded to Westfold Redshields. Westfold Redshields count as being in range of a banner while Erkenbrand is within 3".
 
 </div>
 

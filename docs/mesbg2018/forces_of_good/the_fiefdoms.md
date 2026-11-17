@@ -44,7 +44,7 @@ Imrahil's [Stand Fast!] Is 12" rather than 6".
 
 - **Dol Amroth for Gondor!** `PASSIVE`
 
-Friendly Fiefdom models within 12" of Imrahil count as being in range of a [banner].
+Friendly Fiefdom models within 12" of Imrahil count as being in range of a banner.
 
 </div>
 
@@ -289,7 +289,7 @@ Two handed [sword], and if they roll a natural 6 in the Duel roll, this model do
 
 - **The Honour of Lamedon** `PASSIVE`
 
-Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range of a [banner].
+Clansmen of Lamedon within 6" of Angbor the [Fearless] count as being in range of a banner.
 
 </div>
 

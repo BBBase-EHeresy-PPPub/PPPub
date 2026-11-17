@@ -104,7 +104,7 @@ For each of the four parts of this tower, a Lieutenant must be in base contact w
 
 - **The Banner of Dol Guldur** `PASSIVE`
 
-All friendly Gundabad models count as being in range of a [banner].
+All friendly Gundabad models count as being in range of a banner.
 
 - **The Banner of Gundabad** `PASSIVE`
 
@@ -120,7 +120,7 @@ A [War Horn] that also reduces the Courage of all enemy models by 1. This is not
 
 - **Summoning of the Hosts** `PASSIVE`
 
-All friendly Gundabad models count as being in range of a [banner].
+All friendly Gundabad models count as being in range of a banner.
 
 - **Destroying the Signal Tower** `PASSIVE`
 
@@ -330,7 +330,7 @@ Warbands that contain solely Goblin Mercenaries do not have to deploy at the sta
 
 - **Oblivious to Pain** `PASSIVE`
 
-Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the [Banner] of Angmar is manned on Azog's Signal Tower) the Wound is ignored. This is not cumulative with other special rules.
+Each time a Berserker suffers a Wound, roll a D6. On a 6 (or a 5+ if the Banner of Angmar is manned on Azog's Signal Tower) the Wound is ignored. This is not cumulative with other special rules.
 
 </div>
 

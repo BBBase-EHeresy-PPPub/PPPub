@@ -280,7 +280,7 @@ Tom loses a point of Will at the end of any turn where he participated in a Figh
 
 - **Followers of the Bear** `PASSIVE`
 
-This model counts as being in range of a [banner] if they are within 6" of a friendly Bear model.
+This model counts as being in range of a banner if they are within 6" of a friendly Bear model.
 
 </div>
 
@@ -289,7 +289,8 @@ This model counts as being in range of a [banner] if they are within 6" of a fri
 <div class="unitCard" markdown>
 
 ### BILL THE PONY [10 POINTS]
-*INDEPENDENT HERO*, UNIQUE*
+
+**INDEPENDENT HERO, UNIQUE**
 
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -303,7 +304,7 @@ This model counts as being in range of a [banner] if they are within 6" of a fri
 
 - **Official Meals** `PASSIVE`
 
-Hobbit models treat Bill the [Pony] as a [banner].
+Hobbit models treat Bill the [Pony] as a banner.
 
 - **Second Breakfast** `PASSIVE`
 

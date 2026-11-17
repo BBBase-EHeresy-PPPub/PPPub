@@ -52,4 +52,4 @@
 
  without spending Might. If successful, they must join their Trapped ally's fight if possible. If this is not possible, then they must move as close as possible to their Trapped ally.
 
-**"Royal Bloodlines"** - Friendly models within 3" of Dain Ironfoot, Thorin III Stonehelm, Brand, King of Dale and Bard II, Prince of Dale count as being in range of a [banner].
+**"Royal Bloodlines"** - Friendly models within 3" of Dain Ironfoot, Thorin III Stonehelm, Brand, King of Dale and Bard II, Prince of Dale count as being in range of a banner.

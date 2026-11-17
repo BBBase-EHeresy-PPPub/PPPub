@@ -22,7 +22,7 @@
 
 ## SPECIAL RULES
 
-**The Campfire** - After both Armies have been deployed, you may place the Campfire anywhere on the battlefield outside of your opponent's deployment zone. The Campfire is on an 80mm base, and must be placed flat on the battlefield. Friendly Troll models treat the Campfire as a [banner] with a range of 6", and gain the [Resistant to Magic] special rule and a bonus of +1 to any Courage Tests whilst within 6" of it.
+**The Campfire** - After both Armies have been deployed, you may place the Campfire anywhere on the battlefield outside of your opponent's deployment zone. The Campfire is on an 80mm base, and must be placed flat on the battlefield. Friendly Troll models treat the Campfire as a banner with a range of 6", and gain the [Resistant to Magic] special rule and a bonus of +1 to any Courage Tests whilst within 6" of it.
 
 **A Troll's Hoard** - The Three Trolls Army works in an unusual way in that they are allowed to purchase additional special rules. Each of the special rules listed below can be purchased for 50 points, allowing The Three Trolls to be taken at many different points values and not just at 400 points.
 
@@ -30,7 +30,7 @@
 
 **Stone Troll Endurance** - Each time Bill, Bert or Tom is wounded, roll a D6. On a natural 6, the Wound is ignored.
 
-**Nothing like a warm fire** - The range of the Campfire's effects are increased from 6" to 18". Additionally, as long as there are no enemy models in base contact with the Campfire at the end of the game, the Campfire will count as a [banner] for the purpose of Victory Points in Scenarios that award Victory Points for having a [banner] left alive.
+**Nothing like a warm fire** - The range of the Campfire's effects are increased from 6" to 18". Additionally, as long as there are no enemy models in base contact with the Campfire at the end of the game, the Campfire will count as a banner for the purpose of Victory Points in Scenarios that award Victory Points for having a banner left alive.
 
 **Rumbling Momentum** - Bill, Bert and Tom increase their Attacks to 4 on a turn in which they Charge.
 

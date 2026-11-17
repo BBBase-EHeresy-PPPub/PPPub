@@ -22,23 +22,23 @@
 **MINOR HEROES**
 
 - <span style="color: darkmagenta">**War Mumak of Harad**: 250 points</span>
-    - Rocks: 20 points
-    - Sigils of Defiance: 20 points
-    - Tusk Weapons: 20 points
-    - Foul Temperament: 15 points
-    - Rappelling Lines: 10 points
+    - <span style="color: darkmagenta">Rocks: 20 points</span>
+    - <span style="color: darkmagenta">Sigils of Defiance: 20 points</span>
+    - <span style="color: darkmagenta">Tusk Weapons: 20 points</span>
+    - <span style="color: darkmagenta">Foul Temperament: 15 points</span>
+    - <span style="color: darkmagenta">Rappelling Lines: 10 points</span>
 
 **WARRIORS**
 
 - [**Crebain**](../forces_of_evil/isengard.md#crebain-20-points): 20 points
 - <span style="color: darkmagenta">**Haradrim Warrior**: 6 points</span>
-    - Bow: 1 point
-    - Spear: 1 point
+    - <span style="color: darkmagenta">Bow: 1 point</span>
+    - <span style="color: darkmagenta">Spear: 1 point</span>
 - [**Hill Tribesman**](../forces_of_evil/the_hill_tribes.md#hill-tribesman-5-points): 5 points
-    - Banner and light shield: 26 points
-    - War horn and light shield: 26 points
-    - Banner: 25 points
-    - War horn: 25 points
+    - <span style="color: darkmagenta">Banner and light shield: 26 points</span>
+    - <span style="color: darkmagenta">War horn and light shield: 26 points</span>
+    - <span style="color: darkmagenta">Banner: 25 points</span>
+    - <span style="color: darkmagenta">War horn: 25 points</span>
     - Light shield and flaming brand: 2 points
     - Bow: 1 point
     - Flaming brand: 1 point

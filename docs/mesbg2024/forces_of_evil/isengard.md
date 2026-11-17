@@ -229,7 +229,7 @@ Whilst he has the Cavalry keyword, whenever Sharku Charges he increases his Figh
 
 - **With Me Lads!** `PASSIVE`
 
-Other friendly Ruffian models treat Sid as a [banner].
+Other friendly Ruffian models treat Sid as a banner.
 
 - **Put 'em in Chains** `ACTIVE`
 
@@ -1034,10 +1034,10 @@ An Uruk-Hai Warrior must have one of the following options for the listed points
 
 **OPTIONS**
 
-- [Banner] and [Light Shield] - 26 points
-- [War Horn] and [Light Shield] - 26 points
-- [Banner] - 25 points
-- [War Horn] - 25 points
+- <span style="color: darkmagenta">[Banner] and [Light Shield] - 26 points</span>
+- <span style="color: darkmagenta">[War Horn] and [Light Shield] - 26 points</span>
+- <span style="color: darkmagenta">[Banner] - 25 points</span>
+- <span style="color: darkmagenta">[War Horn] - 25 points</span>
 - [Light Shield] and Flaming Brand - 2 points
 - [Bow] - 1 point
 - [Light Shield] - 1 point

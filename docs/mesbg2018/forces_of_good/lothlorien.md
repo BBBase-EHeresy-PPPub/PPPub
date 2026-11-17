@@ -115,8 +115,6 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 **ELF, LORIEN, INFANTRY, HERO - HERO OF VALOUR**
 
-*<span style="color: darkmagenta">HERO OF VALOUR</span>, UNIQUE, 15 WARBAND*
-
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 6/3+ | 4 | 4 | 2 | 2 | 6 | 3 | 1 | 1 |
@@ -144,7 +142,7 @@ Celeborn's [Stand Fast!] Is 12" rather than 6".
 
 - **Allies 'til the end** `PASSIVE`
 
-When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a [banner], and passes all courage tests.
+When within 12" of either Aragorn or Theoden, Haldir counts as being in range of a banner, and passes all courage tests.
 
 - **One Final Blow** `ACTIVE`
 

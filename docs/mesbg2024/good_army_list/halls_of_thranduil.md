@@ -46,4 +46,4 @@
 
 **"The Elves of Mirkwood are not like their kin. They are less wise, and more dangerous"** - Friendly Mirkwood Warrior models within 3" of Thranduil gain a bonus of +1 to Wound when making Strikes.
 
-**Stoic Command** - Friendly Warrior models treat your General as a [banner].
+**Stoic Command** - Friendly Warrior models treat your General as a banner.

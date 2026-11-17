@@ -34,10 +34,10 @@
 
 ## ADDITIONAL RULES
 
-- An Army of Thror Army may have up to 50% of its Warrior models armed with [throwing] weapons rather than the usual 33%.
+- <span style="color: darkmagenta">An Army of Thror Army may have up to 50% of its Warrior models armed with [throwing] weapons rather than the usual 33%.</span>
 
 ## SPECIAL RULES
 
-**Thror ruled with utter surety** - Friendly Erebor models treat Thror as a [banner] with a range of 6".
+**Thror ruled with utter surety** - Friendly Erebor models treat Thror as a banner with a range of 6".
 
 **Erebor Treasure Hoard** - Friendly Erebor models gain a bonus of +1 To Wound when making Strikes against an enemy model that is in possession of an Objective Marker. Additionally, Friendly Erebor models that are within their deployment zone may re-roll To Wound Rolls of a natural 1 when making Strikes.

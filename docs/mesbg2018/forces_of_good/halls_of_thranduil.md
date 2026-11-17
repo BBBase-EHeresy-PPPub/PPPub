@@ -292,7 +292,7 @@ If Kili the Dwarf, Champion of Erebor is in your army and killed, Tauriel gains 
 
 - **King's Knights** `PASSIVE`
 
-Whilst mounted, Mirkwood Cavalry count as being in range of a [banner] if they are within 6" of Thranduil.
+Whilst mounted, Mirkwood Cavalry count as being in range of a banner if they are within 6" of Thranduil.
 
 </div>
 

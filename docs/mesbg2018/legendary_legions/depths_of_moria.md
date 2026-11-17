@@ -31,4 +31,4 @@
 
 **"Dominion of the Balrog"** - Friendly Goblin models within 6" of the Balrog gain a bonus of +1 to their Fight value. Additionally, this army will never be considered Broken so long as the Balrog has 6 or more Wounds remaining. Should the Balrog have 5 or fewer Wounds remaining, then the army will Break as normal. If the Balrog is slain, the army will immediately count as Broken.
 
-**"Drums in the Deep"** - The effects of a Moria Goblin or Moria Blackshield Drum are increased from 18" to battlefield wide. Additionally, so long as the Drum and at least one Drummer are alive, then the Drum will count as a [banner] for the purposes of Victory Points in Scenarios that award Victory Points for having a [banner] left alive.
+**"Drums in the Deep"** - The effects of a Moria Goblin or Moria Blackshield Drum are increased from 18" to battlefield wide. Additionally, so long as the Drum and at least one Drummer are alive, then the Drum will count as a banner for the purposes of Victory Points in Scenarios that award Victory Points for having a banner left alive.

@@ -51,6 +51,6 @@
 
 **Alliance of Men and Dwarves** - Friendly Dale models may re-roll To Wound Rolls of a natural 1 when making Strikes if there is a friendly Erebor model Engaged in the same Combat. Friendly Erebor models may re-roll To Wound Rolls of a natural 1 when making Strikes if there is a friendly Dale model Engaged in the same Combat.
 
-**Lords of the Kingdoms** - Friendly Dale models treat Girion as a [banner]. Friendly Erebor models treat Thrór as a [banner].
+**Lords of the Kingdoms** - Friendly Dale models treat Girion as a banner. Friendly Erebor models treat Thrór as a banner.
 
 **Great Prosperity** - Whenever a friendly Hero model spends a Might Point, roll a D6. On a natural 6, the Might Point was free and does not reduce the Hero model's store of Might.

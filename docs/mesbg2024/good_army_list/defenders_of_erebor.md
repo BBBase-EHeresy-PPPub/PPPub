@@ -61,4 +61,4 @@
 
 **The Heirs to the Kingdoms** - At the beginning of the Fight Phase, at the start of the Declare Heroic Actions step, if either Thorin or Bard would be considered Trapped then the other may declare a Herolc Combat for free. If this [Heroic Combat] is successful, then Thorin or Bard must use the following Move to Join the other's Combat. If this is not possible, then Thorin or Bard must Move as close as possible to the other. A model cannot use this special rule if they are in the same Combat as the other.
 
-**Royal Bloodlines** - Friendly models treat each of Dáin, Thorin, Brand and Bard as a [banner].
+**Royal Bloodlines** - Friendly models treat each of Dáin, Thorin, Brand and Bard as a banner.

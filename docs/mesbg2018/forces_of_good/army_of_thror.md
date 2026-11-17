@@ -4,7 +4,7 @@ This army may include: Thror; Thrain; Young Thorin Oakenshield; Captain of Erebo
 
 ## ARMY BONUS
 
-**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a [banner] if Thror is within 6".
+**"Thror ruled with utter surety, never doubting his house would endure"** - Friendly Erebor Dwarf models count as being in range of a banner if Thror is within 6".
 
 ## HEROES OF ARMY OF THROR
 

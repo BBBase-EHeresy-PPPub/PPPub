@@ -59,8 +59,6 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 
 **MAN, MAHUD, INFANTRY, HERO - HERO OF VALOUR**
 
-*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
-
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 6" | 5/3+ | 5 | 5 | 3 | 2 | 5 | 2 | 2 | 1 |
@@ -167,7 +165,7 @@ Heroic Moves within 12" can be cancelled by a D6 landing on 4+.
 
 - **Awesome Presence** `PASSIVE`
 
-Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with [Banner] re-rolls.
+Friendly Haradrim and Mahud models within 3" may re-roll a Single D6 in the Duel Roll, and is cumulative with Banner re-rolls.
 
 - **Trample**
 

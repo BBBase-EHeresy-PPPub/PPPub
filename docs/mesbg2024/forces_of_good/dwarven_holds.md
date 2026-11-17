@@ -132,7 +132,7 @@ This is a Unique Elven [hand-and-a-half] weapon. Orcrist has the Orcbane, Goblin
 
 - **Du Bekar** `PASSIVE`
 
-Friendly Dwarf models treat Thorin as a [banner].
+Friendly Dwarf models treat Thorin as a banner.
 
 - **Ancestral Fury** `ACTIVE`
 

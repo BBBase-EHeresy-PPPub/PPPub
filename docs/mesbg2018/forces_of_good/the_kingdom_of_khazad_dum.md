@@ -63,8 +63,6 @@ The protection of this armour is already included in Durin's Defence of 9.
 
 **DWARF, KHAZAD-DUM, INFANTRY, HERO - HERO OF VALOUR**
 
-*<span style="color: darkmagenta">HERO OF VALOUR</span>, 15 WARBAND*
-
 | Mv | F | S | D | A | W | C | M | W | F |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5" | 6/4+ | 4 | 8 | 2 | 2 | 6 | 2 | 2 | 1 |

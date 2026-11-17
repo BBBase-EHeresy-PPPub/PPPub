@@ -48,7 +48,7 @@ This army may include: Sharkey and Worm; Sid Briarthorn, Ruffian Chief; Bill Fer
 
 - **With Me Lads!** `PASSIVE`
 
-Other friendly Ruffian models treat Sid as a [banner].
+Other friendly Ruffian models treat Sid as a banner.
 
 - **Put 'em in Chains** `ACTIVE`
 

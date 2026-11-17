@@ -349,7 +349,7 @@ At the start of the Move phase, he may spend one point of Will to activate this 
 
 - **Rule Through Fear** `PASSIVE`
 
-At the start of a fight phase, he may choose to spend one point of Will to turn himself into a [banner] for all friendly Warrior models within 6", for the rest of that turn.
+At the start of a fight phase, he may choose to spend one point of Will to turn himself into a banner for all friendly Warrior models within 6", for the rest of that turn.
 
 </div>
 

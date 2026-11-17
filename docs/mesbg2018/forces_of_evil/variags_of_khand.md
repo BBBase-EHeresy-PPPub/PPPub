@@ -39,7 +39,7 @@ This army may include: Khandish King; Khandish Chieftain; Khandish Charioteer; K
 
 - **Commanding Presence** `PASSIVE`
 
-Friendly Khandish models within 6" of a Khandish King count as being in range of a [banner].
+Friendly Khandish models within 6" of a Khandish King count as being in range of a banner.
 
 - **Khandish Chariot**
 
