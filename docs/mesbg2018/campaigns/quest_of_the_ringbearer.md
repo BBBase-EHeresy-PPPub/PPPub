@@ -548,7 +548,7 @@ When the Fellowship reaches the woodland realm of Lothlórien, they are presente
 
 **Gimli - Galadriel's Locks** `ACTIVE` - Gimli may re-roll all dice in a Duel roll. Gimli may only use this ability three times per game.
 
-**Boromir - Golden Belt** `ACTIVE` - The bearer gains the Woodland Creature special rule.
+**Boromir - Golden Belt** `ACTIVE` - The bearer gains the [Woodland Creature] special rule.
 
 **HELM'S DEEP**
 

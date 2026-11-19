@@ -52,7 +52,7 @@ For example, if the Good side is victorious in 'The Paths of Cirith Ungol' Scena
 
 **Good Victory:** In 'The Bravery of Master Samwise' Scenario, whilst Sam is within 3" of the webbed Frodo Marker he gains a bonus of +1 to his Duel Rolls.
 
-**Evil Victory:** In 'The Bravery of Master Samwise' Scenario, if Shelob ever passes her Courage Test for her Survival Instinct special rule on the roll of a natural double, then the Wound is negated.
+**Evil Victory:** In 'The Bravery of Master Samwise' Scenario, if Shelob ever passes her Courage Test for her [Survival Instinct] special rule on the roll of a natural double, then the Wound is negated.
 
 ### (8) [THE BRAVERY OF MASTER SAMWISE](../scenarios/the_treachery_of_gollum.md#the-bravery-of-master-samwise)
 

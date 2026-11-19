@@ -374,7 +374,7 @@ If they do not move, models in the Howdah may make a Shooting attack with a rang
 
 - **Sigils of Defiance**
 
-Models in the Howdah gain the Resistant to Magic special rule. Additionally, every time a model in the Howdah suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if a point of Fate had been expended.
+Models in the Howdah gain the [Resistant to Magic] special rule. Additionally, every time a model in the Howdah suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if a point of Fate had been expended.
 
 - **Tusk Weapons**
 

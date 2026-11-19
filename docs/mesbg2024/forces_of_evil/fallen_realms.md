@@ -784,7 +784,7 @@ If they do not Move in their Activation, models in the Howdah can make a shootin
 
 - **Sigils of Defiance** `PASSIVE`
 
-The Mumak and any models in the Howdah gain the     Resistant to Magic, and whenever they suffer a Wound they may roll a D6. On a natural 6, the Wound is prevented.
+The Mumak and any models in the Howdah gain the     [Resistant to Magic], and whenever they suffer a Wound they may roll a D6. On a natural 6, the Wound is prevented.
 
 - **Tusk Weapons** `ACTIVE`
 

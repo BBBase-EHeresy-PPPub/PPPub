@@ -177,7 +177,7 @@ Uruk-hai Grog - Small (2) (Hero only) - 4 Influence Points
 
 **'Vicious Battle Scars'** - The ferocity of the Warg is well-documented by the array of scars and flesh wounds it possesses. Such viciousness is enough to strike fear into the hearts of those that must face this fearsome creature.
 
-The Hero model's mount (or itself if the Hero is a Wild Warg) causes Terror.
+The Hero model's mount (or itself if the Hero is a Wild Warg) causes [Terror].
 
 **REINFORCEMENTS**
 
@@ -318,7 +318,7 @@ Every time this Hero suffers a Wound in combat that would result in it being sla
 
 **'Backstabber'** - When its victim is unable to escape, the Hero becomes even more deadly, viciously hacking at their foe until their life has ebbed away.
 
-The Hero gains the 'Backstabbers' special rule.
+The Hero gains the '[Backstabbers]' special rule.
 
 **REINFORCEMENTS**
 
@@ -539,7 +539,7 @@ A Warrior of Kârna has a Shoot value of 3+, instead of 4+.
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**Master of the Haunted City** - The hero has spent much time within the walls of Kârna, giving them a strange and mysterious aura about them. The Hero causes Terror.
+**Master of the Haunted City** - The hero has spent much time within the walls of Kârna, giving them a strange and mysterious aura about them. The Hero causes [Terror].
 
 **REINFORCEMENTS**
 

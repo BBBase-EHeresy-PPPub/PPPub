@@ -58,7 +58,7 @@
 
 ## SPECIAL RULES
 
-**Tyrannical Rule** - Friendly Orc Hero models may benefit from Gothmog's Stand Fast.
+**Tyrannical Rule** - Friendly Orc Hero models may benefit from Gothmog's [Stand Fast].
 
 **Ruthless Assault** - Friendly Orc models may re-roll To Wound rolls of a natural 1 when making Strikes against a Trapped model.
 

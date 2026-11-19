@@ -124,7 +124,7 @@ This model gains a bonus of +1 to its Fight value on a turn in which it Charges.
 - 2x Warrior of Rohan with throwing spear & shield
 - 2x Warrior of Rohan with bow
 
-All Hero models gain the Horse Lord special rule.
+All Hero models gain the [Horse Lord] special rule.
 
 **ADVANCEMENTS**
 
@@ -276,7 +276,7 @@ A Rangers of the North Battle Company may have 100% of its models armed with a b
 
 **Dangerous Folk** - The Rangers of the North are a dangerous folk that wander the wilderness to the north, mastering every path and honing their skills.
 
-This model gains the Woodland Creature special rule. Additionally, whilst on foot, this model adds 1 to their Attacks characteristic.
+This model gains the [Woodland Creature] special rule. Additionally, whilst on foot, this model adds 1 to their Attacks characteristic.
 
 **REINFORCEMENTS**
 
@@ -682,7 +682,7 @@ A Wanderers in the Wild Battle Company may have up to 50% of their models armed 
 
 **ARMY SPECIFIC HERO UPGRADE**
 
-**'Away from prying eyes'** - The Hero's time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *Stalk Unseen* special rule.
+**'Away from prying eyes'** - The Hero's time spent wandering the paths of Middle-earth has made them a master in finding hidden paths and remaining unseen. The Hero gains the *[Stalk Unseen]* special rule.
 
 **REINFORCEMENTS**
 

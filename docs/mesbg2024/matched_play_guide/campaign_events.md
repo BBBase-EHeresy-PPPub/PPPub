@@ -51,7 +51,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **SPECIAL RULE**
 
-**Protection of the Elves:** Whilst fighting a battle in Eriador, all models gain the Resistant to Magic special rule.
+**Protection of the Elves:** Whilst fighting a battle in Eriador, all models gain the [Resistant to Magic] special rule.
 
 **Campaign Bonus:** If your faction controls Eriador, then Hero models in your Army may re-roll results of a 1 when making Fate Rolls.
 
@@ -59,7 +59,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **SPECIAL RULE**
 
-**Home of the Horse Lords:** Whilst fighting a battle in Rohan, all Hero models gain the Horse Lord special rule.
+**Home of the Horse Lords:** Whilst fighting a battle in Rohan, all Hero models gain the [Horse Lord] special rule.
 
 **Campaign Bonus:** If your faction controls Rohan, then whenever a Mount in your Army suffers a Wound, roll a D6. On a 5+ that wound is ignored.
 
@@ -69,7 +69,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Stand and Fight:** Whilst fighting a battle in Rhovanion, all models must re-roll failed Courage Tests for being Broken.
 
-**Campaign Bonus:** If your faction controls Rhovanion, your General gains the Fearless special rule.
+**Campaign Bonus:** If your faction controls Rhovanion, your General gains the [Fearless] special rule.
 
 ## MORDOR
 
@@ -77,7 +77,7 @@ Each of the Regions that can be fought over has its own special rules that apply
 
 **Eye of Sauron:** Whilst fighting a battle in Mordor, the Eye of Sauron will be watching. At the start of the game, place a 25mm marker in the centre of the board - this is where the Eye of Sauron is focused. During the Priority Phase, after Priority has been determined, the player with Priority may move the marker up to 6". Good models within 3" of the marker suffer a -1 penalty to any Courage Tests they are required to take. Evil models within 3" of the marker may re-roll To Wound rolls of a natural 1 when making Strikes.
 
-**Campaign Bonus:** If your faction controls Mordor, then Hero models in your Army gain the Terror special rule.
+**Campaign Bonus:** If your faction controls Mordor, then Hero models in your Army gain the [Terror] special rule.
 
 ## HARADWAITH
 

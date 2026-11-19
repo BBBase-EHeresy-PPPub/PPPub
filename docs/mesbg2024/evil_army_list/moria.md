@@ -8,7 +8,7 @@
 
 - [**Dragon**](../forces_of_evil/the_misty_mountains.md#dragon-200-points): 200 points
     - Breathe Fire: 50 points
-    - Fly: 50 points
+    - [Fly]: 50 points
     - Superior Intellect: 50 points
     - Tough Hide: 50 points
     - Wyrm Magic: 50 points

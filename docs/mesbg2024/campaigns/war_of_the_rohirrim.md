@@ -40,7 +40,7 @@ For example, if the Good side is victorious in the 'An Enemy Revealed' Scenario,
 
 ### (5) [LORD THORNE'S BETRAYAL](../scenarios/war_of_the_rohirrim.md#lord-thornes-betrayal)
 
-**Good Victory:** In the 'Streets of Edoras' Scenario, Haleth and Háma both gain the Hatred (Dunland) special rule.
+**Good Victory:** In the 'Streets of Edoras' Scenario, Haleth and Háma both gain the [Hatred] (Dunland) special rule.
 
 **Evil Victory:** In the 'Streets of Edoras' Scenario, the Haradrim Commander begins the game with an additional point each of Might, Will and Fate.
 

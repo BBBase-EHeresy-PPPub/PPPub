@@ -78,7 +78,7 @@ After each Scenario has been completed, it is important to note down which side 
 
 **Good Victory:** In the Burning of Mirkwood Scenario, Razgûsh starts the game with only a single point of Might.
 
-**Evil Victory:** In the Burning of Mirkwood Scenario, Orc models gain the Poisoned Weapons special rule for all of their weapons.
+**Evil Victory:** In the Burning of Mirkwood Scenario, Orc models gain the [Poisoned Weapons] special rule for all of their weapons.
 
 #### (3) [ATTACK ON THE BEORNINGS](../scenarios/defence_of_the_north.md#attack-on-the-beornings)
 

@@ -54,7 +54,7 @@ future.
 
 ### (8) [THE BATTLE FOR PELARGIR](../scenarios/gondor_at_war.md#the-battle-for-pelargir)
 
-**Good Victory:** In The Docks of Harlond Scenario, the King of the Dead gains the Harbinger of Evil special rule.
+**Good Victory:** In The Docks of Harlond Scenario, the King of the Dead gains the [Harbinger of Evil] special rule.
 
 **Evil Victory:** In The Docks of Harlond Scenario, the Evil player may have an additional 12 Morannon Orcs in their force.
 
@@ -103,7 +103,7 @@ spear.
 
 ### (16) [THE HORSE AND THE SERPENT](../scenarios/gondor_at_war.md#the-horse-and-the-serpent)
 
-**Good Victory:** In the Death of the King Scenario, Théoden gains the Resistant to Magic special rule.
+**Good Victory:** In the Death of the King Scenario, Théoden gains the [Resistant to Magic] special rule.
 
 **Evil Victory:** In the Death of the King Scenario, the Witch-king gains a bonus of +1 to all Casting rolls.
 

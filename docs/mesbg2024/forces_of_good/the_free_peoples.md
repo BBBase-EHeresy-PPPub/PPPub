@@ -622,7 +622,7 @@ At the beginning of his Activation, Grimbeorn can change his form from Man to Be
 
 - **Leader of the Beornings** `PASSIVE`
 
-Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
+Only Beorning models can benefit from Grimbeorn's Heroic Actions or [Stand Fast].
 
 ---
 
@@ -660,7 +660,7 @@ At the beginning of his Activation, Grimbeorn the Bear can change his form from 
 
 - **Leader of the Beornings** `PASSIVE`
 
-Only Beorning models can benefit from Grimbeorn's Heroic Actions or Stand Fast.
+Only Beorning models can benefit from Grimbeorn's Heroic Actions or [Stand Fast].
 
 - **Crushing Strength** `BRUTAL POWER ATTACK`
 
@@ -1254,7 +1254,7 @@ When an enemy model attempts to Charge Lotho, Lotho may spend a Will Point to us
 
 - **To me, Shire-folk!** `ACTIVE`
 
-Paladin's [Stand Fast] has a range of 12"; however, only friendly Hobbit models may benefit from Paladin's Stand Fast.
+Paladin's [Stand Fast] has a range of 12"; however, only friendly Hobbit models may benefit from Paladin's [Stand Fast].
 
 - **For Tuckborough!** `PASSIVE`
 

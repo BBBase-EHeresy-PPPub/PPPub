@@ -133,7 +133,7 @@ Easterlings can use pike and shield without penalty. If an Easterling model lose
 
 - **The Gleaming Horde** `ACTIVE`
 
-While mounted, gain the Shieldwall rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
+While mounted, gain the [Shieldwall] rule. The +1 Defence applies to both rider and mount. Hero models don't need a shield.
 
 </div>
 

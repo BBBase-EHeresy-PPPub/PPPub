@@ -56,6 +56,6 @@
 
 **"This'll be a night to remember"** - Friendly models may re-roll failed Courage Tests. Additionally, friendly models cannot have their Courage Tests reduced by the special rules or Magical Powers of enemy models.
 
-**The Grey Wizard** - Friendly models may benefit from Gandalf's Stand Fast. Additionally, Gandalf may use two fireworks each Shoot Phase rather than one, though they must be different fireworks and target different models.
+**The Grey Wizard** - Friendly models may benefit from Gandalf's [Stand Fast]. Additionally, Gandalf may use two fireworks each Shoot Phase rather than one, though they must be different fireworks and target different models.
 
 **A Long-expected Party** - Friendly models will pass a Fate Roll on a 3+ rather than a 4+. Additionally, friendly models may re-roll failed Fate Rolls.

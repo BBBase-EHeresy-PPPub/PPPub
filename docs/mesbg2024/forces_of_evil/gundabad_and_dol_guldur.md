@@ -59,7 +59,7 @@ When Azog makes Strikes against an enemy Hero, he may choose to use this special
 
 - **Pack Master** `PASSIVE`
 
-Once the White Warg is separated from Azog, only Warg models may benefit from its Heroic Actions or Stand Fast.
+Once the White Warg is separated from Azog, only Warg models may benefit from its Heroic Actions or [Stand Fast].
 
 </div>
 

@@ -35,7 +35,7 @@ Any Hero may embark on the Path of the Warrior.
 |-----|--------|
 | 2 | **Parry** - The Hero may force their opponent to re-roll a single D6 when making a Duel roll against this Hero. |
 | 3 | **Hero Slayer** - This Hero gains a bonus of +1 when rolling To Wound against Hero models. |
-| 4 | **Deadly Strength** - This Hero gains the Burly special rule. Additionally, the Hero may now purchase a two-handed weapon from the Armoury even if they could not previously. |
+| 4 | **Deadly Strength** - This Hero gains the [Burly] special rule. Additionally, the Hero may now purchase a two-handed weapon from the Armoury even if they could not previously. |
 | 5 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 5. |
 | 6 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
 | 7 | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 6. |
@@ -83,7 +83,7 @@ Any Hero may embark on the Path of the General.
 | 9 | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
 | 10 | **Might/Will** - The Hero may either gain +1 Might point (to a maximum of 3), or +1 Will point (to a maximum of 3). |
 | 11 | **Heroic Resolve/March** - The Hero may now use the Heroic Resolve and Heroic March Heroic Actions in addition to any others they have access to. |
-| 12 | **Master of Battle** - The Hero gains the Master of Battle (2+) special rule. |
+| 12 | **Master of Battle** - The Hero gains the [Master of Battle] (2+) special rule. |
 
 ### PATH OF THE KNIGHT
 
@@ -94,10 +94,10 @@ Only Cavalry Hero models may embark on the Path of the Knight. If an Infantry mo
 | 2D6 | Result |
 |-----|--------|
 | 2 | **Effortless Leap** - Whilst mounted, the Hero may add 2 to any Jump tests they make. |
-| 3 | **Fearsome Charge** - Whilst mounted, when this Hero charges into combat, they gain the Terror special rule until the end of the turn. |
-| 4 | **Horse Lord** - The Hero gains the Horse Lord special rule. |
+| 3 | **Fearsome Charge** - Whilst mounted, when this Hero charges into combat, they gain the [Terror] special rule until the end of the turn. |
+| 4 | **Horse Lord** - The Hero gains the [Horse Lord] special rule. |
 | 5 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 5. |
-| 6 | **Expert Rider** - The Hero gains the Expert Rider special rule. |
+| 6 | **Expert Rider** - The Hero gains the [Expert Rider] special rule. |
 | 7 | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 6. |
 | 8 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
 | 9 | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
@@ -114,10 +114,10 @@ Hero models that are wearing heavy armour may not embark on the Path of the Scou
 | 2D6 | Result |
 |-----|--------|
 | 2 | **Merge into Shadow** - If the Hero is obscured from view, they cannot be seen or targeted from distances greater than 6". |
-| 3 | **Fell Sight** - The Hero gains the Fell Sight special rule. |
+| 3 | **Fell Sight** - The Hero gains the [Fell Sight] special rule. |
 | 4 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 5. |
 | 5 | **Throwing Daggers** - The Hero gains a set of Throwing Daggers, even if they could not normally have them. |
-| 6 | **Poisoned Blades** - The Hero gains the Poisoned Weapons special rule for all of their weapons. |
+| 6 | **Poisoned Blades** - The Hero gains the [Poisoned Weapons] special rule for all of their weapons. |
 | 7 | **Fight/Shoot** - The Hero may improve their Fight value or Shoot value by 1, up to a maximum value of 6 or 3+ respectively. |
 | 8 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 2. |
 | 9 | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
@@ -135,9 +135,9 @@ Any Hero may embark on the Path of the Adventurer.
 |-----|--------|
 | 2 | **Wilderness Experience** - The Hero may re-roll any Jump, Climb, Leap or Swim tests. |
 | 3 | **Master of Ambush** - In Scenarios where you roll for additional forces to arrive (such as those that use the Reinforcement rule), you receive a bonus of +1 to the dice roll for this Hero model's warband. If this Hero is already on the board then all warbands in your army receive a +1 bonus to the dice roll. In Scenarios where you roll to see which part of the board your warbands deploy in, you may modify the dice roll by +1 or -1. |
-| 4 | **Fearless** - The Hero gains the Fearless special rule. |
+| 4 | **Fearless** - The Hero gains the [Fearless] special rule. |
 | 5 | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 5. |
-| 6 | **Stalk Unseen** - The Hero gains the Stalk Unseen special rule. |
+| 6 | **Stalk Unseen** - The Hero gains the [Stalk Unseen] special rule. |
 | 7 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Their Attacks value may not exceed 2, and their Wounds value may not exceed 3. |
 | 8 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 6. |
 | 9 | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
@@ -156,7 +156,7 @@ Any Hero may embark on the Path of the Sorcerer. However, a Battle Company may o
 | 2 | **Master of Magic** - The Hero may re-roll 1s when making Casting or Resist tests. |
 | 3 | **Instill Fear** - The Hero gains the Instill Fear Magical Power; this is cast on a 5+. If this result is rolled for a second time, improve its Casting value to 4+. |
 | 4 | **Wound** - The Hero may increase their Wounds value by 1 to a maximum of 3. |
-| 5 | **Resistant to Magic** - The Hero gains the Resistant to Magic special rule. |
+| 5 | **Resistant to Magic** - The Hero gains the [Resistant to Magic] special rule. |
 | 6 | **Heroic Channelling** - The Hero may now use the Heroic Channelling Heroic Action in addition to any others they have access to. |
 | 7 | **Immobilise/Transfix** - The Hero improves their Immobilise/Transfix Magical Power; this is now cast on a 4+. If this result is rolled for a second time, improve its Casting value to 3+. |
 | 8 | **Might/Will** - The Hero may either gain +1 Might point (to a maximum of 1), or +1 Will point (to a maximum of 4). |
@@ -173,11 +173,11 @@ Warg, Bat and Spider models may only ever embark on the Path of the Beast. Only 
 
 | 2D6 | Result |
 |-----|--------|
-| 2 | **Harbinger of Evil** - The Hero gains the Harbinger of Evil special rule. |
-| 3 | **Fell Sight** - The Hero gains the Fell Sight special rule. |
+| 2 | **Harbinger of Evil** - The Hero gains the [Harbinger of Evil] special rule. |
+| 3 | **Fell Sight** - The Hero gains the [Fell Sight] special rule. |
 | 4 | **Courage** - The Hero increases their Courage value by 1 to a maximum of 5. |
 | 5 | **Fight** - The Hero may increase their Fight value by 1, up to a maximum value of 5. |
-| 6 | **Terror** - The Hero gains the Terror special rule. |
+| 6 | **Terror** - The Hero gains the [Terror] special rule. |
 | 7 | **Attack/Wound** - The Hero may increase either their Attacks or Wounds value by 1. Neither their Attacks nor Wounds value may exceed 3. |
 | 8 | **Strength/Defence** - The Hero may increase their Strength or Defence value by 1. Each one can only be improved once. |
 | 9 | **Bestial Charge** - The Hero gains the Knock to the Ground and Extra Attack bonuses when it charges, exactly as if it was a Cavalry model. |

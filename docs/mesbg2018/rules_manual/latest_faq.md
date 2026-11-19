@@ -858,13 +858,13 @@ A: Yes, however, should they fail their Courage test they will still be removed 
 
 ---
 
-**Q: Do Uruk-hai Scouts that are upgraded to be Mauhúr's Marauders still gain the Woodland Creature special rule from the Isengard Army Bonus? (Armies of The Lord of the Rings, p.166)**
+**Q: Do Uruk-hai Scouts that are upgraded to be Mauhúr's Marauders still gain the [Woodland Creature] special rule from the Isengard Army Bonus? (Armies of The Lord of the Rings, p.166)**
 
 A: Yes, they are still Uruk-hai Scouts after all.
 
 ---
 
-**Q: Do Uruk-hai Drummers gain the Woodland Creature special rule from the Isengard Army Bonus? (Armies of The Lord of the Rings, p.166)**
+**Q: Do Uruk-hai Drummers gain the [Woodland Creature] special rule from the Isengard Army Bonus? (Armies of The Lord of the Rings, p.166)**
 
 A: Yes.
 
@@ -2046,7 +2046,7 @@ A: Yes. Official Errata, August 2023 The following errata correct errors in War 
 
 * **Page 63 - Orophin**
 
-  - Add the Woodland Creature special rule.
+  - Add the [Woodland Creature] special rule.
 
 * **Page 69 - Beornings - Wargear**
 

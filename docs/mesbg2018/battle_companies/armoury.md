@@ -107,7 +107,7 @@ Any member of the same Battle Company as a model carrying a Company Standard, th
 
 *These strange cloaks are a rare find, able to shield the wearer from unfriendly eyes allowing them to remain unseen.*
 
-A model wearing a Concealing Cloak has the Stalk Unseen special rule.
+A model wearing a Concealing Cloak has the [Stalk Unseen] special rule.
 
 ---
 
@@ -195,7 +195,7 @@ At the start of each turn that the **Hero** is alive, roll a D6 before Priority 
 
 *Warriors will use torches to light the way in caves or the dark of night. They can also be unconventional yet effective weapons in times of great desperation.*
 
-A model with a Torch illuminates the area within 6" of them; models within this area can be seen as if it were daylight. Additionally, a model with a Torch can use it to attempt to set their foes on fire. If this model wins a Duel roll, they may choose to not make any Strikes and instead roll a D6. On a 6, the model that lost the Duel roll suffers the Set Ablaze special rule.
+A model with a Torch illuminates the area within 6" of them; models within this area can be seen as if it were daylight. Additionally, a model with a Torch can use it to attempt to set their foes on fire. If this model wins a Duel roll, they may choose to not make any Strikes and instead roll a D6. On a 6, the model that lost the Duel roll suffers the [Set Ablaze] special rule.
 
 ---
 
@@ -345,7 +345,7 @@ If a Battle Company hires a Wandering Dwarf, they will count as a **Hero** that 
 
 **Wargear:** Axe & shield.
 
-**Special Rules: Mountain Dweller.**
+**Special Rules: [Mountain Dweller].**
 
 ---
 
@@ -361,7 +361,7 @@ If a Battle Company hires a Wandering Elf, they will count as a **Hero** that ca
 
 **Wargear:** Elven-made hand-and-a-half sword, Elf bow.
 
-**Special Rules: Woodland Creature.**
+**Special Rules: [Woodland Creature].**
 
 ---
 
@@ -383,9 +383,9 @@ Creatures can never gain Experience Points, cannot be bought wargear or Equipmen
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 3" | 2/6+ | 3 | 3 | 1 | 1 | 3 |
 
-- **Special Rules:** Fly
+- **Special Rules:** [Fly]
 
-- **Keen Sight** - Enemy models within 12" of a Falcon that is separate from its **Hero** may not benefit from the Stalk Unseen special rule.
+- **Keen Sight** - Enemy models within 12" of a Falcon that is separate from its **Hero** may not benefit from the [Stalk Unseen] special rule.
 
 A Falcon starts the game upon the arm of its master rather than on the board. At the start of any turn in which the Falcon is on their **Hero** model's arm, the **Hero** may release the Falcon - place it anywhere within 3" of the **Hero**. Whilst separate from its **Hero**, the Falcon may move independently. If, during the End phase of any turn, a Falcon is within 3" of their **Hero**, it may choose to land back on their **Hero** model's arm. Remove the Falcon from the board. Whilst upon the **Hero** model's arm, the Falcon cannot be targeted, attacked or hit with shooting attacks, and will not provide an In The Way roll for their **Hero**.
 
@@ -427,7 +427,7 @@ Only **Hero** models that have the **Man** or **Hobbit **keyword may take a Hunt
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 | 3" | 2/6+ | 2 | 2 | 1 | 1 | 3 |
 
-**Special Rules:** Fly
+**Special Rules:** [Fly]
 
 **Herald of Durin** - Friendly **Dwarf** models within 6" of a Raven that is separate from its **Hero**, that can draw Line of Sight to it, count as being in range of a banner.
 

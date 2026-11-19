@@ -112,7 +112,7 @@ At the end of each Expansion phase, a Battle Company that controls the Brandywin
 
 ![](../media/battle_companies/cirith_ungol_symbol.jpg){ width=24 height=33 } **CIRITH UNGOL**
 
-If a Battle Company controls Cirith Ungol then all of the models within the company benefit from the Poisoned Weapons special rule for all of their weapons.
+If a Battle Company controls Cirith Ungol then all of the models within the company benefit from the [Poisoned Weapons] special rule for all of their weapons.
 
 ![](../media/battle_companies/dead_marshes_symbol.jpg){ width=33 height=30 } **DEAD MARSHES**
 
@@ -136,7 +136,7 @@ At the start of each Battle phase, a Battle Company that controls Erech rolls a 
 
 ![](../media/battle_companies/fangorn_symbol.jpg){ width=32 height=23 } **FANGORN**
 
-All models in a Battle Company that controls Fangorn gain the Woodland Creature special rule.
+All models in a Battle Company that controls Fangorn gain the [Woodland Creature] special rule.
 
 ![](../media/battle_companies/fornost_symbol.jpg){ width=31 height=31 } **FORNOST**
 
@@ -156,7 +156,7 @@ Models in a Battle Company that controls the Icebay of Forochel gain a bonus of 
 
 ![](../media/battle_companies/iron_hills_symbol.jpg){ width=27 height=34 } **IRON HILLS**
 
-All models in a Battle Company that controls the Iron Hills gain the Mountain Dweller special rule.
+All models in a Battle Company that controls the Iron Hills gain the [Mountain Dweller] special rule.
 
 ![](../media/battle_companies/isengard_symbol.jpg){ width=18 height=30 } **ISENGARD**
 
@@ -180,7 +180,7 @@ A Battle Company that controls Lake-town may purchase wargear and Equipment (wit
 
 ![](../media/battle_companies/lothlorien_symbol.jpg){ width=66 height=66 } **LOTHLÓRIEN**
 
-All models in a Battle Company that controls Lothlórien gain the Woodland Creature special rule.
+All models in a Battle Company that controls Lothlórien gain the [Woodland Creature] special rule.
 
 ![](../media/battle_companies/minas_tirith_symbol.jpg){ width=24 height=35 } **MINAS TIRITH**
 
@@ -192,7 +192,7 @@ At the start of each Battle phase, a Battle Company that controls Mirkwood rolls
 
 ![](../media/battle_companies/moria_symbol.jpg){ width=34 height=31 } **MORIA**
 
-All models in a Battle Company that controls Moria gain the Mountain Dweller special rule.
+All models in a Battle Company that controls Moria gain the [Mountain Dweller] special rule.
 
 ![](../media/battle_companies/mount_doom_symbol.jpg){ width=33 height=33 } **MOUNT DOOM**
 
@@ -204,7 +204,7 @@ At the start of each Battle phase, a Battle Company that controls Osgiliath/Mina
 
 ![](../media/battle_companies/rhosgobel_symbol.jpg){ width=33 height=21 } **RHOSGOBEL**
 
-All models in a Battle Company that controls Rhosgobel gain the Resistant to Magic special rule.
+All models in a Battle Company that controls Rhosgobel gain the [Resistant to Magic] special rule.
 
 ![](../media/battle_companies/the_shire_symbol.jpg){ width=31 height=31 } **THE SHIRE**
 

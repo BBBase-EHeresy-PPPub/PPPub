@@ -42,7 +42,7 @@ After each Scenario has been completed, note down which side won that Scenario, 
 
 **Good Victory:** In the 'Ride Out From Helm's Deep' Scenario, Théoden may declare a Heroic Combat each turn for free.
 
-**Evil Victory:** In the 'Ride Out From Helm's Deep' Scenario, Good models may not benefit from their Horse Lord special rule.
+**Evil Victory:** In the 'Ride Out From Helm's Deep' Scenario, Good models may not benefit from their [Horse Lord] special rule.
 
 ### (6) [WALLS OF HELM'S DEEP](../scenarios/the_burning_of_the_westfold.md#walls-of-helms-deep)
 
@@ -70,6 +70,6 @@ After each Scenario has been completed, note down which side won that Scenario, 
 
 ### (10) [PATHS OF THE DRÚADAN](../scenarios/the_burning_of_the_westfold.md#paths-of-the-druadan)
 
-**Good Victory:** In the 'Ride of the Rohirrim' Scenario, Good models gain the Hatred (Orc) special rule.
+**Good Victory:** In the 'Ride of the Rohirrim' Scenario, Good models gain the [Hatred] (Orc) special rule.
 
 **Evil Victory:** In the 'Ride of the Rohirrim' Scenario, Gothmog may declare a Heroic Action each turn for free.

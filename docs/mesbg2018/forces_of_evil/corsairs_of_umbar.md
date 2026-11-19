@@ -357,7 +357,7 @@ Giant wooden [shield] that provides +3 Defence, so long as the model is not enga
 
 - **Mindless Killers** `ACTIVE`
 
-If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must take a Courage test. If failed, it must charge the nearest enemy. If no enemies are in range, it must charge the nearest friendly model. If no friendlies are in range, it must move 6" towards the nearest enemy. Whilst in this rampage, the reaver also gains +1 in To Wound rolls and does not take Courage tests for charging Terror-causing models.
+If a Reaver starts it's move at least 6" away from a Corsair Bo'sun, it must take a Courage test. If failed, it must charge the nearest enemy. If no enemies are in range, it must charge the nearest friendly model. If no friendlies are in range, it must move 6" towards the nearest enemy. Whilst in this rampage, the reaver also gains +1 in To Wound rolls and does not take Courage tests for charging [Terror]-causing models.
 
 </div>
 

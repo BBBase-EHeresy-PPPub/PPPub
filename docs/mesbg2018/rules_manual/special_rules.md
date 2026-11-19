@@ -104,7 +104,7 @@ Additionally, they may target models with the Stalk Unseen special rule with no 
 
 `ACTIVE`
 
-A model that has this special rule, and the Woodland Creature special rule, will also apply the effects of Woodland Creature to their mount, so the whole model treats woodland terrain as clear terrain for the purposes of movement.
+A model that has this special rule, and the [Woodland Creature] special rule, will also apply the effects of [Woodland Creature] to their mount, so the whole model treats woodland terrain as clear terrain for the purposes of movement.
 
 ### FLY
 
