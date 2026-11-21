@@ -36,7 +36,7 @@
 - [**Rivendell Warrior**](../forces_of_good/elven_kingdoms.md#rivendell-warrior-9-points): 9 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Shield and Elven Spear: 2 points
+    - Shield and [Elven][Elven Weapon] [Spear]: 2 points
     - Shield: 1 point
     - Upgrade to King's Guard: 1 point
 

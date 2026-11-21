@@ -49,8 +49,8 @@
     - War horn and Elf Bow: 27 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Shield and Elven Spear: 2 points
-    - Elven Spear: 1 point
+    - Shield and [Elven][Elven Weapon] [Spear]: 2 points
+    - [Elven][Elven Weapon] [Spear]: 1 point
     - Shield: 1 point
 - [**Rohan Royal Guard**](../forces_of_good/rohan.md#rohan-royal-guard-11-points): 11 points
     - Throwing Spears: 2 points

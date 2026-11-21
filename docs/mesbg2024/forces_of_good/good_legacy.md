@@ -236,7 +236,7 @@ During the Declare Heroic Actions step of the Fight Phase, if a friendly Dwarf G
 
 - **Noldorin Daggers** `ACTIVE`
 
-These are Elven hand weapons, which Erestor may also use as Elven [throwing weapons][Throwing Weapon]. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
+These are [Elven hand weapons][Elven Weapon], which Erestor may also use as [Elven][Elven Weapon] [throwing weapons][Throwing Weapon]. Erestor may re-roll To Wound rolls of a natural 1 when making Strikes or when making Shooting Attacks with these weapons.
 
 </div>
 
@@ -708,14 +708,14 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- Elven [Throwing Weapons][Throwing Weapon] - 2 points
+- [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon] - 2 points
 - Wood Elf [Spear] - 1 point
 
 **SPECIAL RULES**
@@ -724,7 +724,7 @@ Whilst within 3" of Prince Imrahil, this model gains a bonus of +1 to their Figh
 
 - **Wood Elf spear** `ACTIVE`
 
-This is an Elven [spear]. Additionally, a model armed with a Wood Elf [Spear] may use the [Shielding] rule even though they do not have a [shield].
+This is an [Elven][Elven Weapon] [spear]. Additionally, a model armed with a Wood Elf [Spear] may use the [Shielding] rule even though they do not have a [shield].
 
 </div>
 

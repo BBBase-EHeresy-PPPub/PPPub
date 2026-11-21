@@ -220,7 +220,7 @@ Whilst the Marker is in play, this model counts as on the board for the purpose 
 **WARGEAR**
 
 - [Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 

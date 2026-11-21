@@ -115,8 +115,8 @@ If this model is outnumbered in a Combat, then before making their Duel Roll the
 
 One of the following options:
 
-- [Shield](battlehost_quickstart_rules_guide.md#shields) and [Elven Spear](battlehost_quickstart_rules_guide.md#spears)
-- [Elven Spear](battlehost_quickstart_rules_guide.md#spears)
+- [Shield](battlehost_quickstart_rules_guide.md#shields) and [Elven](battlehost_quickstart_rules_guide.md#elven-weapons) [Spear](battlehost_quickstart_rules_guide.md#spears)
+- [Elven](battlehost_quickstart_rules_guide.md#elven-weapons) [Spear](battlehost_quickstart_rules_guide.md#spears)
 - [Shield](battlehost_quickstart_rules_guide.md#shields)
 
 </div>

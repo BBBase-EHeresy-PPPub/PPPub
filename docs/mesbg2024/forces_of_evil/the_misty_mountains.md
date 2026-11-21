@@ -149,7 +149,7 @@ During the Shoot Phase, if the Goblin King is in base contact with a friendly Go
 
 - **Blubbery Mass** `PASSIVE`
 
-Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is prevented. Wounds caused by Magical Powers or Elven weapons in Combat ignore this special rule. Wounds caused by Elven missile weapons will cause the Goblin King to suffer a -1 penalty to this roll.
+Each time the Goblin King suffers a Wound, roll a D6. On a 3+ the Wound is prevented. Wounds caused by Magical Powers or [Elven weapons][Elven Weapon] in Combat ignore this special rule. Wounds caused by [Elven missile weapons][Elven Weapon] will cause the Goblin King to suffer a -1 penalty to this roll.
 
 </div>
 

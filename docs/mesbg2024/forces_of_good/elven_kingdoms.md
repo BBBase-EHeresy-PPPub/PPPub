@@ -85,7 +85,7 @@ Any Galadhrim Warriors upgraded to Lorien Guard in Galadriel's warband may re-ro
 
 - **Aiglos** `ACTIVE`
 
-This is a Unique Elven [spear]. Additionally, a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
+This is a Unique [Elven][Elven Weapon] [spear]. Additionally, a model wielding Aiglos gains a bonus of +1 To Wound when making Strikes.
 
 - **High King of the Elves** `ACTIVE`
 
@@ -113,7 +113,7 @@ Any Rivendell Warriors upgraded to King's Guard in Gil-Galad's warband will have
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -256,7 +256,7 @@ Any Galadhrim Warriors upgraded to Lorien Guard in Celeborn's warband may re-rol
 
 - **Hadhafang** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 - **Vilya** `PASSIVE`
 
@@ -349,7 +349,7 @@ If Haldir is slain in Combat, he may immediately make a single Strength 4 Strike
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **Deadly Shot** `ACTIVE`
 
@@ -375,7 +375,7 @@ Instead of shooting normally, Legolas may make a single shooting attack against 
 
 **WARGEAR**
 
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -402,7 +402,7 @@ Instead of shooting normally, Legolas may make a single shooting attack against 
 
 - **Hadhafang** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, a model wielding Hadhafang gains a bonus of +1 To Wound when making Strikes against a Spirit model.
 
 - **Asfaloth**
 
@@ -497,9 +497,9 @@ Whilst he has the Infantry Keyword, Elladan can choose to fight in one of the th
 
 Elladan can fight with 3 Attacks rather than 2.
 
-Elladan can use his Elven weapons as Elven [hand-and-a-half weapons][Hand-and-a-half Weapon].
+Elladan can use his [Elven weapons][Elven Weapon] as [Elven][Elven Weapon] [hand-and-a-half weapons][Hand-and-a-half Weapon].
 
-Elladan can use his Elven weapons to parry, which counts as [Shielding].
+Elladan can use his [Elven weapons][Elven Weapon] to parry, which counts as [Shielding].
 
 - **Strength of Brotherhood** `ACTIVE`
 
@@ -547,9 +547,9 @@ Whilst he has the Infantry Keyword, Elrohir can choose to fight in one of the th
 
 Elrohir can fight with 3 Attacks rather than 2.
 
-Elrohir can use his Elven weapons as Elven [hand-and-a-half weapons][Hand-and-a-half Weapon].
+Elrohir can use his [Elven weapons][Elven Weapon] as [Elven][Elven Weapon] [hand-and-a-half weapons][Hand-and-a-half Weapon].
 
-Elrohir can use his Elven weapons to parry, which counts as [Shielding].
+Elrohir can use his [Elven weapons][Elven Weapon] to parry, which counts as [Shielding].
 
 - **Strength of Brotherhood** `ACTIVE`
 
@@ -603,7 +603,7 @@ Whilst within 3" of Elladan, Elrohir gains the [Dominant] (2) special rule and m
 
 **WARGEAR**
 
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 
 **HEROIC ACTIONS**
 
@@ -644,7 +644,7 @@ If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a fre
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - [Elf Bow]
 - [Elven Cloak]
 
@@ -673,7 +673,7 @@ If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a fre
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven Glaive
+- [Elven][Elven Weapon] Glaive
 
 **HEROIC ACTIONS**
 
@@ -685,7 +685,7 @@ If Elrond is within 6" of Lindir at the start of a turn, then Elrond gains a fre
 
 - **Elven Glaive** `ACTIVE`
 
-This is an Elven [spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
+This is an [Elven][Elven Weapon] [spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
 
 </div>
 
@@ -704,7 +704,7 @@ This is an Elven [spear]. Additionally, a model armed with this weapon that is E
 **WARGEAR**
 
 - [Elf Bow]
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 - [Elven Cloak]
 
 **HEROIC ACTIONS**
@@ -807,7 +807,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 
 **HEROIC ACTIONS**
 
@@ -815,7 +815,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 
 **OPTIONS**
 
-- [Horse], [Elf Bow] and Elven [Lance] - 30 points
+- [Horse], [Elf Bow] and [Elven][Elven Weapon] [Lance] - 30 points
 - [Shield] - 5 points
 
 **SPECIAL RULES**
@@ -840,7 +840,7 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 - [Shield]
 
 **HEROIC ACTIONS**
@@ -915,7 +915,7 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 **WARGEAR**
 
 - Galadhrim Steed
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - [Heavy Armour]
 
 **OPTIONS**
@@ -956,7 +956,7 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon],
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon],
 - [Heavy Armour]
 
 **OPTIONS**
@@ -964,8 +964,8 @@ If your Army also includes Kíli, and he is removed as a casualty, then Tauriel'
 - [War Horn] and [Elf Bow] - 27 points
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- [Shield] and Elven [Spear] - 2 points
-- Elven [Spear] - 1 point
+- [Shield] and [Elven][Elven Weapon] [Spear] - 2 points
+- [Elven][Elven Weapon] [Spear] - 1 point
 - [Shield] - 1 point
 - Lorien Guard - 1 point
 
@@ -994,11 +994,11 @@ Galadhrim Warriors in Galadriel's or Celeborn's Warband upgraded to Lorien Guard
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Pike]
+- [Elven][Elven Weapon] [Pike]
 
 **OPTIONS**
 
-- Exchange Elven [Pike] for [Banner] and Elven [Hand Weapon] - 25 points
+- Exchange [Elven][Elven Weapon] [Pike] for [Banner] and [Elven][Elven Weapon] [Hand Weapon] - 25 points
 
 **SPECIAL RULES**
 
@@ -1006,7 +1006,7 @@ Galadhrim Warriors in Galadriel's or Celeborn's Warband upgraded to Lorien Guard
 
 - **Caras Galadhon Fighting Style** `ACTIVE`
 
-This model may use the [Shielding] rule with their Elven [pike]. All of the usual rules for [Shielding] still apply, chiefly that a model using the [Shielding] rule cannot be Supported by another model, not even another Guard of the Galadhrim Court.
+This model may use the [Shielding] rule with their [Elven][Elven Weapon] [pike]. All of the usual rules for [Shielding] still apply, chiefly that a model using the [Shielding] rule cannot be Supported by another model, not even another Guard of the Galadhrim Court.
 
 </div>
 
@@ -1024,14 +1024,14 @@ This model may use the [Shielding] rule with their Elven [pike]. All of the usua
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - [Elven Cloak]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- Elven [Throwing Weapons][Throwing Weapon] - 2 points
+- [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon] - 2 points
 - Wood Elf [Spear] - 1 point
 - Noldorin Exile - 1 point
 
@@ -1041,7 +1041,7 @@ This model may use the [Shielding] rule with their Elven [pike]. All of the usua
 
 - **Wood Elf spear** `ACTIVE`
 
-This is an Elven [spear]. Additionally, a model armed with a Wood Elf [Spear] may use the [Shielding] rule even though they do not have a [shield].
+This is an [Elven][Elven Weapon] [spear]. Additionally, a model armed with a Wood Elf [Spear] may use the [Shielding] rule even though they do not have a [shield].
 
 - **Noldorin Exile**
 
@@ -1065,7 +1065,7 @@ Lothlorien Warriors in Gildor's Warband must be upgraded to Noldorin Exiles. Rep
 
 - [Heavy Armour]
 - [Horse]
-- Elven [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapons][Hand-and-a-half Weapon]
 
 **SPECIAL RULES**
 
@@ -1093,14 +1093,14 @@ Whilst they have the Cavalry keyword, this model gains a bonus of +1 to their Fi
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
 A Mirkwood Elf Warrior must have one of the following options for the listed points cost:
 
 - [Elf Bow] - 2 points
-- Elven Glaive - 2 points
+- [Elven][Elven Weapon] Glaive - 2 points
 - [Shield] - 1 point
 
 **SPECIAL RULES**
@@ -1109,7 +1109,7 @@ A Mirkwood Elf Warrior must have one of the following options for the listed poi
 
 - **Elven Glaive** `ACTIVE`
 
-This is an Elven [spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
+This is an [Elven][Elven Weapon] [spear]. Additionally, a model armed with this weapon that is Engaged in Combat and is not being Supported may either gain a bonus of +1 Attacks for their Duel Roll, or +1 Attacks when making Strikes. This must be decided before the Duel Roll takes place.
 
 </div>
 
@@ -1128,7 +1128,7 @@ This is an Elven [spear]. Additionally, a model armed with this weapon that is E
 **WARGEAR**
 
 - [Elf Bow]
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 - [Elven Cloak]
 
 **SPECIAL RULES**
@@ -1157,15 +1157,15 @@ If Outnumbered in Combat, then before making their Duel roll, this model gains +
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
 A Palace Guard must have one of the following options for the listed points cost:
 
-- [Shield] and Elven [Spear] - 2 points
+- [Shield] and [Elven][Elven Weapon] [Spear] - 2 points
 - [Shield] - 1 point
-- Elven [Spear] - 1 point
+- [Elven][Elven Weapon] [Spear] - 1 point
 
 **SPECIAL RULES**
 
@@ -1193,14 +1193,14 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Lance]
+- [Elven][Elven Weapon] [Lance]
 - [Horse]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - [Elf Bow]
 
 **OPTIONS**
 
-- Exchange Elven [Lance] for [Banner] - 25 points
+- Exchange [Elven][Elven Weapon] [Lance] for [Banner] - 25 points
 - [Shield] - 1 point
 
 **SPECIAL RULES**
@@ -1225,13 +1225,13 @@ Whilst within 3" of Thranduil, this model gains a bonus of +1 to their Fight val
 **WARGEAR**
 
 - [Heavy Armour]
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 
 **OPTIONS**
 
 - [Banner] - 25 points
 - [Elf Bow] - 2 points
-- [Shield] and Elven [Spear] - 2 points
+- [Shield] and [Elven][Elven Weapon] [Spear] - 2 points
 - [Shield] - 1 point
 - King's Guard - 1 point
 
@@ -1259,7 +1259,7 @@ Rivendell Warriors in Gil-galad's Warband upgraded to King's Guard have Fight 6.
 
 **WARGEAR**
 
-- Elven [Hand Weapon]
+- [Elven][Elven Weapon] [Hand Weapon]
 - [Elf Bow]
 - [Elven Cloak]
 

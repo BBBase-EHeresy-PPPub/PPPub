@@ -265,7 +265,7 @@ This is a Unique piece of [Mithril Armour]. Additionally, the wearer may re-roll
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique [Elven][Elven Weapon] [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 

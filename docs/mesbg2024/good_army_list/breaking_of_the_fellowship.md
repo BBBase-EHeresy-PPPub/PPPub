@@ -44,7 +44,7 @@
 - [**Lothlorien Warrior**](../forces_of_good/elven_kingdoms.md#lothlorien-warrior-8-points): 8 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Elven Throwing Weapons: 2 points
+    - [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon]: 2 points
     - Wood Elf Spear: 1 point
 
 </div>
@@ -61,8 +61,8 @@
 
 Frodo - Light of Earendil - ACTIVE - At the start of each of his Activations, Frodo may roll a D6. On a 3+, Frodo counts as having Cast the [Blinding Light] Magical Power.
 Sam - Elven Rope - ACTIVE - Sam always counts as rolling a 6 for any Climb, Leap or Jump Tests he is required to make.
-Merry & Pippin - Daggers of the Noldorin - ACTIVE - These are Elven hand weapons. Whilst wielding these weapons, Merry and Pippin may re-roll failed To Wound rolls when making Strikes.
-Aragorn - Elven [Dagger] - ACTIVE - This is an Elven [hand weapon] with the Uruk-haibane special rule.
+Merry & Pippin - Daggers of the Noldorin - ACTIVE - These are [Elven hand weapons][Elven Weapon]. Whilst wielding these weapons, Merry and Pippin may re-roll failed To Wound rolls when making Strikes.
+Aragorn - [Elven][Elven Weapon] [Dagger] - ACTIVE - This is an [Elven][Elven Weapon] [hand weapon] with the Uruk-haibane special rule.
 Legolas - [Bow] of the Galadhrim - ACTIVE - Whilst within 3" of a friendly Lothlórien model, Legolas may re-roll failed To Hit rolls when making shooting attacks.
 Gimli - Galadriel's Locks - ACTIVE - Gimli may use this Wargear to re-roll a single D6 in a Duel Roll. Gimli may only use this Wargear three times during the course of the game.
 Boromir - Golden Belt - ACTIVE - Boromir gains the [Woodland Creature] special rule.

@@ -128,7 +128,7 @@ Any Khazad Guard in Durin's Warband upgraded to Hearthguard have the [Burly] spe
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **Du Bekar** `PASSIVE`
 
@@ -501,7 +501,7 @@ At the start of any phase, before the Declare Heroic Actions step, if Kili and F
 
 - **Glamdring** `ACTIVE`
 
-Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
+[Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Gandalf gains a bonus of +1 Strength when making strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -642,7 +642,7 @@ Whenever Thorin declares a Heroic Action, roll a D6. On a 5+, the Heroic Action 
 
 - **Orcrist** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Orcrist has the Orcbane, Goblinbane and Uruk-haibane special rules. Additionally, the wielder of Orcrist has the [Terror] (Orc), [Terror] (Goblin) and [Terror] (Uruk-hai) special rules.
 
 - **The Oakenshield** `ACTIVE`
 
@@ -905,7 +905,7 @@ If Bifur wins a Duel Roll, then he may choose to headbutt an enemy model instead
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique [Elven][Elven Weapon] [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **It has not yet Awoken** `PASSIVE`
 

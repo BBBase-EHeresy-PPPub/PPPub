@@ -340,7 +340,7 @@ If Theoden is Engaged in a Fight within 12", Deorwine may call a [Heroic Combat]
 
 - **Pinpoint Accuracy** `ACTIVE`
 
-Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a throwing [spear], and never suffers the -1 penalty when moving and shooting with a throwing [spear].
+Elfhem may re-roll To Hit, To Wound and In The Way rolls when using a [throwing][Throwing Weapon] spear, and never suffers the -1 penalty when moving and shooting with a [throwing][Throwing Weapon] spear.
 
 </div>
 

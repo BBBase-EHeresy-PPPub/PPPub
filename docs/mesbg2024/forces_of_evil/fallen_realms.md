@@ -191,7 +191,7 @@ The range of Suladân's [Stand Fast] is 12" rather than 6".
 
 - **The Emperor's Glaive** `ACTIVE`
 
-This is a Unique Elven [spear]. Additionally, the Dragon Emperor may use it to use the [Shielding] rule even though he does not have a [shield]. The Dragon Emperor cannot Support whilst mounted upon his Royal Palanquin.
+This is a Unique [Elven][Elven Weapon] [spear]. Additionally, the Dragon Emperor may use it to use the [Shielding] rule even though he does not have a [shield]. The Dragon Emperor cannot Support whilst mounted upon his Royal Palanquin.
 
 - **Emperor of the Easterlings** `ACTIVE`
 
@@ -292,7 +292,7 @@ Friendly Easterling models treat Amdûr as a banner. If Amdûr slays the enemy G
 
 - **Durtuz, the Silver Falchion** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Additionally, when making Strikes against an enemy Hero model, a roll of a natural 5+ will always Wound the target, regardless of the Hero model's Defence.
 
 - **Phalanx** `ACTIVE`
 

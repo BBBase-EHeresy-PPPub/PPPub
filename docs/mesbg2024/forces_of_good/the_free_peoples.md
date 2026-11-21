@@ -43,7 +43,7 @@ This is a Unique piece of Wargear. Whenever Aragorn is affected by a Magical Pow
 
 - **Andúril, Flame of the West** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. Whenever Aragorn makes Strikes with Andúril, he never requires more than a 4+ when rolling To Wound. If Aragorn uses Andúril as a [two-handed weapon][Two-handed Weapon], then he will still gain the bonus of +1 when rolling To Wound, meaning he will Wound on a 3+.
 
 **BREGO**
 
@@ -108,7 +108,7 @@ If Brego's rider would be knocked Prone whilst riding Brego, and Brego is not sl
 
 - **Glamdring** `ACTIVE`
 
-This is a Unique Elven [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
+This is a Unique [Elven][Elven Weapon] [hand-and-a-half weapon][Hand-and-a-half Weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Glamdring.
 
 - **Narya** `PASSIVE`
 
@@ -1046,7 +1046,7 @@ This is a Unique piece of [Mithril armour]. Additionally, the wearer may re-roll
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique [Elven][Elven Weapon] [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 </div>
 
@@ -1372,7 +1372,7 @@ Instead of making Strikes if he wins a Duel Roll, Sam may choose to use his Fryi
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique [Elven][Elven Weapon] [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **"There's some good in this world, Mr Frodo, and it's worth fighting for"** `ACTIVE`
 
@@ -1510,7 +1510,7 @@ This is a Unique piece of [Mithril armour]. Additionally, the wearer may re-roll
 
 - **Sting** `ACTIVE`
 
-This is a Unique Elven [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
+This is a Unique [Elven][Elven Weapon] [hand weapon]. A model gains a bonus of +1 to their Strength when making Strikes with Sting.
 
 - **Slip Away** `PASSIVE`
 

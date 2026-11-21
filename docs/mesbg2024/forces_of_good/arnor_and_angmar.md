@@ -83,7 +83,7 @@ At the start of a Combat involving Eärnur, before any Heroic Strikes are resolv
 
 **WARGEAR**
 
-- Elven [Hand-and-a-half Weapon]
+- [Elven][Elven Weapon] [Hand-and-a-half Weapon]
 - Armour of Gondolin
 
 **HEROIC ACTIONS**

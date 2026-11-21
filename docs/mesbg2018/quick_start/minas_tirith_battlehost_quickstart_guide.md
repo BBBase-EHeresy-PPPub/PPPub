@@ -23,7 +23,7 @@ search:
 
 * **Glamdring** `ACTIVE`
 
-Glamdring is an Elven-made hand-and-a-half sword. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
+Glamdring is an [Elven-made](battlehost_quickstart_rules_guide.md#elven-made-weapons) hand-and-a-half sword. Additionally, Glamdring increases Gandalf's Strength by 1 when making Strikes with it.
 
 * **Narya** `PASSIVE`
 

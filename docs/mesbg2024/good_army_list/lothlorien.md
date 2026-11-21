@@ -36,16 +36,16 @@
     - War horn and Elf Bow: 27 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Shield and Elven Spear: 2 points
-    - Elven Spear: 1 point
+    - Shield and [Elven][Elven Weapon] [Spear]: 2 points
+    - [Elven][Elven Weapon] [Spear]: 1 point
     - Shield: 1 point
     - Upgrade to Lorien Guard: 1 point
 - [**Guard of the Galadhrim Court**](../forces_of_good/elven_kingdoms.md#guard-of-the-galadhrim-court-12-points): 12 points
-    - Exchange Elven Pike for banner and Elven Hand Weapon: 25 points
+    - Exchange [Elven][Elven Weapon] [Pike] for banner and [Elven][Elven Weapon] [Hand Weapon]: 25 points
 - [**Lothlorien Warrior**](../forces_of_good/elven_kingdoms.md#lothlorien-warrior-8-points): 8 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Elven Throwing Weapons: 2 points
+    - [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon]: 2 points
     - Wood Elf Spear: 1 point
 - [**Wood Elf Sentinel**](../forces_of_good/elven_kingdoms.md#wood-elf-sentinel-25-points): 25 points
 
