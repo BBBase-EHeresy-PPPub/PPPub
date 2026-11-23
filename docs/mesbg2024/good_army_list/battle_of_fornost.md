@@ -43,7 +43,7 @@
 - [**Rivendell Warrior**](../forces_of_good/elven_kingdoms.md#rivendell-warrior-9-points): 9 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - Shield and [Elven][Elven Weapon] [Spear]: 2 points
+    - Shield and Elven Spear: 2 points
     - Shield: 1 point
 - [**Warrior of Minas Tirith**](../forces_of_good/gondor.md#warrior-of-minas-tirith-8-points): 8 points
     - War horn and shield: 26 points

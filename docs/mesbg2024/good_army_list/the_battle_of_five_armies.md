@@ -78,7 +78,7 @@
 - [**Mirkwood Elf Knight**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-knight-16-points): 16 points
 - [**Mirkwood Elf Warrior**](../forces_of_good/elven_kingdoms.md#mirkwood-elf-warrior-9-points): 9 points
     - Elf Bow: 2 points
-    - [Elven][Elven Weapon] Glaive: 2 points
+    - Elven Glaive: 2 points
     - Shield: 1 point
 
 </div>

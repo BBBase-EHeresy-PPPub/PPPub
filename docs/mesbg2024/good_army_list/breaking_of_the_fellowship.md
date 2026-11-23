@@ -44,7 +44,7 @@
 - [**Lothlorien Warrior**](../forces_of_good/elven_kingdoms.md#lothlorien-warrior-8-points): 8 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon]: 2 points
+    - Elven Throwing Weapons: 2 points
     - Wood Elf Spear: 1 point
 
 </div>

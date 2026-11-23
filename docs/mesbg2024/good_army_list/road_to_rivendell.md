@@ -38,7 +38,7 @@
 - [**Noldorin Exiles**](../forces_of_good/good_legacy.md#noldorin-exiles-9-points): 9 points
     - Banner: 25 points
     - Elf Bow: 2 points
-    - [Elven][Elven Weapon] [Throwing Weapons][Throwing Weapon]: 2 points
+    - Elven Throwing Weapons: 2 points
     - Wood Elf Spear: 1 point
 
 </div>
